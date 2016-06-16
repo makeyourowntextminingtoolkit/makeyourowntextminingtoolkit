@@ -1,2 +1,2 @@
 text files of recipes
-from http://opensourcecook.com
+from http://www.bbcgoodfood.com
