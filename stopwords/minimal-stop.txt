@@ -27,7 +27,7 @@ for
 nor
 so
 #preposition
-†as
+ as
 aboard
 about
 above
