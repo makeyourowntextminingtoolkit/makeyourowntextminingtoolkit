@@ -1,0 +1,1979 @@
+SECTION 16.2
+SUPPORT FOR INJURED SERVICE PERSONNEL
+AND VETERANS
+Contents
+Introduction ..................................................................................................................... 40
+System for providing medical care for Service Personnel .............................................. 40
+Medical care during the combat phase of operations ..................................................... 42
+Planning and preparing to provide medical care ...................................................... 42
+Arrangements for supporting mental health .............................................................. 46
+Delivery of medical care ........................................................................................... 47
+Support for injured Service Personnel and their families ................................................ 49
+Establishing a Military Managed Ward at Selly Oak hospital .................................... 49
+Improvements at Headley Court ............................................................................... 53
+Handling complex cases ........................................................................................... 56
+Support for mental health ................................................................................................ 58
+Research into the physical and psychological health of
+Operation TELIC personnel ...................................................................................... 58
+Decompression ......................................................................................................... 59
+Variations in the level of support after an operational deployment ........................... 61
+First reports from the King’s Centre study ................................................................ 62
+Reserves Mental Health Programme ........................................................................ 63
+Concerns over mental health issues, late 2006 ........................................................ 64
+Trauma Risk Management ....................................................................................... 66
+Further findings from the King’s Centre study .......................................................... 66
+Compensation ................................................................................................................. 68
+Support for veterans ....................................................................................................... 70
+Mental healthcare for veterans ................................................................................. 71
+Community mental health pilots ................................................................................ 72
+Priority treatment within the NHS .............................................................................. 72
+
+39
+
+The Report of the Iraq Inquiry
+
+Introduction
+1.  This Section addresses:
+
+•	
+•	
+
+the arrangements for providing medical care to Service Personnel;
+
+•	
+
+the support provided for veterans.
+
+the provision of medical care and welfare support for seriously injured Service
+Personnel and their families; and
+
+2.  The welfare support provided to Service Personnel and their families is addressed in
+Section 16.1.
+3.  The preparations made for repatriating the bodies of those who lost their lives
+serving on Op TELIC, how their deaths were investigated, and the support provided for
+bereaved families are addressed in Section 16.3.
+4.  The decision to deploy to Helmand province in Afghanistan, and the implications of
+that decision, are addressed in Section 9.
+
+System for providing medical care for Service Personnel
+5.  The healthcare system in the UK comprises three tiers:
+
+•	
+•	
+•	
+
+Primary care is provided at the first point of consultation, including by General
+Practitioners (GPs).
+Secondary care is provided by medical specialists who do not usually have first
+contact with patients, including in a hospital. It includes acute care.
+Tertiary care is specialised consultative healthcare, for example for cancer
+management.
+
+6.  Primary care for Service Personnel in the UK and Service base areas overseas is
+provided by the MOD’s Defence Medical Services (DMS).1
+7.  Secondary care for Service Personnel is generally provided within the National
+Health Service (NHS).
+8.  Following the closure of military hospitals in the 1990s, the Government established
+five MOD Hospital Units (MDHUs) within NHS Trusts. MDHUs are not discrete military
+wards or units, but comprise medical Service Personnel (including substantial numbers
+of Reservists) integrated into a host NHS Trust. MDHUs:
+
+•	
+•	
+
+provide accelerated access for elective referrals of Service Personnel, to meet
+operational requirements; and
+allow medical Service Personnel to develop and maintain their skills.
+
+Seventh Report from the House of Commons Defence Committee, Session 2007-2008, Medical Care for
+the Armed Forces, HC327.
+1 
+
+40
+
+16.2  |  Support for injured Service Personnel and veterans
+
+9.  In April 2001, the MOD established the Royal Centre for Defence Medicine (RCDM)
+within the University Hospital Birmingham Foundation Trust (UHBFT), as “a centre of
+military medical excellence, with academic, teaching and clinical roles”.
+10.  During the period covered by the Inquiry, the main receiving centre for casualties
+evacuated from operational theatres was RCDM Selly Oak (one of the hospitals within
+the UHBFT).2
+11.  If Selly Oak was unable to cope with the flow of casualties, the Government could
+activate the Reception Arrangements of Military Personnel (RAMP) plan, engaging the
+wider NHS in the treatment of military casualties.
+12.  Military patients requiring further rehabilitation once released from hospital might
+be referred to the Defence Medical Rehabilitation Centre (DMRC) at Headley Court
+in Surrey, the principal medical rehabilitation centre run by the Armed Forces.3 DMRC
+Headley Court also accepted direct admission from hospitals, and most combat
+casualties were referred directly to DMRC Headley Court from RCDM Selly Oak.
+13.  DMRC Headley Court provided both physiotherapy and group rehabilitation for
+complex musculo-skeletal injuries, and neuro-rehabilitation for brain-injured patients.
+14.  Operation TELIC was the first major military operation after the closure of the
+military hospitals in the 1990s. Many medical Service Personnel were therefore
+withdrawn from NHS Trusts, and military casualties were treated in NHS Trusts.
+15.  Tertiary care for Service Personnel is provided by the NHS.
+16.  From 2002, the MOD reconfigured its mental health services to focus on community
+rather than in-patient services, including by establishing 15 military Departments of
+Community Mental Health (DCMH) throughout the UK to provide out-patient mental
+healthcare for Service Personnel.4
+17.  From 2004, in-patient mental healthcare was provided by The Priory Group of
+hospitals, through a contract with the MOD.
+18.  Those changes were in line with NHS best practice, which held that individuals
+should be treated in as normal as environment as possible, close to their units, families
+and friends.
+19.  The Ex-Services Mental Welfare Society (generally known as Combat Stress) runs
+three short-stay residential treatment centres for men and women who have served in
+
+Seventh Report from the House of Commons Defence Committee, Session 2007-2008, Medical Care for
+the Armed Forces, HC327, paragraph 21.
+3 
+Paper MOD, 28 June 2010, ‘Medical Input to Ainsworth Brief’.
+4 
+Seventh Report from the House of Commons Defence Committee, Session 2007-2008, Medical Care for
+the Armed Forces, HC327.
+2 
+
+41
+
+The Report of the Iraq Inquiry
+
+the Armed Forces or the Merchant Navy. The MOD meets the cost of fees charged by
+Combat Stress for “remedial treatment” at the three centres.5
+20.  Veterans’ healthcare is generally provided by the NHS. Charities and welfare
+organisations also play an important role.
+
+Medical care during the combat phase of operations
+Planning and preparing to provide medical care
+21.  In July 2002, the MOD defined three options for a UK contribution to US-led military
+operations in Iraq:
+
+•	
+•	
+
+Package 1 – an “in-place support package” using forces already in the region;
+
+•	
+
+Package 3 – a “discrete UK package” based on deployment of an armoured
+division, in addition to the forces in Package 2.6
+
+Package 2 – an “enhanced support package” comprising Package 1 with
+additional air and maritime forces; and
+
+22.  Those three options provided the broad framework for discussions within the
+UK Government until the end of 2002.
+23.  A Strategic Medical Estimate was prepared for the MOD’s Strategic Planning Group
+on 1 September 2002.7 The Estimate – which assumed an entry into Iraq from Turkey –
+set out the expected number of Role 3 hospital admissions from an operation in Iraq, as
+a basis for medical planning:
+
+•	
+•	
+•	
+•	
+
+157 (best case) to 241 (worst case) battle casualties;
+152 (best case) to 212 (worst case) casualties from chemical warfare;
+15 percent of those exposed to biological warfare; and
+34 Disease and Non-Battle Injuries (DNBI) a day.
+
+24.  The Estimate stated that 55 individuals a week would require medical evacuation
+back to the UK.
+
+Paper MOD, 29 June 2010, ‘Veterans Mental Health’.
+Letter Watkins to Rycroft, 26 July 2002, ‘Iraq’.
+7 
+Minute MOD [junior official] to Iraq Inquiry [junior official], 22 June 2010, ‘Iraq Inquiry – Request
+for Evidence’.
+5 
+6 
+
+42
+
+16.2  |  Support for injured Service Personnel and veterans
+
+Structure of medical support to operations
+Military medical support was organised in four tiers, on the basis of the medical
+capabilities and resources available:
+
+•	
+
+Role 1 (broadly equivalent to Echelon 1 for maritime forces) medical support was
+integral or allocated to a small unit, and included the capabilities for providing
+first aid, immediate lifesaving measures, and triage.
+
+•	
+
+Role 2 support was normally provided at larger unit level, and included
+pre-hospital care.
+
+•	
+
+Role 3 support was normally provided at Division level and above. It included
+specialist diagnostic resources, and specialist surgical and medical capabilities.
+Support would usually be provided in field hospitals and (as Echelon 3) in
+hospital ships.
+
+•	
+
+Role 4 support was the definitive hospital and rehabilitative care of patients.
+That would usually be provided in the UK.8
+
+25.  General Sir Kevin O’Donoghue, Deputy Chief of Defence Staff (Health) (DCDS(H))
+from September 2002 to 2004, told the Inquiry that medical planning was “quite
+advanced” by the time he took up post.9 Staffing plans were in place and gaps in medical
+equipment and supplies had been identified, although approval had not yet been
+received to begin procurement to fill those gaps.
+26.  On 31 October, Mr Blair agreed that the UK should offer Package 3 to the US on the
+same basis as Package 2, for planning purposes.10
+27.  In early December, an MOD official invited Mr Geoff Hoon, the Defence Secretary,
+to agree that the MOD should hold detailed talks with the Department of Health (DoH)
+on the withdrawal of Regular and Reserve medical personnel from the NHS, and on
+the reception of casualties under the RAMP.11 Package 3 would require around 2,000
+medical personnel, of whom approximately 60 percent would be Reservists. The majority
+of those Reservists would be working within the NHS; their withdrawal would have a
+“local impact”. DoH was pressing the MOD for details on the withdrawal of medical
+Reservists.
+28.  The official also advised that the procurement of medical equipment through the
+Urgent Operational Requirement (UOR) mechanism to support Packages 0 (Special
+Forces only) and Package 1 was under way. The Treasury was expected to authorise
+procurement of medical equipment to support Package 2 shortly. The MOD’s Directorate
+of Capability, Resources and Scrutiny (DCRS) had not yet approved the business case
+
+NATO, Logistics Handbook, October 1997.
+Public hearing, 14 July 2010, pages 4-5.
+10 
+Letter Wechsberg to Watkins, 31 October 2002, ‘Iraq: Military Options’.
+11 
+Minute PS/VCDS to PS/Secretary of State [MOD], 6 December 2002, ‘Medical Support to Operations
+against Iraq’.
+8 
+9 
+
+43
+
+The Report of the Iraq Inquiry
+
+for the medical equipment to support Package 3; that approval, and the subsequent
+Treasury authority to commence procurement, was needed as soon as possible.
+29.  The official advised that in “about three months time” the DMS would have
+“minimised medical risk by being properly equipped in mission critical areas”.
+30.  On 11 December, Gen O’Donoghue told the Chiefs of Staff that the DoH had been
+engaged on Iraq planning, and had responded “positively and pragmatically”.12
+31.  The DCRS agreed the business cases for the medical modules (packages of
+equipment and supplies) to support Package 3 on 16 December.13 The modules were
+expected to achieve “full capability in theatre” on 15 March 2003.
+32.  At the beginning of 2003, in the light of continued uncertainty on whether Turkey
+would agree to the use of its territory by Coalition ground forces, the focus of UK military
+planning shifted from the North to the South of Iraq (see Sections 6.1 and 6.2).
+33.  The Permanent Joint Headquarters (PJHQ) assessed that the shift made the
+UK medical mission “less demanding in terms of supporting manoeuvre”.14 A revised
+Estimate specified that the Role 3 medical support required:
+
+•	
+•	
+•	
+•	
+•	
+
+the Royal Fleet Auxiliary (RFA) Argus, as the Primary Casualty Receiving Facility
+(PCRF), with 100 beds;
+two 200-bed field hospitals deployed;
+a third 200-bed field hospital in reserve;
+casualty staging flights through Cyprus; and
+the augmentation of the Princess Mary Military Hospital in Cyprus.
+
+34.  RFA Argus deployed on 15 January and was operational in the North Arabian Gulf
+by mid-February.
+35.  Mr Alan Milburn, the Health Secretary, wrote to Mr Hoon on 10 March to inform him
+that the DoH was ready to activate the RAMP, when required.15
+36.  Mr Hoon was advised by PJHQ on 14 March that an “effective medical capability”,
+scaled to the expected number of casualties, was now operational in theatre.16
+Arrangements were also in place for the aeromedical evacuation of casualties to the UK.
+
+Minutes, 11 December 2002, Chiefs of Staff meeting.
+Minute MOD/DCRS [junior official] to APS/SoS [MOD], 31 January 2003, ‘Possible Operations against
+Iraq UOR List, 31 January 2003’.
+14 
+Report PJHQ, July 2003, ‘Operation TELIC 1 – Medical Post Operation Report’.
+15 
+Letter Milburn to Hoon, 10 March 2003, ‘Military Deployment to the Middle East: the NHS’s
+Responsibilities’.
+16 
+Minute PJHQ [junior official] to PS/SoS [MOD], 14 March 2003, ‘Op TELIC – Casualty Treatment and
+Management Arrangements’.
+12 
+13 
+
+44
+
+16.2  |  Support for injured Service Personnel and veterans
+
+37.  Gen O’Donoghue told the Inquiry that by 19 March, when military operations against
+Iraq began, there remained some “shortfalls” in medical modules:
+“We had worked out what equipment we needed. We were allowed to discuss that
+informally with industry in, I think, mid-November. We weren’t allowed to place the
+orders until early to mid-December, which we did with £34m/£35m worth of UORS,
+and those came in between then and March.
+“Some items may not have arrived by March, but they came fairly shortly afterwards
+and we topped up the modules.”17
+38.  Sections 6.3 and 13 describe the development and approval of UOR business cases
+within the MOD and discussions with the Treasury on funding UORs. A mechanism
+for funding UORs was agreed between Mr Hoon and Mr Brown on 23 September; the
+mechanism did not require individual UORs to be agreed by the Treasury. Mr Hoon
+agreed that the MOD could begin discussions with industry on the provision of UORs
+on 2 December.
+39.  Brigadier Alan Hawley, Commander Medical of the Joint Force Logistic Command
+during Op TELIC 1 (which covered the initial combat phase of military operations in
+Iraq), told the House of Commons Defence Committee in October 2003:
+“From where I was, no one informed me of any clinical care that was compromised
+by a lack of equipment. I have to say that it was very tight.”18
+40.  Brig Hawley assessed that a number of factors had combined to produce that
+“rather tight, fraught situation”, including the late release of money for UORs, a new
+process for building medical equipment modules, and a change in responsibility for
+medical supply from the medical to the logistical Command.
+41.  Vice Admiral Ian Jenkins, Surgeon-General from 2002 to 2006, agreed with
+Brig Hawley’s assessment:
+“… I can categorically assure you that clinical outcomes [during Op TELIC 1] were
+uncompromised. Yes there were problems with supply, equipment and everything
+else, mobilisation of Reserves, support … but the clinical outcomes were first
+class. I can put my hand on my heart and say that nobody suffered inappropriately
+because of a lack of medical requirement.”19
+
+Public hearing, 14 July 2010, page 7.
+Defence Committee, Examination of Witnesses (Questions 1176-1179), 22 October 2003, Q 1211.
+19 
+Defence Committee, Examination of Witnesses (Questions 1176-1179), 22 October 2003, Q 1217.
+17 
+18 
+
+45
+
+The Report of the Iraq Inquiry
+
+42.  Lieutenant General Louis Lillywhite, the Director General of Army Medical Services
+from 2003 to 2005 and Surgeon General from 2006 to 2009, told the Inquiry that cost
+had not been an issue in providing medical care:
+“As far as care on operations are concerned, it is effectiveness that counts, not
+cost-effectiveness. As far as providing care for Servicemen was concerned, I was –
+I personally, and I have to say Ministers supported me – did not allow cost to be an
+issue. If it was required, it was provided.”20
+43.  A July 2003 MOD report on Op TELIC 1 stated that the medical component of
+the deployment was fully staffed, with 2,800 medical staff including 760 Reservists.21
+Trained psychiatric staff were also deployed.
+
+Arrangements for supporting mental health
+44.  Lt Gen Lillywhite described for the Inquiry, the Armed Forces’ general approach to
+identifying and tackling mental health issues at the beginning of Op TELIC:
+
+•	
+•	
+•	
+
+using initial and subsequent training to identify individuals with less ability to
+withstand stress, and to help prepare people to withstand stress;
+training commanders to identify issues as early as possible; and
+deploying field psychiatric teams to help identify those “who had true
+psychological disability, that … needed care and evacuation or simply support
+and return to duty”.22
+
+45.  Prior to deployment on Op TELIC, Royal Navy and Army units received a
+pre‑deployment presentation by a psychiatrist or community psychiatric nurse (or
+non‑medical personnel if medical personnel were unavailable).23 As the RAF deployed
+as individuals rather than formed units, it produced an equivalent booklet for all
+deploying personnel.
+46.  The Services also prepared post-deployment stress prevention packages,
+comprising two handouts and a post-operational psychological briefing.
+47.  MOD demobilisation policy at the beginning of Op TELIC required that:
+
+•	
+
+At the end of an operational tour but while still in theatre, all individuals should
+attend a presentation and be given an information leaflet covering post-traumatic
+stress reactions and the problems that might be encountered on returning home
+to families. Families should be offered a presentation and information leaflets on
+the possible after-effects of an operational deployment.
+
+Public hearing, 20 July 2010, page 73.
+Ministry of Defence, Operations in Iraq: First Reflections, July 2003.
+22 
+Public hearing, 20 July 2010, pages 54-55.
+23 
+Minute DMSD/MOD to USoS [MOD], 2 April 2003, ‘Op TELIC – Personnel Repatriated for
+Medical Reasons’.
+20 
+21 
+
+46
+
+16.2  |  Support for injured Service Personnel and veterans
+
+•	
+
+All personnel should undertake a period of “normalisation”, lasting two to three
+days, before taking post-operational tour leave. It would usually be spent on
+routine duties. This requirement stemmed from the MOD’s assessment that:
+{{ The
+
+immediate release of personnel after an operational tour could be a
+contributory factor to the likelihood of developing post-conflict syndromes.
+
+{{ Personnel
+
+should be given time to deal with issues raised by combat in the
+company of those who understood and had shared those experiences.24
+
+48.  This policy applied to Reservist as well as Regular Personnel.
+49.  Lieutenant General Anthony Palmer, Deputy Chief of the Defence Staff (Personnel)
+(DCDS(Personnel)), wrote to General Sir Mike Jackson, Chief of the General Staff,
+on 23 April 2003, advising:
+“At this morning’s Op COS meeting you mentioned concerns among some of the
+deployed Personnel that their return to the UK was being delayed because of the
+requirement for a period of ‘normalisation’ …
+…
+“Ultimately the implementation of the overall policy guidance lies with PJHQ and the
+FLCs [Front Line Commands] … However, the lessons learned from the last Gulf
+Conflict in particular have demonstrated how important it is – not least in terms of
+demonstrating due diligence – that we are rigorous in adopting formal procedures to
+reduce the risks and incidence of psychological illness.”25
+
+Delivery of medical care
+50.  The MOD reported in July 2003 that more than 4,000 British patients had been
+treated in British field hospitals, and over 800 evacuated to the UK by air, during the
+deployment and combat phases of Op TELIC.26 The majority of those patients had
+suffered disease and non-battle injuries.
+51.  Around 200 Iraqi Prisoners of War and 200 Iraqi civilians had also been treated in
+British medical facilities.
+52.  The number of admissions to Role 3 hospitals during Op TELIC 1 are set out in the
+table below.27
+
+Paper DFRC/MOD, 16 April 2003, ‘Operation TELIC – Demobilisation’.
+Minute DCDS(Pers) to CGS, 23 April 2003, ‘Op TELIC – Normalisation’.
+26 
+Ministry of Defence, Operations in Iraq: First Reflections, July 2003.
+27 
+Minute MOD [junior official] to Iraq Inquiry [junior official], 22 June 2010, ‘Iraq Inquiry – Request
+for Evidence’.
+24 
+25 
+
+47
+
+The Report of the Iraq Inquiry
+
+Table 1: Admissions to Role 3 hospitals during Op TELIC 1
+Expected number of
+admissions28
+
+Actual number of
+admissions
+
+Battle casualties
+
+157-241
+
+81
+
+Casualties from chemical warfare
+
+152-212
+
+0
+
+Casualties from biological warfare
+
+15 percent of those exposed
+
+0
+
+34 a day
+
+31 a day
+
+55 a week
+
+90 a week
+
+Disease and Non-battle Injuries
+Medical evacuations
+
+53.  In July, PJHQ assessed that medical support during Op TELIC had been “a success
+by any measure”.29 The aeromedical evacuation of casualties (by VC 10 to Cyprus then
+by civilian aircraft to the UK) had been particularly effective.
+54.  PJHQ reported that some evacuated Service Personnel were nursed in NHS
+hospitals without other military patients and had therefore lacked “peer support”.
+55.  The issue of treating injured Service Personnel in NHS hospitals, and on civilian
+wards, would come to prominence in 2006.
+56.  Lt Gen Lillywhite told the Inquiry that in the early part of Op TELIC, the MOD did
+not have the data to make an objective assessment of the effectiveness of emergency
+care.30 Analysis of data relating to later phases of Op TELIC indicated that UK medical
+support was achieving a significantly greater than expected survival rate.
+57.  Gen O’Donoghue told the Inquiry that the DMS drew two major lessons from its
+experience during the invasion:
+
+•	
+•	
+
+It needed more Regular medical Personnel, to take account of the limited time
+that any individual could spend in theatre given their NHS commitments and the
+need to retain “medical dexterity”.
+UORs allowed DMS to respond to particular threats and secure the latest
+equipment, but it needed more equipment and supplies “on the shelves” ready
+to deploy.31
+
+58.  Lt Gen Lillywhite described a number of changes in the provision of medical care
+after Op TELIC 1.32 During Op TELIC 1, the MOD generally used armoured ambulances
+to move casualties from aid posts to medical regiments and a mixture of ambulances
+and helicopters to get from (Role 2) medical regiments to hospital. From Op TELIC 2,
+the military generally used helicopters to move from the point of wounding or the aid
+post to hospital.
+As defined in the 1 September 2002 Strategic Medical Estimate. Figures for battle casualties and
+casualties from chemical warfare represent best and worse case estimates respectively.
+29 
+Report PJHQ, July 2003, ‘Operation TELIC 1 – Medical Post Operation Report’.
+30 
+Public hearing, 20 July 2010, pages 14-16.
+31 
+Public hearing, 14 July 2010, pages 16-17.
+32 
+Public hearing, 20 July 2010, pages 22-23.
+28 
+
+48
+
+16.2  |  Support for injured Service Personnel and veterans
+
+59.  Lt Gen Lillywhite told the Inquiry that he had not experienced any problems in
+securing sufficient helicopters for those medical moves.
+
+Support for injured Service Personnel and their families
+60.  The number of casualties and aeromedical evacuations relating to Op TELIC are set
+out in the table below.33 The figures for 2003, 2004 and 2005 reflect military casualties
+only; the figures for 2006 onwards reflect military and civilian casualties.
+Table 2: Casualties and aeromedical evacuations relating to Op TELIC
+Casualties
+Year
+
+Total
+
+Very Seriously Injured
+or Wounded
+
+Seriously Injured or
+Wounded
+
+Aeromedical
+evacuations
+
+2003
+
+46
+
+14
+
+32
+
+2004
+
+45
+
+14
+
+31
+
+2005
+
+20
+
+5
+
+15
+
+2006
+
+32
+
+11
+
+21
+
+701
+
+2007
+
+69
+
+24
+
+45
+
+603
+
+2008
+
+9
+
+5
+
+4
+
+433
+
+2009
+
+1
+
+0
+
+1
+
+234
+
+Total
+
+222
+
+73
+
+149
+
+1,971
+
+Establishing a Military Managed Ward at Selly Oak hospital
+61.  MOD Ministers and senior military officers made regular visits to injured Service
+Personnel, both in the UK and Iraq.34
+62.  Mr Blair made a private visit to RCDM Selly Oak in February 2005.
+63.  Mr Des Browne, the Defence Secretary, visited RCDM Selly Oak on 15 August 2006.
+64.  Lt Gen Freddie Viggers, the Adjutant General, visited RCDM Selly Oak on
+21 August.35 He reported on 22 August that:
+
+•	
+•	
+
+The quality of clinical care was excellent.
+
+•	
+
+Wounded soldiers wanted to be looked after in a military environment “within
+which they can be with their mates, be looked after by named military nurses
+
+Morale among military medical staff was “fragile”, due to under-manning, the
+joint military/civilian structure, and the physical environment.
+
+DASA, [undated], Op TELIC Casualty and Fatality Tables: 1 January 2003 to 31 July 2009. The figure
+for 2009 is to 31 July 2009. Casualty figures exclude casualties due to natural causes.
+34 
+Minute Batchelor to PS/SoS [MOD], 13 August 2006, ‘Preparatory Brief for Visit to RCDM HQ on
+Tuesday 15 Aug 06 of the Rt Hon Des Browne MP Secretary of State for Defence’.
+35 
+Minute AG to DCDS (Health), 22 August 2006, ‘Visit to Royal Centre for Defence Medicine (RCDM) –
+21 August 2006’.
+33 
+
+49
+
+The Report of the Iraq Inquiry
+
+•	
+
+and be treated like soldiers (including security)”. Enhancing the military
+environment was “essential” for soldiers’ physical and psychological recovery.
+It was iniquitous that soldiers being treated at the RCDM Selly Oak lost their
+entitlement to the Operational Welfare Package (OWP) and some other
+allowances. The OWP would provide much of the support (including TVs, DVDs
+and telephone calls) that were currently being provided from “assorted nonpublic funds” or paid for by the soldiers themselves.
+
+65.  Lt Gen Viggers identified a number of immediate actions, including:
+
+•	
+•	
+•	
+
+informing wounded personnel what the MOD was planning to do to create a
+military environment;
+starting to create that military environment, by putting soldiers together in one
+area of a ward; and
+extending the OWP to patients.
+
+66.  On 23 August, General Sir Timothy Granville-Chapman, Vice Chief of Defence
+Staff (VCDS), reported that Mr Browne had given him a “very thorough de-brief” on his
+15 August visit to RCDM Selly Oak.36 Key points included:
+
+•	
+•	
+
+Mr Browne was “very seized” with the need for injured personnel to recover in a
+military environment, and was clear that a “military ward solution” was needed.
+Mr Browne was “very much behind” Lt Gen Viggers’ recommendation that the
+OWP should be extended to injured personnel.
+
+67.  The following week, the MOD’s Service Personnel Board (SPB) considered a
+package of financial and non-financial measures which aimed to replicate the effects of
+the OWP for in-patients, whether at the RCDM or elsewhere.37 The SPB was advised
+that, although the package was “work in progress”, Gen Granville-Chapman was clear
+that the proposal “cannot bear the delay inherent in the usual staff circulations”.
+68.  The package, which included the payment of Incidental Expenses to in-patients
+and an extension to the Dangerously Ill Forwarding of Relatives (DILFOR) scheme, was
+agreed and implemented by the end of September.38
+69.  The extension of the DILFOR scheme provided for two close family members
+to visit the permanent residence of a hospitalised Service person, so that they could
+support the family members there. The DILFOR scheme was extended again in 2008
+
+Minute VCDS to DCDS(Pers), 23 August 2006, ‘SoS Visit to Headley Court and RCDM’.
+Paper MOD, 31 August 2006, ‘Welfare Support for Service In-Patients’.
+38 
+Minute Randall to Fleet-NLM DACOS PPA, 27 September 2006, ‘Extension of DILFOR Travel
+Arrangements to the Families of Service Personnel who are Hospitalized’; Minute Randall to Fleet-NLM
+DACOS PPA, 27 September 2006, ‘Payment of Incidental Expenses to Service Personnel who are
+Hospitalized’.
+36 
+37 
+
+50
+
+16.2  |  Support for injured Service Personnel and veterans
+
+to allow multiple journeys to and from a hospital if the family was unable to remain at
+the bedside.39
+70.  In early October, there was considerable press coverage of alleged verbal abuse of
+military patients at Selly Oak hospital by members of the public.40
+71.  On 24 October, the SPB assessed that action to establish a Military Managed Ward
+(MMW) at RCDM Selly Oak was “well in hand”, and that:
+“Security had been the biggest issue, and a weekly meeting was now in place
+between the local police (who have security primacy), MOD Police, RCDM and
+NHS Staffs.”41
+72.  General Sir Richard Dannatt made his first visit to RCDM Selly Oak as Chief of
+the General Staff (CGS) in December.42 He reported to Air Chief Marshal Jock Stirrup,
+Chief of the Defence Staff, that while progress was being made, the “whole ‘system’
+for dealing with those wounded on operations, once back in the UK, has been allowed
+to sink to such a woefully inadequate level that the task to rebuild it … is huge”.
+He identified two underlying problems:
+
+•	
+•	
+
+RCDM was principally focused on delivering trained medical staff, rather than
+treating the wounded.
+The MOD had implicitly accepted that the NHS level of care was “good enough”
+for Service Personnel. That was reasonable for clinical care, but not for other
+issues such as the nurse to patient ratio, access to specialist units, and food.
+
+73.  Gen Dannatt concluded that efforts to establish an MMW needed to be
+re‑invigorated and, more fundamentally, that the MOD should “operationalise” Selly Oak
+as a Role 4 military medical facility.
+74.  The MMW reached Initial Operating Capability in December 2006 and Full
+Operating Capability in July 2007, when it comprised 39 medical Service Personnel
+(compared with 12 in summer 2006):
+
+•	
+•	
+•	
+
+11 orthopaedic nurses;
+15 general nurses; and
+13 healthcare assistants.43
+
+75.  Gen Dannatt visited the MMW at Selly Oak on 22 June 2007 and reported that
+it was “at last moving in the right direction”.44 Clinical care, welfare support and
+administration were better led and co-ordinated, and there was a greater sense of
+Paper MOD, June 2010, ‘Operational Welfare Enhancements as at June 2010’.
+Daily Mail, 5 October 2006, Calls for ‘military-wards’ to protect troops from abuse.
+41 
+Minutes, 24 October 2004 Service Personnel Board meeting.
+42 
+Minute Dannatt to CDS, December 2006, ‘CGS Visit to RDCM Selly Oak: 6 December 06’.
+43 
+Paper MOD, 28 June 2010, ‘Medical Input to Ainsworth Brief’.
+44 
+Minute Dannatt to VCDS, 26 June 2007, ‘Visit to Selly Oak – 2 Jun 07’.
+39 
+40 
+
+51
+
+The Report of the Iraq Inquiry
+
+urgency, although “we should not take any satisfaction in reaching what is only the basic
+level of care that our wounded servicemen deserve”.
+76.  The challenge now was to ensure that clinical, welfare and administrative support
+was delivered to injured personnel in a holistic manner wherever they were in the
+healthcare system.
+77.  In February 2008, the House of Commons Defence Committee described the clinical
+care for Service Personnel injured on operations as “second to none”.45 The Committee
+commented, however, that “many of the improvements … are relatively recent, and
+there has been a great deal of change over the past 18 months. The MOD should not be
+complacent: they have had to learn important lessons and it is now clear that the picture
+at Selly Oak was not always so positive.”
+78.  Specific issues cited in the report included the provision of toiletries and basic
+clothing for Service Personnel, travel assistance for the families of injured Service
+Personnel, and accommodation for the relatives of parents. The report stated that
+improvements were taking place, but “some of the slack had been taken up by
+welfare organisations”.
+79.  Mr Adam Ingram, Minister for the Armed Forces from 2001 to 2007, told the Inquiry:
+“It became very clear early on that there was a problem at Selly Oak. It wasn’t the
+question of the quality of the medical care. It was the fact that they were in mixed
+[military/civilian] wards. You had soldiers who had been attended to by civilian
+nurses, civilian doctors and in the next bed there may well be a civilian injured
+person or old person.
+“That became a big issue. My instinct initially was … that if I was injured, I just
+wanted the best medical care …
+“But, as a result of a number of visits, Ministerial visits, it became abundantly clear
+we needed to do other things. So progressively, the number of military personnel,
+in terms of the medical care, changed …”46
+80.  Lt Gen Lillywhite told the Inquiry:
+“It quickly became apparent that returning casualties actually wanted to be looked
+after by the military …
+“Although at no stage … was the clinical care of casualties coming back from Iraq
+compromised, there was an unhappiness amongst the patients themselves and their
+relatives about the lack of military involvement in both their care, although actually
+much more so in their welfare support.
+Seventh Report from the House of Commons Defence Committee, Session 2007-2008, Medical Care
+for the Armed Forces, HC327, pages 3 and 13.
+46 
+Public hearing, 16 July 2010, page 49.
+45 
+
+52
+
+16.2  |  Support for injured Service Personnel and veterans
+
+“So there was a period when the plan, which was working, was not in accord with
+what people had expected or wanted. So that led to a significant period of adverse
+press and internal adverse press as well, whilst both the medical services, but
+even more so the chain of command, organised themselves to actually provide that
+military bubble around the care in the hospital.”47
+81.  Lt Gen Lillywhite told the Inquiry that, while establishing a “military bubble” – such
+as the MMW – around a military patient did not improve the quality of clinical care, “one
+should not underestimate the beneficial impact upon recovery, upon family dynamics,
+and upon psychological wellbeing of actually being content”.48 He added that the
+importance of continuing to provide a military bubble during treatment was one of the
+main lessons learned by DMS and the MOD from Iraq.
+
+Improvements at Headley Court
+82.  The facilities at DMRC Headley Court had been significantly enhanced by the end of
+Op TELIC, including through:
+
+•	
+•	
+•	
+•	
+
+the opening of a Complex Rehabilitation and Amputee Unit in June 2006: a
+contract was let to a private company that manufactured individually tailored
+prosthetics on site;49
+construction of a 30-bed temporary ward annex, which was brought into use in
+May 2007;50
+construction of a 58-bed staff and patient accommodation block (Wood House)
+in January 2009; and
+the opening of the Centre for Mental and Cognitive Health, to provide mental
+health and clinical psychology services, in spring 2009.
+
+83.  In May 2008, Ministers announced £24m in capital funding over four years for a
+Headley Court development programme. Over the first two years, this funding was
+mainly applied to the MOD contribution to the “Help for Heroes” rehabilitation complex
+(which was officially opened in June 2010) and a utilities upgrade for the whole site.
+84.  Lt Gen Lillywhite told the Inquiry that, while Headley Court was a “centre of
+excellence”, it was also “the greatest area of risk in actually managing casualties”.51
+The first risk area was its capacity:
+“We were seeing far more cases that needed in-patient care in beds than we had
+ever seen probably since Korea … and the capacity of Headley Court was not
+sufficient to have met it. Luckily, the building programme, the temporary ward, the
+Public hearing, 20 July 2010, pages 33-34.
+Public hearing, 20 July 2010, pages 35-36.
+49 
+Seventh Report from the House of Commons Defence Committee, Session 2007-2008, Medical Care
+for the Armed Forces, HC327.
+50 
+Paper MOD, 28 June 2010, ‘Medical Input to Ainsworth Brief’.
+51 
+Public hearing, 20 July 2010, pages 39-40.
+47 
+48 
+
+53
+
+The Report of the Iraq Inquiry
+
+relationships with the local planning authority, enabled us just to keep ahead of the
+surge. A close run thing, I think, but we kept ahead of the surge.”
+85.  The second risk area was the building itself:
+“Headley Court is a fine listed building, which had in essence for many years treated
+sports injuries, complex sports injuries, but not open wounds. What we have started
+doing in this conflict is starting rehabilitation ever earlier, with significant success.
+But it posed risk in the type of surroundings that they were being managed in, in that
+Headley Court was not set up to look after cases that were open wounds or complex
+medication that required ongoing non-rehabilitation specialist care.”52
+86.  The Inquiry visited Headley Court in October 2010, and spoke to a number of
+members of staff and Iraq veterans. Members of staff told the Inquiry that it would be
+helpful if they were given more forewarning about deliberate operations with potential for
+high casualties.
+87.  In early October 2006, Gen Dannatt directed Major General Mark Mans, the
+Deputy Adjutant General (DAG), to lead an assessment of in-Service welfare provision
+to see where improvements could be made.53 Gen Dannatt directed that the assessment
+should include discussions with the Soldiers, Sailors, Airmen and Families Association
+(SSAFA) on bringing back SSAFA Social Workers.
+88.  Maj Gen Mans replied to Gen Dannatt on 30 November, recommending that
+he should:
+
+•	
+
+invite the SSAFA to:
+{{ provide
+
+short-stay hostels for families at Selly Oak and Headley Court;
+
+{{ provide
+
+additional support for vulnerable Service leavers;
+
+{{ provide
+
+enhanced support for Service parents of children with disabilities
+and special needs; and
+
+•	
+•	
+
+{{ provide
+
+enhanced adoption services;
+
+enhance the current Army Welfare Service (AWS) structure with additional Civil
+Service Social Workers and Welfare Workers; and
+invite DCDS(Personnel) to organise a “wide-ranging, tri-Service, Ministeriallyled” conference to increase understanding of welfare and healthcare support to
+the ex-Service community.
+
+89.  Maj Gen Mans advised that the AWS, like the rest of the Army, was “running hot”.
+The “heavy burden” of operational commitments and increased casualties had led to
+a 20 percent increase in the AWS’s workload over the past year. Using Civil Service
+(rather than SSAFA) Social Workers would give the AWS access to an established and
+
+52 
+53 
+
+Public hearing, 20 July 2010, pages 40-41.
+Minute DAG to CGS, 30 November 2006, ‘Welfare and Aftercare’.
+
+54
+
+16.2  |  Support for injured Service Personnel and veterans
+
+trained delivery network with a national footprint. SSAFA could be best deployed to
+provide support on discrete activities to specific groups.
+90.  Lt Gen Mans advised colleagues in December 2006 that Gen Dannatt considered
+it was timely to hold a wide-ranging conference on welfare and aftercare provision
+for Service leavers and veterans, “[a]gainst a background of changing operational
+imperatives, high commitment levels and evolving welfare demands, as well as a
+steadily declining knowledge and consciousness amongst the public and in the media
+of military needs and expectations during and after service”.54
+91.  The Tri-Service Welfare Conference was held in April 2007.55
+92.  Gen Dannatt wrote in his autobiography that although no major decisions were
+taken at the conference, “all those present were left in no doubt that those of us at the
+top of the organisation [the MOD] knew what the problems were, understood them, and
+had a determined commitment to tackle them”.56
+
+The role of charitable organisations
+In the UK, charitable organisations have traditionally played an important role in providing
+care to Service Personnel and veterans, often working closely with the MOD, the NHS and
+the private sector.
+Lt Gen Lillywhite told the Inquiry that the MOD welcomed the involvement of charitable
+organisations (although it might not always agree with their approach):
+“They all have a desire to actually progress the care of Servicemen … and they
+actually contribute significantly to; one, promoting the cause of particularly the exServicemen; secondly, they are quite good at challenging us on what we are doing
+or not doing; and thirdly, they often bring a degree of expertise or approach that we
+might not otherwise have recognised.
+“… it is a complex relationship but they are an essential part, in my view, of our
+society in terms of actually ensuring that veterans in particular, but to a lesser extent,
+serving soldiers, get the appropriate care that they require.”57
+In his autobiography, Gen Dannatt described how, in 2007, charitable organisations
+became increasingly involved in military medical and welfare issues, as the number of
+casualties in Iraq and Afghanistan grew and the “fragility of the … arrangements for our
+seriously injured become painfully apparent”.58 That fragility related not to clinical care,
+which was excellent, but to the broader support that was available to injured personnel
+and their families.
+
+Paper Mans, 20 December 2006, ‘Army Welfare and Aftercare Conference Victory Services Club,
+London on Mon 16 Apr 07’.
+55 
+Minute MOD [junior official] to PS/Minister for Veterans [MOD], 5 June 2007, ‘Veterans Forum –
+15th June 2007’.
+56 
+Dannatt R. Leading from the Front. Bantam Press, 2010.
+57 
+Public hearing, 20 July 2010, pages 70-72.
+58 
+Dannatt R. Leading from the Front. Bantam Press, 2010.
+54 
+
+55
+
+The Report of the Iraq Inquiry
+
+Gen Dannatt wrote that the increasing involvement of charitable organisations was, in his
+view, not a response to “a challenge thrown down by the Government, merely evidence
+that the nation was beginning to get behind its soldiers and their families”.
+
+Handling complex cases
+93.  Lt Gen Lillywhite told the Inquiry that survival rates improved significantly over the
+course of Op TELIC.59 He also highlighted the increasing number of Service Personnel
+with “complex injuries” that would be seen in civilian life extremely rarely, and for which
+civilian medical and social services have not been set up to manage.
+94.  Lt Gen Lillywhite also told the Inquiry that since the start of the Iraq conflict, the
+MOD had taken a more flexible approach to determining the appropriate date for
+discharge, which now depended on the individual’s circumstances.60 He described
+that to be “a compassionate response to … very, very serious injuries and sometimes
+family situations”.
+95.  A particular challenge was managing the transfer of care from the military system to
+the NHS, when an individual with complex injuries was discharged.61 The military system
+was holding onto casualties for longer, and in some cases to a point where it did not
+have all the capability required to care for the individual. However, at that same point,
+the NHS was not set up to provide the comprehensive care that was required.
+Lt Gen Lillywhite commented:
+“So arranging that care package requires individual persuasion, discussion, debate,
+with the local authorities in the place where that individual is at home. Of course, the
+issue of funding can then come into it …
+“So the ongoing care of the complex casualty is throwing up issues that we have not
+seen before.”
+96.  Lt Gen Lillywhite suggested that individuals with complex injuries should be treated
+by the Government as a group with specific clinical needs, in recognition of their service
+and on clinical grounds to enable specialist care to be arranged and provided more
+consistently.62 He subsequently stated:
+“I had general agreement when I was in office that that was what was required, but
+it needs giving effect to, and there are ongoing issues that can be only addressed
+
+Public hearing, 20 July 2010, page 41.
+Public hearing, 20 July 2010, pages 52-53.
+61 
+Public hearing, 20 July 2010, pages 47-49.
+62 
+Public hearing, 20 July 2010, pages 41-42.
+59 
+60 
+
+56
+
+16.2  |  Support for injured Service Personnel and veterans
+
+in my view by treating them as a group … for example, giving them the advanced
+prostheses in the future, giving them access to new techniques that are becoming
+available as a result of research.”63
+
+Clinical developments during Op TELIC
+The MOD told the Inquiry that it had identified five major “lessons” from the provision
+of medical care during Op TELIC, and had incorporated those lessons into its medical
+procedures.64 The lessons were:
+
+•	
+
+Novel haemostatics. Experience during Op TELIC showed that control of
+catastrophic bleeding in the first 10 minutes after wounding led to a significant
+improvements in mortality and morbidity rates. New blood clotting agents,
+the Combat Applied Tourniquet, and an improved First Field dressing were
+introduced to arrest the flow of blood more effectively.
+
+•	
+
+Medical Emergency Response Teams (MERTs). Experience during Op TELIC
+led to the creation of Immediate Response Teams (IRTs), to deliver medical care
+at the point of wounding. The concept was developed into MERTs, which deliver
+consultant-led, pre-hospital emergency care.
+
+•	
+
+The introduction of a more capable “ground evacuation platform” (based on the
+Mastiff) which improved soldiers’ confidence in the casualty evacuation chain
+and significantly improved the delivery of medical care during evacuation.
+
+•	
+
+The introduction of digital imaging which allowed casualties to be diagnosed
+more quickly and more accurately.
+
+•	
+
+The development of an enhanced system for capturing medical data from
+all parts of the operational medical chain which improved casualty care and
+treatment regimes.
+
+The Inquiry asked Lt Gen Lillywhite what the MOD had learned from Op TELIC about
+trauma care.65 Lt Gen Lillywhite highlighted three areas:
+
+•	
+
+how to save life at the point of injury, including through the use of haemostatic
+dressings and massive transfusion protocols;
+
+•	
+
+how to sustain the quality of life of seriously injured individuals into the long
+term; and
+
+•	
+
+pain management.
+
+Lt Gen Lillywhite added that those advances, and others, were being transferred to civilian
+medicine.
+
+Public hearing, 20 July 2010, page 92.
+Minute MOD [junior official] to Iraq Inquiry [junior official], 22 June 2010, ‘Iraq Inquiry – Request
+for Evidence’.
+65 
+Public hearing, 20 July 2010, pages 24-27.
+63 
+64 
+
+57
+
+The Report of the Iraq Inquiry
+
+Support for mental health
+Research into the physical and psychological health of
+Operation TELIC personnel
+97.  Following a meeting of the Veterans Task Force on 10 April 2003, and as major
+combat operations in Iraq continued, Dr Lewis Moonie, the Parliamentary Under
+Secretary of State for Defence, discussed with MOD officials the value of initiating a
+long-term study of the health of Op TELIC veterans.66
+98.  In early May, an MOD official asked Dr Moonie to agree that the UK Government
+should support a large-scale programme of research on the physical and psychological
+health of personnel deployed on Op TELIC.67 The cost could not yet be precisely
+estimated, but could be around £3m.
+99.  The official commented that the UK Government had moved “far too late” to initiate
+research programmes after the 1990/1991 Gulf Conflict, leading to a loss of trust from
+veterans and the public:
+“By the time we [the Government] responded concern was widespread and the
+idea of a ‘Gulf War Syndrome’, for which there is still no scientific evidence, had
+taken root.
+“We therefore need to act early this time and put in place as soon as possible a
+robust programme of research … and respond as necessary.”
+100.  Dr Moonie agreed that recommendation.68
+101.  The MOD subsequently commissioned the King’s Centre for Military Health
+Research (the King’s Centre) at King’s College London to undertake a large-scale
+epidemiological study into the physical and psychological health of personnel deployed
+on Op TELIC.69 The “primary objectives” of the study were:
+
+•	
+•	
+
+to assess the physical and psychological health of personnel deployed on
+Op TELIC in comparison with personnel not deployed on Op TELIC; and
+to ascertain whether an “Iraqi War Syndrome” had emerged following
+deployment, similar to the Gulf War Syndrome.
+
+Minute PS/USofS [MOD] to Hd GVIU, 11 April 2003, ‘Op TELIC: Studies of Returning Service Personnel’.
+Minute MOD [junior official] to PS/USofS [MOD], 1 May 2003, ‘Op TELIC – Research into Possible
+Health Effects Post-Conflict’.
+68 
+Minute PS/USofS [MOD] to Hd GVIU, 6 May 2003, ‘Op TELIC – Research into Possible Health Effects
+Post-Conflict’.
+69 
+King’s Centre for Military Health Research, 2006, The Iraq Study 2003 – 2006: Monitoring the Physical
+and Psychological Health of Personnel Deployed on Operation TELIC 1 (Op TELIC 1): Key Results from
+Stage 1.
+66 
+67 
+
+58
+
+16.2  |  Support for injured Service Personnel and veterans
+
+102.  Secondary objectives included:
+
+•	
+•	
+
+to compare the health of Regular and Reservist Personnel; and
+to assess risk-taking behaviours (alcohol consumption and risky driving) in
+personnel deployed on Op TELIC.
+
+103.  In December 2003, the MOD published a report on lessons it had drawn from
+operations in Iraq.70 The report provided a brief update on the King’s College work,
+and concluded that “to date, we are not aware of any unusual pattern of ill-health in
+returning personnel”.
+104.  The initial findings of the King’s College research were published in May 2006.
+
+Over-Arching Review of Operational Stress Management
+The MOD completed its Over-Arching Review of Operational Stress Management
+(OROSM) in September 2004, and a second phase covering Training and
+Communications Strategies in April 2005.
+The OROSM defined six steps in operational stress management:
+
+•	
+•	
+•	
+•	
+•	
+•	
+
+pre-service entry beliefs and attitudes;
+in-service training and promotion courses for career development;
+pre-deployment;
+operational deployment;
+post-operational recovery; and
+on discharge from the Armed Forces.
+
+Implementation and delivery of operational stress management within that framework
+remained the responsibility of the individual Services.
+The OROSM clearly identified operational stress management as a management, rather
+than a medical, responsibility.
+
+Decompression
+105.  Over the course of Op TELIC, in addition to the requirement for a period of
+“normalisation” at the end of an operational tour, commanders increasingly opted for
+their units to undertake a formal period of decompression at the end of an operational
+tour, as part of post-operational stress management.71
+106.  Decompression involved “placing groups into a structured and – critically –
+monitored environment in which to begin winding down and rehabilitating to a normal,
+routine, peacetime environment”. Any individual considered to be vulnerable to any form
+
+70 
+71 
+
+Ministry of Defence, Operations in Iraq: Lessons for the Future, December 2003.
+Minute DCDS(Pers) to VCDS, July 2007, ‘Decompression’.
+
+59
+
+The Report of the Iraq Inquiry
+
+of post-operational stress should be identified, so that the appropriate support could be
+provided as the individuals passed through the demobilisation process.72
+107.  The MOD assessed that decompression was best suited to formed teams
+and units.73 Where possible, units should include individual augmentees (including
+Reservists) in their decompression arrangements. In the cases of individuals who were
+not available for the decompression period, the “clinically relevant” elements of the
+decompression process could be covered by pre-departure briefings and the subsequent
+normalisation period.
+108.  For Army units on Op TELIC, decompression usually took place in Cyprus over a
+period of 36 hours.
+109.  The first formal period of decompression took place in 2004, at the end of
+Op TELIC 3.74
+110.  By July 2007, the MOD’s policy was that formed units should have a period of
+decompression unless a formal application to opt out had been agreed by the chain
+of command.75 Air Marshal (AM) David Pocock, the Deputy Chief of Defence Staff
+(Personnel), advised Gen Granville-Chapman that, in the absence of evidence of
+“clinical efficacy”, the policy was based on the “military judgement” that decompression
+promoted adjustment and re-integration into a normal environment.
+111.  In August 2010, the MOD produced an analysis of Op TELIC from a Land
+perspective.76 The analysis stated that many units reported that individual augmentees
+and members of the TA could “fall between the cracks” and not carry out decompression.
+Some units reported that members of the TA could not remain with the unit during
+normalisation when it took place in the unit’s barracks, and therefore went home.
+112.  The MOD concluded:
+“… a debate remains to be had about whether the main effort for Reservists should
+be to return them to civilian life as quickly as possible or extend their period in
+mobilised service to effect full normalisation … What is vital is to ensure that all
+TA Personnel are given adequate transition back to civilian life, and this includes
+important information on where to get assistance if he/she needs it. POSM [PostOperational Stress Management] must continue through their chain of command.”
+
+Minute DCDS(Pers) to MA/USoS [MOD], December 2006, ‘Management of Personnel Returning from
+High Intensity Operations’.
+73 
+Minute DCDS(Pers) to VCDS, July 2007, ‘Decompression’.
+74 
+Minute DCDS(Pers) to MA/USoS [MOD], December 2006, ‘Management of Personnel Returning from
+High Intensity Operations’.
+75 
+Minute DCDS(Pers) to VCDS, July 2007, ‘Decompression’.
+76 
+Report Land Command, 31 August 2010, ‘Operations in Iraq: An Analysis from a Land Perspective’.
+72 
+
+60
+
+16.2  |  Support for injured Service Personnel and veterans
+
+Variations in the level of support after an operational deployment
+113.  The Inquiry heard from a number of veterans and witnesses that the level of
+support received by personnel returning from Op TELIC varied significantly.
+114.  The Inquiry asked Lieutenant General Sir Alistair Irwin, Adjutant General from 2003
+to 2005, whether he was aware of that variation and, if so, what was done to address it.77
+He told the Inquiry:
+“… we were aware that there were varying standards … That was obviously a worry
+because, where the standard was good, that was fine. Where the standard was not
+good, then something clearly needed to be done about it.
+“So there was a constant interchange between my people, who were producing the
+advice, the guidance, the policy, and the people who were actually delivering these
+things, which were … the welfare staffs … the field Army and the chain of command.
+“… there was, amongst us all collectively, a desire to deliver as good a product
+as we could for those who needed it but, when it boils down to it, when you have
+a complex machine that consists of over 100,000 individual people, you can be
+absolutely certain, no matter what it is that you do, that there will be people who one
+way or another don’t live up to the standard required.
+“So much to the regret of all of us involved, there were unquestionably people who
+weren’t looked after as well as they should have been. There is no doubt about that
+and each one of them represents, in some degree or another, a failure.
+“I hope, though … without in any way wanting to sound complacent about it, that that
+number was probably relatively small.”
+115.  Lt Gen Irwin agreed that those individuals were more likely to have returned to
+environments without significant military support around them, including Reservists
+returning to civilian life and Regular Personnel living away from barracks.
+116.  Vice Admiral Peter Wilkinson, Deputy Chief of Defence Staff (Personnel)
+from 2007, told the Inquiry:
+“Certainly, when we started the campaign, we were much more adept at looking
+after the large, formed units than we were on those individuals who had either gone
+out as single staff or on an augmentee basis.
+“I think, as we have gained greater experience of the operation and of the likely
+pressures on the troops, then we have become more adept and more proactive at
+looking after their likely needs.”78
+
+77 
+78 
+
+Public hearing, 21 July 2010, pages 29-31.
+Public hearing, 19 July 2010, page 24.
+
+61
+
+The Report of the Iraq Inquiry
+
+First reports from the King’s Centre study
+117.  Professor Simon Wessely and Professor Christopher Dandeker presented the early
+findings of the King’s Centre study to the 25 May 2005 meeting of the Service Personnel
+Board (SPB).79 The record of the meeting reported:
+“The initial observations suggest that for Regulars, there was no Iraqi War
+syndrome, no increases in general mental health problems and PTSD [PostTraumatic Stress Disorder], or increases in alcohol intake. These observations were
+different to Op GRANBY [the 1990/1991 Gulf Conflict]. For Reservists, there have
+been increases in general mental health problems and a doubling of PTSD, but no
+increase in alcohol intake.”
+118.  Two papers from the King’s Centre study into the physical and psychological health
+of personnel deployed on Op TELIC were published in May 2006.
+119.  The first paper concluded that for Regular Personnel, deployment to Iraq had not,
+so far, been associated with significantly worse health outcomes, apart from a modest
+effect on multiple physical symptoms.80 There was, however, evidence of a clinically and
+statistically significant effect on the health of Reservists, in relation to PTSD symptoms,
+multiple physical symptoms, and general perceptions of health.
+120.  The second paper concluded that there had been no substantial increase in
+symptomatic ill-health amongst members of the Regular Armed Forces who had taken
+part in the invasion of Iraq, and there was no pattern suggestive of a new syndrome.81
+That finding was in contrast to the situation after the 1990/1991 Gulf Conflict, when a
+substantial increase in symptomatic ill-health had been observed.
+121.  On 16 May, Mr Tom Watson, the Parliamentary Under Secretary of State for
+Defence, set the conclusions of the papers and the Government’s response in a written
+statement to Parliament:
+“… a small but measurable number of Reservists (when compared either with
+Regulars who did deploy or Reservists who did not deploy) are showing some
+increased health effects as a result of deployment – particularly for common mental
+disorders (such as anxiety, depression and stress), post traumatic stress disorder
+and fatigue. It remains the case, though, that the reported rates of indicators of
+common mental ill-health for both Reservists and Regulars are broadly of the same
+order as found in the general UK population.”82
+
+Minutes, 25 May 2005, Service Personnel Board meeting.
+Hotopf et al. The health of UK military Personnel who deployed to the 2003 Iraq war: A cohort study.
+The Lancet 367: 1731-1741 (2006).
+81 
+Horn et al. Is there an ‘Iraq War Syndrome’? Comparison of the health of UK Service Personnel after the
+Gulf and Iraq wars. The Lancet 367: 1742-1746 (2006).
+82 
+House of Commons, Official Report, 16 May 2006, column 43WS.
+79 
+80 
+
+62
+
+16.2  |  Support for injured Service Personnel and veterans
+
+122.  Mr Watson described the issue of Reservists’ mental health as the “key finding”
+of the study, advised that the Government was already monitoring the issue closely
+and looking at possible solutions, and announced that the Government would introduce
+an enhanced post-operational mental health programme for recently demobilised
+Reservists later in the year.
+123.  Lt Gen Lillywhite told the Inquiry that there might be several reasons why
+Reservists might suffer more from mental health issues:
+
+•	
+•	
+
+less preparatory training throughout their careers than Regular Personnel;
+
+•	
+•	
+
+a less robust selection process; and
+
+a less supportive environment for the families of Reservists than for Regular
+Personnel;
+an absence of “ongoing support from their peers” when Reservists left the
+military environment and returned to civilian life.83
+
+124.  The King’s Centre study was extended in 2006 into a second phase (2007 to
+2010), and broadened to include all subsequent Iraq deployments and deployments
+to Afghanistan.84
+
+Reserves Mental Health Programme
+125.  In November 2006, in response to the findings of the King’s Centre study, the MOD
+launched the Reserves Mental Health Programme (RMHP), to provide enhanced mental
+healthcare to current and former Reservists who had been demobilised since 1 January
+2003 following deployment on an overseas operation.85
+126.  The RMHP provided a mental health assessment and, if appropriate, out-patient
+treatment at one of the MOD’s Departments of Community Mental Health (DCMHs).
+In‑patient treatment was provided through the NHS.
+127.  The MOD assessed that there could be, in the worse case, a “backlog” of 680
+individuals (who had been demobilised since 1 January 2003 and who had concerns
+over their mental health), who would be referred to the RMHP when it launched.86
+Thereafter the RMHP was expected to receive 75 referrals a year.
+128.  A 2011 study concluded that the RMHP was an effective method of treatment for
+those who accessed it.87
+
+Public hearing, 20 July 2010, pages 60-61.
+Paper MOD, 29 June 2010, ‘Veterans Mental Health’.
+85 
+Surgeon General’s Policy Letter 28/06, 21 November 2006, ‘Reservists Mental Health Programme’.
+86 
+Paper MOD, 25 August 2006, ‘Recently Demobilised Reservists Mental Health Project: The Proposal
+and Business Process’.
+87 
+N Jones et al. A Clinical Follow-up Study of Reserve Forces Personnel Treated for Mental Health
+Problems Following Demobilisation. Journal of Mental Health 20 (2011).
+83 
+84 
+
+63
+
+The Report of the Iraq Inquiry
+
+Concerns over mental health issues, late 2006
+129.  Section 16.1 describes the concerns of General Sir Richard Dannatt, Chief of the
+General Staff (CGS) from August 2006, that the Army was “running hot” and the military
+covenant was out of balance.88
+130.  Gen Dannatt visited Iraq in late September 2006.89 His report to Air Chief Marshal
+Jock Stirrup, Chief of the Defence Staff (CDS), highlighted the psychological welfare of
+Service Personnel as one area where action was required:
+“I was concerned to hear that there had been 99 referrals to the Field Mental
+Health Team from 20 Bde alone during their tour. This number seems high, though
+I suspect as people start returning to Iraq (or Afghanistan) for the third or fourth time
+it will not be atypical. I am aware … that we do not equip our soldiers as well as
+we might during their pre-deployment training for the combat stress of operations.
+I am discussing this with AG [the Adjutant General, Lt Gen Viggers], and we will
+shortly be taking steps to improve our commanders’ understanding of, and ability
+to deal with, psychiatric casualties in theatre. I will ensure that this work informs
+DCDS(Personnel)’s Overarching Review of Operational Stress Management.
+“I am less sanguine, however, about what happens to psychological casualties
+evacuated back to UK – in the case of 20 Bde about 20 individuals. As I understand
+it, once in the UK these casualties are managed by The Priory, a civilian contractor,
+for psychiatric treatment. Not only do we tend to lose track of these casualties
+thereafter, but I feel intuitively that rustication from a military environment is
+hardly the best way to treat all but the very worst of our stress casualties. Indeed,
+experience from recent major conflicts tells us that soldiers suffering from combat
+stress are best treated in as military an environment as possible. Once the
+psychological props of discipline, esprit de corps, ethos and humour are removed,
+the road to recovery for stress casualties grows that much longer. Now that we have
+decided, quite rightly, to run RCDM Birmingham on more military lines,90 we should
+at least ask ourselves similar questions over our care of psychiatric casualties.”
+131.  Gen Dannatt subsequently tasked Major General Mark Mans, the Deputy Adjutant
+General (DAG), to address those concerns.91
+
+Letter Dannatt to Browne, 31 August 2006, [untitled].
+Minute Dannatt to CDS, 2 October 2006, ‘CGS’ Visit to Iraq: 26-28 Sep 06’.
+90 
+A reference to the decision to establish a Military Managed Ward at Selly Oak hospital.
+91 
+Minute DAG [MOD] to CGS, 30 November 2006, ‘Welfare and Aftercare’.
+88 
+89 
+
+64
+
+16.2  |  Support for injured Service Personnel and veterans
+
+132.  Mr Ingram visited Iraq from 30 September to 1 October.92 His Private Secretary
+reported that three concerns had been raised with Mr Ingram with regard to “psychiatric
+treatment”:
+
+•	
+•	
+•	
+
+There was an “apparent upward trend (if not surge)” in the number of people
+requiring support in the second half of six-month tours.
+The US provided “significantly more in-theatre welfare/counselling support” than
+the UK (although the US deployed personnel for longer than the UK).
+Personnel evacuated back to the UK to receive treatment at The Priory had,
+from their unit’s perspective, been “‘lost’ for weeks at a time”.
+
+133.  Maj Gen Mans replied to Gen Dannatt on 30 November, advising that:
+
+•	
+
+•	
+•	
+
+The high level of psychiatric casualties being referred to the Field Mental
+Health Team (FMHT) was a positive feature rather than a cause for concern,
+as it reflected a willingness by personnel to consult the FMHT. The number of
+personnel evacuated from theatre was lower than might be expected from the
+number of referrals to the FMHT.
+The current system for providing care for personnel evacuated from theatre with
+mental health problems (treatment at The Priory and/or the MOD’s Departments
+of Community Mental Health) conformed to psychiatric best practice. The
+recently activated RMHP would also help.
+Regarding commanders’ understanding of and ability to deal with psychiatric
+issues, the OROSM had recommended that personnel receive stress
+management training at points throughout their career. This recommendation
+had been partially implemented; full implementation required resources and
+training time.93
+
+134.  In November, Mr Derek Twigg, Parliamentary Under Secretary of State for
+Defence, expressed his concern that the MOD was not providing a “comprehensive
+rehabilitation package” for personnel returning from operations.94
+135.  AM Pocock responded in December.95 He advised that a forecast that the current
+downward trend in Road Traffic Accidents would stall, and a recent King’s Centre paper
+indicating an increased tendency towards risk-taking behaviour after deployment,
+both supported Mr Twigg’s “nagging concern” that the MOD might not be providing the
+support that personnel (including Regulars, Reservists, formed units, individuals, and
+individuals who had been medically evacuated) required.
+
+Minute PS/Min(AF) [MOD] to MA/CJO, 4 October 2006, ‘Iraq: Minister (AF)’s Visit 30 Sept – 1 Oct ’06’.
+Minute DAG to CGS, 30 November 2006, ‘Welfare and Aftercare’.
+94 
+Minute DCDS(Pers) to MA/USoS [MOD], December 2006, ‘Management of Personnel Returning from
+High Intensity Operations’.
+95 
+Minute DCDS(Pers) to MA/USoS [MOD], December 2006, ‘Management of Personnel Returning from
+High Intensity Operations’.
+92 
+93 
+
+65
+
+The Report of the Iraq Inquiry
+
+136.  AM Pocock set out the six-step process defined by the MOD’s Operational Stress
+Management Policy and highlighted the role of decompression as one element of
+step 5 (post-operational recovery). Work to evaluate the effectiveness of decompression
+was under way.
+137.  In July 2007, AM Pocock advised Gen Granville-Chapman that, following the
+2005 OROSM review, the MOD’s policy on operational stress management was “both
+comprehensive and robust”.96 The MOD had now undertaken an analysis within the
+three Services and the Civil Service of how much training for operational stress was
+available and how effective it was. This “gap analysis” indicated that the three Services
+“already do much to address [operational stress management] training needs”. A bid for
+resources to plug the gaps, including the wider implementation of the Royal Marines’
+Trauma Risk Management programme proposed by the Army, would be submitted.
+
+Trauma Risk Management
+138.  In 2008, the Armed Forces rolled out Trauma Risk Management (TRiM) in all
+three Services.97
+139.  Lt Gen Lillywhite described TRiM as a form of debriefing after a traumatic event,98
+but undertaken in peer groups rather than by an external counsellor. The person who
+was leading the debriefing was taught to identify whether their colleagues were under
+stress and might need referral elsewhere.99
+
+Further findings from the King’s Centre study
+140.  Further reports from the King’s Centre study in 2009 and 2010 reported that:
+
+•	
+•	
+•	
+
+There was no increase in mental health problems in Regular Personnel serving
+in Iraq or Afghanistan, compared with Regular Personnel not deployed to Iraq
+or Afghanistan.
+The rate of symptoms of PTSD remained “relatively low” among Regular
+Personnel deployed to Iraq or Afghanistan; estimates ranged between 1.3 and
+4.8 percent following deployment. The rate of symptoms of PTSD in the general
+UK population was approximately 3 percent.
+Between 16 and 20 percent of Regular Personnel reported common mental
+disorders, such as depression and anxiety. This was similar to the rate in the
+general UK population.
+
+Minute DCDS(Pers) to VCDS, July 2007, ‘Decompression’.
+Seventh Report from the House of Commons Defence Committee, Session 2010-2012, The Armed
+Forces Covenant in Action?, HC 762.
+98 
+Traumatic events might include sudden death, serious injury, near misses and overwhelming distress
+when dealing with disaster relief and body handling.
+99 
+Public hearing, 20 July 2010, pages 56-57.
+96 
+97 
+
+66
+
+16.2  |  Support for injured Service Personnel and veterans
+
+•	
+
+•	
+•	
+
+•	
+
+•	
+
+Alcohol misuse was a common problem among Regular Personnel deployed
+to Iraq and Afghanistan. In the first phase of the King’s Centre study (2003
+to 2006), only “combat troops” were found to have a higher prevalence of
+alcohol misuse following deployment to Iraq. Later analyses showed a higher
+prevalence of alcohol misuse among all Regular Personnel who were deployed
+to Iraq or Afghanistan, regardless of their role on deployment.
+“Combat troops” deployed to Iraq and Afghanistan showed a small but significant
+increase in the risk of symptoms of PTSD compared with non-combat troops.
+Approximately 7 percent of combat troops had symptoms of PTSD following
+deployment.
+Reservists deployed to Iraq or Afghanistan were at a higher risk of reporting
+symptoms of PTSD, when compared with Reservists not deployed to Iraq or
+Afghanistan. The King’s Centre commented that many factors could contribute to
+the excess of mental ill-health observed in deployed Reservists, including their
+relative inexperience of combat operations, lower unit cohesion, and problems in
+the home and work environment during or after deployment. The King’s Centre
+also commented that despite the introduction of measures focused on helping
+Reservists (including the RMHP and better support for Reservists’ families),
+the excess of mental health problems (specifically PTSD) observed among
+Reservists deployed to Iraq and Afghanistan was “disappointingly persistent”.
+Multiple deployments were not consistently associated with an increased risk of
+mental health problems. However, the cumulative duration of deployments did
+affect mental health; if troops deployed for more than 13 months over a threeyear period they were at increased risk of mental health problems, particularly
+an increased risk of PTSD symptoms. The King’s Centre commented that the
+finding supported the MOD’s Harmony Guidelines for Army Personnel. Ensuring
+that the Guidelines were not exceeded could help to reduce the risk of mental
+health problems in the UK’s Regular forces.
+Regular Personnel were at increased risk of alcohol misuse and PTSD
+symptoms where the tour length was extended during the deployment itself.100
+
+141.  The King’s Centre concluded:
+“Despite extended campaigns in Iraq and Afghanistan, the prevalence of mental
+disorders in the UK’s Armed Forces remains low. PTSD is in fact an issue for a
+relatively small proportion of military personnel. Of particular concern, however, are
+the high levels of alcohol misuse in Regulars, the mental health of combat troops
+and also the mental health of Reservists. These three issues require attention over
+the coming years.”
+
+Forbes et al. The Mental Health of UK Armed Forces Personnel: The Impact of Iraq and Afghanistan.
+RUSI Journal, 156: 14-20 (2011).
+100 
+
+67
+
+The Report of the Iraq Inquiry
+
+The Harmony Guidelines and mental health
+Professor Christopher Dandeker, Professor of Military Sociology at King’s College London
+and Co-Director of the King’s Centre for Military Health Research, told the House of
+Commons Defence Committee in March 2008 that:
+“… so far as our own research is concerned … I think that the Harmony Guidelines
+have been well constructed because the evidence suggests that if you stay within
+them they [Service Personnel] do not suffer; if you go beyond them there is a 20 to
+50 percent likelihood that they will suffer in terms of PTSD [Post Traumatic Stress
+Disorder]”.101
+In his evidence to the Inquiry, Air Marshal David Pocock, Deputy Chief of Defence Staff
+(Personnel) from 2005 to 2007, questioned whether Professor Dandeker was right
+to suggest that the Harmony Guidelines were an appropriate basis for assessing the
+effect of operational deployment on individuals.102 The Guidelines had been derived in
+a straightforward way from the planning assumptions used in SDR 98 (‘what operations
+have we got? How many people have we got? … that means that they can spend this long
+away’). AM Pocock said that his focus had been on the broader relationship between time
+deployed on operations and the risk of mental health issues.
+
+142.  The Inquiry asked Lt Gen Lillywhite how the MOD’s approach to mental health had
+changed over the course of Op TELIC.103
+143.  Lt Gen Lillywhite told the Inquiry that the “perennial challenge” was to overcome
+the stigma associated with mental health issues:
+“A lot of effort has gone into educating both commanders and individuals that
+psychological adverse effects is not something that needs to be hidden. We have
+not fully succeeded, nor has any other nation, and neither has the civilian population.
+Mental health continues to have a stigma amongst many that actually inhibits its
+presenting for care early.”
+144.  Lt Gen Lillywhite highlighted the introduction of a decompression period after
+an operational deployment and TRiM, as two significant developments in the MOD’s
+approach to supporting mental health.
+
+Compensation
+145.  The MOD provided compensation to Service Personnel who suffered from illness
+or injury, including mental health problems.
+
+Fourteenth Report from the Defence Committee, Session 2007-2008, Recruiting and retaining Armed
+Forces Personnel, Oral and Written Evidence (25 March 2008), HC424.
+102 
+Public hearing, 19 July 2010, pages 68-70.
+103 
+Public hearing, 20 July 2010, pages 55-57.
+101 
+
+68
+
+16.2  |  Support for injured Service Personnel and veterans
+
+146.  For illnesses and injuries caused before 6 April 2005, compensation was provided
+under two separate compensation arrangements, the War Pensions Scheme (WPS) and
+the Armed Forces Pension Scheme 1975 (AFPS 75).
+147.  In September 2003, after a consultative process which began in 2001, the
+Government announced that it would introduce a new Armed Forces Pension
+Scheme (AFPS 05) (see Section 16.1) and a new compensation scheme.104 The new
+compensation scheme would be introduced in April 2005 and would replace provisions
+under the War Pensions Scheme and attributable benefits under AFPS 75.
+148.  Mr Ivor Caplin, the Parliamentary Under Secretary of State for Defence, told
+Parliament that the new compensation scheme would have “more focus on the more
+severely disabled” and would provide a lump-sum payment for “pain and suffering” –
+a benefit that was not available under the current arrangements.
+149.  The new compensation scheme – the Armed Forces Compensation Scheme
+(AFCS) – was introduced on 6 April 2005.105 The AFCS:
+
+•	
+•	
+•	
+•	
+
+•	
+
+Provided compensation for any injury, illness or death which was caused by
+service on or after 6 April 2005. That included injury or illness which occurred
+while participating in a “service related activity”, such as organised sport.
+Covered all current and former members of the Armed Forces, including
+Reservists. For the first time, serving members of the Armed Forces could
+make claims.
+In the event of service-related death, paid benefits to eligible partners and
+children. An eligible partner was described as “someone with whom you are
+cohabiting in an exclusive and substantial relationship, with financial and
+wider dependence”.
+Provided lump sum payments and, for the most severe injuries and illnesses,
+Guaranteed Income Payments (GIPs) to provide a regular income stream.
+Those payments were made according to a comprehensive tariff reflecting, for
+lump-sum payments, the severity of the injury or illness and, for GIPs, estimated
+loss of future earnings. The most severe injuries and illnesses qualified for a
+lump-sum payment of £285,000.
+Used the balance of probabilities standard of proof, in line with similar schemes
+for civil claims.106
+
+150.  Public concern over the level of compensation paid to injured Service Personnel
+grew in autumn 2007, following press coverage of the compensation awarded to Lance
+Bombardier Ben Parkinson.107 Lance Bombardier Parkinson was severely injured in
+
+House of Commons, Official Report, 15 September 2003, column 40WS.
+Armed Forces (Pension and Compensation) Act 2004.
+106 
+Ministry of Defence, Guidance: Armed Forces Compensation: What You Need to Know, [undated].
+107 
+Ministry of Defence, Military Covenant: the Support Available to Current and Former Servicemen, 2008.
+104 
+105 
+
+69
+
+The Report of the Iraq Inquiry
+
+Afghanistan, losing both his legs and suffering a brain injury and multiple other serious
+injuries.108 The BBC reported that he had been awarded £152,150 in compensation.
+151.  In February 2008, the MOD amended the AFCS to take account of individuals
+who had suffered more than one injury in a single incident and to increase the lumpsum payments to those with the most serious multiple injuries (within the £285,000
+maximum).109 The MOD stated that, when the AFCS was developed, the MOD had
+not envisaged the “severe, multiple injury cases of the type that are now unfortunately
+occurring”. The changes enabled the AFCS to respond to that challenge.
+152.  In July 2008, within the Service Personnel Command Paper, the Government
+doubled the lump-sum payment for the most serious injuries, from £285,000 to
+£570,000.110 All payments were increased by at least 10 percent. The Government
+committed to apply those increases retrospectively to all those who had already made
+claims under the AFCS. GIPs remained unchanged.
+153.  Mr Ainsworth told the Inquiry that when he pressed for that increase, he had
+experienced “some resistance” from some officials in the MOD:
+“… I can remember a particular official amusing me no end when he told me, ‘You
+cannot, Minister, double the upfront compensation payment’ … I think he had worked
+on the scheme for quite some time and was pretty dedicated to it, and he knew
+some of the other consequences of doubling the upfront payment, [that] potentially
+it would cause disparities with other people, but my attitude was ‘So what? I can’t
+defend the level of upfront payment as it exists today and you do not have to, and
+you are not injured and we are going to double it’, and we did.”111
+154.  Further increases in lump-sum payments (though not to the maximum amount)
+and to GIPs, and changes to the operation of the AFCS, were made in 2010 following a
+review of the AFCS.112
+
+Support for veterans
+155.  In March 2001, the Government launched the Veterans Initiative to identify and
+address the needs of veterans, in close partnership with ex-Service organisations.113
+It also announced the appointment of Dr Moonie as the first Minister for Veterans’ Affairs.
+The Initiative’s priorities included:
+
+•	
+
+co-ordinating the Government’s response to issues affecting veterans;
+
+BBC, 28 August 2007, Maimed soldier ‘let down’ by Army.
+Ministry of Defence, Military Covenant: the Support Available to Current and Former Servicemen, 2008.
+110 
+The Nation’s Commitment: Cross-Government Support to our Armed Forces, their Families and
+Veterans, July 2008, Cm 7424.
+111 
+Public hearing, 6 July 2010, pages 25-26.
+112 
+Ministry of Defence, The Review of the Armed Forces Compensation Scheme, February 2010.
+113 
+Standard Note SN/IA/3070, 28 June 2005, ‘Veterans Policy’.
+108 
+109 
+
+70
+
+16.2  |  Support for injured Service Personnel and veterans
+
+•	
+•	
+
+improving communications between veterans and the Government; and
+promoting partnership between the Government and ex-Service organisations.
+
+156.  In June 2001, the War Pensions Agency was transferred to the MOD and in April
+2002 it was re-launched as the Veterans Agency, with a remit to provide financial and
+welfare support to all former members of the Armed Forces, their widows/widowers
+and dependants.
+157.  The Veterans Agency published the Strategy for Veterans in March 2003, to “help
+ensure” a coherent Government policy and a structured plan of action.114 The Strategy
+stated that services for veterans were increasingly delivered on a cross-Government
+basis, or through a partnership between Government and the private or voluntary
+sectors. Partnerships between Government and the voluntary sector should not detract
+from the Government’s responsibilities or impinge on charities’ independence.
+158.  The Veterans Agency published the Communications Strategy for Veterans in
+September 2003, in response to research commissioned by the MOD that indicated that
+many veterans, members of the general public, and “statutory and charitable service
+providers” were unaware of the services, advice and support available to veterans.115
+
+Mental healthcare for veterans
+159.  The Medical Assessment Programme (MAP) was established in 1993 to examine
+veterans of the 1990/1991 Gulf Conflict who were concerned that their health had
+been adversely affected by their service.116 The majority of cases seen by the MAP
+were mental health related and the service evolved into a mental health assessment
+programme. The MAP was extended in 2003 to include Op TELIC veterans.
+160.  The MAP provided a thorough assessment by a physician with knowledge of
+veterans’ physical and mental health issues. The physician would provide a report for
+the referring doctor including any diagnosis made and recommendations for treatment.
+161.  In July 2003, King’s College London published its final report on the delivery
+of cross-departmental support and service to veterans.117 The study (which ran from
+July 2002 to March 2003) had been commissioned by the MOD to examine key
+areas of need not already addressed under the Veterans Initiative and the Strategy
+for Veterans.118
+
+Veterans Agency, Strategy for Veterans, March 2003.
+Veterans Agency, Communications Strategy for Veterans, September 2003.
+116 
+Paper MOD, 29 June 2010, ‘Veterans Mental Health’.
+117 
+King’s College London, July 2003, Improving the delivery of cross-departmental support and services
+for veterans.
+118 
+Standard Note SN/IA/3070, 28 June 2005, ‘Veterans Policy’.
+114 
+115 
+
+71
+
+The Report of the Iraq Inquiry
+
+162.  Key findings from the study included:
+
+•	
+•	
+•	
+
+There was very little published information on the experience of UK veterans.
+
+•	
+
+There had been a decline in “civilian-military understanding”, which adversely
+affected veterans’ dealings with Local Authorities and Social Services.
+
+•	
+
+For “many (indeed most)” personnel, military life was a positive experience.
+Most veterans did not develop mental health problems as a result of serving in
+the Armed Forces. The minority of veterans who did, fared badly.
+
+Only half of veterans with mental health problems were currently seeking help.
+Of those who had sought help, many were receiving anti-depressant therapies
+but few were receiving specialist advice or treatment.119
+
+Community mental health pilots
+163.  In 2005, following recommendations on mental health services for veterans
+presented by the independent Health and Social Care Advisory Service (HASCAS),
+the MOD, in collaboration with the DoH and the Devolved Administrations, launched
+six community NHS mental health pilots.120 The purpose of the pilots was to provide
+expert, evidence-based assessment and treatment, led by a mental health therapist
+with an understanding of the issues faced by veterans, and to improve local health
+professionals’ awareness and understanding of veterans and military life.
+164.  The first pilot, in Stafford, started in November 2007; the sixth pilot, in Edinburgh,
+started in April 2009.
+
+Priority treatment within the NHS
+165.  From 1953, it was Government policy that war pensioners (not all ex-Service
+Personnel) should receive priority examination and treatment within the NHS for the
+condition for which they received a pension or gratuity.121
+166.  In spring 2007, in response to a series of Parliamentary questions on the efficacy
+of the arrangements underpinning that policy, the MOD tasked the Service Personnel
+and Veterans Agency (SPVA) to record all complaints relating to priority access.
+167.  In June 2007, a junior MOD official advised Gen Dannatt that the arrangements for
+ensuring priority access had several “inherent weaknesses”:
+
+•	
+
+The MOD owned the policy but was reliant on the DoH for delivery. The DoH did
+not regularly remind NHS clinicians and GPs of the policy. Even when clinicians
+
+King’s College London, July 2003, Improving the delivery of cross-departmental support and services
+for veterans.
+120 
+Paper MOD, 29 June 2010, ‘Veterans Mental Health’.
+121 
+Minute MOD [junior officer] to MA1/CGS, 19 June 2007, ‘War Pensioners – Priority in the NHS’.
+119 
+
+72
+
+16.2  |  Support for injured Service Personnel and veterans
+
+•	
+•	
+
+and GPs were aware of the policy, the allocation of priority treatment was
+determined by a number of factors.
+The arrangement between the MOD and the DoH had never been formalised,
+but was rather a “gentleman’s agreement”. “Priority access” had never been
+defined.
+The MOD did not regularly remind war pensioners of their right to priority access.
+
+168.  The official stated that the only alternative to the current arrangement, the
+provision of treatment in the private sector, was unlikely to be affordable. To mitigate
+the weaknesses of the current arrangement, the MOD’s current level of engagement
+with the DoH, including at Ministerial level, should be sustained. The information that
+was now being collected by the SPVA would, in the future, allow better analysis and
+“evidence-based” action.
+169.  On 23 November, Mr Alan Johnson, the Health Secretary, and Mr Derek Twigg,
+Parliamentary Under Secretary of State for Defence and the Minister for Veterans,
+announced that the NHS would provide priority treatment for all veterans (not just
+those in receipt of war pensions), whose ill-health or injuries were attributed to their
+military service.122
+170.  Lt Gen Lillywhite told the Inquiry that the arrangement on priority access was of
+limited – but some – utility to veterans.123
+171.  In July 2008, the Government published a command paper entitled The Nation’s
+Commitment: Cross-Government Support to our Armed Forces, their Families and
+Veterans (known as the Service Personnel Command Paper).124 The paper contained a
+number of measures to address the disadvantages experienced by veterans, including:
+
+•	
+•	
+•	
+•	
+•	
+
+a commitment that the standard of prosthetic limbs provided to veterans by the
+NHS, would match or exceed the standard of limbs provided to injured personnel
+by the DMS;
+a commitment to raise awareness amongst healthcare professionals of the
+healthcare needs of veterans;
+funding for supported housing for Service leavers;
+a commitment to fund tuition fees in further and higher education for Service
+leavers; and
+measures to improve veterans’ access to transport and employment
+opportunities.
+
+172.  The Inquiry’s conclusions and lessons on the care provided to Service Personnel
+are set out in Section 16.4.
+Ministry of Defence, Government boost to veterans healthcare, 23 November 2007.
+Public hearing, 20 July 2010, page 80.
+124 
+The Nation’s Commitment: Cross-Government Support to our Armed Forces, their Families and
+Veterans, July 2008, Cm 7424.
+122 
+123 
+
+73
+

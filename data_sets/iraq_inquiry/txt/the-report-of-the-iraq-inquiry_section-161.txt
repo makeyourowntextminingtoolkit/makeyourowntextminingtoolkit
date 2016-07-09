@@ -1,0 +1,2133 @@
+SECTION 16.1
+THE WELFARE OF SERVICE PERSONNEL
+Contents
+Introduction ....................................................................................................................... 2
+The military covenant and the Harmony Guidelines ......................................................... 2
+Early priorities and concerns ............................................................................................. 6
+Operational Welfare Package ..................................................................................... 6
+Review of allowances ................................................................................................. 6
+Delivery of the Operational Welfare Package ............................................................. 7
+The air bridge ..................................................................................................... 11
+Concerns over the effect of Operation TELIC on retention ....................................... 15
+Supporting Reservists ..................................................................................................... 17
+Increasing pressure on Service Personnel, 2004 to 2008 .............................................. 23
+The decision not to deploy a headquarters and brigade to Iraq, June 2004 ............ 23
+The decision to deploy troops to Afghanistan ........................................................... 25
+Concern that the Army is “running hot”, autumn 2006 .............................................. 27
+Introduction of the Operational Allowance ................................................................ 29
+Reports on recruitment and retention ....................................................................... 30
+The impact of operations on the Harmony Guidelines .............................................. 34
+Rebuilding the military covenant ..................................................................................... 35
+
+1
+
+The Report of the Iraq Inquiry
+
+Introduction
+1.  This Section addresses:
+
+•	
+•	
+•	
+•	
+
+the military covenant and the Harmony Guidelines, which provided a framework
+for the provision of welfare support to Service Personnel, including Reservists,
+and their families;
+the provision of welfare support during deployments;
+changes to the welfare support available to Service Personnel, including
+Reservists, and their families; and
+the consideration given to the effects on Service Personnel in decisions to
+deploy troops, in particular in terms of the Harmony Guidelines.
+
+2.  The provision of medical care, in particular for seriously injured Service Personnel,
+is addressed in Section 16.2.
+3.  The preparations made for repatriating the bodies of those who lost their lives
+serving on Operation TELIC, how their deaths were investigated, and the support
+provided for bereaved families is addressed in Section 16.3.
+4.  The problems caused by deployments consistently exceeding the Defence Planning
+Assumptions in respect of the provision of military equipment are addressed in Sections
+6.3 and 14.
+5.  The decision to deploy to Helmand province in Afghanistan, and the implications of
+that decision, are addressed in Section 9.
+
+The military covenant and the Harmony Guidelines
+6.  The concept of a “covenant between the Army and its soldiers” was first articulated
+in the March 2000 British Army publication, Values and Standards of the British Army.1
+The foreword to that publication, written by General Sir Roger Wheeler,2 Chief of the
+General Staff, stated:
+“As a soldier in the British Army, much is expected of you. You may be required
+to deploy on operations which will be dangerous, to obey orders which could put
+your life at risk, and to live and work for long periods under extremely challenging
+conditions. Your comrades, your commanders and ultimately the Nation will depend
+on your courage, loyalty and commitment. They will rely on you to maintain the
+highest standards of professionalism and self-discipline at all times. In short, they
+must trust you and you need to trust them.
+“This two-way obligation forms a covenant between the Army and its soldiers …
+By volunteering as a soldier in the British Army you accept that, by putting the needs
+1 
+2 
+
+Ministry of Defence, Values and Standards of the British Army, March 2000.
+General Sir Roger Wheeler was the military adviser to the Iraq Inquiry.
+
+2
+
+16.1  |  The welfare of Service Personnel
+
+of the Service before your own, you will forgo some of the rights enjoyed by those
+outside the Armed Forces. But in return you can at all times expect fair treatment,
+to be valued and respected as an individual, and to be rewarded by reasonable
+terms and conditions of service.”
+7.  The Armed Forces’ capacity to deploy and sustain expeditionary operations was
+determined by decisions in the 1998 Strategic Defence Review (SDR 98).3
+8.  SDR 98 set out the UK’s defence policy and translated that policy into detailed
+guidance for defence planning by using a number of “planning assumptions” which
+defined the required level of forces, or scale of effort, required for specific Military Tasks
+(see Section 6.1).
+9.  SDR 98 stated that the UK should be able to:
+“– respond to a major international crisis which might require a military effort and
+combat operations of a similar scale and duration to the Gulf War when we deployed
+an armoured division, 26 major warships and over 80 combat aircraft.
+or
+– undertake a more extended overseas deployment on a lesser scale (as over the
+last few years in Bosnia) while retaining the ability to mount a second substantial
+deployment – which might involve a combat brigade and appropriate naval and air
+forces – if this were made necessary by a second crisis. We would not, however,
+expect both deployments to involve war fighting or to maintain them simultaneously
+for longer than six months.”
+10.  The principal scales of effort defined in SDR 98 were:
+
+•	
+•	
+
+Small scale: “a deployment of battalion size or equivalent”.
+
+•	
+
+Large scale: deployments of division size or equivalent. The most recent
+example was the UK contribution to the 1991 Gulf Conflict, “although on that
+occasion the British division deployed with only two of its three brigades”. This
+was “the maximum size of force we would plan to be able to contribute to peace
+enforcement operations, or to regional conflicts outside the NATO area”.
+
+•	
+
+Medium scale: “deployments of brigade size or equivalent” for war-fighting
+or other operations.
+
+Very large scale and full scale: all the forces that would be made available to
+NATO to meet a major threat such as significant aggression against an ally.
+
+11.  SDR 98 also defined:
+
+•	
+3 
+
+Endurance: the likely duration of individual Military Tasks. Each Service needed
+to be able to sustain tasks for the required period, including where necessary by
+
+Ministry of Defence, Strategic Defence Review, July 1998.
+
+3
+
+The Report of the Iraq Inquiry
+
+•	
+
+rotating individual units deployed and, where units were deployed on operations,
+allowing units a period of respite between each deployment as set out in the
+Service’s Harmony Guidelines.
+Concurrency: the number of operations of a given scale of effort and duration
+that could be sustained by the force structure. SDR 98 concluded that “not to
+be able to conduct two medium scale operations at the same time would be an
+unacceptable constraint on our ability to discharge Britain’s commitments and
+responsibilities”.4
+
+12.  SDR 98 also considered the “underlying problems of under-manning and overstretch
+that we have inherited”.5 It defined overstretch as “trying to do too much with too little
+manpower”. One result was that units and individuals were separated from their families
+too often and for too long. Another was that preparation for other tasks and longer-term
+training suffered. The additional pressures from “persistent overstretch” contributed
+to higher exit rates from the Armed Forces, which exacerbated under-manning.
+SDR 98 concluded:
+“We must break this vicious circle. To do so we must match the commitments we
+undertake to our planned resources, recognising that there will always be the risk
+of additional short-term pressures if we have to respond rapidly to an unforeseen
+crisis. We need to improve recruitment and retention so that our units are properly
+manned. And we need to use our manpower in the most effective manner,
+particularly seeking to avoid unnecessary separation or disruption to individuals and
+their families.
+“The Review [SDR 98] has designed a future force structure matched to the level of
+commitments we plan to be able to undertake. These structural changes, combined
+with measures to increase recruiting and retention, will ease overstretch.”
+13.  The Harmony Guidelines described the maximum time that Service Personnel
+should spend away from their families (known as Individual Separated Service)6 and
+the minimum time that they should have between operational deployments (known as
+tour intervals).7
+14.  The MOD told the Inquiry that the Harmony Guidelines were developed to help it
+“get the work/life balance right” for Service Personnel and that, as the name suggested,
+these were for guidance and were not “rules”.
+15.  Each Service (the Royal Navy, the Army and the Royal Air Force) derived its own
+Harmony Guidelines based on an “analysis of historical norms and judgements, training
+Ministry of Defence, Strategic Defence Review – Supporting Essay 6, Future Military Capabilities,
+July 1998.
+5 
+Ministry of Defence, Strategic Defence Review, July 1998.
+6 
+The MOD defines Separated Service as “Absence from normal place of duty or lack of freedom to enjoy
+leisure at the normal place of duty/residence at place of duty”.
+7 
+Paper MOD, 25 November 2009, ‘Harmony Guidelines’.
+4 
+
+4
+
+16.1  |  The welfare of Service Personnel
+
+requirements, deployment patterns and the unique culture of each Service”, and on
+the “routine level of concurrency” that the Armed Forces were resourced and structured
+to sustain.
+16.  The table below shows the Harmony Guidelines for each Service in 2003.8
+Table 1: Harmony Guidelines, 2003
+Royal Navy
+
+Army
+
+Royal Air Force
+
+Individual Separated
+Service
+
+In any 36 month period,
+no one to exceed
+660 days.
+
+In any 30 month period,
+no one to exceed
+415 days.
+
+In a 12 month period,
+not more than 2.5% of
+personnel to exceed
+140 days.
+
+Unit tour intervals
+
+Fleet Units to spend
+maximum of 60%
+deployed in 36 months.
+
+24 month average
+interval between Unit
+tours.
+
+16 month average
+interval between Unit
+tours.
+
+17.  On 17 January 2003, Mr Blair agreed the deployment of a large scale UK ground
+force, comprising the headquarters 1st (UK) Armoured Division and three combat
+brigades, to Iraq (see Section 6.2).
+18.  There is no indication that the potential pressure on Service Personnel, including
+with respect to the Harmony Guidelines, was a consideration in that decision.
+19.  The Service Personnel Board (SPB), chaired by Lieutenant General Anthony
+Palmer, Deputy Chief of the Defence Staff (Personnel) (DCDS(Personnel)), discussed
+the effect of current operations on personnel welfare on 21 January 2003.9 The SPB
+commented that the “shift to expeditionary operations was having a significant impact on
+people”. The lesson from Operation FRESCO10 was that “wider welfare considerations
+needed to be taken into account in advance of decisions on commitments”.
+20.  Mr Adam Ingram, Minister of State for the Armed Forces (Min(AF)), told the Inquiry
+that the Government knew that the invasion of Iraq would put additional strain on the
+Harmony Guidelines:
+“… we had been involved in both Iraq and Afghanistan, still engaged in Northern
+Ireland, still having people in Cyprus, still having people in Sierra Leone and other
+parts of sub-Saharan Africa, and still having a significant lay-down in the Falklands.
+“All of that made it very difficult to meet harmony guidelines, although it varied
+between the Services – the Army under most strain … and significant key enablers
+
+Fourteenth Report from the Defence Committee, Session 2007-2008, Recruiting and Retaining Armed
+Forces Personnel, HC424.
+9 
+Minutes, 21 January 2003, Service Personnel Board meeting.
+10 
+Op FRESCO was the provision of emergency cover by the Armed Forces in the event of industrial action
+by civilian firefighters.
+8 
+
+5
+
+The Report of the Iraq Inquiry
+
+within the Army … They would be under quite considerable stretch. So medics,
+engineers, a raft of people who were under very significant strain. We knew that.
+“However, what was the solution? That [Iraq] was then something we then had
+to attend to.”11
+
+Early priorities and concerns
+Operational Welfare Package
+21.  The MOD provided an Operational Welfare Package (OWP) to deployed Service
+Personnel. Although tailored to each deployment, it typically included access to
+television and films, books, the internet, and a weekly telephone allowance.
+22.  This support was provided “consistent with the operational and environmental
+circumstances in which they [Service Personnel] are placed, and the availability of
+resources”.
+23.  In late January 2003, Admiral Sir Michael Boyce, Chief of the Defence Staff (CDS),
+asked senior officers to scrutinise the lessons identified during Op JACANA (a UK
+operation in Afghanistan in 2002), and to report on progress in addressing lessons
+relevant to Op TELIC.12
+24.  Lt Gen Palmer responded on 31 January, outlining progress towards addressing
+several of the lessons that had been identified, including the importance of a workable
+“Welfare Telephone” system early in an operation.13 The Permanent Joint Headquarters
+(PJHQ) had made this, along with the delivery of mail, their priority for Op TELIC. The
+ratio of Welfare Telephones had been increased from one to 50 to one to 30 to meet the
+needs of manoeuvre forces.
+
+Review of allowances
+25.  From 1 April 2003, all units (Regular and Reserve) from which more than five
+Service Personnel had deployed received a Family Welfare Support Enhancement
+(FWSE) of £1 per week per individual deployed.14 The FWSE was to be used by the
+unit to improve communications between families and deployed Service Personnel
+(for example by providing internet and telephone facilities) and to support welfare
+activities for families.
+26.  Lt Gen Palmer advised the Chiefs of Staff on 9 April 2003 that he had reviewed the
+MOD’s allowance policy “in support of Op TELIC Service Personnel and their families”,
+
+Public hearing, 16 July 2010, page 18.
+Minute DPSO/CDS to MA/CNS, 22 January 2003, ‘Op JACANA Lessons for TELIC’.
+13 
+MC/DCDS(Pers) to DPSO/CDS, 31 January 2003, ‘Op JACANA Lessons for Op TELIC’.
+14 
+Minute HQ Land Command [junior official] to HQ 2 Div, 25 October 2003, ‘Welfare Provision for
+Op TELIC 3 – Chain of Command Instruction’.
+11 
+12 
+
+6
+
+16.1  |  The welfare of Service Personnel
+
+and had established a close link with the Treasury to ensure a rapid response to
+individual cases.15 A number of changes had been agreed, including:
+
+•	
+•	
+•	
+
+the Longer Separated Service Allowance and Longer Service at Sea Bonus
+enhancements would be introduced earlier than planned;
+the introduction of new arrangements to support close relatives of injured
+Service Personnel hospitalised in the UK; and
+enhanced support for Service Personnel and their dependants evacuated from
+permanent posts in the Middle East.
+
+27.  The new arrangement to support close relatives of injured Service Personnel
+referred to by Lt Gen Palmer was the extension of the Dangerously Ill Forwarding of
+Relatives (DILFOR) scheme (which previously provided for two people to visit seriously
+injured Service Personnel in hospitals overseas for up to 10 days, at public expense)
+to include hospitals in the UK.16 The support provided to injured Service Personnel and
+their families is described in Section 16.2.
+28.  The MOD reported in December 2003 that the FWSE had been well received.17
+A survey undertaken by the Army Families’ Federation (AFF) suggested that
+communication between families and deployed Service Personnel was good.
+29.  The FWSE was increased from £1 to £2.20 per week per person deployed on
+1 November 2008.18 The increase meant that a typical infantry battalion could expect
+to receive in the region of £30,000 to support families during an operational tour.19
+
+Delivery of the Operational Welfare Package
+30.  Lt Gen Palmer told the Inquiry that, rather than deliver a fixed OWP for Op TELIC,
+he worked closely with PJHQ to ensure that the OWP evolved over time to reflect “the
+views from soldiers on the ground”.20
+
+The free parcel service
+On 24 March 2003, in an exchange with Mr Frank Roy in the House of Commons, Mr Blair
+undertook to try to ensure that arrangements to provide a free parcel service to troops in
+the Gulf were put in place as soon as possible.21
+The free parcel service began on 17 April.22
+
+Minute Palmer to COSSEC, 9 April 2003, ‘Personnel Issues Update – Op TELIC’.
+Minute MOD [junior official] to HQ 2 Div, 25 October 2003, ‘Welfare Provision for Op TELIC 3 – Chain of
+Command Instruction’.
+17 
+Ministry of Defence, Operations in Iraq: Lessons for the Future, December 2003.
+18 
+Defence Instructions and Notices, October 2008, ‘Amendments to the Family Welfare Grant’.
+19 
+Paper MOD, June 2010, ‘Operational Welfare Enhancements as at June 2010’.
+20 
+Public hearing, 21 July 2010, page 3.
+21 
+House of Commons, Official Report, 24 March 2003, column 28.
+22 
+Letter Davies to Cannon, 19 February 2004, ‘Iraq: Termination of Free Postal Service’.
+15 
+16 
+
+7
+
+The Report of the Iraq Inquiry
+
+Lt Gen Palmer told the Inquiry:
+“… free parcels, two kilograms, engraved on my heart … this was a debate about
+how far we could stretch the logistic operation. I mean, delivering two kilograms of
+parcels to everybody in theatre over distances with … not enough helicopters for
+operations, let alone for administration, was a real issue, but it was critical for the
+families back in the UK that they could send to their loved ones … things that would
+remind them of home.” 23
+The free service was terminated in April 2004.24 In a written statement to Parliament,
+Mr Ingram stated:
+“The provision of a free packet service recognised the difficult conditions Service
+Personnel were operating in and that it was not possible to provide the full spectrum
+of welfare support normally available to Service Personnel on operations. Whilst
+southern Iraq is not yet a benign environment, the level of welfare support and the
+facilities available on Operation TELIC are now comparable to those provided in other
+operational theatres.
+“It has therefore been decided that from 8 April 2004 … this free service will cease.”
+
+31.  Mr Ingram visited Iraq from 13 to 15 May 2003.25 His Military Assistant reported that
+the Minister had been impressed by the morale of the troops, but he had been briefed
+that it could be undermined by (unspecified) small-scale and easily rectified “irritants”.
+Mr Ingram’s Military Assistant concluded:
+“The Minister would be disappointed if we lost opportunities for ‘quick wins’ here
+(though he appreciates that troops in theatre examine these issues from one end
+of the telescope).”
+32.  On 22 May, Major General Robert Fry, Deputy Chief of Joint Operations
+(Operations) (DCJO(Ops)), listed those irritants and the actions being taken to rectify
+them in a report for Air Chief Marshal (ACM) Sir Anthony Bagnall, Vice Chief of Defence
+Staff (VCDS):
+
+•	
+•	
+
+insufficient portaloos (more could be supplied);
+
+•	
+
+a desire for a second Op TELIC medal covering Phase IV operations26 (being
+discussed by Chiefs of Staff);
+
+insufficient fresh rations (sufficient fresh rations were available; commanders
+had chosen to mix these with ration packs);
+
+Public hearing, 21 July 2010, page 27.
+House of Commons, Official Report, 27 February 2004, column 69WS. The free parcel service was
+reintroduced in November 2007.
+25 
+Minute MA/Minister (AF) [MOD] to Sec(O) – Iraq, 16 May 2003, ‘Minister (AF) Visit to Iraq’.
+26 
+Phase IV is the military term for the post-conflict phase of operations.
+23 
+24 
+
+8
+
+16.1  |  The welfare of Service Personnel
+
+•	
+•	
+•	
+•	
+
+the recent decision to withdraw the second free welfare families warrant
+(that decision had been waived for Land forces deployed on Op TELIC);
+the troops’ desire to be able to send parcels back to their families without charge
+(that facility was not available for any other operation, and would not be provided
+for Op TELIC);
+inadequate access to TVs (the absence of a final UK “disposition plan” for
+Phase IV and the low standard of camp infrastructure, and in particular the lack
+of reliable power supply, was hindering the installation of equipment); and
+inadequate access to the internet (equipment was being rolled out).27
+
+33.  Maj Gen Fry concluded that sufficient weight was being given to providing support
+for deployed Service Personnel, who would see “incremental improvements” in the
+delivery of the OWP and infrastructure.
+34.  Mr Ingram told the Inquiry that he saw his role as one of getting “ground truth”
+of what was happening in Iraq, including by talking to soldiers in theatre.28
+35.  A small team from the Army’s Personnel Directorate and PJHQ visited MOD civilian
+staff in Iraq from 18 to 20 May.29 They reported that comments on the OWP:
+“… ranged from a claim that there wasn’t a package in existence to the fact that in
+reality it didn’t run smoothly. At Basra there was only one internet terminal available
+from 0000 to 0700 for [military and civilian] staff to send messages home …
+Telephone facilities were similarly limited …”
+36.  The team reported that other issues such as the availability of exercise equipment
+were being addressed by local purchases in theatre.
+37.  The 28 May meeting of the SPB was advised that Service Personnel were currently
+living in “basic tented accommodation, existing Iraqi buildings, or fighting vehicles”.30
+Tier 1 facilities (hard-skinned or tented accommodation with air-conditioning) should
+be fully deployed by September and Tier 2 facilities (hard-skinned, semi-permanent
+accommodation) by December. A limited OWP, comprising telephone facilities, British
+Forces Post Office mail, British Forces Broadcasting Service radio and an electronic
+letter service, was currently available in all locations; internet and TV were available
+in some locations. PJHQ intended to provide the full OWP in all locations.
+38.  The SPB was also advised that a rest and recuperation (R&R) package would
+be introduced once roulement and force alignment had taken place; “Operational
+Stand‑Downs” would begin on 30 May.
+
+Minute Fry to MA/VCDS, 22 May 2003, ‘Minister(AF) Visit to Iraq’; Email MA/DCDS (Personnel) to
+MA/VCDS, 29 May 2003, ‘Minister (AF) Visit to Iraq’.
+28 
+Public hearing, 16 July 2010, pages 13-14.
+29 
+Minute PS/Personnel Director to Brooke, 22 May 2003, ‘Visit to Iraq 18th – 20th May 2003’.
+30 
+Minutes, 28 May 2003, Service Personnel Board meeting.
+27 
+
+9
+
+The Report of the Iraq Inquiry
+
+39.  Lt Gen Palmer told the Inquiry that, initially, R&R was taken in theatre but, as the
+situation stabilised and in response to the needs of Service Personnel and their families,
+this was extended to allow Service Personnel to travel back to the UK.31 Lt Gen Palmer
+highlighted the costs of the initiative, particularly in terms of removing Service Personnel
+from their roles and the demand placed on air transport.
+40.  The R&R allowance established in Iraq was two weeks, including travel time from
+and to Iraq.
+41.  Air Marshal (AM) David Pocock, Deputy Chief of Defence Staff (Personnel) from
+2005 to 2007, told the Inquiry that the practice of flying Service Personnel back to the
+UK for R&R had evolved over the first years of Op TELIC:
+“… as far as I can tell, there was never a careful policy discussion about what we
+were going to do and why. It started off as a means of getting the troops away from
+particular areas of danger, hardship. They could have a break, clean up, a rest and
+go back again, and then it gradually evolved from moving back from the actual areas
+of fighting to perhaps out of the country …
+“… it was never actually, so far as I could tell a formal policy. Like Topsy, it grew.”32
+42.  The demands placed on air transport by that practice are considered later in this
+Section.
+43.  Lt Gen Palmer visited Iraq in early June 2003. He reported to General Sir Michael
+Walker, Chief of the Defence Staff, on 20 June that the OWP had been “well received”.33
+The main effort now was to provide air-conditioned accommodation as temperatures
+in Iraq rose.
+44.  An MOD official advised Mr Ingram on 27 June that many of the “welfare irritants”
+had already been resolved.34 In general, problems in delivering the OWP had been
+caused by the rapid pace of operational deployment. The advice concluded:
+“Overall, the OWP policy has held up well given the scale of operation and the
+specific demands imposed in Op TELIC.”
+45.  The MOD reported in July that, owing to the austere nature of the deployment and
+the lack of infrastructure in some locations, the OWP had been implemented in stages.35
+The first stage comprised:
+
+•	
+
+air letters (commonly known as Blueys) delivered electronically;
+
+Public hearing, 21 July 2010, pages 22-23.
+Public hearing, 19 July 2010, page 17.
+33 
+Minute DCDS(Pers) to DPSO/CDS, 20 June 2003, ‘Op TELIC – Theatre Visit Report’.
+34 
+PS/VCDS to PS/Min(AF) [MOD], 27 June 2003, ‘Minister (AF) visit to Iraq – Updated [sic] on
+Welfare Irritants’.
+35 
+Ministry of Defence, Operations in Iraq: First Reflections, July 2003.
+31 
+32 
+
+10
+
+16.1  |  The welfare of Service Personnel
+
+•	
+•	
+•	
+•	
+•	
+•	
+
+mail;
+welfare telephones;
+newspapers;
+radio broadcasting;
+limited internet access; and
+basic shop facilities.
+
+46.  By July, the OWP was being extended to provide additional internet access, fitness
+equipment, TV broadcasting and free books.
+47.  Lt Gen Palmer told the Inquiry that, over time, the MOD delivered a “very
+good” OWP.36
+48.  Lieutenant General Sir Alistair Irwin, the Adjutant General from 2003 to 2005,
+added that a key factor in delivering the OWP was managing and meeting increasing
+expectations.37
+49.  The Inquiry heard mixed reports on the OWP from families and veterans of
+Op TELIC. Limited access to telephones early in the campaign and the fragility of the
+air bridge between Iraq and the UK were particular sources of frustration.
+50.  The Inquiry put those concerns to Mr Ingram.38 On the issue of limited access
+to telephones, he told the Inquiry:
+“… at the beginning of a war phase, and shortly after it, it is very hard to deliver
+full communication and infrastructure. Indeed, even the military infrastructure,
+ie in terms of operational demand, was pretty fragile as well.
+“So you couldn’t honour the commitment in terms of the amount of time that each
+soldier … would have to phone back to their family, but as the lay-down became
+more established, and investment could then be made in communications, and when
+we had the communications infrastructure, we could then improve the availability
+and the time …”
+THE AIR BRIDGE
+51.  In January 2004, in response to concerns over the increasing threat to Air Transport
+(AT), the Chiefs of Staff agreed that only aircraft fitted with a Defensive Aids Suite
+(DAS)39 should fly into Basra.40
+
+Public hearing, 21 July 2010, page 12.
+Public hearing, 21 July 2010, pages 13-14.
+38 
+Public hearing, 16 July 2010, pages 21-22.
+39 
+A Defensive Aids Suite (DAS) is a military aircraft system which acts to defend the aircraft from attack.
+A DAS typically comprises chaff, flares, and electronic countermeasures combined with equipment to
+detect threats.
+40 
+Minutes, 28 January 2004, Chiefs of Staff meeting.
+36 
+37 
+
+11
+
+The Report of the Iraq Inquiry
+
+52.  General Sir Mike Jackson, Chief of the General Staff, visited Iraq from 10 to
+13 October 2005.41 In his report to Gen Walker, he set out the heavy demands on the
+UK’s Support Helicopter (SH) fleet, and continued:
+“If our SH capability is inadequate, our AT fleet is worse. The air bridge to theatre is
+now so fragile that sustaining an efficient R&R schedule is nigh on impossible. Quite
+apart from the morale effect of inordinate delays, the difficulties with R&R are now
+beginning to impact significantly on the operational effectiveness of the Division.
+The situation is so bad that I am asking HQ Land to re-examine, at least in principle,
+whether we might not re-adopt 4 month operational tours without R&R. Since I
+suspect there will be very many reasons against this – continuity and our current
+training cycle to name but two – we really need to take stock of our AT capability
+in the round, especially in light of our impending commitment to Afghanistan.”
+53.  Later that month, the Chiefs of Staff “noted” that the UK’s AT capability was
+“unable to meet current and prospective demands”, and that General Sir Timothy
+Granville-Chapman, Vice Chief of Defence Staff, would undertake a stocktake and
+scope increased availability.42
+54.  Gen Granville-Chapman reported to Gen Walker in December that the main
+constraint on AT was the lack of DAS-equipped passenger aircraft to support current
+operations.43 The decision that only DAS-equipped aircraft could carry passengers to
+Iraq and Afghanistan meant that only three RAF TriStar aircraft were currently available
+to support the air bridge.
+55.  Gen Granville-Chapman described the work that was under way to address the
+shortfall in AT availability. A further three TriStar would be fitted with DAS, and a fourth
+for DAS. Those aircraft would become available between May 2006 and February 2007.
+The MOD had chartered civil aircraft to shuttle between the UK and a “hub” at Al Udied
+airbase in Qatar, reducing the burden on TriStar. The first charter flight had been on
+6 December.
+56.  The deployment of additional forces to Afghanistan in 2006 would “demand a surge
+in AT requirement”. To handle that demand, the MOD was exploring the possibility of
+establishing a Forward Mounting Base (FMB) for TriStar that shortened the transit time
+to and from theatre.
+57.  Gen Granville-Chapman also addressed a number of “more radical approaches”
+including using civil aircraft fitted with DAS to fly into theatre, and procurement of
+additional aircraft. On the latter, the only viable option that would make a difference to lift
+capacity within two years was the early acquisition of a fifth C-17 (currently scheduled
+
+Report CGS to CDS, 18 October 2005, ‘CGS Visit to Iraq: 10-13 Oct 05’.
+Minutes, 26 October 2005, Chiefs of Staff meeting.
+43 
+Minute VCDS to CDS, 12 December 2005, ‘Air Transport Support to Operations’.
+41 
+42 
+
+12
+
+16.1  |  The welfare of Service Personnel
+
+for procurement in 2011). The MOD was considering “innovative finance arrangements”,
+including leasing arrangements.
+58.  Gen Granville-Chapman provided Gen Walker with an update on the stocktake on
+6 January 2006.44 After further work, the early acquisition of a fifth C-17 remained a
+possibility. The “less good news” was that the Treasury now contended that fitting the
+additional TriStar with DAS was not a legitimate charge to the Reserve, given that the
+“hub and spoke” arrangement using Al Udied was now operational. Officials advised that
+the MOD should continue fitting DAS “at risks”.
+59.  In his post-operational tour report on 18 January, Major General James Dutton,
+General Officer Commanding Multi-National Division (South-East), wrote:
+“The reliance on only 3 suitably equipped TriStar C-2 aircraft to support the UK-BAS
+[Basra Air Station] air bridge task has again created significant problems, especially
+as one aircraft has been in long term major maintenance for most of the period and
+the others have occasionally been required for Op HERRICK tasks … consequently
+there is an indisputable need for additional Defensive Aids Suite (DAS) equipment
+for air transport assets.”45
+60.  Gen Walker directed on 24 January that the MOD should “explore innovative
+funding operations for the early procurement of a fifth C-17 aircraft”.46
+61.  In April 2006, the MOD’s Directorate of Operational Capability (DOC) published
+its third report of Op TELIC lessons, covering the period from 1 December 2004 to
+28 February 2006.47 The report is described in detail in Section 14.1.
+62.  On AT, the DOC reported:
+“The availability of air transport assets became critical in October 2005. The strategic
+and tactical requirement for all aircraft to be equipped with Defensive Aids Suite
+(DAS) in theatre has compounded the problem. The air bridge to theatre became so
+fragile that the Rest and Recuperation (R&R) plot became close to untenable in Oct/
+Nov 2005 … This affected morale and the operational effectiveness of the British
+personnel in MND(SE). The situation became so pronounced that HQ LAND was
+tasked to look at initiatives that would allow a shortened tour length without R&R …
+the Op HERRICK deployment [to Helmand province, Afghanistan] brings with it more
+pain rather than respite and, as a result, the imperative to improve our AT capacity is
+stronger than ever.”
+
+Minute VCDS to CDS, 6 January 2006, ‘Air Transport Support to Operations’.
+Report HQ MND(SE) to PJHQ – J3, 18 January 2006, ‘Progress Report – Operation TELIC’.
+46 
+Minutes, 24 January 2006, Chiefs of Staff meeting.
+47 
+Report DOC, 4 April 2006, ‘Operation TELIC Lessons Study Volume 3’.
+44 
+45 
+
+13
+
+The Report of the Iraq Inquiry
+
+63.  The DOC recommended:
+“There is a requirement to assess and improve our AT capacity as an operational
+priority. The UK should consider civilian air charter to off-load capacity …”
+64.  The House of Commons Defence Committee visited Iraq from 4 to 8 June.48 On the
+air bridge, the Committee wrote:
+“During our visit to Iraq, we heard that air bridge reliability remained a key concern
+among UK Service Personnel. We witnessed at first hand the disruption caused
+by delays of flights in and out of, and around, theatre. The difficulties stem from
+problems both with the commercial service between the UK and Al Udeid and with
+the C-130 Hercules in theatre and the availability of RAF air bridge TriStar, VC10
+and C-17. Troops travelling home on leave are frequently delayed and this reduces
+their time on leave.”
+65.  The Defence Committee concluded:
+“It is unacceptable that Servicemen and women, many of whom are serving
+greatly in excess of Harmony Guidelines, should have their leave disrupted
+by the MOD’s inability to provide a reliable air bridge.”
+66.  The MOD ordered a fifth C-17 aircraft in July 2006, and took delivery of that aircraft
+in February 2008.49
+67.  In its 2009 report entitled Support to High Intensity Operations, the National Audit
+Office (NAO) wrote:
+“The Department’s [the MOD’s] air transport fleet is small, consists of aircraft types
+that are old by comparison to modern civilian fleets and is therefore susceptible to
+mechanical breakdown. In addition, the integration of modern Defensive Aids Suites
+on to these aircraft has caused reliability problems. The availability of the TriStar
+fleet, the Department’s main passenger carrying aircraft, has been low. Of the seven
+TriStar passenger-carrying aircraft, on average 45.5 percent since January 2006,
+have been unavailable to support operations. Significant effort by those responsible
+for the air transport fleet has enabled the Department to deliver the overall task but
+the air bridge remains under considerable strain.”50
+68.  On the fragility of the air bridge, Mr Ingram told the Inquiry:
+“The air bridge … was very fragile. We were dealing with ageing aircraft, you just
+need an aircraft to break down for a few hours and the whole thing is thrown into
+dislocation.
+Thirteenth Report from the Defence Committee, Session 2005-2006, UK Operations in Iraq, HC1241,
+paragraph 69.
+49 
+www.raf.mod.uk, 22 February 2008, RAF Prepares To Receive Fifth C-17 Aircraft.
+50 
+National Audit Office, Support to High Intensity Operations, 14 May 2009.
+48 
+
+14
+
+16.1  |  The welfare of Service Personnel
+
+“It is why … the procurement of commercial aircraft was then put in place, but they
+could break down as well, and there was nothing more frustrating than hundreds of
+personnel hoping to get home and then being contained somewhere else, whether
+it was Cyprus or Oman or Kuwait or wherever …
+“These were real issues, and there were not easy solutions to it.”51
+69.  AM Pocock, DCDS(Personnel) from 2005 to 2007, told the Inquiry:
+“The first time I went out to Iraq … the subject [the air bridge] was raised with me
+more often than anything else and, when I came back, I immediately went to see
+the Chief of the Air Staff, and he was already aware of it, but I made plain to him
+that, apart from it being a morale issue generally, it was disastrous for the reputation
+of the Royal Air Force. He understood completely.”52
+70.  AM Pocock told the Inquiry that the problems with the air bridge were very well
+known, and were regularly discussed in Chiefs of Staff meetings.53 He commented that
+“if there had been a solution, it would have been implemented”.
+
+Concerns over the effect of Operation TELIC on retention
+71.  In late April 2003, Lt Gen Palmer wrote to Rear Admiral (RAdm) Timothy
+McClement, Assistant Chief of the Naval Staff, Major General David Richards, Assistant
+Chief of the General Staff, and Air Vice Marshal (AVM) Philip Sturley, Assistant Chief
+of the Air Staff, requesting a subjective assessment of the likely impact of current
+operations on retention over the short, medium and long term, and how retention could
+be improved.
+72.  RAdm McClement assessed that Op TELIC would have a positive impact on
+retention in the Royal Navy in the short term (though there might be a slightly negative
+impact in some areas, including the Royal Marines).54 A key factor in retention would
+be ensuring that Service Personnel had a period of “relative programme stability” after
+operations, to enable them to take leave and spend time with family and friends.
+73.  Maj Gen Richards assessed that there would be a “net benefit” on retention in the
+Army.55 However, much would depend on how the recovery and recuperation phases
+were managed; the demobilisation of Reservists required particular attention. Measures
+which would improve retention included:
+
+•	
+
+recognition, possibly in the form of a memorial service and early agreement
+on the processes for Honours, Awards and medals;
+
+Public hearing, 16 July 2010, pages 23-24.
+Public hearing, 19 July 2010, pages 16-17.
+53 
+Public hearing, 19 July 2010, page 18.
+54 
+Minute ACNS to DCDS(Pers), 7 May 2003, ‘Recuperation – People Workstrand’.
+55 
+Minute ACGS to MA/DCDS(Pers), 7 May 2003, ‘Recuperation – People Workstrand’.
+51 
+52 
+
+15
+
+The Report of the Iraq Inquiry
+
+•	
+•	
+
+minimising the impact on Harmony Guidelines by reducing other commitments;
+
+•	
+
+establishing and resourcing appropriate immediate and long-term arrangements
+for stress management, including for Reservists; and
+
+•	
+
+rolling out the OWP developed for Op TELIC – which had been well received –
+to other operations;
+
+improving accommodation.
+
+74.  Maj Gen Richards also highlighted measures which would improve the retention
+of Reservists, including:
+
+•	
+•	
+
+greater consistency with Regular Service Personnel, in terms of eligibility for
+operational benefits, allowances and medals; and
+ensuring that no Reservist was financially disadvantaged because of Op TELIC.
+
+75.  AVM Sturley assessed that “the combined effect of [Ops] FRESCO, TELIC and
+our other commitments has hurt”.56 AVM Sturley identified a number of measures to
+improve retention, the first of which (for Regular Service Personnel) was to reduce future
+commitments.
+76.  Lt Gen Palmer told the Inquiry that, as DCDS(Personnel), his “major preoccupation”
+was to reduce the number of troops in Iraq quickly, to reduce the pressure on individual
+Service Personnel and the Harmony Guidelines.57 He emphasised that those efforts
+were always in consultation with PJHQ and never at operational risk.58
+77.  Commodore Noel Preston-Jones, Director Service Personnel Policy, briefed
+the 28 May 2003 meeting of the SPB that the responses from RAdm McClement,
+Maj Gen Richards and AVM Sturley “had, inter alia, highlighted the need for a reduction
+in commitments”.59 The assessments of the impact of current commitments on retention
+varied. Overall, the Royal Navy and Army anticipated a net benefit from Op TELIC,
+while the RAF and Defence Medical Services anticipated a net loss. The emerging
+conclusions of the “people” work strand of the Recuperation Initiative included the
+need to relieve pressure on pinch points,60 “for example by reducing commitments,
+resolving under manning or adjusting the force structure”.
+78.  At its 28 May meeting, the SPB also discussed priorities for the MOD’s Short Term
+Plan for 2004 (STP04),61 and in particular the “significant structural under-funding across
+the people area”. Lt Gen Palmer concluded that any STP bid needed to be underpinned
+
+Minute ACAS to DCDS(Pers), 7 May 2003, ‘Recuperation – People Workstrand’.
+Public hearing, 21 July 2010, page 75.
+58 
+Public hearing, 21 July 2010, page 79.
+59 
+Minutes, 28 May 2003, Service Personnel Board meeting.
+60 
+The MOD defines pinch point trades as trades or areas of expertise where there is not enough trained
+strength to perform operational tasks without encroaching on the time provided between deployments for
+recuperation, training and leave.
+61 
+The Short Term Plan forecast MOD spending on operational costs, looking four years ahead.
+56 
+57 
+
+16
+
+16.1  |  The welfare of Service Personnel
+
+by evidence “for example to demonstrate the link between retention and improved
+accommodation … The process had to be placed on a more scientific basis.”
+79.  In advance of the 26 November meeting of the SPB, Lt Gen Palmer circulated a
+personal “think-piece” on STP04.62 It described STP03 as “relatively good for personnel”,
+although “recruiting and retaining Service Personnel is becoming increasingly difficult
+and expensive as demographics change, expectations rise and technology evolves”.
+80.  Looking ahead to STP04, Lt Gen Palmer assessed that, while the Services had
+made significant progress towards achieving manning balance targets and premature
+voluntary retirement (PVR) rates remained relatively low, “the current level of operational
+commitments … is threatening to undermine or reverse the progress made”.
+81.  Emerging problems were:
+
+•	
+•	
+•	
+•	
+
+The Army reported that Op TELIC was having a “marked impact” on tour
+intervals, rendering it unable to meet Harmony/Separated Service Guidelines.
+The RAF reported a significant worsening in their figures for Separated Service.
+Across all three Services, pressure on pinch point trades was increasing.
+Medical services continued to be a specific concern.
+The number of Reservists available for mobilisation was falling.
+
+82.  Lt Gen Palmer concluded that the MOD’s forthcoming planning round was likely
+to be particularly challenging; the SPB would need to give direction on which personnel
+priorities should be “reprieved”.
+83.  Mr Ingram visited Basra in December 2003.63 He reported to Mr Geoff Hoon, the
+Defence Secretary, that, while UK Armed Forces were in “excellent shape”, he had
+concerns for the future:
+“Some units in Iraq have had exceptionally busy operational and training cycles
+before deployment … I detected signs that the pressures of repeated long
+separations may be building in some areas. We will need to manage this carefully
+in the New Year …”
+
+Supporting Reservists
+84.  There are two key types of Reserve Forces:
+
+•	
+
+members of the Volunteer Reserve Forces (VRF) who serve within VRF units
+and usually train in the evenings, at weekends and for at least two weeks each
+year; and
+
+Paper DCDS(Pers), 17 November 2003, ‘STP 04 – A Paper by DCDS(Pers)’.
+Letter Ingram to Secretary of State [MOD], 30 December 2003, ‘Visit to UK Forces in Basra
+17‑19 December 2003’.
+62 
+63 
+
+17
+
+The Report of the Iraq Inquiry
+
+•	
+
+members of the Regular Reserve, who are ex-members of the Regular Forces
+who still have a liability for mobilisation.64
+
+85.  The VRF comprises the Royal Naval Reserve, the Territorial Army (TA), the
+Royal Marines Reserve and the Royal Auxiliary Air Force.
+86.  In 2003, there were approximately 40,000 members of the VRF, of whom 35,000
+were in the TA.65
+87.  The Reserve Forces have three primary roles:
+
+•	
+•	
+•	
+
+to augment Regular Forces for enduring operations;
+to provide additional capability for large scale operations; and
+to provide specialist capability.
+
+88.  Lieutenant General Mark Mans, the Deputy Adjutant General from 2005 to 2008,
+told the Inquiry that for Op TELIC, as for other operations, Reservists were:
+“… more often than not mobilised as individuals to support regular Army units.
+Sometimes they were mobilised in teams of 10 to 20, but that was quite unusual.”66
+89.  Lt Gen Mans described the welfare support provided to members of the TA:
+“As far as the support to the Territorial Army, when they were mobilised, they got
+exactly the same as the Regulars. So there was no distinction whatsoever. As far
+as support to their families, the same applied, but of course, it is more difficult,
+because the families of Territorial [Army] soldiers are spread far and wide …
+“… when they are mobilised, the [Territorial Army] soldiers do support a Regular
+unit of one form or another and, therefore, it is incumbent upon that Regular unit,
+and particularly the rear party back at the home base, to make sure that those
+individuals within the TA, and their families, are appropriately looked after in terms
+of maintaining contact, and also making sure they are aware of all the support and
+sustenance they can achieve.”67
+90.  Lt Gen Mans added that once a member of the TA was demobilised, responsibility
+for their welfare reverted to their TA unit.
+91.  The MOD told the Inquiry that it had considered providing a separate “welfare
+pathway” for Reservists, but concluded that it would not aid integration.68
+
+Ministry of Defence, Future of the UK’s Reserve Forces, 7 February 2005.
+National Audit Office, Ministry of Defence: Reserve Forces, 31 March 2006.
+66 
+Public hearing, 19 July 2010, pages 26-27.
+67 
+Public hearing, 19 July 2010, page 27.
+68 
+Paper MOD, 6 July 2010, ‘Iraq Inquiry Reservist Specific Welfare Provision’.
+64 
+65 
+
+18
+
+16.1  |  The welfare of Service Personnel
+
+92.  The initial call-out notice for Reservists for Op TELIC was issued in early
+January 2003.69 By 19 March (when military operations against Iraq began), over
+5,000 Reservists had been mobilised (comprising some 12 percent of total UK forces).
+93.  All TA and Regular Reservists deployed for Op TELIC 1 (the major combat
+phase of operations) were mobilised through the Reserves Training and Mobilisation
+Centre (RTMC) at Chilwell in Nottingham.70 The briefing and preparation process at
+RTMC Chilwell provided Reservists with medical and dental examinations, additional
+operation‑specific equipment, and information on pay and allowances.
+94.  In early June, the DOC produced a short note on lessons identified on personnel
+issues during Op TELIC 1; the note was sent to Mr Ingram’s office on 11 June.71 The
+DOC stated that, although the mobilisation of Reservists had gone well, Op TELIC had
+thrown up “many issues” including:
+
+•	
+•	
+•	
+
+Many Reservists had found themselves “financially disadvantaged” because
+of mobilisation and deployment, or had not been paid properly.
+Some medical Reservists had been compulsorily mobilised from key NHS
+jobs but were not subsequently deployed where they could use their specialist
+skills. For many medical Reservists, it was their second or third operational
+deployment in recent years and this might affect retention.
+In some areas it had proved difficult to provide “active support” to the families
+of deployed Reservists, because of the dispersed and isolated locations of
+people’s homes, particularly in relation to other Reservists and military bases.
+
+95.  The lessons identified were:
+“A review of Reservist pay procedures is required to eliminate inefficiencies and
+to take into account the financial penalties likely to be incurred by Reservists as
+a result of mobilisation.
+“A review of the mobilisation and employment of Reservist medical personnel
+on operations is required.
+“A review of practical and emotional support to Reservist families is required.”
+96.  The MOD has not been able to provide the Inquiry with papers on a number of
+issues relating to Reservists, including whether and how these recommendations were
+taken forward.
+
+Ministry of Defence, Operations in Iraq: First Reflections, July 2003.
+House of Commons, Official Report, 3 June 2003, column 302W. The Reserves Training and
+Mobilisation Centre (RTMC) was renamed the Reinforcements Training and Mobilisation Centre in 2011
+and disbanded in 2015, when its responsibilities were taken on by the Mission Training and Mobilisation
+Centre (Individual).
+71 
+Minute MA/VCDS to MA/Min(AF), 11 June 2003, ‘Operation TELIC – Personnel Issues’ attaching
+Paper MOD, [undated], ‘Operation TELIC – Personnel Issues’.
+69 
+70 
+
+19
+
+The Report of the Iraq Inquiry
+
+97.  The Inquiry asked Lt Gen Palmer what lessons had been learned from the
+mobilisation of Reserves for Op TELIC 1. He told the Inquiry that there were “big
+changes” between Op TELIC 1 and Op TELIC 2:
+“We put in place a mounting centre at Chilwell, in order to try to administer them
+better, because there were issues definitely about inadequacies in handling Reserve
+mobilisation to do with their pay, to do with their jobs, and we were very involved in
+trying to make sure … they could get their jobs back. Actually, I think we did have to
+resort to law on a couple of occasions.
+“We also made sure that they had access to the same packages as the Regulars
+and obviously the same training, but I did take a number of criticisms from
+Reservists who did not feel they had been properly looked after administratively or,
+indeed, in a training sense, but … they performed magnificently during the operation,
+and we simply could not have done without them.”72
+98.  In October, the Army issued instructions on welfare provision for Op TELIC 3.73 The
+instructions detailed the specific support available for mobilised Reservists, including:
+
+•	
+•	
+•	
+
+A TA cell had been established in theatre to handle any employment,
+administrative and pay concerns.
+All TA units were to ensure that they had a “proper focus established” to support
+the families of mobilised Reservists, and that there was regular contact with
+those families. The FWSE was designed to help with that work.
+All units were reminded that on mobilisation, “a Reservist becomes a Regular
+soldier”. There had been a number of cases where a mobilised Reservist had
+not been given full access to medical and dental care.
+
+99.  The instructions directed recipients to take “particular note” of the “aftercare policy”
+for demobilised Reservists. On demobilisation, TA soldiers should be advised that
+they should re-establish contact with their TA unit or the Reserve Force and Cadet
+Association (RFCA) if they experienced any difficulties associated with their operational
+service. The formal departure interview should impart “the clear understanding” that the
+Army remained engaged in their welfare.
+100.  In December, an MOD report on lessons from Op TELIC highlighted the particular
+difficulties faced by families of Reservists:
+“The families of Reservists need particular consideration, as they may have had
+little or no contact with the Services and may not understand Service structures,
+administrative procedures, roles or jargon. Such families knew whom to contact,
+but … still found it much more difficult than Regular Army families to find the
+Public hearing, 21 July 2010, pages 84-85.
+Minute HQ Land Command to HQ 2 Div, 25 October 2003, ‘Welfare Provision for Op TELIC 3 – Chain of
+Command Instruction’.
+72 
+73 
+
+20
+
+16.1  |  The welfare of Service Personnel
+
+information and answers they wanted. This will be borne in mind in considering how
+best to improve the support they need.”74
+101.  The report also stated that, in order to preserve the volunteer ethos of Reservists
+and the goodwill of families and employers, the MOD had revised the “desired notice”
+period for mobilisation from 14 to 21 days. Operational requirements meant that for
+Op TELIC 1, some Reservists received only four days’ notice.
+102.  The report did not specify what action would be taken to address these difficulties.
+103.  In the same month, an NAO report on Op TELIC stated that some Reservists
+received as little as two or three days’ notice, due to absence from home, postal times
+and incorrect addresses.75
+104.  The MOD set out the role of the Reserve Forces in the February 2005 publication
+Future Use of the UK’s Reserve Forces.76 The paper stated that:
+
+•	
+
+•	
+
+•	
+
+In recognition of the fact that most members of the VRF joined to undertake
+activities which were a contrast to their civilian employment, the MOD would not
+mobilise a Reservist to take advantage of his or her civilian skills except with the
+express agreement of the Reservist and their employer. This would not preclude
+a commander on operations ordering an already mobilised Reservist to carry out
+a task for which he or she was qualified, as a short-term expedient and where
+no other alternative existed.
+While the Reserve Forces Act 1996 set a limit on the time any Reservist
+could be mobilised (generally one year over a three-year period), the MOD
+believed that this level of mobilisation was “unsustainable”. The MOD would
+therefore, where possible, limit the time that any Reservist would be mobilised
+to one year over a five-year period.
+The MOD would seek to provide 28 days’ notice of mobilisation
+(21 days previously).
+
+105.  In April 2005, the MOD introduced a new remuneration package for Reservists
+deployed on operations.77 Under the new scheme, if Reservists were mobilised and
+their civilian pay was higher than their Service pay, they could claim the difference,
+including certain benefits in kind. There were additional allowances to compensate
+for other losses.
+106.  Reservists had previously applied for allowances to cover the additional costs
+of deployment. The scheme required a Reservist to collate a great deal of evidence
+of personal earnings and expenditure in the short time available before deployment.
+
+Ministry of Defence, Operations in Iraq: Lessons for the Future, December 2003.
+National Audit Office, Operation TELIC – United Kingdom Military Operations in Iraq, 11 December 2003.
+76 
+Ministry of Defence, Future of the UK’s Reserve Forces, 7 February 2005.
+77 
+National Audit Office, Ministry of Defence: Reserve Forces, 31 March 2006.
+74 
+75 
+
+21
+
+The Report of the Iraq Inquiry
+
+107.  The NAO reported that the new scheme was “generous and less bureaucratic,
+and has been generally welcomed by the Reservists”.
+108.  The NAO published a report on the MOD’s use of the Reserve Forces in
+March 2006.78 The NAO highlighted the finding from its survey of Reservists, that
+41 percent of those intending to leave within one year agreed that inadequate support
+(relating to welfare and administration) played a part in their decision to leave. The NAO
+reported that, while the most used form of support was the unit’s welfare representative,
+some units had no full-time welfare representative to support deployed Reservists and
+their families.
+109.  The NAO recommended that the MOD should focus its attention and resources on
+those welfare services which were most used by Reservists and their families, especially
+those provided by local Reserve units. In particular, it should:
+
+•	
+•	
+•	
+
+ensure that information supplied to Reservists’ families was written in plain
+English;
+ensure that all TA regiments had adequate, dedicated welfare support, and that
+similar measures were available for Royal Naval Reservists and Royal Auxiliary
+Air Force Personnel; and
+improve the welfare support available to the families of deployed Volunteer
+Reservists who lived far away from the Reserve unit with which they trained and
+those Regular Reservists who had no unit.
+
+110.  The NAO also highlighted the lack of medical support for Reservists after their
+demobilisation, and recommended that the MOD should:
+
+•	
+•	
+
+undertake to provide medical treatment to all Reservists injured on operations
+to enable them to rejoin their civilian lives and careers as quickly as possible;
+and
+institute procedures for the diagnosis and treatment, through Defence Medical
+Services (DMS), of Reservists who develop mental health problems after the
+demobilisation process had been completed, as a result of an operational
+deployment.
+
+111.  In November 2006, the MOD established the Reserves Mental Health Programme
+(RMHP), to provide enhanced mental health care for current and former Reservists
+who had been demobilised since 1 January 2003 following deployment on an overseas
+operation. The RMHP is described in Section 16.2.
+
+78 
+
+National Audit Office, Ministry of Defence: Reserve Forces, 31 March 2006.
+
+22
+
+16.1  |  The welfare of Service Personnel
+
+Increasing pressure on Service Personnel, 2004 to 2008
+The decision not to deploy a headquarters and brigade to Iraq,
+June 2004
+112.  In mid-April 2004, the US made an informal request to the UK to send additional
+troops to Iraq.79 Section 9.2 describes the Government’s consideration of that proposal,
+which focused on the question of the contribution that those troops might make to
+achieving strategic success.
+113.  On 12 May, Lieutenant General Robert Fry, Deputy Chief of Defence Staff
+(Commitments) (DCDC(Commitments)), advised the Chiefs of Staff meeting that the
+effect of an additional deployment on “Harmony”, previously identified as one of the main
+concerns, was now assessed to be “less stressing”.80
+114.  Lt Gen Palmer wrote to Lt Gen Fry the following day:
+“You know my serious concerns about increasing the current level of commitments …
+At best, deployment of an additional brigade would reduce average unit separation
+from our target of 24 months to 12 months. Within this, some trades and individuals
+(including pinch point trades) will inevitably suffer considerably shorter tour intervals.
+While recruitment and retention currently remain satisfactory in most areas, the
+situation is potentially fragile not least because the risk is difficult to quantify.”81
+115.  Lt Gen Palmer suggested that, if a “do nothing” option was judged to be
+unacceptable, the MOD should develop a “battlegroup only” option which would
+minimise “the stretch on our people”. He also highlighted the difficulty of following a
+decision for an additional deployment with the announcement of planned measures
+to reduce manpower costs.
+116.  The Chiefs of Staff considered the US request for additional UK military assets
+to Iraq on 19 May.82 Although they recognised there were risks and benefits to all the
+possible options, they agreed that the “best military option” was the deployment of
+HQ Allied Rapid Reaction Corps (HQ ARRC) and a brigade to replace US forces in
+the provinces of Najaf and Qadisiyah (option six).
+117.  During the meeting, Lt Gen Fry cautioned against the long-term effects on
+the Armed Forces of an additional deployment, which militated against that option.
+Lt Gen Palmer rehearsed the arguments he had set out in his 13 May minute to
+Lt Gen Fry, adding that he feared a “precipitant retention problem”.
+
+Letter Baker to Rycroft, 21 April 2004, ‘Iraq: US Approaches for Additional UK Forces’.
+Minutes, 12 May 2004, Chiefs of Staff meeting.
+81 
+Minute DCDS(Pers) to DCDS(C), 13 May 2003, ‘Expanding MND(SE) – People Implications’.
+82 
+Minutes, 19 May 2004, Chiefs of Staff meeting.
+79 
+80 
+
+23
+
+The Report of the Iraq Inquiry
+
+118.  Gen Walker summarised the conclusion of the Chiefs of Staff, that option six was
+the “best military option” although “there was current doubt whether it could be delivered
+and sustained”.
+119.  Mr Hoon’s Private Secretary wrote to Mr Blair’s Private Secretary for Foreign
+Affairs on 25 May, setting out the Chiefs of Staff’s advice.83 Mr Hoon’s Private Secretary
+stated that the option which would have the greatest effect and the least military risk was
+the deployment of HQ ARRC with an associated battlegroup, and a brigade to replace
+US forces. However, that option carried “significant penalties” including with regard to
+the wider impact on the Armed Forces.
+120.  Mr Hoon’s Private Secretary set out those penalties. Deploying HQ ARRC with an
+associated battlegroup would further reduce tour intervals for many Service Personnel.
+Some 40 percent of infantry soldiers already had tour intervals of less than 12 months
+(against a guideline of 24 months). The deployment would reduce tour intervals for
+combat service support units to an average of less than 10 months; some units would
+have even less.
+121.  Reduced tour intervals would effect training and future capability, and also
+significantly reduce the time that Service Personnel and their families could spend
+together. The letter concluded:
+“For some, this may be the straw that breaks the camel’s back and leads to
+experienced personnel leaving the Service.”
+122.  Holding a brigade at readiness, even if it was not deployed outside the UK,
+would have even more significant impacts.
+123.  Given those penalties, and the fact that the situation in Iraq would evolve, Chiefs
+recommended that the Government should deploy HQ ARRC and an associated
+battlegroup now, but retain the brigade in the UK to be deployed if necessary.
+124.  In late May, Lt Gen Palmer asked the Chiefs of Staff to agree that he should
+develop a costed package of measures, focused on protecting untaken leave and
+enhanced allowances, to ameliorate the “worst consequences” of the increasing
+“operational load”.84 It was conceivable that an increase in the UK’s commitment in
+Iraq would reduce tour intervals for some units, including medical units, to six months.
+125.  Lt Gen Palmer advised that the MOD did not have the management information
+to determine the extent to which increasing pressure on Service Personnel would
+translate into worsening retention, or when a “tipping point” in retention would be
+reached (work was under way to generate that information). Recruitment and retention
+Letter Naworynsky to Rycroft, 25 May 2004, ‘Iraq: Options for a UK Military Contribution to the
+Wider South’.
+84 
+Minute Palmer to COSSEC, 24 May 2004, ‘Increased Commitments – Ameliorating the Impact
+on People’.
+83 
+
+24
+
+16.1  |  The welfare of Service Personnel
+
+were holding up well, but there was already evidence that people were starting to feel
+undervalued, particularly over the issue of pay.
+126.  Lt Gen Palmer concluded: “Every time we increase the operational load we
+increase the risk of a sudden, serious downturn in retention.”
+127.  Section 9.2 describes discussions between Mr Blair, Ministers and senior officials
+on the deployment of additional troops between late May and mid-June. The extent to
+which personnel issues featured in those discussions is not clear.
+128.  On 15 June, Mr Blair, Mr Hoon, Mr Jack Straw (the Foreign Secretary),
+Mr Hilary Benn (the International Development Secretary), Mr Paul Boateng
+(Chief Secretary to the Treasury), Gen Walker and others met to discuss Iraq.85
+The meeting concluded that the UK:
+“… should not close the door to the possibility of sending further UK troops. We
+should keep the option open until around the time of the NATO Summit [28-29 June].
+But there was no pressing military reason to send them, nor were we coming under
+much pressure from the US to do so.”
+129.  On 24 June, Lt Gen Palmer provided an update on his work to develop a
+package of welfare measures for Mr Ingram, at his request.86 Lt Gen Palmer advised
+that, with only a limited understanding of the relationship between operational tempo,
+separation and behaviour, he was taking a “broad view” of potential measures. These
+might include new financial incentives for groups under “critical stress”, enhanced
+separation allowances, improvements to Service Accommodation and measures to
+protect untaken leave.
+
+The decision to deploy troops to Afghanistan
+130.  In February 2005, Mr Hoon announced that the UK intended to switch its existing
+military effort in Afghanistan (around 1,000 Service Personnel based in northern
+Afghanistan) to Helmand province.87
+131.  Sir Nigel Sheinwald, Mr Blair’s Foreign Policy Adviser from 2003 to 2007, told the
+Inquiry that “this was a proposal … which came from the Chiefs of Staff”.88
+132.  The 21 July meeting of the Ministerial Committee on Defence and Overseas Policy
+(DOP) agreed in principle proposals presented by Dr John Reid, the Defence Secretary,
+for both the transfer to Iraqi control of the four provinces in southern Iraq for which the
+UK had security responsibility, and for the redeployment of the UK effort in Afghanistan
+
+Letter Rycroft to Baker, 15 June 2004, ‘Iraq: Prime Minister’s Meeting, 15 June’.
+Minute Palmer to PS/Minister (AF), 24 June 2004, ‘Increased Commitments – Ameliorating the Impact
+on People’.
+87 
+Paper MOD, 19 July 2005, ‘Afghanistan: Resources and Strategic Planning’.
+88 
+Public hearing, 16 December 2009, page 93.
+85 
+86 
+
+25
+
+The Report of the Iraq Inquiry
+
+from the north to Helmand province in the south, with an infantry battlegroup and full
+helicopter support.89 Section 9.4 addresses the decision in detail.
+133.  The MOD paper which informed the decision advised that this option, which
+comprised “around 2,500 personnel in total”, would:
+“Place greatest pressure on internal MOD resourcing. It would impact on the
+individual personnel deployed, particularly those in ‘pinch-point’ trades who may
+have been deployed on operations significantly more than Departmental guidelines
+advise; stretch the MOD’s logistic capability at a time when force level reductions in
+Iraq cannot be guaranteed; and place strain on key enablers …”90
+134.  The MOD paper concluded with a brief report on plans for UK military drawdown
+in Iraq. It cautioned that:
+“… any substantial prolongation of the UK military commitment in Iraq at current
+force levels would have significant impact on individual personnel, the logistic
+feasibility of any commitment in Afghanistan, and overall resourcing.”
+135.  The minutes of the DOP meeting do not indicate that there was any discussion of
+the specific impact on the Iraq campaign of the proposed deployment to Helmand.91
+136.  Gen Jackson was briefed, in advance of a 17 January 2006 meeting with the
+House of Lords Defence Group, that:
+“Depending on campaign progress in Iraq, there is potential for some
+‘concurrency challenges’ in 2006/07. We must try to avoid ‘overstretch’, but not end
+up ‘under stretched’ – particularly when the competition for resources in Whitehall
+is so fierce.”92
+137.  On the same day, Dr Roger Hutton, MOD Director Joint Commitments Policy,
+provided Dr Reid with advice on the timing and detail of the deployment of UK forces
+to Helmand province.93 Dr Hutton advised that the Chiefs of Staff recommended the
+immediate deployment of the full Helmand Task Force (HTF). That recommendation was
+“crucially dependent” on fulfilling three criteria, including:
+“Achievability within current UK commitments. The HTF, taken together with the
+HQ ARRC deployment, calls on a variety of capabilities, and a lengthy and complex
+logistic tail. With the continued commitment to Iraq through 2006, this presents
+significant but manageable challenges, particularly for logistic enablers (including
+air transport). During this period we will still be able to undertake immediate
+contingency operations, but on a limited basis.”
+Minutes, 21 July 2005, DOP meeting.
+Paper MOD, 19 July 2005, ‘Afghanistan: Resources and Strategic Planning’.
+91 
+Minutes, 21 July 2005, DOP meeting.
+92 
+Briefing, [undated], ‘CGS Address to House of Lords Defence Group – 17 Jan 06’.
+93 
+Minute Hutton to APS/SofS [MOD], 17 January 2006, ‘Afghanistan Deployments’.
+89 
+90 
+
+26
+
+16.1  |  The welfare of Service Personnel
+
+138.  Annex C to Dr Hutton’s briefing provided more detail on key issues, including the
+sustainability of the proposed deployment. It stated:
+“It remains the case that, with likely timelines for transition in Iraq, the HTF
+deployment is achievable without serious damage to Harmony, though certain niche
+trades and capabilities (particularly air transport) will be placed under increased,
+but manageable, stress.”
+139.  The decision to deploy to Helmand was approved in Cabinet on 26 January.94
+The minutes record that Dr Reid “was looking carefully at where the burden on our
+troops could be reduced, including in Iraq and Bosnia and hoped to be able to report
+troop and cost reductions in coming months”.
+140.  There were different views within the MOD over the effect of the deployment
+on personnel. Lt Gen Palmer, DCDS(Personnel) from 2002 to August 2005, told the
+Inquiry that, as he left post, he expressed his concern that deploying two brigades
+simultaneously (to Iraq and Afghanistan) would breach the Harmony Guidelines and
+the Defence Planning Assumptions, and was “too big a risk”.95
+141.  Sir Kevin Tebbit, MOD Permanent Under Secretary from 2001 to 2005, told
+the Inquiry:
+“I was apprehensive [about the deployment of UK forces to Helmand] and I made
+my concerns known to my planning staff and to the Chiefs of Staff. I think their
+view was that they could do it and it was manageable … since it was [the Chiefs
+of Staff] who would actually have to ensure they could do this, I did not press my
+objections fully.”96
+142.  The impact of the decision on the availability of key equipment capabilities for Iraq
+is addressed in Section 14.1.
+143.  UK troops began to deploy to Helmand in May 2006.
+
+Concern that the Army is “running hot”, autumn 2006
+144.  In August 2006, concerns emerged over the treatment of injured Service Personnel
+being treated on civilian wards at Selly Oak hospital in the UK, and the adequacy of
+the welfare package provide to them and their families. The concerns are described
+in Section 16.2.
+
+Cabinet Conclusions, 26 January 2006.
+Public hearing, 21 July 2010, page 80.
+96 
+Public hearing, 3 February 2010, pages 15 and 16.
+94 
+95 
+
+27
+
+The Report of the Iraq Inquiry
+
+145.  General Sir Richard Dannatt, Commander-in-Chief Land Command, wrote to
+Mr Des Browne, the Defence Secretary, on 31 August setting out his most serious
+concerns.97 His letter focused on the pressures on Service Personnel:
+“… as an Army, we are running hot, and our operational deployments are well above
+planned levels set out in current Defence Planning Assumptions … you should be
+aware that, in my opinion, the demands of the organisation are currently greater
+than our ability to provide satisfactorily for the needs of the individuals … Quite
+properly, we often talk about an implied contract – the ‘military covenant’ – that as an
+Army we have with our soldiers and their families and I fear that it is somewhat out
+of balance.”
+146.  Gen Dannatt stated that the concerns might seem misplaced, given that current
+“outflow levels” of personnel (which he described as the classic gauge of morale) were
+low. But the cumulative effect of the high tempo of operations, short tour intervals, hectic
+training and activity between tours, and under-manning gave rise to “a severe risk akin
+to a cliff-edge experience”.
+147.  Gen Dannatt identified several pre-emptive actions to prevent any increase in
+outflow, including:
+“Away from the field, I sense that basic pay for our more junior people is becoming
+an issue, as are some allowances, particularly those that are related to operational
+deployment. I am not at all sure that a take home pay of £1,150 a month is fair return
+for a month’s work in Helmand or Basra. But it is the standard of both single and
+family accommodation when our people are back home that is probably the most
+emotive issue …”
+148.  Improvements in those areas would require a “modest shift” of resources from the
+Equipment Programme into the Short-Term Programme.
+149.  Gen Dannatt took up post as Chief of the General Staff the following month.
+150.  Gen Dannatt told the Inquiry:
+“When the military covenant is in balance, then the engine [the Army] can do a
+lot of work. When the covenant is out of balance, we have problems. I think we
+progressively got out of balance as the amount of work we were being asked to
+do increased through 2005 and 2006.
+“I say this not in any shape or form as a criticism of any of my predecessors, but
+merely as a reflection of the additional work that we were being asked to do as a
+consequence of decisions taken to stay in Iraq until we had successfully completed
+our operations there, but also take on Afghanistan as well.
+
+97 
+
+Letter Dannatt to Browne, 31 August 2006, [untitled].
+
+28
+
+16.1  |  The welfare of Service Personnel
+
+“The way to bring the covenant back into balance was to make sure we were
+expending sufficient resources on looking after the legitimate needs of individuals,
+soldiers and their families in terms of their pay allowances, accommodation, and the
+equipment … you would want to give these people.
+“That’s where I think we were deficient. That’s where we had to work quite hard
+to get it back in balance. I know I said in 2006 the army was running hot. That is
+correct … I think we were getting quite close to a seizing-up moment in 2006.”98
+151.  The Inquiry asked Gen Dannatt whether work to bring the military covenant back
+into balance should not have begun earlier.99 He told the Inquiry that he had no criticism
+of his predecessor, and that it was:
+“… often easier to start something at the start of an appointment when you have
+had the chance to survey the landscape … and coming from the position of
+Commander‑in-Chief … with time to go round the Army, [I] could sense both at
+home and abroad the pressures building on soldiers and their families and deciding
+something had to be done.”
+
+Introduction of the Operational Allowance
+152.  Mr Browne’s Private Secretary wrote to No.10 on 9 October, setting out proposed
+new arrangements for supporting Service Personnel on operations.100 The letter reported
+that, to reflect the current, high operational tempo and provide an immediate boost
+to the lowest paid Service Personnel, Mr Browne had agreed with Mr Gordon Brown,
+the Chancellor of the Exchequer, that the Government would introduce a tax-free
+Operational Allowance of £2,400 for all Service Personnel who completed a six-month
+tour in either Iraq, Afghanistan, the Balkans or certain other operations. Proportional
+amounts would be paid to those who completed shorter tours. The Allowance would
+be backdated to 1 April 2006.
+153.  The MOD had considered offering tax-free pay while on operations, but had
+concluded that this would not target the lowest paid and would be difficult to administer.
+154.  The letter also advised that the MOD would discuss the scope for abating Council
+Tax charges for Service Personnel deployed on operations with the Department of
+Communities and Local Government (DCLG). The failure of Local Authorities to exercise
+discretion on those charges was a “regular complaint”.
+155.  The letter also advised that the free telephone call allowance would be raised from
+20 to 30 minutes a week.
+
+Public hearing, 28 July 2010, pages 20-21.
+Public hearing, 28 July 2010, page 98.
+100 
+Letter PS/Secretary of State [MOD] to Phillipson, 9 October 2006, ‘A Package for Service Personnel
+on Operations’.
+98 
+99 
+
+29
+
+The Report of the Iraq Inquiry
+
+156.  In his autobiography, Gen Dannatt described the Operational Allowance as the
+product of “some journalistic pressure and keen discussions with the Treasury”.101
+He also described it as the beginning of his campaign to “improve the soldiers’ lot”.
+157.  Mr Browne announced the introduction of the Operational Allowance on
+10 October.102
+158.  Mr Browne raised the issue of Council Tax charges for deployed Service Personnel
+with Ms Ruth Kelly, the Secretary of State for Communities and Local Government, on
+19 October.103 MOD and DCLG officials subsequently met to explore options for abating
+Council Tax charges. The MOD’s preferred option was a statutory discount of 25 percent
+(which would equate to a discount of £132 based on the average Council Tax bill).
+159.  Mr Browne announced in September 2007 that Service Personnel serving in
+Iraq and Afghanistan would receive a £140 rebate on their Council Tax bill (based
+on a six‑month tour).104
+
+Reports on recruitment and retention
+160.  The NAO published a report entitled Recruitment and Retention in the Armed
+Forces in November 2006.105 The report stated that, at July 2006, the trained strength
+of the Armed Forces stood at around 180,690 Service Personnel, a shortfall of some
+5,170 (2.8 percent) against the MOD’s estimated requirement.
+161.  This figure masked significant shortages in 88 “pinch point” trades, where there
+was insufficient trained strength to perform operational tasks while enabling the
+Harmony Guidelines to be met. While 14.5 percent of the trained strength of the Army
+had exceeded the Harmony Guidelines at some point in the previous 30 months, this
+percentage rose to more than 33 percent for some pinch point trades.
+162.  The NAO concluded:
+
+•	
+
+Although the Armed Forces had consistently operated at or above the most
+demanding combination of operations envisaged by the Defence Planning
+Assumptions (DPAs) since 2001, and the MOD expected that this would
+continue to be the case for some time, the Armed Forces’ manning requirements
+had not been adjusted to reflect the current levels of activity. The NAO reported
+that, while the MOD accepted that operating at that level could result in it placing
+additional strains on its people, the DPAs were guidelines only and were not
+intended to constrain decisions taken on the employment of the Armed Forces.
+
+Dannatt, R. Leading from the Front. Bantam Press, 2010.
+BBC, 10 October 2006, Soldiers to get ‘tax bill’ bonus.
+103 
+Minute Baker to PS/SoS [MOD], 8 December 2006, ‘An Improved Package for Service Personnel
+on Operations – Council Tax Discounts/Rebates’.
+104 
+The Guardian, 26 September 2007, Council tax rebates for war zone soldiers.
+105 
+National Audit Office, Recruitment and Retention in the Armed Forces, November 2006.
+101 
+102 
+
+30
+
+16.1  |  The welfare of Service Personnel
+
+•	
+•	
+•	
+
+There were signs that the numbers of Service Personnel choosing to leave the
+Armed Forces early were beginning to increase for some key groups.
+A variety of factors influenced Service Personnel in their decisions to leave
+the Services, but workload, separation and the impact on family life were
+key factors.
+Service Personnel considered that the increased operational tempo had led
+to heavier workloads and more separation from families.
+
+163.  The NAO reported that the MOD was successfully using a range of short‑term
+measures (including financial incentives) to improve retention and alleviate
+under‑manning.
+164.  The NAO also reported that the MOD was facing current and future challenges
+to its ability to recruit sufficient numbers of new entrants as a result of demographic
+changes, changing attitudes to careers, and negative publicity affecting public
+perceptions of the Armed Forces. The MOD was taking steps to respond to each of
+those challenges.
+165.  The NAO made a number of recommendations, including:
+“The Department should review the overall manning requirements within
+individual operational pinch point trade groups to determine whether they are
+set at sufficient levels to support enduring operational commitments.
+“The Department is constrained in its ability to reduce the operational tempo,
+which is impacting on personnel, but should look to investigate measures to
+provide greater stability and certainty of work patterns for personnel between
+operational deployments. Whilst recognising the limitations in how much
+workload can be reduced, the Department should look to improve its ability
+to let serving personnel know their work patterns over a longer time horizon.”
+166.  Mr Bill Jeffrey, MOD Permanent Under Secretary, responded to these conclusions
+later that month in his evidence to the Public Accounts Committee (PAC) during its
+consideration of the NAO’s report.106 He argued that frequency of deployment was only
+one factor in people’s decisions to stay or leave, and that polling and opinion survey
+evidence suggested that it was not quite as significant a factor as it might appear.
+167.  Mr Jeffrey told the PAC that he agreed with the view expressed by Ministers, that
+the Armed Forces were “stretched quite significantly, by the combination of deployments
+in Iraq and Afghanistan with other things”, but not overstretched. He described
+overstretch as the inability of the Armed Forces to fulfil the tasks allocated to them.
+
+Public Accounts Committee, Session 2005-2006, Ministry of Defence: Recruitment and retention in the
+armed forces, 15 November 2006. Uncorrected transcript of Oral Evidence given by Mr Bill Jeffrey CB,
+Permanent Secretary, Mr Chris Baker OBE and Brigadier Stephen Andrews CBE, Ministry of Defence.
+106 
+
+31
+
+The Report of the Iraq Inquiry
+
+168.  He also stated that there was not a direct link between the MOD’s Defence
+Planning Assumptions and the “degree of stretch”. Each operation was different and
+required different capabilities. Deployments in Iraq and Afghanistan had stretched
+different capabilities to different degrees; it was a “matter of military judgement” whether
+the Armed Forces were overstretched. Manning requirements (which flowed from the
+Defence Planning Assumptions) would be reviewed at the next spending review.
+169.  In early March 2007, Gen Dannatt wrote to Mr Browne:
+“Two overall themes dominated my introductory letter [of 31 August 2006]: the Army
+is running hot; and the ‘military covenant’ is out of balance. I am pleased to say
+that I think both these concerns are now well understood across the Department
+and, importantly, we are taking steps to address both. Nevertheless … the level
+of operational commitments is still well above Defence Planning Assumptions and
+looks set to remain so for some years. There is now an acceptance, however,
+that the Army is effectively fully operationally committed and hence any rebalance
+between theatres – as we will undertake this year in Iraq and Afghanistan – has
+to be a ‘zero sum’…”107
+170.  Gen Dannatt:
+
+•	
+•	
+•	
+
+welcomed the Operational Allowance and the recent pay award which together
+sent Service Personnel a “powerful message” on how highly they were valued;
+confirmed that the “general care” provided to casualties was, slowly, improving;
+the issue would continue to require constant, senior level attention; and
+restated his concerns that there was a risk of a “cliff-edge fall” in Army manning
+(although retention was holding up, recruitment was falling).
+
+171.  The PAC published its report on recruitment and retention in the Armed Forces
+in June 2007.108 It echoed the conclusions and recommendations of the NAO’s
+November 2006 report. The PAC reported that:
+“Deployments overseas have been more frequent because the Department has
+been operating above Defence Planning Assumptions for several years and
+manning levels have not kept pace with commitments … Decisions about whether
+the Armed Forces can undertake operations above the Assumptions are matter
+of military judgement. The Department intends to review [the] Defence Planning
+Assumptions and the funding of the Armed Forces in the light of the demands
+placed on them, as part of the next Comprehensive Spending Review.”
+
+Minute CGS to SofS [MOD], [undated], [untitled].
+Thirty-fourth Report from the Public Accounts Committee, Session 2006-2007, Recruitment and
+Retention in the Armed Forces, HC43.
+107 
+108 
+
+32
+
+16.1  |  The welfare of Service Personnel
+
+172.  The PAC concluded:
+“The increasing frequency of deployments on overseas operations and time
+away from home are factors causing people to leave the Armed Forces. More
+than 15 percent of Army Personnel are away from home more often than is planned
+for under the Department’s ‘Harmony’ Guidelines which are being consistently
+broken. The Department has little scope to reduce the operational tempo which is
+impacting on personnel but in case of enduring operations, such as those in Iraq and
+Afghanistan, it needs to provide people with greater stability of work patterns.
+“There are indicators of overstretch in specific areas, such as the severe
+shortfalls in personnel in some specialist trades, such as nurses, linguists
+and leading hands, and the routine breaking of harmony guidelines. The longer
+this situation continues the more it will begin to affect operational capability. The
+Department maintains that the Armed Forces are stretched, but not overstretched,
+and would only be overstretched if there was a failure to meet military commitments.
+But the Department also needs to ascertain the ‘tipping points’ where the degree
+of stretch itself precipitates the loss of scarce skills, putting operational capability
+at risk.”
+173.  The Inquiry asked AM Pocock what he understood by the concept of
+“overstretch”.109 He told the Inquiry:
+“This is a subject where it is easy to let the heart rule the mind. If we are going
+to be completely objective about it, I would say there are two things … can we
+retain our people? And … are we doing them long-term harm? The first one, for
+virtually the whole period of the 2000’s, certainly up to 2007, retention was virtually
+static. The Services were short of people, yes, but that was largely down to
+recruitment issues …
+“On the subject of, ‘Were we doing our people harm?’ we didn’t know, but we were
+looking really hard [at that issue] …”
+174.  Vice Admiral (VAdm) Peter Wilkinson, Deputy Chief of Defence Staff (Personnel)
+from 2007, added that, in his view, the Harmony Guidelines provided a useful, objective
+measure of the degree of stretch:
+“I think they [the Harmony Guidelines] were a very good check on the department
+to make sure they understood, perhaps better than before, what actually they were
+asking of their people.”110
+
+109 
+110 
+
+Public hearing, 19 July 2010, pages 70-71.
+Public hearing, 19 July 2010, page 72.
+
+33
+
+The Report of the Iraq Inquiry
+
+175.  Lt Gen Mans told the Inquiry:
+“… recruiting is quite a complex area, so although … on balance, I think Iraq was
+positive [for recruitment], there were some other issues which made recruiting more
+difficult. At this stage, the economy in the country was doing very well and, therefore,
+unemployment was comparatively low. Therefore, we were competing for recruits in
+quite a difficult market in that respect. There were other issues associated with the
+phrase that has been used before, ‘gatekeepers’, parents and teachers. Were they
+actually going to encourage either their children or their pupils to join the military?
+Well, on balance, they probably weren’t, in terms of that sort of overall perception.
+So overall, you had to take into consideration all these other rather complex factors,
+because the army was under-recruited during the period in question.”111
+
+The impact of operations on the Harmony Guidelines
+176.  The MOD told the Inquiry that, since 2002, the Armed Forces had been
+consistently operating at or above the level of concurrency defined in SDR 98.112
+That had “inevitably constrained” their ability to meet Harmony Guidelines particularly for
+Service Personnel in “Pinch Point specialist trades”.
+177.  The MOD provided the Inquiry with figures for the percentage of Service Personnel
+in each Service for whom the Harmony Guidelines on Individual Separated Service
+were breached between 2002 and 2009; these figures are presented at the end of this
+Section.113 The Navy’s Guidelines were breached in respect of less that 1 percent of
+Navy Personnel in each of the years covered by the Inquiry. The Army’s Guidelines were
+breached in respect of over 18 percent of Army Personnel in early 2004 (the first period
+for which data is available), falling to 10 percent in early 2007. The RAF’s Guidelines
+were breached in respect of between 2 and 10 percent of RAF Personnel over the
+period covered by the Inquiry.
+178.  Professor Christopher Dandeker, Professor of Military Sociology at King’s College
+London and Co-Director of the King’s Centre for Military Health Research, told the
+House of Commons Defence Committee in March 2008:
+“… so far as our own research is concerned … I think that the Harmony Guidelines
+have been well constructed because the evidence suggests that if you stay within
+them they [Service Personnel] do not suffer; if you go beyond them there is a
+20 to 50 percent likelihood that they will suffer in terms of PTSD [Post Traumatic
+Stress Disorder].”114
+
+Public hearing, 19 July 2010, pages 79-80.
+Paper MOD, 25 November 2009, ‘Harmony Guidelines’.
+113 
+Paper MOD, 22 October 2010, ‘Harmony – Statistics’.
+114 
+Fourteenth Report from the Defence Committee, Session 2007-2008, Recruiting and retaining Armed
+Forces personnel, Oral and Written Evidence (25 March 2008), HC424.
+111 
+112 
+
+34
+
+16.1  |  The welfare of Service Personnel
+
+179.  In his evidence to the Inquiry, AM Pocock questioned whether Professor Dandeker
+was right to suggest that the Harmony Guidelines were an appropriate basis for
+assessing the effect of operational deployment on individuals.115 The Guidelines had
+been derived in a straightforward way from the planning assumptions used in SDR 98
+(“what operations have we got? How many people have we got? … that means that they
+can spend this long away”). AM Pocock’s focus had been on the broader relationship
+between time deployed on operations and the risk of mental health issues.
+180.  Lt Gen Palmer told the Inquiry that, while his “prime concern” with regard to
+reducing tour intervals was for individuals, he was also concerned that reduced tour
+intervals could affect operational capability, as units would not be able to undertake
+collective training and other development and preparatory activities.116
+
+Rebuilding the military covenant
+181.  In September 2007, in response to growing concerns that the military covenant
+was being steadily undermined, the Royal British Legion (RBL) launched its “Honour
+the Covenant” campaign.117 The RBL argued that the covenant was being breached with
+respect to three key issues:
+
+•	
+•	
+
+the operation of the Armed Forces Compensation Scheme;
+
+•	
+
+support for bereaved families at inquests.
+
+healthcare and welfare support for serving Service Personnel, their dependants
+and veterans; and
+
+182.  In July 2008, partly in response to that campaign and the support it generated,
+the Government published a command paper entitled The Nation’s Commitment:
+Cross‑Government Support to our Armed Forces, their Families and Veterans
+(known as the Service Personnel Command Paper).118 The paper was underpinned
+by two principles:
+
+•	
+•	
+
+to end any disadvantage that armed service imposes upon Service Personnel,
+their families and veterans; and
+to better support and recognise those who have been wounded in the service
+of their country.
+
+183.  The paper covered a wide range of topics: compensation, health, housing,
+education and skills, transport, support for families, benefits, careers and pay.
+
+Public hearing, 19 July 2010, pages 68-70.
+Public hearing, 16 July 2010, page 77.
+117 
+House of Commons Library, Standard Note SN/IA/5979, 9 June 2011, Armed Forces Covenant.
+118 
+Command Paper, July 2008, The Nation’s Commitment: Cross-Government Support to our Armed
+Forces, their Families and Veterans, Cm 7424.
+115 
+116 
+
+35
+
+The Report of the Iraq Inquiry
+
+184.  Mr Bob Ainsworth, the Minister of State for the Armed Forces, described the
+production of the Command Paper to the Inquiry as an:
+“… opportunity … to get for the first time at every single area of Government
+and deal with the things that had never been given the importance that they had
+been given before. There are lots of ways in which Government accidentally, local
+Government and central Government, discriminates against our Armed Forces
+because of the juxtaposition of the way that services are delivered and the way that
+we make them work and the way that we keep moving them around … So in the
+Services Personnel Command Paper what I wanted to try to do was sweep up as
+many of those complaints as there were, analyse them, see whether or not there
+was a reality to them and have them dealt with as a one-off process, but set up an
+ongoing process.”119
+185.  Mr Ainsworth went on to describe how the Command Paper was used to
+co‑ordinate the Government’s response to veterans’ needs, including on issues which
+had not been explicitly considered in the paper:
+“We had the Prime Minister’s stamp on the Service Personnel Command Paper.
+We were able to use that as we went round different departments and say ‘This
+is the Government’s intent’ …
+“I had problems from different Departments, but that’s understandable …
+Government tends to work in silos … So you have to go political in order to get those
+things sorted out.”120
+186.  VAdm Wilkinson told the Inquiry that the implementation of the Command Paper
+had been challenging, but that progress had been made:
+“The challenges were that there was very little new money attached to the proposals
+and therefore, to gain the support of other Government departments was very
+difficult … the second challenge was to make the gains made enduring. I think we
+have achieved both of those, in that other Government departments were made to
+change their plans and programmes to take account of the Command Paper …”121
+187.  In May 2010, the new Government committed to “work to rebuild the Military
+Covenant”.122
+188.  An independent Task Force on the Military Covenant, chaired by Professor
+Hew Strachan, was established in summer 2010 to inform that work.123 The Terms of
+
+Public hearing, 6 July 2010, pages 5-6.
+Public hearing, 6 July 2010, pages 24-25.
+121 
+Public hearing, 19 July 2010, page 100.
+122 
+HM Government, The Coalition: our programme for government, May 2010.
+123 
+Task Force on the Military Covenant, September 2010, Report of the Task Force on the
+Military Covenant.
+119 
+
+120 
+
+36
+
+16.1  |  The welfare of Service Personnel
+
+Reference of the Task Force were to identify innovative ways in which the Government,
+and society as a whole, could fulfil its obligation to rebuild the covenant.
+189.  The Government published a written Armed Forces Covenant in May 2011.124
+The Covenant incorporated a number of the Task Force’s recommendations. The
+Covenant stated that members of the Armed Forces should expect respect, support
+and fair treatment in return for the sacrifices they made on behalf of the nation. The
+Covenant set out two core principles:
+
+•	
+•	
+
+No current or former member of the Armed Forces, or their families, should be
+at a disadvantage compared with other citizens in the provision of public and
+commercial services.
+Special consideration was appropriate in some cases, particularly for those who
+had been injured or bereaved.
+
+190.  These core principles were enshrined in law in the Armed Forces Act 2011.125
+The Act did not create legally enforceable rights for Service Personnel, but required the
+Defence Secretary to report annually to Parliament on the Covenant with a particular
+focus on four areas: healthcare, education, housing and the operation of inquests.
+191.  The Inquiry’s conclusions and lessons on the pressures on Service Personnel and
+the support provided to them and their families are set out in Section 16.4.
+
+124 
+125 
+
+Ministry of Defence, The Armed Forces Covenant, 16 May 2011.
+Armed Forces Act 2011.
+
+37
+
+The Report of the Iraq Inquiry
+
+Table 2: Percentage of Service Personnel for whom the Harmony Guidelines on
+Individual Separated Service were breached126
+Year
+
+Royal Navy
+
+Army
+
+RAF
+
+2002/03 Q1
+
+<1
+
+No Record
+
+5.3
+
+2002/03 Q2
+
+<1
+
+No Record
+
+5.4
+
+2002/03 Q3
+
+<1
+
+No Record
+
+5.1
+
+2002/03 Q4
+
+<1
+
+No Record
+
+5.0
+
+2003/04 Q1
+
+<1
+
+No Record
+
+6.8
+
+2003/04 Q2
+
+<1
+
+No Record
+
+6.2
+
+2003/04 Q3
+
+<1
+
+No Record
+
+6.2
+
+2003/04 Q4
+
+<1
+
+18.1
+
+5.4
+
+2004/05 Q1
+
+<1
+
+17.0
+
+3.6
+
+2004/05 Q2
+
+<1
+
+16.8
+
+3.8
+
+2004/05 Q3
+
+<1
+
+15.5
+
+3.6
+
+2004/05 Q4
+
+<1
+
+15.5
+
+3.9
+
+2005/06 Q1
+
+<1
+
+15.6
+
+4.1
+
+2005/06 Q2
+
+<1
+
+15.3
+
+4.1
+
+2005/06 Q3
+
+<1
+
+15.1
+
+4.2
+
+2005/06 Q4
+
+<1
+
+14.5
+
+3.9
+
+2006/07 Q1
+
+<1
+
+14.0
+
+2.9
+
+2006/07 Q2
+
+<1
+
+13.4
+
+1.7
+
+2006/07 Q3
+
+<1
+
+12.4
+
+5.2
+
+2006/07 Q4
+
+<1
+
+10.3
+
+6.2
+
+2007/08 Q1
+
+<1
+
+Not available
+
+6.7
+
+2007/08 Q2
+
+<1
+
+Not available
+
+9.2
+
+2007/08 Q3
+
+<1
+
+Not available
+
+10.0
+
+2007/08 Q4
+
+<1
+
+Not available
+
+9.2
+
+2008/09 Q1
+
+<1
+
+Not available
+
+9.4
+
+2008/09 Q2
+
+<1
+
+Not available
+
+6.1
+
+2008/09 Q3
+
+<1
+
+Not available
+
+5.9
+
+2008/09 Q4
+
+<1
+
+Not available
+
+5.9
+
+2009/10 Q1
+
+<1
+
+Not available
+
+5.4
+
+2009/10 Q2
+
+<1
+
+Not available
+
+5.0
+
+Paper MOD, 22 October 2010, ‘Harmony – Statistics’. The MOD informed the Inquiry that no data
+was available for the Army for the period Q1 2007/08 onwards due to migration to a new personnel
+administration system. The reporting baseline for the RAF’s Harmony Guidelines changed from
+Q2 2008/09.
+126 
+
+38
+

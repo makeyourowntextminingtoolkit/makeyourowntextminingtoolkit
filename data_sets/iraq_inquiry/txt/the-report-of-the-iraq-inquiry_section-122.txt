@@ -1,0 +1,1434 @@
+SECTION 12.2
+CONCLUSIONS: SECURITY SECTOR REFORM
+Contents
+Introduction and key findings ........................................................................................ 414
+Pre‑invasion planning and preparation ......................................................................... 415
+Occupation .................................................................................................................... 417
+Iraqiisation .............................................................................................................. 422
+The US military take the lead on police reform ................................................ 426
+Security declines .............................................................................................. 427
+Transition ...................................................................................................................... 430
+The MOD takes the lead for policing ...................................................................... 434
+Preparation for withdrawal ............................................................................................ 435
+“Good enough” ........................................................................................................ 435
+Better Basra ..................................................................................................... 436
+Security Sector Reform strategy ................................................................................... 440
+Measuring success ................................................................................................. 441
+Lessons ......................................................................................................................... 442
+
+413
+
+The Report of the Iraq Inquiry
+
+Introduction and key findings
+1.  This Section addresses conclusions in relation to the evidence set out in
+Section 12.1.
+2.  This Section does not address conclusions in relation to:
+
+•	
+•	
+•	
+•	
+
+broader planning and preparation for the conflict in Iraq and its aftermath, which
+are described in Section 6.5;
+the decision to remove some members of the Ba’ath Party from public office,
+a process known as “de‑Ba’athification”, which are described in Section 11.2;
+the UK contribution to the reconstruction of Iraq, which are described in
+Section 10.4; or
+the deployment of civilians to Iraq, which are described in Section 15.2.
+
+Key findings
+•	
+
+Between 2003 and 2009, there was no coherent US/UK strategy for Security Sector
+Reform (SSR).
+
+•	
+
+The UK began work on SSR in Iraq without a proper understanding of what it entailed
+and hugely underestimated the magnitude of the task.
+
+•	
+
+The UK was unable to influence the US or engage it in a way that produced an
+Iraq‑wide approach.
+
+•	
+
+There was no qualitative way for the UK to measure progress. The focus on the
+quantity of officers trained for the Iraqi Security Forces, rather than the quality of
+officers, was simplistic and gave a misleading sense of comfort.
+
+•	
+
+After 2006, the UK’s determination to withdraw from Iraq meant that aspirations for
+the Iraqi Security Forces were lowered to what would be “good enough” for Iraq.
+It was never clear what that meant in practice.
+
+•	
+
+The development of the Iraqi Army was considerably more successful than that of the
+Iraqi Police Service. But the UK was still aware before it withdrew from Iraq that the
+Iraqi Army had not been sufficiently tested. The UK was not confident that the Iraqi
+Army could maintain security without support.
+
+414
+
+12.2  |  Conclusions: Security Sector Reform
+
+Pre‑invasion planning and preparation
+What is SSR?
+The Organisation for Economic Co‑operation and Development (OECD) defines SSR
+as development work that helps societies to “escape from a downward spiral wherein
+insecurity, crime and underdevelopment are mutually reinforcing”.1
+In considering the SSR effort in Iraq, the Inquiry’s task was complicated by a lack of clear
+terminology. That is indicative of the lack of clarity which hampered SSR activities from
+the start. The term Security Sector Reform was not used in a consistent way, and was
+sometimes used interchangeably with phrases such as “security system reform” and “Rule
+of Law”. It was sometimes used to refer solely to police reform or to work to reform the
+army. The term “Rule of Law” was often used to refer specifically to the justice sector.
+The term “Security Sector Reform” (SSR) is used in this Report to refer to work to rebuild
+and reform Iraq’s security and justice institutions. The evidence available to the Inquiry
+reflects the UK’s overwhelming focus on the Iraqi Army (IA) and Iraqi Police Service
+(IPS). Low‑budget projects were undertaken in relation to the Iraqi judiciary and prison
+system (see Box, ‘The justice sector’, later in this Section) but their scale was very small
+by comparison.
+
+3.  Before the invasion, UK Government departments recognised that Security Sector
+Reform (SSR) would be an important component in reconstructing Iraq.
+4.  The FCO acknowledged that SSR should be “at the centre of post‑conflict work,
+rather than outside it as happened in Afghanistan”,2 and understood that the issues
+raised by SSR would be complex and should be planned for as soon as possible.
+5.  Papers on SSR written by the FCO between October and December 2002
+demonstrated the range of fundamental questions on SSR in Iraq for which the UK did
+not yet have answers. They included:
+
+•	
+•	
+
+“What security structures would be appropriate for a post S[addam] H[ussein]
+Iraqi Government? How do we arrive at an answer? What are the threats,
+internal and external? Should we undertake a comprehensive review of the
+armed forces?”3
+“How do we replace an excessively large security apparatus with something
+‘right sized’? Reform or abolition? Which parts of the security apparatus might
+be loyal to a new government and which not?”
+
+OECD DAC, Handbook on Security System Reform, 2007.
+Paper FCO Middle East Department, 10 December 2002, ‘Iraq: Security Sector Reform’.
+3
+Letter Gray to Drummond, 18 October 2002, ‘Papers for the AHGI’ attaching Paper, [unattributed],
+17 October 2002, ‘Iraq: Security Sector Reform’.
+1
+2
+
+415
+
+The Report of the Iraq Inquiry
+
+•	
+
+How to reform the working culture of the security sector, “particularly the police
+and the courts, so that it operates on the basis of humanitarian values in support
+of a legitimate government”?4
+
+6.  Between December 2002 and March 2003, very little progress was made in
+answering those questions. SSR was not always referred to in consideration of
+post‑conflict operations. Specific plans were not developed for what would be done
+on the ground.
+7.  The UK saw a need to understand the US strategy before developing its own. That
+was consistent with the broad UK approach to post‑conflict planning, on which the UK
+assumed that the US would lead, as addressed in Section 6.5.
+8.  The UK’s short and medium term objectives for SSR were articulated by the MOD in
+February 2003. They were defined in very broad terms, with the desired end state: “to
+include the restructuring of the intelligence agencies, armed forces, police and criminal
+justice system. All elements of the Security Sector to be affordable and accountable”.5
+9.  From 7 February onwards, responsibility for the UK’s policy on SSR sat with the
+FCO under the leadership of Mr Jack Straw, the Foreign Secretary, and Sir Michael
+Jay, the Permanent Under Secretary. From 10 April, Mr Straw also chaired the Ad Hoc
+Ministerial Group on Iraq Rehabilitation (AHMGIR).
+10.  Two teams in the FCO had a key role in relation to SSR:
+
+•	
+•	
+
+the Iraq Planning Unit (IPU), established to improve Whitehall co‑ordination on
+post‑conflict issues and provide policy guidance on the practical questions that
+UK civilian officials and military commanders would face in Iraq; and
+the United Nations Department (UND), which would help to identify, train and
+deploy civilian police to Iraq.
+
+11.  The US‑led Coalition Military Assistance and Training Team (CMATT) was
+responsible for the training of the New Iraqi Army. The UK provided nine military officers
+in June 2003 to assist with that task, one of which was to act as the Deputy Commander
+of CMATT. It appears from the evidence that, in practice, the MOD led on this aspect
+of SSR.
+12.  On the eve of the invasion, there was no coherent SSR strategy in place between
+Coalition partners. That was described as a “high‑level risk”6 by the MOD’s Defence
+Advisory Team.
+
+Paper FCO Middle East Department, 10 December 2002, ‘Iraq: Security Sector Reform’.
+Paper MOD [unattributed], 5 February 2003, ‘Iraq – Phase IV Subjects’.
+6
+Minute IPU [junior official] to IPU, 18 March 2003, ‘Security Sector Reform: Future Iraqi Armed Forces’
+attaching Paper Defence Advisory Team, March 2003, ‘Security Sector Reform: Future Iraqi Armed
+Forces’.
+4
+5
+
+416
+
+12.2  |  Conclusions: Security Sector Reform
+
+13.  Even though officials had warned that knowledge of conditions within Iraq was
+incomplete, it was assumed that Iraq would have a functioning criminal justice system
+and security forces which, after the removal of Ba’athist leadership, would have the
+capacity to play their part in its reconstruction.
+14.  It was unclear how the international SSR effort would be co‑ordinated and therefore
+what contribution the UK would make.
+
+Occupation
+15.  Immediately after the fall of Saddam Hussein’s regime there was widespread looting
+by the Iraqi population, including in Baghdad and Basra. As described in Section 9.8,
+UK forces in Basra were not given instructions by their commanders in the UK on how to
+deal with it.
+16.  Brigadier Graham Binns, commanding the 7 Armoured Brigade which had taken
+Basra City, concluded that “the best way to stop looting was just to get to a point where
+there was nothing left to loot”.7
+17.  As the need for a functioning police force to control lawless behaviour became
+increasingly apparent, there remained no strategy for SSR.
+18.  Officials from the Department for International Development (DFID) reported that the
+Office of Reconstruction and Humanitarian Assistance (ORHA) had drawn up extensive
+plans for SSR but that those had been disregarded by the US and Coalition military.
+19.  The UK recognised that an SSR strategy was needed. On 24 April, the AHMGIR
+agreed that the UK should lobby the US to create a “comprehensive strategy”, and to
+involve UK personnel in ORHA scoping studies.
+20.  A paper produced for the AHMGIR on 8 May indicated that the UK’s approach
+continued to be based on the assumption that “the UK will neither be required nor able
+to develop an independent policy on SSR in Iraq”.8 The UK’s immediate priorities were
+therefore to influence the development of US policy, recognising that:
+“Reform across the full range of security activities (armed forces, intelligence
+agencies, justice and law enforcement institutions) is an essential element of the
+overall Coalition strategy to establish a united and representative Iraqi Government
+and to create the conditions under which the Coalition can eventually disengage.”
+
+7
+8
+
+Private hearing, 2 June 2010, page 11.
+Paper IPU, May 2003, ‘Iraq – Security Sector Reform’.
+
+417
+
+The Report of the Iraq Inquiry
+
+CPA Order No.2: ‘Dissolution of Entities’
+In May 2003, Coalition Provisional Authority (CPA) Order No.2 “dissolved” a number of
+military and other security entities that had operated as part of Saddam Hussein’s regime,
+including the Armed Forces. Neither the Iraqi Police Service (IPS) nor the Ministry of
+Interior (MOI) was dissolved. The UK’s role in the development of this Order is addressed
+in Section 9.8.
+There was nothing in CPA Order No.2 that prevented former employees of the military
+from applying to join the New Iraqi Army (NIA), although the provisions of Order No.1
+(removing “full” members of the Ba’ath Party – see Section 11.1) would apply.
+Sir David Manning, the Prime Minister’s Foreign Policy Adviser and Head of the Overseas
+and Defence Secretariat, told the Inquiry:
+“… these were policies that added to the difficulties, because we might have
+addressed the security vacuum by trying to encourage Iraqi police, Iraqi military, to
+co‑operate with us, instead of which, they are disbanded and then become natural
+dissidents and potential insurgents.”9
+Disbanding the Iraqi Army automatically increased unemployment in Iraq.
+In November 2003, Mr David Richmond, the Prime Minister’s Special Representative on
+Iraq,10 reported that issue had dominated discussions during his recent visit to Ar Ramadi,
+the capital of Anbar Province. He stated that “unemployment had forced many to do illegal
+acts, including attacks on the Coalition”.11 De‑Ba’athification had “made it impossible for
+most of them to be employed by the State. The governor said that 50 percent had joined
+the Ba’ath Party not out of conviction but because it was a condition of employment;
+40 percent for material gain; and only some 10 percent because they supported
+Ba’athist ideology”.
+Although a monthly stipend for those with at least 15 years’ service (who were not senior
+Ba’athists) had been introduced at the end of June, many struggled to gain access to the
+payments. Ms Ann Clwyd, the Prime Minister’s Special Envoy to Iraq on Human Rights
+from 2003 to 2009, told the Inquiry about a meeting with a senior army officer who had
+queued for his stipend for two weeks without reaching the front of the queue. He had told
+her: “if they want to humiliate us, this is the way of doing it”.12
+Issuing Order No.2 was a key CPA decision which should have been considered between
+Washington and London. It was to have a long‑term impact on the development of the
+insurgency in Iraq.
+
+21.  A more proactive UK strategy for policing in Iraq – produced by UND and sent to
+No.10 by Mr Straw – was endorsed by Mr Blair in early June. Its immediate objective
+was “to stabilise the security situation by creating an effective interim police force
+with international civilian police working alongside Iraqi police and Coalition military
+Public hearing, 30 November 2009, page 91.
+Mr David Richmond was temporarily the Prime Minister’s Special Representative on Iraq. In September
+2003 (on the arrival of Sir Jeremy Greenstock) Mr Richmond became the Deputy.
+11
+Teleletter Richmond to FCO London, 23 November 2003, ‘Iraq: Sunni Outreach: Visit to Ar Ramadi’.
+12
+Public hearing, 3 February 2010, pages 26‑27.
+9
+
+10
+
+418
+
+12.2  |  Conclusions: Security Sector Reform
+
+forces”.13 The strategy’s longer‑term objective was “to establish an effective, viable
+and sustainable police force within a fully functioning security sector”.
+22.  The initial action would be deployment of “an armed International Police Monitoring
+Force … to Baghdad and Basra, to conduct joint patrols with the current Iraqi police
+force and Coalition military”, requiring 3,000 armed police officers. Once the Iraqi police
+were considered to have received sufficient initial training, the international presence
+would shift to a longer‑term training focus, eventually taking on a mentoring role. UND
+suggested agreeing a strategy on how to reform the Iraqi Police Service (IPS) by
+14 June and that the international force should be in place by 31 August.
+23.  The AHMGIR, under Mr Straw’s chairmanship, did not discuss how the strategy
+would be implemented, or consider inconsistencies with the Coalition Provisional
+Authority (CPA) plans for police reform, as highlighted by the MOD. The MOD had been
+in touch with Mr Bernard Kerik, a former New York City Police Commissioner and the
+CPA Director of Interior Affairs. As a result, the MOD considered that the FCO’s policing
+strategy was “about three weeks behind the curve”14 because Mr Kerik did not want an
+international force – instead he wanted 7,000 trainers. UND suggested maintaining its
+approach until the US produced a policing strategy.
+24.  As set out in Section 9.8, the UK struggled to have a decisive impact on CPA
+policies.
+25.  In July, responsibilities for SSR within the CPA were divided. Mr Kerik took on
+responsibility for the Iraqi Ministry of Interior (MOI), including policing, fire, customs,
+border control, immigration, passports, citizenship and disaster relief. Mr Walt Slocombe,
+CPA Senior Advisor for National Security and Defense, focused on the development
+of the Iraqi armed forces. That split was seen by the UK as a set‑back to agreeing a
+coherent national SSR strategy.
+26.  By mid‑July, there were just four senior UK personnel in Iraq working across SSR
+as a whole (including reform of the police and army).The FCO had deployed Acting
+Deputy Chief Constable Douglas Brand to lead the UK’s attempt to influence the CPA
+police reform programme and Acting Deputy Chief Constable Stephen White to lead on
+policing in Basra. DCC White was accompanied by two MOD police officers.
+27.  SSR strategies began to develop on a regional basis, largely in isolation from
+each other.
+28.  On 17 July, the AHMGIR discussed a paper by the IPU which stated that there “was
+still no cohesive strategy”15 but that this was “not necessarily a cause for current alarm”
+Minute Straw to Blair, 5 June 2003, ‘Iraq: Winning the Peace’ attaching Paper UND, 3 June 2003,
+‘Iraq: Security Sector Reform: Policing Strategy’.
+14
+Email UND [junior official] to Lowe [MOD], 9 June 2003, ‘Policing Meeting – Tuesday 10 June’.
+15
+Annotated Agenda, 17 July 2003, Ad Hoc Group on Iraq Rehabilitation meeting attaching Paper IPU,
+16 July 2003, ‘Security Sector Reform the Next Steps’.
+13
+
+419
+
+The Report of the Iraq Inquiry
+
+because it reflected the rapidly moving situation in Iraq. The Inquiry does not agree with
+that analysis. A shared understanding of what sort of police force was required in Iraq
+and how it could be delivered was essential to ensuring that SSR resources were used
+effectively and coherently.
+29.  The AHMGIR identified the requirement for approximately 7,000 international police
+officers – of which it was intended that the UK would provide 100 – as “ambitious” but
+did not commission further work to understand the impact on CPA plans if the total could
+not be reached.
+30.  In August, UND asked DCC Brand to lobby the US for the creation of a policing
+strategy for Iraq. There was no established UK policy position at that point on what sort
+of police force was appropriate for Iraq, the role of an Iraqi police officer, the ideal force
+structure, or how police reform should be delivered. That hampered DCC Brand’s ability
+to influence US strategy.
+31.  Mr Kerik estimated in early August that Iraq would need 65,000‑75,000 police
+officers and that it would take six years to develop a force of that size. There was no
+Coalition plan to deliver that number of officers.
+32.  By the end of August, the CPA’s plans for a 7,000‑strong international training force
+were recognised to be unachievable. The aspiration was now “1,500 to 2,000” officers.16
+33.  A policing strategy for Iraq was also essential to ensure that the international effort
+was coherent across the country. The lack of co‑ordination between police reform in
+Baghdad and Basra could be seen in a report produced by DCC White on 26 August.
+He assessed that 91 international officers would be required to support the policing
+mission in Multi‑National Division (South‑East) (MND(SE)) and an additional 48 would
+be required to provide force protection. DCC White told the Inquiry that that caused
+some controversy when the numbers were communicated to the CPA staff in Baghdad
+as they were considered to be inconsistent with the new ‘MOI 60/90 day Strategic Plan’
+which DCC White had not seen.
+34.  In the absence of a clear strategy for what type of force was needed, and a realistic
+assessment of how it could be delivered, priority was given to pushing Iraqi police
+officers through basic training in large numbers.
+
+Initial problems deploying UK police officers
+Mr Stephen Pattison, Head of UND until June 2003, told the Inquiry that the process of
+recruiting officers to deploy overseas was “always a struggle”17 and “not straightforward”.
+The requirement was often for armed police which ruled out the majority of UK officers.
+
+16
+17
+
+Minute Brand, 10 August 2003, ‘Report from Iraq – Douglas Brand’.
+Statement, 6 January 2011, pages 12‑13.
+
+420
+
+12.2  |  Conclusions: Security Sector Reform
+
+The focus was therefore on getting UK officers into niche roles in which they could
+use their experience without being operational. As any officers deployed would have
+to be volunteers, certain security conditions also had to be met and funding identified.
+Government officials do not appear to have appreciated the scope of that task before they
+started recruiting officers for Iraq.
+The UK’s target was to have deployed 100 UK officers to conduct basic training by the
+end of September 2003.
+On 18 July, Mr Straw wrote to Mr David Blunkett, the Home Secretary, asking him to seek
+nominations of up to 200 officers for firearms training. By September, 260 had applied but
+none had been deployed.
+It is unclear whether that was because of a reluctance on the part of the Association of
+Chief Police Officers (ACPO) and Chief Constables (concerned about breaching their duty
+of care given the security situation in Iraq) to release officers or whether it was because
+the officers who had applied were not suitably qualified.
+In addition to the officers required to run basic training, DCC Brand had also requested
+support staff and officers to address more specific training needs such as intelligence and
+operational planning. He told the Inquiry how, after lobbying for a Special Branch system,
+he was unable to find someone to make the concept a reality and consequently lost
+the opportunity.
+An email from DCC Brand on 21 September expressed frustration that officers had still
+not been deployed to a Joint Command Centre in Baghdad designed to prevent friendly
+fire incidents:
+“ … I don’t mind where they come from as long as they get here ASAP … I made my
+original request … 6 weeks ago … If we are only just thinking about approaching
+PSNI [Police Service of Northern Ireland] it may be weeks or months before
+the officers are able to travel and we would lose all credibility with the American
+military … To remind you, this was our idea … I urge you to act swiftly and not
+delay any longer.”18
+The FCO, and in particular UND, had prior experience of deploying officers overseas but
+was unable to meet the large‑scale requirements of Iraq. Sir Michael Jay should have
+ensured that his department provided the resources that the senior UK officers needed.
+In November, after meeting DCC White, Mr Bill Rammell, FCO Parliamentary
+Under‑Secretary of State, reported that DCC White’s assessment of progress was at odds
+with the way the situation was being described in public.
+The Home Office record of the Iraq Senior Officials Group of 4 November recorded that
+Mr Straw’s initial reaction to DCC White’s complaints was to call a “special meeting of
+Ministers to discuss what more could be done”19 but that FCO officials had advised that
+that was not necessary.
+Following a visit in November, Mr Straw directed Mr John Sawers, FCO Director General
+Political, to resolve the matter: “A combination of the Byzantine bureaucracy of ACPO and
+a lack of understanding in the FCO about police issues and practice … threaten further
+
+18
+19
+
+Email Brand to FCO [junior official], 21 September 2003, ‘Re: Police Training plan’.
+Minute Storr to Acton, 5 November 2003, ‘Iraq: Senior Officials Meeting on 4 November’.
+
+421
+
+The Report of the Iraq Inquiry
+
+delays and a sub‑optimal delivery in an area where the UK has a serious contribution
+to make.”20
+After a slow start, the UK reached its target of 100 trainers in January 2004. The first
+tranche deployed to the training centre in Jordan21 in November 2003 and the first tranche
+of 24 officers for az‑Zubayr Academy in Basra deployed in December. DCC Brand did not
+receive his additional officers for non‑training roles until March 2004.
+
+Iraqiisation
+35.  From early June 2003, and throughout the summer, there had been signs that
+security in both Baghdad and MND(SE) was deteriorating. As the summer wore on,
+authoritative sources in the UK system, such as the Joint Intelligence Committee (JIC),
+began to identify issues with the potential to escalate into conflict and to recognise the
+likelihood that extremist groups would become more co‑ordinated (see Section 14.1).
+36.  In September Mr Donald Rumsfeld, the US Defense Secretary, applied pressure on
+the CPA to increase the number of Iraqi Army officers by ordering an acceleration of the
+training programme, halving the training time to one year, and increasing its budget from
+US$173m to US$2.2bn.
+
+The Iraqi Civil Defence Corps (ICDC)
+The Iraqi Civil Defence Corps (ICDC) was created in July 2003 to:
+
+•	
+•	
+•	
+
+give Coalition operations an Iraqi face;
+keep unemployed young men out of the insurgency; and
+increase the number of security forces available.
+
+Established by CPA Order No.28, the ICDC was described as “a security and emergency
+agency for Iraq”22 and was authorised to perform a wide range of constabularly duties.
+It operated under the authority of the Administrator of the CPA but was subject to the
+supervision of Coalition Forces.
+The ICDC’s performance received mixed reviews but it became an important component
+of SSR while other elements, such as the Iraqi Police Service and Iraqi Army, were being
+developed.
+
+37.  As security worsened, Ministers sought to expedite “Iraqiisation”, the term used
+to refer to the ability of the Iraqi Security Forces (ISF) to take the lead responsibility
+for security.
+
+Minute Straw to Sawers, 27 November 2003, ‘UK Police Assistance to Iraq’.
+The majority of police training took place at the Jordan International Police Training College (JIPTC).
+22
+Coalition Provisional Authority Order Number 28 – Establishment of the Iraqi Civil Defense Corps,
+3 September 2003.
+20
+21
+
+422
+
+12.2  |  Conclusions: Security Sector Reform
+
+38.  On 2 September 2003, in a meeting of Ministers and senior personnel, Mr Blair said
+that he believed that the key to the security situation in Iraq was “the rapid mobilisation
+of an effective Iraqi police force”.23 That included increasing Iraqi police manpower to
+70,000 within three months. That ambitious new target brought forward the timescale
+set by the CPA for reaching that size of force by more than six months.
+39.  The Inquiry has seen no evidence pre‑dating 2 September of the origins of
+the proposal to accelerate training so dramatically, or of analysis of whether it was
+achievable.
+40.  The IPU advised that existing policy was to provide 70,000 police officers by
+mid‑2004 and train 40,000 for the New Iraqi Army within one year. It listed some ideas
+for how SSR could be accelerated and improved but did not suggest any further
+resources beyond those which were already in train. The advice did not assess how
+those suggestions would be resourced and implemented and did not provide an analysis
+of whether Mr Blair’s target of 70,000 officers was achievable.
+41.  A briefing paper for Mr Blair by Mr Richmond stated that Ambassador Bremer did
+not think that Mr Blair’s target was achievable.
+42.  The IPU paper and Mr Richmond’s advice suggested that, at the very least, detailed
+work was needed to assess whether it was possible to accelerate the training timetable
+in the way Mr Blair proposed, and what resources that would require, before the idea
+was pursued further.
+43.  Sir Michael Jay, as the senior official accountable for the resourcing of the UK’s
+police reform effort, should have ensured that such an assessment was made. The
+AHMGIR, chaired by Mr Straw, failed to assess whether Mr Blair’s target and the IPU’s
+suggestions could be achieved.
+44.  Mr Blair pressed the idea of acceleration, including with President Bush, without
+having requested or considered such detailed advice. Ahead of a video conference with
+President Bush on 5 September, Mr Blair sent the President a Note which stated:
+“Iraq has 37,000 police. We need to double that. Given the number of trainers and
+their facilities, that will take a year. We cannot wait that long. So: if we need to treble
+or quadruple the trainers and expand the numbers of Iraqi police even beyond that
+contemplated, we should do it …”24
+45.  The record of the video conference between Mr Blair and President Bush stated that
+Mr Blair had said a “big push” was required to boost numbers and speed up training of
+Iraqi Security Forces.25
+Letter Cannon to Adams, 2 September 2003, ‘Iraq: Briefing for the Prime Minister’.
+Letter Sheinwald to Rice, 5 September 2003 attaching ‘Note on Iraq’.
+25
+Letter Canon to Adams, 5 September 2003, ‘Iraq: Prime Minister’s Video‑Conference with Bush,
+5 September’.
+23
+24
+
+423
+
+The Report of the Iraq Inquiry
+
+46.  For the first meeting of the Iraq Senior Officials Group on 9 September, an IPU
+paper maintained that the focus should be on the Iraqi Civil Defence Corps (ICDC) and
+the police “as the most likely to produce quick results, while continuing to support the
+longer‑term development of the New Iraqi Army”.26 It did not address Mr Blair’s target
+of doubling police officer numbers. It assessed that “the main problem in developing
+the Iraqi Police is the slowness with which CPA is developing its strategy, concept and
+timelines for reform” and that “in the absence of a central strategy, we are pursuing
+regional options”.
+47.  The Annotated Agenda for the meeting of the AHMGIR on 18 September re‑affirmed
+the requirement for a “coherent overall policing strategy”.27 Cabinet Office officials
+reported that the UK was lobbying Ambassador Bremer, and Washington, to expedite
+creation of a strategy and operational plan, and was offering the services of DCC Brand
+to write them. The Annotated Agenda did not reflect Mr Blair’s desire to double the
+number of police officers.
+48.  Despite the IPU’s analysis that lack of strategic direction for police reform was
+the “main problem”, it was not mentioned in a report to Mr Blair from Mr Straw’s office
+on 17 October. That risked giving an unrealistic impression of both what had been
+achieved and what might be achieved in the future. The report stated: “We judge that the
+Coalition now has a credible and deliverable strategy to train 30,000 Iraqi police over
+the next year.”28 By that stage, around 40,000 police officers were considered to have
+been trained.
+49.  Mr Straw told the Inquiry that he considered that judgement to be “reasonable”29 at
+the time but that with hindsight he could see that it was not.
+50.  Following the FCO Police Contributors conference in early October, it was clear
+that sufficient additional international support to make plans for accelerated training
+deliverable was unlikely to be forthcoming.
+51.  In October, a public order incident in Basra demonstrated the continued
+deficiencies of the local police.
+52.  Shortly afterwards, DCC White publicly expressed concerns about the SSR
+programme in Iraq, and the UK’s resourcing of it, in a documentary broadcast by BBC
+Northern Ireland. DCC White told the Inquiry that his remarks had caused controversy
+in the UK and he was left “feeling unsupported and isolated”30 but for the support of
+Sir Hilary Synnott, Head of CPA(South), and Ms Jane Kennedy, Minister of State for
+Northern Ireland.
+
+Paper IPU, 8 September 2003, ‘Iraq: Security Action Plan’.
+Annotated Agenda, 18 September 2003, Ad Hoc Group on Iraq Rehabilitation meeting.
+28
+Letter Sinclair to Sheinwald, 17 October 2003, ‘Iraq: Security and Policing’.
+29
+Public hearing, 2 February 2011, page 140.
+30
+Statement, 20 June 2010, pages 30‑31.
+26
+27
+
+424
+
+12.2  |  Conclusions: Security Sector Reform
+
+53.  Following a review, Combined Joint Taskforce‑7 (CJTF‑7)31 issued an Order on
+27 October entitled ‘Acceleration of the Iraqi Police Services’ which envisaged enhanced
+support from CJTF‑7 for enlarged and accelerated police training programmes. It had
+been developed without consultation with the UK.
+54.  Sir Hilary Synnott reported that the Order had:
+“ … considerable implications for military resources to be devoted to police training;
+for our current plans, including the recently inaugurated Basra Regional Police
+Academy; and for the significant Danish effort at present and in future. We had no
+warning of this from CPA Baghdad (beyond a slight reference to such a possibility),
+no subsequent information from them and no consultation.”32
+55.  On 6 November, the AHMGIR was told that the new approach included “accelerating
+recruitment, training and deployment of Iraqi security forces”.33 The ICDC was set to
+increase by April 2004 and the target for 70,000 police should be reached by August
+2004 rather than March 2005. The training of the Iraqi Army would be slowed, but the
+Army would “now be allowed to undertake internal as well as external security tasks”.
+56.  Although the US military had produced plans for accelerating training, they had not
+addressed DCC White’s concerns about the quality of that training.
+57.  Former DCC Brand told the Inquiry:
+“Trying to persuade my military colleagues at two‑star and three‑star level that this
+was a long‑term investment of restructuring the police seemed to work against their
+sort of short‑term mission goals, and I very vividly remember the presentation that
+was done to the Commanding General which was entitled ‘30,000 in 30 Days’ …
+I had to say ‘Okay, in that case then, why don’t you give me the military to train?
+I have read a few war books, I have seen a few war films, it can’t be as difficult as
+that, or is that as ridiculous as what you are suggesting, which is we recruit 30,000 in
+30 days, call them police, label them police, give them weapons and say ‘You are
+now in the police’ but actually have no capability to do the things that policemen
+should do at all?”34
+58.  In November, Chief Constable Paul Kernaghan, the lead on international affairs for
+the Association of Chief Police Officers (ACPO), told Mr Straw that police reform in Iraq
+still lacked vision and that the UK contribution was insufficient.
+59.  At about the same time, Mr Jim Daniel, a senior ex‑Home Office adviser sent to
+Iraq to help the CPA generate a policing strategy, decided to resign. The combination of
+CJTF‑7, the Coalition HQ in Iraq, was a small command. It was led by Lieutenant General Ricardo
+Sanchez.
+32 
+Telegram 110 FCO London [on behalf of CPA Basra] to UKRep Iraq, 31 October 2003, ‘Police Training
+in South Iraq’.
+33
+Annotated Agenda Cabinet Office, 6 November 2003, Ad Hoc Group on Iraq Rehabilitation.
+34
+Public hearing, 29 June 2010, pages 24‑25.
+31
+
+425
+
+The Report of the Iraq Inquiry
+
+CC Kernaghan’s advice, DCC White’s views and Mr Daniel’s resignation were
+sufficient to highlight that police reform – an essential part of the UK’s exit strategy –
+was in serious difficulties.
+60.  By the end of November 2003, Mr Straw had clear evidence that police reform in
+Iraq lacked strategic direction. He should have instigated consideration of the UK’s
+options for resolving the problem, including work to define a UK position on the right
+strategy for Iraqi policing.
+61.  The response of the AHMGIR, chaired by Mr Straw, was instead that the UK
+should lobby the US to make improvements in police training. Mr Straw should have
+recognised that lobbying alone would be insufficient to address the critical lack of a
+strategy/vision for policing in Iraq. Mr Straw’s direction to Mr Sawers (see Box, ‘Initial
+problems deploying UK police officers’, earlier in this Section) focused too narrowly on
+the deployment of UK police officers rather than on the wider issues in police reform.
+THE US MILITARY TAKE THE LEAD ON POLICE REFORM
+62.  In mid‑November, a new political timetable for Iraq was announced, which brought
+forward the handover of power from the CPA to the Iraqi Transitional Government (ITG)
+to June 2004.35 Former DCC Brand told the Inquiry that the change of timetable critically
+changed everyone’s outlook: “all the focus was on ‘Let’s get this over to the Iraqis’, and
+so our longer‑term intentions were almost squashed from there on”.36
+63.  Towards the end of 2003, within the UK there was awareness that assessments
+given by US commanders were “exaggerated”37 and there were doubts about Iraqi
+capacity. A significant gap in figures was highlighted by the FCO, which assessed
+that there were around 45,000 operational police officers throughout Iraq, all requiring
+some level of re‑training. The US assessment was that there were 63,000 operational
+police officers.
+64.  In the absence of a coherent strategy, Coalition partners continued to work
+independently of one another. An example of this occurred in February 2004, when
+the UK started recruiting 40 retired UK officers to act as mentors. At the same time,
+the US was developing plans to recruit around 500 police advisers from Dyncorps to
+act as mentors, of which 50 were planned for deployment to the South. That was met
+with some consternation by Mr Steve Casteel, who replaced Mr Kerik as CPA Director
+of Internal Affairs in September 2003. He reportedly said: “This isn’t two countries,
+you know.”38
+65.  Secretary Rumsfeld transferred the responsibility for training and mentoring
+police officers to the US military in March 2004 following a report by Major General
+Minute Cannon to Prime Minister, 18 November 2003, ‘Iraq: Political Timetable’.
+Public hearing, 29 June 2010, page 67.
+37
+Minute Dodd to Sheinwald, 10 December 2003, ‘Iraq: Strategy Group’.
+38
+Minute FCO [junior official], to Buck, 4 February 2004, ‘Visit to Iraq 26‑30 Jan’.
+35
+36
+
+426
+
+12.2  |  Conclusions: Security Sector Reform
+
+Karl Eikenberry, former US Security Co‑ordinator and Chief of the Office of Military
+Co‑operation in Afghanistan. It was thought that the change would provide the unity of
+command across the security sector that was needed. The report reiterated that the
+Army’s focus should remain on external threats but its training rate be reduced to allow
+the development of other security forces.
+66.  The change in responsibilities led to the creation of a new umbrella structure, the
+Office of Security Co‑operation (OSC), commanded by Major General Paul Eaton, the
+former commander of CMATT. CMATT and the newly named policing equivalent – the
+Coalition Police Assistance Training Team (CPATT) – would report to the OSC and the
+OSC would report to the CJTF‑7.
+67.  It appears that DCC Brand and Mr Casteel had not been consulted about that
+significant change in approach. Former DCC Brand told the Inquiry that the creation of
+the OSC was a shock to both him and Mr Casteel. He said that, while the military could
+do “the volume stuff”,39 they did not have the skill set to conduct basic training or the
+policy advice on policing. That meant “they were making it up … from theatre, rather
+than back at the policy headquarters”.
+68.  On 25 March 2004, the FCO’s Weekly Update on Iraq for No.10 stated that a
+CENTCOM review had concluded that transition to local control across Iraq was “likely
+to be delayed by up to eight months from their original over optimistic target of May
+2004”.40 The paper stated that was “not a surprise”:
+“The Iraqi Security Forces do not just have to be hired; they must be vetted, trained,
+equipped, mentored and certified ie capability, not numbers, is the key … Bremer
+has been pushing for quality for months, without the support in Washington, where
+the emphasis has been on numbers. On the positive side, a lesson has now been
+learned.”
+69.  The Cabinet Office sent an update for Ministers on 2 April, stating that police training
+was to be accelerated under the new structures with a target of completing in‑service
+training of 43,000 officers by January 2005.
+70.  Although advice and information sent to Ministers consistently emphasised the
+importance of training competent police officers, the focus of effort continued to be on
+training officers in high numbers.
+SECURITY DECLINES
+71.  There was a significant worsening of security in the spring of 2004. Coupled with
+revelations of abuse by members of the US military of Iraqi detainees in Abu Ghraib
+
+Public hearing, 29 June 2010, pages 94‑95.
+Minute Owen to Cannon, 25 March 2004, ‘Iraq: Weekly Update’ attaching paper FCO ‘Iraq: No 10
+Weekly Update’.
+39
+40
+
+427
+
+The Report of the Iraq Inquiry
+
+prison, this led many of the Inquiry’s witnesses to conclude that the spring of 2004 was
+a turning point, as described in Section 9.8.
+72.  In April, weaknesses in the ICDC and IPS were exposed as a result of uprisings
+in Fallujah and Najaf. Some officers abandoned their posts and aided the insurgency.
+Others mutinied when they came under fire.
+73.  The ICDC was affected worst of all. 12,000 members deserted within two weeks.
+Consideration was given to re‑engaging military officers dismissed under the policy of
+de‑Ba’athification (see Section 11.1). Ambassador Paul Bremer, Presidential Envoy to
+Iraq and Head of the CPA, maintained that the de‑Ba’thification policy was correct, but
+had been poorly implemented. Mr Blair told President Bush that the Coalition needed to
+do “whatever it takes”41 to get the ICDC and police into shape. He added: “I’m not sure
+we really have our entire system focused on this; and it needs to be”.
+74.  Mr Blair held a meeting with Ministers and senior officials on 13 May to discuss
+security in Iraq. He expressed a clear view that there were two key issues in Iraq: the
+political process and security, of which security was “fundamental”.42 After the transfer of
+sovereignty, Mr Blair felt that the Iraqis would be reluctant to ask the Coalition to manage
+security for them and this “put a real premium on building capacity urgently”.
+75.  At Mr Blair’s request, a team led by Major General Nicholas Houghton, Assistant
+Chief of the Defence Staff (Operations), visited Iraq from 20 to 23 May to see what could
+be done to speed up Iraqiisation of the security sector.
+76.  Maj Gen Houghton’s frank assessment identified issues that should already
+have been clear to Ministers and officials. He noted the lack of strategy, “bureaucratic
+complexity”43 hindering access to funds and resources, “initiative overload” and a
+short‑term focus. He stated that the concept of acceleration was “misplaced”. It was
+“‘Sustained Effort”, with some change in emphasis, that would produce the desired
+capability. He highlighted the need for “honest acceptance” of the likely timescales.
+77.  Maj Gen Houghton assessed that:
+“The biggest single thing that will move the creation of capability forward is the
+increased use of military and police assets in mentoring roles. This should involve,
+for example, widening the concept of embedding troops within ICDC Units. Given
+available assets this will mean taking risk on maintaining security.”
+78.  Maj Gen Houghton judged that an SSR strategy must be “authored, owned and
+executed” in Iraq, not in London.
+
+Letter Sheinwald to Rice, 26 April 2004 attaching Note from PM for President Bush.
+Letter Bowen to Baker, 13 May 2004, ‘Iraq: security’.
+43
+Minute ACDS(Ops) to Rycroft, 25 May 2004, ‘How Best to Progress the Iraqiisation of the
+Security Sector’.
+41
+42
+
+428
+
+12.2  |  Conclusions: Security Sector Reform
+
+79.  Maj Gen Houghton stated that over 80,000 police officers were operational with
+approximately 20,000 having received training. An accelerated training programme was
+being put in place by CPATT.
+80.  Mr Blair tried to inject a new sense of urgency into Iraqiisation. In five meetings
+and conversations with President Bush in May and June, Mr Blair raised Iraqiisation,
+emphasising its importance and his hope that Lieutenant General David Petraeus,
+Commanding General Multi‑National Force – Iraq,44 and Prime Minister Designate
+Dr Ayad Allawi could agree a joint plan on Iraqiisation for publication.
+81.  On 3 June, Mr Blair asked to be informed of “any obstacles or log jams”45 which he
+might need to raise with President Bush. He commissioned a round‑up on Iraqiisation
+every two weeks.
+82.  Mr Geoff Hoon, the Defence Secretary, and General Sir Mike Walker, Chief of the
+Defence Staff, provided Mr Blair with an update on Iraqiisation two weeks later. Mr Blair
+again asked to be informed of any issues automatically rather than having to ask.
+83.  On 16 June, Mr Blair wrote to President Bush that the problem with Iraqiisation was
+“obvious”: “The numbers in the police are there. But not the quality or equipment …”46
+84.  By the end of the Coalition’s Occupation in June 2004, Ministers were aware that
+Iraqiisation was critical to the UK’s withdrawal and that it was the quality, not quantity,
+of officers in the ISF that was critical. But the US and UK were no closer to achieving
+a coherent SSR strategy for Iraq. As the CPA was disbanded and responsibility for
+day‑to‑day interaction with the Iraqi Interim Government on civil affairs passed to the
+newly appointed British and US Ambassadors, there was no plan to develop one.
+
+The justice sector
+For SSR, the UK’s overwhelming focus was on the army and police. The need for a robust
+judicial system had been recognised but was poorly supported.
+Prisons were listed as a “priority one area”47 in April 2003 but by December it was reported
+that “not much work had been done in this area”.
+In June 2003, Lord Goldsmith, the Attorney General, told the AHMGIR that corruption and
+intimidation had left the Iraqi judicial system in a worse state than expected and that it
+would require a long‑term commitment from the international community to rebuild it.
+In March 2004, a report from Mr Robert Davies, Chief Police Adviser to the Ministry
+of Interior, stated that only one out of five Iraqi Correctional Service facilities was
+functioning in the UK’s Area of Responsibility. Even that facility was in poor condition
+and overcrowded. In January, the prison held 478 prisoners against a capacity of 230.
+
+The MNF‑I subsumed OSC in June 2004.
+Letter Rycroft to Baker, 3 June 2004, ‘Iraq: Prime Minister’s Meeting, 3 June’.
+46 
+Letter Sheinwald to Rice, 16 June 2004, [untitled] attaching Note Blair [to Bush], [undated], ‘Note ’.
+47
+Minutes, 4 December 2003, Security Sector Reform meeting.
+44
+45
+
+429
+
+The Report of the Iraq Inquiry
+
+Part of the reason identified for this rise had been a weakness in the due process where
+prisoners were kept on remand without judicial review.
+SSR projects in the justice sector were small in comparison with efforts being made to
+reform the Iraqi Army and Iraqi Police Service:
+
+•	
+
+In January 2004, DFID approved a contribution of £2.2m over two years
+towards the International Legal Assistance Consortium (ILAC). A review of
+the programme in June 2006 stated “that the project was put together under
+pressure rapidly to get programme activities started with some quick‑win
+activities … The pressure to move fast, however, may well have sown the seeds
+for the eventual, limited impact”.48
+
+•	
+
+A support programme for prisons in southern Iraq was approved during the
+summer of 2004. The UK awarded £1.7m to the programme (after a bid of
+£5.53m) to train and mentor staff. All prisons within the CPA(South) boundary
+run by the Iraqi Prison Service were overseen and maintained by the UK.
+
+•	
+
+The UK contributed some staff towards the EU JustLex programme that began
+in February 2005. The programme was an integrated police and Rule of Law
+mission for Iraq by Member States arranging senior management training for the
+police, judiciary and prison service. Over four years, it comprised 40 staff from
+across the EU and spent roughly €30m.
+
+As with the majority of SSR programmes, success seemed to be measured by the
+number of Iraqi staff trained. The programmes were not effective in solving the underlying
+problems of corruption and intimidation that thwarted significant improvement.
+Officials were still reporting in May 2006 that justice continued to be “the missing link”.49
+In March 2007, the Better Basra plan described Iraq’s judiciary as “weak and unable to
+prosecute serious crime”.50 Prisons were described as “old, overcrowded” and said to “not
+meet minimum international human rights standards”. That assessment suggested that
+little progress had been made from the UK’s early assessments of Iraq’s justice sector.
+Severe overcrowding was still an issue in December 2007 when an FCO official reported
+that:
+“Through a combination of negligence, incompetence, poor co‑ordination and
+lack of adequate facilities it can take a long time to process detainees through the
+investigative, judicial and correctional systems.”51
+
+Transition
+85.  After the UK and US ceased to be Occupying Powers in Iraq in June 2004, SSR
+was conducted under the authority of resolution 1546 (2004) and the annexed letters
+from Dr Ayad Allawi, the Iraqi Prime Minister, and US Secretary of State Mr Colin Powell.
+Report DFID, 30 June 2006, ‘Iraq International Legal Consortium Justice Sector’.
+Email FCO [junior official] to IPU [junior official], 25 May 2006, ‘Rule of Law – The Justice Sector’.
+50
+Letter Marsden to Aldred, 2 March 2007, ‘Better Basra’ attaching Paper, 1 March 2007, ‘Better Basra
+Mark 3: The 2007 Plan’.
+51
+Minute FCO [junior official] to PS/SofS [FCO], 20 December 2007, ‘Iraq: Detention and Reconciliation:
+UK Approach for 2008’.
+48
+49
+
+430
+
+12.2  |  Conclusions: Security Sector Reform
+
+The role of the Multi‑National Force (MNF) was to continue building the capability of
+the ISF and its institutions through a programme of recruitment, training, equipping,
+mentoring and monitoring.
+86.  During the CPA era, the metric used to measure progress in relation to the ISF had
+been the number of personnel on duty. Immediately after the transition, that metric was
+replaced by “trained and equipped”52 personnel. The net result was a 75 percent drop in
+the totals of force personnel attributed to the MOI from 181,297 “on duty” personnel on
+15 June to 47,255 “trained and equipped” personnel on 25 August.
+87.  Shortly after transition, Mr Straw advised the Ministerial Committee on Defence and
+Overseas Policy (DOP) that the SSR objective for the following six months should be
+for the ISF to be in control across much of the country. That was the basis on which UK
+troop reductions would be feasible. DOP agreed. It is not clear how Mr Straw reached
+the conclusion that that was a viable objective.
+88.  By early October, there was clear evidence that the SSR objective agreed by DOP
+was unlikely to be achievable because:
+
+•	
+•	
+•	
+•	
+
+The Basra police chief was working with militants who were causing disruption
+in the area.
+There remained significant capacity issues within key ministries.
+There was a need for more focused IPS training in areas of operational planning
+and intelligence.
+Warnings from theatre continued to stress that the focus on numbers was
+misplaced – the morale and integrity of officers who had joined the ISF
+was questionable and those issues needed to be addressed to deliver the
+capabilities required.
+
+89.  In November, FCO officials informed Mr Straw that they were factoring such
+concerns into their planning. They assessed that the two most serious problems were
+the dysfunctional MOI and the lack of equipment, both of which were being addressed
+by UK‑funded initiatives.
+90.  It should have been clear to Mr Straw and FCO officials, for whose advice
+Sir Michael Jay was accountable, that the ISF were unlikely to be able to provide
+security and that troop reductions based on the assumption that Iraqiisation would be
+successful needed to be reconsidered.
+91.  On 9 December, despite evidence to the contrary, the FCO continued to advise that,
+by the summer of 2005, the ISF could take the lead on security. It was overly optimistic
+of the FCO, under Mr Straw’s leadership, to believe that would be the case. That
+over‑optimism distorted consideration of when UK forces should be withdrawn from Iraq.
+Bowen SW Jr. Hard Lessons: The Iraq Reconstruction Experience. U.S. Government Printing
+Office, 2009.
+52
+
+431
+
+The Report of the Iraq Inquiry
+
+92.  A JIC Assessment of 15 December assessed that a credible ISF, capable of
+managing the insurgency unaided, would not emerge until 2006 at the earliest.
+93.  The JIC Assessment was discussed at the Ad Hoc Ministerial Group on Iraq the
+following day. Ministers agreed that a number of papers should be prepared, including
+practical suggestions to adjust the Petraeus Plan53 for SSR, ways of improving the Iraqi
+Ministry of Defence and MOI, a list of security and funding issues for Mr Blair to raise
+with President Bush and a list of useful activities that other countries could be asked to
+undertake. The lack of a policing strategy for Iraq, which had been identified by the IPU
+as early as July 2003, had still not been addressed.
+94.  In February 2005, the FCO produced a paper for the AHMGIR that contained
+proposals for a greater focus at the national level where there was “an urgent need
+for an Iraqi national policing strategy, supported by an appropriate training syllabus
+to address established weaknesses”.54 The proposals were for the development of a
+National Police Plan and in the areas of forensics and intelligence. The FCO paper also
+pointed to potential funding pressures if those new proposals were to be adopted and if
+current projects were extended.
+95.  The FCO told the AHMGIR that the key message from the paper was that funding
+beyond September was extremely tight and tough decisions would need to be made.
+96.  In the absence of an SSR strategy against which the merits and contribution of any
+particular project or programme could be judged, the basis on which such decisions
+could be made was unclear.
+97.  Just three months after the JIC had raised concerns about the development of the
+ISF, the MOD advised No.10 in March that the Petraeus Plan was “largely on track,
+meeting the demands of a well‑entrenched counter insurgency”.55 The ISF was expected
+to achieve full strength by January 2006 and the transfer of regional control would be
+under way. The view from No.10 was that the MOD’s advice was “rather insubstantial,
+and almost certainly too optimistic in its assessment of the quality of much of the ISF”.56
+98.  The MOD’s assessment was also contrary to other reports coming from Iraq around
+that time and it became difficult for Ministers to know which evidence was most accurate.
+In his Hauldown Report, Lieutenant General John Kiszely, Senior British Military
+Representative, Iraq (SBMR‑I) from October 2004 to April 2005, described the MOI as
+dysfunctional and stated that any expectation that the IPS would be able to perform well
+against the insurgency was unrealistic.
+
+The Petraeus Plan followed a ‘Troops to Task’ assessment carried out by Lt Gen Petraeus in the
+summer of 2004. The resulting plan was to increase the Iraqi Police Service and Iraqi National Guard
+by roughly 50 percent.
+54
+Note FCO, 21 February 2005, ‘Iraq – UK Support to Civil Policing in Iraq – 2005’.
+55
+Letter Naworynsky to Quarrey, 17 March 2005, ‘Petraeus Plan Update’.
+56
+Minute Quarrey to Prime Minister, 18 March 2005, ‘Iraq Update’.
+53
+
+432
+
+12.2  |  Conclusions: Security Sector Reform
+
+99.  During the summer of 2005, there is evidence that UK officials were not clear
+about their departments’ role within the SSR effort and felt disconnected from what was
+happening on the ground. That was exemplified in June when DFID commissioned
+a consultant to assist the FCO in drawing together a cross‑Whitehall strategy for UK
+support to the development of Iraqi policing capacity. The FCO, the MOD and DFID
+struggled to reach an agreement on what the strategy should say and acknowledged
+they simply did not know whether policing was on track or not.
+100.  Lieutenant General Robin Brims, SBMR‑I, reported in July that, although the Iraqi
+Army was steadily increasing in confidence, it did not yet have the ability to conduct
+complex operations. The police were lagging behind the army and were of doubtful
+quality but plans were in place to address that.
+101.  Mr Blair saw Lt Gen Brims’ report and sought an honest assessment of the
+progress of Iraqiisation, which suggests a lack of confidence in the MOD’s reporting.
+Dr John Reid, the Defence Secretary, admitted that there was still a focus on quantity
+rather than quality in stating “numerically, generation of ISF remains on track, but
+significant development in key capability areas is still needed”.57
+102.  The information on ISF numbers also masked other issues. In September, an
+FCO transition plan for the IPS showed, when compared with earlier MOD papers, that
+the overall figure of 55 percent of police trained masked considerable variations across
+MND(SE) – although 90 percent of personnel in Dhi Qar province had received training,
+the figures for Muthanna and Basra were considerably lower (40 percent and 42 percent
+respectively).
+103.  Mr Blair expressed his concerns about ISF capability, following reports of police
+involvement in attacks on the Multi‑National Forces in Basra. But despite concerns that
+had been expressed about the capacity of the ISF, Dr Reid recommended a reduction in
+UK forces should take place in October or November of 2005.
+104.  A few days after Dr Reid made his recommendation the Jameat incident in Basra
+on 19 September raised questions about the ISF in MND(SE). Officials from the FCO,
+the MOD and DFID judged that the incident had highlighted the risks to achieving UK
+objectives in MND(SE), and that those risks had implications for military resources.
+Nevertheless, assumptions about ISF readiness were not re‑examined by Ministers.
+Reluctance to consider the potential implications of the Jameat incident obscured what
+it had revealed about the security situation in MND(SE).
+105.  Sir Nigel Sheinwald, Mr Blair’s Foreign Policy Adviser, wrote: “It is clear that we
+need to review whether our police training strategy in the South‑East is working, and
+whether the national policing strategy knits together.”58 Sir Nigel reported that Mr Blair
+had agreed that Sir Ronnie Flanagan, Her Majesty’s Chief Inspector of Constabulary,
+57
+58
+
+Minute Reid to Blair, 28 August 2005, ‘Update on progress of the Iraqi security forces (ISF)’.
+Letter Sheinwald to Hayes, 4 October 2005, ‘Iraq Strategy’.
+
+433
+
+The Report of the Iraq Inquiry
+
+should be asked to visit Iraq and that he wanted a UK Minister to take ownership of the
+overall policing strategy, including liaison with the US over national strategy, supported
+by a dedicated team in London.
+
+The MOD takes the lead for policing
+106.  The critical importance of ISF capability in assessing readiness for transfer to
+Provincial Iraqi Control, on which UK plans to draw down were based, was emphasised
+by the ‘Conditions for Provincial Transfer’ published by the Joint Iraqi/MNF Committee
+to Transfer Security Responsibility, and by Dr Reid, who told the Defence and Overseas
+Policy Committee on Iraq (DOP(I)) on 12 October that “successful Iraqiisation remains
+the key”.59 DOP(I) decided that Dr Reid should have lead responsibility for building the
+capacity of the IPS in Basra in addition to his responsibility for the Iraqi Army.
+107.  DOP(I) discussed the need “to do more to speed up the development of police” but
+considered that “the plan for ISF development that was in place was largely sound”.60
+108.  Mr Blair asked for a major and sustained push to make progress on the ability of
+the ISF to take the lead on security.
+109.  General Sir Mike Jackson, Chief of the General Staff, raised concerns about
+ISF effectiveness in a minute to Gen Walker and concluded: “it is not to our credit
+that we have known about the inadequacies of the IPS for so long and yet failed to
+address them”.61
+110.  At the same time, the JIC stated that the Iraqi armed forces stood at
+91,000 personnel and MOI forces at 106,000 personnel, but that those figures did
+not take account of absenteeism or provide an indication of true capability. The IPS
+suffered from divided loyalties and a significant number were involved in criminality for
+financial gain.
+111.  In MND(SE), there was a lack of confidence that plans to tackle corruption
+within the IPS were working. There were questions about whether the IPS should be
+disbanded and started from scratch. Major General James Dutton, General Officer
+Commanding MND(SE) (GOC MND(SE)) from June 2005 to December 2005, told the
+Inquiry that was why he had proposed a three‑point plan on 24 October. It was more
+focused on reform than re‑design and reflected the new approach that “we should be
+aiming for a police force that is relevant and ‘good enough’ for this region”.62
+112.  The need for a single SSR strategy was raised again by Sir Ronnie Flanagan
+when he visited Iraq in November to conduct another review of the effectiveness of the
+UK’s policing strategy. In his final report of 31 January 2006, Sir Ronnie reported that a
+Paper Reid, 11 October 2005, ‘Iraq: Security update’.
+Minutes, 12 October 2005, DOP(I) meeting.
+61
+Minute CGS to CDS, October 2005, ‘CGS visit to Iraq: 10‑13 Oct 05’.
+62
+Letter Dutton to Wall, 24 October 2005, ‘Policing SE Iraq’.
+59
+60
+
+434
+
+12.2  |  Conclusions: Security Sector Reform
+
+broad strategic plan was being developed and the disconnected ways of working were
+becoming a thing of the past. While that work may have been under way at that time, the
+Inquiry has not seen any evidence of a national strategy being produced as a result.
+113.  By the end of 2005, Whitehall remained overly optimistic about ISF development.
+In papers prepared for DOP(I) on 20 December, the MOD stated that the development
+of the Iraqi Army remained on track for the fully funded and trained figure of 130,000 by
+December 2006 and the IPS was making an increasingly significant contribution
+although it was behind the Iraqi Army in development terms. There remained a
+significant issue about whether the Iraqi Government and ministries had the capacity
+to direct and sustain the civil and military security forces. That was alongside the risk of
+increasing sectarianism and militia infiltration.
+114.  Mr Blair told President Bush on 23 December: “The two clear messages were: the
+vital nature of leadership of the MOI and MOD; and 2006 being the year of the police.”63
+
+Preparation for withdrawal
+“Good enough”
+115.  In late 2005, General George Casey, who became Commander of the CJTF‑7
+in June 2004, designated 2006 as the “Year of the Police”, recognising that a national
+police force was vital to any exit strategy.
+116.  From 2006, the UK appears to have stopped lobbying for the creation of a national
+SSR strategy and instead focused on what was necessary to enable the withdrawal of
+troops. Without a means to measure progress objectively, success continued to mean
+the number of officers trained.
+117.  Acting Deputy Chief Constable Colin Smith, Chief Police Adviser Iraq, wrote about
+the Year of the Police in January 2006 that “the strap line that ‘just enough is good
+enough’ is, whilst probably realistic, not particularly encouraging”.64 He wrote that it could
+be “a defining factor in the development of an effective Iraqi Police Service”.
+118.  In March 2006, Dr Reid continued to press ahead with drawdown and announced
+that troop levels would reduce in May 2006 from approximately 8,000 to around
+7,200 based on “completion of various security sector reform tasks, a reduction in
+the support levels for those tasks, and recent efficiency measures in theatre”.65 That
+rationale did not include an assessment of the effect of those tasks on the capability of
+the ISF.
+
+Letter Quarrey to O’Sullivan, 23 December 2005, ‘Iraq’ attaching ‘Note Prime Minister to
+President Bush’.
+64
+Minute Smith, 1 January 2006, ‘UK Chief Police Advisor – Iraq: Weekly Report: Week Ending Sunday
+1st Jan 2006’.
+65
+Letter Reid to Blair, 9 March 2006, ‘Iraq: Force Level Review and Announcement’.
+63 
+
+435
+
+The Report of the Iraq Inquiry
+
+119.  The assessment of ISF capability from other sources was still discouraging:
+
+•	
+•	
+•	
+
+Operation CORRODE, an operation aimed at removing corrupt police, proved
+difficult to implement with limited political engagement in Basra. The JIC
+afterwards reported that it suspected that officers had been reassigned rather
+than removed.
+The JIC reported that the ISF could cope with low‑level threats but its readiness
+to handle Shia extremists or intra‑Shia violence was uncertain. Army command,
+control and logistics capabilities were all still developing, making major
+operations without MNF support difficult.
+Mr Robin Lamb, British Consul General in Basra, reported that local staff
+regarded the IPS “as at best ineffective, and at worst complicit in the
+assassinations. We would support that assessment”.
+
+120.  The security situation in MND(SE) continued to decline in 2006, and the UK
+continued to plan for drawdown. That is addressed in Section 9.8.
+121.  The MOD’s assessment in June was that the ISF programme was “on target to
+complete by December 2006 with 80 percent of the ISF trained and equipped (less
+the forces in Anbar province and the Air Force and Navy capability)”.66 The police were
+“some way behind” but “significant progress” was expected by the end of the year. Their
+effectiveness rested on their credibility with the Iraqi people, which was “increasing but
+remain[ed] an issue”. The ISF should “be capable of managing the threat that they will
+face but could be quickly undermined by poor leadership”.
+122.  On 1 September, an eGram from the British Embassy Baghdad reported an
+“important step psychologically”67 for the Iraqi military: the Iraqi Ground Forces
+Command and Iraqi Ministry of Defence would commence “a staggered handover” of
+command and control functions from MNF‑I on 3 September. The Embassy stated that
+“while the assumption of responsibility looks gradual and sensibly phased, in reality the
+pace will be demanding to both MNF‑I and the IGFC [Iraqi Ground Forces Command]”.
+As “life support and logistics capabilities” were “developing at their own, much slower,
+pace”, the Embassy predicted that “IA Divisions will remain dependent on MNF‑I for
+some time to come”.
+BETTER BASRA
+123.  In summer 2006, in recognition of the need to stabilise Basra and prepare it
+for transition to Iraqi control, the UK developed the Basra Security Plan and Better
+Basra Plan. The former was “a plan to improve Basra through operations, high impact
+
+Minute DJC/Iraq to CO [junior official], 7 June 2006, ‘Iraq: Strategy Group Workstrands’ attaching Paper
+‘Update on Progress of the Iraqi Security Forces (ISF)’.
+67
+eGram 38264/06 Baghdad to FCO, 1 September 2006, ‘Iraq: Iraqis to Take Over Command and Control
+of its First Army Division’.
+66
+
+436
+
+12.2  |  Conclusions: Security Sector Reform
+
+reconstruction and SSR … lasting for up to six months”,68 the military element of
+which became known as Operation SALAMANCA and included operations against
+militia groups.
+124.  Major General Richard Shirreff, GOC MND(SE) from July 2006 until January 2007,
+anticipated that during Op SALAMANCA there would be “a concerted and sustained
+effort by Police Training Teams”69 to “turn those police stations capable of improvement
+into police stations that are capable of providing basic security in their local areas”.
+His aim was “to cull the unredeemable and rehabilitate the ‘just about’ salvageable”.
+125.  In September, as set out in Section 9.8, the scope of Op SALAMANCA was
+constrained. It later became known as Operation SINBAD.
+126.  While most reports from theatre indicated that Op SINBAD had progressed well,
+it does not appear to have created the significant development in the Iraqi Army’s
+capability that had been desired. On 27 October, Mr Blair was informed that the Iraqi
+Army had performed well in some areas but it still lacked maturity.
+127.  Operations designed to weed out corrupt officers were only able to achieve limited
+success because a proper governance structure within the ministries and judicial
+system was lacking. Operation THYME in December 2006 sought to purge the Serious
+Crime Unit of corrupt officers, but the DOP(I) was told in January 2007 that, although
+arrest warrants had been issued for members of the Serious Crime Unit, they had not
+been actioned. There were signs that those members of the Serious Crime Unit were
+“continuing to operate”.70
+128.  Mr Blair stated that, during his visit to Iraq at the end of 2006, “he had sensed,
+for the first time, that Iraqi Generals felt that if they were given the right training and
+equipment they would be able to do the job”.71
+129.  On 24 January 2007, Mr Des Browne, the Defence Secretary from May 2006
+to October 2008, wrote to Mr Blair to update him on the rationale behind a planned
+reduction in troops from 7,000 to 4,500‑5,000:
+“There is no question of us leaving a vacuum in the city [Basra], as the IA and
+IPS are already doing patrols and we will remain present in the Provincial Joint
+Co‑ordination Centre and military transition teams. Early evidence from the final
+stages of Op SINBAD, where the IA are in some areas not just in the lead but
+doing it by themselves, is that inevitably they enjoy a greater level of consent than
+we do – but also that they are doing a decent job. They are far from the finished
+
+Minute Burke‑Davies to APS/Secretary of State [MOD], 24 August 2006, ‘Iraq: Op SALAMANCA’.
+Minute Shirreff, 15 September 2006, ‘GOC MND(SE) – Southern Iraq Update – 15 September 2006’.
+70
+Minutes, 11 January 2007, DOP(I) meeting.
+71
+Cabinet Conclusions, 11 January 2007.
+68
+69
+
+437
+
+The Report of the Iraq Inquiry
+
+article but after re‑posturing our shift towards mentoring and support will ensure
+they continue to develop.”72
+130.  The third iteration of the Better Basra Plan was produced on 2 March 2007. It
+looked to develop capacity and capability across wider SSR components, such as
+the judiciary and prison service. It repeated the benchmark that the police would be
+brought to a “good enough” standard to transition to Provincial Iraqi Control (PIC). It also
+announced that over the next six months, the UK would be deploying military transition
+teams (MiTTs) within the 10th Division of the Iraqi Army (see Box, ‘MiTTs’, below).
+131.  In June, Major General Jonathan Shaw, GOC MND(SE) from January 2007 to
+August 2007, stated that he was not convinced that the ISF was ready for transition.
+That was in the light of the continuing decline in security. The US and parts of the Iraqi
+Government had serious concerns over the ability of the ISF in Basra to cope with the
+security situation.
+132.  Concerns continued to be raised about the security situation in MND(SE) and
+that the ISF would not be able to maintain security alone. Mr Dominic Asquith, British
+Ambassador to Iraq, reported in July that Basrawis had expressed the view to the
+visiting House of Commons Defence Committee that “a British withdrawal would
+‘be followed by chaos sweeping the province like a hurricane’”.73
+133.  On 8 October 2007, Mr Gordon Brown, who had become Prime Minister in
+June, announced plans for a significant troop drawdown over the next 12 months.
+He described the need for two remaining phases:
+“In the first, the British forces that remain in Iraq will have the following tasks: training
+and mentoring the Iraqi Army and police force; securing supply routes and policing
+the Iran‑Iraq border; and the ability to come to the assistance of the Iraqi Security
+Forces when called upon. Then in the spring of next year – and guided as always
+by the advice of our military commanders – we plan to move to a second stage of
+overwatch where the coalition would maintain a more limited re‑intervention capacity
+and where the main focus will be on training and mentoring.”74
+134.  On 9 October, Lieutenant General Sir Nicholas Houghton, Chief of Joint
+Operations, briefed the Chiefs of Staff that the plan for the Iraqi 14th Division75 would
+see initial operating capability by December 2007, with training complete by June 2008.
+
+Letter Browne to Blair, 24 January 2007, ‘Next Steps on Force Levels in Iraq’.
+eGram 30010/07 Baghdad to FCO London, 13 July 2007, ‘Iraq: Visit of House of Commons Defence
+Committee, 8‑11 July’.
+74
+House of Commons, Official Report, 8 October 2007, column 23.
+75
+The 10th Division was the Iraqi Army division in MND(SE) which had been trained by UK personnel.
+It was given an additional brigade in June 2007 to create a new Division: 14th Division, which would
+assume responsibility for Basra while 10th Division would be responsible for the rest of the South‑East,
+across Muthanna, Dhi Qar and Maysan provinces.
+72
+73
+
+438
+
+12.2  |  Conclusions: Security Sector Reform
+
+135.  Basra transitioned to Provincial Iraqi Control on 16 December 2007. Maj Gen Binns
+told the Inquiry that the ISF “were well trained, as individuals, but their leadership was
+not experienced, they were capable of conducting tactical, low‑level operations, but
+their ability to conduct manoeuvre, to sustain themselves logistically, was a challenge to
+them”.76 The police were “a mixed bag”.
+136.  Reports on the ISF’s capability did not change materially in the period leading
+up to the UK’s withdrawal. There remained concern over their ability and willingness
+to maintain security in the South. When Mr Brown and Mr Browne had breakfast with
+the Chiefs of Staff on 6 March 2008, the Chiefs told them that “there was quality in the
+ISF but it was not broadening as rapidly as hoped, so training and mentoring of 14Div
+remained a vital job”.77
+137.  On 2 April, a junior official in PJHQ wrote to Mr Browne, advising him that
+MND(SE) was intending to embed MiTTs within 14th Division to strengthen some of the
+key vulnerabilities that had been demonstrated during the recent operation, Operation
+Charge of the Knights. That decision is addressed in the Box below. The operation and
+its impact are described in Section 9.8.
+
+MiTTs
+The concept of military transition teams (MiTTs), in which US military personnel were
+embedded within Iraqi fighting units, was first put forward by the US in early 2005. It was
+seen as a successful tactic, and had been used by the UK in Afghanistan.
+Although the UK deployed MiTTs to work with 10th Division during the summer of 2007,
+it did not adopt the same approach for 14th Division until April 2008, choosing instead to
+focus on leadership and embedding UK personnel at brigade and divisional level.
+The different approaches taken by the UK and the US between 2005 and 2007 again
+demonstrated the lack of coherence across the SSR effort. It also created tensions with
+the US who believed that the UK had not adopted the same approach because of an
+aversion to casualties.
+
+138.  By mid‑April, confidence in the IPS was so low that Major General Barney
+White‑Spunner, GOC MND(SE) from February 2008 to May 2008, warned that there
+were discussions in Multi‑National Corps‑Iraq (MNC‑I) and the Iraqi Government over
+whether to disband the Basra police entirely and start again.
+139.  On 14 May, the JIC stated that public confidence in the ISF had grown but the
+same concerns remained about how it would fare against Jaysh al‑Mahdi (JAM)
+resistance.
+
+76
+77
+
+Public hearing, 15 January 2010, page 25‑26.
+Letter Fletcher to Rimmer, 6 March 2008, ‘Prime Minister’s Breakfast with Chiefs of Staff, 6 March’.
+
+439
+
+The Report of the Iraq Inquiry
+
+140.  Mr John Hutton, the Defence Secretary, wrote to Mr Brown after he visited Iraq
+in October:
+“The Iraqi Security Forces (ISF), the Army in particular, are looking confident and
+capable. Their show of force in the areas which I visited, where they took the lead
+in providing my security, was genuinely impressive. There is no doubt that Basra
+itself has been transformed and the ISF now have complete freedom of movement
+throughout the city. While they do not yet have all the capabilities that we would like
+to see in a fully‑formed Division, and there is important work still to do, we will soon
+have reached the point where we can say with confidence that we have fulfilled our
+training mission for 14 Division …”78
+141.  On 27 March 2009, a junior official informed Mr Brown that 14th Division was
+considered to be effective and that all UK mentors and trainers had been withdrawn.
+
+Security Sector Reform strategy
+142.  Between 2003 and 2009, there was no coherent US/UK strategy for SSR in Iraq.
+143.  In 2003, the UK expected the production of an SSR strategy to be led by the
+US and, when it was clear that one did not exist, was unable to exert the necessary
+influence on the CPA in Baghdad to ensure that one was developed.
+144.  As a consequence, instead of working within an SSR framework that was
+understood and agreed between international partners, the UK developed its own SSR
+policies and plans for MND(SE) without a clear understanding of how they contributed
+to – or whether they were fully consistent with – the SSR approach across Iraq.
+145.  Without a coherent US/UK strategy for SSR, the UK was unable to fully understand
+its role and how or whether its plans contributed to the overall rebuilding of Iraq’s
+security sector. It was unclear what success looked like and therefore how to measure it.
+146.  The development of effective Iraqi Security Forces, which could take the lead on
+security very rapidly, became a key element of the UK’s “exit strategy” for Iraq. In the
+absence of a clearly defined end state, and driven by the desire to reduce UK troop
+levels, the focus of SSR work became the quantity of officers trained, not their quality.
+There were numerous warning signs that that was a flawed approach, including reports
+directly from those on the ground and JIC Assessments. But there was a reluctance to
+pause and consider what was required to deliver the quality needed.
+147.  After June 2004, it became even more challenging to reach consensus on a
+strategy for SSR with the establishment of the Interim Iraqi Government, another party
+that was expected to take the lead on developing a national SSR strategy. That did not
+happen.
+
+78
+
+Letter Hutton to Brown, 23 October 2008, [untitled].
+
+440
+
+12.2  |  Conclusions: Security Sector Reform
+
+148.  Underlying problems with SSR started to be more clearly visible: the simple metrics
+used to gauge success during the CPA era had obscured the actual number of trained
+police officers; the integrity of many police officers was in doubt; and the Iraqi ministries
+responsible for the ISF were dysfunctional. These issues had not been gripped because
+the Coalition had focused too simply on the number of officers.
+149.  Sir Ronnie Flanagan’s review in November 2005 appears to be the last serious
+attempt to argue that there should be a single, coherent policy on SSR in Iraq. Although
+Sir Ronnie’s final report in January 2006 stated that a broad strategic plan was being
+prepared in conjunction with the Interim Iraqi Government, subsequent SSR strategy
+remained largely incoherent.
+150.  Sir Ronnie’s final report came at a crucial time. The December 2005 Parliamentary
+election signalled a shift to greater Iraqi political independence. In January 2006 the UK
+Cabinet approved the deployment of UK troops to Helmand province in Afghanistan. The
+UK’s SSR objective in Iraq became almost exclusively to demonstrate that the conditions
+for withdrawal were met. The requirement for a coherent SSR strategy which would
+establish viable long‑term Iraqi Security Forces was set aside.
+
+Measuring success
+151.  After six years in Iraq, it was difficult to judge what the UK had achieved in the field
+of SSR. While the number of police appeared to have increased and the Iraqi Army’s
+confidence had undoubtedly grown, without a clearly defined end state for either there
+was not an appropriate benchmark by which the UK could measure whether it had
+achieved what it set out to do.
+152.  The UK knew that the capability of the ISF was critical to withdrawal but did not
+design an effective way by which it could measure that capability. Judgements were
+based mainly on reports from theatre – the authors of which were also without a formal
+means of measuring the ISF’s capability.
+153.  Focusing on the number of trained officers was a problem in Iraq because it was
+too simplistic. It hid many of the complexities that sat behind and skewed the numbers.
+The UK was unable to adjust that approach in Iraq because, up to 2006 (after which
+point its ambitions for SSR changed), it never truly understood what measurements
+would indicate whether the ISF was capable of maintaining security in Iraq.
+154.  After 2006, “good enough” for Iraq informally became the benchmark. It was never
+clear exactly what that meant. This loose benchmark was used as a justification for
+continuing to plan for withdrawal in the face of contradictory evidence.
+155.  In 2009, the fragility of the situation in Basra, which had been the focus of UK effort
+in MND(SE), was clear. Threats to its security remained. The ISF continued to be reliant
+on support from Multi‑National Forces to address weaknesses in leadership and tactical
+support. If the capabilities of the ISF had been good enough, it seems unlikely that the
+
+441
+
+The Report of the Iraq Inquiry
+
+US would have embarked on the action that it did – to deploy its own forces to Basra
+when the UK withdrew, so as to secure the border and protect supply lines. The US and
+the UK appear to have had different definitions of what “good enough” meant.
+
+Lessons
+156.  In Section 6.5, the Inquiry states that better planning and preparation for a
+post‑Saddam Hussein Iraq would not necessarily have prevented the events that
+unfolded in Iraq between 2003 and 2009. It would not have been possible for the UK
+to prepare for every eventuality. However, better plans and preparation could have
+mitigated some of the risks to which the UK and Iraq were exposed between 2003 and
+2009 and increased the likelihood of achieving the outcomes desired by the UK and the
+Iraqi people.
+157.  The lessons identified by the Inquiry with regards to planning and preparation for
+post‑conflict operations are described in Section 10.4. Those lessons, which focus on
+the essential tasks that should be undertaken, also apply to SSR planning.
+158.  An SSR strategy should define the functions of different elements of the relevant
+security sector and the structures needed to perform those functions. Considering those
+questions should drive a robust debate about how security requirements might change
+over time.
+159.  An understanding of the many different models that exist internationally for
+internal security, policing and criminal justice is essential. But those models cannot
+be considered in isolation because what works in one country will not necessarily
+work in another which may have very different traditions. It is therefore critical for the
+SSR strategy to take full account of the history, culture and inherited practices of the
+country or region in question. The strategy also needs to be informed by the views and
+aspirations of the local population.
+160.  A strategy should set out the desired operating standard for each function and
+state how that differs, if at all, from what exists. In doing so, the strategy should specify
+where capacity needs to be developed and inform a serious assessment of how the
+material resources available could best be deployed.
+161.  It is essential that the UK has an appropriate way to measure the success of any
+SSR plan. If a clear strategy is in place and has taken account of the views of the local
+population, the indicators of that success should be obvious. It should rarely concentrate
+on a one‑dimensional set of numbers but instead be a more qualitative and rounded
+assessment.
+
+442
+

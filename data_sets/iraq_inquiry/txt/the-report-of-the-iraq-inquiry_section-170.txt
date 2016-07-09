@@ -1,0 +1,2546 @@
+SECTION 17
+CIVILIAN CASUALTIES
+Contents
+Introduction and key findings ........................................................................................ 170
+Consideration of Iraqi civilian casualties before the conflict .......................................... 171
+Statements on the human cost of not intervening in Iraq ....................................... 171
+Assessments of Iraqi civilian casualties during initial combat operations ............... 176
+Civilian casualties during initial combat operations ....................................................... 179
+Provision of medical care to Iraqi citizens ............................................................... 179
+Reports on civilian casualties ................................................................................. 180
+Case study of a bombing in a Basra suburb, 5 April 2003 ...................................... 182
+Responding to demands to count civilian casualties .................................................... 186
+Witness comment ................................................................................................... 213
+Records and estimates of the number of Iraqi fatalities ................................................ 214
+Non‑Iraqi civilian fatalities ....................................................................................... 216
+Conclusions .................................................................................................................. 217
+
+169
+
+The Report of the Iraq Inquiry
+
+Introduction and key findings
+1.  This section addresses:
+
+•	
+•	
+•	
+•	
+
+the statements issued by the Government before the conflict on the human
+rights abuses committed by Saddam Hussein’s regime and the human cost of
+not intervening in Iraq;
+the assessments made by the Government before and during initial combat
+operations of the number of Iraqi civilian casualties;
+reports of the number of Iraqi civilian casualties during initial combat
+operations; and
+how the Government responded to demands that it should count the number
+of Iraqi casualties attributable to the conflict, and to estimates of the number
+of casualties.
+
+2.  As this Section shows, there have been a number of studies to determine the civilian
+death toll in Iraq after the Coalition invasion. The numbers vary considerably. What is
+not in doubt is that, in both the military operation to overthrow the Iraqi regime and the
+subsequent violence, many tens of thousands of Iraqi citizens, most of them civilians,
+lost their lives. Many more were displaced or injured, or lost members of their families.
+3.  It is beyond the scope and abilities of this Inquiry to establish independently the
+number of fatalities caused by conflict in Iraq, or the broader human cost of the conflict
+to the Iraqi people. The Inquiry is, however, very conscious of the extent of the suffering
+in Iraq resulting from the conflict and this has informed its approach to its analysis of the
+course of the conflict and to drawing lessons for the future.
+
+Key findings
+•	
+
+The Inquiry considers that a Government has a responsibility to make every
+reasonable effort to understand the likely and actual effects of its military actions on
+civilians.
+
+•	
+
+In the months before the invasion, Mr Blair emphasised the need to minimise the
+number of civilian casualties arising from an invasion of Iraq. The MOD’s responses
+offered reassurance based on the tight targeting procedures governing the air
+campaign.
+
+•	
+
+The MOD made only a broad estimate of direct civilian casualties arising from an
+attack on Iraq, based on previous operations.
+
+•	
+
+With hindsight, greater efforts should have been made in the post‑conflict period
+to determine the number of civilian casualties and the broader effects of military
+operations on civilians. More time was devoted to the question of which department
+should have responsibility for the issue of civilian casualties than it was to efforts to
+determine the actual number.
+
+•	
+
+The Government’s consideration of the issue of Iraqi civilian casualties was driven by
+its concern to rebut accusations that coalition forces were responsible for the deaths
+of large numbers of civilians, and to sustain domestic support for operations in Iraq.
+
+170
+
+17  |  Civilian casualties
+
+4.  The Inquiry received a number of substantive submissions relating to the human cost
+of the conflict in Iraq, including from:
+
+•	
+
+•	
+
+Mr Hamit Dardagan and Professor John Sloboda for the Iraq Body Count (IBC)
+project.1 The IBC project aims to record the violent civilian deaths that have
+resulted from the 2003 military intervention in Iraq. In its submission to the
+Inquiry, IBC argued that the Inquiry should take full and proper account of Iraqi
+casualties resulting from the conflict and the subsequent breakdown in security.
+It continued: “One of the most important questions in situations of armed conflict
+and in the laws of war is whether the use of force has been a proportionate
+response to the threat that prompted it … It is impossible to establish the
+wisdom of actions taken … if the full consequences in human welfare are not
+taken into account. Casualty data are perhaps the most glaring indication of the
+full costs of war.”
+Action on Armed Violence (AOAV).2 AOAV is a non‑governmental organisation
+(NGO) which aims to reduce the incidence and impact of global armed violence.
+In its submission to the Inquiry, AOAV argued that the UK Government actively
+sought to maintain a position of ignorance regarding measurements of death,
+injury and deprivation resulting from violence in Iraq. It proposed that the UK
+Government should establish a structured process to undertake transparent
+measurement and monitoring of the impact of armed violence where its Armed
+Forces are active.
+
+5.  The Inquiry is grateful for these, and other, submissions, and has taken account of
+them in preparing its Report.
+
+Consideration of Iraqi civilian casualties before the conflict
+Statements on the human cost of not intervening in Iraq
+6.  The UK Government dossier Iraq’s Weapons of Mass Destruction. The Assessment
+of the British Government was published on 24 September 2002.3 The dossier is
+considered in detail in Section 4.2.
+7.  Eight of the dossier’s 50 pages considered life in Iraq under Saddam Hussein,
+describing his security apparatus, internal repression, external wars and abuse of
+human rights.
+8.  The dossier’s Executive Summary indicated the purpose of that material:
+“But the threat from Iraq does not depend solely on the [Weapons of Mass
+Destruction – WMD] capabilities we have described. It arises also because of the
+
+Dardagan and Sloboda, 26 August 2006, Iraqi casualties must form part of Britain’s Iraq Inquiry.
+Action on Armed Violence, July 2010, A State of Ignorance.
+3 
+Iraq’s Weapons of Mass Destruction. The Assessment of the British Government, 24 September 2002.
+1 
+2 
+
+171
+
+The Report of the Iraq Inquiry
+
+violent and aggressive nature of Saddam Hussein’s regime. His record of internal
+repression and external aggression gives rise to unique concerns about the threat
+he poses.”
+9.  The dossier stated:
+
+•	
+
+•	
+•	
+
+Saddam Hussein used patronage and violence to motivate his supporters and
+to control or eliminate opposition. He had pursued a long‑term programme of
+persecuting the Iraqi Kurds, including through the use of chemical weapons.
+Amnesty International had estimated that more than 100,000 Kurds had been
+killed or had disappeared during the 1987 to 1988 “Anfal” campaign of attacks
+on Kurdish villages. Thousands of Iraqi Shia had also been killed.
+Saddam Hussein had led Iraq into two wars of aggression, against Iran and
+Kuwait. The Iran‑Iraq War was estimated to have caused one million casualties.
+Human rights abuses continued within Iraq: “People continue to be arrested and
+detained on suspicion of political or religious activities or often because they
+are related to members of the opposition. Executions are carried out without
+due process of law. Relatives are often prevented from burying the victims in
+accordance with Islamic practice. Thousands of prisoners have been executed.”
+
+10.  Mr Blair addressed those issues in his opening statement in the 24 September 2002
+Parliamentary debate:
+“People say, ‘But why Saddam?’ … two things about Saddam stand out. He has
+used these weapons in Iraq itself – thousands dying in those chemical weapons
+attacks – and in the Iran‑Iraq war, started by him, in which one million people died;
+and his is a regime with no moderate elements to appeal to.
+“Read the chapter on Saddam and human rights in this dossier. Read not just about
+the 1 million dead in the war with Iran, not just about the 100,000 Kurds brutally
+murdered in northern Iraq, not just about the 200,000 Shia Muslims driven from
+the marshlands in southern Iraq, and not just about the attempt to subjugate and
+brutalise the Kuwaitis in 1990 that led to the Gulf war. I say, ‘Read also about the
+routine butchering of political opponents, the prison ‘cleansing’ regimes in which
+thousands die, the torture chambers and the hideous penalties supervised by
+him and his family and detailed by Amnesty International.’ Read it all and, again,
+I defy anyone to say that this cruel and sadistic dictator should be allowed any
+possibility of getting his hands on chemical, biological and nuclear weapons of
+mass destruction.”4
+
+4 
+
+House of Commons, Official Record, 24 September 2002, column 5.
+
+172
+
+17  |  Civilian casualties
+
+11.  Amnesty International issued a press release two days later, urging the UN Security
+Council to consider:
+“… not only the security and political consequences of its action, but also the
+inevitable human rights and humanitarian toll of war … concern for the life, safety
+and security of the Iraqi people is sorely missing from the debate, as is any
+discussion on what would be their fate in the aftermath of conflict …”5
+12.  On 2 December, the FCO published a report on Saddam Hussein’s crimes and
+human rights abuses.6 The report is addressed in more detail in Section 6.4.
+13.  The FCO report was “based on the testimony of Iraqi exiles, evidence gathered
+by UN rapporteurs and human rights organisations, and intelligence material”. It
+examined “Iraq’s record on torture, the treatment of women, prison conditions, arbitrary
+and summary killings, the persecution of the Kurds and the Shia, the harassment of
+opposition figures outside Iraq and the occupation of Kuwait”.
+14.  Mr Jack Straw, the Foreign Secretary, told the BBC that the report was being
+published “because it is important that people understand the comprehensive evil that
+is Saddam Hussein”.7
+15.  The report was criticised by some as an attempt to influence public opinion in favour
+of war.8
+16.  Amnesty International responded to that report, stating that the human rights
+situation in Iraq should not be used selectively; the US and other Western Governments
+had ignored previous Amnesty International reports of widespread human rights
+violations in Iraq.9 Amnesty International continued:
+“As the debate on whether to use military force against Iraq escalates, the human
+rights of the Iraqi people, as a direct consequence of any potential military action,
+is sorely missing from the equation.”
+17.  In his speech to the Labour Party Spring Conference in Glasgow on 15 February
+2003, Mr Blair said:
+“Yes, there are consequences of war. If we remove Saddam by force, people will die
+and some will be innocent. We must live with the consequences of our actions, even
+the unintended ones.
+“But there are also consequences of ‘stop the war’ …”10
+Amnesty International, 26 September 2002, Iraq: human rights in the balance.
+Foreign and Commonwealth Office London, Saddam Hussein: crimes and human rights abuses,
+November 2002.
+7 
+BBC, 2 December 2002, UK unveils ‘torture’ dossier.
+8 
+The Guardian, 3 December 2002, Anger over Straw’s dossier on Iraqi human rights.
+9 
+Amnesty International, 2 December 2002, Iraq: UK Government dossier on human rights abuses.
+10 
+Scoop Independent News, 17 February 2003, Prime Minister Tony Blair’s Glasgow Party Speech.
+5 
+6 
+
+173
+
+The Report of the Iraq Inquiry
+
+18.  Mr Blair said that those consequences would include Saddam Hussein remaining
+in power in Iraq:
+“A country that in 1978, the year before he seized power, was richer than Malaysia
+or Portugal. A country where today, 135 out of every 1,000 Iraqi children die before
+the age of five – 70 percent of these deaths are from diarrhoea and respiratory
+infections that are easily preventable. Where almost a third of children born in the
+centre and south of Iraq have chronic malnutrition.
+“Where 60 percent of the people depend on Food Aid.
+“Where half the population of rural areas have no safe water.
+“Where every year and now, as we speak, tens of thousands of political prisoners
+languish in appalling conditions in Saddam’s jails and are routinely executed.
+“Where in the past 15 years over 150,000 Shia Moslems in Southern Iraq and
+Moslem Kurds in Northern Iraq have been butchered, with up to four million Iraqis
+in exile round the world, including 350,000 now in Britain …
+“If there are 500,000 on that [Stop the War] march, that is still less than the number
+of people whose deaths Saddam has been responsible for.
+“If there are one million, that is still less than the number of people who died in the
+wars he started.”
+
+Child mortality in Iraq under Saddam Hussein’s regime
+The figure for child mortality in Iraq under Saddam Hussein’s regime used by Mr Blair in
+his speech to the Labour Party Spring Conference in February 2003, and in subsequent
+public statements, has been questioned. The Inquiry therefore considered the origin of
+that figure.
+On 14 February, the day before Mr Blair’s speech, Ms Clare Short, the International
+Development Secretary, wrote to Mr Blair setting out key humanitarian issues in Iraq
+(see Section 6.5).11 Ms Short advised that the humanitarian situation in the centre and
+the south of Iraq, which was under Saddam Hussein’s control, was worse than the
+situation in the north. To demonstrate that point, she attached statistics, attributed to the
+UN Children’s Fund (UNICEF), on child and maternal mortality in Iraq. Child mortality in
+central and southern Iraq was 135 per 1,000 (“worse than the Democratic Republic of
+Congo or Mozambique”) compared with 72 per 1,000 in northern Iraq.
+On the same day, No.10 asked the FCO for material on a number of issues in preparation
+for Mr Blair’s speech to the Conference, including how many Iraqi children under the age
+of five died each month.12
+
+11 
+12 
+
+Letter Short to Blair, 14 February 2003, ‘Iraq: Humanitarian Planning and the Role of the UN’.
+Minute Rycroft to Owen, 14 February 2003, ‘Iraq: Prime Minister’s Speech’.
+
+174
+
+17  |  Civilian casualties
+
+The FCO’s reply, which had been agreed with DFID, stated that there were no truly
+reliable figures for child mortality in Iraq.13 The only figures available were from a 1999
+UNICEF report which claimed that child mortality had risen from 56 per 1,000 in 1989 to
+131 per 1,000 in 1999 in “Baghdad‑controlled Iraq” and fallen from 80 per 1,000 to 72 per
+1,000 over the same period in “UN‑controlled” northern Iraq. However, those figures had
+been questioned. The household surveys on which the figures were based had been
+“conducted with the Iraqi regime’s ‘help’ and relied on some Iraqi figures”.
+A No.10 official passed the figures for Baghdad‑controlled Iraq (but not northern Iraq) to
+Mr Blair.14 The official did not make any reference to the reliability of those figures.
+The Inquiry concludes that the figures provided to Mr Blair in February 2003 by Ms Short
+and FCO officials were drawn from UNICEF’s Iraq Child and Maternal Mortality Survey
+(ICMMS), published in August 1999.15 That survey received extensive coverage in the
+media, in particular on whether there was a connection between the apparent rise in child
+mortality and the sanctions regime that was then in force.16
+The level of child mortality in Iraq estimated by the ICMMS was significantly higher than
+that estimated by later surveys. The Child Mortality Estimates website, which presents the
+work of the UN Inter‑Agency Group on Child Mortality Estimation, charts the estimates of
+major surveys of under‑five mortality in Iraq.17
+The UN Inter‑Agency Group on Child Mortality Estimation estimates that the under‑five
+mortality rate in Iraq was 55 per 1,000 in 1989, 46 per 1,000 in 1999, 42 per 1,000 in
+2003, and 37 per 1,000 in 2010 (when Mr Blair gave his evidence to the Inquiry).18
+In September 2010, Professor Michael Spagat reported that the child mortality estimates
+reported by the ICMMS were between two and three times higher than those reported
+by three other major UN‑sponsored surveys (the Iraq Living Conditions Survey 2005, the
+Multiple Indictor Cluster Survey in Iraq 2007 and the Iraq Family Health Survey 2008).19
+He suggested that the high and rising child mortality rates reported by the ICMMS could
+be explained by:
+
+•	
+
+the manipulation of the sanctions regime by Saddam Hussein, in order to
+exacerbate the suffering caused by that regime for political purposes; and
+
+•	
+
+the manipulation of data by Saddam Hussein’s regime, to exaggerate the
+suffering caused by sanctions.
+
+Fax Owen to Rycroft, 14 February 2003, ‘PM’s Speech Question’.
+Minute Rycroft to Prime Minister, 14 February 2003, ‘Iraq: Scotland Speech – Additional Points’.
+15 
+UNICEF, 12 August 1999, Iraq Child and Maternal Mortality Survey.
+16 
+BBC, 12 August 1999, Iraqi child death rates soar.
+17 
+Child Mortality Estimates website, Under‑five mortality rate: Iraq. Child Mortality Estimates (CME) Info
+is a database containing the latest child mortality estimates based on the research of the UN Inter‑agency
+Group for Child Mortality Estimation. The UN Inter‑agency Group comprises UNICEF, WHO, the World
+Bank, and the UN DESA Population Division.
+18 
+Child Mortality Estimates website, Under‑five mortality rate: Iraq.
+19 
+Spagat M. Truth and death in Iraq under sanctions. Significance 7(3): 116‑120 (2010).
+13 
+14 
+
+175
+
+The Report of the Iraq Inquiry
+
+19.  On 19 March, in response to a question from Mr Martin Caton in the House of
+Commons, Mr Blair said:
+“Of course, I understand that, if there is conflict, there will be civilian casualties …
+However … civilian casualties in Iraq are occurring every day as a result of the rule
+of Saddam Hussein. He will be responsible for many, many more deaths even in one
+year than we will be in any conflict.”20
+20.  The Coalition began military action against Iraq later that day.
+
+Assessments of Iraqi civilian casualties during initial
+combat operations
+21.  In the second half of 2002, the Joint Intelligence Committee (JIC) produced four
+Assessments which identified the possibility of significant civilian casualties in the event
+of a Coalition attack on Iraq.
+22.  In August 2002, the JIC assessed Saddam Hussein’s diplomatic and military options
+to deter, avert or limit the scope and effectiveness of a US attack.21 The JIC’s Key
+Judgements included:
+“Saddam would order the use of CBW [chemical and biological weapons] against
+Coalition forces at some point, probably after a Coalition attack had begun. Once
+Saddam was convinced that his fate was sealed, he would order the unrestrained
+use of CBW against Coalition forces, supporting regional states and Israel.”
+23.  The Assessment also identified a number of “unorthodox options” that Saddam
+Hussein might pursue, including:
+“… a ‘scorched earth’ policy … with the aim of creating a humanitarian or
+environmental catastrophe …”
+24.  In September, the JIC assessed how Iraq might use chemical and biological
+weapons.22 Its Key Judgements included:
+“If not previously employed, Saddam will order the indiscriminate use of whatever
+CBW weapons remain available late in a ground campaign or as a final act of
+vengeance.”
+
+House of Commons, Official Report, 19 March 2003, column 934.
+JIC Assessment, 21 August 2002, ‘Iraq: Saddam’s Diplomatic and Military Options’.
+22 
+JIC Assessment, 9 September 2002, ‘Iraqi Use of Chemical and Biological Weapons –
+Possible Scenarios’.
+20 
+21 
+
+176
+
+17  |  Civilian casualties
+
+25.  In October, the JIC assessed the likely reaction of the Kurdish and Shia population
+of Iraq to any US‑led attack.23 It stated that:
+“… spontaneous uprisings, without any clear central leadership, are likely in both
+southern and northern Iraq … should the regime’s control collapse quickly … In both
+areas there could be violent score settling.”
+26.  In December, the JIC assessed Iraq’s military options during Coalition air strikes and
+a ground attack.24 Its Key Judgements included:
+“Saddam [Hussein] would use chemical and biological weapons (CBW) if he faced
+defeat. He might also use them earlier in a conflict, including against coalition forces,
+neighbouring states and his own people. Israel could be his first target.
+…
+“Other Iraqi responses might include seizing hostages as ‘human shields’; using
+non‑lethal BW agents in a deniable manner; suicide attacks; or a ‘scorched earth’
+policy with the aim of creating a humanitarian or environmental catastrophe. At some
+point, motivated by revenge, Saddam would seek to inflict the maximum damage on
+his enemies, whether Iraqis or outsiders.”
+27.  Sections 6.1 and 6.2 consider UK military planning for the invasion of Iraq, including
+the development of the UK’s Targeting Directive.
+28.  On 15 January 2003, Mr Blair met Mr Geoff Hoon, the Defence Secretary, the Chiefs
+of Staff and others to discuss military planning for Iraq.25 Mr Blair asked how many
+civilian casualties there might be, and for a list of the targets which UK air forces might
+be asked to attack, along with a commentary on their military importance and the risk of
+casualties.26
+29.  On 3 February, the MOD produced a Casualty Estimate paper for the Chiefs of
+Staff.27 The estimates of UK military casualties are described in Section 16.3.
+30.  The MOD advised that, although detailed assessments of civilian casualties
+resulting from the air campaign could be produced on a “target‑by‑target” basis, the
+target set was not yet sufficiently well defined to allow an estimate to be produced for
+the air campaign as a whole. Analysis based on estimated civilian casualties during
+operations over Iraq between 1998 and 1999 suggested that the civilian casualties for
+an air campaign would be around 150 killed and 500 injured.
+
+JIC Assessment, 23 October 2002, ‘Iraq: The Kurds and Shia’.
+JIC Assessment, 6 December 2002, ‘Iraq: Military Options’.
+25 
+Email PJHQ‑DCJO(Ops)‑MA to PJHQ‑CJO/MA, 15 January 2003, ‘Readout of the Brief to PM –
+Wed 15 Jan’ .
+26 
+Letter Rycroft to Watkins, 15 January 2003, ‘Iraq: Military Planning’.
+27 
+Minute Fry to COSSEC, 3 February 2003, ‘Casualty Estimates – Op TELIC’ attaching Paper MOD,
+3 February 2003, ‘Casualty Estimates for Op TELIC Based on Operational Analysis’.
+23 
+24 
+
+177
+
+The Report of the Iraq Inquiry
+
+31.  No assessment had been produced of civilian casualties arising from “urban
+operations in Basra”. Experience from World War II suggested that between 200
+and 2,000 civilians could be killed in urban operations in Basra, depending on
+“circumstances, duration and the degree to which civilian casualties are minimised”.
+32.  Mr Blair was briefed on the targeting aspects of an air campaign by Mr Hoon,
+Admiral Sir Michael Boyce (Chief of the Defence Staff (CDS)) and Air Commodore
+Mike Heath (MOD Head of the Directorate of Targeting and Information Operations)
+on 6 February.28
+33.  At the meeting, Mr Blair underlined the importance of “minimising the number of
+civilian casualties and ensuring that all targets were appropriate and proportionate” and
+that consideration should be given to “how best to explain publicly the scale and nature
+of the campaign”.
+34.  On 19 February, at the request of the Overseas and Defence Secretariat in the
+Cabinet Office, the JIC provided an Assessment of the situation in southern Iraq and
+what might happen before, during and after any Coalition military action.29 The JIC
+assessed that the “relative weakness of Iraq’s conventional forces in the south, and
+the fact that those forces will face the brunt of a Coalition ground attack” meant that
+southern Iraq was “the most likely area for the first use of CBW against both
+Coalition forces and the local population”.
+35.  The JIC identified a number of factors that could undermine popular support for any
+post‑Saddam Hussein administration, including major civilian casualties.
+36.  In mid‑February Mr Blair read the Adelphi Paper Iraq at the Crossroads: State and
+Society in the Shadow of Regime Change, published by the International Institute for
+Strategic Studies (IISS).30
+37.  Several contributors to the Adelphi Paper warned of the potential for violent disorder
+in post‑conflict Iraq.31 The Paper is addressed in detail in Section 6.5.
+38.  The Adelphi Paper prompted Mr Blair to ask a number of detailed questions about
+the military campaign and post‑conflict issues, including:
+“What is our military’s assessment of the likely consequences of an attack on Iraq;
+i.e. how many casualties; how quickly the collapse?”32
+
+Letter Rycroft to Watkins, 6 February 2003, ‘Iraq: Prime Minister’s Meeting, 6 February’.
+JIC Assessment, 19 February 2003, ‘Southern Iraq: What’s in Store?’.
+30 
+Letter Rycroft to McDonald, 20 February 2003, ‘Iraq: Political and Military Questions’.
+31 
+Dodge T & Simon S (eds). Iraq at the Crossroads: State and Society in the Shadow of Regime Change.
+IISS Adelphi Paper 354. Oxford University Press, January 2003.
+32 
+Minute Rycroft to McDonald, 20 February 2003, ‘Iraq: Political and Military Questions’.
+28 
+29 
+
+178
+
+17  |  Civilian casualties
+
+39.  General Tommy Franks, Commander in Chief US Central Command (CENTCOM),
+met Mr Blair on 25 February.33 The record of the meeting written by a No.10 official
+reported that Mr Blair asked if Gen Franks had “any idea” of the scale of likely
+civilian casualties.
+40.  Adm Boyce stated that civilian casualties were likely to be in the “low hundreds”.
+Gen Franks stated that ways to minimise civilian casualties were being explored.
+41.  Mr Blair concluded that “we must set out our strategy: to destroy the regime but
+minimise civilian casualties”.
+42.  Mr Peter Watkins, Mr Hoon’s Principal Private Secretary, sent the MOD’s response
+to Mr Blair’s questions to No.10 on 24 February.34 Mr Watkins advised that the MOD
+estimated that the UK “land battle” casualties would be in the order of 30–60 killed,
+and that Iraqi land battle casualties would be in the order of 500–1,200 killed. Detailed
+assessments of likely casualties from the air campaign, including civilian casualties,
+could only be done on a “target‑by‑target” basis and this work was “in hand”.
+Mr Watkins stated:
+“Iraqi civilian casualties from anything other than the air campaign are likely to be
+relatively few, unless Coalition forces become engaged in fighting in urban areas.”
+43.  Mr Watkins’ letter did not refer to the broad estimates of civilian casualties that had
+been submitted to the Chiefs of Staff on 3 February.
+
+Civilian casualties during initial combat operations
+Provision of medical care to Iraqi citizens
+44.  Section 16.2 addresses the provision of medical care to UK Service Personnel.
+45.  The MOD recognised before the invasion that, under the Geneva Convention, it was
+obliged to provide Iraqi citizens (both military personnel and civilians) with the medical
+care that they required within the UK’s means and capabilities.35
+46.  That obligation was reflected in military planning for Operation TELIC. The MOD’s
+policy was that initial treatment would take place in theatre, with transfer to other
+countries in the region if transfer was required and if those countries agreed to accept
+Iraqi citizens for treatment. If those countries did not agree to accept them, the UK would
+evacuate the very seriously injured to the UK for specialist care.
+
+Letter Cannon to Owen, 25 February 2003, ‘Iraq: Prime Minister’s Meeting with General Franks’.
+Letter Watkins to Rycroft, 24 February 2003, ‘Iraq: Political and Military Questions’; Minute Rycroft to
+Prime Minister, 26 February 2003, ‘Political and Military Questions on Iraq’.
+35 
+Minute PJHQ [junior official] to APS/Mr Hoon, 14 May 2003, ‘Operation TELIC: Aeromedical Evacuation
+of Iraqi Civilians to the UK for Treatment’.
+33 
+34 
+
+179
+
+The Report of the Iraq Inquiry
+
+47.  The Permanent Joint Headquarters (PJHQ) advised Mr Hoon on 14 May 2003, two
+weeks after the end of major combat operations, that only seven Iraqi citizens had so far
+been evacuated to the UK, predominantly for severe burns (PJHQ had planned for the
+evacuation of 20 Iraqi citizens).
+48.  The MOD reported in July 2003 that around 200 Iraqi Prisoners of War and 200 Iraqi
+civilians had been treated in British medical facilities during the deployment and combat
+phases of Op TELIC.36
+
+Reports on civilian casualties
+49.  On 31 March, Mr Hoon and Adm Boyce briefed Mr Blair on progress on military
+operations.37 Mr Blair asked for an estimate of civilian casualties. Mr Hoon replied:
+“Hundreds.”
+50.  As major combat operations continued, the Government came under sustained
+pressure in the House of Commons to provide estimates of Iraqi and civilian casualties
+and to minimise civilian casualties and damage to infrastructure.
+51.  On 2 April, in response to a question from Mr John MacDougall, Mr Adam Ingram,
+Minister of State for the Armed Forces, stated:
+“We have no means of ascertaining the numbers of military or civilian lives lost
+during the conflict in Iraq to date, although we make every effort to keep any impact
+upon the Iraqi civilian population to an absolute minimum. All our military planning is
+conducted in full accordance with our obligations under international law to employ
+the minimum necessary use of force to achieve military effect, and to avoid injury
+to non‑combatants or civilian infrastructure. Practically, this is achieved through a
+combination of an extremely careful targeting process and highly accurate precision
+guided weapons.”38
+52.  The following day, in response to a question from Ms Caroline Spelman regarding
+the number of Iraqi civilians who had been injured and killed as a result of the conflict,
+Mr Ingram stated:
+“… it is impossible to know for sure how many civilians have been injured, or killed
+and subsequently buried.”39
+53.  IBC reported in July 2005 that 7,299 non‑combatant civilians had been killed
+between 20 March 2003 and 30 April 2003.40 Of those deaths, 6,882 had been caused
+by US‑led forces, 206 by “anti‑Occupation forces, unknown agents and crime”, and
+211 by both US‑led and anti‑Occupation forces.
+Ministry of Defence, Operations in Iraq: First Reflections, July 2003.
+Minute Rycroft to Powell, 31 March 2004, ‘Iraq: Military Briefing, 31 March 2003’.
+38 
+House of Commons, Official Report, 2 April 2003, column 738W.
+39 
+House of Commons, Official Report, 3 April 2003, column 783W.
+40 
+Iraq Body Count, July 2005, A Dossier of Civilian Casualties 2003 – 2005.
+36 
+37 
+
+180
+
+17  |  Civilian casualties
+
+Battle Damage Assessment
+Section 6.2 describes the main principles of International Humanitarian Law (IHL),
+also known as the Law of Armed Conflict (LOAC) or the Law of War, how they were
+disseminated to those engaged in military action, and how they were reflected in the UK’s
+Targeting Directive and Rules of Engagement (ROEs).
+The key elements of IHL which apply to targeting of military objectives during a conflict are
+set out in the 1977 Protocol Additional to the Geneva Conventions of 1949 (Protocol I).
+The main principles can be summarised as:
+
+•	
+
+Distinction. The parties to the conflict must at all times distinguish between the
+civilian population and combatants, and between civilian objects and military
+objectives, and shall direct their operations only against military objectives
+(Article 48).
+
+•	
+
+Proportionality. Military objectives must not be attacked if the attack is likely to
+cause civilian casualties or damage which would be excessive in relation to the
+concrete and direct military advantage anticipated (Article 57:2:b).
+
+•	
+
+Military Necessity. Offensive operations must be limited to those which are
+necessary (Article 57:3).
+
+•	
+
+Feasible Precautions. In the conduct of military operations, constant care shall
+be taken to spare the civilian population, civilians and civilian objects.
+
+Those who plan or decide upon an attack must take a number of specified precautions,
+focusing on the principles outlined above (Article 57).
+The Battle Damage Assessment (BDA) process in place at the beginning of Op TELIC was
+set out in the UK’s 2001 ‘Joint Targeting and Battle Damage Assessment for UK Forces’.41
+The paper stated that the purpose of BDA was:
+“… to evaluate the overall effectiveness of an attack. It is also required to determine
+collateral and additional damage in order to provide an authoritative statement about
+the proportionality and legality of the attack, and on the absence or presence of
+collateral or additional damage when required for rebuttal purposes.”42
+The paper defined “collateral damage” as unintentional or incidental damage affecting
+facilities, equipment or personnel that were not justifiable military objectives. It defined
+“additional damage” as unintentional or incidental damage affecting facilities, equipment or
+personnel that were justifiable military objectives.
+The paper did not describe how, after an attack, the number of civilian casualties should
+be determined.
+The MOD told the Inquiry that, during Op TELIC 1, civilian casualty incidents were classed
+as “serious incidents” for which investigation was mandated by the Commanding Officer and
+a “higher authority”.43 The process was formalised in June 2003, so that any incident judged
+to have potentially fallen outside the UK’s ROEs was fully investigated by the Service Police.
+
+Paper, January 2001, ‘Joint Targeting and Battle Damage Assessment for UK Forces’.
+Paper, January 2001, ‘Joint Targeting and Battle Damage Assessment for UK Forces, Annex G: BDA –
+Phases and Definitions’.
+43 
+Paper MOD, [undated], ‘Iraq Inquiry Request for Evidence on the Assessment of Civilian Casualties
+Sustained during Military Operations’.
+41 
+42 
+
+181
+
+The Report of the Iraq Inquiry
+
+Case study of a bombing in a Basra suburb, 5 April 2003
+54.  The deaths of 10 members of the Hamoudi family in a Coalition air strike on houses
+in a residential area of Basra in early April 2003 attracted significant media attention.
+55.  The Inquiry has considered, as a case study, the Government’s role in and
+response to the air strike.
+56.  The UK military undertook a Rapid Collateral Damage Assessment on 4 April 2003
+for a possible attack on a small group of residential houses in Basra that were expected
+to be visited by General Ali Hasan Al‑Majid (also known as Chemical Ali).44 Gen
+Al‑Majid was described as responsible for co‑ordinating resistance to the Coalition within
+southern Iraq and therefore as a combatant.45
+57.  The Assessment concluded that seven houses (not including those targeted) might
+suffer collateral damage, and that there would be additional casualties in the open,
+resulting in 39 civilian casualties in a day attack and 51 in a night attack (again, not
+including casualties in the targeted houses).46 No separate estimate had been made of
+damage to or casualties in the targeted buildings.
+58.  Given the number of expected civilian casualties (more than 30), approval
+for the attack was referred from HQ 1st (UK) Armoured Division to Air Marshal
+(AM) Brian Burridge, the UK’s National Contingent Commander, and hence to
+Mr Hoon.47
+59.  AM Burridge advised Mr Hoon that:
+“… the expected civilian casualties … would not be excessive in relation to the
+direct and concrete military advantage anticipated should Al‑Majid be successfully
+targeted. The attack is therefore capable of being assessed as proportional by the
+Commander.”48
+60.  On 4 April, Mr Hoon agreed that the attack should proceed.49 However, Gen Al‑Majid
+was reported to have left the location before the attack could be carried out.
+61.  In the expectation of Gen Al‑Majid’s return, AM Burridge also sought approval for the
+attack from CENTCOM.50
+
+Minute NCHQ OA to NCHQ J3 Targets, 4 April 2003, ‘Rapid Collateral Damage Estimate Residential
+Houses (Loc: 303121.8N 474904.0E)’.
+45 
+TST Log Sheet, [undated], [untitled].
+46 
+Minute NCHQ OA to NCHQ J3 Targets, 4 April 2003, ‘Rapid Collateral Damage Estimate Residential
+Houses (Loc: 303121.8N 474904.0E)’.
+47 
+Minute BMRA to NC HQ, 15 April 2003, ‘Civilian Casualties – Coalition Engagement in Basrah –
+05 April 2003’; Minute HQ NCC to PJHQ, 16 April 2003, ‘Time Sensitive Target – Gen Ali Hasan Al Majid’.
+48 
+TST Log Sheet, [undated], [untitled].
+49 
+Minute HQ NCC to PJHQ, 16 April 2003, ‘Time Sensitive Target – Gen Ali Hasan Al Majid’.
+50 
+Minute HQ NCC to PJHQ, 16 April 2003, ‘Time Sensitive Target – Gen Ali Hasan Al Majid’.
+44 
+
+182
+
+17  |  Civilian casualties
+
+62.  CENTCOM agreed the attack early on 5 April, subject to a reduction in the ordnance
+to be used from 500lb and 1,000lb bombs to 500lb bombs only, in order to minimise
+collateral damage.51
+63.  At 0530 local time on 5 April, following reports that Gen Al‑Majid had returned to the
+location, US forces dropped seven bombs on the target.52 The US reported immediately
+after the attack that:
+
+•	
+•	
+•	
+
+four bombs had hit the target and detonated;
+two bombs had missed the target; and
+one bomb had hit the target but failed to detonate.
+
+64.  Mr Abed Hassan Hamoudi wrote to the “Head of Coalition Forces” in Basra
+on 12 April, informing him that 10 members of his family had been killed when a
+number of rockets from Coalition aircraft had hit his house.53 He had received no
+expression of condolence or explanation for the attack. Mr Hamoudi indicated that
+he would seek compensation for the attack and said that he had authorised his son,
+Mr Sudad Hamoudi, to pursue the case.
+65.  The Joint Air Reconnaissance Intelligence Centre (JARIC) produced a Phase 1
+Battle Damage Assessment (BDA) for the attack on Gen Al‑Majid on 14 April.54 It stated
+that no collateral damage had been observed.
+66.  By 15 April, HQ 1st (UK) Armoured Division had associated the attack on
+Gen Al‑Majid with the deaths reported by Mr Hamoudi.55
+67.  HQ 7 Armoured Brigade (then responsible for the Basra battlespace) issued a
+consolidated BDA for the Basra urban area on 19 April.56 The BDA covered 15 targets
+which had been engaged by precision guided munitions, including the 5 April attack
+on Gen Al‑Majid. The BDA for that attack reported that the target residence had been
+completely destroyed, but Gen Al‑Majid was believed to have escaped. The attack had
+damaged other properties and caused civilian casualties; one neighbour had claimed
+that 10 members of his family including four children had been killed, and another
+neighbour had claimed that an additional seven children had been killed.
+68.  The consolidated BDA made no mention of civilian casualties in its reports on any
+of the other attacks.
+Minute BMRA to NC HQ, 15 April 2003, ‘Civilian casualties – Coalition Engagement in Basrah –
+05 April 2003’.
+52 
+Report 524 Expeditionary Fighter Squadron, 5 April 2003, [untitled]. Minute HQ NCC to PJHQ,
+16 April 2003, ‘Time Sensitive Target – Gen Ali Hasan Al Majid’.
+53 
+Letter Hamooudi to Head of Coalition Forces, 12 April 2003, [untitled].
+54 
+Report JARIC, 14 April 2003, ‘MRNXXHACIZ/0248’.
+55 
+Minute BMRA to NC HQ, 15 April 2003, ‘Civilian casualties – Coalition Engagement in Basrah –
+05 April 2003’.
+56 
+Report 7 Armoured Brigade, 19 April 2003, ‘Battle Damage Assessment Report for the Al Basrah Urban
+Area and Immediate Hinterland’.
+51 
+
+183
+
+The Report of the Iraq Inquiry
+
+69.  The consolidated BDA considered the contribution that pre‑planned strikes had
+made to the campaign, and concluded that:
+“… PGMs [precision guided munitions] shortened the battle … and as a result,
+reduced loss of life on both sides.”
+70.  An MOD official advised Mr Ingram on 23 April that an investigation into Coalition
+activity on 5 April, the BDA of the attack on Gen Al‑Majid, and other evidence
+indicated that Mr Hamoudi’s claim was true.57 Two of the bombs had missed their
+target “and we suspect therefore that these bombs caused the collateral damage to
+Mr Hamoudi’s house”.
+71.  The official also advised that although the MOD had not yet developed a policy on
+compensation, it was unlikely that Mr Hamoudi would have a claim. There was no legal
+obligation on the Coalition to compensate civilians affected by hostilities. In line with
+previous operations, the MOD would not expect to offer compensation for damages
+resulting from legitimate targeting during hostilities.
+72.  Mr Ingram wrote to Mr Sudad Hamoodi on 4 June. Mr Ingram advised that the UK
+had “looked into” the circumstances surrounding the event and could confirm that the
+deaths were:
+“… likely to have been the result of Coalition bombing aimed at General … Al Majid.
+There as no deliberate targeting of your father’s home and the losses suffered by
+your family were quite unintended. I appreciate that this may be of very little comfort
+to you now.
+“… the Coalition does take every care to ensure that our military action avoids injury
+to civilian populations. That said it is not possible to eliminate the risk to civilians
+entirely, but I hope you will understand that when civilians are injured or killed in this
+way, this is a tragic accident rather than a deliberate event.”58
+73.  Mr Sudad Hamoudi replied to Mr Ingram on 8 June, posing a number of
+questions including:
+
+•	
+•	
+•	
+
+Was the intelligence that had placed Gen Al‑Majid at the location (in a residential
+district) reliable?
+Why had the family not been warned about the possibility of an attack, so that
+they could have taken action to ensure their own safety?
+Whether it was correct to describe the deaths as an accident, when they had
+resulted from a deliberate action.59
+
+Minute MOD [junior official] to PS/Minister(AF) [MOD], 23 April 2003, ‘OP TELIC: Hamoodi Family:
+Civilian Fatalities’.
+58 
+Letter Ingram to Hamoodi, 4 June 2003, [untitled].
+59 
+Letter Hamoodi to Ingram, 8 June 2003, [untitled].
+57 
+
+184
+
+17  |  Civilian casualties
+
+74.  Mr Sudad Hamoudi concluded that there had to be “some kind of accountability” for
+the loss of civilian lives.
+75.  An MOD official provided Mr Ingram with a draft reply to Mr Sudad Hamoudi’s letter
+on 20 June.60 The official advised that further analysis of the attack suggested that the
+damage to Mr Abed Hamoudi’s house had not been caused by one of the two bombs
+that had missed their target, as had been suggested in the 23 April minute to Mr Ingram,
+but had instead been “an unavoidable consequence of an accurate strike on the target
+house”. The official continued:
+“The targeting planning process identified that collateral damage was likely in
+neighbouring properties to the target area. If the Hamoudi house was one of these,
+it therefore seems possible it was damaged as an expected and unavoidable
+consequence of the strike on the building believed to contain General ‘Chemical’
+Ali Hassan Al‑Majid, although at the moment we cannot say this with certainty.
+“Although we can say with complete certainty that the Hamoudi house was not
+deliberately targeted by the Coalition … it becomes difficult in this particular instance
+to sustain with any confidence the line that this was an accident.”
+76.  The MOD official stated that there was nevertheless no doubt as to the legitimacy
+of the attack.
+77.  The official also stated: “In line with previous operations we would not expect to offer
+compensation for damages resulting from legitimate targeting during hostilities.”
+78.  Mr Ingram replied to Mr Sudad Hamoudi on 23 June.61 He reiterated his sorrow at
+the deaths caused by the attack and set out the UK Government’s position on its legality:
+“As the Commander of the Southern Region [of Iraq] … Al‑Majid was a key Iraqi
+military figure whose removal from command was expected to deliver considerable
+military advantage … thus ultimately minimising casualties on both sides. The attack
+on the place where he was believed to be located was therefore entirely lawful.”
+79.  Mr Ingram was advised on 10 July – over three months after the attack – that the
+UK’s “research” into the incident remained “incomplete, and the information available
+ambiguous”.62 PJHQ was trying to confirm the address of Mr Hamoudi’s house, and
+that the strike on Gen Al‑Majid was “actually accurate and directed against the correct
+co‑ordinates”.
+80.  Members of the Iraq Inquiry Committee met members of the Hamoudi family
+in 2010.
+Minute MOD [junior official] to APS/Mr Ingram, 20 June 2003, ‘Op TELIC: Hamoodi Family:
+Civilian Fatalities’.
+61 
+Letter Ingram to Hamoodi, 23 June 2003, [untitled].
+62 
+Minute MOD [junior official] to MOD [junior official], 10 July 2003, ‘Op TELIC: Hamoodi family:
+civilian fatalities’.
+60 
+
+185
+
+The Report of the Iraq Inquiry
+
+Responding to demands to count civilian casualties
+81.  From early June 2003, and throughout the summer, there were signs that security
+in both Baghdad and the South was deteriorating.
+82.  The Government continued to face pressure in Parliament to provide estimates
+of the numbers of Iraqi citizens who had died during the conflict. The Government’s
+line remained that the UK had no means of ascertaining the number of Iraqi Service
+Personnel or civilians who had been killed during the conflict.
+83.  On 14 October 2003, in response to a question from Mr Adam Price regarding the
+number of Iraqi civilians who had been killed by UK or US forces in Iraq since the end of
+the conflict, Mr Hoon said:
+“We make every effort to minimise the impact of military operations on the Iraqi
+civilian population.
+“We have no reliable means of ascertaining the numbers of civilians killed by United
+Kingdom Forces since the conflict ended.”63
+84.  FCO and MOD officials discussed that response.
+85.  On 12 November, an FCO official reported to Mr John Buck, FCO Director Iraq, that
+according to MOD officials:
+“… notwithstanding this answer, records are kept of all significant incidents involving
+UK forces. A significant incident would include … a soldier wounding or killing a
+civilian. At present, this information is not collated, although PJHQ accept that it
+could be.”64
+86.  That collated information would not necessarily be “fully reliable”, as UK forces could
+not always be sure if someone had been killed or wounded in an incident, and whether
+that person was a civilian.
+87.  On the same day, PJHQ sent Mr Hoon a report on the death of two Iraqi adults and
+the injury of an Iraqi child in an incident involving UK forces.65
+88.  The report prompted Mr Hoon to ask PJHQ for “further advice on the total numbers
+of civilians killed by UK forces since the end of major combat operations”.66
+89.  On 13 November, in response to a question from Mr Price in the House of
+Commons, Mr Ingram confirmed that the Special Investigation Branch (SIB) of the Royal
+
+House of Commons, Official Report, 14 October 2003, column 22W.
+Minute FCO [junior official] to Buck, 12 November 2003, ‘Iraq – Civilian Casualties’.
+65 
+Minute PJHQ to PS/Secretary of State [MOD], 12 November 2003, ‘Iraqi Civilian Shooting in Basrah’.
+66 
+Minute APS/Secretary of State to PJHQ, 13 November 2003, ‘Iraqi Civilian Shooting in Basrah’.
+63 
+64 
+
+186
+
+17  |  Civilian casualties
+
+Military Police (RMP) had begun investigations into 17 civilian fatalities allegedly caused
+by UK forces.67
+90.  Mr Straw wrote to Mr Hoon on 18 November to ask that the MOD examine whether
+it would be viable to collate information on post‑conflict civilian casualties inflicted
+lawfully and in accordance with the UK’s Rules of Engagement by UK forces (and
+other troop contributors) in the UK’s Area of Responsibility.68 Mr Straw recalled recent
+media and NGO reporting on the “allegedly high levels of civilian casualties inflicted by
+Coalition forces” and the level of Parliamentary and public interest, and continued:
+“I recognise fully the difficulties involved in compiling accurate statistics about civilian
+casualties, particularly during combat operations. But I am concerned that the
+current UK/US position – that ‘there is no reliable means of ascertaining the number
+of civilian casualties, even in post‑conflict Iraq’ – leaves the field entirely open to our
+critics and lets them set the agenda …
+“We need to find ways of countering the damaging perception that civilians are being
+killed needlessly, and in large numbers, by Coalition forces.”
+91.  Mr Straw referred to the work of IBC, which he described as having “some credibility
+(within the sourcing limitations)”.
+92.  Mr Hoon’s Private Office passed Mr Straw’s letter to PJHQ, asking for a draft reply.69
+Mr Hoon’s Private Office commented that they had already asked PJHQ to identify the
+total number of civilians killed by UK forces since the end of major combat operations.
+93.  PJHQ replied to Mr Hoon’s Private Office on 25 November.70 It confirmed that
+assessment reports (ASSESSREPs) recorded the detail of contacts and incidents in
+the UK’s Area of Operations, including details of civilian “casualties or deaths”. It would
+take two weeks to review all ASSESSREPs produced since 1 May 2003, to determine
+the number of Iraqi civilian casualties. The number produced would not be “definitive
+or entirely comprehensive”; ASSESSREPs would only cover incidents which were
+witnessed by or involved UK forces.
+94.  PJHQ also advised:
+“The current line, that there is no reliable way of knowing how many casualties there
+have been … was perfectly reasonable during the decisive combat phase of Op
+TELIC … as long‑range attacks meant that there was no source on the ground to
+verify … casualty numbers.
+
+House of Commons, Official Report, 13 November 2003, column 433W.
+Letter Foreign Secretary to Defence Secretary, 18 November 2003, ‘Iraq: Civilian Casualties’.
+69 
+Minute APS/Secretary to State [MOD] to PJHQ J9 Hd Pl/Ops, 18 November 2003, ‘Iraq – Civilian
+Casualties’.
+70 
+Minute PJHQ J9 to APS/Secretary of State [MOD], 25 November 2003, ‘OP TELIC: Civilian Casualties’.
+67 
+68 
+
+187
+
+The Report of the Iraq Inquiry
+
+“Since … the end of decisive combat operations, this line has become more difficult
+to defend as confirmed cases of civilian casualties where UK forces are involved are
+recorded locally.”
+95.  Mr Hoon replied to Mr Straw the following day, advising that neither Iraqi ministries
+nor Coalition Forces currently had the capacity to collate definitive statistics on the
+causes of death or injury to civilians.71 He nevertheless shared Mr Straw’s desire to be
+able to produce accurate casualty statistics “to be able to refute some of the more wild
+speculation”. The SIB was investigating 17 civilian fatalities allegedly caused by UK
+forces. The MOD was “seeking to analyse” incident reports produced since 1 May 2003
+in order to determine the likely number of “additional Iraqi civilian deaths”. That process
+would take some time; Mr Hoon undertook to write to Mr Straw with the results.
+96.  Mr Price secured an Adjournment Debate on “military operations and civilian deaths
+in post‑war Iraq”, which was held in Westminster Hall on 7 January 2004.72 Mr Price had
+previously tabled 17 Parliamentary Questions on civilian casualties in post‑war Iraq and
+had sent his paper Can Kill, Won’t Count to Mr Hoon and the Attorney General.
+97.  Mr Ingram’s briefing for the debate advised that the review of ASSESSREPs which
+had been initiated the previous month had been completed. In addition to the 17 civilian
+deaths which were subject to investigation by SIB/RMP, the review had identified a
+further 17 civilians who had been killed by UK forces; one in an (unspecified) accident
+and 16 in circumstances where force was deemed to have been used in accordance
+with the UK’s Rules of Engagement.
+98.  Opening the debate, Mr Price asked Mr Ingram how many civilian casualties had
+been reported by UK forces.73 In his response, Mr Ingram referred to the 17 deaths that
+were being investigated by SIB/RMP, but not to the 17 further deaths that the MOD
+review had identified.
+99.  Mr Ingram rejected the charge that the UK was refusing to keep records of civilian
+casualties:
+“That is not true … Although we record all such incidents, it would be wrong to claim
+that we have an exhaustive record, because we cannot always be certain of the
+number of fatalities that result. In some incidents … those who have been attacking
+UK forces and who have been injured or killed are removed from the scene …
+“There have also been incidents in which UK forces have been forced to withdraw
+from an engagement with no reliable means of ascertaining the number of fatalities
+… Finally, gun battles have taken place in which our forces were not involved, but
+there have been claims that they were responsible for casualties none the less.”
+Letter Hoon to Straw, 26 November 2003, [untitled].
+Minute PJHQ to APS/Minister(AF) [MOD], 23 December 2003, ‘Adjournment Debate on 7 January:
+Military Operations and Civilian Deaths in Post‑War Iraq – Adam Price’.
+73 
+House of Commons, Official Report, 7 January 2004, columns 135WH to 141WH.
+71 
+72 
+
+188
+
+17  |  Civilian casualties
+
+100.  Mr Ingram also clarified the MOD’s definition of a civilian:
+“For our purposes, the term ‘civilian’ applies to all Iraqis. Besides peaceful
+law‑abiding men, women and children, it includes those former regime loyalists who
+have since April continued to bomb, kill and maim their fellow Iraqi countrymen and
+women and Coalition troops.”
+101.  On 6 February, in response to a written Parliamentary Question from Mr Price,
+Mr Ingram stated:
+“As at 2 February, since the end of major combat operations 37 alleged fatalities had
+been reported by British units of which 18 have been the subject of investigations.
+All those not subject to investigation involved assailants attacking British forces and
+in defending themselves the soldiers involved were acting clearly within their Rules
+of Engagement.”74
+102.  That was the first public statement, of which the Inquiry is aware, of the number
+of civilians killed by UK forces in Iraq.
+103.  IBC reported on 7 February 2004 that the number of “non‑combatant civilian”
+deaths in Iraq during 2003 “as a result of the US/UK‑led invasion and Occupation of
+Iraq” might have passed 10,000.75
+104.  IBC commented:
+“Pushing the total past the 10,000 mark were recent reports of Iraqi policemen killed
+since Saddam’s fall in April. It is unsurprising that, as the CPA [Coalition Provisional
+Authority] and Occupying forces bunker themselves behind concrete fortresses, their
+most exposed and least well‑protected front‑line defence, members of the ‘new’ Iraqi
+civil defence and police forces, have suffered disproportionately.”
+105.  On 23 April, at his request, Mr Blair received 19 “unvarnished accounts” of
+progress on security, the political process and reconstruction in Iraq (see Section 9.2).
+106.  In his response to those accounts, Mr Blair asked for answers to four specific
+questions, including:
+“How many civilians have been killed in Iraq, and how? The figure of 15,000 is out
+there as a fact – is it accurate?”76
+107.  The Cabinet Office responded to that question on 30 April, as part of a detailed
+update on the capabilities of the Iraqi Security Forces.77 It advised that there were
+no accurate estimates of the number of Iraqi casualties since the start of combat
+
+House of Commons, Official Report, 6 February 2004, column 1104W.
+Iraq Body Count, 7 February 2004, Civilian deaths in ‘noble’ Iraq mission pass 10,000.
+76 
+Letter Rycroft to Owen, 26 April 2004, ‘Iraq: 15 Reports for the Prime Minister’.
+77 
+Minute Dodd to Quarrey, 30 April 2004, ‘Iraqi Security Force Capabilities’.
+74 
+75 
+
+189
+
+The Report of the Iraq Inquiry
+
+operations; figures ranged from 5,000 to 20,000. The MOD’s public line had been that it
+was not possible to determine the number of civilian casualties, and that UK forces took
+every effort to minimise the impact of military operations on the civilian population.
+108.  An “initial assessment” undertaken by the MOD in February 2004 had indicated
+that 36 civilians had died as a result of UK actions since 1 May 2003.78 The MOD was
+now undertaking a “comprehensive assessment” of unit records to produce a more
+accurate estimate; the outcome of that assessment would be shared with Ministers
+in May.
+109.  On 21 May, No.10 asked the FCO to “look again” at the question of civilian
+casualty figures, and for a weekly “digest” of casualty figures.79
+110.  The FCO replied on 26 May. It stated that CPA advisers to the Iraqi Ministry of
+Health (MOH) had told the FCO that the MOH did not have reliable figures for civilian
+deaths or their causes. The MOH was gradually re‑establishing standard practices and
+procedures, but those were still “very basic”.
+111.  The FCO concluded that the UK did not have reliable figures for overall civilian
+casualties. As the MOH improved its systems, it might be possible for the Iraqi Interim
+Government (IIG) to determine numbers and causes of civilian deaths and injuries:
+“But, for now, we are primarily reliant on NGO websites whose reliability we cannot
+easily assess.”
+112.  The Inquiry has seen no indications that the FCO provided a weekly digest on
+civilian casualties to No.10.
+113.  In response to a written question from Lord Lester of Herne Hill on whether the
+CPA had access to hospital records detailing Iraqi civilian deaths and injuries and their
+causes, Baroness Symons, FCO Minister of State, stated on 7 June:
+“Coalition Provisional Authority advisers to the Iraqi Ministry of Health (MOH) do
+have access to some figures on civilian deaths. However these statistics are not
+reliable, as Iraqis often bury their deceased relatives without official notification/
+registration. This has been particularly true during periods of heightened conflict.
+The MOH does not therefore have accurate figures for civilian deaths or their
+causes for the past year. The MOH is gradually re‑establishing standard practices
+and procedures, although these are basic. In the longer term the Iraqi Interim
+Government may be able to evaluate the causes of civilian deaths and injuries.”80
+
+President Bush declared on 1 May 2003 that major combat operations in Iraq had ended.
+Letter FCO [junior official] to Quarrey, 26 May 2004, ‘Iraq Casualty Figures’.
+80 
+House of Lords, Official Report, 7 June 2004, column WA1.
+78 
+79 
+
+190
+
+17  |  Civilian casualties
+
+114.  Lord Lester followed up that reply by asking the UK Government to publish
+the MOH statistics on Iraqi civilian deaths and injuries. Baroness Symons replied
+on 24 June:
+“There are no reliable figures for Iraqi civilian deaths since March 2003. The
+Iraqi Ministry of Health has informed us that the number of civilians killed in
+security incidents is 1,203 and 3,992 wounded dating from when statistics began
+on 5 April 2004. However they reflect only hospital admissions and may not be
+comprehensive. It is not possible to break these down into how they were killed or
+who may have been responsible. It includes casualties caused by terrorist action.”81
+115.  The Occupation of Iraq formally came to an end on 28 June. Power was
+transferred from the CPA and Iraqi Governing Council to the IIG.82
+116.  On 6 October, the US media reported that the Iraqi MOH had recorded
+3,487 insurgency‑related deaths between 5 April, when the MOH began compiling data,
+and 19 September.83 According to (unnamed) Iraqi officials, between 10 June (when
+the MOH began compiling data on cause of death) and 10 September, 1,295 Iraqis had
+been killed by “multinational forces and police” and 516 by “terrorist operations”. The
+MOH defined terrorist operations as explosive devices in residential areas, car bombs
+and assassinations.
+117.  The US media reported that the MOH was “convinced” that nearly all of those
+reported dead were civilians or police and Iraqi national guardsmen, rather than
+insurgents; family members would often not report the death of a relative who had died
+fighting for an insurgent group.
+118.  No.10 wrote to the FCO on 11 October:
+“The Prime Minister [Mr Blair] has asked for an updated assessment of civilian
+casualties in Iraq. This should include our best estimate of civilian casualties since
+military action was launched last year, what the US are saying, and a comparison
+with figures being produced by other bodies (e.g. NGOs, Brookings) and/or quoted
+in the media.
+“The Prime Minister is concerned that we are not getting the message across
+effectively enough about the extent of insurgent/foreign terrorist responsibility for
+civilian deaths.”84
+119.  Mr Robin Cook (Labour) asked Mr Straw in the House of Commons on 12 October
+whether he had seen the MOH figures highlighted in the US media reports, which
+
+House of Lords, Official Report, 24 June 2004, column WA138.
+Bremer LP III & McConnell M. My Year in Iraq: The Struggle to Build a Future of Hope. Threshold, 2006.
+83 
+The Seattle Times, 6 October 2004, Iraq Ministry Says Coalition Kills More Civilians than Insurgents do.
+84 
+Letter Quarrey to PS/Straw, 11 October 2004, ‘Iraq: Civilian Casualties’.
+81 
+82 
+
+191
+
+The Report of the Iraq Inquiry
+
+showed that “two thirds of the civilians killed in the last six months died as a result of
+coalition bombing”.85
+120.  Mr Straw said that he had not seen those figures.86
+121.  An MOD official provided a contribution to the FCO’s response to No.10 on
+13 October.87 The MOD official confirmed that the MOD did not estimate civilian
+casualties because it believed that there was no reliable method for doing so, adding:
+“This is not merely our public line but our genuine judgement.”
+122.  The official dismissed the suggestion, made by the FCO, that the civilian casualty
+figures that were reported to the weekly Chiefs of Staff meeting could serve as a reliable
+estimate of total civilian casualties. Those figures were compiled by the US based on
+incomplete “reporting of incidents” to US Corps HQ. The figures were reported to Chiefs
+of Staff as trends in them indicated whether the security situation was improving or
+deteriorating.
+123.  The official concluded by re‑stating:
+“… the MOD does not produce an estimate of civilian casualties, either within
+our own area of operation or across Iraq. We have no methodology which would
+enable us to do this; nor do we believe it possible to define a methodology that
+would produce figures meaningful enough to alleviate No.10’s concern about public
+presentation.”
+124.  The FCO replied to No.10 on 14 October, having consulted UK advisers in the
+Iraqi MOH.88 The FCO recommended that the UK should not take any ownership of
+figures of civilian casualties; none of the estimates available were reliable, and the UK
+Government would have difficulty in defending the methodology behind them to the
+media and Parliament.
+125.  The UK would also have difficulty in compiling its own statistics:
+“We rarely have our own people on the ground following terrorist attacks, often
+relying on press statistics. But their figures result in widely varying estimates …”
+126.  The FCO advised that it regarded hospital and mortuary admissions collated by
+the Iraqi MOH as the “most reliable” figures available, although there were a number
+of deficiencies:
+
+•	
+
+Monthly and six‑monthly MOH reports were not consistent.
+
+House of Commons, Official Report, 12 October 2004, column 160.
+House of Commons, Official Report, 12 October 2004, column 162.
+87 
+Minute MOD [junior official] to FCO [junior official], 13 October 2004, [untitled].
+88 
+Letter Owen to Quarrey, 14 October 2004, ‘Iraq: Civilian Casualty Figures’; Minute FCO [junior official]
+to Owen, 13 October 2004, ‘Iraq: Civilian Casualty Figures’.
+85 
+86 
+
+192
+
+17  |  Civilian casualties
+
+•	
+•	
+
+Civilians who were taken to hospital injured and subsequently died were counted
+as injured.
+Hospital staff had come under (unspecified) pressure to inflate casualty figures.
+
+127.  The FCO also advised that the Iraqi MOH had publicly estimated that 3,617 Iraqi
+civilians had been killed and 14,554 injured in the period from 5 April 2004 to
+25 September 2004. An unpublished MOH estimate indicated that of those casualties,
+516 had been killed and 2,016 injured in “terrorist attacks”.
+128.  The FCO reported that the UK’s Joint Terrorism Analysis Centre (JTAC) gave
+“a very different estimate” of 1,125 fatalities caused by “foreign fighters” since the
+beginning of 2004. Of those casualties, nearly 1,000 were civilians.
+129.  The FCO concluded that the UK should be “wary” about being drawn into a debate
+on which of those figures was accurate. Another unpublished MOH estimate indicated
+that 1,295 Iraqi citizens had been killed and 5,479 injured in the period from 16 June
+2004 to 10 September 2004 “in military action”:
+“This is more than double the number they [the Iraqi MOH] estimate were killed
+by terrorists. Although the figures include insurgents as well as civilians, the Iraqi
+figures as they stand now will not help us make the case that more civilians have
+been killed by terrorists than by military action.”
+130.  The FCO continued:
+“In sum, if we produce a figure that differs from the Iraqi Government figures, we will
+have to defend it – and the way it was arrived at – before Parliament and the media
+… We recommend that for the moment we continue to put our public emphasis on
+specific atrocities against civilians …”
+131.  Mr David Quarrey, a Private Secretary to Mr Blair, passed the FCO’s advice to
+Mr Blair the following day.89 Mr Quarrey commented:
+“You asked for an assessment of civilian casualties in Iraq, noting that we cannot let
+figures of 10–15,000 go unchallenged as if we are responsible for all of them …
+“The FCO recommend that we stick to publicising terrorist responsibility for civilian
+casualties in individual incidents. Underlying this is concern that any overall
+assessment of civilian casualties will show that MNF [Multi‑National Force – Iraq]
+are responsible for significantly more than insurgents/terrorists.
+“But we should be able to handle this better …”
+132.  Mr Quarrey advised Mr Blair that he intended to ask the Cabinet Office to
+convene a meeting of departments to initiate a trial period of monitoring daily statistics
+
+89 
+
+Minute Quarrey to Prime Minister, 15 October 2004, ‘Iraq: Civilian Casualties’.
+
+193
+
+The Report of the Iraq Inquiry
+
+on fatalities, drawing on whatever information was available. The Government could
+then assess how “credible (and helpful) the information would be publicly”. Mr Quarrey
+concluded:
+“If the trial is successful, we could look at outsourcing to a credible external
+organisation (e.g. a think‑tank or academics).”
+133.  Mr Blair agreed that approach.90
+134.  Mr Quarrey wrote to the MOD on 18 October, to confirm that he had asked the
+Cabinet Office to convene a meeting to discuss how to take forward a trial monitoring
+period “in order to demonstrate more effectively the harm being inflicted by terrorism in
+Iraq”.91 Copies of Mr Quarrey’s letter were sent to the FCO and other departments.
+135.  A Cabinet Office official chaired a meeting on 22 October to plan how to take
+forward the trial monitoring period.92 During the meeting, officials stated that there was
+a risk that the UK might come under pressure to disclose publicly any conclusions that
+were reached. Mr Quarrey told the meeting that No.10 believed that the UK needed to
+make a “serious attempt to quantify what is happening”.
+136.  Officials agreed that:
+
+•	
+•	
+•	
+
+The “headline task” was to quantify, as precisely as possible, the number of
+civilian deaths caused by a) insurgents and b) coalition military action (both
+MNF – I and the Iraqi Security Forces).
+The best way to do that was to break the task down. The FCO would report from
+open sources, the MOD would report from Multi‑National Division (South‑East)
+(MND(SE))93 using existing military reporting systems, and JTAC/PJHQ would
+analyse US statistics on casualties.
+The trial period would run for the month of November.
+
+137.  An MOD official wrote to the Cabinet Office on 28 October, setting out the MOD’s
+concerns about the trial process.94 The MOD’s position remained that it did not believe
+it was possible to establish an accurate methodology for estimating the total number of
+civilian casualties. Although incident reports could be analysed, there was a danger that:
+“… once we have adopted a methodology, Parliament and the public would in future
+expect us to apply this no matter what the intensity of the operation.”
+
+Email Quarrey to Bowen, 18 October 2004, ‘Iraq Civilian Casualties’.
+Letter Quarrey to Naworynsky, 18 October 2004, ‘Iraq’.
+92 
+Letter Cabinet Office [junior official] to Ad Hoc Cabinet Office Group on Civilian Casualties in Iraq,
+25 October 2004, ‘Iraq: Civilian Casualties’.
+93 
+MND(SE) comprised the four provinces in southern Iraq for which the UK had security responsibility.
+94 
+Letter MOD [junior official] to Cabinet Office [junior official], 28 October 2004, [untitled].
+90 
+91 
+
+194
+
+17  |  Civilian casualties
+
+138.  The official recalled the limitations of the incident‑reporting process, and
+concluded:
+“… if HMG [Her Majesty’s Government] really does wish to get into the business of
+challenging media and NGO statistics, we would need to open up discussions with
+the US and other coalition partners on how to change the incident reporting process
+in order that – in future – it attributed blame for civilian killings.”
+139.  An FCO official wrote to the Cabinet Office on the same day, setting out how the
+FCO intended to contribute to the trial.95 It would report figures compiled by NGOs and
+the media but not amend them in any way. To do so would suggest that those NGO and
+media figures had some reliability, when the UK’s public line was that they did not. Any
+amendments would also make the figures releasable under the Freedom of Information
+Act (which would come into effect the following year). The FCO concluded:
+“The focus of our work will instead be on the figures produced by the Iraqi Ministry
+of Health (MOH) … these too have their limitations. However, we will work with the
+MOH during the next few weeks to see if these statistics can be improved.”
+140.  On 29 October, as the Government’s trial monitoring period got under way,
+The Lancet published a study by the Johns Hopkins Bloomberg School of Public Health
+entitled Mortality before and after the 2003 invasion of Iraq: cluster sample survey (the
+Lancet study).96
+141.  The study was based on a survey of 988 households in 33 clusters. It found
+that there had been 98,000 more deaths from all causes in Iraq than expected in the
+18 months since the invasion (95 percent confidence interval 8,000–94,000) outside
+of Fallujah. There would be “far more” deaths if data from the Fallujah cluster were
+included.
+142.  The study stated that violence accounted for most of the excess deaths, that
+violent deaths were “mainly attributed” to coalition forces, and that most individuals
+reportedly killed by coalition forces were women and children. On the causes of death,
+the study stated:
+“The major causes of death before the invasion were myocardial infarction,
+cerebrovascular accidents, and other chronic disorders whereas after the invasion
+violence was the primary cause of death.”
+143.  There had been an increase in the infant mortality rate, from 29 deaths
+per 1,000 live births to 57 deaths per 1,000 live births.
+
+Letter FCO [junior official] to Cabinet Office [junior official], 28 October 2004, ‘Iraq: Civilian Casualties’.
+Roberts L, Lafta R, Garfield R, Khudhairi J and Burnham G. Mortality before and after the 2003 invasion
+of Iraq: cluster sample survey. The Lancet 364: 1857-1864 (2004).
+95 
+96 
+
+195
+
+The Report of the Iraq Inquiry
+
+144.  The study stated that there had been 53 deaths in the Fallujah cluster when only
+1.4 had been expected. That indicated that there had been about 200,000 excess
+deaths in Fallujah. However, the uncertainty in that estimate was “substantial”.
+145.  On the same day, following a discussion with the MOD’s Director of News,
+Professor Sir Roy Anderson, the MOD’s Chief Scientific Adviser (CSA), “quickly
+reviewed” the study.97 His Private Secretary sent his conclusions to Mr Hoon’s Private
+Office and senior MOD officials:
+“CSA has concluded that the design of the study is robust … He therefore believes
+that the paper is a sensible one … and that the results are probably as robust as one
+could have achieved in the very difficult circumstances. He therefore recommends
+that we should proceed with caution in publicly criticising the paper.
+“He would, however, add three caveats. First, extrapolation from a very small sample
+size to the whole of Iraq is a weakness … Second, there are weaknesses in the
+way that deaths have been recorded … in many cases the only evidence of a death
+having occurred, and of the cause of death, was the verbal information provided
+from (not necessarily disinterested) family members. And finally … there were
+excess of deaths amongst males, possibly indicating that some of those who died
+were combatants rather than civilians.”
+146.  The Iraq Policy Unit (IPU) sent a copy of the minute to Mr Straw’s Private Office
+on 4 November.98
+147.  The Iraqi Minister of Health issued a statement on 29 October, offering his
+Ministry’s own figures of civilian casualties:
+“Every hospital reports daily the number of civilians (which may include insurgents)
+who have been killed or injured in terrorist incidents or as a result of military
+action. All casualties are likely to be taken to hospital in these circumstances
+except for some insurgents (who may fear arrest) and those with minor injuries.
+The figures show that between 5 April 2004 and 5 October 2004, 3,853 civilians
+were killed and 15,517 were injured. I am satisfied that this information is the most
+reliable available.”99
+148.  The Lancet study, and the interest shown in it by the media and MPs, prompted a
+discussion between Mr Hoon and Mr Straw over whether the MOD or the FCO should
+have responsibility for the issue of civilian casualties.100 That discussion would continue,
+between senior officials, until December.
+
+Minute PS/CSA to MOD Director News, 29 October 2004, ‘Iraqi Civilian Deaths: Lancet Article’.
+Minute IPU [junior official] to PS/Straw, 4 November 2004, ‘Civilian Casualties in Iraq: Letter to
+Geoff Hoon’.
+99 
+House of Commons, Official Report, 17 November 2004, column 94WS.
+100 
+Letter Hoon to Straw, 2 November 2004, [untitled].
+97 
+98 
+
+196
+
+17  |  Civilian casualties
+
+149.  On 3 November, Mr Blair told the House of Commons that “we do not accept the
+figures released by The Lancet … at all”.101 Mr Blair went on to cite the figures released
+by the Iraqi Minister of Health.
+150.  The following day, Mr Straw said on Today that “our people are still looking into it
+[the Lancet study], the epidemiologists and statisticians”.102 Mr Straw also said that he
+would make the Government’s assessment available to Parliament.
+151.  An IPU official provided advice to Mr Straw’s Private Secretary on 4 November
+on how Mr Straw might respond to Mr Hoon’s letter of 2 November, which had proposed
+that the FCO should have responsibility for the issue of civilian casualties.103
+152.  In that context, the official reported on the options for producing the assessment
+of the Lancet study that Mr Straw had promised to provide to Parliament:
+“One option … is that we rely on assessments from the Iraqi Ministry of Health;
+another is that we draw on the help of MOD experts. We already have the views
+of the MOD Chief Scientific Adviser … It is not a promising start. We are awaiting
+a report from the Iraqi Ministry of Health setting out their assessment of civilian
+casualties; we believe this will be a better line of response.”
+153.  Mr Quarrey passed a transcript of a Newsnight discussion on the Lancet study
+to Mr Blair on 5 November.104
+154.  Mr Blair commented: “We must get robust lines on numbers killed since the war
+and on number of airstrikes.”105
+155.  Mr Quarrey wrote to Mr Straw’s Private Secretary on 8 November to confirm that
+the FCO should lead on the issue of civilian casualties.106 Mr Quarrey reported that
+Mr Blair remained concerned that the UK was not getting across its message about “the
+extent of insurgent/foreign terrorist responsibility for civilian deaths”, and that Mr Blair
+wanted the FCO to develop a “quicker and more forceful response to claims about
+civilian deaths that we regard as unfounded (e.g. the Lancet claims)”.
+156.  Mr Dominic Asquith, FCO Director Iraq, advised Mr Straw later that day that he
+should challenge that allocation of responsibility.107
+157.  Mr Asquith said that MNF‑I produced a daily update on operations which included
+details of civilian casualties (killed and wounded). The MOD itself produced the figures
+
+House of Commons, Official Report, 3 November 2004, column 301.
+The Today Programme, 4 November 2004.
+103 
+Minute IPU [junior official] to FCO [junior official], 4 November 2004, ‘Civilian Casualties in Iraq:
+Letter to Geoff Hoon’.
+104 
+Minute Quarrey to Prime Minister, 5 November 2004, ‘Iraq: Update’.
+105 
+Manuscript note Blair on Minute Quarrey to Prime Minister, 5 November 2004, ‘Iraq: Update’.
+106 
+Letter Quarrey to PS/Straw, 8 November 2004, ‘Iraq: Civilian Casualties’.
+107 
+Minute Asquith to PS/Straw, 8 November 2004, ‘Iraq: Civilian Casualties’.
+101 
+102 
+
+197
+
+The Report of the Iraq Inquiry
+
+for MND(SE). PJHQ collated the daily MNF‑I reports for the weekly Chiefs of Staff
+meeting.
+158.  The Cabinet Office was currently overseeing a trial to determine civilian casualties
+in MND(SE). The MOD was, however, arguing that it could not provide either the MNF‑I
+or its own MND(SE) casualty figures to the exercise, as the US military did not allow
+publication of country‑wide information on civilian casualties on security grounds. The
+MNF‑I figures would in any case be unlikely to be comprehensive and did not show who
+was responsible for civilian casualties.
+159.  The UK’s current line was to rely on Iraqi MOH figures, though that might not
+be sustainable in the face of increasing Parliamentary, NGO and media demands
+that the UK release its own statistics. The current military operation in Fallujah was
+increasing pressure on MNF‑I to prove that it was making every effort to minimise civilian
+casualties, and:
+“There will be seen to be a certain plausibility in the argument that we can only do so
+if we can provide credible (i.e. our own) figures for casualties.”
+160.  Mr Asquith concluded that any estimate of casualties, other than from MOH and
+NGO sources, would have to come from MNF‑I, which was deployed throughout Iraq.
+But the MOD had ruled out the use of the MNF‑I figures. If the MOD felt there were good
+reasons for holding back its own figures for MND(SE), it (rather than the FCO) should
+explain those reasons to Parliament and to the public.
+161.  Mr Asquith continued that if the FCO did accept the lead on handling civilian
+casualty issues, it should be on three conditions:
+“(a)	 MOD to explore with DoD [the US Department of Defense] reverting to the
+practice at the time of the first Gulf War when civilian casualties were released
+into the public domain.
+(b)	 If DoD refuses, MOD to explain publicly (to Parliament) why it is not possible to
+produce estimates from MNF‑I sources.
+(c)	
+
+FCO to lead on the handling of civilian casualties … But Ministers should
+be clear that, in the absence of releasable data from military sources, we
+will be heavily dependent on figures from the Iraqi MOH which will not be
+comprehensive …”
+
+162.  Mr Asquith advised Mr Straw in a separate minute on the same day:
+“Legal Advisers say there are no obligations to report civilian casualties in the Fourth
+Geneva Convention … or under any other provision of international humanitarian
+law.
+“While it is essential in advance of any particular attack to assess the likely civilian
+casualties, there is no obligation after the event to make any assessment of either
+
+198
+
+17  |  Civilian casualties
+
+the civilian casualties resulting from the attacks or of the overall civilian casualties
+of a conflict.”108
+163.  Also on 8 November, Mr Straw chaired a meeting with FCO officials including
+Mr Creon Butler, the FCO’s Chief Economist, to discuss the scope of a Written
+Ministerial Statement that he would make on 17 November, responding to the Lancet
+study.109
+164.  After the meeting, Mr Butler sent Mr Straw’s Private Secretary his “initial thoughts”
+on the Lancet study.110 Mr Butler stated that “the statistical methodology appears sound”
+and concluded:
+“In commenting on the study we should certainly continue to emphasise the
+considerable uncertainty around the central estimate [of 98,000 excess deaths]
+(reflecting the small sample size), as well as the lack of corroborating evidence –
+particularly evidence of injured in the numbers one might expect. We could also
+highlight some of the factors which might bias the study towards an over‑estimate of
+deaths. However, there are as many reasons why the study might be biased in the
+other direction (so probably safer not to go down this road).”
+165.  Mr Butler stated that the “lack of corroborating evidence” related in particular to
+the apparent mismatch between the central estimate of 98,000 excess deaths and the
+much lower estimates based on press reporting and the lack of anecdotal evidence for
+large numbers of injured Iraqi citizens attending Iraqi hospitals. The latter mismatch was
+“much harder to explain”.
+166.  Mr Butler considered how the estimates presented in the Lancet study might be
+validated and refined using data from other sources. He concluded:
+“In the absence of a detailed census (impossible in the current security
+environment), the best way of narrowing down the uncertainty … is likely to be to
+conduct a similar survey with a significantly larger sample.”
+167.  On 9 November, the MOD sent the Cabinet Office a summary of incident reports
+for MND(SE) for the seven days up to 7 November, as part of the trial monitoring
+period.111 There had been no incidents involving civilian fatalities; two civilians had been
+injured in an (unspecified) accident.
+168.  On 11 November, Mr Blair, Mr Straw and Mr Hoon discussed which department
+should be responsible for work on casualty figures.112 After the meeting, Mr Straw’s
+Private Secretary asked Sir Michael Jay, the FCO Permanent Under Secretary, to liaise
+
+Minute Asquith to PS/Straw, 8 November 2004, ‘Iraq: Civilian Casualties’.
+Email Owen to Asquith, 8 November 2004, ‘Iraq: Casualties’.
+110 
+Minute Butler to PS/Foreign Secretary, 8 November 2004, ‘Counting Iraqi Casualties’.
+111 
+Letter MOD [junior official] to Cabinet Office [junior official], 9 November 2004, ‘Civilian Casualties’.
+112 
+Letter PS/Straw to PS/PUS [FCO], 15 November 2004, ‘Iraq: Casualty Figures’.
+108 
+109 
+
+199
+
+The Report of the Iraq Inquiry
+
+with Sir Kevin Tebbit, MOD Permanent Under Secretary, to secure the MOD’s agreement
+to take on that responsibility.
+169.  At Cabinet on 11 November, Mr Straw told colleagues that he would be making
+a Written Ministerial Statement on the estimate of civilian casualties published by
+The Lancet, and that he proposed to make more use of the Iraqi MOH figures, which
+were “more reliable”.113
+170.  On 12 November, the Iraq Senior Officials Group agreed that there was “potential
+advantage” in making more use of the Iraqi MOH’s figures, but the UK needed to
+recognise the presentational difficulties of using those figures while “using US figures for
+internal planning purposes without publicly acknowledging their existence”.114 It would be
+useful to compare the MOH figures with those produced for the Chiefs of Staff by PJHQ.
+171.  Mr Straw issued a Written Ministerial Statement on 17 November, responding to
+the Lancet study.115 Mr Straw stated that during the period of major combat operations,
+the Coalition had made every effort to minimise civilian casualties. He continued:
+“Casualties – civilian and military – which have occurred since major combat
+operations ended on 1 May 2003 have done so directly as a result of those
+determined to undermine the political process.”
+172.  Mr Straw rejected the suggestion in the Lancet study that there was a legal
+obligation (deriving from Article 27 of the fourth Geneva Convention) for the MNF‑I to
+assess civilian casualties.
+173.  Mr Straw stated that the UK Government shared the Iraqi Minister of Health’s view,
+expressed in his 29 October statement, that the MOH’s information was the most reliable
+available. The “running estimate” provided by IBC “suggested” that between 14,284 and
+16,419 Iraqi civilians had died since March 2003. While that was “an estimate relying on
+media reports, and which we do not regard as reliable”, IBC’s figures did show that the
+Iraqi MOH’s figures were not the only ones to differ widely from those presented in the
+Lancet study.
+174.  Mr Straw stated that the methodology used in the Lancet study had passed
+The Lancet’s peer review process and was similar to that used in other cases, but
+questioned the data that the survey had produced and hence the findings of the study.
+175.  Dr John Reid, the Health Secretary, sent an assessment of the Lancet study to
+Mr Straw on 29 November.116 The assessment, which Dr Reid said he had personally
+
+Cabinet Conclusions, 11 November 2004.
+Record, 12 November 2004, Iraq Senior Officials Group.
+115 
+House of Commons, Official Report, 17 November 2004, column WS61.
+116 
+Letter Reid to Straw, 29 November 2004, [untitled], attaching Paper, [undated], ‘Mortality Before and
+After the 2003 Invasion of Iraq: Cluster Sample Survey’.
+113 
+114 
+
+200
+
+17  |  Civilian casualties
+
+commissioned, had been produced by Dr Bill Kirkup, one of the Department of Health’s
+Regional Directors of Public Health and its lead on health in Iraq.
+176.  Dr Kirkup’s assessment was more detailed and more critical of the Lancet
+study than the assessments undertaken earlier by Professor Anderson and Mr Butler.
+He stated:
+“Less than a thousand [households] … is a small number on which to base death
+rates … The confidence intervals are correspondingly very wide … A confidence
+interval this large makes the meaning of the estimate very difficult to interpret …
+“Cluster sampling may not be appropriate when there is a large element of
+discontinuity in the population experience. Clearly, some parts of Iraq have seen
+much more violence than others …”
+177.  Dr Kirkup stated that, according to his calculations, the study’s conclusion that
+“violence accounted for most of the excess deaths” was only true if the “bizarre” Fallujah
+cluster was included (the study stated that that cluster was not included in its central
+estimate of 98,000 excess deaths). Dr Kirkup calculated that if the Fallujah cluster
+was not included, just over 23,000 of the 98,000 estimated excess deaths were due
+to violence.
+178.  Dr Kirkup stated that it was not possible, from the data provided in the study, to
+confirm the study’s conclusion that “air strikes from coalition forces accounted for most
+violent deaths”.
+179.  Dr Kirkup explained his characterisation of the Fallujah projection as “bizarre”. The
+study estimated that there had been 200,000 excess deaths in Fallujah (using the same
+techniques as for other areas). That would represent a loss of nearly 28 percent of the
+population of Fallujah in just 14 months. Dr Kirkup commented: “Something has plainly
+gone so badly wrong with the estimates in Fallujah that it must cast doubt on the validity
+of the rest of the findings.”
+180.  Dr Kirkup concluded:
+“… the paper suffers from wide confidence intervals, dubious methodology, the
+likelihood of significant respondent bias and results that are disastrously skewed by
+the Fallujah outlier. The authors have been tempted into extrapolations based on
+shaky data that lack face validity, and in two cases are not even borne out by their
+own results.”
+
+201
+
+The Report of the Iraq Inquiry
+
+Indirect effects of conflict on public health
+The health charity Medact considered the direct and indirect effects of the conflict in Iraq
+in its November 2003 report Continuing collateral damage: the health and environmental
+costs of war on Iraq 2003.117 That report outlined the indirect effects on health arising from:
+
+•	
+
+damage to the environment, including through the use of depleted uranium
+ammunition;
+
+•	
+•	
+•	
+•	
+
+damage to Iraq’s water and sanitation and power infrastructure;
+the continuing risk of malnutrition and food insecurity;
+damage to housing; and
+damage to health services.
+
+The report stated that 7 percent of hospitals had been damaged during the major combat
+phase of operations, and 12 percent had been looted. UNICEF had reported that the
+conflict had led to the breakdown of the cold chain system for storing vaccines, which
+meant that some 210,000 newborns had had no immunisations and were at risk from
+preventable diseases such as measles.
+The report also outlined the physiological and social impacts of the war, and suggested
+that Iraq would experience a rise in behavioural and emotional disorders.
+Although the report did not attempt to quantify those indirect effects, many of which would
+only become apparent over the long term, it concluded that they could prove to be more
+significant than the direct effects.
+The report made a number of recommendations, including:
+“•	
+
+Establish health information systems to monitor disease incidence and examine
+disease patterns in order to plan effective public health interventions.
+
+•	
+
+Carry out an assessment of the country’s chemical risks and levels of
+contamination in addition to surveillance of health effects of environmental risk
+factors including depleted uranium.
+
+•	
+•	
+
+Fund and rapidly implement the clear‑up of all unexploded ordnance.
+
+•	
+
+Fund independent academic institutions or UN agencies to continue monitoring
+the health effects of war.”
+
+Study long‑term effects of the war on mental health and trends in domestic
+and criminal violence, and develop effective health care and social policy
+interventions.
+
+181.  Discussions continued between senior officials in the FCO and MOD over who
+should have responsibility for answering questions on civilian casualties.
+182.  The “Count the Casualties” campaign was launched by Medact and IBC on
+8 December, through an open letter to Mr Blair.118 The letter stated that without counting
+Medact, November 2003, Continuing collateral damage: the health and environmental costs of war on
+Iraq 2003.
+118 
+Letter Medact to Blair, 8 December 2004, [untitled].
+117 
+
+202
+
+17  |  Civilian casualties
+
+the dead and injured, it was not possible to know whether the UK was meeting its
+obligations under international humanitarian law to protect the civilian population in
+Iraq. It urged the Government to commission a comprehensive, independent inquiry to
+determine how many Iraqi citizens had died or been injured since March 2003, and the
+cause of those casualties.
+183.  The campaign also argued that information on casualties was needed to plan
+healthcare in Iraq.119
+184.  At Prime Minister’s Questions on the same day, Mr Blair said that he did not agree
+that the UK needed to hold a full, independent inquiry into civilian casualties to comply
+with its international legal obligations, and stated that the figures from the Iraqi MOH
+were the most accurate available.120 He continued:
+“… those who are killing innocent people in Iraq today … are the terrorists and
+insurgents … Any action that the multinational force or the Iraqi Army is taking in Iraq
+is intended to defeat those people …”
+185.  The IPU provided the Cabinet Office with a contribution to the Cabinet Office
+trial on 13 December.121 The IPU analysis captured casualty figures for the five weeks
+from 1 November, sourced from the Iraqi MOH, the BBC, IBC, the Iraq Coalition
+Casualty Count project and Sky News. The casualty figures were broken down into two
+categories: killed by insurgents; and killed by coalition forces.
+186.  The total casualty figures produced by the Iraqi MOH were the highest among the
+five sources in four of the five weeks.
+187.  The figures produced by the Iraqi MOH showed that casualties caused by the
+coalition were higher than casualties caused by insurgents in four of the five weeks.
+Figures from all other sources showed that casualties caused by insurgents were higher
+than casualties caused by the coalition in all five weeks.
+188.  The IPU commented that, apart from the Iraqi MOH, the sources were “of no real
+value”. The comparison of the figures did suggest, however, that the Iraqi MOH figures
+were incomplete. This could be due to delayed reporting of deaths at hospitals or bodies
+not being taken to hospitals. The Iraqi MOH had reported that its figures did not include
+the Kurdish provinces.
+189.  The IPU also commented that the analysis would not answer the demands from
+MPs and others that the UK should produce its own estimate of Iraqi civilian casualties.
+The only way a proper comparative analysis of the Iraqi MOH figures could be made
+was to set them alongside figures produced by the US and UK military.
+Count the Casualties, 8 December 2004, 46 prominent figures call on Prime Minister to commission
+independent inquiry into Iraqi casualties.
+120 
+House of Commons, Official Report, 8 December 2004, column 1164.
+121 
+Letter IPU [junior official] to Cabinet Office [junior official], 13 December 2004, ‘Iraq: Civilian Casualties’.
+119 
+
+203
+
+The Report of the Iraq Inquiry
+
+190.  The Inquiry has seen no indications that the Cabinet Office trial was taken further.
+191.  A detailed brief on civilian casualties produced for Mr Blair on 18 December in
+advance of his visit to Iraq made no mention of the trial or its conclusions.122
+192.  An IPU official informed Mr Straw’s Private Office on 15 December that the MOD
+was now ready to “step forward and explain why it is impossible for us to use our military
+assets in Iraq to get an estimate [of civilian casualties]”.123 The official commented that
+this was welcome. It would force the MOD to take some responsibility for managing one
+of the “bear‑traps” in the UK’s existing policy:
+“… although we say there are no reliable estimates of civilian casualties in Iraq,
+there are estimates of a kind that are made by MND(SE) and others made by
+the Pentagon. They’re unreliable but are used for military planning purposes as
+evidence of trends …”
+193.  Mr Ingram made that statement on 27 January 2005, in response to a question
+from Mr Peter Kilfoyle.124 Mr Ingram stated that an analysis of incident reports between
+1 May 2003 and 26 November 2004 indicated that 200 Iraqi citizens believed to have
+been enemy combatants had died, and 80 had been injured, in incidents where military
+force had been deliberately applied by UK forces. Five Iraqi citizens believed not to
+have been enemy combatants had died, and a further 13 had been injured, in incidents
+during the course of which military force had been deliberately applied by UK forces.
+These figures did not necessarily indicate that UK forces caused the casualties, only that
+they recorded them during the course of incidents in which deliberate military force was
+applied.
+194.  Mr Ingram also stated that 17 Iraqi citizens believed to have been enemy
+combatants had died, and 22 had been injured, during the course of other incidents,
+and 144 Iraqi citizens believed not to have been enemy combatants had died, and
+192 had been injured, during the course of other incidents. This included the full range
+of incidents in which UK forces had been involved but where no deliberate military force
+had been applied, for example Improvised Explosive Device attacks by insurgent forces
+on civilian targets, road traffic accidents and in one case the discovery in May 2003 of a
+mass grave, thought to date back to 1991, containing 32 bodies.
+195.  Mr Ingram stated that those figures should not be taken as an accurate estimate
+of Iraqi casualties; they captured only those casualties which were witnessed or
+discovered by UK forces. The figures did not include the major combat operations phase
+of Op TELIC, prior to 1 May 2003, for which incident reports were not routinely submitted
+when casualties were “discovered”.
+
+Minute Quarrey to Prime Minister, 18 December 2004, ‘Your Visit to Iraq’ attaching Briefing, [undated],
+‘Civilian Casualties’.
+123 
+Email IPU [junior official] to PS/Straw, 15 December 2004, ‘Civilian Casualties: MOD Line’.
+124 
+House of Commons, Official Report, 27 January 2005, column 541W.
+122 
+
+204
+
+17  |  Civilian casualties
+
+196.  Ms Short (who had resigned as International Development Secretary in May
+2003) wrote to Mr Straw on 13 January 2005 to express her support for the Count the
+Casualties campaign.125
+197.  Mr Straw replied on 3 March:
+“We have never made our own assessment of Iraqi casualties … This is because,
+after careful consideration of the different means of calculating casualties, we
+decided that the current circumstances would prevent a valid assessment by the
+UK …”126
+198.  Mr Straw advised that the MOD had now published overall casualty figures drawn
+from military incident reports. The UK military aimed to minimise civilian casualties by
+using careful targeting procedures. Target clearance procedures considered targets on
+an individual basis; the MOD did not believe that an estimate of casualties in Iraq as a
+whole would help them to evaluate those targeting procedures.
+199.  Mr Asquith discussed civilian casualties with Dr Kirkup on 21 March.127 Dr Kirkup
+“rebutted” the suggestion that an accurate assessment of casualties would be “an
+essential element of assessing and improving the current health situation in Iraq”.
+He confirmed that the Iraqi MOH’s figures provided “the most reliable assessment [of
+casualties] currently available”.
+200.  Dr Kirkup identified four sources of information on casualties:
+
+•	
+•	
+•	
+•	
+
+the Iraqi MOH’s systems for recording deaths, which had been reasonably
+sound before the conflict but had “taken a serious hit” and were only now
+recovering;
+civil registration (death certificates): there was no reliable civil registration
+system;
+surveys: the security situation was not conducive to effective research, in
+particular by limiting the scope to obtain the necessary range of data and by
+introducing interviewee bias; and
+figures from the military: “[those] would help to provide a more complete picture
+of the causes of death and whether deaths had actually occurred. When dealing
+with incomplete data it is important to have as many sources as possible.”
+
+201.  Mr Asquith and Dr Kirkup also considered possible areas of assistance to the Iraqi
+health service, including data collection and analysis.
+202.  The record of the meeting concluded: “Our position on assessing Iraqi casualty
+figures reinforced.”
+Letter Short to Straw, 13 January 2005, ‘Count the Call’.
+Letter Straw to Short, 3 March 2005, [untitled].
+127 
+Minute FCO [junior official] to Asquith, 22 March 2005, ‘Iraq Casualties: Director Iraq’s Meeting with
+Dr Bill Kirkup, 21 March 2005’.
+125 
+126 
+
+205
+
+The Report of the Iraq Inquiry
+
+203.  IBC published A Dossier of Civilian Casualties 2003 – 2005 in July 2005.128
+The dossier stated that 24,865 civilians had been reported killed in the two years from
+20 March 2003 to 19 March 2005, almost all of them as a direct result of violence.
+204.  Of the 13,811 fatalities for which IBC had age and gender information,
+11,281 (81.7 percent) had been male (including the elderly) and 1,198 (8.7 percent) had
+been female (including the elderly). A total of 1,281 (9.3 percent) had been children and
+51 (0.4 percent) babies.
+205.  The dossier also provided a breakdown of who had killed those civilians.
+That breakdown is reproduced in the table below.
+Table 1: Civilian fatalities by category
+Killers by category
+
+Number killed
+
+Percentage
+of total
+
+1
+
+US‑led forces alone
+
+9,270
+
+37.3
+
+2
+
+Anti‑occupation forces alone
+
+2,353
+
+9.5
+
+3
+
+Both US‑led and anti‑occupation forces involved
+
+623
+
+2.5
+
+4
+
+Iraqi MOH‑defined “military actions”
+
+635
+
+2.5
+
+5
+
+Iraqi MOH‑defined “terrorist attacks”
+
+318
+
+1.3
+
+6
+
+Predominantly criminal killings
+
+8,935
+
+35.9
+
+7
+
+Unknown agents
+
+2,731
+
+11.0
+
+Total deaths
+
+24,865
+
+100.0
+
+206.  The “unknown agents” category included attacks which apparently targeted only
+civilians and lacked any identifiable military objective – for instance suicide bombs
+in markets and mosques, or attacks apparently motivated by personal or inter‑group
+vendettas. The category also included 334 individual killings where media reports
+provided no clear information about the killer. This category was likely to overlap with
+others.
+207.  The dossier reported that 98.5 percent of deaths caused by US‑led forces were
+attributable to the US and 1.5 percent of deaths were attributable to other coalition
+forces including the UK.
+208.  The dossier also stated that in incidents for which both death and injury information
+was available, it had recorded 42,500 injuries (of all kinds) against 13,424 deaths, a ratio
+of over 3 to 1.
+
+128 
+
+Iraq Body Count, July 2005, A Dossier of Civilian Casualties 2003 – 2005.
+
+206
+
+17  |  Civilian casualties
+
+209.  IBC stated in the introduction to the dossier that:
+“Assurances that military forces ‘make every effort to avoid civilian casualties’ are no
+substitute for real data‑gathering and analysis, and can have no basis without it. On
+the eve of the invasion Tony Blair stated that ‘[Saddam Hussein] will be responsible
+for many, many more deaths even in one year than we will be in any conflict’. Only
+data such as presented here will allow a realistic evaluation of such predictions.”
+210.  The US Government was required under the Emergency Supplemental
+Appropriations Act 2005 to provide quarterly reports to Congress on political, economic
+and security progress in Iraq.129
+211.  The second quarterly report, in October 2005, included a graph showing the
+average daily number of coalition and Iraqi casualties caused by insurgents since
+1 January 2004.130 The report did not provide the data used to produce that graph.
+212.  On the basis of that graph, The New York Times estimated that over 25,000 Iraqi
+civilians and members of the Iraqi Security Forces had been killed and wounded by
+insurgents since 1 January 2004.131 The New York Times stated that that was fewer than
+reported by the Iraqi MOH and IBC.
+213.  A Pentagon spokesperson stated that the figures were compiled from reports filed
+by coalition military units after they responded to attacks. Those reports did not provide
+a comprehensive account of Iraqi casualties, but did provide information on trends in
+casualties resulting from insurgent attacks.
+214.  The New York Times reported that the graph had been included in the quarterly
+report as a result of specific questions posed by Congressional staff, and commented
+that its disclosure was significant as it showed that the US military was tracking Iraqi
+casualties, having “previously avoided virtually all public discussion of the issue”.
+215.  In subsequent quarterly reports to Congress, the Pentagon updated that graph and
+added a breakdown of casualties by province.132
+216.  In June 2006, the UK Government signed the Geneva Declaration on Armed
+Violence and Development.133 Signatories resolved to take action to reduce armed
+violence and its negative impact on socio‑economic and human development, including
+by supporting initiatives “to measure the human, social and economic costs of armed
+violence, to assess risks and vulnerabilities, to evaluate the effectiveness of armed
+violence reduction programmes, and to disseminate knowledge of best practices”.
+
+Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Tsunami
+Relief, 2005.
+130 
+Report to Congress, October 2005, ‘Measuring Stability and Security in Iraq’.
+131 
+The New York Times, 30 October 2005, US quietly issues estimate of Iraqi civilian casualties.
+132 
+Report to Congress, May 2006, ‘Measuring Stability and Security in Iraq’.
+133 
+Geneva Declaration on Armed Violence and Development, 7 June 2006.
+129 
+
+207
+
+The Report of the Iraq Inquiry
+
+217.  The UK became one of 15 members of the “Core Group” charged with steering the
+Geneva Declaration process and guiding its implementation.134
+218.  The Lancet published the second Johns Hopkins Bloomberg School of Public
+Health cluster sample survey of excess mortality in Iraq (direct and indirect, violent and
+non‑violent deaths) on 12 October 2006.135 The first Johns Hopkins study had been
+published by The Lancet in October 2004.
+219.  The second study used the same (cluster sample survey) methodology as the
+first study, but was based on a larger sample (1,849 households as against 988 in the
+first study).
+220.  The study estimated that between March 2003 and June 2006, there had been
+654,965 excess Iraqi deaths and 601,027 excess violent Iraqi deaths as a consequence
+of the war. The study attributed 31 percent of violent excess deaths to the coalition,
+24 percent to “other” and 45 percent to “unknown”. The study also concluded that levels
+of violence were increasing.
+
+Criticisms of the Lancet studies
+The 2004 and 2006 Johns Hopkins Bloomberg School of Public Health studies published
+by The Lancet have been subject to several criticisms. The most significant are:
+
+•	
+
+That the baseline pre‑invasion mortality rate used by the studies was lower than the
+actual pre‑invasion mortality rate, leading to an over‑estimation of excess mortality
+in the post‑invasion period. The second study used a pre‑invasion mortality rate of
+5.5 deaths per thousand people.136 The 2008 Iraq Family Health Survey (IFHS) used
+a figure of nine deaths per thousand.137
+
+•	
+
+That the sample sizes were too small. The 2004 Lancet study (central estimate
+98,000 excess deaths) surveyed 988 households and the 2006 Lancet study (central
+estimate 655,000 excess deaths) surveyed 1,849 households. The 2008 IFHS
+(central estimate 151,000 excess violent deaths) surveyed 9,345 households. The
+IFHS team highlighted the implications of that difference in scale: “The estimated
+number of deaths in the IFHS is about three times as high as that reported by the
+Iraq Body Count. Both sources indicate that the 2006 study by Burnham et al [the
+second Lancet study] considerably overestimated the number of violent deaths. For
+instance, to reach the 925 violent deaths per day reported by Burnham et al for June
+2005 through June 2006, as many as 87 percent of violent deaths would have been
+missed in the IFHS and more than 90 percent in the Iraq Body Count. This level of
+underreporting is highly improbable, given the internal and external consistency of
+the data and the much larger same size and quality‑control measures taken in the
+implementation of the IFHS.”
+
+Geneva Declaration on Armed Violence and Development website, How does it work.
+Burnham G, Lafta R, Doocy S and Roberts L. Mortality after the 2003 invasion of Iraq: a cross‑sectional
+cluster sample survey. The Lancet 368: 1421‑1428 (2006).
+136 
+Roberts L, Lafta R, Garfield R, Khudhairi J and Burnham G. Mortality before and after the 2003
+invasion of Iraq: cluster sample survey. The Lancet 364: 1857-1864 (2004).
+137 
+Iraq Family Health Survey Study Group. Violence‑Related Mortality in Iraq from 2002 to 2006.
+The New England Journal of Medicine 358: 484-493 (2008).
+134 
+135 
+
+208
+
+17  |  Civilian casualties
+
+221.  An Iraqi Government spokesperson commented on 12 October that “these figures
+[in the study] are unrealistic and give a very exaggerated picture”.138
+222.  A DFID Statistics Adviser provided advice on the study to IPU on 12 October, at
+their request.139 He concluded that “in essence, the method is tried and tested”.
+223.  Professor Anderson provided his views on the study the following day.140 He stated
+that he had received comments on the study from an independent expert on statistical
+epidemiology and demography. Professor Anderson advised:
+“… the study design is robust and employs methods that are regarded as close to
+‘best practice’ in this area, given the difficulties of data collection and verification in
+the present circumstances in Iraq … The methods are an improvement on those
+used in the 2004 Lancet article by the same author …”
+224.  Professor Anderson advised that deaths were much more prevalent among
+adolescent to middle‑aged men and suggested that bias might remain with respect to
+the level of non‑combatant mortality.
+225.  Professor Anderson concluded that, given the reasonably robust study design
+and appropriate analysis methods, the UK Government should be cautious in publicly
+criticising the Lancet study.
+226.  An IPU official produced a brief on the study for Mr Blair later on 13 October.141
+The brief summarised the advice from the DFID Statistics Adviser and
+Professor Anderson, and identified several “key points”:
+“•	 … People are dying at the hands of those who choose violence to pursue their
+aims …
+
+•	
+•	
+
+There are conflicting estimates [of the number of civilian casualties] from a
+number of sources, and no comprehensive or accurate figures;
+The numbers that the Lancet has extrapolated are a substantial leap from other
+figures. There is no reason to assume the Lancet figure is any more accurate
+than any other is.”
+
+227.  The same IPU official wrote to colleagues on 16 October:
+“… we do not (not) accept that the figures quoted in the Lancet survey are
+accurate … The figures are extraordinarily high and significantly larger than the
+figures quoted by the Iraq Body Count or Iraqi Government – however the survey
+methodology used here cannot be rubbished, it is a tried and tested way of
+Briefing IPU, 13 October 2006, ‘The Lancet: Iraq: a Cross‑Sectional Cluster Survey Sample’.
+Email DFID [junior official] to FCO [junior official], 12 October 2006, ‘Foreign Secretary Comment on the
+Lancet Report’.
+140 
+Minute APS/CSA to DJC‑Sec10, 13 October 2006, ‘Iraq – Mortality After the 2003 Invasion of Iraq:
+a Cross‑Sectional Cluster Sample Survey – Lancet October 2006’.
+141 
+Briefing IPU, 13 October 2006, ‘The Lancet: Iraq: a Cross‑Sectional Cluster Survey Sample’.
+138 
+139 
+
+209
+
+The Report of the Iraq Inquiry
+
+measuring mortality in conflict zones. The overriding message is that there are no
+accurate or reliable figures of deaths in Iraq.”142
+228.  On 18 October, in response to a Parliamentary Question from Sir Menzies
+Campbell, Mr Blair stated:
+“It is correct that innocent civilians are dying in Iraq. But they are not being killed by
+British soldiers. They are being killed by terrorists and those from outside who are
+supporting them …”143
+229.  Researchers at Oxford University (Mr Sean Gourley and Professor Neil Johnson)
+and Royal Holloway, University of London (Professor Spagat) issued a press release
+on 19 October, claiming that there were “serious flaws” in the methodology used by the
+Lancet study which acted to inflate its casualty estimate.144
+230.  In response to a question from Mr Jeremy Corbyn on 6 November, Mr Ingram set
+out the Government’s position on the Lancet study:
+“Maintaining records of civilian deaths in Iraq is ultimately a matter for the
+Government of Iraq and we believe they are best placed to monitor the situation.
+The Lancet report is one of a number of recent studies … none of which can be
+regarded as definitive. The figures in the Lancet report are significantly higher than
+other casualty estimates.”145
+231.  Professor Anderson revisited the Lancet study in March 2007, following Mr Straw’s
+request for further advice on the study in the light of the public exchanges since its
+publication.146 Professor Anderson wrote to Mr Straw on 19 March, stating that while
+there was “clearly a possibility of [sampling] bias”:
+“I reiterate my earlier advice, which acknowledged that bias and moderate
+confidence bounds remain in the study, and that at this stage I see no value in either
+criticising the study or engaging in the public debate.”
+232.  Later that month, following the release of papers relating to the Lancet study
+under the Freedom of Information Act, the Government was asked how it could accept
+the Lancet study’s methodology but reject its findings.147 A Government spokesperson
+responded:
+“The [Lancet study] methodology has been used in other conflict situations, notably
+the Democratic Republic of Congo. However, the Lancet figures are much higher
+Email FCO [junior official] to FCO [junior official], 16 October 2006, ‘PMQs Deaths of Iraqis’.
+House of Commons, Official Report, 18 October 2006, column 869.
+144 
+Oxford University/Royal Holloway, University of London, 19 October 2006, Lancet study fundamentally
+flawed: death toll too high.
+145 
+House of Commons, Official Report, 6 November 2006, column 810W.
+146 
+Minute Anderson to Hickey, 19 March 2007, ‘Iraq: Mortality After the 2003 Invasion of Iraq:
+a Cross‑Sectional Cluster Sample Survey – Lancet October 2006’.
+147 
+BBC, 26 March 2007, Newshour special investigation – Iraq civilian casualties.
+142 
+143 
+
+210
+
+17  |  Civilian casualties
+
+than statistics from other sources, which only goes to show how estimates can vary
+enormously according to the method of collection. There is considerable debate
+amongst the scientific community over the accuracy of the figures.”
+233.  General David Petraeus, Commanding General MNF‑I, presented Congress with
+his assessment of the US troop surge on 10 September 2007.148 He highlighted the
+“considerable data collection and analysis … using a methodology that has been in
+place for well over a year and that has benefitted over the past seven months from the
+increased presence of our forces living among the Iraqi people” which underpinned his
+assessment, and offered Congress statistics on the number of violent civilian deaths and
+“ethno‑sectarian” deaths.
+234.  Colonel Steven Boylan, Gen Petraeus’ spokesman, provided details of that
+methodology to The Washington Post later that month.149 Col Boylan reported that
+the statistics quoted by Gen Petraeus drew on data which combined “unverified” Iraqi
+reports and coalition Significant Activities reports (SIGACTS).
+235.  A 2008 RAND report, sponsored by the Office of the US Secretary of Defense,
+considered the argument for documenting civilian casualties.150 The report stated:
+“Because protecting the population is one of the central tenets of US COIN
+[counter‑insurgency] doctrine, it can be surmised that trends related to Iraqi civilian
+fatalities should be a chief concern for the U.S. military.”
+236.  RAND reviewed a number of studies of civilian casualties, including the two Lancet
+studies, the 2008 Iraq Family Health Survey (IFHS) Study Group and IBC. RAND went
+on to present its own dataset, which combined the RAND Terrorism Knowledge Base
+with the IBC dataset. RAND drew a number of observations and conclusions from the
+consolidated dataset, including that:
+
+•	
+
+•	
+
+The US military had devoted considerable effort to defeating Improvised
+Explosive Device (IEDs), yet IEDs accounted for only 5 percent of civilian
+fatalities in 2006. Firearms accounted for 58 percent of civilian deaths in 2006.
+RAND concluded that while measures to defeat IEDs might save coalition lives,
+they might not be useful for reducing civilian fatalities; the coalition and the Iraqi
+Government needed to implement measures to counter the types of attacks that
+were claiming civilian lives.
+The insurgency was specifically targeting the Iraqi Government and the Iraqi
+economy. Over 30 percent of insurgent attacks were aimed at these two aspects
+of the Iraqi polity.
+
+Gen David H. Petraeus, Commander, MNF‑I, Report to Congress on the Situation in Iraq, Washington,
+D.C.: U.S. House of Representatives, Committee on Foreign Affairs and the Committee on Armed
+Services, 10-11 September 2007.
+149 
+The Washington Post, 22 September 2007, Statement by Colonel Steven A. Boylan, spokesman for
+General David Petraeus, commander, Multi‑National Force‑Iraq, to the Fact Checker.
+150 
+RAND, 2008. An Argument for Documenting Casualties: Violence Against Iraqi Civilians 2006.
+148 
+
+211
+
+The Report of the Iraq Inquiry
+
+•	
+
+Most violence was directed at “for lack of a better word, the common Iraqi
+civilian”. For over 50 percent of the individuals killed in 2006 there was “… no
+identifying data, no apparent or recorded reason, and no discernible affiliation
+or target. All we know of these people is that they were killed; this fact alone
+suggests that our capacity to understand, analyze, and effectively respond to the
+bloodshed is limited by a lack of information.”
+
+237.  In April 2009, researchers from King’s College London, Royal Holloway, University
+of London and IBC used IBC’s record of Iraqi non‑combatant civilian deaths to analyse
+the nature and effects of various weapons.
+238.  The researchers concluded that in events with at least one Iraqi non‑combatant
+civilian casualty, the methods that killed the most non‑combatant civilians per event
+were aerial bombing (17 per event), combined use of aerial and ground weapons
+(17 per event) and suicide bombers on foot (16 per event). Aerial bombs killed on
+average nine more non‑combatant civilians per event (17) than aerial missiles (8).
+The team commented:
+“It seems clear from these findings that to protect civilians from indiscriminate
+harm, as required by international humanitarian law … military and civilian policies
+should prohibit aerial bombing in civilian areas unless it can be demonstrated – by
+monitoring of civilian casualties for example – that civilians are being protected.”
+
+The WikiLeaks Iraq War Logs
+On 22 October 2010, WikiLeaks released 391,832 US Army Field Reports, covering the
+period from 1 January 2004 to 31 December 2009 (except for the months of May 2004
+and March 2009).151 WikiLeaks stated that the Field Reports detailed 109,032 deaths in
+Iraq over that period, comprising:
+
+•	
+•	
+•	
+•	
+
+66,081 “civilian” deaths;
+23,984 “enemy” deaths (“those labelled as insurgents”);
+15,196 “host nation” deaths (Iraqi Government forces); and
+3,771 “friendly” deaths (coalition forces).
+
+IBC reported that, based on an “early analysis”, the Field Reports contained
+15,000 previously unreported civilian deaths.152 Once a full analysis was complete,
+casualty data would be integrated into IBC’s record.
+IBC stated that the majority of the previously unreported deaths came from small incidents
+comprising one to three deaths. That was not unexpected, as larger incidents attracted
+more media coverage than smaller incidents.
+
+WikiLeaks, 22 October 2010, Iraq War Logs.
+Iraq Body Count, 22 October 2010, 15,000 previously unknown civilian deaths contained in the Iraq war
+Logs released by WikiLeaks.
+151 
+152 
+
+212
+
+17  |  Civilian casualties
+
+Witness comment
+239.  The Inquiry asked Mr Ingram, Minister for the Armed Forces from June 2001 to
+June 2007, why the UK Government had been unable to produce an estimate of civilian
+casualties when other organisations including NGOs and academic organisations had
+done so, in particular given the public interest on the issue.153
+240.  Mr Ingram told the Inquiry:
+“The idea that somehow or other an NGO is the fount of all wisdom and knowledge
+and accuracy I don’t think stands up.
+“So if we were going to take the figures from external sources, then we would have
+had to put effort and verification into that. Should we have done so? Perhaps, yes,
+and I’m not so sure it wasn’t being done …”
+241.  Mr Ingram added that establishing the number of civilian casualties would not have
+changed the reality on the ground:
+“… the concept of ground truth is absolutely vital in this and, by establishing that
+fact, wouldn’t have altered where we were. Because we couldn’t, in one sense,
+easily have stopped the civilian casualties because it wasn’t being carried out by us
+on the civilians, it was being carried out by the tribal wars, the family feuds, by the
+Sunni/Shia factionalism that was taking place, by the Shia on Shia factionalism that
+was taking place, but we … were being vilified, attacked and criticised that we had
+precipitated all of this.
+“I have to say I believe that to be a false logic, because that may have happened
+at any time under Saddam Hussein and, therefore, the establishment of the facts
+perhaps should have been carried out by – elsewhere in Government. I don’t really
+think it was an MOD function in that sense.”
+242.  The Inquiry asked Mr Ingram whether the Government would not have been better
+placed than external organisations to develop credible estimates of civilian casualties,
+and asked which department within government should have been responsible for
+producing such estimates. Mr Ingram told the Inquiry:
+“You [the responsible department] have then to go to the hospitals. You then have
+to put civilians or a military person at that hospital counting the bodies in and the
+bodies out. So you need force protection to do that. You put people at risk to do that.
+Is that what people wanted, soldiers or civilians being killed at hospitals? Because
+they would have been at risk.
+“… the UN may have been the mechanism by which we’d establish true facts, but
+they were withdrawn.
+
+153 
+
+Public hearing, 16 July 2010, pages 30‑34.
+
+213
+
+The Report of the Iraq Inquiry
+
+“So there were points at which, yes, it would have been desirable, but how do you
+achieve that objective? Do you put other lives at risk to do that? I would say no.”
+243.  The Inquiry asked if it was the MOD’s function to develop estimates of civilian
+casualties, or that of another department. Mr Ingram told the Inquiry:
+“Unquestionably. Is it something that DFID could have funded? Is it something the
+FCO should have taken ownership care of? The UN had become engaged – it was
+still engaged, but not in terms of presence on the ground – is it a role that they
+should have played? Yes. Of course the answer to that is yes.
+“But what – the very establishment of the facts would not have changed what was
+happening. It would have confirmed what everyone knew, but it wouldn’t have led to
+a solution …”
+
+Records and estimates of the number of Iraqi fatalities
+Approaches to determining fatalities due to conflict
+There are two broad approaches to determining the number of fatalities attributable to a
+conflict:
+
+•	
+
+Incident, or passive, reporting. This approach, which aims to capture direct
+conflict deaths, typically involves the collation of reports from the media, other
+non‑government and government sources. Its accuracy depends in part on the
+accuracy and completeness of those reports. Access to conflict‑affected areas
+(or to particular communities) may be difficult, and there may be pressure to
+distort information. Incident reporting frequently undercounts the number of
+direct conflict deaths.
+
+•	
+
+Estimates derived from a survey of part of a population. This approach
+typically aims to estimate the number of excess deaths caused by conflict,
+by extrapolating from the data produced by a survey. Those excess deaths
+would include both direct deaths (caused by war‑related injuries) and indirect
+deaths (caused by the worsening of social, economic and health conditions in
+a conflict‑affected area). The accuracy of such estimates can be undermined
+by a lack of detailed, baseline mortality data (and conflicts often occur in areas
+without such information, or lead to the disintegration of the systems which
+provide it), the selection of an unrepresentative sample, the methodology used,
+and the conduct of the survey.
+
+244.  The IBC project, founded in 2003 by UK and US volunteers, aims to record the
+violent civilian deaths resulting from the 2003 military intervention in Iraq.154 It draws
+its evidence from cross‑checked media reports of violent events or of bodies being
+found, supplemented by the review and integration of hospital, morgue, NGO and
+
+154 
+
+Iraq Body Count website.
+
+214
+
+17  |  Civilian casualties
+
+official figures. Further details of the methodology and inclusion criteria used by IBC are
+available on its website.
+245.  IBC has publicly stated that while its database cannot provide a complete
+record of violent civilian deaths, it does provide an “irrefutable baseline of certain and
+undeniable deaths based on the solidity of our sources and the conservativeness of
+our methodology”.155
+246.  IBC continually updates its figures as new information becomes available. As at
+April 2016, IBC had recorded between 156,531and 175,101 violent civilian deaths since
+January 2003.156
+247.  As apparent from the material addressed earlier in this Section, estimates of the
+number of fatalities caused by conflict in Iraq after 2003 vary substantially.
+248.  In October 2004, The Lancet published a study by the Johns Hopkins Bloomberg
+School of Public Health entitled Mortality before and after the 2003 invasion of Iraq:
+cluster sample survey.157 The study was based on a survey of 988 households in
+33 clusters. It estimated that there had been 98,000 more deaths from all causes in
+Iraq than expected in the 18 months since the invasion (95 percent confidence interval
+8,000–94,000). That estimate did not include data from one cluster in Fallujah.
+249.  In October 2006, The Lancet published a second study by the Johns Hopkins
+Bloomberg School of Public Health.158 The study used the same (cluster sample survey)
+methodology as the first study but was based on a larger sample.
+250.  The study estimated that between March 2003 and June 2006, there had been
+654,965 excess Iraqi deaths and 601,027 excess violent Iraqi deaths as a consequence
+of the conflict.
+251.  The IFHS was undertaken in 2006 and 2007 by the Iraqi Government in
+collaboration with the World Health Organization (WHO); the results were published in
+The New England Journal of Medicine in January 2008.159 The IFHS collected data from
+9,345 households across Iraq on a number of issues, including mortality.
+252.  The IFHS Study Group estimated that, between March 2003 and June 2006 (the
+period covered by the second Lancet study), there were 151,000 violent deaths in Iraq.
+253.  In a September 2008 report, the Geneva Declaration on Armed Violence and
+Development pooled a number of datasets, including IBC, to provide a consolidated
+Iraq Body Count, April 2006, Speculation is no substitute: a defence of Iraq Body Count.
+Iraq Body Count, 13 April 2016, Documented civilian deaths from violence.
+157 
+Roberts L, Lafta R, Garfield R, Khudhairi J and Burnham G. Mortality before and after the 2003
+invasion of Iraq: cluster sample survey. The Lancet 364: 1857-1864 (2004).
+158 
+Burnham G, Lafta R, Doocy S and Roberts L. Mortality after the 2003 invasion of Iraq: a cross‑sectional
+cluster sample survey. The Lancet 368: 1421‑1428 (2006).
+159 
+Iraq Family Health Survey Study Group. Violence‑Related Mortality in Iraq from 2002 to 2006.
+The New England Journal of Medicine 358: 484-493 (2008).
+155 
+156 
+
+215
+
+The Report of the Iraq Inquiry
+
+estimate of violent (direct) deaths in Iraq.160 It estimated that, between 2003 and 2007,
+at least 87,000 direct conflict deaths had occurred.
+254.  The report also considered indirect deaths, and commented on the difference
+between the figures reported by the two Lancet studies and the IFHS:
+“At first glance, such a wide range seems to imply that the exact number of deaths
+due to violence remains unknown. But the quality and reliability of these surveys is
+not equal. The most recent study (2008) [the IFHS] surveyed 9,345 households, and
+was conducted under the auspices of the World Health Organization. The previous
+two studies [the Lancet studies], both conducted under difficult circumstances and
+with limited resources, surveyed 990 (2004) and 1,849 (2006) households. The
+gain in precision with greater numbers of households surveyed in the 2008 study
+is obvious …”
+255.  The report estimated that there had been more than 150,000 indirect deaths
+in Iraq between March 2003 and March 2008 (with a wide possible range between
+80,000 and 234,000).
+256.  A further analysis was undertaken in 2013 by a team of American, Canadian and
+Iraqi researchers, based on a sample of 2,000 households.161 Unlike earlier studies,
+this was undertaken when the situation on the ground was relatively calm. The study
+concluded that there had been 461,000 excess deaths from 2003 to 2011. Most excess
+deaths were due to direct violence but about a third resulted from indirect causes, such
+as the failures of health, sanitation, transportation, communication and other systems.
+257.  About a third of the deaths due to direct violence were attributed to coalition forces
+(some 90,000), and a third to militias. The study reported that at the peak of the conflict
+men faced a 2.9 percent higher risk of death than they did before the war and women a
+0.7 percent higher risk of death.
+258.  The majority (63 percent) of violent deaths were the result of gunshot with
+12 percent attributed to car bombs.
+
+Non‑Iraqi civilian fatalities
+259.  The Inquiry is not aware of any comprehensive list of non‑Iraqi civilian casualties,
+or of UK civilian casualties in Iraq. The UK Government did not maintain a record of
+deaths and injuries to UK civilians in Iraq.
+260.  The Brookings Iraq Index, drawing on a partial list of contractors killed in Iraq
+maintained by the Iraq Coalition Casualty Count (ICCC), reported that by October 2009
+Geneva Declaration on Armed Violence and Development, September 2008, Global Burden of
+Armed Violence.
+161 
+Hagopian A et al. Mortality in Iraq Associated with the 2003–2011 War and Occupation: Findings
+from a National Cluster Sample Survey by the University Collaborative Iraq Mortality Study. PLOS
+Medicine 10(10) (2013).
+160 
+
+216
+
+17  |  Civilian casualties
+
+(the end of the period covered by this Inquiry) 523 non‑Iraqi civilians had been killed
+in Iraq.162 The Index did not offer any breakdown of that total.
+261.  The ICCC reported 464 contractors killed in Iraq by October 2009, of whom it
+identified 45 as British.163 Of those, the ICCC identified 37 as security contractors or
+security guards.
+262.  The US Special Inspector General for Iraq Reconstruction (SIGIR) reported
+in July 2012 that 321 US civilians had died during Operation Iraqi Freedom from
+1 May 2003 (the end of major combat operations) to 31 August 2010.164
+263.  The Committee to Protect Journalists recorded that 191 Iraqi and international
+journalists and other media workers were killed in Iraq between 19 March 2003 and
+October 2009 (the end of the period covered by this Inquiry).165
+
+Conclusions
+264.  In a series of Assessments in the second half of 2002, the Joint Intelligence
+Committee identified the possibility of significant civilian casualties in the event of a
+Coalition attack on Iraq, in particular as a result of Iraqi use of chemical and biological
+weapons, the implementation of a scorched earth policy, and disorder after the end of
+major combat operations.
+265.  The MOD made only a broad estimate of direct civilian casualties arising from an
+attack on Iraq, based on previous operations.
+266.  In the months before the invasion, Mr Blair emphasised the need to minimise the
+number of civilian casualties arising from an invasion of Iraq. He repeatedly asked the
+MOD for details on the accuracy of the weapons that the UK would use, the targeting
+policy and guidelines, and the estimated number of civilian casualties.
+267.  Sections 6.1 and 6.2 consider the MOD’s responses, which offered
+reassurance based on the tight targeting procedures governing the air campaign.
+Admiral Sir Michael Boyce, Chief of the Defence Staff, advised Mr Blair on 25 February
+2003 that civilian casualties were likely to be in the “low hundreds”.166
+268.  In his public statements before the invasion, Mr Blair suggested that the number
+of civilians who would be killed in any conflict should be set in the context of the number
+of civilians who had been killed by Saddam Hussein’s regime or were dying as a result
+of its policies. On the eve of the invasion, Mr Blair stated that Saddam Hussein “will
+
+The Brookings Institution, 13 October 2009, Iraq Index.
+Iraq Coalition Casualty Count website.
+164 
+Report SIGIR, July 2012, The human toll of reconstruction and stabilization during Iraqi Freedom.
+165 
+Committee to Protect Journalists website.
+166 
+Letter Cannon to Owen, 25 February 2003, ‘Iraq: Prime Minister’s Meeting with General Franks’.
+162 
+163 
+
+217
+
+The Report of the Iraq Inquiry
+
+be responsible for many, many more deaths even in one year than we will be in any
+conflict”.167
+269.  In November 2003, in response to media and NGO reporting on the high levels
+of civilian casualties, the Government began to consider whether and how it should
+respond to demands for information on the number of civilians killed in Iraq, including the
+number killed by UK forces.
+270.  That consideration was driven by the Government’s concern to sustain domestic
+support for operations in Iraq. Mr Straw and Mr Hoon agreed in November 2003 that the
+Government needed to produce accurate casualty figures to rebut claims that Coalition
+Forces were killing large numbers of civilians; in October 2004, Mr Blair stated that
+the Government needed an estimate of civilian casualties which showed the extent of
+insurgent responsibility.
+271.  With hindsight, greater efforts should have been made in the post‑conflict period to
+determine the number of civilian casualties and the broader effects of military operations
+on civilians. A trial monitoring exercise initiated by No.10 in November 2004 was not
+completed. Much more Ministerial and senior official time was devoted to the question
+of which department should have responsibility for the issue of civilian casualties than to
+efforts to determine the actual number.
+272.  The Government was aware of several reports and studies (the Iraqi Ministry of
+Health in October 2004, the Lancet studies in October 2004 and October 2006, and
+the Iraq Body Count dossier in July 2005) which suggested that coalition forces were
+responsible for more civilian deaths than were the insurgents.
+273.  Those reports did not trigger any work within the Government either to determine
+the number of civilian casualties or to reassess its military or civilian effort. An FCO
+official commented that the Iraqi Ministry of Health’s figures “will not help make the case
+that more civilians have been killed by terrorists than by military action”.168
+274.  The Inquiry has considered the question of whether a Government should, in the
+future, do more to maintain a fuller understanding of the human cost of any conflict in
+which it is engaged.
+275.  All military operations carry a risk of civilian casualties. The parties to a conflict
+have an obligation under International Humanitarian Law to limit its effects on civilians.
+276.  In Iraq, the UK Government recognised that obligation in its Rules of Engagement,
+Targeting Directive and guidance on Battle Damage Assessment. The Government did
+not consider that it had a legal obligation to count civilian casualties.
+
+167 
+168 
+
+House of Commons, Official Report, 19 March 2003, column 934.
+Minute FCO [junior official] to Owen, 13 October 2004, ‘Iraq: Civilian Casualty Figures’.
+
+218
+
+17  |  Civilian casualties
+
+277.  The Inquiry considers that a Government has a responsibility to make every
+reasonable effort to identify and understand the likely and actual effects of its military
+actions on civilians.
+278.  That will include not only direct civilian casualties, but also the indirect costs on
+civilians arising from worsening social, economic and health conditions. (Section 10.4
+considers the scale of the reconstruction challenge in Iraq after the fall of Saddam
+Hussein’s regime and the Government’s contribution to meeting that challenge).
+279.  It may not be possible, before committing to a course of action, to produce even
+broad estimates of the number of civilians that would be directly and indirectly affected
+by it, or to identify all the effects on civilians.
+280.  The Government should be ready to work with others, in particular NGOs and
+academic institutions, to develop such assessments and estimates over time.
+281.  The Government should take account of those assessments and estimates in
+developing its strategy and plans as well as in its military tactics and use of ordnance, in
+order to minimise, to the extent possible, the effects on civilians. The Inquiry considers
+that RAND’s conclusion in relation to US military operations should apply equally to
+the UK:
+“Because protecting the population is one of the central tenets of US COIN
+[counter‑insurgency] doctrine … Iraqi civilian fatalities should be a chief concern for
+the US military.”169
+282.  As well as serving to minimise the effect of military action on civilians, such
+assessments and estimates will also enable the Government to address criticisms of the
+human cost of military operations.
+
+169 
+
+RAND, 2008. An Argument for Documenting Casualties: Violence Against Iraqi Civilians 2006.
+
+219
+

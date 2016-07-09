@@ -1,0 +1,1534 @@
+SECTION 10.4
+CONCLUSIONS: RECONSTRUCTION
+Contents
+Introduction and key findings ........................................................................................ 528
+Pre‑invasion planning and preparation ......................................................................... 529
+Occupation .................................................................................................................... 530
+Leadership of the UK’s reconstruction effort ........................................................... 531
+Failure to commit to ORHA ..................................................................................... 532
+Returning to “a war footing” .................................................................................... 534
+The focus on the South ........................................................................................... 535
+Transition ...................................................................................................................... 538
+Preparation for withdrawal ............................................................................................ 540
+A new focus on economic development in Basra ......................................................... 542
+Civilian‑military co‑ordination on the ground ................................................................. 543
+Reconstruction, strategy and planning .......................................................................... 544
+Energy security, oil and oil revenues ............................................................................ 547
+Support for UK business ............................................................................................... 549
+The Government’s approach to post‑conflict reconstruction ......................................... 549
+The impact of the UK’s reconstruction effort ................................................................. 551
+Key economic and social indicators ........................................................................ 553
+Lessons ......................................................................................................................... 554
+
+527
+
+The Report of the Iraq Inquiry
+
+Introduction and key findings
+1.  This Section addresses analysis and findings in relation to the evidence set out in
+Sections 10.1, 10.2 and 10.3 on:
+
+•	
+•	
+
+humanitarian assistance;
+
+•	
+
+the UK’s engagement with the US and successive Iraqi Governments on
+reconstruction;
+
+•	
+•	
+•	
+•	
+
+the development and implementation of UK reconstruction policy, strategy and
+plans;
+
+the UK’s policy on Iraq’s oil and oil revenues;
+the Government’s support for UK businesses in securing reconstruction
+contracts;
+debt relief; and
+the reform of the UK’s approach to post‑conflict reconstruction and stabilisation.
+
+2.  This Section does not address:
+
+•	
+•	
+•	
+•	
+
+planning and preparing to provide humanitarian assistance and reconstruction,
+which is addressed in Sections 6.4 and 6.5;
+the financial and human resources available for post‑conflict reconstruction,
+addressed in Sections 13 and 15 respectively;
+de‑Ba’athification and Security Sector Reform, addressed in Sections 11
+and 12 respectively; and
+the development of UK strategy and deployment plans, addressed in Section 9.
+
+3.  During the period covered by the Inquiry, the Government used a number of different
+terms to describe post‑conflict activity in Iraq, including “reconstruction”. It did not
+generally define those terms. The Inquiry uses the term “reconstruction” in line with the
+Government’s common usage:
+
+•	
+•	
+•	
+
+to include work to repair and build infrastructure, deliver essential services and
+create jobs;
+to include work to build the capacity of Iraqi institutions and reform Iraq’s
+economic, legislative and governance structures; and
+to exclude Security Sector Reform.
+
+528
+
+10.4  |  Conclusions: Reconstruction
+
+Key findings
+•	
+
+The UK failed to plan or prepare for the major reconstruction programme required
+in Iraq.
+
+•	
+
+Reconstruction was the third pillar in a succession of UK strategies for Iraq.
+The Government never resolved how reconstruction would support broader UK
+objectives.
+
+•	
+
+Following the resignation of Ms Clare Short, the International Development Secretary,
+and the adoption of UN Security Council resolution 1483 in May 2003, DFID assumed
+leadership of the UK’s reconstruction effort in Iraq. DFID would subsequently define,
+within the framework established by the Government, the scope and nature of
+that effort.
+
+•	
+
+At key points, DFID should have considered strategic questions about the scale,
+focus and purpose of the UK’s reconstruction effort in Iraq.
+
+•	
+
+The US‑led Coalition Provisional Authority excluded the UK from discussions on oil
+policy and on disbursements from the Development Fund for Iraq.
+
+•	
+
+Many of the failures which affected pre‑invasion planning and preparation persisted
+throughout the post‑conflict period. They included poor inter‑departmental
+co‑ordination, inadequate civilian-military co‑operation and a failure to use resources
+coherently.
+
+•	
+
+An unstable and insecure environment made it increasingly difficult to make progress
+on reconstruction. Although staff and contractors developed innovative ways to
+deliver projects and manage risks, the constraints were never overcome. Witnesses
+to the Inquiry identified some successes, in particular in building the capacity of
+central Iraqi Government institutions and the provincial government in Basra.
+
+•	
+
+Lessons learned through successive reviews of the UK approach to post‑conflict
+reconstruction and stabilisation, in Iraq and elsewhere, were not applied in Iraq.
+
+Pre‑invasion planning and preparation
+4.  When military operations against Iraq began on the night of 19/20 March 2003, the
+Government had not:
+
+•	
+•	
+•	
+•	
+•	
+
+made contingency preparations for the deployment of more than a handful of UK
+civilians to Iraq;
+allocated any funding for post‑conflict reconstruction;
+drawn up any plans to deliver essential services and reconstruction in the South,
+in line with the UK’s likely obligations as an Occupying Power;
+established mechanisms within Whitehall which could co‑ordinate and drive
+post‑conflict reconstruction; or
+allocated responsibility to any department or unit for planning and delivering the
+UK’s contribution to post‑conflict reconstruction.
+
+529
+
+The Report of the Iraq Inquiry
+
+5.  Section 6.5 concludes that Ministers, officials and the military continued to assume
+that the US could act as guarantor of the UK’s objectives, including its reconstruction
+objectives, in Iraq.
+6.  The Government had established the inter‑departmental (FCO/MOD/DFID) Iraq
+Planning Unit (IPU) on 10 February 2003 to provide “policy guidance on the practical
+questions” that UK civilian officials and military commanders would face in a post‑conflict
+Iraq.1 The head of the IPU was a senior member of the Diplomatic Service, who reported
+to the FCO Director Middle East and North Africa.
+7.  The creation of the Ad Hoc Group on Iraq (see Section 6.4) in September 2002
+and the IPU improved co‑ordination across government at official level, but neither
+body carried sufficient authority to establish a unified planning process across the
+four principal departments involved – the FCO, the MOD, DFID and the Treasury –
+or between military and civilian planners.
+8.  Crucially, with the IPU focused on policy, there remained no department or unit with
+responsibility for delivering the UK’s contribution to the reconstruction effort.
+9.  After the invasion force had rapidly brought down Saddam Hussein’s regime, the
+UK’s six‑year engagement in Iraq fell into three broad phases, which the Inquiry has
+used to provide a simplified framework for describing events:
+
+•	
+•	
+•	
+
+Occupation – March 2003 to June 2004: during which the UK was formally a
+joint Occupying Power alongside the US, and Iraq was governed by the US‑led
+Coalition Provisional Authority (CPA);
+Transition – June 2004 to the end of 2005: characterised by the increasing
+power of Iraqi politicians and institutions, and ending with elections and the
+formation of the Prime Minister Nuri al‑Maliki’s government; and
+Preparations for withdrawal – 2006 to 2009: during which period the UK
+sought to transfer its remaining responsibilities in Multi‑National Division
+(South‑East) (MND(SE)) to Iraqi forces so that it could withdraw its remaining
+troops.
+
+Occupation
+10.  Shortly after the beginning of military operations in Iraq, officials advised that
+the humanitarian assistance capabilities available in Iraq would be inadequate in
+the event of a protracted conflict, significant damage to infrastructure or large‑scale
+movements of people. The use of chemical and biological weapons could also trigger
+a humanitarian disaster.
+
+Letter Jay to Turnbull, 17 February 2003, ‘Iraq Planning Unit’ attaching Paper, [undated], ‘Proposed
+Terms of Reference for the tract [sic] Planning Unit’.
+1 
+
+530
+
+10.4  |  Conclusions: Reconstruction
+
+11.  In the event, those scenarios did not materialise. The preparations for large‑scale
+humanitarian assistance made by the international community and, in the South, by the
+UK military were not tested.
+12.  By the middle of April 2003, DFID was beginning to look beyond humanitarian
+assistance to recovery and reconstruction.
+
+Leadership of the UK’s reconstruction effort
+13.  When military operations against Iraq began, there was no single Ministerial lead
+for reconstruction in Iraq. Mr Jack Straw (the Foreign Secretary), Mr Geoff Hoon (the
+Defence Secretary) and Ms Clare Short (the International Development Secretary)
+remained jointly responsible for directing post‑conflict planning and preparation.
+14.  Ms Short told DFID officials on 26 March 2003 that Mr Blair had given her
+responsibility for reconstruction in Iraq.
+15.  The following day, Sir Michael Jay, FCO Permanent Under Secretary, and
+Sir Andrew Turnbull, the Cabinet Secretary, agreed that “it was right that the FCO
+should take the overall Whitehall lead on reconstruction”, including a Cabinet
+Committee on reconstruction chaired by Mr Straw.2 Sir Michael reported his concern
+that DFID were “still hankering after the leadership of the Iraq reconstruction agenda”.
+16.  In early April, Mr Blair agreed to the creation of the Ad Hoc Ministerial Group on Iraq
+Rehabilitation (AHMGIR), chaired by Mr Straw, “to formulate policy for the rehabilitation,
+reform and development of Iraq”.3 The first meeting took place on 10 April.
+17.  The Cabinet Office provided secretariat support for the AHMGIR but responsibility
+for inter‑departmental co‑ordination remained with the IPU.
+18.  The creation of the AHMGIR offered the possibility of a more strategic and
+integrated UK approach to reconstruction, with a single Minister overseeing the
+development and implementation of reconstruction strategy and planning. But it should
+have been established earlier, to better support more coherent UK planning and
+preparations for the post‑conflict period.
+19.  Although the AHMGIR commissioned and agreed a number of strategies and
+plans, it did not seek to manage them. It did not, for example, scrutinise and challenge
+departments’ support for them, ensure that the structures and resources necessary to
+deliver them were in place, or require substantive reports on progress and impact.
+20.  In May 2003, following the resignation of Ms Short and the adoption of resolution
+1483, DFID assumed leadership of the UK’s reconstruction effort in Iraq and would
+subsequently define, within the framework established by the AHMGIR and successive
+
+2 
+3 
+
+Minute Jay to Secretary of State [FCO], 27 March 2003, ‘Iraq: Reconstruction: Whitehall Co‑ordination’.
+Letter Turnbull to Straw, 7 April 2003, ‘Iraq: Rehabilitation’.
+
+531
+
+The Report of the Iraq Inquiry
+
+UK strategies for Iraq, the scope and nature of that effort. There was no formal direction
+that DFID should take charge.
+21.  The IPU retained responsibility for all policy issues and for administering UK
+secondments to the CPA. The FCO retained responsibility for Security Sector Reform
+(see Section 12).
+22.  Mr Blair maintained a close interest in the UK’s reconstruction effort and the
+contribution that progress here could make to achieving broader UK objectives. He
+pressed DFID on a number of occasions in 2003 and 2004 to accelerate the pace of
+reconstruction and focus its efforts more directly in support of the political process and
+security. DFID Ministers responded by highlighting work that was already under way and
+the difficulties of making progress in the face of growing insecurity.
+23.  By late 2004, Mr Blair’s attention was increasingly focused on the political process,
+security and “Iraqiisation”.
+
+Failure to commit to ORHA
+24.  When military operations against Iraq began, the UK had not made a decision
+on the level and nature of its support for the US‑led Office of Reconstruction and
+Humanitarian Assistance (ORHA), the body responsible for immediate post‑conflict
+administration and reconstruction.
+25.  The 10 April meeting of the AHMGIR, which Mr Straw chaired and Ms Short
+attended, agreed that the UK should increase its support for ORHA. That decision
+reflected an assessment by the IPU that, although ORHA remained “in many ways a
+sub‑optimal organisation”, it was also “the only game in town”.4 Greater UK engagement
+with ORHA would help ensure that it did not pursue activities which the UK judged
+not to be legal.
+26.  The FCO sought volunteers to deploy to ORHA on 22 April. The first arrived in Iraq
+in early May.
+27.  Mr Straw visited ORHA on 14 April. He later wrote in his memoir:
+“I could not believe the shambles before my eyes. There were around forty people in
+the room, who, somehow or other, were going to be the nucleus of the government
+of this large, disputatious and traumatised nation.”5
+28.  Ms Short received a report from a DFID official the following day:
+“… ORHA is incredibly awful … There may be things we could do to support it, but
+it would be a political judgement (and a big political risk).”6
+Paper IPU, 28 March 2003, ‘Iraq: Office for Reconstruction and Humanitarian Assistance (ORHA)’.
+Straw J. Last Man Standing: Memoirs of a Political Survivor. Macmillan, 2012.
+6 
+Minute Bewes to Secretary of State [DFID], 15 April 2003, [untitled].
+4 
+5 
+
+532
+
+10.4  |  Conclusions: Reconstruction
+
+29.  On 17 April, Mr Blair agreed that the UK should “increase significantly the level of …
+political and practical support to ORHA, including the secondment of significant numbers
+of staff in priority areas”.7
+30.  Notwithstanding the Government’s decision to increase support for ORHA, Ms Short
+remained cautious about the extent of DFID’s engagement. Her assessment was that
+ORHA was not the only game in town. In particular, “immediate assistance” was a job for
+the International Committee of the Red Cross (ICRC) rather than ORHA.8 While ORHA
+was responsible for “paying wages”, other recovery issues would emerge from
+a formal needs assessment undertaken by the World Bank and the International
+Monetary Fund (IMF).
+31.  Ms Short concluded on 23 April that DFID needed “one or two people” within ORHA
+to act as DFID’s “eyes and ears”. DFID “should not bow to external pressure to put
+people into ORHA for the sake of it”.
+32.  Ms Short’s assessment reflected her reluctance to engage in post‑conflict activity
+other than for the immediate humanitarian response to conflict, until it was confirmed
+that the UN would lead the reconstruction effort.
+33.  ORHA was, as Ministers and officials had reported, an extremely weak organisation.
+But it was the organisation responsible for immediate reconstruction, and the scale
+and urgency of the reconstruction challenge was already apparent. DFID should have
+supported the Government’s decision to increase support for ORHA. The decision to
+adopt a unilateral position fed concerns within Whitehall and in Iraq over the lack of
+DFID engagement.
+34.  The AHMGIR agreed on 24 April that the UK should offer to play “a leading role”
+in ORHA(South), provided that ORHA confirmed that the UK would not be required to
+pay for reconstruction.9 The AHMGIR also endorsed the UK military assumption that the
+post‑conflict UK Area of Responsibility (AOR) would comprise four provinces in southern
+Iraq coterminous with the boundaries of ORHA’s southern region.
+35.  The AHMGIR did so at a time when there was considerable concern about ORHA’s
+capabilities and without robust analysis either of the strategic implications for the UK or
+of the military’s capacity to support the UK’s potential civilian obligations in the region.
+36.  Ambassador Paul Bremer arrived in Baghdad on 12 May to lead the CPA. The
+creation of the CPA signalled a change in US policy: instead of a rapid withdrawal,
+the US was now working on the assumption of a protracted occupation. ORHA was
+absorbed into the CPA in June.
+
+Letter Rycroft to McDonald, 17 April 2003, ‘Iraq: ORHA’.
+Minute Bewes to Miller, 24 April 2003, ‘Iraq: 23 April’.
+9 
+Minutes, 24 April 2003, Ad Hoc Group on Iraq Rehabilitation meeting.
+7 
+8 
+
+533
+
+The Report of the Iraq Inquiry
+
+Returning to “a war footing”
+37.  In early summer 2003, there was a chance for the Government to revisit its
+reconstruction effort to put it on a more sustainable basis.
+38.  On 12 May, Baroness Amos succeeded Ms Short as International Development
+Secretary. Baroness Amos’s arrival coincided with reports from Basra that ORHA’s
+inability to deliver reconstruction might undermine the level of consent enjoyed by
+UK forces in the South, and hence affect plans for their withdrawal.
+39.  Baroness Amos immediately signalled DFID’s willingness to do more on
+reconstruction.
+40.  On 22 May, the UN Security Council adopted resolution 1483. The resolution
+formally designated the US and UK as joint Occupying Powers in Iraq. It confirmed that
+the UN would not – as the Government had at an earlier stage assumed – have lead
+responsibility for the administration and reconstruction of Iraq. Sir Suma Chakrabarti,
+DFID Permanent Secretary from 2002 to 2007, told the Inquiry that Ms Short’s
+resignation and the adoption of the resolution led to a significant shift in DFID’s
+attitude: “From that point on, we had to try and make ORHA work better whether
+we liked it or not.”10
+41.  Resolution 1483 also created the Development Fund for Iraq (DFI) to hold
+95 percent of Iraq’s oil revenues and other Iraqi assets, and imposed joint US/UK
+responsibility (as Occupying Powers) over disbursements from it. The CPA would use
+those revenues to fund Iraq’s reconstruction; of the US$19.4bn spent by the US/CPA on
+the relief and reconstruction of Iraq during the Occupation, US$14bn came from the DFI
+and a further US$2.4bn from vested and seized Iraqi assets.
+42.  Section 9.8 concludes that resolution 1483 set the conditions for the CPA’s
+dominance over post‑invasion strategy and policy by handing it control of funding for
+reconstruction and influence on political development.
+
+UK scrutiny of disbursements from the
+Development Fund for Iraq
+Resolution 1483, which was adopted on 22 May 2003, provided that disbursements from
+the Development Fund for Iraq (DFI) would be “at the direction of the Authority [the US
+and UK as Occupying Powers], in consultation with the interim Iraqi administration”. By
+that time, the US was committed to a protracted Occupation and it was not clear when an
+interim Iraqi administration would be established.
+On 10 June 2003, the CPA issued a regulation that gave Ambassador Paul Bremer,
+as “Administrator of the CPA”, authority to oversee and control the establishment,
+administration and use of the DFI and to direct disbursements from the DFI.
+
+10 
+
+Public hearing, 8 December 2009, page 34.
+
+534
+
+10.4  |  Conclusions: Reconstruction
+
+Audits undertaken by the US Special Inspector General for Iraq Reconstruction (SIGIR)
+found that the CPA failed to enforce adequate management, financial and contractual
+controls over approximately US$8.8bn of DFI money, and that there was “no assurance
+that the funds were used for the purposes mandated by resolution 1483”.11 Ambassador
+Bremer disagreed with that assessment.
+The CPA excluded the UK from decisions on disbursements from the DFI. Sir Jeremy
+Greenstock, the Prime Minister’s Special Representative on Iraq from September 2003 to
+March 2004, told the Inquiry: “The UK was not allowed sight of any of the figures on the
+use of money by the CPA … London made it quite clear that they didn’t expect me to be
+responsible for this.”12
+Section 9.8 addresses the UK’s inability to influence decisions made by the CPA,
+commensurate with its responsibilities as an Occupying Power.
+
+43.  On 3 June, following a visit to Iraq, Mr Blair told Ministers that the Government
+should return to “a war footing” to avoid “losing the peace in Iraq”.13
+44.  Following the adoption of resolution 1483, with the AHMGIR now established,
+and with Mr Blair and DFID engaged, there was a chance to set clear and realistic
+priorities for the UK’s reconstruction effort, within the framework provided by a broader
+UK strategy for Iraq, and to identify and secure the human and financial resources
+necessary to manage and deliver that effort.
+45.  Despite Mr Blair’s recognition of the risk that the UK could lose the peace in Iraq,
+the Government failed to take that chance. There are no indications that Mr Blair’s
+direction led to any substantive changes in the UK’s reconstruction effort.
+46.  From early June 2003, and throughout the summer, there were signs that security
+in Baghdad and the South was deteriorating. Following the attack on UN staff on
+19 August, UN and other international staff withdrew from Iraq.
+
+The focus on the South
+47.  The Government was aware by early June that the Danish Head of ORHA(South),
+Ambassador Ole Olsen, might shortly leave Iraq.
+48.  In June, driven by the Government’s concern over the declining level of consent for
+the UK military presence in the South, which the Government attributed to CPA(South’s)
+inability to deliver reconstruction, DFID agreed to provide £15m to support CPA(South)
+and Quick Impact Projects (QIPs) delivered by the UK Armed Forces. DFID and
+MOD officials also advised Ministers that the Government needed to “identify a line of
+
+Bowen SW Jr. Hard Lessons: The Iraq Reconstruction Experience. U.S. Government Printing
+Office, 2009.
+12 
+Private hearing, 26 May 2010, pages 50‑51.
+13 
+Letter Cannon to McDonald, 3 June 2003, ‘Iraq: Prime Minister’s Meeting’, 3 June’.
+11 
+
+535
+
+The Report of the Iraq Inquiry
+
+funding that will … cover the costs of being an Occupying Power until other sources
+are freed up”.14
+49.  The Inquiry has seen no indications that any work was done to identify an alternative
+source of funding. The UK’s assumption remained that the US/CPA should provide
+funding for the South.
+50.  Section 9.8 concludes that, from early July, security was seen in Whitehall as the
+key concern. A circular analysis began to develop, in which progress on reconstruction
+required security to be improved, and improved security required the consent generated
+by reconstruction.
+51.  Cabinet agreed on 3 July that the UK should make CPA(South) “a model”.15 What
+that meant, and what resources might be required to realise it, was not specified or
+recognised as an issue. It was ill‑advised to set ambitious objectives without any plan or
+commitment of resources for meeting them.
+52.  By 9 July, Sir Michael Jay had agreed with FCO officials that a British official should
+replace Ambassador Olsen as Head of CPA(South), if he decided to resign.
+53.  Ministers agreed the following day that the UK should offer to replace Ambassador
+Olsen with a British official.
+54.  Although the significant strategic, resource and reputational implications of such a
+decision had been identified in March and April 2003, there are no indications that those
+assessments were reviewed, or that any arrangements were to put in place to support a
+British Head of CPA(South) and, more broadly, the UK’s leadership of CPA(South).
+55.  Sir Hilary Synnott arrived in Basra on 30 July to take up post as Head of
+CPA(South). Sir Hilary wrote in his memoir that his arrival, along with the British military
+command of MND(SE), established “some sort of British Fiefdom” in the South, but one
+which he saw as “still entirely dependent on American resources for its lifeblood”.16
+56.  Sir Jeremy Greenstock, the Prime Minister’s Special Representative on Iraq from
+September 2003 to March 2004, told the Inquiry that there was a “separation in the
+American mind between the British area and the rest of Iraq, which was their area”.17
+Sir Jeremy added that that separation was reflected in the US resources available for
+the South: “The Americans said let the Brits look after Basra.”18
+
+Annotated Agenda, 12 June 2003 Ad Hoc Group on Iraq Rehabilitation meeting attaching Paper
+DFID/MOD, 11 June 2003, ‘UK Support to the CPA South Area – Next Steps’.
+15 
+Cabinet Conclusions, 3 July 2003.
+16 
+Synnott H. Bad Days in Basra: My Turbulent Time as Britain’s Man in Southern Iraq. I B Tauris & Co Ltd.,
+2008.
+17 
+Public hearing, 15 December 2009, page 94.
+18 
+Private hearing, 26 May 2010, page 54.
+14 
+
+536
+
+10.4  |  Conclusions: Reconstruction
+
+57.  In his first report from Basra, sent on 7 August, Sir Hilary wrote that he currently had
+no secure communication with Baghdad or London, there were no telephone landlines
+and mobile coverage was patchy.
+58.  On 10 and 11 August, there were serious riots in Basra. Cabinet Office officials
+attributed the disturbances to increasing frustration with the Coalition’s failure to restore
+basic services. Ministers agreed that Sir Hilary “should be given such assistance and
+staff as he deemed necessary to improve the workings of CPA(South)”.19
+59.  At the end of August, Sir Hilary Synnott requested 37 specialist staff and
+20 armoured vehicles for CPA(South). He requested a further 44 staff at the end of
+October. In his valedictory report in January 2004, Sir Hilary stated that:
+“A bid for 37 additional and expert staff … was endorsed by Ministers immediately …
+by early January, 18 of the 37 new staff had still not arrived.”20
+60.  The FCO did not provide adequate practical support to Sir Hilary Synnott as Head of
+CPA(South).
+61.  Departments’ failure to respond to Ministers’ demands for additional civilian
+personnel in Basra and elsewhere in Iraq is addressed in Section 15.2.
+62.  The decision to take on the leadership of the CPA(South) had significant
+implications, lasting well beyond the end of the Occupation. The South would occupy the
+attention of Ministers and senior officials and absorb the majority of the UK resources
+available for reconstruction.
+63.  Sir Michael Jay was aware, in particular through his participation in Mr Blair’s
+6 March and 17 April meetings, that the decision to provide the Head of CPA(South)
+would have significant resource implications. He did not ensure that those were
+addressed.
+64.  Sir Michael, as FCO Permanent Under Secretary, failed to ensure that the FCO
+provided the support needed by Sir Hilary Synnott as Head of CPA(South).
+65.  On 15 November, the Iraqi Governing Council unveiled a timetable for the transfer
+of power to a transitional Iraqi administration by 30 June 2004, at which point the CPA
+would be dissolved. The announcement took UK officials and contractors working in the
+CPA by surprise.
+66.  The decision to transfer power earlier than had been expected (the CPA’s plans
+had extended for some years) had significant implications for the reconstruction effort.
+The CPA focused on programmes which could deliver a visible and immediate impact in
+support of reconciliation and the political transition process, and shelved programmes
+
+19 
+20 
+
+Minutes, 28 August 2003, Ad Hoc Ministerial Group on Iraq Rehabilitation meeting.
+Telegram 10 Basra to FCO London, 26 January 2004, ‘Basra Valedictory’.
+
+537
+
+The Report of the Iraq Inquiry
+
+(such as privatisation) that risked undermining that process. It also sought to increase
+support for Iraqi government institutions, to prepare them to fulfil their responsibilities for
+the administration of Iraq (in only seven months’ time).
+67.  In December, DFID approved the first of a series of projects which aimed to build
+the capacity of key institutions at the centre of the Iraqi Government, including the
+Prime Minister’s Office. The Treasury also provided support to the Iraqi Government on
+budgeting and financial management.
+68.  Resolution 1546, which was adopted on 8 June 2004, endorsed the formation of a
+sovereign Interim Government of Iraq (IGI) which would assume full responsibility for
+governing Iraq by 30 June 2004. The IGI would have “the primary role” in co‑ordinating
+international assistance, with the support of the UN.21
+69.  The resolution requested Member States, international financial institutions
+and other organisations to strengthen their efforts to support reconstruction and
+development.
+
+Transition
+70.  At the end of June 2004, the CPA formally handed over power to the Interim Iraqi
+Government (IIG) and the US and UK ceased to be Occupying Powers in Iraq. Mr Hilary
+Benn, the International Development Secretary, welcomed the fact that “Iraqis were
+clearly in charge” and that the UK was moving “from a phase of doing things for the
+Iraqis to supporting them doing it for themselves”.22 Despite that, there were concerns
+among DFID officials that the IIG was ill‑prepared to administer Iraq and lead the
+reconstruction effort.
+71.  Both the incoming Iraqi Government and the US established new structures to
+manage and deliver reconstruction in Iraq.
+72.  The UK’s priorities were to maintain the momentum of the political process towards
+elections in January 2005 and to ensure that the conditions for the drawdown of UK
+forces (planned to begin in 2005) were achieved.
+73.  An immediate UK concern was the growing insurgency in Sunni areas. During
+the autumn, Mr Blair pressed DFID to increase the pace of reconstruction so that Iraqi
+citizens could see a reconstruction dividend before the elections and to do more in cities
+across Iraq where the IIG had regained control from insurgents.
+74.  DFID’s response focused on the steps it had already taken to accelerate the pace
+of reconstruction in the South, in the face of growing insecurity. It did not substantively
+address Mr Blair’s request that it should do more in cities where the IIG had regained
+control from insurgents.
+21 
+22 
+
+UN Security Council resolution 1546 (2004).
+Minutes, 1 July 2004, Ad Hoc Ministerial Group on Iraq Rehabilitation meeting.
+
+538
+
+10.4  |  Conclusions: Reconstruction
+
+75.  Mr Blair’s assessment of the contribution that reconstruction could make to
+addressing insecurity in Iraq and to achieving wider UK objectives was reasonable.
+While there were certainly obstacles to increasing DFID’s focus on the areas identified
+by Mr Blair, including insecurity and the dominant role of the US, DFID should
+have reviewed its effort in Iraq in the light of the worsening situation on the ground.
+It did not do so.
+76.  From this point on, Mr Blair increasingly focused on pressing issues relating to the
+political process, security and “Iraqiisation” (building the ability of Iraqi Security Forces to
+take the lead on security within Iraq).
+77.  By the end of 2004, the obstacles to delivering reconstruction in the South were
+clear.
+78.  Insecurity remained the most serious obstacle to progress.
+79.  The UK had been pressing the US to move quickly to establish a reconstruction
+presence in the South since the transition to the IIG in June 2004. In December, officials
+confirmed that the US intended to focus on reconstruction projects that had a more
+immediate and visible impact at the expense of larger, longer‑term projects, and was
+likely to reallocate funding from more to less stable areas of Iraq. That meant less US
+funding for the South. Mr Chakrabarti reported that:
+“As junior partners in the coalition, our ideas are listened to, but our influence over
+US spending will remain limited. We need to face up to the fact: the South will not be
+a strategic priority for the US.”23
+80.  At the same time, concerns grew over the capacity of the Iraqi Government to lead
+and manage the reconstruction effort. Faster progress on reconstruction was unlikely
+without greater Iraqi capacity, and building that capacity could take years. A particular
+concern for the UK was the weakness of the relationship between Baghdad and Basra.
+That relationship would become increasingly difficult.
+81.  The UN and World Bank continued to limit their presence on the ground in Iraq.
+82.  Reports from Iraq highlighted that progress in delivering essential services, and in
+particular power, had fallen far below Iraqi expectations.
+83.  DFID concluded in December 2004 that it would “have to take more of the strain
+bilaterally in 2005”.24 Planned support for infrastructure in the South would be brought
+forward.
+
+Minute Chakrabarti and Drummond to Secretary of State [DFID], 13 December 2004, ‘Iraq Visit,
+6‑8 December’.
+24 
+Minute Chakrabarti and Drummond to Secretary of State [DFID], 13 December 2004, ‘Iraq Visit,
+6‑8 December’.
+23 
+
+539
+
+The Report of the Iraq Inquiry
+
+UK funding for reconstruction
+DFID provided £297m for reconstruction and a further £209m for humanitarian assistance
+in Iraq between 2002/03 and 2009/10. Iraq was DFID’s largest bilateral programme in
+2003/04, when DFID spent a total of £220m. That included a £110m contribution to the
+humanitarian relief effort following the invasion and a £70m contribution to the World Bank
+and UN Trust Funds (which would be spent by the World Bank and UN in subsequent
+years). The size of DFID’s programme decreased over the following years.
+In addition, UK forces in MND(SE) spent £38m from UK funds on Quick Impact Projects
+(QIPs).
+It is not possible, from the information available to the Inquiry, to produce a definitive
+breakdown of the allocation of DFID funding between national programmes and
+programmes in the South. The Inquiry calculates that, from 2003/04 to 2007/08, between
+76 percent and 52 percent of DFID funding was allocated to programmes in the South.25
+DFID’s expenditure in the South peaked in 2005/06.
+UK forces also had access to significant amounts of US funding from the Commander’s
+Emergency Response Program (CERPs) to spend on urgent relief and reconstruction
+needs. The Government has not been able to provide a full breakdown of the amount of
+CERPs funding used by UK military commanders, but it appears to have been greater
+than the total amount provided by the UK for reconstruction. The US allocated US$66m
+from CERPs to MND(SE) in the US fiscal year 2005/06. In the same year, in MND(SE),
+DFID spent some £35m on infrastructure and job creation and the MOD spent £3m from
+UK funds on QIPs.
+By April 2009, the US had spent or allocated to ongoing projects US$351m from CERPs in
+MND(SE), and spent or allocated to ongoing projects some US$3.3bn from all sources in
+MND(SE). Over the same period, in MND(SE), DFID spent at least £100m and the MOD
+spent £38m from UK funds on QIPs.
+UK funding was also available for Iraq from the Global Conflict Prevention Pool (and
+subsequently the Stabilisation Aid Fund and the Conflict Pool). Most of that funding was
+allocated to Security Sector Reform (see Section 12).
+
+Preparation for withdrawal
+84.  From June 2005, the Government considered a series of papers on the transfer
+of security responsibilities for southern provinces to Iraqi Security Forces (leading to
+withdrawal of UK forces from Iraq).
+85.  DFID assessed that it could not operate effectively in the South without UK military
+support and, in October, indicated its intention to refocus on building the capacity of
+the Iraqi Government in Baghdad. Existing projects in the South would continue to
+completion but, given the security situation, no new projects would be started.
+Calculation excludes DFID funding for humanitarian assistance, the World Bank and UN Trust Funds,
+and programme support costs such as security, accommodation and communications. It is not possible
+to produce a reliable estimate of the proportion of the funding provided for those purposes that related
+to the South.
+25 
+
+540
+
+10.4  |  Conclusions: Reconstruction
+
+86.  There was some resistance to that new approach from other departments: it was not
+until October 2006 that a DFID official could advise Mr Benn that “we have largely won
+the argument that DFID should shift focus … to technical assistance in Baghdad”.26
+87.  In October 2005, the US launched its new “Clear‑Hold‑Build” strategy for Iraq. One
+component of the strategy was the deployment of integrated civilian‑military Provincial
+Reconstruction Teams (PRTs) into each Iraqi province.
+88.  The US initiative created a dilemma for the UK: how to meet US expectations that
+the UK would play a leading role in establishing PRTs in the South and that each PRT
+should be a “new venture” supported by additional resources, while not disrupting the
+UK’s plans to withdraw.27 The Government’s solution was to “be constructive; find out
+more and try and influence the US approach; and … repackage our effort in the South
+as a PRT but not do very much differently”.28 UK plans for withdrawal would not change.
+89.  The UK‑led PRT in Basra was established in May 2006, by bringing together
+existing US, UK and Danish programme teams.
+90.  An FCO paper described the situation in Basra at that time:
+“Security and governance in Basra are bad and worsening … Attacks on us, and
+both criminal and sectarian violence, are rising. Basic services are not being
+delivered …
+“The UK civilian effort in Basra is increasingly hunkered down. We face a lack of
+co‑operation from the local authorities and severe restrictions on our movement.
+Our local staff … suffer growing intimidation. Against this background, much of our
+effort – notably the Provincial Reconstruction Team we are standing up … can
+make little headway.”29
+91.  The UK’s response to the US strategy, including the introduction of PRTs, was
+entirely shaped by its plans to withdraw (militarily and in relation to reconstruction). The
+decision simply to repackage the UK effort meant that the possibility of establishing a
+coherent international effort in the South, adapted to the difficult security environment,
+was left unexplored. The PRT was a less effective organisation than it might have been.
+The weaknesses in the PRT would be exposed in 2008, as security improved and
+international partners looked to it to do more.
+
+Minute DFID [junior official] to Private Secretary [DFID], 6 October 2006, ‘Iraq: Future for DFID
+Programme from 2007’.
+27 
+eGram Baghdad to FCO London, 22 November 2005, ‘Iraq: Update PRTs’.
+28 
+Minute DFID [junior official] to Private Secretary [DFID], 1 November 2005, ‘Iraq: Oral Briefing in
+Preparation for DOP(I), 3 November’.
+29 
+Paper FCO, 27 April 2006, ‘DOP(I): Basra’.
+26 
+
+541
+
+The Report of the Iraq Inquiry
+
+The Better Basra Plans
+Between June 2006 and March 2007, officials in Basra produced three “Better Basra
+Plans”, which aimed to get Basra on track for the transfer to Provincial Iraqi Control (PIC).
+The first, produced under the direction of Mr Des Browne, the Defence Secretary, focused
+on Security Sector Reform. The third was a comprehensive plan, produced by the British
+Embassy Office Basra, MND(SE) and the PRT, setting out nine lines of operation including
+reconstruction under an “over‑arching political strategy”.
+The Stabilisation Unit subsequently reported that the “Better Basra Plans” had gone some
+way to make up for the absence of a UK strategy for Iraq, but had been undermined by a
+lack of strategic guidance from Whitehall and frequent changeover of personnel in theatre,
+and so “eventually fell by the wayside during the course of 2007”.30
+
+92.  The security situation in Basra continued to deteriorate. In October 2006, the
+majority of civilian staff were withdrawn from the Basra Palace Compound to Basra
+Air Station (BAS), where MND(SE) was already based. The lack of hardened
+accommodation at BAS meant that the PRT withdrew first to Kuwait and redeployed
+to BAS in February 2007.
+
+A new focus on economic development in Basra
+93.  Mr Gordon Brown took office as Prime Minister at the end of June 2007. In relation
+to Iraq, he focused his attention on initiatives to support economic growth and private
+sector investment in Basra. DFID increased staffing in both Basra and Baghdad to
+support those economic initiatives.
+94.  The UK‑led PRT in Basra continued to be the primary means of delivering the UK’s
+reconstruction effort in the South.
+95.  In March 2008, Prime Minister Maliki launched a major offensive against militia
+groups in Basra, known as the “Charge of the Knights”. The operation led to an
+immediate improvement in the security situation in Basra. The US and the Iraqi
+Government moved quickly to exploit it by pouring in resources for reconstruction and
+in particular for projects which would have an immediate, visible impact.
+96.  A junior DFID official reported from Basra that it seemed the US could “do things”
+that the UK had not tried.31 It was able to dedicate more people and more money to the
+task; change the security environment to secure better civilian access; operate outside
+Iraqi structures; ensure better linkages to US work in Baghdad; and “apply sufficient
+clout at the Baghdad end” to secure the Iraqi Government’s attention.
+
+30 
+31 
+
+Report Stabilisation Unit, 3 September 2008, ‘Review of the Basra Provincial Reconstruction Team’.
+Email DFID [junior official] to DFID [junior official], 9 April 2008, ‘Basra’.
+
+542
+
+10.4  |  Conclusions: Reconstruction
+
+97.  Within the UK Government, initial reactions to those developments were mixed.
+Some saw them as an opportunity, others as undermining the UK’s work to build
+the capacity of the provincial government (which risked being sidelined by decisions
+to channel funds directly to line ministries, tribal leaders and non‑governmental
+organisations), as a distraction for the UK team, and as a risk to the UK’s reputation.
+98.  Mr David Miliband, the Foreign Secretary, wrote to Mr Brown in April, describing
+the Charge of the Knights as “an opportunity” which had paved the way for a
+“proper and respectable end” to the UK’s role as “lead partner in the coalition” in
+the course of 2009.32
+
+Civilian‑military co‑ordination on the ground
+99.  The withdrawal of civilian staff from Basra Palace in October 2006 came as
+frustrations within some elements of the military over the lack of an integrated
+civilian‑military effort reached a critical point.
+100.  In March and April 2003, the Government had adopted new structures, centred
+on the AHMGIR, to co‑ordinate its work on Iraq in the post‑conflict period. There
+are no indications that the Government considered how civilian teams from different
+departments and the military would co‑ordinate their efforts on the ground. It was left to
+those teams to determine how they should work together.
+101.  In December 2006, Major General Richard Shirreff, General Officer Commanding
+(GOC) MND(SE), wrote to Mr Blair proposing that the UK should establish a Joint
+Inter‑Agency Task Force combining military and civilian reconstruction expertise
+under military command. Lt Gen Shirreff told the Inquiry that, by that time, the
+“inter‑governmental piece” had failed, and characterised his proposal as “desperate
+times and desperate measures”.33
+102.  Maj Gen Shirreff’s proposal was the subject of heated debate within the
+Government. Mr Blair expressed support for it, but it was rejected by the MOD, other
+senior military officers, the FCO and DFID. Sir Nigel Sheinwald, Mr Blair’s Foreign Policy
+Adviser, advised Mr Blair that there had been constant problems between military and
+civilian teams in Basra “from the start” and concluded: “We must make a last effort to get
+a joined up operation.”34
+103.  The Government concluded that it was not appropriate to establish a military lead
+for reconstruction. The co‑location of MND(SE), the PRT and other civilian teams at BAS
+was expected to help co‑ordination. In March 2007, the UK civilian and military teams in
+
+Letter Miliband to Prime Minister, 29 April 2008, ‘Iraq’.
+Public hearing, 11 January 2010, pages 20‑21 and 42.
+34 
+Minute Sheinwald to Prime Minister, 5 January 2007, ‘Iraq: Weekly Update’ attaching Note Cabinet
+Office, 5 January 2007, ‘Basra’.
+32 
+33 
+
+543
+
+The Report of the Iraq Inquiry
+
+Basra proposed a new structure, with a civilian lead, to co‑ordinate the UK’s effort in
+the South.
+104.  Reports from Basra after March 2007 indicate that civilian‑military co‑ordination
+improved.
+105.  Co‑ordination on the ground was complicated by:
+
+•	
+•	
+
+the lack of an integrated UK strategy (within which civilian and military teams on
+the ground could locate their efforts); and
+the physical separation of the UK’s civilian and military teams until February
+2007 – the effect of that separation was exacerbated by the constraints on travel
+in Basra and the lack of a common communications system.
+
+106.  The Government should have acted much sooner to support civilian‑military
+co‑ordination on the ground in Iraq.
+
+Reconstruction, strategy and planning
+107.  Section 9.8 concludes that the Government’s frequent new strategies for Iraq did
+not result in substantial changes in direction, due to their focus on describing a desired
+end state (rather than on how it would be reached), the absence of a Cabinet Minister
+with overall responsibility for Iraq, and the difficulty in translating Government strategy
+into action by departments. Although Iraq was designated the UK’s highest foreign policy
+priority, it was not the top priority within individual departments.
+108.  Throughout the period, reconstruction was presented as the third pillar of UK
+strategy, after the political process and security. None of the UK’s strategies defined
+how reconstruction related to the political process and security, how progress on
+reconstruction could contribute to achieving broader UK objectives and, in that context,
+whether the focus and scale of the UK’s reconstruction effort was appropriate.
+
+The role of reconstruction
+Only once during the period covered by the Inquiry were Ministers invited to consider
+fundamental questions on the size, focus and impact of the UK’s reconstruction effort and
+the contribution that reconstruction could make to achieving broader UK objectives.
+The Ministerial Committee on Defence and Overseas Policy on Iraq (DOP(I)), chaired by
+Mr Blair, met for the first time on 26 May 2005.35 The Annotated Agenda for the meeting,
+prepared by the Cabinet Office, invited Ministers to consider a number of questions,
+including:
+
+•	
+•	
+
+35 
+
+Was the funding available for reconstruction across Government adequate?
+Was the UK investing at a level that supported its objective of creating stability such
+that there could be troop withdrawals?
+
+Annotated Agenda, 24 May 2005, DOP(I) meeting.
+
+544
+
+10.4  |  Conclusions: Reconstruction
+
+•	
+
+Was the UK delivering a short‑term return which would boost the political process?
+
+Those were important questions. It should not have taken until May 2005 for officials to
+pose them, or for Ministers to require advice on them.
+DOP(I) did not address those questions.
+Work by officials to establish the funding available for reconstruction across Government
+was fed into discussions on the UK’s deployment to Helmand province, Afghanistan.
+
+109.  DFID’s intent in March 2003 was to deliver a development programme in Iraq
+which fitted their standard model for Middle‑Income Countries. The programme would
+focus on providing technical assistance for the economic and institutional reforms which
+would underpin the reconstruction process and, given Iraq’s potential wealth, would be
+relatively short term. The majority of assistance would be delivered through multilateral
+channels.
+110.  That approach was not tailored to the known scale and nature of the post‑conflict
+reconstruction task in Iraq. The information available to the Government before the
+invasion clearly set out the deteriorated state of Iraq’s infrastructure. Ms Short told the
+House of Commons at the end of January 2003 that Iraq’s infrastructure was “in chronic
+disrepair. Hospitals, clinics, sanitation facilities and water treatment plants suffer
+from a terrible lack of maintenance. The result is that the Iraqi people’s lives are
+perilously fragile.”36
+111.  By May 2003, DFID had begun to change its approach.
+112.  There were two major shifts in DFID’s focus in Iraq over the period covered by the
+Inquiry, in response to broader UK objectives and the situation on the ground. The speed
+and scale of DFID’s response were informed by its own departmental priorities.
+113.  Those shifts were the product of series of individual judgments and decisions
+by DFID Ministers and officials, rather than of a structured strategy‑making process.
+That incremental approach was facilitated by the weaknesses in the Government’s
+strategy‑making process (described in Section 9.8).
+114.  First, from June 2003, DFID moved to support programmes in the South that
+would have an immediate and visible impact. That shift was driven by the Government’s
+concern over the declining level of consent for the UK military presence in the South
+due, in the Government’s view, to CPA(South)’s inability to deliver reconstruction.
+115.  DFID produced an Interim Country Assistance Plan for Iraq in February 2004,
+setting out how it planned to contribute to Iraq’s reconstruction and development. The
+Plan stated that, given the rapidly changing situation in Iraq, it would need a substantial
+review after one year.
+36 
+
+House of Commons, Official Report, 30 January 2003, columns 1053‑1054.
+
+545
+
+The Report of the Iraq Inquiry
+
+116.  Despite that statement, and the significant changes on the ground (including the
+deterioration in the security situation and the transition from Occupation to a sovereign
+Iraqi Government), DFID did not undertake any further, structured strategic reviews of its
+engagement in Iraq.
+117.  The focus on the South continued during 2004 and 2005, driven by the
+Government’s assessment that the South was not a priority for the US, the lack of
+funding from the central Iraqi Government, and the continuing absence of other donors,
+the World Bank and UN.
+118.  Second, from October 2005, when DFID indicated that it would refocus on building
+the capacity of the Iraqi Government in Baghdad. Existing projects in the South
+would continue to completion but, given the security situation, no new projects would
+be started.
+119.  The Inquiry considers that DFID missed several opportunities to address
+hard, strategic questions over the scale and focus of its programme in Iraq and the
+contribution that it could make to achieving broader UK objectives. Addressing those
+questions did not necessarily require a formal review of the Country Assistance Plan,
+but did require a structured process which:
+
+•	
+•	
+•	
+•	
+•	
+
+included a comprehensive assessment of the political, economic and social
+context in Iraq;
+considered the lessons that DFID had identified and how it would respond
+to them;
+challenged DFID’s approach in Iraq;
+engaged and reflected the policies and priorities of the Iraqi Government,
+the US and other international partners; and
+engaged other departments, in particular to consider how the reconstruction
+effort could contribute to broader UK objectives.
+
+120.  Particular opportunities were:
+
+•	
+•	
+•	
+
+in July 2003, when the UK took on civilian leadership of CPA(South) and in
+doing so created a “British fiefdom” in the South;
+in autumn 2003, as the Government sought to respond to deteriorating security
+in the South by providing support for essential services. DFID should have taken
+steps to resolve the emerging tension between Ministers’ desire to accelerate
+reconstruction in the South, and the lack of resources to do so;
+in October 2004, as the insurgency took hold across Iraq and Mr Blair sought to
+increase the impact of DFID’s reconstruction effort, in particular in cities regained
+from insurgent control;
+
+546
+
+10.4  |  Conclusions: Reconstruction
+
+•	
+•	
+•	
+•	
+
+in May 2005, when DFID chose not to undertake the substantive review of its
+Country Assistance Plan for Iraq to which it was committed;
+in October 2005, when the US adopted a Clear‑Hold‑Build strategy, including
+increased support for Iraqi institutions and the deployment of PRTs;
+in 2007, in response to the US surge and Mr Brown’s focus on economic
+development initiatives in Basra; and
+in 2008, in response to the improved security situation in Basra following the
+Charge of the Knights.
+
+121.  Under the leadership of Mr Benn and Mr Chakrabarti, DFID missed several clear
+opportunities to:
+
+•	
+•	
+
+review its approach and strategy in Iraq to ensure it was making the greatest
+possible contribution to the reconstruction of Iraq and to the UK’s broader
+objectives; and
+work within Whitehall to encourage the Government to review the UK’s broader
+approach and strategy.
+
+Energy security, oil and oil revenues
+122.  Energy security was one of the UK’s “fundamental interests” in relation to Iraq
+throughout the period covered by the Inquiry.37 The region accounted for 33 percent of
+the world’s oil supply.
+123.  As Section 3 makes clear, the UK’s decision to take military action in Iraq was not
+driven by economic considerations or potential commercial benefits.
+124.  The UK’s concerns in relation to Iraq’s oil in the run‑up to the invasion were:
+
+•	
+•	
+
+the possible impact of military action on oil prices; and
+to maximise the contribution that Iraqi oil revenues could make to financing
+Iraq’s reconstruction (reducing the risk that the UK would need to make a
+substantial contribution).
+
+125.  The US Department of Defense led planning to restore the oil sector before the
+invasion. The UK did not participate in that planning, and only become aware of it shortly
+before the invasion began.
+
+37 
+
+Paper FCO, January 2001, ‘Iraq: A Fresh Look at UK Interests’.
+
+547
+
+The Report of the Iraq Inquiry
+
+126.  The US and UK disagreed on who should control Iraqi oil revenues during the
+Occupation. The UK’s position, as set out in a briefing for Mr Blair in March 2003, was
+that:
+“The UN or the Iraqis, not the Coalition, should manage oil revenues.”38
+127.  Resolution 1483, which was adopted on 22 May 2003, reflected the US position
+that the Occupying Powers (the US and UK) should manage oil revenues.
+128.  During the Occupation, the CPA excluded the UK (and British nationals working
+in the CPA) from discussions on oil policy and rejected offers of a UK oil policy expert.
+Sir Jeremy Greenstock told the Inquiry that, in his view, “the Americans had no intention
+to take over and own the oil sector … I think they just felt it was such an important area
+that they would run it themselves”.39
+129.  In October 2003, against that background, the UK adopted a new approach of
+engaging directly with Iraqi ministers and officials.
+130.  The main objectives of UK policy during and after the transition to a sovereign Iraqi
+Government were:
+
+•	
+•	
+•	
+
+•	
+
+the introduction of measures to improve governance and transparency in the oil
+sector and in the collection and disbursement of oil revenues, including through
+the Extractive Industries Transparency Initiative (EITI);
+the creation of a public sector national oil company;
+the promotion of foreign direct investment (FDI), which the UK believed to be
+the only realistic source of the funding needed to develop Iraq’s oil fields and
+facilities and raise production. Such investment could also produce substantial
+business for UK companies. The UK adopted an increasingly cautious position
+on the potential role of the private sector in Iraq’s oil sector, including FDI, over
+the period covered by the Inquiry; and
+with respect to the proposed Hydrocarbons Law, for the federal Iraqi
+Government to have responsibility for signing new oil exploration and production
+contracts and for regulating the sector. The UK’s underlying concern was to
+preserve the integrity of the Iraqi State.
+
+131.  There is no evidence that the UK significantly influenced Iraqi policy in relation to
+oil. A junior FCO official reported in September 2006 that the Iraqi Government cared
+more about what international oil companies thought.
+
+Letter Owen to Rycroft, 25 March 2003, ‘Prime Minister’s Visit to Washington: Iraq: UN Security Council
+Resolution on Phase IV’ attaching Paper IPU, 25 March 2003, ‘Iraq: Phase IV: Authorising UNSCR’.
+39 
+Public hearing, 15 December 2009, pages 103‑104.
+38 
+
+548
+
+10.4  |  Conclusions: Reconstruction
+
+Support for UK business
+132.  The Government initially adopted a low‑key approach to lobbying for UK business,
+to avoid giving “undue prominence” to commercial interests.40 From March 2003, in
+response to pressure from UK companies, it gradually stepped up its efforts.
+133.  The US (including USAID, the US Army Corps of Engineers and the CPA) was
+the major source of reconstruction contracts during the Occupation. The Government’s
+objective was to ensure a “level playing field” for UK companies.41 The US made
+clear to the UK that, while it welcomed the participation of UK companies, there was
+no “special deal”.
+134.  A senior UK Trade and Investment (UKTI) official, writing in December 2003,
+reported that:
+“It took time, initially, to persuade Ministers that this [promoting UK business] was a
+legitimate objective that the Government should be seen to be promoting actively …
+“But the departments responsible for overseeing this co‑ordination [on post‑conflict
+Iraq] made clear at an early stage that UK commercial interests were a lower priority
+than other aspects of reconstruction. The result … was that the contribution that the
+private sector could make to post‑conflict reconstruction was less well registered.”42
+
+The Government’s approach to post‑conflict reconstruction
+135.  The Government began a review of the UK’s approach to post‑conflict
+reconstruction in September 2003.
+136.  The inter‑departmental Post‑Conflict Reconstruction Unit (PCRU) was established
+in September 2004. It became operational during 2005 and in December 2007 was
+renamed the Stabilisation Unit (SU).
+137.  The PCRU and SU focused their activity on Afghanistan. They made limited, but
+valuable, contributions in Iraq.
+138.  Since 2007, the SU has continued to evolve in response to a changing strategic
+and policy framework shaped by:
+
+•	
+•	
+•	
+
+the 2008 and 2010 National Security Strategies (NSS);
+the 2010 Strategic Defence and Security Review (SDSR); and
+the 2011 Building Stability Overseas Strategy (BSOS).
+
+Minute Henderson to Symons, 12 February 2003, ‘Iraq: Post‑Conflict Commercial Issues’.
+Letter Zimmer to Rycroft, 10 October 2003, ‘Iraq: Update on Commercial Issues’ attaching Paper UKTI,
+10 October 2003, ‘Iraq: Update on Commercial Issues’.
+42 
+Minute Warren to Haddrill, 10 December 2003, ‘Post‑Conflict Resolution: Iraq’.
+40 
+41 
+
+549
+
+The Report of the Iraq Inquiry
+
+139.  The review of post‑conflict planning and preparation that began in 2003 was
+triggered by the Iraq experience, but was not designed to provide immediate solutions to
+the problems encountered in Iraq.
+140.  On the evidence seen by the Inquiry, the Government quickly identified lessons
+learned from the shortcomings in its planning and preparation for post‑conflict Iraq and
+the initial experience of post‑conflict reconstruction. It failed, however, to apply those
+lessons in Iraq.
+141.  There is no indication that Ministers or officials considered how the PCRU might
+support operations in Iraq until autumn 2005.
+142.  PCRU support was essential to the establishment and operation of the Basra PRT
+during 2006. The PCRU did not, however, have a mandate to overcome the difficulties
+caused by variations in the contracts and terms and conditions of PRT staff, most of
+whom were transferred from existing roles in Iraq (see Section 10.3).
+143.  After 2006, there were further changes to the UK’s strategic approach to
+reconstruction and stabilisation and improvements to its deployable capability.
+144.  It is not possible to determine how the structures and capabilities introduced by
+successive governments would have performed in the circumstances that existed either
+in Whitehall during the planning and preparation for a post‑Saddam Hussein Iraq in 2002
+and early 2003, or in Whitehall and Iraq between 2003 and 2009.
+145.  The size and scope of the Stabilisation Unit and the resources at its disposal in
+2016 far exceed anything available to the UK in 2003.
+146.  The strategic direction established through the BSOS and new cross‑government
+machinery centred on the National Security Council, have created an improved
+framework for constructing an integrated civilian‑military approach to post‑conflict
+strategy, planning, preparation and implementation.
+147.  The Box below lists some of the lessons learned from reviews of the UK approach
+to stabilisation since 2009, described in greater detail in Section 10.3.
+
+550
+
+10.4  |  Conclusions: Reconstruction
+
+Reviews of the UK approach to stabilisation
+In August 2010, the Royal United Services Institute (RUSI) published a review of the
+Government’s progress in promoting stability in countries emerging from conflict.
+The review concluded that, between 2005 and 2010, a drive towards greater
+inter‑departmental co‑operation had led to a number of institutional innovations, an
+increase in the resources available for stabilisation, new cadres of practitioners and
+improved co‑ordination in‑country, but that the UK was “not yet delivering on its full
+potential to engage in fragile states”.43 Issues highlighted in the review included:
+
+•	
+•	
+•	
+
+a “mismatch” between ambitions and resources;
+loyalty to departments rather than to government as a whole; and
+lessons recorded and stored by a number of departments, but seldom considered
+when new decisions needed to be made.
+
+The Stabilisation Unit produced a paper on lessons learned from the UK’s growing
+experience of stabilisation activities in November 2010. Lessons included the need to
+ensure that economic and development objectives complement and support efforts
+to promote a peaceful political process, and the importance of securing community
+engagement.
+The Inquiry agrees, in the context of Iraq, with many of the lessons identified in the RUSI
+review and the November 2010 Stabilisation Unit paper.
+
+The impact of the UK’s reconstruction effort
+148.  From the available information, it is not possible fully to assess the impact of the
+UK’s reconstruction effort.
+149.  One difficulty is that the Government never defined what contribution
+reconstruction should make to achieving broader UK objectives and so what would
+constitute success or failure.
+150.  The environment in Iraq made reconstruction very difficult. For almost all of the
+period covered by the Inquiry, insecurity was the major constraint. Other constraints were:
+
+•	
+•	
+•	
+•	
+•	
+43 
+
+the lack of capacity within the Iraqi Government, both in Baghdad and the South,
+to support and lead reconstruction;
+the form and implementation of de‑Ba’athification;
+the politicisation of Iraqi institutions, and corruption;
+the series of relatively short‑lived Iraqi administrations between 2004 and 2006
+(with limited remits to initiate reform and an inevitable churn of Ministers and
+senior officials);
+an international community which, because of the circumstances of the invasion,
+was not fully invested in the reconstruction of Iraq; and
+
+Teuten R & Korski D. Preparing for Peace. Britain’s Contribution and Capabilities. RUSI, 2010.
+
+551
+
+The Report of the Iraq Inquiry
+
+•	
+
+the persistent lack of co‑ordination between the Iraqi Government and
+international partners, and between international partners.
+
+151.  Staff and contractors developed a number of approaches to managing the risks
+inherent in working in such an environment:
+
+•	
+
+•	
+•	
+•	
+
+using innovative techniques to deliver projects, such as working through local
+Iraqi contractors, using the military (who were more frequently able to visit
+project sites) to manage and monitor projects, and helping the Ministry of
+Finance to set up an office inside the International Zone in Baghdad within which
+international consultants could work;
+systematically tracking poor performance;
+adapting delivery methods to reduce fiduciary risk; and
+building clear exit strategies into projects, including dedicating significant effort
+to bringing in other donors.
+
+152.  The Inquiry recognises the dedication and skill of the staff and contractors who
+worked in Iraq, often in discomfort and at personal risk.
+153.  Witnesses to the Inquiry and contemporary documents identify three areas in
+particular where the UK had made a significant contribution to Iraq’s reconstruction:
+
+•	
+•	
+•	
+
+building Iraqi capacity at the centre of government (including the Prime
+Minister’s Office and the Cabinet Office), and strengthening the linkages
+between Baghdad and the provinces;
+building the capacity of the provincial administration in Basra; and
+building the capacity of successive Iraqi Governments to manage the economy
+(including the launch of a new Iraqi currency in 2003) and engage effectively
+with the International Monetary Fund.
+
+154.  The Inquiry met a number of senior Iraqi politicians and officials, and asked
+them for their views on the UK’s reconstruction effort. DFID’s focus on building Iraqi
+Government capacity to plan and manage was recognised and welcomed. That was
+contrasted with short‑term activities, including building schools and hospitals, which Iraq
+could do for itself.
+155.  In Basra, the Inquiry was told that there was little to show for the UK’s
+reconstruction effort. A small number of projects were identified as continuing to have a
+positive impact, including:
+
+•	
+•	
+•	
+
+training in the UK delivered by the PRT;
+job creation programmes supported by DFID; and
+improvements to the sewerage system supported by the UK military.
+
+552
+
+10.4  |  Conclusions: Reconstruction
+
+Key economic and social indicators
+156.  It is possible to consider the impact of the international community’s reconstruction
+efforts in Iraq by looking at the changes in a number of key indicators. Table 1 presents
+selected economic and social indicators.
+157.  In relation to the economy:
+
+•	
+•	
+
+Electricity production fell from around 4,000 megawatts (MW) per day before
+the invasion to 500MW in May 2003 (immediately after the invasion), before
+recovering to around 4,000MW in June 2004 (the transition from Occupation to
+a sovereign Iraqi Government).44 By 2009, production was around 6,000MW.
+Oil production fell from around 2.9m barrels a day (bpd) before the invasion to
+around 0.3m bpd in May 2003, before recovering to 2.3m bpd by June 2004.
+By 2009, production remained below pre‑conflict levels.
+
+158.  The under‑five mortality rate fell from 42 to 38 (per 1,000 live births) between 2003
+and 2009.
+159.  Perceptions of corruption in Iraq worsened between 2003 and 2009. Iraq fell
+from 113th out of 133 countries surveyed for Transparency International’s Corruption
+Perceptions Index in 2003, to 176th out of 180 countries surveyed in 2009.
+160.  The UN’s 2009 Common Country Assessment concluded that, while Iraq had
+fulfilled its constitutional mandate requiring 25 percent of Parliamentary seats to be filled
+by women, women remained under‑represented at higher levels within the public sector
+and government.45 Women also had higher illiteracy levels than men, participated in
+smaller numbers in the labour force, were paid less and were segregated into certain
+occupations. A disproportionate number of households in poverty were headed by
+women.
+
+44 
+45 
+
+Brookings Center for Middle East Policy, 26 July 2013, Iraq Index, Electricity.
+UN, 2009, Common Country Assessment: Iraq.
+
+553
+
+The Report of the Iraq Inquiry
+
+Table 1: Iraq: selected
+economic and social indicators
+46 47 48 49 50 51 52 53
+1989
+
+2002
+
+2003
+
+2004
+
+2009
+
+GDP at market prices (current
+US$bn)46
+
+65.6
+
+n/a
+
+n/a
+
+36.6
+
+111.7
+
+GDP per capita (current US$)47
+
+3,850
+
+n/a
+
+n/a
+
+1,391
+
+3,725
+
+3,958
+
+500 –
+3,456
+
+4,030
+
+5,700
+
+2.90
+
+2.02
+
+1.31
+
+2.01
+
+2.39
+
+Under‑five mortality rate
+(per 1,000 live births)50
+
+55
+
+43
+
+42
+
+42
+
+38
+
+Primary school enrolment,
+both sexes (%)51
+
+90
+
+n/a
+
+94
+
+93
+
+92
+
+Employment (%)52
+
+43
+
+43
+
+43
+
+43
+
+44
+
+Corruption53
+
+n/a
+
+n/a
+
+113/133
+
+129/146
+
+176/180
+
+Electricity production
+(megawatts)48
+Oil production
+(million barrels per day)49
+
+Lessons
+161.  The starting point for all discussions of reconstruction in circumstances comparable
+to those in Iraq between 2003 and 2009 must be that this is an area where progress will
+be extremely difficult.
+162.  Section 6.5 concludes that better planning and preparation for a post‑Saddam
+Hussein Iraq would not necessarily have prevented the events that unfolded in Iraq
+between 2003 and 2009. It would not have been possible for the UK to prepare for every
+eventuality. Better plans and preparation could have mitigated some of the risks to which
+
+World Bank Open Data, www.data.worldbank.org, Iraq: GDP at market prices (current US$).
+World Bank Open Data, www.data.worldbank.org, Iraq: GDP per capita (current US$).
+48 
+Brookings Center for Middle East Policy, 26 July 2013, Iraq Index, Electricity. Figure for 2002 is a
+estimated pre‑war level.
+49 
+US Energy Information Administration. Iraq Crude Oil Production by Year.
+50 
+World Bank Open Data, www.data.worldbank.org, Iraq: Mortality rate, under‑5 (per 1,000). Under‑5
+mortality rate is a leading indicator of the level of child health and overall development in countries.
+51 
+World Bank Open Data, www.data.worldbank.org, Iraq: Net enrolment rate, primary, both sexes (%).
+Figure for 2009 relates to 2007 survey.
+52 
+World Bank Open Data, www.data.worldbank.org, Iraq: Labor force participation rate, total (% of total
+population ages 15‑64).
+53 
+Transparency International, Corruption Perceptions Index (CPI). Iraq was not included in the CPI before
+2003. The CPI draws on multiple data sources.
+46 
+
+47 
+
+554
+
+10.4  |  Conclusions: Reconstruction
+
+the UK and Iraq were exposed between 2003 and 2009 and increased the likelihood of
+achieving the outcomes desired by the UK and the Iraqi people.
+163.  From late 2003, successive reviews of the UK’s approach to post‑conflict
+reconstruction, later expanded to include the broader concept of stabilisation, resulted
+in a series of changes to the UK’s approach to post‑conflict operations. Despite those
+changes, many of the shortcomings that characterised the UK Government’s approach
+to pre‑conflict planning and preparation in 2002 and early 2003 persisted after
+the invasion.
+164.  The UK Government’s new strategic framework for stabilisation, the new
+machinery for inter‑departmental co‑ordination and the enhanced resources now
+available for stabilisation operations continue to evolve. If future changes are to increase
+the effectiveness of UK operations, they must address the lessons for planning,
+preparation and implementation derived from the Iraq experience.
+165.  The lessons identified by the Inquiry apply to both the planning and preparation for
+post‑conflict operations, of which reconstruction is a major but not the sole component,
+and to post‑conflict operations themselves.
+166.  Analysis of the available material must draw on multiple perspectives, reflect
+dissenting views, identify risk – including that associated with any gaps in knowledge –
+and consider a range of options.
+167.  Information must be shared as widely across departments as is necessary to
+support that approach.
+168.  Information‑gathering and analysis of the nature and scale of the potential task
+should be systematic and as thorough as possible, and should capture the views and
+aspirations of local communities.
+169.  Plans derived from that analysis should:
+
+•	
+•	
+•	
+
+incorporate a range of options appropriate to different contingencies;
+
+•	
+
+be exposed to scrutiny and challenge at Ministerial, senior official and expert
+level;
+
+•	
+
+reflect a realistic assessment of UK (and partners’) resources and capabilities;
+integrate civilian and military objectives and capabilities in support of a single UK
+strategy;
+
+be reviewed regularly and, if the strategic context, risk profile or projected cost
+changes significantly, be revised.
+
+170.  A government must prepare for a range of scenarios, not just the best case, and
+should not assume that it will be able to improvise.
+
+555
+
+The Report of the Iraq Inquiry
+
+171.  Where the UK is the junior partner and is unable during planning or implementation
+to secure the outcome it requires, it should take stock of whether to attach conditions
+to continued participation and whether further involvement would be consistent with the
+UK’s strategic interest.
+172.  Public statements on the extent of the UK’s ambition should reflect a realistic
+assessment of what is achievable. To do otherwise is to risk even greater disillusionment
+and a loss of UK credibility.
+173.  Departmental priorities and interests will inevitably continue to diverge even where
+an inter‑departmental body with a cross‑government role, currently the SU, is in place.
+Therefore, co‑operation between departments needs continual reinforcement at official
+and Ministerial levels.
+174.  The Head of the SU must be sufficiently senior and the SU enjoy recognition
+inside and outside government as a centre of excellence in its field if the Unit is to have
+credibility and influence in No.10, the National Security Council, the Treasury, the FCO,
+DFID and the MOD, and with the military.
+175.  Section 9.8 sets out the Inquiry’s conclusions and lessons on strategy‑making.
+
+556
+

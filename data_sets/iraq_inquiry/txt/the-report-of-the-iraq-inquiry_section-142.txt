@@ -1,0 +1,668 @@
+SECTION 14.2
+CONCLUSIONS: MILITARY EQUIPMENT
+(POST‑CONFLICT)
+Contents
+Introduction ................................................................................................................... 228
+Addressing post‑invasion capability gaps ..................................................................... 229
+Countering the IED threat ....................................................................................... 229
+Requirement for a medium weight PPV .................................................................. 231
+A failure to articulate the requirement .............................................................. 232
+Attempts to improve the process for identifying requirements ......................... 234
+Funding and the Future Rapid Effect System (FRES) ..................................... 235
+Intelligence, Surveillance, Target Acquisition and Reconnaissance (ISTAR) ......... 236
+The pressure of running two medium scale operations concurrently ............................ 238
+Support helicopters .......................................................................................... 239
+Lessons ......................................................................................................................... 240
+
+227
+
+The Report of the Iraq Inquiry
+
+Introduction
+1.  This Section addresses conclusions in relation to the evidence set out in
+Section 14.1, including:
+
+•	
+•	
+
+where there was a failure to address capability gaps in equipment; and
+the impact of running two medium scale operations concurrently.
+
+2.  This Section does not address conclusions in relation to:
+
+•	
+•	
+
+how equipment was funded, which is addressed in Section 13.2;
+
+•	
+
+MOD operational policy, or judgements on the specific circumstances in which
+individuals lost their lives in Iraq; and
+
+•	
+
+the failure to ensure that the UK was adequately prepared for post‑conflict Iraq
+contingencies, which is addressed in Section 6.5;
+
+the MOD’s procedure for supporting those killed or injured in Iraq, which is
+addressed in Section 16.4.
+
+Key findings
+•	
+
+Between 2003 and 2009, UK forces in Iraq faced gaps in some key capability
+areas, including protected mobility, Intelligence, Surveillance, Target Acquisition
+and Reconnaissance (ISTAR) and helicopter support.
+
+•	
+
+It was not sufficiently clear which person or department within the MOD
+had responsibility for identifying and articulating capability gaps.
+
+•	
+
+Delays in providing adequate medium weight Protected Patrol Vehicles (PPVs) and
+the failure to meet the needs of UK forces in Multi‑National Division (South‑East)
+(MND(SE)) for ISTAR and helicopters should not have been tolerated.
+
+•	
+
+The MOD was slow in responding to the developing threat in Iraq from Improvised
+Explosive Devices (IEDs). The range of protected mobility options available to
+commanders in MND(SE) was limited. Although work had begun before 2002 to
+source an additional PPV, it was only ordered in July 2006 following Ministerial
+intervention.
+
+•	
+
+Funding was not a direct barrier to the identification and deployment of additional
+solutions to the medium weight PPV gap. But it appears that the longer‑term focus
+of the Executive Committee of the Army Board (ECAB) on the Future Rapid Effect
+System (FRES) programme inhibited it from addressing the more immediate issue
+related to medium weight PPV capability.
+
+•	
+
+The decision to deploy troops to Afghanistan had a material impact on the availability
+of key capabilities for deployment to Iraq, particularly helicopters and ISTAR.
+
+228
+
+14.2  |  Conclusions: Military equipment (post‑conflict)
+
+Addressing post‑invasion capability gaps
+Defining the capabilities required
+The 1998 Strategic Defence Review (SDR) defined the military capabilities needed by the
+Armed Forces. It concluded that the UK needed a more effective expeditionary capability,
+including “deployable and mobile” forces, with “sufficient protection and firepower for
+war‑fighting”.1 As a result, the MOD established a requirement for a family of vehicles
+to replace existing medium weight armoured vehicles. That was to be delivered through
+the Future Rapid Effect System (FRES) programme which was expected to be in service
+towards 2010.
+The 1998 SDR also emphasised the importance of developing an enhanced Intelligence,
+Surveillance, Target Acquisition and Reconnaissance (ISTAR) capability.
+In 2002, the MOD published The Strategic Defence Review: A New Chapter; an update
+on the SDR’s progress and a consideration of the “UK’s defence posture and plans” in
+light of the 9/11 attacks.2 A New Chapter again stressed the importance of ISTAR assets:
+the MOD would accelerate the Watchkeeper programme which was designed to deliver
+an Unmanned Aerial Vehicle (UAV). That capability was expected in “2005‑06”.3 There
+were very few similar capabilities that could be deployed in the interim. By 2003, the
+expeditionary capability defined by the 1998 SDR was not yet in place.
+A number of witnesses suggested to the Inquiry that the MOD had not been given the
+resources to acquire the full range of capabilities specified by the SDR. The Inquiry
+has not reached a view on that point. Decisions made by the MOD on the balance
+of investment between immediate operational requirements and future defence
+programmes in delivering the capabilities set out in the SDR fall outside the Inquiry’s
+Terms of Reference.
+
+Countering the IED threat
+3.  By the end of April 2003, barely a month after the invasion, UK forces began to face a
+threat from Improvised Explosive Devices (IEDs). In July and August, more sophisticated
+devices were being used with increasing frequency against Coalition Forces.
+4.  The Joint Intelligence Committee (JIC) predicted that the IED threat was likely to
+increase and continue to evolve rapidly. That was clearly indicated in its Assessments
+of 3 September 2003, 25 September 2003 and 5 November 2003.
+5.  On 1 September, a Forces and Resources Review reported that the IED threat was
+being “countered by the use of stripped‑down Land Rovers with top cover sentries”.4
+It recommended that protection would be improved by the deployment of armoured
+4x4 vehicles.
+Ministry of Defence, Strategic Defence Review: Supporting Essays, July 1998.
+Ministry of Defence, Strategic Defence Review: A New Chapter, July 2002.
+3 
+Third Report from the House of Commons Defence Committee, Session 2003‑04, Lessons of Iraq,
+HC 57‑I, para 235.
+4 
+Paper MND(SE) [junior officer], 1 September 2003, ‘HQ MND(SE) Forces and Resources Review’.
+1 
+2 
+
+229
+
+The Report of the Iraq Inquiry
+
+6.  The Protected Patrol Vehicle (PPV) Working Group discussed how to meet that
+requirement on 5 September 2003. It was clear that the MOD had few options for the
+rapid supply of an armoured 4x4 vehicle. Large numbers of Snatch Land Rovers were
+already in service in Northern Ireland and were therefore available for deployment.
+There was no other vehicle that could be readily deployed without modification or
+without considerable cost. The MOD therefore decided to dispatch 180 Snatch Land
+Rovers to Iraq.
+7.  Several witnesses to the Inquiry referred to working with “what you’ve got” and told
+the Inquiry that the Snatch Land Rover was preferable to a completely unprotected
+vehicle. The Snatch Land Rover had not been designed, however, for the conditions
+found in Iraq; and by 2002 it was at the end of its planned life in service. No programme
+to replace it had been agreed.
+8.  The Snatch Land Rover was therefore not an optimal solution to the urgent
+requirement for an armoured PPV, but was the best available stop‑gap. Given the
+need for rapid replacement of completely unprotected vehicles, the decision to
+deploy 180 Snatch Land Rovers was fully justifiable. However; this should have been
+recognised as no more than an interim solution. Work to find a more effective vehicle
+for Iraq and similar environments in the longer term should have been put in hand.
+9.  The Snatch Land Rover was modernised and made more suitable for the weather
+and terrain of Iraq in several conversion programmes. Because the chassis was
+incapable of carrying the weight of additional armour the enhancements which could
+be made to its level of physical protection were limited.
+10.  The hardening of a vehicle, or any other type of equipment, is only one component
+of its protection. Throughout Operation TELIC, the UK also deployed a suite of
+other measures to counter the IED threat, including aerial surveillance, electronic
+countermeasures, the deployment and up‑armouring of heavier tracked vehicles, tactical
+changes and intelligence‑based targeting of the perpetrators.
+11.  The first IED attack using an Explosively Formed Projectile (EFP) took place in
+May 2004. In July 2004, the Defence Intelligence Staff stated that the presence and
+use of EFPs in attacks against the Multi‑National Force in Iraq was “a significant force
+protection issue”.5
+12.  The MOD’s Directorate of Operational Capability (DOC) concluded in February 2005
+that the Snatch Land Rover conversion programme had been “a belated reaction” to the
+IED threat and that sustained investment was necessary to “provide sufficient protected
+mobility for operations in hostile environments such as Iraq”.6
+
+5 
+6 
+
+Report DIS, 26 July 2004, ‘Further Evidence of Lebanese Hizballah produced weapons in Iraq’.
+Report DOC, 22 February 2005, ‘Operation TELIC Lessons Study Vol. 2’.
+
+230
+
+14.2  |  Conclusions: Military equipment (post‑conflict)
+
+13.  By May 2005, the IED threat had increased significantly. Commanders in
+Multi‑National Division South‑East (MND(SE)) had a choice of two vehicles in which they
+could conduct routine patrols: the Snatch Land Rover or the Warrior Armoured Fighting
+Vehicle. Those two vehicles were at opposite ends of the protected mobility spectrum,
+with very different characteristics and availability.
+14.  Lieutenant General James Dutton, General Officer Commanding MND(SE) from
+June 2005 to December 2005, explained to the Inquiry that towards the end of 2005
+all movement was conducted by air or in convoys protected by armoured vehicles.
+That constrained wider UK operations, including the Security Sector Reform (SSR)
+effort, because military personnel, police officers and civilian personnel were frequently
+not able to move around MND(SE).
+15.  The impact of limited mobility on SSR was regularly raised in meetings of the
+Chiefs of Staff and the reports of those who visited Iraq (see Section 12.1). The impact
+of protective security measures on civilians’ ability to carry out their jobs effectively is
+described in Section 15.1.
+16.  In June 2006, Lieutenant General Nicholas Houghton, Chief of Joint Operations,
+reported that troops could “manage Snatch – just, but they have no inherent confidence
+in it”.7 Questions were asked in Parliament about what the MOD was doing to ensure the
+best possible protection of its troops.
+17.  The Inquiry recognises that there is not always a solution to an evolving threat and
+that, depending on the sophistication of the device and the way in which a vehicle is hit,
+any vehicle can be vulnerable to attack.
+
+Requirement for a medium weight PPV
+18.  In June 2006, Mr Des Browne, the Defence Secretary, commissioned a review
+of armoured vehicles in Iraq. The review led to the identification of a requirement for
+a medium weight PPV for deployment to Iraq.
+19.  The MOD decided to procure 108 Cougar vehicles which were modified for use
+on UK operations. The modified vehicle was called the Mastiff.
+20.  The Cougar vehicle had been in service with the US Army since 2004. The British
+Army had also deployed a Cougar variant to Bosnia in 2003/04.
+21.  The Mastiff was a wheeled PPV offering better protection than Snatch, but, because
+of its size, was not suitable for all patrol tasks. Although it was not an ideal solution,
+Mastiff was positively received by troops in Iraq. The first four Mastiffs had reached Iraq
+by 30 December 2006.
+
+7 
+
+Minute Houghton to PSO/CDS, 16 June 2006, ‘Visit to Iraq 13 – 15 Jun 06’.
+
+231
+
+The Report of the Iraq Inquiry
+
+22.  In April 2008, the Equipment Capability branch (EC) in MND(SE) (the formation of
+which is described below) produced an Urgent Statement of User Requirement (USUR)
+for an “Urban PPV”. The Ridgback (which was also a variant of Cougar) was ordered
+to meet the requirement but did not enter service in time for use in Iraq.
+23.  Neither vehicle was a replacement for the Snatch Land Rover and Ministers
+continued to receive advice that Snatch remained “mission critical”8 in Iraq and
+Afghanistan because of its profile, manoeuvrability and carrying capacity. Lt Gen
+Houghton considered that removing it from theatre would have a significant impact
+on operations by reducing patrols’ situational awareness and restricting movement.
+A FAILURE TO ARTICULATE THE REQUIREMENT
+24.  MOD officials explained to Mr Browne on 21 July 2006 that work was ongoing within
+the department to source a medium weight PPV and that the armoured vehicle review
+had accelerated the work by securing additional funding.
+25.  The Inquiry has considered why it took so long to fill a capability gap that was
+apparent from the end of 2003.
+26.  Within the MOD and the Armed Forces the responsibility for meeting an equipment
+capability gap during Op TELIC was clear: USURs for new equipment were forwarded
+to the Permanent Joint Headquarters (PJHQ), which retained ownership of the USUR
+until it was signed off.
+27.  What was unclear was where responsibility lay for identifying and articulating
+capability gaps. Because a USUR could be raised by “any user”,9 there was no single
+individual or team accountable if an essential USUR was not raised. That was a failure
+of the system. In a statement to the Inquiry, the MOD said that there was “no simple
+answer to the question where the primary responsibility for identifying capability gaps
+and raising USURs lay” during the post‑invasion phase.
+28.  The evidence suggests that this was not a problem in every instance. When a gap
+was clearly identified and there was an appetite to address it, action was taken. That
+was demonstrated by the deployment of electronic countermeasures and enhancements
+for the protection of Warrior and FV430 vehicles.
+29.  An analysis of the land operation in Iraq published in August 2010 (known as
+“the Barry Report”) stated that a requirement was more likely to be identified, and the
+subsequent Urgent Operational Requirement (UOR) to succeed, where there was
+“a strong coherent sponsor in the Army or MOD”.10
+
+Note CJO to PSO/CDS, 7 November 2008, ‘Limiting the Deployment of Snatch Outside Secure Bases’.
+Letter Duke‑Evans to Aldred, 26 June 2015, ‘Procuring Military Equipment’.
+10 
+Report Land Command, 31 August 2010, ‘Operations in Iraq: An Analysis From a Land Perspective’.
+8 
+9 
+
+232
+
+14.2  |  Conclusions: Military equipment (post‑conflict)
+
+30.  The Barry Report suggested that, where UORs succeeded, “some of these were the
+result of ‘pull’ from theatre, others the result of ‘push’ from equipment staff in the MOD. The
+latter was the case with Mastiff, the requirement for which was formulated in London.”11
+31.  As the Box ‘Attempts to articulate the PPV requirement’ below describes, there
+were repeated references within the MOD to lack of a coherent strategy and the
+absence of what was known as a “Customer Two lead”:12 someone whose role it was
+to identify such a requirement from the perspective of a ‘user’. In the absence of a
+strong sponsor, defining the PPV requirement failed to make progress for three years.
+32.  Before June 2006, the MOD’s consideration of protected mobility lacked the
+leadership that was ultimately injected by Mr Browne’s armoured vehicle review and
+driven forward by Lord Drayson, Parliamentary Under Secretary of State and Minister
+for Defence Procurement.
+
+Attempts to articulate the PPV requirement
+The 1998 Strategic Defence Review did not identify a requirement for a light or medium
+weight PPV for expeditionary operations.
+The PPVs in service with the Army in 1998, primarily to meet the requirements of
+operations in Northern Ireland, were Tavern and the Snatch Land Rover. The Out of
+Service Date for the Snatch Land Rover was 2002.
+January 2002 – A draft Urgent Statement of User Requirement (USUR) for the
+replacement of the Snatch Land Rover was produced (Project DUCKBOARD).
+July to September 2003 – The MOD held two workshops and produced an operational
+analysis of the requirement but stated that further work was needed to articulate it.
+February 2004 – Funding re‑profiled to bring forward the delivery of 80 vehicles from
+2007 to 2004.
+31 March 2004 – A requirement for an expeditionary vehicle to be deployed to the
+“rest of the world” was identified but the MOD stated further work was needed to define it.
+It became known as the Type B vehicle.
+June 2004 – The Executive Committee of the Army Board (ECAB) was advised of a
+need for a coherent plan to deliver protected mobility for both Iraq and Afghanistan.
+7 July 2004 – The MOD identified a requirement for three separate vehicle projects,
+including the Type B vehicle, but described the way forward as “beset with unresolved
+issues”13 including a lack of definition over the capabilities required and number of
+vehicles needed.
+15 October 2004 – A strategy for delivering the three projects was produced but there
+was still no concept of operations or a clear Customer Two lead.
+
+Report Land Command, 31 August 2010, ‘Operations in Iraq: An Analysis From a Land Perspective’.
+Minute MOD [junior officer] to D Jt Cap (AD Jt Mvre), 15 October 2004, ‘Strategy for delivery of
+protected patrol and combat support mobility – Project DUCKBOARD’.
+13 
+Paper DEC(SP) to D Jt Cap, 7 July 2004, ‘Project DUCKBOARD – Way Forward’.
+11 
+12 
+
+233
+
+The Report of the Iraq Inquiry
+
+27 October 2004 – A Statement of Requirement (SOR) for all three projects was raised,
+including the number of vehicles required.
+21 February 2005 – A revised SOR for a Type B vehicle was raised as a result of funding
+allocated through the Equipment Programme.
+7 July 2005 – The Investment Approvals Board (IAB) approved a business case to
+upgrade the remaining Snatch Land Rovers to the latest variant but cautioned that it had
+still not seen any operational analysis to support a way forward.
+November 2005 – ECAB discussed concerns about the state of protected mobility for
+UK forces.
+January 2006 – ECAB decided to approach Lord Drayson with concerns about the
+armoured vehicle fleet following a meeting that had focused on further delays to the
+FRES programme.
+3 March 2006 – A USUR and business case for the first tranche of Type B expeditionary
+Vector vehicles was submitted. Those vehicles were intended for deployment to
+Afghanistan.
+26 June 2006 – Mr Browne announced an armoured vehicle review.
+5 July 2006 – Lord Drayson sought clear confirmation from Lt Gen Houghton as to
+whether there was a requirement for a medium weight armoured PPV.
+7 July 2006 – Lt Gen Houghton confirmed the requirement for a medium weight PPV.
+Lord Drayson sought further advice that same day about the number of vehicles
+necessary to meet current operational requirements.
+19 July 2006 – Lt Gen Houghton produced the USUR for a medium weight PPV.
+24 July 2006 – Mr Browne announced the outcome of the review.
+
+ATTEMPTS TO IMPROVE THE PROCESS FOR IDENTIFYING REQUIREMENTS
+33.  The Inquiry recognises that, during the period covered by its Terms of Reference,
+there were a number of attempts to improve the process through which equipment
+requirements were identified and articulated.
+34.  Attempts to make improvements to the process began in 2005.
+35.  In February 2005, an Equipment Capability (EC) branch was created in theatre.
+It enhanced communication between those in need of new capabilities and those who
+helped to articulate the requirements, although there was some lack of clarity regarding
+the EC cell’s precise role.
+36.  In November 2006, Lt Gen Houghton recognised that the UK needed “to improve
+our processes for identifying the EC dimension of emerging theatre CONOPS [concept
+of operations] which lay in the domain of the early years of the EP [Equipment
+Programme] rather than in the UOR process.”14
+14 
+
+Minute CJO to MA/VCDS, 9 November 2006, ‘Emerging Capability Requirements’.
+
+234
+
+14.2  |  Conclusions: Military equipment (post‑conflict)
+
+37.  In March 2007, the report of a visit to Iraq by Lord Drayson, then the Minister of
+State for Defence Equipment and Support, prompted work to improve communication
+channels between the MOD and theatre.
+38.  Lord Drayson reported that “overall there was a clear perception in theatre that the
+UK MOD was not taking account of the rate of change. UORs too often sought to deliver
+a perfect capability, but in doing so delivered so late the requirement had changed or
+theatre were without any capability for too long”.15 He suggested that “greater dialogue”
+between theatre and the Equipment Capability Customer could help to address the issue.
+39.  In September 2007, following an “extensive review and analysis”16 of the UK’s force
+protection capability, the DOC concluded that management of force protection risk must
+be based “on a thorough identification of strategic and operational threats to ensure
+that a balance of research, investment and training was achieved commensurate with
+the threat”.
+40.  As a result, a force protection policy was produced in November 2007 which sought
+to apply a standard approach to the risk assessment of force protection and lay out the
+respective roles and responsibilities across the MOD.
+41.  The MOD told the Inquiry that the force protection policy in use in 2015 “defines
+risk ownership and governance more clearly than its predecessors”17 and that the
+policy had been integrated into wider MOD risk management processes which had
+also been revised.
+FUNDING AND THE FUTURE RAPID EFFECT SYSTEM (FRES)
+42.  Lord Drayson told the Inquiry that he believed “the Army’s difficulty in deciding upon
+a replacement to Snatch was in part caused by their concern over the likelihood of
+FRES budgets being cut to fund a Snatch replacement vehicle”.18
+43.  Although the Inquiry has identified issues concerning clarity of responsibility and
+communication, it has not found evidence to suggest that funding was a direct barrier
+to the identification and deployment of additional solutions to the PPV capability gap.
+44.  It is possible, however, that the need to preserve funding for the Future Rapid Effect
+System (FRES) programme influenced decisions on the requirement for PPVs.
+45.  The FRES programme remained distinct from meeting the requirement for an
+appropriate PPV in Iraq. FRES was never intended to be in service until towards 2010.
+However, a number of witnesses to the Inquiry made the point that, within a finite
+budget, resources for an additional requirement would have to be found from elsewhere
+
+Minute APS/MIN(DES) to PSSC/SofS [MOD], 26 March 2007, ‘Minister(DES) Visit to Iraq’.
+Report DOC, September 2007, ‘Protection of the Deployed Force Operational Audit Report 1/07’.
+17 
+Statement MOD, 26 June 2015, ‘Procuring Military Equipment’.
+18 
+Statement, 15 December 2010, page 4.
+15 
+16 
+
+235
+
+The Report of the Iraq Inquiry
+
+in the defence programme (except when provided from UORs or USURs funded by
+a claim on the Reserve – see Section 13.1). Sir Peter Spencer, Chief of Defence
+Procurement from May 2003 to April 2007, told the Inquiry that using money from the
+capital Equipment Programme to deal with the short term had “a fratricidal effect”19 on
+the ability to move the FRES programme forward.
+46.  The focus of the Executive Committee of the Army Board (ECAB) on the FRES
+programme may therefore provide a partial explanation for the lack of urgency in
+addressing the more immediate problem of the PPV capability gap. Another likely
+factor was an over‑optimistic assumption about the timing of withdrawal from Iraq.
+The expectation of an early withdrawal from Iraq inhibited action on an expensive
+programme that might not be completed before troops left.
+
+Intelligence, Surveillance, Target Acquisition and Reconnaissance
+(ISTAR)
+47.  The MOD was aware before 2003 that it needed to broaden the capabilities
+available for collecting strategic, operational and tactical intelligence. A clear capability
+gap for an Unmanned Aerial Vehicle (UAV) to be directed by commanders on the ground
+had been identified. The longer‑term solution was a programme known as Watchkeeper,
+expected to be introduced in 2005 to 2006.
+48.  From March 2003, the Phoenix UAV was available to commanders in theatre.
+It performed well during the invasion but could only be used between November and
+April because it was not designed to operate in high temperatures.
+49.  For the first four years of Op TELIC, the lack of ISTAR capabilities constrained
+military operations. The final DOC report on Op TELIC in March 2010 stated that an
+enduring intelligence picture had been lacking for “at least the first four years”20 because
+“up to and throughout 2006 and into 2007, there were insufficient ISTAR assets available
+to MND(SE), and hence by necessity they were focused on maintaining as much of the
+day‑to‑day tactical picture as possible”.
+50.  There is evidence that the MOD took two steps which did not adequately meet the
+capability gap:
+
+•	
+•	
+
+19 
+20 
+
+A “mini UAV”, Desert Hawk 1, was introduced in December 2003. Because of
+technical limitations it was only in theatre for a very short period.
+A Combined Joint Predator UAV Task Force (CJPTF) was created with the US
+in January 2004 but the UK’s requests for access to the capability were often
+not met.
+
+Public hearing, 26 July 2010, pages 40‑50.
+Report DOC, 17 March 2010, ‘Operation TELIC Lessons Study Vol. 4’.
+
+236
+
+14.2  |  Conclusions: Military equipment (post‑conflict)
+
+51.  As Major General William Rollo, General Officer Commanding MND(SE)
+(GOC MND(SE)) from July 2004 to December 2004, reported at the end of his tour, the
+consequence of that capability gap was that operations were “planned around ISTAR
+availability, rather than ISTAR being available for operations”.21
+52.  The DOC raised the problem in its three reports covering the post‑conflict phase,
+each of which was discussed by the Chiefs of Staff.
+53.  In February 2005, the DOC stated that ISTAR was “the most significant capability
+shortfall” of the post‑conflict phase and it was “likely to remain an enduring requirement,
+particularly for asymmetric warfare”.22
+54.  In April 2006, the DOC stated that “a serious gap in current ISTAR capability” had
+been “a regular DOC observation” that had “been highlighted on all recent operations”.23
+That prompted a more wide‑ranging debate across the MOD about how the ISTAR
+capability gap could be addressed.
+55.  As in the case of protected mobility, the MOD was slow to respond to the
+deficiencies identified in ISTAR and showed a lack of understanding of the requirement
+for an enduring operation. The provision of ISTAR capabilities also suffered from the
+absence of a clearly identified sponsor addressing the capability gap.
+56.  Lt Gen Houghton’s review of ISTAR shortfalls in May 2006 stated that the UK was
+“only beginning to develop a full understanding of the national ISTAR requirements”
+for transition in both Iraq and Afghanistan.24
+57.  Major General Richard Shirreff, GOC MND(SE) from June 2006 to January 2007,
+wrote in his post‑operation report that the UK’s response was “grindingly slow and
+ponderous” when compared with the US and Australia. They had shown more “agility
+and forethought” in identifying solutions.25
+58.  The position improved when the Scan Eagle UAV was leased from Australia in
+April 2007 as a temporary measure until Hermes 450 came into service in July 2007.
+
+Report Rollo to PJHQ MA to CJO, 4 December 2004, ‘Post Operation Report Operation TELIC 4/5 –
+14 July – 1 December 2004’.
+22 
+Report DOC, 22 February 2005, ‘Operation TELIC Lessons Study Vol. 2’.
+23 
+Report DOC, 4 April 2006, ‘Operation TELIC Lessons Study Volume 3’.
+24 
+Minute CJO to VCDS, 18 May 2006, ‘Quantifying ISTAR Shortfalls on Current Operations’.
+25 
+Report Shirreff to PSO/CDS, 19 January 2007, ‘Post Operational Report – Operation TELIC’.
+21 
+
+237
+
+The Report of the Iraq Inquiry
+
+The pressure of running two medium scale operations
+concurrently
+59.  In 2002, an MOD review of the 1998 Strategic Defence Review (SDR) reaffirmed
+that the UK’s Armed Forces were not equipped to support two enduring medium scale
+military operations at the same time:
+“Since the SDR we have assumed that we should plan to be able to undertake
+either a single major operation (of a similar scale and duration to our contribution to
+the Gulf War in 1990‑91), or undertake a more extended overseas deployment on
+a lesser scale (as in the mid‑1990s in Bosnia), while retaining the ability to mount
+a second substantial deployment … if this were made necessary by a second crisis.
+We would not, however, expect both deployments to involve war‑fighting or to
+maintain them simultaneously for longer than 6 months.”26
+60.  Between 2004 and 2006, the MOD regularly made reference to the impact that an
+additional deployment would have on key capabilities available for Iraq. Choices would
+have to be made in deploying a finite level of capability.
+61.  When the Defence and Overseas Policy Sub‑Committee of Cabinet agreed in
+July 2005 to deploy around 2,500 personnel to Helmand province, Afghanistan, the UK
+was still engaged in a medium scale operation in Iraq. As set out in Section 9.8, the
+assumptions about when personnel might be withdrawn from Iraq were high risk.
+62.  In March 2010, the DOC recognised that running two medium scale operations
+concurrently had had a “profound and fundamental impact” on resources afforded to
+Iraq.27 It concluded that “knowingly exceeding Defence Planning Assumptions requires
+the most rigorous analysis”. The Inquiry has not seen evidence of such analysis.
+63.  It is difficult to determine whether or not Ministers adequately appreciated what the
+July 2005 decision to deploy to Helmand meant for the capabilities available for Iraq.
+There were discussions about the over‑stretch and pinch‑points in provision but those
+were no substitute for the “rigorous analysis” to which the DOC referred.
+64.  Decisions were not based on a realistic assessment of the likely duration of either
+operation and were consequently flawed.
+65.  One example was the decision not to harden accommodation for British troops in
+Iraq in March 2005. That decision was supported by balanced and pragmatic advice but
+the UK’s optimistic assessment of how soon operations in Iraq would conclude affected
+its analysis of the requirement. That meant that the issue had to be re‑opened three
+years later when it was too late for the matter to be addressed in an appropriate and
+cost‑effective way.
+
+26 
+27 
+
+Ministry of Defence, Strategic Defence Review: A New Chapter, July 2002.
+Report DOC, 17 March 2010, ‘Operation TELIC Lessons Study Vol. 4’.
+
+238
+
+14.2  |  Conclusions: Military equipment (post‑conflict)
+
+SUPPORT HELICOPTERS
+66.  The availability of support helicopters in MND(SE) was constantly stretched because
+of two factors.
+67.  The first was that support helicopters were used to supplement other shortfalls.
+Support helicopters were needed to move personnel by air when circumstances were
+too dangerous for ground transport. However, the same helicopters were also required
+for surveillance in the absence of sufficient ISTAR capability.
+68.  That meant that commanders were faced with a conflict between two requirements,
+and the need to compromise effectiveness.
+69.  As General Sir Richard Dannatt, Commander in Chief Land Command, wrote,
+there is an “inextricable” link between ISTAR, protected mobility and helicopters:
+“When the two former capabilities are under stress … we invariably place a higher
+call on the latter.”28
+70.  The second factor was Afghanistan. Air Chief Marshal Sir Jock Stirrup, Chief of
+the Air Staff, anticipated in February 2004 that support helicopters would be “seriously
+stretched”29 by increased involvement in Afghanistan. His prediction was borne out.
+71.  Reports from Iraq in the second half of 2005 stressed the need for more helicopters.
+General Sir Mike Jackson, Chief of the General Staff, stated in October that the fleet was
+“creaking badly”.30 In December, Major General James Dutton, GOC MND(SE) between
+June 2005 and December 2005, wrote that “the simple fact is that we need more
+helicopters (and aircrew) urgently”.31
+72.  The DOC wrote in April 2006 that capacity had “become parlous at times during
+2005”.32 It added that the Joint Helicopter Force (Iraq) had “struggled to meet its tasks
+even with rigorous prioritisation” and the UK’s battlefield helicopter force “was stretched
+to meet the requirement of the current operation”.
+73.  In June 2006, Lt Gen Houghton stated that there was an endorsed requirement
+to increase helicopter provision for Afghanistan but not for Iraq. He acknowledged
+that operations had at times been constrained by a lack of helicopter support.
+Lt Gen Houghton concluded:
+“With no reductions on the horizon in Op TELIC and escalating requirements
+in Op HERRICK [Afghanistan], our national aviation requirements now need
+
+Letter Dannatt to Jackson, July 2006, ‘The Level of Operational Risk on Current Operations’.
+Minute CAS to PSO/CDS, 6 February 2004, ‘Operational Tempo’.
+30 
+Report CGS to CDS, 18 October 2005, ‘CGS Visit to Iraq: 10‑13 Oct 05’.
+31 
+Report Dutton to CJO, 12 December 2005, ‘June to December 2005 – Hauldown Report’.
+32 
+Report DOC, 4 April 2006, ‘Operation TELIC Lessons Study Volume 3’.
+28 
+29 
+
+239
+
+The Report of the Iraq Inquiry
+
+departmental scrutiny to determine the concurrent requirement to resource both
+theatres and define how our national aviation resources should be realigned.”33
+74.  Mr Browne and Lord Drayson intervened in August 2006. Lord Drayson told the
+Inquiry that he had asked Mr Browne to authorise him “to explore whether helicopters
+could be found quickly and to worry about how they would be funded after we had
+identified a possible solution”.34
+75.  An exchange between Mr Browne and General Sir Timothy Granville‑Chapman,
+Vice Chief of the Defence Staff, on 7 September illustrated how Ministers injected
+urgency into addressing equipment shortfalls. When Gen Granville‑Chapman suggested
+that options to add capability would be considered in October, Mr Browne responded:
+“No: it should happen tomorrow!”35
+76.  That prompted a review of what short‑term relief could be offered to improve
+helicopter availability. In December 2007, Mr Browne wrote that helicopter support
+to Iraq was “generally assessed as satisfactory”36 and that the priority was therefore
+Afghanistan. The Inquiry has not seen any evidence to suggest that that assessment
+was reconsidered for the remainder of Op TELIC.
+
+Lessons
+77.  In deciding to undertake concurrent operations in Iraq and Afghanistan, the UK
+knowingly exceeded the Defence Planning Assumptions. All resources from that point
+onwards were going to be stretched. Any decision which commits the UK to extended
+operations in excess of the Defence Planning Assumptions should be based on the most
+rigorous analysis of its potential implications, including for the availability of relevant
+capabilities for UK forces.
+78.  At the start of Op TELIC, the MOD knew that it had capability gaps in relation
+to protected mobility and ISTAR and that either could have a significant impact on
+operations. Known gaps in such capabilities should always be clearly communicated
+to Ministers.
+79.  The MOD should be pro‑active in seeking to understand and articulate new or
+additional equipment requirements. The MOD told the Inquiry that there was no simple
+answer to the question of where the primary responsibility for identifying capability gaps
+lay during Op TELIC. That is unacceptable. The roles and responsibilities for identifying
+and articulating capability gaps in enduring operations must be clearly defined,
+communicated and understood by those concerned. It is possible that this has been
+addressed after the period covered by this Inquiry.
+Minute Houghton to MA/VCDS, 12 June 2006, ‘Quantifying Battlefield Helicopter (BH) Requirements
+on Operations’.
+34 
+Statement, 15 December 2010, page 8.
+35 
+Manuscript comment Browne on Minute VCDS to SofS, 7 September 2006, ‘Helicopter Capability’.
+36 
+Letter Browne to Brown, 6 December 2007, ‘Update for the Prime Minister on Helicopter Issues’.
+33 
+
+240
+
+14.2  |  Conclusions: Military equipment (post‑conflict)
+
+80.  Those responsible for making decisions on the investment in military capabilities
+should continually evaluate whether the balance between current operational
+requirements and long‑term defence programmes is right, particularly to meet
+an evolving threat on current operations.
+81.  During the first four years of Op TELIC, there was no clear statement of policy
+setting out the level of acceptable risk to UK forces and who was responsible for
+managing that risk. The MOD has suggested to the Inquiry that successive policies
+defining risk ownership and governance more clearly have addressed that absence,
+and that wider MOD risk management processes have also been revised. In any future
+operation the level of force protection required to meet the assessed threat needs to
+be addressed explicitly.
+
+241
+

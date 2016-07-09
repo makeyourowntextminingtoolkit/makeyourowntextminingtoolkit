@@ -1,0 +1,738 @@
+SECTION 16.4
+CONCLUSIONS: SERVICE PERSONNEL
+Contents
+Introduction and key findings ........................................................................................ 154
+The pressure on Service Personnel .............................................................................. 155
+Medical care .................................................................................................................. 157
+Planning and preparation ........................................................................................ 157
+Improvements in the provision of care .................................................................... 158
+Investigations into the deaths of Service Personnel ..................................................... 160
+Service Police investigations .................................................................................. 160
+Boards of Inquiry ..................................................................................................... 160
+The concerns of bereaved families .................................................................. 161
+Inquests .................................................................................................................. 163
+Support for bereaved families ....................................................................................... 166
+Support for Service Personnel and their families .......................................................... 166
+The Operational Welfare Package .......................................................................... 167
+Support for Reservists ............................................................................................ 167
+
+153
+
+The Report of the Iraq Inquiry
+
+Introduction and key findings
+1.  This Section addresses analysis and findings in relation to the evidence set out in
+Sections 16.1 to 16.3, including:
+
+•	
+•	
+•	
+
+the pressures on Service Personnel, and the welfare support provided to them
+and their families;
+the arrangements for providing medical care to Service Personnel; and
+the arrangements for investigating the deaths of Service Personnel who lost
+their lives on Operation TELIC and the support provided for bereaved families.
+
+2.  The provision of military equipment is addressed in Sections 6.3 and 14.
+
+Key findings
+•	
+
+In 2002, the UK military was already operating at, and in some cases beyond, the
+limits of the guidelines agreed in the 1998 Strategic Defence Review. As a result, the
+Harmony Guidelines were being breached for some units and specialist trades.
+
+•	
+
+The Government’s decision to contribute a military force to a US-led invasion of Iraq
+inevitably increased the risk that more Service Personnel would be put in breach of
+the Harmony Guidelines. The issue of the potential pressure on Service Personnel
+was not a consideration in the decision.
+
+•	
+
+The MOD planned and prepared effectively to provide medical care in support of
+Operation TELIC.
+
+•	
+
+There were major improvements in the provision of medical care, mental healthcare
+and rehabilitative care available to Service Personnel over the course of Op TELIC.
+
+•	
+
+Most of the contacts between the MOD and bereaved families were conducted with
+sensitivity. In a few cases, they were not. The MOD progressively improved how it
+engaged with and supported bereaved families, in part driven by consistent public
+and Ministerial pressure.
+
+•	
+
+The Government’s decision in 2006 to deploy a second medium scale force
+to Helmand province in Afghanistan further increased the pressure on Service
+Personnel, on elements of the MOD’s welfare, medical and investigative systems,
+and on the coronial system.
+
+•	
+
+Much of the MOD’s and the Government’s effort from 2006 was focused on
+addressing those pressures.
+
+•	
+
+The MOD should have planned and prepared to address those pressures, rather than
+react to them.
+
+•	
+
+The Government should have acted sooner to address the backlog of inquests
+into the deaths of Service Personnel. The support it did provide, in June 2006,
+cleared the backlog.
+
+•	
+
+The MOD made a number of improvements to the Board of Inquiry process, but
+some proposals for more substantive reform (including the introduction of an
+independent member) were not fully explored. The MOD significantly improved the
+way it communicated with and supported bereaved families in relation to military
+investigations and inquests.
+
+154
+
+16.4  |  Conclusions: Service Personnel
+
+•	
+
+The MOD was less effective at providing support to Service Personnel who were
+mobilised individually (a category which included almost all Reservists) and their
+families, than to formed units.
+
+The pressure on Service Personnel
+3.  In 2002, the UK military was already operating at, and in some cases beyond, the
+limits of the guidelines agreed in the 1998 Strategic Defence Review. As a result, the
+Services’ Harmony Guidelines (which defined how much time a member of a particular
+Service should spend away from home and the period between tours) were being
+breached for some units and specialist trades.
+4.  The Government’s decision to contribute a military force to a US-led invasion of Iraq
+inevitably increased the risk that the Harmony Guidelines would be breached.
+5.  There are no indications that the potential pressure on Service Personnel was
+a consideration in the Government’s decision to contribute a military force, and in
+particular a large scale land force (a division), to a US-led invasion of Iraq.
+6.  The Inquiry concludes in Section 9.8 that, throughout 2004 and 2005, it appears that
+senior members of the Armed Forces reached the view that there was little more that
+would be achieved in southern Iraq and that it would make more sense to concentrate
+UK military effort on Afghanistan where it might have greater effect.
+7.  In July 2005, Ministers agreed in principle proposals presented by Dr John Reid, the
+Defence Secretary, both for the transfer to Iraqi control of the four provinces in southern
+Iraq for which the UK had security responsibility, and for the redeployment of the UK
+effort in Afghanistan from the north to Helmand province in the south (see Section 9.4).
+The proposals were based on high-risk assumptions about the capability of the Iraqi
+Security Forces to take the lead for security.
+8.  In January 2006, Cabinet approved the deployment of a UK military force to
+Helmand.
+9.  The MOD’s formal advice to Dr Reid was that this deployment was “achievable
+without serious damage to Harmony”, although certain units and specialists would be
+“placed under increased, but manageable, stress”.1
+10.  There were different views within the MOD over the effect of the deployment
+on personnel. Lieutenant General Anthony Palmer, Deputy Chief of the Defence
+Staff (Personnel) from 2002 to August 2005, told the Inquiry that, as he left post,
+he expressed his concern that deploying two brigades simultaneously (to Iraq and
+
+1 
+
+Minute Hutton to APS/SofS [MOD], 17 January 2006, ‘Afghanistan Deployments’.
+
+155
+
+The Report of the Iraq Inquiry
+
+Afghanistan) would breach the Harmony Guidelines and the Defence Planning
+Assumptions, and was “too big a risk”.2
+11.  Sir Kevin Tebbit, MOD Permanent Under Secretary from 2001 to 2005, told the
+Inquiry:
+“I was apprehensive [about the deployment of UK forces to Helmand] and I made my
+concerns known to my planning staff and to the Chiefs of Staff. I think their view was
+that they could do it and it was manageable ... since it was [the Chiefs of Staff] who
+would actually have to ensure they could do this, I did not press my objections fully.”3
+12.  The impact of the decision on the availability of key equipment capabilities for Iraq is
+addressed in Section 14.1.
+13.  The force began to deploy to Helmand in May 2006.
+14.  At the end of August, General Sir Richard Dannatt, Chief of the General Staff,
+advised Mr Des Browne, the newly appointed Defence Secretary, that “as an Army, we
+are running hot”.4 With operational deployments well above the levels set out in the
+1998 Strategic Defence Review and the MOD’s own Harmony Guidelines, the Army’s
+demands on soldiers were greater than its ability to look after them.
+15.  Gen Dannatt told the Inquiry that the military covenant had “fallen out of balance ...
+as a consequence of decisions taken to stay in Iraq until we had successfully completed
+our operations there, but also take on Afghanistan as well”.5
+16.  The MOD’s assessment that the Helmand deployment was achievable without
+causing a substantial number of personnel to breach the Harmony Guidelines reflected
+overly optimistic assumptions about the intensity and duration of operations in Iraq
+and Afghanistan.
+17.  The twin deployments challenged the planning assumption agreed in the 1998
+Strategic Defence Review that the UK should be able to undertake two medium scale
+deployments simultaneously but would not expect both to involve war-fighting or to be
+maintained simultaneously for longer than six months.
+18.  It would only have been possible to manage the established Iraq commitment and
+the new Helmand commitment, without significantly increasing the pressure on Service
+Personnel, if the former was wound down on schedule and the latter was contained. In
+the event, it proved difficult to withdraw from Iraq as quickly as hoped while Helmand
+developed into a more substantial combat operation than originally envisaged, pushing
+up force levels.
+
+2 
+
+Public hearing, 21 July 2010, page 80.
+Public hearing, 3 February 2010, pages 15 and 16.
+4 
+Letter Dannatt to Browne, 31 August 2006, [untitled].
+5 
+Public hearing, 28 July 2010, page 98.
+3 
+
+156
+
+16.4  |  Conclusions: Service Personnel
+
+19.  In addition to increasing the pressure on Service Personnel, the decision to deploy a
+second medium scale force increased the pressure on the MOD’s medical, welfare and
+investigative systems, and in particular on:
+
+•	
+•	
+•	
+•	
+
+the air bridge between Iraq and the UK;
+Selly Oak hospital;
+Headley Court and other rehabilitation facilities; and
+the Army’s capacity to investigate fatalities and support bereaved families.
+
+20.  It also increased the pressure on the coronial system.
+21.  From 2006, the efforts of the MOD and the Government would increasingly be
+focused on addressing those pressures.
+22.  The MOD should have been aware of the potential impacts on its medical, welfare
+and investigative systems, and made the necessary contingency plans to increase
+their capacity.
+
+Medical care
+23.  Op TELIC was the first major military operation after the closure of the military
+hospitals in the 1990s and therefore the first test of the new medical arrangements.
+Under the new arrangements, many medical Service Personnel (including a large
+number of Reservists) were deployed from NHS Trusts for operations in Iraq and
+Afghanistan, and military casualties were treated in NHS Trusts.
+
+Planning and preparation
+24.  In early September 2002, the MOD estimated that between 31 and 48 Service
+Personnel would be killed in action during the initial combat phase of operations of an
+attack on Iraq, and that between 157 and 241 Service Personnel would be admitted
+to Role 3 hospitals6 (figures exclude possible casualties from chemical and biological
+warfare). The MOD regularly updated its casualty estimates as the military plan
+developed. The estimates did not consider casualties beyond the initial combat
+phase of operations.
+25.  The Chiefs of Staff concluded on 5 February 2003 that a Casualty Estimate paper
+including estimated casualty figures, which had been produced by the MOD, would need
+to be shown to Ministers before any decision to commit UK troops was made.
+26.  In response to a question from Mr Blair on the possible number of casualties arising
+from an attack on Iraq, the MOD advised No.10 on 24 February that there would be
+between 30 and 60 British and between 500 and 1,200 Iraqi “land battle” fatalities.7
+
+6 
+7 
+
+Role 3 (Echelon 3) medical support is generally provided at field hospitals and on hospital ships.
+Letter Watkins to Rycroft, 24 February 2003, ‘Iraq: Political and Military Questions’.
+
+157
+
+The Report of the Iraq Inquiry
+
+27.  Lord Boyce, Chief of the Defence Staff from 2001 to April 2003, told the Inquiry that
+Ministers would have been informed of the MOD’s casualty estimates, as part of the
+routine briefing process.
+28.  Although the Inquiry has seen no evidence that the Casualty Estimate paper was
+shown to Ministers, it accepts that Ministers were informed of the MOD’s casualty
+estimates.
+29.  The MOD established an effective medical capability in theatre to support Op TELIC
+by 14 March 2003.
+30.  By 1 May, when President Bush declared that major combat operations in Iraq had
+ended, 33 British Service Personnel had died serving on Op TELIC and 81 had been
+admitted to Role 3 hospitals.
+31.  Casualties would have been much higher if chemical and biological weapons had
+been used.
+32.  The MOD planned and prepared effectively to provide medical care in support of
+Op TELIC. Although some of the medical equipment and supplies procured by the MOD
+arrived in theatre shortly after military operations began, there are no indications that the
+quality of clinical care was compromised.
+
+Improvements in the provision of care
+33.  There were a number of significant improvements to the care provided to Service
+Personnel over the course of Op TELIC.
+34.  From June 2006, the MOD, working closely with a number of charities, progressively
+enhanced the rehabilitation facilities at Headley Court.
+35.  In August 2006, following visits by MOD Ministers and senior military officers to
+injured Service Personnel recovering on civilian wards, the MOD began planning to
+establish a Military Managed Ward (MMW) at Selly Oak hospital. The MOD assessed
+that, while the quality of clinical care at Selly Oak was excellent, injured Service
+Personnel would recover better in what Lieutenant General Louis Lillywhite, the Surgeon
+General from 2006 to 2009, described as a “military bubble”.8
+36.  The MMW was established in December 2006 and was fully staffed by July 2007.
+37.  In his evidence to the Inquiry, Lt Gen Lillywhite highlighted the advances during
+Op TELIC in the military’s understanding of how to save life at the point of injury, how
+to sustain the quality of life of seriously injured individuals into the long term, and pain
+management.
+
+8 
+
+Public hearing, 20 July 2010, pages 33-34.
+
+158
+
+16.4  |  Conclusions: Service Personnel
+
+38.  The advances in the provision of medical care during Op TELIC meant that more
+individuals with very serious and complex injuries survived.
+39.  A number of injured veterans shared with the Inquiry their concern that they might
+not continue to receive the same quality of care over the long term, and in particular
+when they left the military.
+40.  Lt Gen Lillywhite told the Inquiry that, in recognition of their service and on clinical
+grounds, individuals with very serious injuries should be treated by the Government as a
+group with specific clinical needs, to enable specialist care to be arranged and provided
+more consistently.
+41.  The Government will need to consider how to address the issue of providing
+whole‑life care to individuals with very serious injuries.
+42.  There were also significant advances in the provision of mental healthcare.
+43.  In April 2003, the MOD commissioned a large-scale, long-term programme of
+research on the physical and psychological health of personnel deployed on Op TELIC.
+The findings of that programme identified a number of important mental health issues
+and informed the MOD’s response to them.
+44.  The Inquiry recommends that the MOD commissions similar studies for future major
+operational deployments. In addition to the direct benefits for Service Personnel and
+the MOD, mental health is an area of significant public concern. It is important that the
+MOD is able to demonstrate that the effects of deployments are properly monitored
+and managed.
+45.  The major developments in the provision of mental healthcare over the period
+covered by the Inquiry were:
+
+•	
+•	
+
+•	
+•	
+
+There was increased use of a period of decompression at the end of an
+operational tour, as part of post-operational stress management.
+In November 2006, in response to the findings of the King’s Centre study that
+a number of Reservists were experiencing increased mental health effects
+as a result of deployment, the MOD launched the Reserves Mental Health
+Programme (RMHP). The RMHP provided enhanced mental healthcare to
+current and former Reservists who had been demobilised since 1 January 2003
+following deployment on an overseas operation.
+In November 2007, the MOD launched six community NHS mental health pilot
+programmes to provide mental health assessment and treatment for veterans.
+The programmes were led by a mental health therapist with an understanding of
+the issues faced by veterans.
+In 2008, the MOD rolled out Trauma Risk Management (TRiM) in all three
+Services. TRiM is a form of debriefing after a traumatic event, undertaken in
+peer groups rather than with an external counsellor.
+
+159
+
+The Report of the Iraq Inquiry
+
+Investigations into the deaths of Service Personnel
+46.  Investigations by the MOD and coroners into the deaths of Service Personnel
+serving on Op TELIC could be very slow, and in one case lasted for more than
+four years.
+47.  The Inquiry considered how the three major elements of the investigative process –
+Service Police investigations, Boards of Inquiry (BOIs), and inquests – changed
+after 2003.
+
+Service Police investigations
+48.  The earliest concerns about the military’s investigative process emerged in
+September 2003. Mr Adam Ingram, Minister of State for the Armed Forces, expressed
+his concern that the next of kin of deceased Service Personnel increasingly perceived
+that the MOD’s investigations lacked focus and were too slow, and that the MOD did not
+keep them informed of progress.
+49.  The following month, Lt Gen Palmer advised that the Army’s Royal Military Police
+(RMP) was “swamped” with the volume of work in Iraq.9 The major challenge was the
+difficult working environment, including the need for force protection for Service Police
+and a potentially hostile population. The Army’s policy of holding investigations into all
+fatalities added to the pressure on the RMP.
+50.  Reviews of Service Police investigations in October 2004 and April 2005 found
+that there were still delays in Service Police investigations, but did not recommend any
+substantial changes to the investigative process. The October 2004 review concluded
+that investigations could be complex and “speed must not be at the expense of quality”.10
+
+Boards of Inquiry
+51.  The purpose of a military BOI was to establish the facts about an event and to make
+recommendations to prevent a recurrence.
+52.  In response to Mr Ingram’s concern over the MOD’s investigative process, the MOD
+had, by June 2004:
+
+•	
+•	
+•	
+•	
+
+9 
+
+shortened the time allowed for completing BOIs to 14 weeks;
+strengthened the role of the BOI President;
+introduced measures to improve the management of BOIs by each Service; and
+introduced a series of measures to improve communications with bereaved
+families on progress with the entire Service Police investigation and BOI
+process.
+
+Minute Palmer to VCDS, 17 October 2003, ‘TELIC Incidents: Investigations’.
+Report Loudon, 12 October 2004, ‘Review of Service Police Investigations on Operations’.
+
+10 
+
+160
+
+16.4  |  Conclusions: Service Personnel
+
+53.  MOD Ministers remained closely engaged. From June 2004, Mr Geoff Hoon, the
+Defence Secretary, received regular briefings on progress on BOIs and the reasons for
+any delays.
+54.  The possibility of adding an independent member to a BOI was raised by Mr Hoon
+in June 2004 and by Mr Browne in December 2007. On neither occasion was the idea
+considered seriously by the MOD.
+55.  The Inquiry recommends that the MOD consider whether an independent member
+should sit on BOIs, in particular in order to assure families that the process is as rigorous
+and transparent as possible.
+56.  The MOD, and in particular the Army (through the work of the Army Inquiries and
+Aftercare Support Cell and Army Inquest Cell), continued to improve the management of
+the Service Police investigation and BOI processes, the support provided for bereaved
+families, and the support provided for coroners. The Army Inquest Cell provided the
+model for the tri-Service Defence Inquests Unit, which was established in May 2008.
+57.  By early 2008, the Army had appointed permanent Presidents to lead high-profile
+Army BOIs, and the Royal Navy and Royal Air Force had taken steps to establish pools
+of expertise from which Presidents could be selected.
+58.  The Inquiry recommends that the MOD consider providing BOI Presidents with
+access to expert advisers on process and standards, who would play a role analogous
+to Court Clerks, in order to help establish consistency and best practice.
+THE CONCERNS OF BEREAVED FAMILIES
+59.  A number of families shared with the Inquiry their concerns over the MOD’s process
+for investigating fatalities. The concerns were:
+
+•	
+•	
+•	
+
+Military investigations were not sufficiently rigorous, in particular in relation to
+incidents where there were suspicions of friendly fire or equipment failure.
+No action appeared to be taken against individuals as a result of military
+investigations (this concern also applied to inquests).
+Material had been redacted from the version of the BOI report that families
+received, which made the content harder to understand. Some family members
+thought that text had been redacted to protect individuals criticised in reports or
+to hide failings by the MOD.
+
+60.  The Inquiry reviewed 25 percent of BOI investigations into Op TELIC fatalities,
+including those that attracted the most controversy. The Inquiry also reviewed the
+15 BOI reports into Op TELIC fatalities that are in the public domain.
+
+161
+
+The Report of the Iraq Inquiry
+
+61.  The BOI reports reviewed by the Inquiry were not consistent in approach or quality.
+Areas of particular variance were:
+
+•	
+•	
+
+the extent to which the reports considered what happened to the individual(s)
+who died (as well as the wider incident in which it happened); and
+the extent to which the reports recorded and addressed the concerns of the
+deceased’s family and next of kin.
+
+62.  The Inquiry does not believe that any of the BOI reports it reviewed were
+deliberately produced in such a way as to protect the MOD. In at least two cases, the
+BOI revealed that an incident might have been caused by friendly fire when the earlier
+Service Police investigation had concluded otherwise.
+63.  However, some practices apparent in the BOI reports reviewed by the Inquiry could
+create a mistaken impression of a “cover-up”. They were:
+
+•	
+•	
+•	
+•	
+
+interview transcripts which switch between on and off the record;
+
+•	
+
+heavy redaction.
+
+the difficulty in taking evidence, for example from Iraqi witnesses;
+restrictions on using US material;
+the use of defensive or euphemistic language, which can give the impression
+that serious failings are being dismissed; and
+
+64.  A recurring theme raised by families with the Inquiry was frustration at being denied
+visibility of action taken against those who were shown to have done something wrong
+(for example, where an individual had not provided truthful evidence to a BOI) or who a
+family believed to have been in some way negligent.
+65.  A BOI is not intended to apportion blame. The MOD defended that position, on the
+basis that it was the best way to ensure maximum disclosure and, therefore, the best
+chance to prevent a recurrence of the incident.
+66.  That position is not unique to BOIs. The right not to incriminate oneself is common
+to other investigative processes (such as inquests) where the main objective is to
+establish the facts of a case.
+67.  Very few of the BOI reports considered by the Inquiry led to disciplinary measures.
+68.  In order to respond to the concerns regarding the redaction of material from BOI
+reports, the Inquiry reviewed a sample of BOI reports relating to Op TELIC, comparing
+the full and redacted versions. The Inquiry considered whether the substance justified
+redaction, and how the redaction was made.
+69.  The Inquiry concludes that:
+
+•	
+
+There were no indications that information was redacted by the MOD in order to
+cover up wrong-doing, either by individuals or the MOD.
+162
+
+16.4  |  Conclusions: Service Personnel
+
+•	
+•	
+
+The use of redaction was not consistent between BOIs.
+
+•	
+
+In many cases, no attempt was made to explain the nature of the redacted
+material to the reader.
+
+•	
+
+Not all redactions were justified. In some cases, whole passages were
+redacted when only a few details were sensitive. In others, material had been
+redacted when it was already in the public domain (for example, the name of a
+Commanding Officer or pathologist).
+
+There were some improvements in practice during the course of Op TELIC.
+In general, the most recent BOI reports contained fewer redactions and were
+easier to follow.
+
+70.  The Inquiry recognises that some redactions will be required in almost all such
+reports but recommends that the MOD take steps to ensure consistency of practice, in
+line with the Information Commissioner’s guidance.11 Good practice seen by the Inquiry
+includes:
+
+•	
+•	
+
+including a clear statement of redaction policy at the start of a document;
+
+•	
+
+adding a description which tells the reader the nature of the text has been
+redacted (for example, ‘Personal medical information’);
+
+•	
+•	
+
+providing a short overarching description of events described in text which has
+been redacted;
+
+assigning each individual a unique number or other cipher and attaching a
+description of their role to it; and
+leaving in ranks where names are redacted, so that command relationships
+are clear.
+
+71.  Many of the concerns shared by families in relation to the rigour of the BOI process
+and its transparency could be addressed by adding an independent member to a BOI.
+
+Inquests
+72.  From January 2003, the MOD and the Home Office (the department then
+responsible for coronial policy) worked with Mr Nicholas Gardiner, the Coroner for
+Oxfordshire, to refine the arrangements for receiving UK military fatalities from Iraq.
+The majority of fatalities were expected to be repatriated to RAF Brize Norton, which fell
+within his area of responsibility.
+73.  During those initial exchanges, Home Office officials highlighted a number of
+issues that would later become problematic: the need for Mr Gardiner’s office to secure
+additional resources (from Oxfordshire County Council) to cover the cases it was taking
+
+11 
+
+Information Commissioner’s Office, Anonymisation: Managing Data Protection Risk Code of Practice,
+November 2012.
+
+163
+
+The Report of the Iraq Inquiry
+
+on; the desirability of transferring cases to coroners who were local to the families of the
+deceased; and how to handle cases where the deceased was based in Scotland.
+74.  The day before the beginning of military operations against Iraq, Mr Gardiner wrote
+to Home Office officials:
+“There are a few matters outstanding but, generally, I think we are reasonably well
+prepared, although there are bound to be things we have not thought of.”12
+75.  There are no indications that the Government put in place any contingency plans
+to support Mr Gardiner’s office, or that the Government maintained contact with
+Mr Gardiner’s office after those initial exchanges.
+76.  The Inquiry recommends that for any future major operational deployment, the
+Chief Coroner, the department responsible for coronial policy (currently the Ministry of
+Justice) and the MOD should develop contingency plans to increase the capacity of
+the coronial system to handle fatalities. Those plans should include the identification
+of funding in the event that it becomes necessary to increase the capacity of the
+coronial system.
+77.  In May 2006, in response to growing concern over delays in holding inquests
+into the deaths of Service Personnel, Ms Harriet Harman, Minister of State for the
+Department for Constitutional Affairs (DCA), was charged with resolving the problem.
+78.  By early June, Ms Harman had brokered an agreement with the MOD to provide a
+substantial package of support to Mr Gardiner’s office, including the recruitment of three
+Assistant Deputy Coroners.
+79.  Although the package was announced in Parliament in June 2006, discussions
+continued between the DCA, the MOD and the Treasury until February 2007 on how
+much the MOD would contribute. The discussions concluded with the DCA reluctantly
+accepting the MOD’s initial offer of £125,000.
+80.  While the discussions did not delay the provision of support to Mr Gardiner’s office
+(as the DCA bore the costs as they were incurred), a disproportionate amount of senior
+officials’ and Ministers’ time was consumed in inter-departmental wrangling over a
+relatively small amount of money.
+81.  The additional resources provided in June 2006 allowed Mr Gardiner’s office to clear
+the existing backlog of inquests by October 2007, much sooner than it would otherwise
+have done.
+82.  From July 2006, the Government pursued a number of initiatives to make the
+inquest process more responsive to the needs of the families of deceased Service
+Personnel. The Inquiry commends Ms Harman’s efforts in pursuing those initiatives.
+12 
+
+Letter Gardiner to Home Office [junior official], 18 March 2003, [untitled].
+
+164
+
+16.4  |  Conclusions: Service Personnel
+
+83.  Between July 2006 and February 2007, Ms Harman pressed the US Government,
+through the US Embassy London, to provide classified US material and
+US representatives to support inquests into the deaths of UK Service Personnel.
+The US declined to provide that support.
+84.  Following a meeting with the families of Service Personnel killed on Op TELIC
+in December 2006 and representations in Parliament, including from Mr Roger Gale,
+Ms Harman explored the possibility of providing legal representation at inquests for the
+families of Service Personnel, in particular at inquests where the MOD chose to have
+legal representation.
+85.  The Government did not provide that support. In 2009, the Government agreed an
+amendment to the Coroners and Justice Bill to provide legal representation at inquests
+into the death of British Service Personnel on active service. However, that provision
+was not brought into force and was subsequently repealed.
+86.  From June 2007, MOD Ministers pressed the Scottish Executive to make provision
+for Fatal Accident Inquiries to be held into the deaths overseas of Service Personnel
+normally domiciled in Scotland.
+87.  The Government made provision for such Inquiries in the 2009 Coroners and
+Justice Act.
+
+Delays in military investigations and civilian inquests
+It could take several years for the MOD and the coronial system to conclude investigations
+into the deaths of Service Personnel.
+The Inquiry considered why the investigative process should take so long. The four main
+factors were:
+
+•	
+
+the difficulty of conducting Service Police investigations in a hostile environment,
+which was exacerbated by a lack of qualified military investigators; the MOD set no
+deadlines for the conclusion of Service Police investigations;
+
+•	
+
+the Army’s policy, at the beginning of Op TELIC, to hold an investigation into all
+deaths, and only to launch a BOI after the investigation had concluded; this policy
+changed in 2004;
+
+•	
+
+the time taken to complete BOIs, and in particular to receive comments from senior
+officers and advisers on draft BOI reports; and
+
+•	
+
+the backlog of inquests which built up in the Oxfordshire Coroner’s office.
+
+165
+
+The Report of the Iraq Inquiry
+
+Support for bereaved families
+88.  Most of the contacts between the MOD and bereaved families were conducted with
+sensitivity. In a few cases, they were not.
+89.  In April 2003, prompted by concern over the insensitive treatment of a bereaved
+spouse, and at the direction of Mr Hoon, the MOD initiated a comprehensive review
+of bereavement procedures. By the middle of May, it had introduced new guidelines
+for communicating with bereaved families, begun work to make the guidance on the
+support available to bereaved families more accessible, and amended its policy to allow
+bereaved spouses to remain in Service accommodation for as long as they required it.
+90.  Mr Ingram attributed the MOD’s failings at the beginning of Op TELIC to a continuing
+view within the military that bereavement was “just something that happened”.13
+Mr Ingram added that, in the context of “a big sea change” in public attitudes and the
+experience of Op TELIC, the MOD moved quickly to improve the bereavement and
+welfare support it provided to families.
+91.  The creation, in 2005, of the Joint Casualty Co-ordination Cell (JCCC) and the
+production of a joint policy covering the support for bereaved families reduced the
+inconsistency between the Services and individual units in the support they offered
+to bereaved families.
+92.  The experiences shared with the Inquiry by bereaved families suggest that the
+creation of the JCCC led to an improvement in the quality of the notification process.
+93.  Being a Casualty Notifying Officer (CNOs) and a Visiting Officer (VOs) was (and
+remains) an extremely difficult role: a small number fell below the standard required.
+The training and support provided to CNOs and VOs remained an issue of concern for
+the MOD throughout the period covered by the Inquiry.
+
+Support for Service Personnel and their families
+94.  The MOD progressively improved the allowances and support provided to Service
+Personnel and their families over the course of Op TELIC.
+95.  The most substantial development was the introduction of the Operational
+Allowance in October 2006. The Allowance, initially set at £2,400 for all Service
+Personnel who completed a six-month tour in Iraq, Afghanistan, the Balkans or on
+certain other operations, was designed “to reflect the current, high operational tempo”.14
+
+13 
+
+Public hearing, 16 July 2010, pages 36-42.
+Letter PS/Secretary of State [MOD] to Phillipson, 9 October 2006, ‘A Package for Service Personnel
+on Operations’.
+14 
+
+166
+
+16.4  |  Conclusions: Service Personnel
+
+The Operational Welfare Package
+96.  The Inquiry heard mixed reports about the Operational Welfare Package (OWP)
+from families and veterans of Op TELIC. Limited access to telephones early in the
+campaign and the fragility of the air bridge between Iraq and the UK – which reduced the
+time available for rest and recuperation – were particular sources of frustration.
+97.  While these were undoubtedly real frustrations, the Inquiry considers that the
+MOD delivered most elements of the OWP as quickly as could reasonably have been
+expected. A key challenge, recognised by the MOD, was managing and meeting rising
+expectations.
+
+Support for Reservists
+98.  Over 5,000 Reservists were mobilised for Op TELIC 1 (comprising some 12 percent
+of total UK forces). Lt Gen Palmer told the Inquiry that Reservists “performed
+magnificently during the operation, and we simply could not have done without them”.15
+99.  The MOD’s policy was that deployed Reservists, and their families, should receive
+the same welfare support as Regular Service Personnel.
+100.  The MOD found it difficult to provide support to the families of deployed Reservists.
+It was the responsibility of the unit to which a Reservist was attached to provide that
+support, but the families of Reservists were often spread across the country, some
+distance from that unit. A Reservist’s family might have had little or no previous contact
+with the unit to which the Reservist was attached, and find it difficult to access the
+support that was available.
+101.  The MOD introduced a number of measures to improve the support provided to
+Reservists in theatre and in the UK. It also sought to ensure that Reservists benefited
+from new initiatives, such as decompression, alongside their Regular colleagues.
+
+15 
+
+Public hearing, 21 July 2010, pages 84-85.
+
+167
+

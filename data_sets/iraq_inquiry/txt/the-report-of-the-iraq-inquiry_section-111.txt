@@ -1,0 +1,2712 @@
+SECTION 11.1
+DE-BA’ATHIFICATION
+Contents
+Introduction ....................................................................................................................... 2
+The development of de‑Ba’athification policy ................................................................... 3
+Post‑invasion .............................................................................................................. 3
+The CPA approach ...................................................................................................... 7
+CPA Order No.1 ........................................................................................................ 12
+Implementation of de‑Ba’athification policy ..................................................................... 14
+CPA Memorandum No.1 ........................................................................................... 19
+The role of the Governing Council ............................................................................ 23
+De‑Ba’athification in the Transitional Administrative Law ......................................... 28
+The Interim Iraqi Government ................................................................................... 32
+The Amnesty Order ................................................................................................... 33
+A draft new de‑Ba’athification Order ......................................................................... 35
+Former Ba’athists and the Sunni insurgency ............................................................ 36
+The Transitional National Assembly’s de‑Ba’athification policy ...................................... 37
+The new Government takes office ............................................................................ 38
+De‑Ba’athification in the Iraqi Constitution ................................................................ 40
+Election preparations ................................................................................................ 43
+De‑Ba’athification after the 2005 Iraqi election ............................................................... 46
+A new government .................................................................................................... 48
+De‑Ba’athification in 2007 ......................................................................................... 52
+June 2007 onwards ......................................................................................................... 55
+
+1
+
+The Report of the Iraq Inquiry
+
+Introduction
+1.  This Section addresses:
+
+•	
+•	
+•	
+
+the decision to remove some members of the Ba’ath Party from public office
+after May 2003, a process known as de‑Ba’athification;
+the implementation of that decision; and
+the impact it had on Iraq.
+
+2.  This Section does not address:
+
+•	
+•	
+•	
+
+pre‑invasion analysis of, and planning for, de‑Ba’athification, which is addressed
+in Sections 6.4 and 6.5;
+the decision to disband the Iraqi Army, which is described in Section 12.1; and
+the creation of the Coalition Provisional Authority, which is covered in
+Section 9.1.
+
+3.  The Inquiry’s conclusions in relation to the events described in this Section can be
+read in Section 11.2.
+
+The Ba’ath Party
+The Arab Socialist Party or Ba’ath Party was founded in Damascus in 1947 by
+Michael Aflaq and Salah al‑Din al‑Bitar.1 Its core objective was the creation of a single,
+united Arab State.
+Having established itself in Syria, the Ba’ath Party then spread to other Arab countries.
+The Iraqi Ba’ath Party was formally established in 1952.
+The Ba’ath Party took power in Syria through a coup in 1963, where it was enshrined
+in the Constitution as “the leading party of society and state”. The party seized power
+in Iraq after a revolution in the same year but was manoeuvred out by the military a few
+months later.
+The Ba’ath Party returned to power in Iraq in 1968 in a coup led by Ahmad Hasan al‑Bakr,
+supported by Saddam Hussein. Ba’ath members and party organisations were imposed
+on the Iraqi military shortly after.
+Saddam Hussein succeeded President al‑Bakr in 1979, after which point the party was
+increasingly dominated by individuals linked to him by family or tribal ties.
+An ideological split in 1966 led to the Syrian and Iraqi parties becoming estranged and
+bitterly antagonistic toward each other. The Syrian Ba’ath Party maintained a focus on
+Arab unity while Iraqi Ba’athists focused on Iraqi nationalism.
+
+1
+
+Paper DIS, 1 February 2002, ‘The Iraq Ba’ath Party – Its History, Ideology and Role in Regime Security’.
+
+2
+
+11.1  |  De-Ba’athification
+
+In early 2002, the Defence Intelligence Staff estimated Ba’ath Party membership within
+Iraq at between 600,000 and 700,000 individuals, which represented 4 percent of the
+population. There were several tiers of membership, reflecting individual members’ roles
+within the party hierarchy. Membership was essential to reach senior positions in the
+military, the government or in professional life.
+
+The development of de‑Ba’athification policy
+4.  As described in Section 6.5, although it was widely assumed that a process for
+removing senior members of the Ba’ath Party from positions of power would be required
+after the invasion, no clear plan for the de‑Ba’athification of Iraq’s public sector had been
+agreed between the US and UK at the point the invasion was launched.
+5.  Because of the extent to which the Ba’ath Party was intertwined with Iraq’s
+bureaucracy, the failure of the US and UK to agree an approach to de‑Ba’athification
+compounded uncertainty about how the bureaucracy might perform after Saddam
+Hussein’s departure.
+
+Post‑invasion
+6.  As Coalition Forces entered Iraq in March 2003, Ministers were supplied with a
+‘script’ to use in media and Parliamentary discussion which set out the UK vision for
+“Phase IV”, the reconstruction of Iraq.2 The script said:
+“When conditions in Iraq permit, the US Office of Reconstruction and Humanitarian
+Affairs (ORHA) will move to Baghdad and take on the supervision of the civil
+administration of Iraq … We hope that the vast majority of the Iraqi public sector will
+remain in place and be able to carry on its work …”
+7.  On 4 April, a Private Secretary to Mr Jack Straw, the Foreign Secretary, supplied
+Mr Matthew Rycroft, Mr Blair’s Private Secretary for Foreign Affairs, with six papers
+on post‑conflict Iraq.3 One covered the Iraqi civil service, and stated:
+“We do not have any deep knowledge about which levels of the administration are
+so highly politicised as to need immediate reform, nor which individuals might have
+to be retired or stood down. This in any case cannot realistically be assessed until
+after liberation.”
+8.  The question of what future strength and support the Ba’ath Party would command
+within Iraq was raised by Mr Colin Burgon in a House of Commons debate on 7 April.4
+
+Letter Owen to Rycroft, 20 March 2003, ‘Iraq: Phase IV: Core Script’.
+Letter Owen to Rycroft, 4 April 2003, ‘Post‑conflict Iraq: UK/US’ attaching Paper, 4 April 2003, ‘The state
+of the Iraqi civil service and bureaucracy’.
+4
+House of Commons, Official Report, 7 April 2003, columns 29‑30.
+2
+3
+
+3
+
+The Report of the Iraq Inquiry
+
+9.  In reply Mr Geoff Hoon, the Defence Secretary, explained:
+“It is a very difficult question to answer at this stage, not least because the only way
+of assuring success in Saddam Hussein’s Iraq was to be a member of the Ba’ath
+party and to operate under his rule. On the other hand, there may well be decent
+people who had no part in the excesses of the regime and who will, in turn, return
+to rebuild their country. I suspect that it will depend on their ability to persuade
+people in their own areas that they have not been involved with the regime and that
+they can therefore be relied on and trusted.”
+10.  Mr Hoon’s reply was consistent with a briefing produced on the same date by the
+Defence Intelligence Service (DIS) Red Team on Iraq.5 The Red Team judged:
+“To be a Ba’athist does not necessarily mean an individual is a hard core supporter
+of the regime. Most joined to advance their careers or under duress (mostly
+government employees). In every government department there is a hard core who
+have been responsible for security. They are responsible for the ‘disappeared’; are
+known by everybody and will be nervous.
+“It will require detailed inside knowledge to identify the ‘bad apples’ in any
+organisation …”
+11.  Similar points were made by Ms Clare Short, the International Development
+Secretary, on 10 April.6 In response to a Parliamentary Question from Ms Helen
+Southworth, Ms Short said:
+“… Iraq is like the former Soviet Union, where people had to join the Communist
+party if they wanted to be a teacher. Many members of the Ba’ath Party are not
+the real leaders of the regime, and they will need to remain in their jobs so as to
+continue to run their country.”
+12.  The first formal public statement by the Coalition about the treatment of the Ba’ath
+Party was made when General Tommy Franks, Commander in Chief US Central
+Command (CENTCOM), issued his Freedom Message to the Iraqi People on 16 April
+(see Section 9.1).
+13.  As described in Section 9.1, Mr Huw Llewellyn from FCO Legal Advisers provided
+advice to the Iraq Policy Unit (IPU) on the draft text of the Message on 28 March.7
+14.  In relation to de‑Ba’athification, Mr Llewellyn was concerned that the practical
+effect of disestablishing the Ba’ath Party was not implemented in the Directive to the
+Civilian Population that Gen Franks intended to issue in parallel. He also suggested
+
+Briefing DIS Red Team, 7 April 2003, ‘What Will Happen in Baghdad?’
+House of Commons, Official Report, 10 April 2003, column 444.
+7
+Minute Llewellyn to Chilcott, 28 March 2003, ‘Proposed US “Freedom Message” to the People of Iraq’.
+5
+6
+
+4
+
+11.1  |  De-Ba’athification
+
+that the word “disestablished” should be replaced with “dissolved” or something with
+the same meaning.
+15.  Commenting on a subsequent draft of the text on 10 April, Mr Llewellyn explained:
+“The paragraph dissolving the Ba’ath party is clearly important. But the word
+‘disestablished’ does not really do the trick. That word is something to do with
+removing an institution from the structure of the state, as I understand it. We should
+say ‘dissolved’.”8
+16.  On 11 April, during a video conference between UK, US and Australian legal
+advisers, the US lawyers explained that they saw a need to disestablish the Ba’ath Party
+and deprive it of all authority “in order for other things to happen as a result from the
+legal and policy point of view”.9
+17.  On 11 April, Mr Llewellyn circulated a first draft of guidelines for UK personnel,
+in particular those seconded to ORHA, on the relevant provisions of International
+Humanitarian Law (IHL).10 Under the heading “Removal of Officials”, it stated:
+“Officials may be removed, although this should not be done arbitrarily. Clearly, the
+Coalition will remove from office those who were members of Saddam Hussein’s
+regime, and senior members of the Ba’ath Party if any remain. Other officials may
+be removed where they represent an obstacle to administration by the Coalition, for
+example because they pose a threat to security, are corrupt, unwilling to act under
+Coalition administration, or will be intimidating for the population.”
+18.  A senior MOD legal adviser to whom the draft guidelines were sent for comment
+suggested that the guidelines should be more precise about what was meant by
+“members of Saddam Hussein’s regime” and “senior members of the Ba’ath Party”.11
+She asked whether it was likely there would be anyone who would fall into the first
+category who did not also fall within the second.
+19.  The Inquiry has not seen evidence that any discussion of the degree to which former
+members of the Ba’ath Party might be entitled to participate in the Iraqi Interim Authority
+(IIA) took place at the conference held in Nasiriyah on 15 April and attended for the UK
+by Mr Edward Chaplin, FCO Director Middle East and North Africa.12
+20.  There is a mention in one of the supporting papers, produced by the FCO’s
+Research Analysts, of the need to establish whether members of Iraq’s popular councils
+could be used in the selection of members for the IIA given that they had previously
+
+Minute Llewellyn to Bristow, 10 April 2003, ‘Freedom Message to the Iraqi People’.
+Minute [unattributed], [undated], ‘American Summary Points, Video Link: Friday 11 April’.
+10
+Minute Llewellyn to Rose, 11 April 2003, ‘Iraq: Guidelines on the Application of Laws of Occupation’.
+11
+Minute Rose to Llewellyn, 22 April 2003, ‘Iraq: Guidelines on the Application of Laws of Occupation’.
+12
+Letter Chaplin to Crocker, 17 April 2003, ‘Setting up the Iraqi Interim Authority: Issues for Discussion’
+attaching Paper FCO, 2 April, ‘Post‑conflict Iraq: a “Baghdad Conference”’.
+8
+9
+
+5
+
+The Report of the Iraq Inquiry
+
+been “approved” by the Ba’ath Party which might mean they were considered to be
+“tainted”.
+21.  In his memoir, Mr Douglas Feith, US Under Secretary of Defense for Policy,
+describes re‑writing the first draft of Gen Franks’ message produced by CENTCOM.13
+Mr Feith’s re‑written version included the reference to the disestablishment of the Ba’ath
+Party. His view was that disestablishing the Ba’ath Party was a separate issue from the
+fate of individual members, which was still under discussion at the time of Gen Franks’
+statement.
+22.  In a paper for the Pentagon Public Affairs Office on 16 April, Mr Feith’s Office
+suggested that the answer to questions about what would happen to members of the
+Ba’ath Party should be:
+“… its [the Ba’ath Party’s] property and records will be considered by the CPA as the
+property of the Iraqi people. Absent exceptional circumstances, top‑tier members
+of the Ba’ath Party will not be eligible to hold any positions of responsibility under
+the CPA. Lower ranking members of the Ba’ath Party will not necessarily be barred
+from such employment. No one will be punished merely for membership in the
+Ba’ath Party.”
+23.  Gen Franks’ Freedom Message was issued on 16 April.14 It said:
+“The Arab Socialist Renaissance Party of Iraq (Hiz al‑Ba’ath al‑Arabi al‑Istiraki
+al‑Iraqi) is hereby disestablished. Property of the Ba’ath Party should be turned
+over to the Coalition Provisional Authority. The records of the Ba’ath Party are an
+important part of the records of the Government of Iraq and should be preserved …
+and turn[ed] … over to the Coalition Provisional Authority.”
+24.  On 17 April, a discussion between Sir David Manning, Mr Blair’s Foreign Policy
+Adviser, and Dr Condoleezza Rice, US National Security Advisor, suggested that the
+announcement about the Ba’ath Party had come as a surprise to her.15
+25.  Mr Straw told the Inquiry that he had discussed the question of de‑Ba’athification
+with Gen Franks in Kuwait in mid‑April:
+“… and he had said to me that his view was you should take anybody apart from
+those who were obviously bad into the system, and then vet them subsequently,
+and if they – and I remember him saying – if they didn’t pass muster, didn’t pass
+the vetting, then you’d kick them out. But what you didn’t do was wholly to degrade
+the administration in advance, and I thought, not least because he was the senior
+
+Feith DJ. War and Decision: Inside the Pentagon at the Dawn of the War on Terrorism.
+HarperCollins, 2008.
+14
+Statement General Tommy Franks, 16 April 2003, ‘Freedom Message to the Iraqi People’.
+15
+Letter Manning to McDonald, 17 April 2003, ‘Iraq: Conversation with Condi Rice’.
+13
+
+6
+
+11.1  |  De-Ba’athification
+
+army officer on the American side, that that’s what would happen but, in the event,
+it wasn’t.”16
+26.  At Foreign Office Oral Questions on 6 May, Dr Vincent Cable asked about the
+Coalition’s plans for elections in Iraq.17 He asked the Government to:
+“… explain the status of important political groups such as the Ba’ath party, the
+Communist party and the Islamic fundamentalists? Will they be allowed to compete
+freely and democratically in those elections and if they won would they be allowed
+to win?”
+27.  In reply, Mr Mike O’Brien, FCO Parliamentary Under Secretary of State, explained:
+“We hope that the Ba’ath Party will not be able to involve itself in that election, and
+certainly not in the form that it took under Saddam Hussein. It is not envisaged,
+therefore, that it would be allowed to operate.”
+
+The CPA approach
+28.  The creation of the Coalition Provisional Authority (CPA), led by Ambassador L Paul
+Bremer, and the appointment in early May of Mr John Sawers as the Prime Minister’s
+Special Representative to Iraq are described in Section 9.1.
+29.  Ambassador Bremer, in his account of leading the CPA, describes being given his
+instructions:
+“On May 9, my last day of preparation at the Pentagon, Don Rumsfeld had given me
+my marching orders in a memo. Among all my other instructions, Rumsfeld’s memo
+emphasized: ‘The Coalition will actively oppose Saddam Hussein’s old enforcers –
+the Ba’ath Party, the Fedayeen Saddam … We will make clear that the Coalition will
+eliminate the remnants of Saddam’s regime.’”18
+30.  In his memoir, Mr Feith wrote that Ambassador Bremer “wanted his arrival in
+Baghdad to have a theme: The Ba’athists are not coming back.”19 Mr Feith wrote:
+“Bremer had considered his point carefully. Our forces had not yet captured
+Saddam, and many Iraqis remained fearful of the Ba’athists – and therefore unwilling
+to cooperate with U.S. officials – on security, political reconstruction, and other
+matters. Bremer saw it as his first task to offer assurance … I thought Bremer had
+selected his “arrival theme” wisely, and I told him so.”
+
+Public hearing, 8 February 2010, pages 117‑118.
+House of Commons, Official Report, 6 May 2003, columns 522‑523.
+18
+Bremer LP III & McConnell M. My Year in Iraq: The Struggle to Build a Future of Hope. Threshold, 2006.
+19
+Feith DJ. War and Decision: Inside the Pentagon at the Dawn of the War on Terrorism.
+HarperCollins, 2008.
+16
+17
+
+7
+
+The Report of the Iraq Inquiry
+
+31.  Mr Feith recorded that a draft de‑Ba’athification policy had been considered by
+the US National Security Council on 10 March. At Ambassador Bremer’s request,
+implementation of the policy, which would “rid the Iraqi Government of the small group of
+true believers at the top of the party and those who had committed crimes in its name”,
+was delayed until his arrival in Iraq.20
+32.  Ambassador Bremer wrote:
+“Our concern was only the top four levels of the party membership, which the [draft]
+order officially excluded from public life. These were the Ba’athist loyalists who,
+by virtue of their positions of power in the regime, had been active instruments of
+Saddam’s repression. Our intelligence community estimated that they amounted
+to only about 1 percent of all party members or approximately 20,000 people,
+overwhelmingly Sunni Arabs.”
+33.  Four days after arriving in Iraq, Mr Sawers reported that there was a fear among
+“ordinary people in Baghdad” that the Ba’athists could return.21 He assessed:
+“ORHA have made mistakes here, appointing quite senior party figures as their
+main partners in the trade and health ministries, at Baghdad University and so on.
+Several political leaders I have seen say a line should be drawn at the ‘firqa’ level of
+the Ba’ath Party and all those at that level and the three above should be excluded,
+about 30,000 in all. This would represent between five and ten per cent of total party
+membership. But it is still a lot of people and may be one level too many, at least
+for now.”
+34.  In one of his earliest reports to London, on 12 May Mr Sawers reported that
+Dr Ahmed Chalabi’s “strong message on de‑Ba’athification strikes a chord” with the
+Shia population “and will become even more potent if we don’t deal with re‑emerging
+Ba’athists”.22 Dr Chalabi was a founding member of the Iraqi National Congress Party
+who had formed strong links with several US Administrations.
+35.  After his first meeting with Ambassador Bremer, Mr Sawers reported: “Bremer, rightly,
+plans to move quickly to set out a policy on ‘de‑Ba’athification’ or ‘De‑Saddam‑isation’ as
+it may now be called.”23
+36.  Mr Sawers judged:
+“… the issue needs addressing quickly. The question is how to define the scope
+of those excluded. All agree that the top three levels of the Ba’ath … should be
+banned. Our rough estimate suggests that should cover up to 5,000 people. Added
+
+Bremer LP III & McConnell M. My Year in Iraq: The Struggle to Build a Future of Hope. Threshold, 2006.
+Telegram 2 IraqRep to FCO London, 11 May 2003, ‘Iraq: What’s Going Wrong?’
+22
+Telegram 3 IraqRep to FCO London, 12 May 2003, ‘Iraq: Political Process’.
+23
+Telegram 3 IraqRep to FCO London, 12 May 2003, ‘Iraq: de‑Ba’athification’.
+20
+21
+
+8
+
+11.1  |  De-Ba’athification
+
+to that will have to be the top levels of the instruments of repression – the security,
+intelligence organisations etc.
+“Some politicians … are arguing that the fourth level of the party … should also
+be included. This would extend the numbers to some 30,000 possibly more. The
+argument in favour is that this is the level where party officials began to receive
+privileges such as free housing and thus were identified popularly as beneficiaries
+of the regime. Against that is the danger that too wide a list will be hard to
+administer; that we should not exclude too large a group from the new system;
+and it would increase the risk of false accusations against innocent people …
+“Grateful for early views on this issue. My own instinct is we should not throw the net
+wider than necessary, and that for now we could settle on the top three tiers … But
+I frankly don’t have sufficient feel for the Iraqi Ba’ath Party to know the level at which
+real evil began.”
+37.  The following day, Mr Sawers reported that Ambassador Bremer’s staff in the CPA
+had a “similar [approach to de‑Ba’athification] to ours, and they share our uncertainty
+over how wide to cast the net”.24 In particular, “banning all party members from any of
+the top three tiers in ministries” could inadvertently exclude “many of the technocrats we
+will want to re‑employ”. Ambassador Bremer had explained that the steer he was getting
+from Mr Donald Rumsfeld, US Defense Secretary, and President Bush was to “spread
+the net widely initially, and then to allow exceptions without too many obstacles”.
+38.  On 13 May, Sir David Manning met Dr Rice and other National Security Council
+staff in Washington.25 A report of the meeting by Mr Rycroft said that Sir David had
+gone through the points raised by Mr Sawers on de‑Ba’athification, and the NSC team
+had agreed with them. They told Sir David that the US had agreed a de‑Ba’athification
+strategy the previous week.
+39.  The following day, the FCO in London sent Mr Sawers the instructions he had
+requested.26 The FCO wrote:
+“… there should be a [de‑Ba’athification] process, but its scope should be limited,
+and there needs to be room for discretion.
+“We agree that the net should not be cast too wide. Excluding the top three ranks
+from public service … is probably the most practical approach … In certain cases,
+particularly in the security services, Ba’ath members may have to be moved aside
+in order to provide … reassurance, whatever their position in the party. But we do
+not want to create a large underground of disaffected Ba’athists who see no possible
+future for themselves in post‑Saddam Iraq … So the short answer to the question
+Telegram 6 IraqRep to FCO London, 13 May 2003, ‘Iraq: Putting Things Right’.
+Telegram 643 Washington to FCO London, 13 May 2003, ‘Iraq: Meetings with Rice and Cheney,
+13 May’.
+26
+Telegram 2 FCO London to IraqRep, 14 May 2003, ‘Iraq: de‑Ba’athification’.
+24
+25
+
+9
+
+The Report of the Iraq Inquiry
+
+about the fourth level of the Ba’ath is that there will be a vetting process … to ensure
+no rotten apples are kept on … One of the leading academic Iraq‑watchers, Toby
+Dodge, has remarked to us that membership of the Ba’ath was less significant
+latterly than less formal networks of control and influence. There is a danger, in
+focusing on the Ba’ath, of overlooking potentially more malign elements.”
+40.  The message from the FCO also re‑stated the legal position that Occupying Powers
+could remove public officials from their posts but that “for both policy and legal reasons,
+we should stick to what is necessary”. Occupying Powers could not “regulate or prohibit
+political expression or activity except to the extent that is necessary on grounds of
+security or public order”.
+41.  The message ended:
+“The longer‑term process of de‑Ba’athification is for a future government of Iraq
+to take forward, in parallel with the wider transitional justice dossier.”
+42.  On 13 May, Mr Walt Slocombe, CPA Senior Adviser on National Security and
+Defense, met Mr Hoon in London.27 In his record of the meeting, Mr Hoon’s Assistant
+Private Secretary wrote that Mr Slocombe had said “a visible and functioning police
+force … might require some compromise on de‑Ba’athification”.
+43.  Mr Simon Webb, MOD Policy Director, was also present at Mr Hoon’s meeting with
+Mr Slocombe. Mr Webb told the Inquiry:
+“We had certainly accepted … the need for de‑Ba’athification … So we had bought
+that by that stage … I don’t recall having a specific conversation about how far that
+was going to go. But … I think we were probably content for this to be decided by
+those in Baghdad. If the policy is partial de‑Ba’athification, and everybody seems
+to understand the issues … I wouldn’t have tried to press a particular level in the
+command structure on Walt. … There was a judgement which you couldn’t really
+make until you got on the ground about what level you went down to … at some
+stage, you hit the school teacher who just joined the party because they wanted
+a job. But where in that spectrum you cut it off, recognising that you, implicitly
+at least … wanted to remove the possibility of an early reassertion of power by
+Ba’ath Party …”28
+44.  Ambassador Bremer told the Inquiry that “Slocombe reported that the British officials
+agreed with the need for vigorous de‑Ba’athification, especially in the security sector”.29
+
+Minute Williams to Webb, 13 May 2003, ‘Call on Defence Secretary by Walt Slocombe: 13 May 2003’.
+Private hearing, 23 June 2010, pages 66‑68.
+29
+Statement Bremer, 18 May 2010, page 3.
+27
+28
+
+10
+
+11.1  |  De-Ba’athification
+
+45.  On 14 May, Mr Tony Brenton, Chargé d’Affaires at the British Embassy Washington,
+was shown a draft diplomatic cable setting out Washington’s guidance to Ambassador
+Bremer on the implementation of the de‑Ba’athification policy.30
+46.  Mr Brenton reported to the FCO that the cable proposed that full Ba’ath Party
+members (group, section and branch members) would be banned from public office,
+including teaching positions. They would also be interviewed and an evaluation made
+of whether they may have committed criminal acts or continued to pose a risk to the
+security of the Coalition.
+47.  To implement this, all individuals in the top three layers of management in each
+government Ministry would be evaluated to establish the extent of their Ba’ath Party
+involvement. Those proven to be members would be removed. For junior employees
+below the top three layers, evaluation would not be automatic but the discovery of any
+“adverse information” would lead to their investigation.
+48.  The Annotated Agenda prepared by the Cabinet Office for a meeting of the Ad Hoc
+Ministerial Group on Iraq Rehabilitation (AHMGIR) the following day asked Ministers to:
+“… agree that we press in principle for the removal from public service and politics
+[of] only the top three tiers of the Ba’ath Party.”31
+49.  The Annotated Agenda stated that extending the ban to the fourth tier of the Ba’ath
+Party (and so to 30,000 people) would be “excessive and detrimental to public service
+provision”.
+50.  At the meeting of the AHMGIR on 15 May, Mr Straw stated that the Coalition should
+be “flexible” in its approach to de‑Ba’athification, “for example excluding many who
+had been part of Saddam Hussein’s security apparatus, but fewer from more technical
+positions”.32
+51.  The Group amended the objective proposed by officials to:
+“… press for the removal from public service and politics of those members of the
+Ba’ath Party judged to have played a malign role.”
+52.  On 15 May, Mr Sawers reported that the de‑Ba’athification policy had been agreed
+along the lines reported earlier by Mr Brenton.33
+53.  On the question of whether the bar should extend to the fourth level of party
+membership, Mr Sawers reported that he had “warned of the danger of overkill” but, like
+
+Telegram 655 Washington to FCO London, 14 May 2003, ‘Iraq: US Views’.
+Annotated Agenda, 15 May 2003, Ad Hoc Group on Iraq Rehabilitation meeting.
+32
+Minutes, 15 May 2003, Ad Hoc Group on Iraq Rehabilitation meeting.
+33
+Telegram 10 IraqRep to FCO London, 15 May 2003, ‘Iraq: De‑Ba’athification’.
+30
+31
+
+11
+
+The Report of the Iraq Inquiry
+
+Ambassador Bremer, had been persuaded by those arguing that “the recommended
+policy of covering all four levels was pitched right”. Mr Sawers commented:
+“This new policy is tougher than your advice preferred … But I advise against any
+action in Washington. The new policy is badly needed, and it corresponds with the
+preferences of all the members of the Leadership Group bar Allawi.”
+54.  On the same day, Mr Llewellyn provided advice to IPU on a draft Order removing
+the Ba’ath Party leadership.34 It is clear from his comments that this was the final draft
+of what became CPA Order No.1 and he noted that it was probably on the point of being
+issued.
+55.  In Mr Llewellyn’s view, the main question was whether the UK was satisfied
+that displaying images or likenesses of Saddam Hussein (or other readily identifiable
+members of the former regime or symbols of the Ba’ath Party) was of sufficient concern
+that it necessitated prohibition on the grounds of security and/or public order, the only
+grounds that would be permitted under international humanitarian law.
+
+CPA Order No.1
+56.  CPA Order No.1, “De‑Ba’athification of Iraqi Society”, was issued on 16 May 2003.35
+It was Ambassador Bremer’s first formal act as head of the CPA.
+57.  The Order stated that it was implementing General Franks’ disestablishment of the
+Ba’ath Party in his 16 April message:
+“… by eliminating the party’s structures and removing its leadership from positions
+of authority and responsibility in Iraqi society. By this means, the Coalition
+Provisional Authority will ensure that representative government in Iraq is not
+threatened by Ba’athist elements returning to power and that those in positions
+of authority in the future are acceptable to the people of Iraq.”36
+58.  The Order stated that disestablishment was to be achieved by removing “full”
+members of the Ba’ath party (defined as the top four ranks of party membership)37
+from public sector jobs and banning them from future employment in the public sector.
+59.  Individuals holding senior management positions (the top three layers of
+management) in all public sector organisations would be interviewed and assessed
+for their possible affiliation with the Ba’ath Party, criminal conduct and risk to security.
+Any who were found to be full members of the Ba’ath Party would be removed from
+employment.
+
+Minute Llewellyn to [Bristow], 15 May 2003, ‘Draft Order on Removing Ba’ath Party Leadership’.
+Bremer LP III & McConnell M. My Year in Iraq: The Struggle to Build a Future of Hope. Threshold, 2006.
+36
+Coalition Provisional Authority Order Number 1, 16 May 2003, Section 1(1).
+37
+Regional Command Member, Branch Member, Section Member and Group Member. Collectively
+referred to as “Senior Party Members”.
+34
+35
+
+12
+
+11.1  |  De-Ba’athification
+
+60.  Ambassador Bremer wrote in his account of leading the CPA that he had recognised
+from the outset that the de‑Ba’athification Order “wasn’t perfect, but contained a degree
+of flexibility” in the provision that allowed for exemptions to the ban to be made on a
+case‑by‑case basis.38 Both he and Ambassador Ryan Crocker, a US State Department
+official seconded to the CPA, had agreed that this flexibility was “critical”.
+61.  Ambassador Bremer told the Inquiry that the Order was “narrowly drawn” so as to
+affect only the top 1 percent of party members, and to deny them public sector positions
+but not the ability to work in the private sector.39
+62.  On the same day that Order No.1 was issued, Mr Blair and President Bush spoke
+on the telephone.40 The record of their conversation, taken by Mr Blair’s Assistant Private
+Secretary, indicates that they did not discuss de‑Ba’athification.
+
+The UK role in relation to Order No.1
+Hard Lessons, an account of the US reconstruction experience in Iraq, characterised
+Order No.1 as “conceived in Washington and promulgated with little Iraqi involvement”.41
+Secretary Rumsfeld, in his memoir, observed:
+“Though the policy later found few defenders at the top level of the administration,
+de‑Ba’athification initially had broad support among the relevant departments and
+agencies.”42
+The policy was discussed by the NSC two weeks before the invasion and there were
+“no objections from any of the principals present” although President Bush had questioned
+who would carry out the vetting needed.
+Sir Suma Chakrabarti, DFID Permanent Secretary from 2002 to 2007, told the Inquiry
+that the de‑Ba’athification decision was one of a number on which his department had
+not been consulted.43
+Lord Jay, FCO Permanent Under Secretary from 2002 to 2006, described the
+de‑Ba’athification decision as one example of “difficulties in relation to the United States”.44
+Mr Blair told the Inquiry:
+“You know, there’s a lot of debate about de‑Ba’athification and so on … but he
+[Bremer] was someone who knew his own mind, but I have to say I did not get the
+impression he was refusing to discuss it with the British. On the contrary, we had Brits
+working alongside in very senior positions.”45
+
+Bremer LP III & McConnell M. My Year in Iraq: The Struggle to Build a Future of Hope. Threshold, 2006.
+Statement Bremer, 18 May 2010, page 3.
+40
+Letter Cannon to MacDonald, 16 May 2003, ‘Iraq: Prime Minister’s Conversation with Bush, 16 May’.
+41
+Bowen SW Jr. Hard Lessons: The Iraq Reconstruction Experience. U.S. Government Printing
+Office, 2009.
+42
+Rumsfeld D. Known and Unknown: A Memoir. Sentinel, 2011.
+43
+Public hearing, 8 December 2009, page 64.
+44
+Public hearing, 30 June 2010, page 41.
+45
+Public hearing, 21 January 2011, page 144.
+38
+39
+
+13
+
+The Report of the Iraq Inquiry
+
+Mr Sawers reported just before the Order was issued that it was being finalised by the
+Department of Defense in Washington and that Ambassador Bremer had been given
+guidance on de‑Ba’athification by both Secretary Rumsfeld and President Bush.46
+Mr Sawers told the Inquiry that he did not think that his views were entirely ignored, and
+cited examples of where he believed he had been able to influence Ambassador Bremer’s
+thinking.47 He made a similar point in May 2003, when he reported that Ambassador
+Bremer was keen to work with him:
+“… in public and private, and has picked up on many UK suggestions, big and small.
+He allowed us to re‑balance the decree on removing the Ba’athists, over‑ruling the
+wilder strictures of Wolfowitz and Feith in the process.”48
+
+Implementation of de‑Ba’athification policy
+63.  Mr Sawers reported on 17 May that the members of the Iraqi Leadership Group49
+“widely supported” the de‑Ba’athification process and that:
+“… all the leaders welcomed the clarity and toughness of the proclamation …
+I recalled the exchanges I had had with each of the Group on the issue, and
+told them their views had been taken into account in the detailed terms of the
+final decree – a good example of co‑operation and consultation with the political
+groupings.”50
+64.  A few days later, Mr Sawers reported that de‑Ba’athification had “gone down well”.51
+He judged that, before the policy, many Iraqis believed there was still a chance the
+Ba’athists might return, which “in turn contributed to the security problem”. The policy
+was “a huge hit with the political parties we are working with” and, although there would
+need to be some exemptions, “Bremer will keep these to a minimum”.
+65.  A few days after Order No.1 was issued, Sir David Manning met Ambassador
+Bremer in Baghdad.52 In discussion, they observed:
+“De‑Ba’athification and the dissolution of security ministries would create a new
+reservoir of angry men. So there was a need to step up patrols and tighten up
+security.”
+
+Telegram 6 IraqRep to FCO London, 13 May 2003, ‘Iraq: Putting Things Right’.
+Public hearing, 10 December 2009, page 71.
+48
+Telegram 18 IraqRep to FCO London, 20 May 2003, ‘Iraq: Bremer’s Impact’.
+49
+The Leadership Group was comprised of Iraqi politicians drawn from identifiable political and regional
+groups and had been established by General Jay Garner, Head of the Office of Reconstruction and
+Humanitarian Assistance (ORHA). It included both former exiles who had returned to Iraq after the fall
+of Saddam Hussein, and those who had remained in Iraq.
+50
+Telegram 13 UKRep Iraq to FCO London, 17 May 2003, ‘Iraq: Bremer meets Leadership Group’.
+51 
+Telegram 18 IraqRep to FCO London, 20 May 2003, ‘Iraq: Bremer’s Impact’.
+52
+Letter Cannon to Owen, 23 May 2003, ‘Iraq: Meeting with Gerry Bremer’.
+46
+47
+
+14
+
+11.1  |  De-Ba’athification
+
+66.  On 22 May the AHMGIR met, chaired by Mr Straw.53
+67.  Briefing for the discussion stated that, although the eventual policy was more
+wide‑ranging than the UK had advocated, in practice Ambassador Bremer expected
+to “allow those judged ‘clean’ to be re‑employed”.54 The Cabinet Office author of the
+briefing wrote that the Order would mean that 33,000 people would be banned from
+public office in Iraq, and observed:
+“… this is more wide‑ranging than the senior level only policy (covering 5,000)
+officials we had advocated, and risks removing many essential but less culpable
+technocrats from their jobs.”
+68.  The AHMGIR concluded that the UK should “encourage the US to implement its
+policy on de‑Ba’athification pragmatically to avoid needlessly removing less culpable
+technocrats from key positions”.55
+69.  In a paper for Mr Blair dated 22 May, Major General Tim Cross, the most senior
+UK secondee to ORHA, the organisation which pre‑dated the CPA, referred to
+the recent de‑Ba’athification announcement as having “created some inevitable
+difficulties”, and counselled pragmatic application of the exemptions for “individuals
+who are engaged in crucial reconstruction areas, such as power generation/distribution,
+water/sanitation etc”.56
+70.  On 27 May, Mr Sawers reported that a new Iraqi de‑Ba’athification Council was
+“designed to give Iraqis a role in the de‑Ba’athification process, and advise Bremer
+on how to apply it in specific cases”.57 The Council was to be made up of 20 Iraqis,
+appointed by the Coalition.
+71.  Ambassador Bremer, in his account of leading the CPA, described the Council as an
+attempt “to engage responsible Iraqis from the start in the de‑Ba’athification process …
+to be sure we were focused on the right people” since the Coalition did not “know Iraq as
+well as the Iraqis themselves”.58
+72.  On 29 May, Mr Blair met Ambassador Bremer in Basra.59 Ambassador Bremer
+raised the need for more qualified staff in the CPA as a result of de‑Ba’athification.
+The record indicates that Mr Blair urged Ambassador Bremer to draw up a list of the
+staff he required and not to hesitate to ask for additional staff, which he described as
+“a political priority”.
+
+Minutes, 22 May 2003, Ad Hoc Group on Iraq Rehabilitation meeting.
+Annotated Agenda, 22 May 2003, Ad Hoc Group on Iraq Rehabilitation meeting.
+55
+Minutes, 22 May 2003, Ad Hoc Group on Iraq Rehabilitation meeting.
+56
+Letter Williams to Rycroft, 23 May 2003, ‘Iraq Reconstruction’ attaching Paper Cross, 22 May 2003,
+‘Iraq Reconstruction: Some Thoughts for the PM in his Discussions with President Bush’.
+57
+Telegram 22 IraqRep to FCO London, 27 May 2003, ‘Iraq: new ORHA initiatives’.
+58
+Bremer LP III & McConnell M. My Year in Iraq: The Struggle to Build a Future of Hope. Threshold, 2006.
+59 
+Letter Cannon to Owen, 29 May 2003, ‘Iraq: Prime Minister’s meeting with Bremer, 29 May’.
+53
+54
+
+15
+
+The Report of the Iraq Inquiry
+
+73.  In a telegram to the British Embassy Washington on 30 May, FCO officials wrote:
+“De‑Ba’athification and dismantling the institutions of the Ba’athist State are clearly
+necessary if we are to achieve our post‑conflict objectives. But so too is maintaining
+security. We are concerned that some aspects of the first, especially if it includes
+laying off without pay the regular army, may have an unnecessarily negative impact
+on the second, rather than the positive effects we need them to have.”60
+74.  The telegram continued:
+“We understand why Bremer has felt it necessary to take a tough line on
+de‑Ba’athification …
+“But there is a downside … we are concerned that de‑Ba’athification may be proving
+to be a blunt instrument. Our secondees working alongside the ministries are
+reporting that the de‑Ba’athification Order is catching Iraqi public servants who have
+shown themselves to be effective and willing to work with us in areas critical to the
+Coalition’s success – the police, for example.”
+75.  The FCO suggested that the problem should be addressed by the Coalition taking
+“a vigorously pragmatic approach to implementing the de‑Ba’athification Order” so that
+it provided an incentive to those who were not committed to Ba’athist ideology to work
+with the Coalition, for example allowing ex‑party members to be re‑employed on a
+probationary basis. The FCO noted that work was “in hand” to develop the machinery
+to implement the order.
+76.  The following day Sir David Manning reported to Mr Straw’s Principal Private
+Secretary that he had told Dr Rice and Mr Andy Card, President Bush’s Chief of Staff,
+over dinner that:
+“… we had worries about the de‑Ba’athification process. I was sure that it was
+right to signal that we were determined to break the Ba’ath Party and dismantle its
+structures. But we must be careful not to create a situation in which token Ba’athists
+were alienated from the Coalition because we denied them jobs, and a chance to
+contribute to post‑Saddam Iraq. If we made this mistake, we would create a large
+number of disaffected and hostile people who would quickly turn against us. The key
+was surely to be pragmatic. Now that Bremer had made his strong and necessary
+commitment to de‑Ba’athification, we should implement it pragmatically. We should
+think about operating a system whereby people stayed in their jobs until it was
+shown that their track record rather than a Ba’athist label made them a liability.”61
+
+60
+61
+
+Telegram 251 FCO London to Washington, 30 May 2003, ‘Iraq: Dismantling the Baathist State’.
+Letter Manning to McDonald, 1 June 2003, ‘Iraq: Conversation with Condi Rice’.
+
+16
+
+11.1  |  De-Ba’athification
+
+77.  On 2 June, Mr Blair met President Bush over breakfast.62 In his note reporting their
+discussion Sir David recorded Mr Blair’s analysis that the Coalition should be careful not
+to create a large pool of disaffected people by targeting those who had joined the Ba’ath
+Party simply to get a job.
+78.  Mr Blair argued that a clear political vision and timetable was needed, together with
+a media strategy to avoid a “dangerous” information vacuum.
+
+The Impact of Order No.1
+Writing in September 2003, Major General Freddie Viggers, the outgoing Senior British
+Military Representative ‑ Iraq, commented in his post‑tour report that “all but the hardliners
+are grateful that the Ba’athist regime has been removed”.63
+The RAND assessment of the Occupation of Iraq records that the initial reaction to the
+de‑Ba’athification order was enthusiastic.64 The authors cite polls in August 2003 reporting
+over 94 percent of the Iraqi population saying that either all or some Ba’athists should be
+removed from office65 and that 92 percent of Iraqis opposed the participation of former
+Ba’ath Party members in Iraq’s political institutions.66
+According to Mr Ali A Allawi, a Minister in both the Interim Iraqi Government and the Iraqi
+Transitional Government:
+“De‑Ba’athification in the early days of the CPA proceeded in a generally
+straightforward way. The vast majority of individuals caught in the round of dismissals
+were those who could be clearly identified in the higher levels of the Party ranks, and
+the case against them was clear cut.”67
+Hard Lessons commented:
+“Most Iraqis agreed that some de‑Ba’athification was necessary, but many believed
+that the CPA order had gone too far …
+…
+“Whatever its reach should have been, the consequences of the de‑Ba’athification
+order quickly became clear: it reduced the ranks of Iraq’s capable bureaucrats and
+thus limited the capacity of Iraqi ministries to contribute to reconstruction.”68
+
+Letter Manning to McDonald, 2 June 2003, ‘Breakfast meeting between the Prime Minister and
+President Bush: 2 June 2003’.
+63
+Minute Viggers to CDS & CJO, September 2003, ‘SBMR (I): End of tour report’.
+64
+Bensahel N, Oliker O, Crane K, Brennan RR Jr, Gregg HS, Sullivan T & Rathmell A. After Saddam:
+Prewar Planning and the Occupation of Iraq. RAND Corporation, 2008.
+65
+Iraq Center for Research and Strategic Studies, Results of the First Public Opinion Poll in Iraq,
+6 August 2003.
+66
+US Department of State, Iraqis Officer Dim Evaluation of Reconstruction Effort Thus Far.
+67
+Allawi AA. The Occupation of Iraq: winning the war, losing the peace. Yale University Press, 2007.
+68
+Bowen SW Jr. Hard Lessons: The Iraq Reconstruction Experience. U.S. Government Printing
+Office, 2009.
+62
+
+17
+
+The Report of the Iraq Inquiry
+
+Although it recognised the significance of the impact of de‑Ba’athification on the public
+sector in Iraq, the RAND report Occupying Iraq observed that the number of individuals
+who left office in the first three months of Occupation (10,000) was still less than the
+number of senior jobs normally vacated following a change of US Administration.69
+General the Lord Walker, Chief of the Defence Staff from May 2003 to April 2006, told the
+Inquiry that the removal of “a complete layer of administrative competence” was “not … a
+particular help”.70
+Mr Stephen Pattison, FCO Head of the UN Department until June 2003, told the Inquiry:
+“… we should have realised that without those officials we were going to struggle
+really hard to get this country going again and we should have reached out to those
+officials in order to bring them back in by offering them assurances about their
+pensions or their security or their jobs or whatever.”71
+Ms Emma Sky, Governorate Co‑ordinator for Kirkuk province in 2003, told the Inquiry
+that Major General Raymond Odierno (the US military commander responsible for the
+province) had given an amnesty to teachers and doctors on his own authority as a way
+of circumventing the Order.72
+Mr Andy Bearpark, the CPA’s Director of Operations, told the Inquiry:
+“… when I observed the effects of the [de‑Ba’athification] policy, I don’t believe that
+some of the effects of the policy were quite as severe as some of the critics of the
+policy point out, but that’s a belief or assertion on my part. I have no evidence to
+support it.”73
+In Mr Bearpark’s opinion, the issues that he encountered within the senior levels of the
+Iraqi Civil Service had more to do with personal rivalry than real concerns about Ba’athist
+control.
+Mr Chaplin and Mr Asquith, who both served as British Ambassador to Iraq, told the
+Inquiry that there was a sense of exclusion within the Sunni community as a result of
+de‑Ba’athification, because they felt that it affected their community disproportionately.74
+Mr Jonathan Powell told the Inquiry:
+“… it was a mistake to go so far with de‑Ba’athification. It is a similar mistake the
+Americans made after the Second World War with de‑Nazification and they had to
+reverse it. Once it became clear to us, we argued with the administration to reverse
+it, and they did reverse it, although with difficulty because the Shia politicians in the
+government were very reluctant to allow it to be reversed, and at the time we were
+being criticised for not doing enough de‑Ba’athification.”75
+
+Dobbins J, Jones SG, Runkle B & Mohandas S. Occupying Iraq: A History of the Coalition Provisional
+Authority. RAND Corporation, 2009.
+70
+Public hearing, 1 February 2010, page 24.
+71
+Public hearing, 31 January 2011, pages 22‑24.
+72
+Private hearing, 14 January 2011, pages 27‑29.
+73
+Public hearing, 6 July 2010, pages 83‑84.
+74
+Public hearing, 1 December 2009, page 88; Public hearing, 4 December 2009, page 19.
+75
+Public hearing, 18 January 2010, page 128.
+69
+
+18
+
+11.1  |  De-Ba’athification
+
+CPA Memorandum No.1
+79.  On 3 June, Ambassador Bremer signed CPA Memorandum No.1, which described
+the implementation of Order No.1 (de‑Ba’athification) and Order No.5 (creation of the
+Iraqi de‑Ba’athification Council).76
+80.  The Memorandum described an interim process for identifying Ba’ath Party
+members using Coalition military investigators. It said:
+“As the Administrator determines that the responsibility for identifying Ba’ath Party
+members effectively can be transferred to Iraqi citizens, the Administrator shall direct
+the Iraqi de‑Ba’athification Council to assume an increasingly significant role in
+carrying out the de‑Ba’athification process.
+“Initially, the Council will advise the Coalition on de‑Ba’athification policies and
+procedures …”
+81.  The Memorandum also established Accreditation Review Committees, to hear
+appeals and requests for exemption. Relevant factors for consideration would be:
+“… whether the individual:
+i.	 Is willing to denounce the Ba’ath Party and his past association with it;
+ii.	 Was a senior Ba’ath Party member or simply a ‘full’ party member;
+iii.	 Has exceptional educational qualifications;
+iv.	 Left the Ba’ath Party before April 16, 2003;
+v.	 Continues to command the support of his colleagues and respect of their
+subordinates;
+vi.	 Is judged to be indispensible to achieving important Coalition interests; at least
+in the immediate term;
+vii.	 Can demonstrate that he joined the party to hold his job or support his family.”
+82.  In early June, Sir Kevin Tebbit, MOD Permanent Under Secretary, reported that he
+had observed in a recent visit to Iraq that the implementation of the de‑Ba’athification
+policy was posing difficulties for UK personnel in the South but that “General Wall seems
+to think that he can work quietly to achieve the flexibility he needs without taking US
+policy head on.”77
+
+Coalition Provisional Authority Memorandum Number 1: Implementation of De‑Ba’athification
+Order No. 1.
+77
+Minute Tebbit to Secretary of State, 3 June 2003, ‘Visit to Basrah and Baghdad’.
+76
+
+19
+
+The Report of the Iraq Inquiry
+
+83.  Mr Blair and President Bush discussed de‑Ba’athification briefly when they spoke
+by telephone on 6 June.78 Mr Blair argued that the principle was right, but needed
+to be applied flexibly: “we should neither undermine public services by sacking key
+technocrats nor allow a class of resentful and desperate ex Ba’athists to build up.”
+84.  In his book State of Denial Mr Bob Woodward described General Jay Garner,
+the former Head of ORHA, telling Secretary Rumsfeld in June 2003 that the extent
+of de‑Ba’athification had been one of three “terrible mistakes” made in Iraq.79 In
+Gen Garner’s view, those mistakes were still reversible. Secretary Rumsfeld is reported
+to have responded: “We’re not going to go back.” Gen Garner did not make the same
+point in person to President Bush.
+85.  One of the UK’s priorities for the first 30 days of the CPA, produced by the IPU and
+circulated by Mr Straw on 5 June, was the need for:
+“… a pragmatic approach to dismantling the Ba’ath Party and the security apparatus.
+We need to destroy the system, not the people. Need to give people reasons to work
+with us, not against us: the prospect of work, of a basic income, the chance to find a
+place in the new Iraq.”80
+86.  Discussion at a meeting chaired by Mr Blair on 6 June (see Section 9.2) suggested
+that this was not being achieved.81 In both Baghdad and Basra de‑Ba’athification was
+listed as one factor in security problems.
+87.  On 9 June, Sir David Manning reported to Mr Straw’s Principal Private Secretary
+that he had told Dr Rice that:
+“… she should look again at the de‑Ba’athification programme. The draconian way in
+which it was being applied risked acting as a recruiting sergeant for the opposition. It
+had been right to take a tough line on the Ba’ath party; but it would be sensible now
+to impose it flexibly. We should adopt the approach that those who were not against
+us, were with us; rather than act as though we thought those who were not obviously
+with us were against us.”82
+88.  On 17 June, instructions from the IPU to Mr Sawers reflected a mounting concern
+about the extent of UK influence on decision‑making generally within the CPA.83 The
+IPU wrote:
+“Ministers remain deeply concerned about the lack of effective joint‑decision making
+with the US. With many decisions now being made in Baghdad, the ideal solution
+Letter Cannon to McDonald, 6 June 2003, ‘Iraq: Prime Minister’s Conversation with Bush, 6 June’.
+Woodward B. State of Denial. Simon & Schuster UK Ltd, 2006.
+80
+Minute Straw to Blair, 5 June 2003, ‘Iraq: Winning the Peace’, attaching ‘Iraq Reconstruction:
+30 Day priorities, 5 July 2003’.
+81
+Letter Cannon to McDonald, 6 June 2003, ‘Iraq: Prime Minister’s Meeting, 6 June’.
+82 
+Letter Manning to McDonald, 9 June 2003, ‘Iraq: Conversation with Condi Rice’.
+83
+Telegram 13 FCO London to IraqRep, 17 June 2003, ‘Iraq: Priorities’.
+78
+79
+
+20
+
+11.1  |  De-Ba’athification
+
+would be your agreeing a mechanism with Bremer whereby we become a joint
+signatory on any CPA decisions …
+“At the very least, we must be properly consulted on decisions. This may involve
+advocating the creation of a small policy body in which we are represented, to
+ensure that we have a say when you are not in town.”
+89.  Following a message from Baghdad reporting progress against the IPU’s list of
+priorities, the IPU wrote to Mr Sawers on 20 June:
+“While we agree on the need to act decisively to dismantle the Ba’athist state, we
+need to keep plugging away that it is the system, not the people forced to live in it,
+that we want to destroy.”84
+90.  On 24 June, Baroness Amos, the International Development Secretary, was asked
+about the policy of de‑Ba’athification in the House of Lords.85 Lord Wright asked whether
+it was true that the:
+“… apparent decision to exclude all former members of the Iraqi Ba’ath party,
+however junior, from working is not only causing unemployment to a very serious
+extent in Iraq but is excluding from the reconstruction process a number of highly
+qualified people who would be very ready to undertake those tasks?”
+91.  Baroness Amos replied:
+“… the de‑Ba’athification process is under constant discussion. No decisions have
+yet been taken. There was a concern that the first three levels should perhaps be
+excluded. The implications of that in terms of the administration in Iraq is being
+looked at. What we want to see is Iraqis working to reconstruct the country.”
+92.  On 25 June, in a telephone conversation with Mr Colin Powell, US Secretary
+of State, Mr Straw said that “de‑Ba’athification had gone too far” and the UK was
+concerned.86 He suggested that if the same approach had been taken in Germany
+after the Second World War, it would have taken a lot longer to establish a working
+democracy in West Germany. Secretary Powell agreed.
+
+Telegram 16 FCO London to IraqRep, 20 June 2003, ‘Iraq: Priorities’.
+House of Lords, Official Report, 24 June 2003, columns 132‑133.
+86
+Letter Straw to Manning, 26 June 2003, ‘Conversation with Colin Powell, 25 June’.
+84
+85
+
+21
+
+The Report of the Iraq Inquiry
+
+93.  Baroness Amos raised de‑Ba’athification when she met Ambassador Bremer at the
+end of June (see Section 9.2).87 A note of the meeting by her Private Secretary recorded
+that Baroness Amos had told Ambassador Bremer that she had:
+“… heard some say that this [the de‑Ba’athification process] was biting too deep in
+Ministries where large numbers of more senior public servants … might have been
+in the top 3 percent of the Ba’ath party, and so removed from post.”88
+94.  Mr Sawers’ telegram reporting his impressions of the visit said that Baroness Amos
+had told Ambassador Bremer that “the Iraqi women she had met all had horrific stories
+of family losses, and had mentioned to her the importance of the [de‑Ba’athification]
+policy”.89
+95.  Both accounts record Ambassador Bremer’s explanation that the policy was:
+“… the most popular decision the Coalition had taken. It had not cut deeply into
+ministries … it only applied in effect to Directors General. Virtually all the DGs for
+Administration had been given exemptions as they were necessary to administer
+public sector pay. There had been others where it was essential to the ministry
+and there was an important coalition interest. Bremer felt that the main problem
+was that lower level members of the Baath party feared that the policy embraced
+them too and that they would be unable to return to public sector jobs. This was not
+the case …”90
+96.  On 3 July, policy on de‑Ba’athification was raised again in the House of Commons.91
+In a debate following an Oral Statement on the humanitarian situation in Iraq, Ms Lynne
+Jones asked Mr Hilary Benn, Minister for International Development:
+“What action is being taken to distinguish between those Ba’athists who are loyal to
+Saddam Hussein and those who joined the Ba’ath party only from expediency, who
+do not have a record of corruption and abuse and can, therefore, contribute to the
+reconstruction of Iraq?”
+97.  Mr Benn replied:
+“It is vital that those who played a leading role in the old regime, and all that
+flowed from that, should be removed from their positions but, at the same time, the
+de‑Ba’athification policy should be sensibly applied because we need to ensure that
+services can continue to function. The CPA is extremely conscious of the position
+and needs to reflect on it as it takes the process forward.”
+
+Telegram IraqRep 56 to FCO London, 26 June 2003, ‘Iraq; Baroness Amos Visit’; Minute Bewes
+to Malik, 29 June 2003, ‘Meeting with Paul Bremer’.
+88
+Minute Bewes to Malik, 29 June 2003, ‘Meeting with Paul Bremer’.
+89
+Telegram 56 IraqRep to FCO London, 26 June 2003, ‘Iraq; Baroness Amos Visit’.
+90
+Telegram 56 IraqRep to FCO London, 26 June 2003, ‘Iraq; Baroness Amos Visit’.
+91
+House of Commons, Official Report, 3 July 2003, column 562.
+87
+
+22
+
+11.1  |  De-Ba’athification
+
+The role of the Governing Council
+98.  The Governing Council (GC) (also referred to as the Iraqi Governing Council (IGC))
+met for the first time on 13 July. Its creation is described in Section 9.2.
+99.  At the first meeting of the GC, Mr Sawers reported that Dr Chalabi specifically
+thanked Ambassador Bremer for his decision on de‑Ba’athification.92
+100.  In his account of the appointment of members of the Council, Mr Sawers reported:
+“Everyone on the Council was adamant that Ba’athists were totally unacceptable,
+and there is great praise here that we managed to exclude people who had
+compromised unacceptably with the Saddam regime. To have included them would
+have been like welcoming Nazis back into the German Government after WWII.”93
+101.  The CPA and GC had agreed the authorities of the Governing Council, which
+described its initial powers.94 They enabled the GC to make policy in all areas, including
+on de‑Ba’athification.
+102.  At the end of July, a junior UK official working in Baghdad reported to the FCO on
+plans to put an accelerated vetting process in place for the first set of senior appointees
+to public positions.95
+103.  The official wrote that, although substantive work on vetting was to be left until
+there was a new Iraqi Government in place, the Coalition had done some preparatory
+work. In that initial phase, the intention was that the criteria:
+“… will seek to disqualify from key posts only those guilty of crimes against the
+Iraqi people. They will be defined with care, taking account of the culture and
+methodology of Saddam Hussein’s repressive apparatus. Attention will also be paid
+to post‑communist legislation in the three ex‑CEE [Central and Eastern Europe]
+countries who have high‑level representatives in the CPA. Their personal views on
+the effectiveness of these laws will be listened to.”
+104.  The author of the telegram commented that he had hoped:
+“… to have these criteria embodied in a new Order … [to] supplement Order No.1
+on de‑Ba’athification … [which] might also have allayed the concerns of those Iraqis
+who doubt whether the CPA is being sufficiently robust with the remnants of the
+former regime (there is a fine line between achieving this and disqualifying – and
+possibly alienating – those with skills and experience the new Iraq needs).”
+
+Telegram 82 IraqRep to FCO London, 13 July 2003, ‘Iraq: Formation of the Governing Council’.
+Telegram 79 IraqRep to FCO London, 13 July 2003, ‘Iraq: Governing Council: Analysis and Comment’.
+94
+Telegram 81 IraqRep to FCO London, 13 July 2003, ‘Iraq: Governing Council: Authorities’.
+95
+Telegram 1 Security Affairs Iraq to FCO London, 27 July 2003, ‘Iraq Security Sitrep No.1’.
+92
+93
+
+23
+
+The Report of the Iraq Inquiry
+
+105.  The official wrote that the new Order had not happened because of a wider sense
+of sensitivity about work on Iraq’s intelligence agencies.
+106.  In late July Sir Jeremy Greenstock, who was to succeed Mr Sawers as the Prime
+Minister’s Special Representative on Iraq in September, had a bilateral meeting with
+the UN Special Representative, Mr Sérgio Vieira de Mello.96 During that discussion,
+Mr Vieira de Mello’s adviser had cautioned that “we should not over emulate post‑war
+Germany in the extreme to which we took de‑Ba’athification”.
+107.  According to the authors of the RAND report Occupying Iraq, in August 2003
+Ambassador Crocker was raising concerns with Ambassador Bremer about the differing
+ways in which the de‑Ba’athification policy was being implemented across Iraq.97 He also
+identified that it was affecting more than just hard‑core supporters of Saddam Hussein,
+and that procedures for making exceptions were slow.
+108.  Ambassador Crocker suggested transferring responsibility for the implementation
+of de‑Ba’athification to the GC, on the grounds that “an Iraqi body would be more
+sensitive to the nuances of the policy”. As a result, on 10 August Ambassador Bremer
+put a proposal entitled “Proposal for Implementing the Iraqi de‑Ba’athification Council”
+to the GC.
+109.  In early September Mr Blair’s Assistant Private Secretary recorded that he believed
+“flexible handling of de‑Ba’athification” was needed to avoid excluding potential recruits
+to the Iraqi police unnecessarily.98
+110.  Mr David Richmond, the Prime Minister’s Interim Special Representative on Iraq,
+reported on 4 September that Ambassador Bremer understood the need for flexibility
+on de‑Ba’athification, as did a senior Iraqi interlocutor; although they would be “closely
+watched by some members of the Governing Council who are strongly opposed to any
+concessions in this area”.99
+111.  On 8 September, in a House of Lords debate following an Oral Statement on Iraq
+and the Middle East, Baroness Symons, FCO Minister of State, commented:
+“The fact that so many senior Iraqi officials in all walks of life, whether civilian or
+military, were members of the Ba’ath party was a function of the old regime … in
+clearing out anyone who was a member of the Ba’ath party, a great deal of valuable
+expertise has been lost. I believe that we have now found a better balance on
+that issue.”100
+
+Telegram 1116 UKMis New York to FCO London, 23 July 2003, ‘Iraq: meeting with de Mello’.
+Dobbins J, Jones SG, Runkle B & Mohandas S. Occupying Iraq: A History of the Coalition Provisional
+Authority. RAND Corporation, 2009.
+98
+Letter Cannon to Adams, 2 September 2003, ‘Iraq: Briefing for Prime Minister’.
+99
+Telegram 150 IraqRep to FCO London, 4 September 2003, ‘Iraq: Briefing for Prime Minister’.
+100
+House of Lords, Official Report, 8 September 2003, column 49.
+96
+97
+
+24
+
+11.1  |  De-Ba’athification
+
+112.  In early September, the GC told Ambassador Bremer that it had formed the High
+National de‑Ba’athification Commission (DBC), under the chairmanship of Dr Chalabi,
+with Mr Nuri al‑Maliki as his deputy.101
+113.  On 17 September, Dr Chalabi reported to Ambassador Bremer that the
+Commission’s first two decisions had been to rescind the exemptions that had previously
+been issued to fourth‑tier Ba’athists and to extend the ban on public employment to
+include a wider range of public activities, including the media.
+114.  On 18 September, Sir Jeremy Greenstock, who had now arrived in Iraq, reported
+that the GC’s de‑Ba’athification Council had approved a resolution calling for the
+immediate firing of all high‑level Ba’ath Party members from Government service:
+“Bremer urged the IGC to co‑ordinate with the Ministry of Education to ensure that
+the process of teacher de‑Ba’athification was complete before the schools re‑open
+on 1 October. The general issue, which remains controversial, of how to manage
+exemptions is one that the IGC will soon have to engage on.”102
+115.  The following day, Sir Jeremy commented:
+“I find Bremer’s readiness to push the senior Iraqis to the front very interesting. We
+Brits think it the right tactic, but I expected more resistance from him. He continues
+to remind the GC eg when they produce ‘decisions’ on … de‑Ba’athification …
+that only he can sign things into law. But he does not seem fussed to be losing the
+substantive initiative …”103
+116.  By 2 October, Sir Jeremy was reporting that the issue of de‑Ba’athification had:
+“… not proceeded over the week, despite the mounting concerns of both the
+CPA and the GC. The harder‑line end of the GC demanded that senior remaining
+Ba’athists should be physically removed from the streets – not just their jobs – and
+quickly. Bremer reminded them that the CPA were still worried about due process,
+but had yet to receive clarification from the GC on what their recent decision meant.
+He asked for decisions on this soon.”104
+117.  On 4 November, Ambassador Bremer signed CPA Memorandum No.7.105
+118.  Memorandum No.7 transferred responsibility for the implementation of
+de‑Ba’athification to the GC, and enshrined in law the first two decisions of Dr Chalabi’s
+
+Dobbins J, Jones SG, Runkle B & Mohandas S. Occupying Iraq: A History of the Coalition Provisional
+Authority. RAND Corporation, 2009.
+102
+Telegram 174 IraqRep to FCO London, 18 September 2003, ‘Iraq: Governing Council Roundup’.
+103
+Telegram 175 IraqRep to FCO London, 19 September 2003, ‘Iraq: Political Process’.
+104
+Telegram 195 IraqRep to FCO London, 2 October 2003, ‘Iraq: Governing Council update 1 October’.
+105
+Coalition Provisional Authority Memorandum Number 7, 4 November 2003.
+101
+
+25
+
+The Report of the Iraq Inquiry
+
+Commission, rescinding all exemptions granted under CPA Order No.1 and extending
+the ban on public employment to wider involvement in public life.106
+119.  Sir Jeremy Greenstock reported on 6 November that the transfer of responsibility:
+“… worried regional commanders in the Sunni Triangle area. They expressed
+particular concern about the security implications of another round of dismissals in
+the public sector and the knock‑on impact. General Odierno put it bluntly: decisions
+from Baghdad that alienated local populations led to his soldiers getting killed.”107
+120.  Having read Sir Jeremy’s message, the IPU’s view was that the decision to hand
+full control of de‑Ba’athification to the GC “could result in further instability … we would
+wish to see a more pragmatic approach”.108
+121.  Reporting from Baghdad, Sir Jeremy wrote that he continued to urge a flexible
+approach to de‑Ba’athification.109 His messages indicate that Ambassador Bremer
+agreed with this, though “the IGC wanted tougher de‑Ba’athification”.
+122.  In late November, the head of the Iraqi National Movement, Mr Hatim Mukhlis,
+told Sir Jeremy that the de‑Ba’athification policy and disbanding the Iraqi Army had
+been mistakes:
+“Rather than de‑Ba’athification … Iraq needed a truth and reconciliation committee.
+The Ba’ath Party has been a career route for many people. Those who had
+committed atrocities or crimes had to be held to account. But many members were
+intellectuals and professionals. What was required was time for wounds to heal, but
+the opposite was happening, and this was being exacerbated by militia activity. The
+CPA could exert pressure on the IGC and influence the de‑Ba’athification process,
+which was wrong.”110
+123.  According to the RAND report Occupying Iraq, on 9 December Ambassador
+Bremer:
+“… informed all CPA civilians and Coalition military personnel, ‘de‑Ba’athification is
+now an Iraqi process … immediately cease any involvement in de‑Ba’athification’.”111
+
+Dobbins J, Jones SG, Runkle B & Mohandas S. Occupying Iraq: A History of the Coalition Provisional
+Authority. RAND Corporation, 2009.
+107
+Telegram 252 IraqRep to FCO London, 6 November 2003, ‘Iraq Regional Coordinators and
+Commanders Meeting’.
+108
+Minute King‑Smith to Buck, 7 November 2003, ‘Iraq: CPA Strategic Plan’.
+109
+Telegram 176 Baghdad to FCO London, 8 November 2003, ‘Iraq; Sir Nigel Sheinwald’s Call on Bremer’.
+110
+Email Alkadiri [ORHA] to FCO [junior official], 24 November 2003, ‘Sir Jeremy Greenstock and David
+Richmond’s meeting with Hatim Mukhlis (CEO‑Iraqi National Movement) 21 November, 2003’.
+111
+Dobbins J, Jones SG, Runkle B & Mohandas S. Occupying Iraq: A History of the Coalition Provisional
+Authority. RAND Corporation, 2009.
+106
+
+26
+
+11.1  |  De-Ba’athification
+
+124.  On 12 December, in a telegram to the FCO on strategy for engaging the Sunni
+community, Mr David Richmond, now Deputy Special Representative on Iraq, wrote that
+it was essential that:
+“The possibility of de‑Ba’athification … distinguish[ed] between senior/criminal
+elements and those whose party affiliation was obligatory or nominal. The CPA
+almost certainly made a mistake in handing this issue to the IGC. Most IGC
+members are hard‑liners more interested in rooting out Ba’athists wherever they
+can be found and excluding all former Ba’ath Party members from standing for
+elections to the TNA [Transitional National Assembly] than in reconciliation. Not all
+Sunnis were Ba’athists but this is bound to cause further alienation. I have spoken
+to Bremer about this. He is ready to make clear to the IGC that sweeping exclusions
+are unacceptable and that the economic and security consequences have to be
+considered”.112
+125.  In January 2004, the GC published procedures for the implementation of
+de‑Ba’athification.113 They confirmed that all individuals working in the public sector
+who fell into the following categories were to be dismissed immediately if they had not
+already been removed from office:
+
+•	
+•	
+
+those in the top four tiers of Ba’ath Party membership;114 and
+those in the top three tiers of public sector management qualifying as member
+or active member (less senior Ba’athists).
+
+126.  Those in the top three tiers of Ba’ath Party membership would have no opportunity
+for appeal. A formal appeal mechanism was put in place for:
+
+•	
+•	
+
+those in the fourth tier of Ba’ath Party membership; and
+those in the top three layers of public sector management who had not been
+senior Ba’athists.
+
+127.  Appeals were to be held in two stages; first by local de‑Ba’athification Review
+Committees (established by the relevant ministry, in each governorate area) and then
+by Dr Chalabi’s Higher National de‑Ba’athification Commission. Appeals could be either
+on factual grounds (for example, that the individual had been mistakenly identified as
+a senior Ba’ath Party member but had not in fact been one), or on broader grounds
+regarding the degree to which the individual subscribed to the ideals of the former
+regime. The criteria against which commitment to the regime would be judged were:
+
+•	
+
+whether the employee had renounced Ba’ath Party membership;
+
+Telegram 306 IraqRep to FCO London, 12 December 2003, ‘Iraq: Sunni Strategy’.
+Talmon, S. The Occupation of Iraq: Volume II The Official Documents of the Coalition Provisional
+Authority and the Iraqi Governing Council. Hart Publishing, 2013.
+114
+Defined as Udw Qutriyya (Regional Command Member), Udw Far (Branch Member), Udw Shu’bah’
+(Section Member) and Udw Firqah (Group Member).
+112
+113
+
+27
+
+The Report of the Iraq Inquiry
+
+•	
+•	
+•	
+•	
+•	
+•	
+
+the circumstances under which the employee became a Ba’ath Party member
+and was promoted to the fourth tier of membership;
+employment history, including links to Ba’athist military, intelligence or security
+services;
+whether during their time in office the employee was dedicated to furthering the
+goals of the Ba’ath Party;
+any illegal activities by the employee;
+whether the skills of the employee were rare or replaceable; and
+whether the individual had attained fourth‑tier membership solely as a result of
+having been a prisoner of war in the Iran‑Iraq conflict (there was a presumption
+that this group of individuals should retain their employment).
+
+128.  Appeals to the local de‑Ba’athification Review Committees were to be processed
+within six weeks. A panel of two judges, nominated by the Iraqi Council of Judges and
+approved by the GC, would sit on Dr Chalabi’s Commission for the purpose of hearing
+appeals, and one of these would be required to agree and sign the appeal decision.
+Exemptions to the bar on public employment could be granted either for life or for
+a one‑year probationary period. A probationary exemption could be revoked if the
+individual was found to have fabricated evidence, if new evidence came to light, or
+if the individual re‑engaged in Ba’athist activities.
+129.  Sir David Manning, who had been appointed British Ambassador to the US,
+reported a member of the Department of Defense describing the new appeal process
+as “a step forward”.115
+130.  Ambassador Bremer told the Inquiry that “it was a mistake for the CPA to devolve
+the implementation of the de‑Ba’athification programme to Iraqi politicians who then
+attempted to broaden the decree’s effect”.116 He suggested that a wiser move would
+have been to set up a judicial panel to oversee implementation.
+
+De‑Ba’athification in the Transitional Administrative Law
+131.  In early February 2004, Sir Jeremy Greenstock reported that Ambassador Bremer
+had been lobbying the GC President on the need to ensure that the provisions in the
+Transitional Administrative Law (TAL) on who could qualify to stand for election to the
+Transitional National Assembly were not drawn too tightly and did not exclude junior
+Ba’athists or those who had been exempted by Dr Chalabi’s Commission from standing
+for election.117 The development of the TAL is covered in Section 9.2.
+
+Telegram 75 Washington to FCO London, 16 January 2004, ‘Visit of the House of Commons Defence
+Committee to the US, 11‑15 January’.
+116
+Statement Bremer, 18 May 2010, page 5.
+117
+Telegram 032 IraqRep to FCO London, 2 February 2004, ‘Iraq: Political Process: TAL Update’.
+115
+
+28
+
+11.1  |  De-Ba’athification
+
+132.  On 4 February, in response to a question from Mr Llew Smith, Mr O’Brien told the
+House of Commons that:
+“The process of de‑Ba’athification is an Iraqi led process. Guidelines were
+announced by the Iraqi Governing Council on 11 January and provide a clear
+framework for this process. The Transitional Administrative Law, which will include
+the criteria for nomination to the Transitional National Assembly, is in the final
+stages of drafting. It is likely to follow the existing practice that nominees shall
+not have been a member of the dissolved Ba’ath Party at the rank of Division
+Member … [the fourth tier of membership] or higher – unless exempted by the
+National De Ba’athification Commission – or a member of the past agencies of
+repression, or one who participated in the oppression of citizens.”118
+133.  The TAL published on 8 March contained the following restrictions on former
+members of the Ba’ath Party:
+
+•	
+•	
+
+Senior members (fourth tier and above) were not eligible to stand unless they
+had been successful in their appeal to the de‑Ba’athification Commission.
+“Full” members would be required to renounce the Ba’ath Party and swear they
+had no further dealings or connections with Ba’athist organisations.119
+
+134.  In late March, Sir Jeremy Greenstock reported to the FCO in London, following
+a discussion between his staff and Ambassador Bremer, that:
+“Bremer remains committed to de‑Ba’athification but believes that Chalabi has
+abused the process by emphasising its retributive elements and ignoring the appeals
+procedures … Given the fragile security situation … Bremer is keen to make the
+process appear as independent and fair as possible.”120
+135.  Sir Jeremy reported that Ambassador Bremer was considering taking responsibility
+for de‑Ba’athification away from the GC, and giving it to an independent body. As a
+first step, he intended to write to Dr Chalabi, asking for changes to de‑Ba’athification
+procedures.
+136.  In April, Mr Dominic Asquith, Deputy Chief Commissioner in the CPA, reported
+that Ambassador Bremer was seeking to expedite efforts to address Sunni concerns,
+in particular taking “steps designed to make the [de‑Ba’athification] process appear less
+partisan by taking responsibility for the process away from Ahmed Chalabi … he also
+wants blanket exemptions for teachers”.121
+
+House of Commons, Official Report, 4 February 2004, column 907W.
+Iraqi Transitional Administrative Law, 8 March 2004, Articles 31(B)(2) and (3).
+120
+Telegram 107 IraqRep to FCO London, 25 March 2004, ‘Iraq: de‑Ba’athification progress’.
+121
+Telegram 181 IraqRep to FCO London, 21 April 2004, ‘Iraq: Sunni Politics’.
+118
+119
+
+29
+
+The Report of the Iraq Inquiry
+
+137.  There had been “opposition to Bremer’s ideas on de‑Ba’athification on a local
+level” from Shia politicians. In addition, Mr Asquith reported that:
+“Washington have also sought to hobble Bremer’s efforts. Principals prohibited him
+from giving a speech on 16 April outlining the new initiatives as part of a broader
+national reconciliation speech … According to Bremer, senior US officials want the
+message delivered by an Iraqi, and failing that Rumsfeld.”
+138.  Ambassador Bremer made a speech in Baghdad addressed to the Iraqi people
+on 23 April.122 He said:
+“… many Iraqis have complained to me that de‑Ba’athification policy has been
+applied unevenly and unjustly. I have looked into these complaints and they are
+legitimate. The de‑Ba’athification policy was and is sound. It does not need to be
+changed. It is the right policy for Iraq. But it has been poorly implemented.”
+139.  As a result, Ambassador Bremer announced that he had agreed with the Iraqi
+Ministers of Education and Higher Education, and with Dr Chalabi, that “decisions made
+by local appeals committees of the Ministry of Education will be effective immediately.
+This will allow thousands of teachers to return to work. Thousands more will begin
+receiving pensions this week.” Arrangements had also been put in place to speed up
+appeals that were still in the system.
+140.  General Sir John McColl, who served as the Senior British Military Representative
+– Iraq from April to October 2004, told the Inquiry that the adaptation of how
+de‑Ba’athification was implemented was “a welcome development”.123
+141.  On the eve of Ambassador Bremer’s speech, CNN quoted a State Department
+spokesman saying “we are working to try to develop an equitable solution to address the
+widely divergent activities of former Ba’athist party members.”124 The same article also
+quoted Secretary Rumsfeld stating “the remnants of Saddam Hussein’s regime know
+they have no future in a free Iraq”.
+142.  The GC issued a statement on 25 April indicating that its policy on
+de‑Ba’athification had not changed, nor was there any intention to change it.125 It
+confirmed that the statements in Ambassador Bremer’s speech were “in agreement
+with the views of the Governing Council and with the Supreme National Commission
+on de‑Ba’athification”. The statement continued:
+“Even as the Governing Council draws attention to the positive work of the Supreme
+National Commission for De‑Ba’athification, it notes the necessity of distinguishing
+
+Speech L. Paul Bremer III, 23 April 2004, ‘Turning the Page’.
+Public hearing, 8 February 2010, pages 20‑21.
+124
+CNN World, 22 April 2004, From ‘de‑Ba’athification’ to ‘re‑Ba’athification?’
+125
+Statement Governing Council, 25 April 2004.
+122
+123
+
+30
+
+11.1  |  De-Ba’athification
+
+between criminal Ba’athists and those Ba’ath Party members who were not
+criminals …”
+143.  In late April, Sir David Manning reported from Washington that de‑Ba’athification
+was featuring regularly in US media comment on Iraq:
+“Most commentators have portrayed Bremer’s new instructions to the IGC as
+a long‑overdue reversal of a fundamental error, and an attempt to clip Ahmed
+Chalabi’s wings. Chalabi put a different spin on the decision … arguing that Bremer
+had not changed the policy, but had agreed with the de‑Ba’athification Commission
+on the need to speed up the appeals process.”126
+144.  On 20 May, during one of their regular video conferences, Mr Blair proposed
+to President Bush that they should look at the approach to de‑Ba’athification.127 He
+suggested that there were probably a few individuals who could play a role in “calming
+the Sunnis”.
+145.  Mr Richmond’s assessment, at the end of May, was that “implementation of
+Bremer’s initiative to alleviate the consequences of de‑Ba’athification has been slow”.128
+However, the appeals process was working, and was having significant results in the
+education sector.
+146.  In higher education, there had been 1,681 appeals, of which 750 had been
+successful already and the remainder were expected to be granted shortly.
+147.  In the primary and secondary education sector, 12,000 employees had been
+removed under the de‑Ba’athification rules, around 9,000 of whom were entitled to
+appeal. So far, 4,600 had appealed successfully and a further 1,300 successful appeals
+were expected by the end of the month, although there were significant variations
+between governorates: “Several southern governorates, including Najaf and Nasiriyah,
+have reported that local political and community groups blocked the appeals process.”
+148.  Set against that progress, there were not always jobs available for those who were
+reinstated. Within the university sector, a number of posts had been filled and vacancies
+no longer existed. Elsewhere, reinstated teachers were “facing competition for jobs from
+some 6,000 colleagues who had been removed by Saddam for political reasons and are
+now eligible to return to work”.
+
+Telegram 530 Manning to FCO London, 27 April 2004, ‘Iraq: The Public Debate, 26 April’.
+Letter Quarrey to Owen, 20 May 2004, ‘Prime Minister’s VTC with Bush, 20 May: Iraq’.
+128
+Telegram 257 IraqRep to FCO London, 26 May 2004, ‘Iraq: de‑Ba’athification Update’.
+126
+127
+
+31
+
+The Report of the Iraq Inquiry
+
+149.  Mr Richmond observed that Dr Chalabi had “continued to try to interfere” and
+that the “patchy follow up” meant that “we are in danger of yet again appearing not to
+be delivering on our promises”. He cautioned that it might be necessary to revisit the
+original de‑Ba’athification orders:
+“… as they give a government broad scope to arrest and detain suspected Ba’athists
+for security purposes. Applied punitively, the order could legitimate the type of
+mass arrests already proposed by some serving ministers. This would have serious
+repercussions, especially among the Sunni community.”
+150.  In a debate in the House of Commons on 7 June, Mr Donald Anderson asked
+Mr Straw whether the Government supported a statement by Dr Allawi that “there should
+be greater progress towards finding places in the new Iraq for former Ba’athists who are
+not guilty of human rights abuses”.129
+151.  Mr Straw told the House of Commons:
+“As for progress on the absorption of former Ba’ath party members who are not
+implicated in the excesses of the regime, we strongly agree with Prime Minister
+Allawi, and that view is now shared by the United States Government.”
+
+The Interim Iraqi Government
+152.  On 28 June 2004, the CPA formally handed over to a sovereign Iraqi Government.
+In the 11 months that followed, the governance of Iraq was the responsibility of the
+Interim Iraqi Government (IIG), headed by Prime Minister Ayad Allawi. The process of
+establishing the IIG, and its membership, is described in Section 9.3.
+153.  On 30 June, the Joint Intelligence Committee (JIC) assessed that:
+“Former Ba’athists are attempting to reorganise both military and political structures.
+The attitude of the IIG to former Ba’athists will be key in gaining support in Sunni
+Arab areas and discouraging hardliners from attacking the political process or
+coalescing with Islamist terrorists. But Allawi’s efforts to draw Ba’athists into
+the political process will need to be carefully judged if he is to avoid alienating
+the Shia.”130
+154.  On 1 July, Saddam Hussein and 11 other senior Ba’athists appeared in front
+of an Iraqi court convened at the Camp Victory court martial facility in Baghdad.131
+
+House of Commons, Official Report, 7 June 2004, column 26.
+JIC Assessment, 30 June 2004, ‘Iraq Security’.
+131
+Telegram 006 Baghdad to FCO London, 1 July 2004, ‘Iraq: High Value Detainees:
+First Court Appearance’.
+129
+130
+
+32
+
+11.1  |  De-Ba’athification
+
+155.  The presiding judge advised all 12 of the crimes they were accused of having
+committed. Mr Chris Segar, Head of the British Office Baghdad, reported that:
+“… under Iraqi law this was a first step in which the accused is informed that there
+are allegations against him which deserve investigation, which allow for continued
+detention and that he has a right to legal counsel.”
+156.  On 2 July, the Cabinet Office Assessments Staff told Sir Nigel Sheinwald, Mr Blair’s
+Foreign Policy Adviser, that there were indications that former Ba’athist groups were
+planning targeted attacks on Iraqi Government ministers.132
+157.  On 5 July, the Assessments Staff provided Sir Nigel with statistics on the number
+of attacks against the Multi‑National Force (MNF) and Iraqi targets.133 It was too early
+to judge the lasting impact of creating the IIG on the security situation.
+158.  On 12 July, Mr Hoshyar Zebari, the new Iraqi Foreign Minister, told a meeting of
+EU Foreign Ministers that:
+“The original policy of de‑Ba’athification has been right but too generalised. He had
+ex‑Ba’athists in his ministry though not those who had been involved in intelligence
+or atrocities. Ex‑Ba’athist insurgents were now in isolated groups. They did not
+represent a coherent force.”134
+159.  In one if its regular assessments of security in Iraq, the JIC judged on 21 July that
+Prime Minister Allawi had achieved only limited success in his attempts to bring former
+Ba’athists “on board”.135 In the absence of a single Ba’athist organisation with which
+to negotiate, that would remain the case. Reports of plans to carry out assassinations,
+including of IIG members, continued.
+
+The Amnesty Order
+160.  In early August, Prime Minister Allawi signed an order that offered amnesty to
+those who had played more minor roles in Iraq’s insurgency between 1 May 2003 and
+7 August 2004.136 Mr Asquith reported:
+“Amnesty is only provided to Iraqis and only for a limited number of
+terrorism‑associated crimes: possession of certain firearms and explosives,
+the harbouring of terrorists or the failure to inform the authorities of known
+terrorist groups.”
+
+Minute Dowse to Sheinwald, 2 July 2004, ‘Iraq Update – 2 July’.
+Minute Dowse to Sheinwald, 5 July 2004, ‘Iraq Attack Statistics’.
+134
+Telegram COREU CFSP/Sec/1509/04, 12 July 2004, ‘COMIN‑COPOL – Foreign Ministers’ Lunch with
+Iraqi Foreign Minister Mr Zibari’.
+135
+JIC Assessment, 21 July 2004, ‘Iraq Security’.
+136
+Telegram 112 Baghdad to FCO London, 9 August 2004, ‘Iraq: Amnesty Law and Death Penalty
+Announced’.
+132
+133
+
+33
+
+The Report of the Iraq Inquiry
+
+161.  A second order was also announced which re‑introduced the death penalty for
+around 30 crimes. Most of those crimes related to actions which resulted in the death
+of another person, but the list also included:
+“… where there has been an armed uprising against the armed forces; where
+an armed uprising aims to invade another country or seize public property; and
+the distribution of narcotics with the aim of aiding those trying to overthrow the
+Government by force. It also introduces a law that imposed the death penalty on
+kidnappers who seek to broadcast pictures of their victims.”
+162.  Mr Asquith judged that the order “reflected Allawi’s belief that the insurgents
+needed to have brought home to them the consequences of their actions”.
+163.  USA Today reported that in relation to the amnesty order:
+“Allawi said:
+“This order has been established to allow our citizens to rejoin civil society and
+participate in the reconstruction of their country and the improvement of their lives,
+instead of wasting their lives pointlessly towards a lost cause …
+“Iraqi officials had earlier said the amnesty might extend to those who had killed US
+and other coalition troops.”137
+164.  FCO officials had seen a draft of the amnesty order in July at which point it covered
+“both Iraqis and foreigners”.138
+165.  On 9 August, Mr Asquith reported to the FCO that Prime Minister Allawi had been
+“reaching out to Ba’athists inside and outside the country”.139 Some had been prepared
+to talk but “there was too little time before [elections in] January to put in place a political
+party that could represent them and be accepted by the rest of Iraq”.
+166.  During a discussion with Sir Nigel Sheinwald on 8 September, Prime Minister
+Allawi reported “variable success” on drawing people away from the insurgency.140 He
+explained: “The Sunni should not feel they had lost power. Some would help to resist
+radical Islamist forces if they were brought back into the fold.”
+167.  When Mr Blair visited Iraq 11 days later, Prime Minister Allawi told him that he had
+spoken to “a number of ex‑Ba’athists in the region – Yemen, UAE and Jordan. They
+were ready to talk.”141 He hoped that a conference would be convened in Jordan to make
+to make it clear that they were ready to “move on and re‑engage”.
+
+USA Today, 7 August 2004, Iraq passes amnesty law for minor players in insurgency.
+Minute Cabinet Office [junior official] to Sheinwald, 13 July 2004, ‘Iraq Strategy Group’.
+139
+Telegram 107 Baghdad to FCO London, 9 August 2004, ‘Iraq: Security: Prime Minister’s Views’.
+140
+Letter Quarrey to Owen, 9 September 2004, ‘Nigel Sheinwald’s meeting with Allawi, 8 September’.
+141
+Letter Sheinwald to Adams, 19 September 2004, ‘Iraq: Prime Minister’s Meeting with Prime Minister
+Allawi, Sunday 19 September’.
+137
+138
+
+34
+
+11.1  |  De-Ba’athification
+
+168.  On 7 October, the JIC assessed that:
+“A number of former senior Ba’athists formed the New Regional Command (NRC) in
+the early summer, based in Damascus with members in Iraq, Lebanon, Jordan and
+the Gulf states. The NRC maintains links to a number of insurgent groups and may
+provide some strategic military and political direction and funding. But the scope
+and scale of its influence is not clear and, whatever its aspirations, the NRC has not
+yet developed a coherent or widespread Sunni following. Many, if not most, Sunni
+Arab insurgents are happy to oppose the coalition but are not part of any efforts to
+reinvigorate the Ba’ath party.”142
+169.  On 11 October, Mr Straw’s Private Secretary told Mr Blair’s Private Secretary that:
+“We plan to work on Iraq’s neighbours to support Allawi’s efforts to detach former
+Ba’athists from the insurgency and persuade them to run for elections. Allawi told
+us in London that he was hoping to arrange a conference of former Ba’athists in
+Amman in October.”143
+170.  At the end of October, the JIC assessed that:
+“Intelligence indicates a number of former Ba’athist groups are operating, but not
+necessarily in a co‑ordinated fashion.”144
+171.  On 11 November, the JIC reported that although there was no overall co‑ordination
+of the insurgency:
+“Some intelligence suggests that the Syria‑based Ba’athist new Regional Command
+is becoming more influential.”145
+
+A draft new de‑Ba’athification Order
+172.  On 4 December, the British Embassy Baghdad sent the FCO an account of
+a meeting between Mr Gavin Hood, the Embassy’s Legal Adviser, and Dr Fadel
+Jamal Kadhum, Legal Adviser to Prime Minister Allawi.146 They had discussed a new
+de‑Ba’athification Order.
+173.  The report of the meeting said that the effect of CPA Orders No.1, 2 and 5 had
+been to remove an estimated 35,000 people from their posts, of whom 15,000 had so far
+been allowed to return. A further 700 had been offered retirement and 8,000 applications
+for “rehabilitation” remained outstanding. Dr Chalabi’s Commission had removed a
+further 3,000 individuals from office.
+
+JIC Assessment, 7 October 2004, ‘Iraq Security: External Support for Insurgents”.
+Letter Owen to Quarrey, 11 October 2004, ‘Iraq: Contingency Planning’.
+144
+JIC Assessment, 27 October 2004, ‘Iraq: A Long Term Insurgency Problem’.
+145
+JIC Assessment, 11 November 2004, ‘Iraq Security – Current Concerns’.
+146
+eGram 452 Baghdad to FCO London, 4 December 2004, ‘Iraq: ‘Re‑Ba’athification’.
+142
+143
+
+35
+
+The Report of the Iraq Inquiry
+
+174.  Prime Minister Allawi’s Legal Adviser told Mr Hood that the new Order had
+been drafted on the instructions of Prime Minister Allawi, who judged that returning to
+public service might prevent thousands of disaffected former Ba’athists supporting the
+insurgency. The philosophy behind the Order was “punish an individual for their crimes
+and not their ideology”. It had been approved by the Council of Ministers but not yet by
+the President and was unlikely to be signed before the election.
+175.  The draft Order, which Mr Hood was not shown, was said to:
+
+•	
+•	
+
+disband the de‑Ba’athification Commission;
+
+•	
+
+establish a new judicial Commission to investigate allegations of such crimes.
+
+allow all those removed by the CPA to return to their posts, unless that post was
+judged to be sensitive or senior (Director General and above) or they were found
+to have committed a “crime against the Iraqi people” (undefined); and
+
+176.  The report ended:
+“Allawi right to see some modification of the de‑Ba’athification process as a
+necessary part of promoting national unity, but amending the rules can only be
+credibly done by some form of elected government and preferably as part of a wider
+initiative on transitional justice.”
+177.  In the form described, the Embassy judged that the Order would “lead to an outcry
+from across Iraqi society” with vigilantism expected to follow.
+178.  After visiting Iraq in December 2004, Mr Dominic Asquith, FCO Iraq Director,
+commented that in order to achieve political reconstruction and Iraqiisation by early
+2006:
+“One answer is gradually to incorporate – if necessary into the less sensitive
+areas to begin with – experienced Ba’athists (ex or otherwise) prepared to opt into
+government and security structures, separating ‘those who served’ from ‘those who
+served the previous regime’, while ensuring the appointments survive the transition
+to the new government. Established vetting procedures will be key, but the work
+done by British experts in CPA days has strangely disappeared from view.”147
+
+Former Ba’athists and the Sunni insurgency
+179.  In January 2005, the Defence Intelligence Staff judged:
+“Within the Arab Sunni community there are a number of former senior military
+officers and Ba’ath Party officials who remain intrinsically opposed to anything other
+than the full restoration of the Ba’ath Party and, in many cases, their own positions
+of power. Prominent among this group are the New Regional Command (NRC), but
+there are probably further independent actors and organisations not yet identified …
+147
+
+Minute Asquith to Owen, 20 December 2004, ‘Visit to Iraq, 13‑17 December’.
+
+36
+
+11.1  |  De-Ba’athification
+
+It is important to note that the majority of former regime elements and Ba’athists may
+not be ‘restorationists’.”148
+180.  On 19 January, the JIC assessed that Sunni turnout in elections might be as low as
+one‑third of the eligible voters, which would give a disproportionately low representation
+to Sunni Arabs in the elected institutions.149 The policy implication of this was, in the
+JIC’s view, that “Sunni outreach will need to intensify after the elections to ensure that
+Sunnis do not opt out of the political and constitutional drafting process altogether”.
+181.  In early February, the JIC judged that the “hard core and most effective” Sunni
+Arab insurgents were former Ba’athists, but the bulk of those involved were simply
+disaffected Iraqis “most of whom probably have no long‑term political objectives”.150
+
+The Transitional National Assembly’s de‑Ba’athification
+policy
+182.  Elections for the Transitional National Assembly (TNA) and for Provincial
+Assemblies took place across Iraq on 30 January 2005.151 Results were announced
+on 13 February.152
+183.  On 7 April, the Assembly elected its first Speaker and swore in the future
+Presidential Council and Prime Minister, Dr Ibrahim al‑Ja’afari, of the Dawa Party.153
+Prime Minister Designate Ja’afari presented the majority of his Cabinet to the TNA for
+ratification on 28 April and took office on 3 May.154 The elections and their outcome are
+described in more detail in Section 9.3.
+184.  On 23 February, Mr Tim Torlot, Deputy Head of Mission at the British Embassy
+Baghdad, called on Dr Ja’afari and explained that the UK saw merit in a “National
+Reconciliation Conference” which might demonstrate the Transitional Government’s
+commitment to a fully inclusive political process.155 Dr Ja’afari endorsed the idea, but
+preferred “National Dialogue Conference” because:
+“… too many people now associated the word ‘reconciliation’ with co‑operation
+with former Ba’athists or criminals. Such a meeting could involve anyone who was
+prepared to renounce violence.”
+185.  A UK strategy for Iraq in 2005 co‑ordinated by the Cabinet Office in February
+2005 suggested that “resolving the de‑Ba’athification dilemma to allow Security Sector
+Report DIS, 7 January 2005, ‘Nature of the Insurgency in Iraq’.
+JIC Assessment, 19 January 2005, ‘Iraq: Elections Update’.
+150
+JIC Assessment, 3 February 2005, ‘Iraq: Insurgency and Counter‑Insurgency’.
+151
+Public hearing Chaplin, 7 December 2009, page 12.
+152
+Telegram 99 Baghdad to FCO London, 13 February 2005, ‘Iraq: Provisional Election Results’.
+153
+BBC News, 7 April 2005, Talabani: Iraq’s pragmatic new leader.
+154
+eGram 3590/05 Baghdad to FCO London, 28 April 2005, ‘Iraq: New Cabinet Ratified by the TNA’.
+155
+Telegram 114 Baghdad to FCO London, 23 February 2005, ‘Iraq: Call on Ja’afari, UIC Nominee for
+Prime Minister, 23 February’.
+148
+149
+
+37
+
+The Report of the Iraq Inquiry
+
+Reform to work” was a key element of supporting the Iraqi Security Forces to deliver
+security.156 The strategy also recommended that the UK should “encourage the ITG [Iraqi
+Transitional Government] to relax the rules on de‑Ba’athification as a way of drawing
+disaffected former Army officers and officials back into the system”.
+186.  In early March, senior US and UK officials discussed the strategy for Iraq in
+2005.157 They identified that, in order to modify the current policy, “one option might be
+to shift de‑Ba’athification from a political to a quasi‑judicial process”. Mr Asquith said
+that de‑Ba’athification was likely to be on the agenda of the new government at an early
+stage and so “we should start engaging the likely key players … at this stage before
+their views became settled”.
+187.  A few days later, Mr Charles Heatly (a No.10 Press Officer who had returned from
+a secondment in Iraq, where he had been working in Prime Minister Allawi’s office)
+advised Mr Blair that one of the key points for UK engagement with the new government
+should be: “Minimising the fall‑out from de‑Ba’athification etc. On our side, we should
+continue to monitor carefully, and advise caution.”158
+188.  In late March, Mr Straw also identified the “enormous damage that could be done
+to efforts at outreach by a significant renewal of the de‑Ba’athification drive” as one of
+the messages being given to the United Iraq Coalition, which had gained the highest
+number of seats in January’s election.159
+
+The new Government takes office
+189.  On 6 May, Mr Chaplin reported to the FCO on prospects for Prime Minister
+Ja’afari’s government.160 He identified “how to square the zeal for renewed
+de‑Ba’athification in the army, police and ministries with maintaining effective forces to
+fight the insurgency” as an early challenge. Mr Chaplin reported assurances from Prime
+Minster Ja’afari that he would only pursue individuals “who have crimes to answer for”.
+190.  On 5 July, Mr Straw wrote to Mr Blair about the Iraqi Constitution.161 He reported
+that the timetable remained “tight, but doable”. The UK would need to maintain pressure
+on the drafters and senior Iraqi politicians to stick to the principle of consensus and
+work towards agreement of a document which reflected the values and aspirations of all
+Iraqis.
+191.  Sunni involvement in the Committee established to draft a new Constitution for Iraq
+is addressed in Section 9.3.
+Paper Cabinet Office, 7 February 2005, ‘Iraq: Strategy for 2005’.
+Minute Fergusson to Sheinwald, 2 March 2005, ‘Iraq: VTC Meeting with NSC/Department of State/
+Pentagon 28 February 2005’.
+158
+Minute Heatly to Prime Minister, 10 March 2005, ‘Iraq: Risks and Media Impact’.
+159
+Minute Straw to Prime Minister, 24 March 2005, ‘Iraq: Ad Hoc Ministerial Meetings’.
+160
+eGram 4045/05 Baghdad to FCO London, 6 May 2005, ‘Iraq: Prospects for the Ja’afari Government’.
+161
+Letter Straw to Prime Minister, 5 July 2005, ‘Iraq: Constitution’ attaching Paper RAD, June 2005,
+‘Constitutional Issues’.
+156
+
+157 
+
+38
+
+11.1  |  De-Ba’athification
+
+192.  Mr Straw enclosed with his letter a paper produced by the FCO Research Analysts
+which set out the substantive issues that the Iraqi Constitution needed to address,
+including:
+
+•	
+•	
+
+language on how the Constitution could be amended; this was particularly
+important given concern among Sunni Arabs that they had not had sufficient
+involvement in the development of the Constitution; and
+de‑Ba’athification – in the interests of national unity, the UK wanted to ensure
+these provisions did not become “more draconian” than the existing provisions
+in the Transitional Administrative Law.
+
+193.  The paper stated:
+“Substantive moves towards a ‘truth and reconciliation process’ or further
+amendments to the policy of de‑Ba’athification should be dealt with outside the
+Constitution.”
+194.  Under the heading “The detail”, FCO Research Analysts explained that the
+Transitional Administrative Law said that no candidate for the Transitional National
+Assembly should have been a Division member of the Ba’ath Party, unless they had
+been given specific exemption to stand. They must not have participated in persecution.
+Members of the Presidency Council must also have left the Ba’ath Party at least
+10 years before the fall of Saddam Hussein.
+195.  Adherence to these criteria by the main Shia and Kurdish political blocs had meant
+rejection of several Sunni Arabs for positions, which has “caused some resentment”.
+196.  On 12 July, Mr William Patey, successor to Mr Chaplin as British Ambassador to
+Iraq, reported that Grand Ayatollah al‑Sistani162 had told the UN Special Representative
+to Iraq that “it would be important to maximise Sunni inclusion. The only people who
+should be excluded were criminals and former members of the regime.”163
+197.  In mid‑July the JIC assessed the state of the insurgency in Iraq, at the request of
+the Cabinet Office.164 It judged that the bulk of Iraqi insurgents were Sunni Arabs but did
+not see evidence of a unified or national command structure:
+“The Iraqi Sunni Arab insurgency remains characterised by disparate groups, some
+based on family, tribal and religious links. Many have former regime connections,
+and military expertise is widely exploited. But we judge the influence of recalcitrant
+Ba’athists, including the Ba’ath Party’s military wing, Jaysh Muhammad,
+to be marginal.”
+
+Iraq’s most senior Shia theologian.
+eGram 8781/05 Baghdad to FCO London, 12 July 2005, ‘Iraq: UNSRSG meets Sistani and
+Muqtada al Sadr’.
+164
+JIC Assessment, 14 July 2005, ‘Iraq: State of the Insurgency’.
+162
+163
+
+39
+
+The Report of the Iraq Inquiry
+
+198.  In a separate Assessment covering the effectiveness of efforts to engage with
+Iraq’s Sunni Arab communities, the JIC judged that “The Iraqi Ba’ath Party, now based
+in Damascus, has no obvious support base within Iraq.”165
+199.  The JIC also assessed that “perceptions that ministries are being purged of Sunnis
+under the banner of de‑Ba’athification” were “exacerbating tensions”.
+200.  The Iraq Sub-Committee of the Defence and Overseas Policy Committee (DOP(I))
+considered a paper on 18 July entitled “Iraq: Splitting the Jihadists from the National
+Opposition”.166 It had been written by the FCO and was presented by Mr Patey.
+201.  The paper described jihadists as “principally foreigners, but an increasing number
+of Iraqis”. Its recommendations included:
+
+•	
+•	
+•	
+
+continuing to demonstrate inclusivity in the drafting of the Constitution,
+committing to the timetable set out in the TAL, and being prepared to intervene
+if necessary;
+ensuring that the system used in the December elections was province‑based
+in order to maximise Sunni Arab participation; and
+pressing the ITG to relax the de‑Ba’athification rules to allow disaffected former
+Army officers and officials back into the ISF and government institutions, and
+ensuring that de‑Ba’athification decisions were based in a legal framework
+rather than a political one.
+
+202.  These were to be accompanied by a strong media strategy, aimed at undermining
+the jihadists’ “un‑Islamic” message, and active engagement with neighbouring States.
+203.  DOP(I) agreed the broad approach proposed by the FCO.167
+
+De‑Ba’athification in the Iraqi Constitution
+204.  In an update on the Iraqi Constitution sent to the FCO on 25 July, Mr Patey advised
+that the first full draft contained “two unnecessary and unhelpful mentions of Ba’athism:
+‘Saddamist Ba’athist’ thinking is prohibited and nominees for the National Assembly
+must not have been covered by de‑Ba’athification law.”168
+205.  Mr Patey considered that it would be “better and more conducive to national
+reconciliation if both references were to be dropped”.
+206.  A note by the IPU on 24 August said that the UK was pushing for an article on
+de‑Ba’athification to be deleted “in order to increase the chances for Sunni buy‑in”.169
+Shia representatives were keen to retain the section “believing it would make it harder
+JIC Assessment, 14 July 2005, ‘Iraq: Outreach to Sunni Arabs’.
+Paper FCO, 18 July 2005, ‘Iraq: Splitting the Jihadists from the National Opposition’.
+167
+Minutes, 21 July 2005, DOP(I) meeting.
+168
+eGram 9738/05 Baghdad to FCO London, 25 July 2005, ‘Iraq: Constitution Update, 25 July 2005’.
+169
+Paper IPU, 24 August 2005, ‘Iraq: Constitution: Analysis’.
+165
+166
+
+40
+
+11.1  |  De-Ba’athification
+
+for the de‑Ba’athification Commission to be dissolved”. The IPU observed that this belief
+was mistaken, since dissolution of the Commission was a decision for the National
+Assembly.
+207.  Mr Patey told the FCO that he had lobbied President Jalal Talabani and
+Mr Abdul Aziz al‑Hakim, leader of the UIA/SCIRI, for the removal of reference to the
+de‑Ba’athification Commission.170
+208.  Mr Patey also suggested to Prime Minister Ja’afari and Mr Masoud Barzani, leader
+of the Kurdistan Democratic Party, that “If mention of the de‑Ba’athification Commission
+could not be removed perhaps there could be some reference to indicate that the
+process would be a judicial one”.171
+209.  Secretary Rice told Mr Straw on 24 August that reference to the de‑Ba’athification
+Commission appeared to have been “dropped”.172
+210.  On 28 August, Mr Patey reported to the FCO on the substance of the new
+Constitution which had been presented to the National Assembly.173 He commented:
+“The spectre of de‑Ba’athification continues to haunt the text although such
+references were heavily diluted in efforts to meet Sunni concerns …”
+211.  Mr Patey observed that the preamble to the Constitution made an important
+distinction between “the dictator’s regime and the mainstream Ba’ath Party” and
+recognised that Sunnis had suffered with other Iraqis under Saddam. But extremist
+groups, which included “Saddamists” were prohibited.
+212.  Sir William Patey told the Inquiry:
+“We spent a lot of time … trying to convince the transitional government and the
+Shia politicians that de‑Ba’athification had gone too far, that the de‑Ba’athification
+commission was being abused. It was being used as a tool to further political ends
+rather than save Iraq from a return of the Ba’ath. Now, that is not an argument that
+was accepted very readily by Shia, who had a visceral fear of the Ba’athists and
+saw Ba’athists in most places. So we had limited success. We were arguing for the
+de‑Ba’athification provisions to be excluded from the Constitution. We managed
+to get them watered down, we managed to get them reviewed.”174
+
+eGram 11744/05 Baghdad to FCO London, 24 August 2005, ‘Iraq: Constitution: Getting Sunni Arab
+Buy‑In’.
+171
+eGram 11834/05 Baghdad to FCO London, 25 August 2005, ‘Iraq: Constitution: Some Prospect of
+Changes to Draft to Accommodate Key Sunni Arab Concerns’.
+172
+Minute Siddiq to Sawers, 24 August 2005, ‘The Foreign Secretary’s conversation with the US Secretary
+of State, 24 August’.
+173
+eGram 12004/05 Baghdad to FCO London, 28 August 2005, ‘Iraq: Constitution: Worth Waiting For’.
+174
+Public hearing, 5 January 2010, pages 6‑7.
+170
+
+41
+
+The Report of the Iraq Inquiry
+
+213.  Mr Straw and Secretary Rice discussed the Constitution on 29 August.175 Dr Rice
+highlighted that the process against Ba’athists set out in the Constitution was “on
+an individual basis rather than simply on proof of party membership” and described
+that as “a very big concession”. To deal with fears about individuals being victimised,
+they discussed a potential international review body which would consider the
+decision‑making process, but not re‑hear cases.
+214.  Mr Straw recorded that he had asked for some work to be done on this idea,
+and asked Mr Patey to discuss the concept with Ambassador Khalilzad.
+215.  At the end of August, the US Red Team published its “Integrated
+Counterinsurgency Strategy for Iraq”.176 It stated that one of the conditions for a
+successful counter‑insurgency campaign was to:
+“Work with Iraqi leaders in the next government to continue progress in increasing
+political accommodation and effective cooperation to solve specific policy
+challenges. Place priority on finalizing and implementing agreements to redress key
+divisive issues (e.g. de‑Ba’athification, professionalizing ISF institution etc.)”
+216.  UK responses to the Red Team’s report are described in Section 9.3.
+217.  On 12 October, the IPU reported that broad agreement had been reached on
+changes to the draft Constitution, including provisions on de‑Ba’athification.177 Those
+amendments (to Article 131) were:
+
+•	
+•	
+
+Membership of the Ba’ath Party alone would not be considered sufficient basis
+for prosecution. Members would enjoy equality and protection under the law
+unless they were covered by “the provisions of de‑Ba’athification and the orders
+issued under it”.
+The Council of Representatives would form a committee to monitor and review
+acts of the de‑Ba’athification Commission.
+
+218.  Alongside other measures, the IPU commented that these changes might “help
+significantly increase the overall vote in favour of the Constitution”.
+219.  An IPU paper on Sunni outreach dated 27 October referred to the same
+amendments as “a step forward” and proposed that the UK should “give our assurance
+that we will push hard for implementation of Article 131 in the next Parliament in a way
+which allows non‑criminal ex‑Ba’athists into government service”.178
+220.  In an update on Sunni outreach two weeks later, the IPU described the
+shared UK and US goal on de‑Ba’athification as “to persuade the Iraqis to repeal
+Letter Straw to Sheinwald, 30 August 2005, ‘Conversation with US Secretary of State, 29 August’.
+Report Red Team, 31 August 2005, ‘An Integrated Counterinsurgency Strategy for Iraq’.
+177
+Paper IPU, 12 October 2005, ‘Amendments to the Draft Iraqi Constitution’ attaching ‘Further
+Amendments to the Draft Iraqi Constitution’.
+178
+Paper IPU, 27 October 2005, ‘Sunni Arab Outreach’.
+175
+176
+
+42
+
+11.1  |  De-Ba’athification
+
+the de‑Ba’athification Law and abolish its enforcement mechanism, the Supreme
+de‑Ba’athification C [sic] Commission”.179 The British and US Embassies in Baghdad
+were reported to be “working up … a gameplan” and Mr Straw would take Prime Minister
+Ja’afari through the arguments.
+221.  On 21 November, Mr Asquith commented on a research paper on Iraq by an
+external organisation.180 He wrote:
+“Tackling de‑Ba’athification is very important, but I’m not sure that just changing
+the level of the bar is sufficient: those inside Iraq are more interested in making
+a distinction between those who can be prosecuted for criminal acts, not merely
+membership in or association with the Ba’ath party. Key in all this will be a credible
+and independent body to adjudicate.”
+
+Election preparations
+222.  On 27 November, Mr Doug Wilson, an official in the British Embassy Baghdad
+sent a report to Mr Patey of a briefing by the Independent Electoral Commission of
+Iraq’s (IECI) International Commissioner, Mr Craig Jenness.181 Mr Wilson wrote that the
+IECI had sent the names of around 7,000 electoral candidates to the de‑Ba’athification
+Commission for checking. Having considered 70 percent of those names, the
+Commission had recommended that 67 individuals be disqualified, including some
+senior politicians. Mr Wilson proposed that the US and UK should lobby Dr Chalabi.
+223.  A message from the British Embassy Baghdad to the FCO on 29 November stated
+that the UK and US had encouraged the IECI “to adopt a process which allows them to
+reject the rulings of the de‑Ba’athification Commission and retain most of the names on
+the electoral lists”.182 Mr Patey had lobbied senior members of the TNA to allow those
+recommended for disqualification to run and commented that “with the US, we will
+co‑ordinate an approach to seek the Commission to reverse its decisions”.
+224.  Mr Patey called on Dr Chalabi on 30 November to convey concerns about the
+involvement of the de‑Ba’athification Commission in vetting electoral candidates, which
+he explained was likely to be seen as political interference.183 He suggested that there
+should instead be “due judicial process” for those identified, whose names ought to stay
+on the electoral lists until their appeal had been dealt with.
+225.  In response, Dr Chalabi reminded Mr Patey that the Commission had no
+authority to ban any candidate. Its remit was to identify those covered by the
+
+Paper IPU, 10 November 2005, ‘Sunni Arab Outreach: Update as of 10 November 2005’.
+Email Asquith to Hilder, 21 November 2005, ‘Iraq: Org Draft’.
+181
+Email Wilson to Patey, 27 November 2005, ‘Elections: de‑Ba’athification’.
+182
+eGram 19506/05 Baghdad to FCO London, 29 November 2005, ‘Iraq: Elections: de‑Ba’athification
+Affects Candidates’.
+183
+eGram 19906/05 Baghdad to FCO London, 5 December 2005, ‘Iraq: Elections: de‑Ba’athification of
+Candidates: Update’.
+179
+180
+
+43
+
+The Report of the Iraq Inquiry
+
+de‑Ba’athification Law; it was for the IECI to determine eligibility, accepting or rejecting
+the de‑Ba’athification Commission’s recommendation as they saw fit.
+226.  Mr Patey subsequently briefed the UN Special Representative and the IECI
+International Commissioner on his meeting with Dr Chalabi. They explained that the
+IECI was in some difficulty since it had to be seen to be acting in accordance with
+Iraqi law: CPA Order No.1 and the Electoral Law both said that anyone covered by
+de‑Ba’athification could not stand for election. The IECI therefore had little choice but
+to accept the de‑Ba’athification Commission’s recommendations.
+227.  By 1 December, the number of individuals recommended for disqualification
+by the de‑Ba’athification Commission had risen to 134.184
+228.  A message from the IPU setting out Iraq policy priorities for the week ahead
+recorded that Mr Straw had raised de‑Ba’athification with Secretary Rice.185 They had
+agreed that the de‑Ba’athification Commission was “acting in a way which ran entirely
+counter to our efforts on outreach” and that they would lobby Dr Chalabi in his capacity
+as Chairman of the Commission.
+229.  Sir Nigel Sheinwald raised UK concerns that de‑Ba’athification might disrupt the
+elections with Mr Stephen Hadley, the US National Security Advisor, on 2 December.186
+Sir Nigel said: “It would be much better to leave this until after the election and decide
+then whether anyone should be prevented from taking up their seat because their
+background infringed the Constitution.” He suggested that it would be helpful for the
+US to talk to Dr Chalabi.
+230.  On 5 December, Mr Blair’s Private Secretary told Mr Blair:
+“We are working with the US to reverse a decision by the de‑Ba’athification
+Commission to bar a number of former Ba’athists (both Shia and Sunni) from
+standing in the election … It looks like a brazenly partisan move, and deeply
+unhelpful.”187
+231.  In a conversation with President Bush the same day, Mr Blair suggested that the
+US and UK needed to keep a close eye on the actions of the outgoing Government,
+including the de‑Ba’athification Commission.188
+
+eGram 19784/05 UKMIS New York to FCO London, 1 December 2005, ‘Iraq: UK‑US‑UN Trilateral:
+1 December’.
+185
+eGram 19874/05 FCO London to Baghdad, 2 December 2005, ‘Iraq: Policy Priorities for the Week
+Beginning Saturday 3 December’.
+186
+Letter Sheinwald to Hayes, 2 December 2005, ‘Conversation with US National Security Adviser,
+2 December’.
+187
+Minute Phillipson to Prime Minister, 5 December 2005, ‘VTC with President Bush, 1425 5 December’.
+188
+Letter Quarrey to Siddiq, 5 December 2005, ‘Prime Minister’s VTC with President Bush: Middle East’.
+184
+
+44
+
+11.1  |  De-Ba’athification
+
+232.  Also on the same day, the IPU instructed the UK Permanent Mission to the UN in
+New York to press the UN to support the UK position on de‑Ba’athification of electoral
+candidates.189 The IPU described the best solution as:
+“… for the IECI to (i) note the DBC’s submission of a list, (ii) make clear that the
+submission had come at a very late stage and that it would not be possible to go
+through the required appeals process before the election, (iii) commit therefore
+to process the list after the elections, after going through the necessary appeals
+process.”
+233.  Sir Emyr Jones Parry, UK Permanent Representative to the UN in New
+York, replied the same day to say that he had spoken to Mr Kofi Annan, the UN
+Secretary‑General, who was “sympathetic” to processing the de‑Ba’athification list after
+the election and intended to send instructions to Mr Ashraf Jehangir Qazi, his Special
+Representative.190
+234.  Mr Annan’s Chef de Cabinet confirmed later in the day that Mr Annan had
+spoken to Mr Qazi “who had also agreed on the need to find a way forward that
+allowed participation”.
+235.  On 6 December, officials from the British Embassy Baghdad met Mr Jenness to
+discuss action on de‑Ba’athification.191 Of the de‑Ba’athification Commission’s initial list
+of 218 candidates, there remained 120 individuals at risk of being removed from the
+candidate lists. A further 83 individuals would be required by the Commission to sign a
+disavowal of Ba’athism. The remaining 15 were not mentioned.
+236.  Mr Patey reported that Mr Jenness remained concerned for the IECI’s legal
+position, but wanted to find solutions that allowed participation in the elections. They
+agreed that the IECI would publish non‑final candidate lists (including the remaining
+120 names) immediately, to test the reaction from the de‑Ba’athification Commission’s
+supporters, and that it would write to the three‑man Presidency Council asking for
+guidance and explaining that the IECI would not remove candidates from the lists
+without its agreement. The candidate lists were published that evening.
+237.  Mr Patey wrote: “This issue has underscored the need to look ahead to the
+arduous but urgent task of securing reform of the de‑Ba’athification Law.”
+238.  The IPU observed on 9 December that there had been “little or no public reaction
+to the inclusion in the list of candidates named by the de‑Ba’athification Commission
+
+eGram 19989/05 IPU to Baghdad and UKMIS New York, 5 December 2005, ‘Iraq: Elections:
+De‑Ba’athification of Candidates’.
+190
+eGram 20001/05 UKMIS New York to FCO London, 5 December 2005, ‘Iraq: Elections:
+de‑Ba’athification of Candidates’.
+191
+eGram 20199/05 Baghdad to FCO London, 7 December 2005, ‘Iraq: Elections: De‑Ba’athification of
+Candidates: Progress’.
+189
+
+45
+
+The Report of the Iraq Inquiry
+
+in their [the IECI’s] list”.192 As a result, if the government supported the Commission’s
+recommendations, it would be seen as a political decision and was “potentially very
+divisive”. The IPU suggested that Mr Straw should seek Prime Minister Ja’afari’s
+agreement to putting de‑Ba’athification on hold until after the elections, when it could
+be “addressed by a new, and fully representative, national assembly and government”.
+239.  On 12 December, the British Embassy Baghdad reported that the IECI had issued
+a statement setting out why it would not be removing any candidates from the electoral
+lists as a result of their identification as Ba’athists by the de‑Ba’athification Council.193
+Prime Minister Ja’afari had responded to the IECI’s request for guidance in support
+of that decision.
+
+De‑Ba’athification after the 2005 Iraqi election
+240.  A “Work Plan” for the post‑election period, drafted by the IPU in December 2005,
+said that the UK needed to:
+“Press for early review of de‑Ba’athification Commission (as provided for under
+Constitution) and continue to stall de‑Ba’athification of (successful) electoral
+candidates”.194
+241.  Once elections had taken place, Mr Straw spoke by telephone to President
+Talabani on 21 December.195 He emphasised that:
+“… the process of de‑Ba’athification should not be allowed to derail the formation of
+a new Government. It was important that Sunni Arabs did not feel excluded, with the
+risk that the insurgency would continue and escalate to civil war.”
+242.  Mr Straw made similar points in a call to Mr Barzani the following day, explaining
+UK concern about “overzealous de‑Ba’athification” and stressing the need for a
+consensus government with Sunni representation.196
+243.  On 24 December, the British Embassy Baghdad reported the outcome of the
+case brought by the de‑Ba’athification Commission against the IECI.197 The Transitional
+Electoral Panel found against the IECI, which consequently decided to remove all the
+candidates identified by the Commission from their party lists. The British Embassy
+Baghdad reported that this would affect three individuals who would otherwise have
+taken up a seat at governorate level, and others who were candidates for national seats.
+
+Submission IPU [junior official] to Foreign Secretary, 9 December 2005, ‘Iraq: Human Rights/
+De‑Ba’athification: Telephone Call to Prime Minister Ja’afai’.
+193
+eGram 20573/05 Baghdad to FCO London, 12 December 2005, ‘Iraq: Elections: Final Preparations’.
+194
+Paper IPU, 16 December 2005, ‘Iraq: Post‑Election: UK Work Plan’.
+195
+Email Wilson to Asquith, 22 December 2005, ‘Foreign Secretary’s Call to Talabani: 21 Dec’.
+196
+Email Wilson to Asquith, 22 December 2005, ‘Foreign Secretary’s Call to Barzani, 22 December’.
+197
+eGram 21681/05 Baghdad to FCO London, 28 December 2005, ‘Iraq: Elections: Results’.
+192
+
+46
+
+11.1  |  De-Ba’athification
+
+244.  At the end of December 2005, the British Embassy Baghdad wrote to the FCO to
+describe conversations with Iraqi and US officials about the possibilities for reform of the
+de‑Ba’athification Commission.198
+245.  The Embassy described the Commission as “an inherently political body”, and said
+that there was no real prospect of appeal against its decisions. The new Constitution
+offered a potential opportunity to reform the de‑Ba’athification Law, but also the risk
+of deepening existing divisions. Article 134(6) obliged the Council of Representatives
+to establish a committee to review acts of the de‑Ba’athification Commission and
+government agencies. In the Embassy’s opinion that was “a real opportunity to set in
+motion concrete reform of the DBC”.
+246.  Although “the ultimate goal” was repeal of the de‑Ba’athification Law and
+dissolution of the Commission, possible steps to address concerns about the
+de‑Ba’athification process included:
+
+•	
+•	
+•	
+
+imposing procedural checks to “choke the Commission in its own bureaucracy”;
+
+•	
+
+publication of a final report by the Commission, indicating that its work was
+complete.
+
+removing politically active individuals from the Commission;
+pressing for the extradition to Iraq of senior Ba’athists suspected of criminal
+activity; and
+
+247.  Attached to the Embassy’s message was a minute written by the IPU for Mr Patey
+earlier in December.199
+248.  The IPU set out more information about the composition and operation of the DBC.
+Its six serving Commissioners were all from the Shia community as two positions allotted
+to the Kurdish parties had never been filled. The DBC did not hold formal meetings, and
+its only active members were Dr Chalabi, Mr Maliki and Sheikh Jalal al‑Din al‑Sagheer.
+249.  The IPU also described Article 7 of the new Constitution, which banned the
+glorification and promotion of the Ba’ath Party in Iraq and its symbols. Although the text
+had been “continually watered down”, the final text specified that its provisions would be
+regulated by a law. The IPU judged:
+“The regulating law will be a yardstick testing attitudes towards de‑Ba’athification –
+on the one hand it could be an opportunity to seek concrete reform and repeal of
+CPA Order No.1 (the de‑Ba’athification Law). But on the other hand, it could be used
+as an opportunity to widen and deepen de‑Ba’athification, or restrict the activities of
+political groups which contain former Ba’athists. That said, because it [sic] such a
+political hot potato, it may not be one of the laws prioritized as important in the new
+parliament.”
+198
+199
+
+eGram 21802/05 Baghdad to FCO London, 31 December 2005, ‘Iraq: Reforming de‑Ba’athification’.
+Minute Wilson to HMA, 10 December 2005, ‘Iraq: de‑Ba’athification: Possible Next Steps’.
+
+47
+
+The Report of the Iraq Inquiry
+
+A new government
+250.  Evidence seen by the Inquiry confirms that in January and February 2006 the UK
+stepped up its efforts to encourage Iraq to form a broad and inclusive government of
+national unity through high‑level visits and rounds of phone calls.200
+251.  Mr Straw visited Basra and Baghdad in early January.201 He met representatives
+of political parties from all the main communities, reinforcing the UK’s message on
+the need for a unity government. In his view, achieving that mattered more than who
+became Prime Minister.
+252.  Some Sunni representatives told Mr Straw that they had been “cheated out of
+seats”. He responded that “they must accept the election results once confirmed or they
+will be pitting themselves against the whole international community”.
+253.  Vice President Adel Abdul Mehdi, a potential candidate for Prime Minister, told
+Mr Patey on 1 January that “he would be ready to look at the possibility of appointing
+a judge to head the de‑Ba’athification Commission” and to reduce the role of politicians
+within it.202
+254.  Prime Minister Ja’afari told Mr Patey on 3 January that, although the Ba’ath Party
+and its ideology should remain outlawed, “the half‑million former Ba’ath members
+Ja’afari saw as his ‘children’ should not and the de‑Ba’athification Commission and its
+procedures should be reviewed”.203
+255.  On 3 January, Mr Ayad Allawi told Mr Blair that in forming the new government “the
+key bridge to the Sunnis would be revision of the de‑Ba’athification process”.204
+256.  An IPU brief for Mr Straw’s visit to Baghdad in early April listed “participation by all
+(including former Ba’athists) who are committed to furthering the political process and
+can run government effectively” as one of the main issues for the new Iraqi Government
+to address.205
+257.  After the announcement of Mr Nuri al‑Maliki as the nominee for Prime Minister, the
+British Embassy Baghdad’s pen picture of him recorded that he had been Deputy Chair
+of the de‑Ba’athification Commission and “a driving force for that body’s work”.206 The
+
+eGram 359/06 Baghdad to FCO London, 9 January 2006, ‘Iraq: Visit by Foreign Secretary, 6‑7 January
+2006: Elections and Formatio[n]’; eGram 3684/06 Baghdad to FCO London, 22 February 2006, ‘Iraq:
+Foreign Secretary’s Visit, 20‑21 February 2006: Formation of Govern[ment]’; Minute Bayley to Foreign
+Secretary, 16 January 2006, ‘Iraq: Keeping Up The Momentum – Proposed Telephone Calls/Visit’.
+201
+Minute Straw to Prime Minister, 11 January 2006, ‘Iraq: Post‑Elections and Government Formation’.
+202
+eGram 69/06 Baghdad to FCO London, 4 January 2006, ‘Iraq: Call on Vice President Abdul Mehdi’.
+203
+eGram 129/06 Baghdad to FCO London, 4 January 2006, ‘Iraq: Call on Prime Minister Ja’afari’.
+204
+Letter Prentice to Quarrey, 3 January 2006, ‘Prime Minister’s Meeting with Iyad Allawi, Amman,
+2 January’.
+205
+Briefing IPU, 31 March 2006, ‘Iraq: Foreign Secretary’s Visit, 2‑3 April 2006’.
+206
+eGram 13011/06 Baghdad to FCO London, 24 April 2006, ‘Iraq: Formation of the New Government:
+al‑Maliki Nominated by UIA as Prime Minister’.
+200
+
+48
+
+11.1  |  De-Ba’athification
+
+Embassy wrote that Mr Maliki was “opposed to the participation of any former Ba’athists
+in government institutions and public life”.
+258.  When Prime Minister Designate Maliki met Mr Patey and Sir Nigel Sheinwald on
+24 April, he said he was “proud to be known as a hardliner” on de‑Ba’athification but
+acknowledged that the de‑Ba’athification Commission had made some mistakes.207
+259.  Mr Maliki planned to propose a “radical overhaul” that would transform the
+de‑Ba’athification Commission into a “Truth and Reconciliation Commission, sending
+Ba’athists who had committed crimes to the courts and rehabilitating those who had
+not”. He was most concerned about Ba’athist military officers. The establishment of a
+“Commission for Equality of Employment” would reassure Sunnis that they would get
+a fair share of government jobs and that dismissals would not be sectarian.
+260.  On 10 May, the JIC assessed how the Sunni insurgency was evolving.208
+It concluded:
+“The strength of the insurgency is in part affected by Sunni participation in the
+political process. If Sunni confidence is to be bolstered, respected Sunnis will need
+to gain some major ministries. Even then, Sunni participation will remain fragile.
+Much will depend on the actions of the new government in addressing broader Sunni
+concerns: federalism, de‑Ba’athification, reform of the Iraqi Security Forces (ISF),
+MNF withdrawal, security and detainees, and improvement in the quality of life.”
+261.  On 19 July, the JIC assessed that:
+“Little has changed in the nature and intensity of the Sunni Arab insurgency since
+our last assessment in May. We continue to judge that the strength of the insurgency
+is in part affected by Sunni participation in the political process. Prime Minister
+Maliki’s government includes Sunnis in Ministerial and executive positions, and
+some key Sunni demands have been partially met; for example, limited release of
+detainees. Maliki has announced a National Reconciliation Plan aimed at addressing
+wider Sunni concerns, but there has been no substantive progress as yet. Some
+Sunni politicians have voiced their scepticism at Maliki’s offer of amnesty (on current
+proposals most insurgents need not apply), plans to relax de‑Ba’athification, and his
+lack of reference to an MNF withdrawal timetable.”209
+262.  On 27 July, the IPU reported to the British Embassy Baghdad that the Iraq Strategy
+Group had agreed:
+“… the review Maliki has promised of de‑Ba’athification needs to happen urgently.
+This is not only important to operationalising his national reconciliation plan: but
+
+eGram 13126/06 Baghdad to FCO London, 24 April 2006, ‘Iraq: Government Formation: Maliki’s Views’.
+JIC Assessment, 10 May 2006, ‘Iraq: How is the Sunni Insurgency Evolving?’
+209
+JIC Assessment, 19 July 2006, ‘Iraq: Insurgency, Sectarianism and Violence’.
+207
+208
+
+49
+
+The Report of the Iraq Inquiry
+
+also to stopping the crippling, continuing purges of middle‑ranking managers in key
+public services.”210
+263.  In August 2006, the British Embassy Bagdad reported to the FCO some changes
+at the de‑Ba’athification Commission.211 A new Acting Chair, Sheikh Jalal al‑Din
+al‑Sagheer, had been appointed and the Commission’s Legal Department had begun
+work on a new law for the structure and administration of the Commission, including the
+process for appointing its Chair. Sheikh Sagheer told the Embassy:
+“He was aware that both the policy and the structure of the Commission had been
+subject to heavy criticism from many quarters and expected the new legislation to
+address those concerns. He asked for HMG’s input on how the current system could
+be improved.”
+264.  Mr Ali Faisal Alami, the Director General of the Commission’s Follow‑Up and
+Implementation Department, told Embassy officials that 10,924 orders had been issued
+by the Commission, of which 6,788 had been implemented.
+265.  When the Iraq Strategy Group met on 15 September, Ms Bridget Brind, Deputy
+Head of the IPU, gave an update on reconciliation work by the Iraqi Government.212 She
+reported that:
+“A conference with tribal leaders had taken place in August, and future conferences
+were scheduled with civil society, party leaders and armed groups. As yet, there
+were no firm plans on the big issues of de‑Ba’athification and detainees.”
+266.  In an Interim Progress Report on Prime Minister Maliki’s Government, in October
+2006, the JIC judged that:
+“In the current political and security climate, key Sunni concerns are not being
+addressed. There has been no significant change in de‑Ba’athification policies,
+they remain highly suspicious of SCIRI’s federalist aspirations, little action has
+been taken against the Shia militias, and the total number of detainees has not
+significantly changed.”213
+267.  On 8 November, the British Embassy Baghdad reported “Indications that the door
+may be opening to a less stringent de‑Ba’athification process” and sent “proposals for
+how we engage” to the FCO in London.214
+
+eGram 32790/06 IPU to Baghdad, 27 July 2006, ‘Iraq: Reply to Your Valedictory’.
+eGram 36238/06 Baghdad to FCO London, 20 August 2006, ‘Iraq: Changes at the De‑Ba’athification
+Commission’.
+212
+Letter Cabinet Office [junior official] to Sheinwald, 18 September 2006, ‘Iraq Strategy Group,
+15 September’.
+213
+JC Assessment, 5 October 2006, ‘Al‑Maliki’s Government: Interim Progress Report’.
+214
+eGram 49594/06 Baghdad to FCO London, 8 November 2006, ‘Iraq: De‑Ba’athification Developments’.
+210
+211
+
+50
+
+11.1  |  De-Ba’athification
+
+268.  The message explained that, on 6 November, the Director General of the
+de‑Ba’athification Commission had announced that a draft law on de‑Ba’athification,
+consistent with Prime Minister Maliki’s National Reconciliation Plan, had been prepared
+and would be sent to the Council of Representatives soon.
+269.  The new law would mean that only 1,500 of the 10,302 Senior Ba’athists currently
+affected would lose their jobs. Of those, only the top tier of party members would be
+denied a pension. The cases of those further down the ranks would be reviewed and
+those who had not been convicted of a crime would have the option of reinstatement
+or retirement with a pension.
+270.  UK officials explained that they would “seek to agree a few components of a ‘fair
+law’ with the US and UN and lobby hard for those changes”. They would “focus on
+reinforcing the underlying principle that de‑Ba’athification should be an independent
+judicial process rather than a political process”.
+271.  UK officials subsequently discussed five changes with US officials, who raised the
+first four with Dr Chalabi.215 The proposals, which received a mixed response, were:
+
+•	
+•	
+•	
+•	
+•	
+
+The de‑Ba’athification Commission should review the cases of all de‑Ba’athified
+individuals.
+The Commission should have a purely investigative role, passing all evidence
+to a judge for criminal proceedings where justified.
+The new law should not extend the remit of the Commission to civil society,
+press and the media.
+The Commission should produce a report for the Council of Representatives,
+which would then consider its dissolution.
+The article that prohibited the passing of legislation in breach of the
+de‑Ba’athification Law should be removed.
+
+272.  In November 2006, Mr John Sawers, FCO Director General, Political, wrote to
+Mr Blair from Baghdad, where he had just spent three days:
+“… the pace of the insurgency hasn’t slackened. The Shia put the blame squarely on
+Ba’athists/Saddamists, who they think we under‑estimate. They are convinced that
+the former regime’s security and intelligence officials are the driving force behind the
+attacks on the coalition, the Shia, and government officials, with the aim of creating
+mayhem and an opportunity for them to return to power as the only ones capable of
+restoring order. The level of concern has gone up sharply, with reports of Ba’athist
+intimidation on the streets of Baghdad … The relative weight of the Ba’athists in the
+insurgency isn’t easy to divine, but it is clear that both the Shia and the Kurds still
+fear them above all.”216
+215
+216
+
+Email Sharif to Shokat, 10 November 2006, ‘Re: De‑Ba’athification: key components of a fair law’.
+Minute Sawers to Prime Minister, 13 November 2006, ‘Iraq’.
+
+51
+
+The Report of the Iraq Inquiry
+
+273.  On 15 November, the JIC judged that:
+“The Iraqi Government’s response to deteriorating security remains ineffective. Many
+Shia politicians blame all violence on ‘Ba’athists’. There has been no progress on
+national reconciliation …”217
+274.  The Iraq Forward Plan developed by UK officials in November 2006 (see Section
+9.5) said that the UK should encourage Iraqi political leaders to sign up to a Declaration
+of Principles/National Compact which included a commitment to prevent the return of a
+Ba’athist government “while reviewing de‑Ba’athification to allow all those who have not
+committed crimes to participate in building Iraqi stability and prosperity”.218
+275.  Implementing the Compact would require two new bodies: a Peace Commission
+and a Reconciliation/Rehabilitation Commission. The latter, it was proposed, would
+not deal with cases before the de‑Ba’athification Commission which would continue
+to be heard there, but would address detainee issues and hear accounts of pre‑ and
+post‑2003 violence from victims and perpetrators.
+
+De‑Ba’athification in 2007
+276.  At the end of January 2007, Mr Dominic Asquith, British Ambassador to Iraq,
+recorded a report from the Iraqi Ministry of Foreign Affairs that the Iraqi Ba’ath Party
+had split, and a splinter group had formed that wanted to “come back to Iraq, start a
+dialogue, renounce violence and act politically”.219 It was hoped that others might be
+attracted to the same strategy.
+277.  The IPU provided advice on “how best to step up and co‑ordinate work on
+reconciliation” in February 2007.220 It said that de‑Ba’athification was a “major inhibitor”
+of reconciliation and a cause of grievance in the Sunni community.
+278.  The IPU wrote:
+“We have worked in close consultation with the US to promote a substantive
+discussion between the main political parties on reforming the de‑Ba’athification
+process. The aim is to take account of the concerns of all major communities, help
+reduce the numbers of Iraqis excluded from public life and thus reduce alienation
+and motives for violence. A number of different draft laws have been provided by
+different political parties. We are working to help bring these together in a single
+document, ideally including a sunset clause to bring an end to de‑Ba’athification
+in the future. A US/UK facilitated version has just gone to President Talabani with
+
+JIC Assessment, 15 November 2006, ‘Iraq: Risk of Deepening Sectarian Division’.
+Minute McDonald to Banner, 24 November 2006, ‘Iraq Forward Plan’ attaching Paper, [undated], ‘Iraq:
+Forward Plan’.
+219
+Email Asquith to Gelling, 29 January 2007, ‘Call on MFA – Syria, Neighbouring States’.
+220
+Paper IPU, February 2007, ‘Reconciliation’.
+217
+218
+
+52
+
+11.1  |  De-Ba’athification
+
+the aim of having a cross‑sectarian draft presented to the Iraqi parliament by the
+Presidency Council.”
+279.  In a separate ‘Update on de‑Ba’athification’, also dated February 2007, the IPU
+explained that “we want to see the de‑Ba’athification process reformed and ultimately
+brought to an end”.221 In the short term, the objective was to reform the de‑Ba’athification
+Commission so that it operated in a more independent and transparent way. Specifically,
+this meant that it should:
+“–	 … target an individual’s conduct, not membership of the Ba’ath party, reinforcing
+the underlying principle that de‑Ba’athification should be a judicial rather than
+political process;
+–	 review the cases of all individuals who have already been de‑Ba’athified, as the
+previous process was deeply flawed due to political interference;
+–	 complete the de‑Ba’athification process within a defined period.”
+280.  The IPU explained that the draft US/UK text proposed abolishing the
+de‑Ba’athification Commission and replacing it with a “Reconciliation and Accountability
+Commission” for six months. President Talabani had indicated that he was broadly
+content with the US/UK text. If the Presidency Council exercised its right to put the draft
+law to the Council of Representatives directly, and other drafts were also presented, they
+were likely to be considered by a Committee of the Council.
+281.  On 5 March, Mr Blair’s Private Secretary wrote to the Private Secretary to Mrs
+Margaret Beckett, the Foreign Secretary:
+“The Prime Minister would like us to get a UK adviser on reconciliation into Maliki’s
+office as quickly as possible … We also need to build influence with Abdul‑Mehdi on
+de‑Ba’athification … The Prime Minister is pleased at UK/US efforts to ensure that
+there is now a single document on de‑Ba’athification with Talabani.”222
+282.  In an update for Mr Blair on 23 March, his Private Secretary reported a sense that
+Iraqi politicians risked missing the opportunity presented by the Baghdad Security Plan
+(see Section 9.5) to pursue reconciliation.223 He wrote that “faltering progress on the oil
+law and on de‑Ba’athification” were contributing to increased suspicion within the Sunni
+community.
+283.  In his Weekly Assessment dated 29 March, Mr Asquith reported that the proposed
+new de‑Ba’athification Law had become “another victim of the US fixation on security
+
+Paper IPU, February 2007, ‘Update on de‑Ba’athification’.
+Letter Fletcher to Hickey, 5 March 2007, ‘Iraq’.
+223
+Minute Banner to Prime Minister, 23 March 2007, ‘Iraq Update, 23 March’.
+221
+222
+
+53
+
+The Report of the Iraq Inquiry
+
+‘results’”.224 Mr Asquith wrote that the departure of Ambassador Khalilzad would “deprive
+Iraq of one of the great contrivers” and that his final act was:
+“… a de‑Ba’athification draft law – a characteristic mix of the bad and the
+superficially plausible fix, designed to service immediate domestic US rather than
+Iraqi long term interests. My Legal Adviser had been working closely with the
+Americans and Iraqis for some months on the substance. I had in parallel been
+discussing the provisions with political leaders. The key objectives were to set an
+early (eg. six month) date for the termination of the de‑Ba’athification Commission’s
+work, drawing a line definitively in the sand, reduce to as few as possible
+(1,200‑1,500) those caught by the provisions and secure the agreement of the
+three‑man Presidency Council to a text which could then be introduced directly into
+Parliament.
+“… Khalilzad persuaded the PM and President (alone) to sign off, thereby failing
+the Constitutional condition for fast‑track introduction of legislation. Those caught
+by the provisions will increase by 10‑12,000 (and indeed potentially many more,
+if Provinces decide to exploit the latitude they are given on implementation).The
+termination of the de‑Ba’athification Commission in a year is undermined by the
+creation of a ‘Special Committee’ (of political/security ‘experts’ appointed by the
+Presidency and PM) to adjudicate on security clearances for sensitive jobs (in effect
+a vetting committee), which has no/no termination date. And the PM is given the
+right to intervene in the decisions of the Special Committee and a separate panel of
+judges appointed to consider the decisions of the de‑Ba’athification Commission or
+Special Committee.”
+284.  Mr Asquith recorded that there had as yet been no co‑ordinated response from
+Sunni Arab politicians. The only way to introduce the draft legislation into Parliament
+rapidly would be to “bend the Constitution”.
+285.  On 12 April, Dr Mowaffak al‑Rubaie, the Iraqi National Security Adviser, told
+Sir Nigel Sheinwald that the proposed “accountability and justice” law would “allow
+90 percent of Ba’athists to return to work”.225 Those who had held high rank would
+be excluded from the security ministries, but pension rights for the families of those
+who had been prosecuted for their actions would be protected. Dr Rubaie described
+implementing the policy as an uphill struggle, but pointed to a “growing consensus in
+support of the need to rehabilitate and reconcile”.
+286.  After visiting Baghdad and Basra, Mr Des Browne, the Defence Secretary, wrote
+to Mr Blair on 5 May with an assessment of work under way on reconciliation and
+its prospects for success.226 Mr Browne judged that a “bridging package” to attract
+eGram 13103/07 Baghdad to London, 29 March 2007, ‘Iraq: Weekly Assessment’.
+Letter Cabinet Office [junior official] to Hickey, 12 April 2007, ‘Iraq: Nigel Sheinwald’s Conversation with
+Muaffaq al Rubaie’.
+226
+Letter Browne to Blair, 5 May 2007, ‘Iraq: Reconciliation’.
+224
+225
+
+54
+
+11.1  |  De-Ba’athification
+
+a broad range of Sunni support would include: “recognition, amnesty, reversal of
+de‑Ba’athification, progress on sharing natural resources … investment, employment,
+political representation, and release of detainees”.
+287.  On 16 May, the JIC assessed that “genuine fears of a Ba’athist resurgence” were
+helping to keep the fragile Shia coalition, the United Iraqi Alliance, together.227 There had
+been “little substantive progress on de‑Ba’athification”.
+288.  The JIC judged that there had been “no tangible progress on national
+reconciliation” and that “antipathy” between Shia and Sunni communities remained
+“intense”.
+289.  The JIC judged that:
+“… progress on national reconciliation will remain slow unless there is a major shift
+in both Shia and Sunni attitudes and expectations, backed by strong and persistent
+Coalition pressure. At the moment it means different things to different groups.”
+290.  On 23 May, Mr Blair’s Private Secretary reported:
+“… there are now sensible amendments agreed by the Executive Committee to the
+existing draft law, which should address some of the key problems for the Sunni,
+including a sunset clause for the de‑Ba’athification Commission, a representative
+Political Committee to supervise the process (overseen by the CoR [Council of
+Representatives]), and introducing a judicial element to the process. Some issues
+remain, but this represents welcome progress. Further pressure will have to be
+put on the Shia in particular to agree an acceptable law, and on the Council of
+Representatives to pass it.”228
+
+June 2007 onwards
+291.  As described in Section 9.5, Mr Blair stood down as Prime Minister on 27 June
+2007. Shortly after Mr Blair tendered his resignation, HM The Queen asked Mr Gordon
+Brown to form a government.
+292.  On 20 August, a Current Intelligence Group (CIG) judged that:
+“I. The influence of the Iraqi Ba’ath Party on the Sunni Arab insurgency is marginal.
+The party is fractured with little political relevance or popular support in Iraq; this is
+highly unlikely to change.
+“II. Iraqi Shia politicians’ fears of a Ba’athist resurgence, however exaggerated, are
+genuinely held. They will limit the Shia appetite for reconciliation with the Sunni more
+broadly.”229
+JIC Assessment, 16 May 2007, ‘The Iraqi Government: One Year On’.
+Minute Banner to Blair, 23 May 2007, ‘Iraq Meeting, 25 May’ attaching Paper ‘Iraq – Reconciliation’.
+229
+CIG Assessment, 20 August 2007, ‘Iraq: How Important is the Ba’ath Party?’
+227
+228
+
+55
+
+The Report of the Iraq Inquiry
+
+293.  On 1 October, a brief for Mr Brown’s first visit to Iraq as Prime Minister stated:
+“Following the Petraeus/Crocker testimonials [see Section 9.6], the centre of
+gravity has switched back from Washington to Baghdad, where Maliki is enjoying
+a somewhat more secure position. However, he still faces significant challenges:
+to break the impasse over key legislation (de‑Ba’athification and Provincial Powers
+laws) … and drive forward the reconciliation agenda.”230
+294.  The list of points for Mr Brown to make in his meeting with Prime Minister Maliki
+suggested that he should stress the Prime Minister’s particular responsibility to give a
+strong lead to national reconciliation.
+295.  In November, the British Embassy Baghdad reported:
+“After two months of playing games, the correct draft of the Accountability & Justice
+Law (de‑Ba’athification) has now made it to the CoR … there should be sufficient
+majority to see this law through.”231
+296.  By the end of December, the Accountability and Justice Law still had not been
+passed.232
+297.  The Law was approved by the Council of Representatives on 12 January 2008.233
+298.  The British Embassy Baghdad reported on 24 January that, although Vice
+President Hashimi had continuing concerns, he had agreed to register them in a letter
+to the Speaker rather than delay or veto the law.234
+299.  On 12 January, the Iraqi Council of Representatives approved the Justice and
+Accountability Law (formerly the de‑Ba’athification Law).235 The Cabinet Office told
+Mr Brown that:
+“Although the law’s practical impact will be more symbolic than substantive, its
+approval nevertheless sends out a positive message especially to Sunnis, about
+the ability of the political system to function.”
+
+Minute Cabinet Office [junior official] to Prime Minister, 1 October 2007, ‘Iraq Visit: 2 October 2007’.
+eGram 47120/07 Baghdad to FCO London, 19 November 2007, ‘Iraq: Political Round‑Up’.
+232
+Minute Rollo to CDS, 31 December 2007, ‘Iraq in 2008 – An Opportunity to be Taken’.
+233
+Minute Cabinet Office [junior official], 18 January 2008, ‘Iraq Update’.
+234
+eGram 2673/08 Baghdad to FCO London, 24 January 2008, ‘Iraq: Internal Political Progress?’
+235
+Minute Cabinet Office [junior official] to Prime Minister, 18 January 2008, ‘Iraq Update’.
+230
+231
+
+56
+

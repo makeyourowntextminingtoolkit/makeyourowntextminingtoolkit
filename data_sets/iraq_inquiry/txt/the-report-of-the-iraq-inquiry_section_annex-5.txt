@@ -1,0 +1,209 @@
+ANNEX 5
+HOW TO READ AND NAVIGATE THE REPORT
+Structure of the Report
+1.  The Executive Summary contains the Inquiry’s key findings and conclusions.
+2.  The 17 Sections of the Report contain accounts of the relevant decisions and events,
+the Inquiry’s full analysis and conclusions, and, where appropriate, lessons for the
+future.
+3.  The Sections address separate themes arising from the sequence of events between
+2001 and 2009. In each Section the Inquiry draws on the available evidence to provide
+an account of events, policy discussions and decision-making processes.
+4.  The Inquiry does not present all its conclusions in the same way. Different topics
+benefited from different approaches. In the Sections covering the period before the
+invasion, conclusions are placed alongside the main evidence in a single Section. In
+the majority of post-invasion material, the conclusions appear in separate analytical
+Sections.
+
+Use of bold text
+5.  Bold text is used in the pre-invasion Sections of the Report to highlight Inquiry
+comment and analysis, and to signpost or summarise key events. Bold text is not used
+in post-invasion Sections. Throughout the Report, bold text is retained in quotes as it
+appeared in the original.
+
+Cross-referencing
+6.  Cross-references to other Sections are used where an issue or event referred to in
+one Section is addressed in more detail elsewhere.
+
+Duplication of text
+7.  Identical, or very similar, material can appear in two or more Sections where that aids
+comprehension or is necessary for an accurate description of events.
+
+Use of evidence
+8.  The Report draws on material from a wide range of sources, including:
+
+•	
+•	
+•	
+
+UK Government documents;
+transcripts of the Inquiry’s public and private hearings;
+written submissions to the Inquiry;
+325
+
+The Report of the Iraq Inquiry
+
+•	
+•	
+•	
+•	
+
+Parliamentary records;
+
+•	
+
+meetings in the UK with Service Personnel and their families, and with UK
+civilians who worked in Iraq; and
+
+•	
+
+documents published by the US Government and international organisations;
+published memoirs and diaries;
+academic papers, including papers produced to inform the two seminars
+organised by the Inquiry;
+
+views heard during visits to Iraq, the US and France by members of the Inquiry.
+
+9.  The Inquiry presents that material in the form of gists, which summarise the key
+points of a document or part of a document, and quotes. The source of each gist and
+quote is given in a footnote.
+10.  The Report quotes extensively from the full range of sources. To aid comprehension
+the Inquiry has sought to standardise spellings, abbreviations and acronyms and the
+representation of numbers, dates and times within quotes. All bold and italic text and
+underlining appearing within a quote has been retained from the original.
+11.  Where the meaning of a quote is uncertain or ambiguous, explanatory material has
+been added in square brackets.
+12.  US spellings are used for all US job titles and for US and international organisations
+using US spellings in their names, and are retained in all quotes from US sources.
+
+Documents published by the Inquiry
+13.  Whole documents and extracts declassified by the Government, transcripts of the
+Inquiry’s hearings and written submissions to the Inquiry are published on the Inquiry
+website, with redactions where necessary.
+14.  Where the Government has declassified a gist or quote from a document, but not
+the whole document or an extract from it, there is no further material available to the
+reader beyond the gist or quote in the Report.
+15.  In the online version of the Report, hyperlinks in the footnotes take the reader to
+documents published on the Inquiry website.
+16.  The footnotes in the printed version of the Report do not distinguish between those
+documents which have been published on the Inquiry website and those which have not.
+17.  The Report does not include links to other published sources.
+18.  The legibility of a small number of government documents published on the Inquiry
+website is poor. In each case, the Inquiry has published the clearest copy available.
+
+326
+
+Annex 5  |  How to read and navigate the Report
+
+Redacted evidence
+19.  The Government has required redactions to certain documents under the terms
+of the Protocol between the Iraq Inquiry and Her Majesty’s Government regarding
+Documents and Other Written and Electronic Information. Those redactions appear
+in three forms:
+
+•	
+•	
+•	
+
+as thick black lines in the transcripts of oral evidence given in private;
+as blank white space in whole documents published by the Inquiry; and
+as an ellipsis (three dots) within quotations in the text.1
+
+20.  Certain categories of information have been withheld from publication under the
+terms of the Protocols agreed between the Inquiry and the Government:
+
+•	
+•	
+•	
+
+views expressed by President Bush in conversations with Mr Blair;
+
+•	
+
+certain material on the activities of UK Special Forces and the names of
+successive Directors of Special Forces, who are identified in the Report as
+DSF1 to DSF3; and
+
+•	
+
+the reference numbers of JIC Assessments;
+the names of SIS officers (other than C), who are identified in the Report as
+SIS1 to SIS10;
+
+a small number of other identities and capabilities that require protection and are
+identified in the text by ciphers.
+
+21.  The Inquiry has received some evidence which it has agreed to publish
+anonymously in accordance with the criteria in paragraphs 4a and 4b of the Protocol for
+hearing evidence by the Iraq Inquiry in public, and for identifying witnesses.
+
+Unusual document types
+22.  The Inquiry has published and makes reference to a wide range of written material.
+Less familiar categories of official document include:
+
+FCO telegrams
+23.  Telegrams were electronically transmitted reports sent between the FCO in London
+and British Embassies, Missions and Consulates overseas. Very occasionally they were
+transmitted to or from other government departments and between overseas posts.
+24.  All telegrams from the FCO in London were attributed to the Foreign Secretary.
+The most important were seen by the Foreign Secretary in draft. All telegrams from
+posts were signed, and almost always seen in draft by, the Head or acting Head of Post.
+25.  All telegrams formed part of the FCO official record.
+Not all ellipses represent a redaction. Some represent text omitted by the Inquiry for reasons of
+relevance. All ellipses in square brackets represent redacted text.
+1 
+
+327
+
+The Report of the Iraq Inquiry
+
+26.  Telegrams to and from individual posts were numbered sequentially through the
+calendar year, starting with “TELNO 1” on 1 January.
+27.  All telegrams included a date time group using Greenwich Mean Time (GMT).
+A telegram from the British Embassy Washington sent on “170356Z JULY 03” refers to
+a telegram sent at 3.56am GMT on 17 July 2003 (11.56pm on 16 July in Washington;
+4.56am on 17 July in London).
+28.  A precedence marking signified the urgency of the telegram. “FLASH” indicated
+a telegram to be seen immediately by the recipient. A telegram marked “DESKBY
+170600Z” was to be available to the recipient at 6.00am GMT. The other designations
+were “IMMEDIATE”, “PRIORITY” and “ROUTINE”.
+29.  The FCO phased out telegrams during 2005. They were replaced by eGrams.
+
+FCO eGrams
+30.  The eGram, which replaced FCO telegrams during 2005, was used for significant
+communications and formed part of the FCO official record. It offered much of the
+flexibility of an email, including the ability to add attachments.
+31.  Unlike telegrams, each eGram was assigned a unique number in a single FCO-wide
+sequence starting at midnight GMT on 31 December. Paris eGram 127/06 to the FCO
+was not the 127th eGram from Paris, but the 127th eGram sent on the system in 2006.
+
+FCO teleletters
+32.  Letters between named individuals sent electronically using the FCO telegram
+system. Phased out in 2005.
+
+Valedictories
+33.  Reports from officials at the end of a tour of duty as the head of an overseas post.
+
+Hauldown reports
+34.  Valedictories sent by UK military commanders at the end of a tour of duty in Iraq.
+
+Private Secretary letters
+35.  Routine formal communication between government departments is often
+conducted by means of a letter from one Ministerial Private Secretary to another. Such
+letters should be interpreted as reflecting the views of the Minister, not of the signatory.
+The importance of an issue can often be inferred from the seniority of the Private
+Secretary. For instance, a letter from one Principal Private Secretary to another would
+usually hold more weight than a letter from one junior Minister’s Private Secretary
+to another.
+
+328
+
+Annex 5  |  How to read and navigate the Report
+
+Names and ranks
+36.  All names, honours, military ranks and job titles in the Report reflect the individual’s
+position at the time of the event in question.
+37.  Where the Report quotes written or oral evidence from a witness to the Inquiry, the
+witness is identified according to their status at the time they gave evidence.
+
+329
+

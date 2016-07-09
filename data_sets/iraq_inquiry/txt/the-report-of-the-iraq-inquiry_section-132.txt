@@ -1,0 +1,629 @@
+SECTION 13.2
+CONCLUSIONS: RESOURCES
+Contents
+Introduction and key findings ........................................................................................ 570
+Estimates of the cost of the UK’s involvement in Iraq ................................................... 570
+The decision to take military action against Iraq ........................................................... 572
+Arrangements for funding military operations and civilian activities .............................. 575
+Resources and strategy ................................................................................................ 580
+Lessons ......................................................................................................................... 581
+
+569
+
+The Report of the Iraq Inquiry
+
+Introduction and key findings
+1.  This Section addresses analysis and findings in relation to the evidence set out in
+Section 13.1, on the allocation of resources for military operations and civilian activities
+in Iraq.
+2.  This Section does not address how government departments used the resources
+available to them. Specifically:
+
+•	
+•	
+•	
+
+the provision of military equipment is considered in Sections 6.3 and 14;
+the UK’s support for reconstruction is considered in Section 10; and
+the UK’s support for Security Sector Reform is considered in Section 12.
+
+Key findings
+•	
+
+The direct cost of the conflict in Iraq was at least £9.2bn (the equivalent of
+£11.83bn in 2016). In total, 89 percent of that was spent on military operations.
+
+•	
+
+The Government’s decision to take part in military action against Iraq was not
+affected by consideration of the potential financial cost to the UK of the invasion or
+the post‑conflict period.
+
+•	
+
+Ministers were not provided with estimates of military conflict and post‑conflict costs,
+or with advice on their affordability, when decisions were taken on the scale of the
+UK’s military contribution to a US‑led invasion of Iraq, and on the UK’s role in the
+post‑conflict period. They should have been.
+
+•	
+
+There was no articulated need for additional financial resources for military
+operations in Iraq that was not met.
+
+•	
+
+The arrangements for funding military Urgent Operational Requirements (UORs) and
+other military costs worked as intended, and did not constrain the UK military’s ability
+to conduct operations in Iraq.
+
+•	
+
+The controls imposed by the Treasury on the Ministry of Defence’s (MOD’s) budget
+in September 2003 did not constrain the UK military’s ability to conduct operations
+in Iraq.
+
+•	
+
+The Government was slow to recognise that Iraq was an enduring operation, and
+to adapt its funding arrangements to support both military operations and civilian
+activities.
+
+•	
+
+The arrangements for securing funding for civilian activities could be slow and
+unpredictable. Some high‑priority civilian activities were funded late or only in part.
+
+Estimates of the cost of the UK’s involvement in Iraq
+3.  It was the responsibility of departments in the first instance to:
+
+•	
+•	
+•	
+
+produce estimates of the costs of activities for which they were responsible;
+discuss those estimates with the Treasury; and
+make them available to Ministers and, if appropriate, Cabinet to inform their
+discussions.
+570
+
+13.2  |  Conclusions: Resources
+
+4.  The Treasury began considering the potential cost of UK involvement in Iraq in
+June 2002, and produced the first estimated figure for the cost of military action in Iraq
+(£2.5bn) in September 2002.
+5.  The MOD sent “some indicative breakdowns” of the cost of military action to the
+Treasury on 11 October1 and “ball‑park figures” for the cost of military action (up to £2bn)
+to Mr Blair on 15 October, to inform his decision on whether to offer a large scale land
+force to the US.2
+6.  Mr Geoff Hoon, the Defence Secretary, sent a detailed estimate of contingency
+planning costs (£1.65bn) to Mr Gordon Brown, the Chancellor of the Exchequer, in
+mid‑December. A copy of the letter was sent to Mr Blair. That estimate covered the
+cost of preparing, deploying and retrieving a military force, but not of any war‑fighting
+or post‑conflict activities.
+7.  The MOD produced its first estimate of military post‑conflict costs in February 2003,
+just one month before the invasion. It also increased its estimated figure for the cost of
+military action (to between £2.5bn and £3bn).
+8.  The Treasury produced detailed analyses of the implications of a conflict in Iraq for
+public expenditure in September and October 2002.
+9.  Treasury officials’ advice to Mr Brown on military cost estimates and the implications
+for public expenditure was timely and accurate. It repeatedly highlighted the risk that
+the UK would have to maintain a significant military force in Iraq in the medium term
+and challenged the MOD’s assertion that the UK could limit its financial liability for Iraq’s
+post‑conflict security and reconstruction.
+10.  The MOD should have produced detailed estimates of military conflict and
+post‑conflict costs sooner, in order to inform consideration of options for the UK’s
+engagement.
+11.  Both the Treasury (from September 2002) and the Department for International
+Development (DFID) (from January 2003) produced detailed and robust analyses of
+potential humanitarian assistance and reconstruction costs in Iraq. Both departments
+concluded that the costs could be substantial.
+12.  Treasury officials’ advice to Mr Brown highlighted the risk that the UK might have to
+make a significant contribution to Iraq’s reconstruction, as a key member of the Coalition
+and in particular in the absence of UN cover. The UK Government expected that UN
+cover would be necessary if other international partners were to provide significant
+contributions to the post‑conflict effort.
+
+Minute Nye to Chancellor, 11 October 2002, ‘Iraq: Decisions Nearing’.
+Minute Hoon to Prime Minister, 15 October 2002, ‘Iraq: UK Military Options’ attaching Paper MOD,
+14 October 2002, ‘Iraq: UK Contingency Planning’.
+1 
+2 
+
+571
+
+The Report of the Iraq Inquiry
+
+13.  In February 2003, Treasury officials provided Mr Brown with the first comprehensive
+estimate of military and civilian costs for the conflict and post‑conflict period. The cost of
+a military campaign was estimated at £3.4bn over three years, with a further £1bn in the
+first year after a conflict for post‑conflict military operations. The cost of a UK contribution
+to humanitarian assistance and reconstruction was estimated at up to £0.75bn in the
+first year after a conflict (representing 10 percent of the cost of the total international
+effort). The Treasury indicated that costs for military operations beyond 2004/05 and for
+humanitarian assistance and reconstruction beyond 2003/04 were unknown.
+14.  Treasury officials advised Mr Brown that their estimate reflected the “biggest
+commitment” that the UK could make in the post‑conflict period – taking military
+responsibility for a geographical area of Iraq.3 The costs of such a commitment would be
+substantial and could extend into the long term.
+15.  Given the uncertainties over the scale of the UK’s military presence in post‑conflict
+Iraq, and the inevitable uncertainties over the scale of any post‑conflict humanitarian
+crisis and reconstruction challenge, the Treasury’s February 2003 estimates were
+remarkably accurate.
+16.  Mr Paul Boateng, the Chief Secretary to the Treasury from 2002 to 2005, told the
+Inquiry that the Treasury’s analyses of the impact of war on the UK’s public finances
+were not conducted with the intention of “second‑guessing” Ministers, but to enable the
+Treasury to contribute to planning and policy discussions.4
+17.  The Inquiry agrees that the Treasury’s analyses should have contributed to planning
+and policy discussions.
+18.  Mr Brown told the Inquiry that, in his discussions with Cabinet colleagues in
+the months leading up to the invasion, he made it clear that the Treasury would not
+“interfere” by suggesting that cost should be a factor in choosing one military option over
+another:
+“That was not our job ... At every point, I made it clear that we would support
+whatever option the military decided upon with the Prime Minister and the
+Cabinet ...”5
+
+The decision to take military action against Iraq
+19.  Section 6.5 addresses the Government’s failure to establish a unified
+planning process across the four principal departments involved – the Foreign and
+Commonwealth Office (FCO), the MOD, DFID and the Treasury – or between military
+and civilian planners, in the pre‑conflict period.
+Minute Treasury [junior official] to Chancellor, 19 February 2003, ‘Update on Iraq’ attaching Paper
+Treasury, 19 February 2003, ‘Iraq Conflict – Public Expenditure Impact’.
+4 
+Public hearing, 14 July 2010, page 22.
+5 
+Public hearing, 5 March 2010, pages 25‑26.
+3 
+
+572
+
+13.2  |  Conclusions: Resources
+
+20.  In the absence of a Cabinet Minister with overall responsibility for Iraq, leadership
+on strategy rested with Mr Blair.
+21.  The version of the Ministerial Code that was current in 2003 stated that it was the
+responsibility of the initiating department to ensure that proposals involving expenditure
+or affecting general financial policy were discussed with the Treasury before being
+submitted to Cabinet or a Ministerial Committee. The result of the discussion together
+with an estimate of the cost should be included in the memorandum submitted to
+Cabinet or a Ministerial Committee.
+
+Mr Brown’s discussions with Ministers on the likely
+costs of the UK’s involvement in Iraq
+In the months before the invasion, Treasury officials produced a series of detailed
+analyses of the likely cost of intervention in Iraq, and the effect on public expenditure, for
+Mr Brown. In the context of that advice, Treasury officials urged Mr Brown to intervene in
+discussions on the scale of the UK’s involvement in the military campaign and on the UK’s
+role in a post‑conflict Iraq.
+Mr Brown had many meetings with Cabinet colleagues, including Mr Blair, in the run‑up
+to the invasion. Those meetings were often one‑to‑one, and no record was taken. In the
+absence of those records, the Inquiry is unable to determine whether or in what way
+Mr Brown raised the issues highlighted by his officials.
+
+22.  The detailed estimates for military conflict and post‑conflict costs produced by the
+MOD and the Treasury, and the analyses of the implications of a conflict in Iraq for public
+expenditure produced by the Treasury, were not sent to Mr Blair or to Ministers outside
+the originating departments.
+23.  Ms Clare Short, the International Development Secretary, wrote to Mr Blair on
+5 February, 14 February and 5 March 2003, highlighting the potential cost of a UK
+contribution to an international humanitarian assistance and reconstruction effort, and
+the potential cost of pursuing an exemplary approach to the provision of humanitarian
+assistance in the UK’s Area of Responsibility (AOR) in southern Iraq. She also raised the
+issue in Cabinet on 27 February.
+24.  On 14 March, in response to Mr Blair’s request that Mr Brown should draw up a
+funding plan for Iraq, the Treasury provided a paper setting out the potential cost of a
+UK contribution to an international humanitarian assistance and reconstruction effort.
+25.  Detailed estimates of military costs and the analyses of the implications of a conflict
+for public expenditure should have been available to Ministers on three occasions which
+shaped the UK’s involvement in Iraq:
+
+•	
+
+In advance of Mr Blair’s decision on 31 October 2002 that the UK should
+offer a large scale land force to the US for planning purposes.
+
+573
+
+The Report of the Iraq Inquiry
+
+Mr Blair had, over the previous month, expressed his concern to Mr Hoon over
+the additional costs associated with providing a large scale land force as part of
+a UK contribution to a US‑led invasion of Iraq, and asked whether those costs
+had been discussed with the Treasury.
+The MOD and the Treasury had, by the middle of October, developed broad
+estimates of the cost of providing a large scale land force. Mr Brown had also
+been provided with detailed analyses of the implications for public expenditure of
+a conflict in Iraq.
+
+•	
+
+At the meeting where the decision to offer a large scale land force was taken,
+Admiral Sir Michael Boyce, Chief of the Defence Staff, stated his belief that
+providing a large military contribution to the campaign would mean that the
+UK would be under less pressure to make a large contribution to post‑conflict
+reconstruction.
+In February and March 2003, when the Government considered whether to
+take on military responsibility for a geographical area of Iraq in the post‑conflict
+period.
+The MOD and the Treasury had, by February, developed detailed estimates of
+the potential cost of such a commitment (although there remained a number of
+unknown factors).
+When the Government acceded in April to the US request that it assume
+leadership of a military AOR encompassing four provinces in southern Iraq, it did
+so without a robust analysis either of the strategic implications for the UK or of
+the military’s capacity to support the UK’s potential obligations in the region. A
+step of such magnitude should have been taken deliberately, having considered
+the wider strategic and resource implications and contingent liabilities.
+
+•	
+
+In the event, the UK was responsible for security in its AOR for six years,
+initially as an Occupying Power and, from June 2004, in support of the Iraqi
+Government.
+In advance of Cabinet’s decision on 17 March 2003 to issue an ultimatum
+to Iraq and ask the House of Commons to endorse the use of military action
+against Iraq if necessary.
+
+26.  The extent to which cost should be a determining factor in reaching a policy decision
+is for Ministers to judge based on the circumstances of each particular case. But it is
+essential that those taking collective responsibility for a decision have the ability to make
+an informed judgement about the likely costs and risks.
+27.  Neither Cabinet nor any of the Ministerial meetings convened to discuss military
+options and the UK’s role in a post‑conflict Iraq were provided with detailed cost
+estimates for the various policy options for the UK’s involvement in Iraq, and their
+implications for public expenditure.
+
+574
+
+13.2  |  Conclusions: Resources
+
+28.  Those meetings were therefore unable to reach informed judgements on the
+financial risk associated with those options.
+29.  The leading role played by No.10 in the decision to support US‑led military action
+against Iraq may have contributed to that omission.
+30.  In relation to decisions of such gravity as invading another sovereign country, it is
+particularly important that the Prime Minister ensures that the Ministerial Code is met.
+31.  But Mr Brown, as Chancellor of the Exchequer, should have ensured that estimates
+of the likely overall cost of a UK intervention in Iraq, for military and civilian activities
+during the conflict and post‑conflict period, and the wider implications for public
+expenditure were identified and available to Ministers and Cabinet.
+
+Arrangements for funding military operations and
+civilian activities
+32.  The Government used the existing – separate – arrangements for funding military
+operations and civilian activities to fund the UK’s involvement in Iraq.
+33.  Military operations were funded through well‑established procedures which enabled
+the MOD to incur costs and then reclaim them from the Reserve. Those claims were
+(in line with the agreed procedures) subject to a relatively light level of scrutiny by
+the Treasury.
+34.  DFID and the FCO funded their activities in Iraq in the first instance by reprioritising
+within their existing departmental settlements and, if and when that proved insufficient,
+by bidding to the Treasury for additional funding from the Reserve. Those bids were
+closely scrutinised by the Treasury.
+35.  The Treasury pressed DFID and the FCO hard to reprioritise within their existing
+departmental settlements to fund new activities in Iraq, before agreeing to provide
+additional funding from the Reserve. An FCO official, writing in 2005, described the
+Treasury as playing “hard ball” and setting departments against one another in order
+to see off potential and actual claims to the Reserve.6
+36.  The MOD, DFID and the FCO also had access to a small, inter‑departmental
+fund – initially the Global Conflict Prevention Pool (GCPP) – intended for conflict
+prevention activities. The GCPP had been established to encourage and support a more
+co‑ordinated approach across Government.
+37.  DFID had a larger departmental settlement than the FCO, including a large
+allocation for funding programmes. Programme allocations could be used flexibly in
+response to emerging priorities. DFID therefore had more scope than the FCO to find
+funding for new programmes in Iraq.
+6 
+
+Minute Crompton to Sawers, 4 May 2005, ‘Iraq: Reflections’.
+
+575
+
+The Report of the Iraq Inquiry
+
+38.  Sir Suma Chakrabarti, DFID Permanent Secretary from 2002 to 2007, told the
+Inquiry that DFID’s funding for Iraq was found by reallocating funding from DFID
+programmes in other middle‑income countries, rather than from programmes in
+low‑income countries.7
+39.  Sir Mark Lyall‑Grant, FCO Policy Director from 2007 to 2009, summarised the
+situation in his evidence to the Inquiry:
+“… you have the MOD which can call on the Reserve for unforeseen military
+expenditure. You have DFID, who have a large amount of programme money ...
+and you have the Foreign Office that doesn’t have any money.”8
+40.  The Treasury’s priority throughout the period covered by the Inquiry was to
+avoid any suggestion that other departments should have access to the Reserve on
+the same basis as the MOD. In February 2007, a senior Treasury official advised
+Mr Stephen Timms, Chief Secretary to the Treasury from May 2006 to June 2007:
+“Arguably this [the different arrangements for funding military operations and civilian
+activities] can lead to perverse outcomes ... if it incentivises decision‑makers to
+prefer military responses to civilian ones. But it is a useful safety net for us and not
+to be given up without careful thought.”9
+41.  The arrangements for funding military operations (including Urgent Operational
+Requirements – UORs) worked as intended, and did not constrain the military’s ability to
+conduct operations in Iraq.
+42.  All the MOD’s claims on the Reserve in respect of UORs and other additional
+military costs were met.
+43.  There are no indications that Mr Brown, Mr Boateng or Treasury officials acted to
+delay or distort the provision of funding for UORs and other additional military costs.
+44.  There are no indications that DFID’s activities in Iraq were constrained by a lack of
+resources. The constraints imposed by the disproportionate cost of providing security for
+civilian staff and contractors in Iraq are addressed in Section 15.
+
+Public hearing, 22 January 2010, pages 38‑40.
+Public hearing, 20 January 2010, page 35.
+9 
+Minute Quinault to Chief Secretary, 13 February 2007, ‘DOP Meeting on Iraq and Afghanistan,
+14 February’.
+7 
+8 
+
+576
+
+13.2  |  Conclusions: Resources
+
+Funding for humanitarian assistance
+Ms Short and Sir Suma Chakrabarti both told the Inquiry that DFID’s ability to plan to
+deliver humanitarian assistance had been constrained by the Treasury’s reluctance to
+provide additional funding from the Reserve.
+By the end of January 2003, DFID officials had developed a detailed (but still draft)
+assessment of potential UK contributions for humanitarian relief and reconstruction in Iraq,
+under a number of scenarios.
+Ms Short did not approach Mr Brown or the Treasury with a specific bid for additional
+resources until 21 March (although she was aware that Mr Brown was likely to support it).
+She did write to Mr Blair on 5 February, 14 February and 5 March, advising him of the cost
+of potential UK contributions for humanitarian relief and reconstruction (up to £440m a
+year), and seeking direction on the role of the UK in delivering the humanitarian response.
+She also raised the issue in Cabinet on 27 February.
+Given the scale of UK resources that might have been required, it was reasonable to seek
+clear direction from Mr Blair on the UK’s role in the humanitarian response. But that did
+not preclude an early bid to the Reserve. Indeed, a detailed bid may have focused the
+Government’s attention on the need to define the UK’s role more clearly.
+By the end of March, DFID had earmarked £210m for humanitarian assistance in Iraq,
+comprising £90m from DFID’s own resources and £120m that it had secured from the
+Reserve. In addition, the Treasury had agreed that the UK military could spend £30m on
+providing humanitarian assistance in the UK’s Area of Operations.
+The humanitarian crisis that had been feared did not materialise. By the beginning of May,
+DFID had reallocated the balance of the £210m allocated for humanitarian assistance that
+remained uncommitted – approximately £90m – to reconstruction.
+
+45.  Given its limited programme funds, the FCO found it particularly difficult to identify
+funding for new activities in Iraq. It was successful in making bids for funding from
+the Reserve to pay for security costs for personnel deployed to Iraq and diplomatic
+representation, but other bids were rejected in full or in part.
+46.  The FCO’s difficulty in securing additional funding was due in part to the quality of
+its bids to the Reserve, and in part to the Treasury’s perception that the FCO had not
+made sufficient effort to reprioritise from within its existing resources. The Inquiry has not
+assessed the accuracy of that perception.
+47.  In their efforts to secure funding, departments stretched the scope of the GCPP to
+accommodate activities as diverse as military equipment for the Iraqi Security Forces
+and the Basra Poetry Festival. But the Pool was small (only £7.5m for Iraq in 2003/04)
+and the process for securing funding was slow. Sir Mark Lyall‑Grant told the Inquiry that
+decisions about how to spend relatively small sums of money had led to “huge disputes
+
+577
+
+The Report of the Iraq Inquiry
+
+between Government departments” which had consumed significant amounts of senior
+officials’ time.10
+48.  Departments found it particularly difficult to find funding for activities that emerged
+“in‑year” or appeared to fall between the boundaries of departments’ responsibilities
+(such as activities to promote political outreach or support the Iraqi media). A number
+of civilian activities that Ministers had identified as a high priority – including, in 2003,
+support for the Iraq Media Network and, in 2006, the first Better Basra Action Plan –
+were funded late, and only in part.
+49.  Departments recognised in mid‑2003 that the arrangements for funding civilian
+activities were not working well. In September, the Treasury rejected a proposal from
+departments for a new pool for funding non‑military activity in Iraq, on the grounds that it
+might lead to an increase in claims to the Reserve.
+50.  The UK’s deployment into Helmand province, Afghanistan, in 2006 prompted
+departments, led by the FCO, to revisit the arrangements for funding civilian post‑conflict
+activities. Initial proposals focused on enhancing or complementing the GCPP (on the
+assumption that the Treasury would not allow access to the Reserve for non‑military
+activities).
+51.  At the same time, MOD claims on the Reserve for UORs increased significantly as
+security in Iraq deteriorated, expenditure on Afghanistan increased, and the Government
+provided new equipment for the Armed Forces.
+52.  The Treasury continued to agree the MOD’s claims against the Reserve, but by
+April 2007 had concluded that the UOR programme had become a straightforward
+supplement to the MOD’s Equipment Programme rather than a response to urgent and
+specific requirements in a theatre of operations.
+53.  In July 2007, the MOD and the Treasury agreed a new arrangement for funding
+UORs designed to shift the focus of the MOD’s Equipment Programme towards current
+operations. The new arrangement was expected to be cost neutral for the MOD.
+54.  There were also changes to the arrangements for funding non‑military activities.
+In July, the Treasury announced the creation of a new Stabilisation Fund (later
+renamed the Stabilisation Aid Fund – SAF) to fund immediate civilian support to
+military operations (activities which had previously been funded from the GCPP).
+The GCPP was combined with the Africa Conflict Prevention Pool to form the Conflict
+Pool. New governance arrangements sought to link more closely expenditure from the
+SAF and the Conflict Pool with UK strategy.
+55.  The changes to the arrangements for funding UORs did not affect operations in Iraq,
+which were by this time generating fewer demands for UORs.
+
+10 
+
+Public hearing, 20 January 2010, pages 36–37.
+
+578
+
+13.2  |  Conclusions: Resources
+
+56.  There are no indications that the new arrangements for funding civilian activities
+affected the civilian effort in Iraq, which was by that time reducing.
+57.  The Government continued to develop its arrangements for funding reconstruction
+and stabilisation operations.
+58.  The Inquiry has not evaluated in detail the effectiveness of the new arrangements
+that were introduced in 2007. They do exhibit some important and welcome features:
+
+•	
+•	
+
+a dedicated and substantial pool of resources for civilian activities in
+environments such as Iraq and Afghanistan; and
+a requirement that allocations should be based on an inter‑departmental
+strategy.
+
+59.  The Government should have recognised earlier that Iraq was an enduring
+operation, and adapted its arrangements for funding the military operation and civilian
+activities accordingly in order to:
+
+•	
+•	
+
+ensure that the UOR programme retained its focus on addressing urgent and
+specific requirements in theatre; and
+address the difficulties in securing funding for civilian activities.
+
+The imposition of Treasury controls on the MOD
+In the light of the publicity surrounding the funding and management of the defence
+programme in 2003 and 2004, the Inquiry examined two related questions:
+
+•	
+
+whether the size of the MOD’s core budget imposed constraints on operations
+in Iraq; and
+
+•	
+
+whether the imposition of controls on the MOD’s management of its resources
+by the Treasury in September 2003 had an impact on operations in Iraq.
+
+Several witnesses told the Inquiry that, in the MOD’s view, the 1998 Strategic Defence
+Review, which signified a major shift towards expeditionary armed forces, had not been
+fully funded.
+With respect to military operations in Iraq, there are no indications that there was an
+unmet, articulated need for additional financial resources. All the MOD’s claims on the
+Reserve in respect of UORs and other additional military costs were met.
+The Inquiry concludes in Section 14.2 that there were known military capability gaps in
+Iraq, and that the availability of funding was not a direct barrier to the identification and
+deployment of solutions to those gaps.
+During September 2003, the MOD’s additional cash requirement for 2003/04 rose from
+£490m to £1,152m. The MOD intended to meet that cash requirement by making a
+transfer from its non‑cash budget. The Treasury took the view that that increase signalled
+a complete lack of budgetary control within the MOD, and on 26 September imposed
+controls on the MOD’s management of its resources.
+
+579
+
+The Report of the Iraq Inquiry
+
+The size of the MOD’s proposed transfer from its non‑cash budget reflected a deliberate
+attempt by the MOD to exploit the opportunities offered by the Government’s transition
+from cash accounting to Resource Accounting and Budgeting.
+The increase in the size of the MOD’s cash requirement during September reflected the
+inability of the MOD to produce reliable estimates of its cash requirement.
+There are no indications that the controls imposed on the MOD by the Treasury in
+September 2003 constrained the military’s ability to conduct operations in Iraq.
+
+Resources and strategy
+60.  Section 9.8 describes the Government’s repeated reassessments of its strategy
+for Iraq. Those strategies tended to focus on describing a desired end state, rather
+than how it would be reached.
+61.  None of those strategies considered the resources that the Government would
+need to commit to achieve those end states and (at a strategic level) how those
+resources should be allocated.
+62.  In the absence of a strong strategic framework, spending on military operations in
+Iraq was driven by a series of decisions on UK force levels and on the equipment that
+should be provided to the Armed Forces.
+63.  The Inquiry concludes in Section 9.8 that, from July 2005 onwards, decisions in
+relation to resources for Iraq were made under the influence of the demands of the UK
+effort in Afghanistan.
+64.  Allocations for civilian activities were driven by the FCO’s and DFID’s willingness
+and ability to reprioritise from within their departmental budgets and their ability to secure
+additional funding from the Reserve and the GCPP.
+65.  The direct cost to the UK Government of its intervention in Iraq between 2002/03
+and 2009/10 was at least £9.2bn in cash terms (the equivalent of £11.83bn in 2016),
+comprising:
+
+•	
+•	
+•	
+•	
+
+£8.20bn (89 percent of the total direct cost) on military operations;
+£0.58bn (6 percent) on humanitarian and development assistance;
+£0.30bn (3 percent) on diplomatic representation; and
+£0.16bn (2 percent) from the inter‑departmental pools.
+
+66.  There are no indications that the Government questioned the balance of funding
+between military operations and civilian activities, or considered what the most effective
+balance of effort might be to achieve the UK’s strategic objectives.
+67.  Lord Boateng told the Inquiry that the imbalance in funding between military
+operations and civilian activities had arisen “partly as a result of the funding mechanism
+580
+
+13.2  |  Conclusions: Resources
+
+deployed, in the sense that the Ministry of Defence had an access to the Reserve that
+was on a different scale from the others [DFID and the FCO]”.11 He continued:
+“... did anyone sit down and say, ‘Well, this is the sum of money that we have, this
+ought to be the balance?’ No, I don’t think they did. Should they have done? Maybe,
+but actually it is ... very difficult to do.”
+
+Lessons
+68.  The direction in the Ministerial Code that the estimate of a cost of a proposal should
+be included in the memorandum submitted to Cabinet or a Ministerial Committee applies
+equally to military operations. When evaluating military options it is appropriate to
+consider financial risk alongside other forms of risk. While governments will rarely wish
+to preclude options solely on the basis of cost, they must also recognise that, over time,
+cost may become an issue and make it difficult to sustain a military operation over the
+longer term.
+69.  Section 9.8 addresses the difficulties that the Government faced in converting
+successive UK strategies into action, in part because those strategies tended to focus
+on describing the desired end state rather than how it would be reached. On none
+of the occasions when UK strategy was reconsidered was a robust, costed plan for
+implementation produced.
+70.  Strategies and plans must define the resources required to deliver objectives,
+identify the budget(s) that will provide those resources, and confirm that those resources
+are available.
+71.  In developing strategies and plans for civilian/military operations, a government
+should address the impact of the different mechanisms used to fund military operations
+and civilian activities and the extent to which those mechanisms provide perverse
+incentives for military action by making it easier to secure funding for agreed military
+operations than for civilian activities.
+72.  A government should also address its explicit and implicit financial policy that, while
+there should be no constraint on the provision of funding for military operations, it is
+reasonable that for the same civilian/military operation, departments should find funding
+for new civilian activities from within their existing budgets, which are likely to be fully
+allocated to existing departmental priorities.
+73.  A government is likely to embark on major civilian/military operations such as Iraq
+only rarely.
+74.  A government should recognise that, in such operations, the civilian components
+(including diplomatic activity, reconstruction and Security Sector Reform) will be critical
+for strategic success, may be very substantial, and must be properly resourced.
+11 
+
+Public hearing, 14 July 2010, page 41.
+
+581
+
+The Report of the Iraq Inquiry
+
+75.  One arrangement would be to create a budget for the civilian components of the
+operation, under the direction of a senior Minister with lead responsibility and in support
+of a coherent UK strategy. Once allocations were made from that budget to individual
+departments, the allocations would be managed within departments’ legal and policy
+constraints. Such an arrangement should:
+
+•	
+•	
+•	
+•	
+•	
+
+ensure that UK strategy was resourced;
+promote joint working;
+minimise the potential for gaming;
+be able to respond to in‑year priorities; and
+reduce the amount of time that Ministers and senior officials need to spend
+arguing about funding individual activities.
+
+76.  The Inquiry recognises that, since 2003, significant changes have been made to the
+UK’s strategic and operational approach to reconstruction and stabilisation, including to
+the arrangements for funding such operations.
+
+582
+

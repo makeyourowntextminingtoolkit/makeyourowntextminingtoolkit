@@ -1,0 +1,1750 @@
+SECTION 9.8
+CONCLUSIONS: THE POST-CONFLICT PERIOD
+Contents
+Introduction and key findings ........................................................................................ 470
+Objectives and preparation ........................................................................................... 471
+Overview of the post-conflict period .............................................................................. 472
+Occupation .................................................................................................................... 473
+Looting in Basra ...................................................................................................... 473
+Looting in Baghdad ................................................................................................. 474
+UK influence on post-invasion strategy .................................................................. 475
+Resolution 1483 ............................................................................................... 475
+UK influence on the Coalition Provisional Authority ......................................... 476
+A decline in security ................................................................................................ 479
+The turning point ..................................................................................................... 484
+Transition ...................................................................................................................... 485
+UK influence on US strategy post-CPA ................................................................... 485
+Planning for withdrawal ........................................................................................... 485
+The impact of Afghanistan ...................................................................................... 487
+Iraqiisation .............................................................................................................. 489
+Preparation for withdrawal ............................................................................................ 491
+A major divergence in strategy ............................................................................... 491
+A possible civil war .................................................................................................. 492
+Force Level Review ................................................................................................ 495
+The beginning of the end ........................................................................................ 498
+Did the UK achieve its strategic objectives in Iraq? ...................................................... 499
+Issues in the UK system ............................................................................................... 501
+Strategy-making ...................................................................................................... 501
+Optimism bias ......................................................................................................... 502
+Lessons ......................................................................................................................... 503
+
+469
+
+The Report of the Iraq Inquiry
+
+Introduction and key findings
+1.  This Section addresses conclusions in relation to evidence of the UK’s role after the
+conflict in Iraq, including:
+
+•	
+•	
+•	
+
+the development of UK strategy and deployment plans in response to the
+changing security situation, particularly in Basra and the South;
+UK influence on the development of a new political system in Iraq; and
+UK influence on US decision-making in relation to Iraq.
+
+2.  This Section does not address:
+
+•	
+•	
+•	
+•	
+
+preparations for the UK’s post-conflict role in Iraq, which are covered in
+Sections 6.4 and 6.5;
+detailed consideration of the de-Ba’athification of Iraqi institutions, which can
+be found in Section 11;
+the UK role in the reconstruction of Iraq, and the reform of its Security Sector,
+set out in Sections 10 and 12; and
+the provision of military equipment for use in Iraq, which is covered in
+Section 14.
+
+Key findings
+•	
+
+Between 2003 and 2009, the UK’s most consistent strategic objective in relation to
+Iraq was to reduce the level of its deployed forces.
+
+•	
+
+The UK struggled from the start to have a decisive effect on the Coalition Provisional
+Authority’s policies, even though it was fully implicated in its decisions as joint
+Occupying Power.
+
+•	
+
+US and UK strategies for Iraq began to diverge almost immediately after the conflict.
+Although the differences were managed, by early 2007 the UK was finding it difficult
+to play down the divergence, which was, by that point, striking.
+
+•	
+
+The UK missed clear opportunities to reconsider its military approach in
+Multi‑National Division (South-East).
+
+•	
+
+Throughout 2004 and 2005 it appears that senior members of the Armed Forces
+reached the view that little more would be achieved in MND(SE) and that it would
+make more sense to concentrate military effort on Afghanistan where it might have
+greater effect.
+
+•	
+
+From July 2005 onwards, decisions in relation to resources for Iraq were made under
+the influence of the demands of the UK effort in Afghanistan. Although Iraq remained
+the stated UK main effort, the Government no longer had the option of a substantial
+reinforcement of its forces there.
+
+•	
+
+The UK’s plans to reduce troop levels depended on the transition of lead
+responsibility for security to the Iraqi Security Forces, even as the latter’s ability
+to take on that responsibility was in question.
+
+470
+
+9.8  |  Conclusions: The post-conflict period
+
+•	
+
+The UK spent time and energy on rewriting strategies, which tended to describe
+a desired end state without setting out how it would be reached.
+
+•	
+
+UK forces withdrew from Iraq in 2009 in circumstances which did not meet objectives
+defined in January 2003.
+
+Objectives and preparation
+3.  Before the invasion began, the UK defined ambitious objectives for Iraq after the
+removal of Saddam Hussein and his regime from power.
+4.  The UK’s strategic objectives for Iraq were described by Mr Jack Straw, the Foreign
+Secretary, in a Written Ministerial Statement on 7 January 2003. The objectives included
+the following definition of the UK’s desired end state:
+“We would like Iraq to become a stable, united and law abiding state, within
+its present borders, co-operating with the international community, no longer
+posing a threat to its neighbours or to international security, abiding by all its
+international obligations and providing effective and representative government to
+its own people.”1
+5.  At the Azores Summit on 16 March, Mr Blair, President Bush and Mr José María
+Aznar, the Prime Minister of Spain, declared in the ‘Vision for Iraq and the Iraqi People’:
+“We will work to prevent and repair damage by Saddam Hussein’s regime to
+the natural resources of Iraq and pledge to protect them as a national asset of
+and for the Iraqi people. All Iraqis should share the wealth generated by their
+national economy …
+“In achieving this vision, we plan to work in close partnership with international
+institutions, including the United Nations … If conflict occurs, we plan to seek the
+adoption, on an urgent basis, of new United Nations Security Council resolutions
+that would affirm Iraq’s territorial integrity, ensure rapid delivery of humanitarian
+relief, and endorse an appropriate post-conflict administration for Iraq. We will also
+propose that the Secretary General be given authority, on an interim basis, to ensure
+that the humanitarian needs of the Iraqi people continue to be met through the
+Oil‑for-Food program.
+“Any military presence, should it be necessary, will be temporary and intended to
+promote security and elimination of weapons of mass destruction; the delivery of
+humanitarian aid; and the conditions for the reconstruction of Iraq. Our commitment
+to support the people of Iraq will be for the long term.”2
+
+1 
+2 
+
+House of Commons, Official Report, 7 January 2003, column 4WS.
+Statement of the Atlantic Summit, 16 March 2003, ‘A Vision for Iraq and the Iraqi People’.
+
+471
+
+The Report of the Iraq Inquiry
+
+6.  As described in Sections 6.4 and 6.5, the UK’s pre-invasion planning and preparation
+for its role in the Occupation of Iraq was not sufficient to deliver these ambitious
+objectives, in part because the UK had placed a great deal of reliance on planning
+by the US, as the lead member of the Coalition.
+7.  Many of the difficulties which the Coalition encountered after the successful military
+campaign had been, or could have been, foreseen. After facing those difficulties during
+his six-month posting in Baghdad, in March 2004 Sir Jeremy Greenstock concluded:
+“The preparations for the post-conflict stage were abject; wrong analysis, wrong
+people …”3
+8.  The UK hoped that, once the fighting had ceased, the UN would take a leading role
+in the reconstruction operation, including the establishment of an Iraqi Government,
+facilitating the arrival of resources from the international community and in particular
+from nations which had not contributed to the military Coalition.
+9.  The UK recognised that it would have responsibility for the area of southern Iraq
+controlled by its forces. It aspired to manage the post-conflict response in that region in
+such a way that it would be considered “exemplary” in relation to the rest of Iraq, drawing
+on resources provided by other nations.
+10.  Although officials had warned that knowledge of conditions within Iraq was
+incomplete, it was assumed that Iraq would have a functioning civil service, criminal
+justice system and security forces which, after the removal of Ba’athist leadership, would
+all play their part in its reconstruction.
+
+Overview of the post-conflict period
+11.  After the invasion force had rapidly brought down Saddam Hussein’s regime, the
+UK’s six-year engagement in Iraq fell into three broad phases, which the Inquiry has
+used to provide a simplified framework for describing events:
+
+•	
+•	
+•	
+
+3 
+
+Occupation – March 2003 to June 2004: during which the UK was formally a
+joint Occupying Power alongside the US, and Iraq was governed by the US-led
+Coalition Provisional Authority (CPA);
+Transition – June 2004 to the end of 2005: characterised by the increasing
+power of Iraqi politicians and institutions, and ending with elections and the
+formation of the Maliki Government; and
+Preparation for withdrawal – 2006 to 2009: during which period the
+UK sought to transfer its remaining responsibilities in Multi-National
+Division (South‑East) (MND(SE)) to Iraqi forces so that it could withdraw
+its remaining troops.
+
+Telegram 109 IraqRep to FCO London, 26 March 2004, ‘Iraq Valedictory: Six Months in the Cauldron’.
+
+472
+
+9.8  |  Conclusions: The post-conflict period
+
+12.  In each phase, the UK had dual responsibilities in Iraq: it contributed to the overall
+direction of the Coalition’s strategy and to those activities which took place at a national
+level, and also led the international effort in MND(SE), comprising the provinces of
+Basra, Dhi Qar, Maysan and Muthanna. From the outset, the UK placed particular
+emphasis on Basra province, and its capital – Iraq’s second city.
+13.  This Section considers the UK’s dual responsibilities in each phase.
+
+Occupation
+Looting in Basra
+14.  As described in Section 8, UK forces entered Basra City on the night of 6/7 April
+2003 and rapidly gained control, meeting less resistance than anticipated. Once
+the city was under its control, the UK was responsible, as the Occupying Power, for
+maintenance of law and order. Within its predominantly Shia Area of Operations, the
+UK assumed that risks to Coalition Forces would be lower than in the so-called “Sunni
+triangle” controlled by the US.
+15.  Before the invasion, the Joint Intelligence Committee (JIC) and the Defence
+Intelligence Staff had each identified that there was a risk of lawlessness breaking out
+in Iraq, and that it would be important to deal with it swiftly. Others, including Mr Blair,
+Sir Kevin Tebbit (the MOD Permanent Under Secretary) and the Iraq Policy Unit had
+recognised the seriousness of that risk.
+16.  However, the formal authorisation for action in Iraq issued by Admiral Sir Michael
+Boyce, Chief of the Defence Staff, on 18 March contained no instruction on how to
+establish a safe and secure environment if lawlessness broke out as anticipated.
+Although it was known that Phase IV (the military term for post-conflict operations)
+would begin quickly, no Rules of Engagement for that phase, including for dealing with
+lawlessness, were created and promulgated before UK troops entered the country.
+17.  Both before and during the invasion Lieutenant General John Reith, the Chief
+of Joint Operations, made the absence of instructions to UK forces covering what
+to do if faced with lawless behaviour by the Iraqi population in Basra explicit to the
+Chiefs of Staff.
+18.  Faced with widespread looting after the invasion, and without instructions, UK
+commanders had to make their own judgements about what to do. Brigadier Graham
+Binns, commanding 7 Armoured Brigade which had taken Basra City, told the Inquiry
+that he had concluded that “the best way to stop looting was just to get to a point where
+there was nothing left to loot”.4
+
+4 
+
+Private hearing, 2 June 2010, page 11.
+
+473
+
+The Report of the Iraq Inquiry
+
+19.  Although the implementation of tactical plans to deal with lawlessness was properly
+the responsibility of in-theatre commanders, it was the responsibility of the Chief of the
+Defence Staff and the Chief of Joint Operations to ensure that appropriate Rules of
+Engagement were set, and preparations made, to equip commanders on the ground
+to deal with it effectively. They should have ensured that those steps were taken.
+20.  The impact of looting was felt primarily by the Iraqi population rather than by
+Coalition Forces. The latter initially experienced a “honeymoon period”,5 although the
+situation was far from stabilised.
+21.  Lt Gen Reith anticipated that UK forces could be reduced to a medium scale
+effort by the autumn, when he expected the campaign to have reached “some form
+of ‘steady-state’”.6
+22.  The JIC correctly judged on 16 April that the local population had high hopes that
+the Coalition would rapidly improve their lives and that “resentment of the Coalition …
+could grow quickly if it is seen to be ineffective, either politically or militarily. Such
+resentment could lead to violence.”7
+23.  By the end of April, Mr Geoff Hoon, the Defence Secretary, had announced that
+UK troop levels would fall to between 25,000 and 30,000 by the middle of May, from
+an initial peak of around 46,000.
+24.  Consequently, by the start of May there was a clearly articulated expectation of a
+rapid drawdown of UK forces by the autumn despite the identified risk that the consent
+of the local population was built on potentially vulnerable foundations, which could be
+undermined rapidly and with serious consequences.
+
+Looting in Baghdad
+25.  In the absence of a functioning Iraqi police force and criminal justice system, and
+without a clear Coalition Phase IV plan, looting and score-settling became a serious
+problem in Baghdad soon after the regime fell. The looting of ministry buildings
+and damage to state-owned infrastructure in particular added to the challenges
+of the Occupation.
+26.  Reflecting in June 2004, Mr David Richmond, the Prime Minister’s Special
+Representative on Iraq from March to June 2004, judged that the failure to crack down
+on looting in Baghdad in April 2003 released “a crime wave which the Coalition has
+never been able to bring fully under control”.8
+
+Public hearing Walker, 1 February 2010, page 16.
+Minute Reith to SECCOS, 14 April 2003, ‘Phase 4: Roulement/Recovery of UK Forces’ attaching Paper
+CJO, 14 April 2003, ‘Phase 4 – Roulement/Recovery of UK Land Forces’.
+7 
+JIC Assessment, 16 April 2003, ‘Iraq: The Initial Landscape Post-Saddam’.
+8 
+Telegram 359 IraqRep to FCO London, 28 June 2004, ‘Iraq: Valedictory: The End of Occupation’.
+5 
+6 
+
+474
+
+9.8  |  Conclusions: The post-conflict period
+
+27.  After visiting Iraq in early May 2003, General Sir Mike Jackson, Chief of the General
+Staff, observed:
+“A security vacuum still exists [in Baghdad] … particularly at night. Looting,
+revenge killing and subversive activities are rife … Should a bloody and protracted
+insurgency establish itself in Baghdad, then a ripple effect is likely to occur.”9
+28.  Gen Jackson recognised that the UK’s ability to maintain the consent of the
+population in the South depended on a stable and secure Baghdad, and advised:
+“The bottom line is that if we choose not to influence Baghdad we must be confident
+of the US ability to improve [its tactics] before tolerance is lost and insurgency
+sets in.”
+29.  Gen Jackson, Major General David Richards (Assistant Chief of the General
+Staff) and Lieutenant General Sir Anthony Pigott (Deputy Chief of the Defence Staff
+(Commitments)) all offered advice in favour of deploying the UK’s 16 Air Assault Brigade
+to Baghdad to support Coalition efforts to retrain Iraqi police officers and get them back
+on patrol.
+30.  However, the Chiefs of Staff collectively considered that the benefits of making
+a contribution to the security of Baghdad were outweighed by the risk that UK troops
+would be “tied down” outside the UK’s Area of Responsibility, with adverse impact, and
+advised on 21 May against deploying 16 Air Assault Brigade. The Chiefs of Staff did not
+conclude that the tasks it was proposed that 16 Air Assault Brigade should undertake
+were unnecessary, but rather that US troops would complete them.
+
+UK influence on post-invasion strategy
+RESOLUTION 1483
+31.  On 21 March 2003, the day after the start of the invasion, Mr Jonathan Powell
+and Sir David Manning, two of Mr Blair’s closest advisers, offered him advice on how
+to influence the post-invasion US agenda. Key among their concerns was the need
+for post-conflict administrative arrangements to have the legitimacy conferred by UN
+endorsement. Such UK plans for the post-conflict period as had been developed
+relied on the deployment of an international reconstruction effort to Iraq. Controversy
+surrounding the launch of the invasion made that challenging to deliver; the absence
+of UN endorsement would make it close to impossible.
+32.  Discussion between the US and UK on the content of a new UN Security Council
+resolution began the same day. Resolution 1483 (2003) was eventually adopted on
+22 May.
+
+9 
+
+Minute CGS to CDS, 13 May 2003, ‘CGS Visit to Op. TELIC 7-10 May 2003’.
+
+475
+
+The Report of the Iraq Inquiry
+
+33.  US and UK objectives for the resolution were different, and in several substantive
+respects the text of resolution 1483 differed from the UK’s preferred position.
+34.  The UK wanted oil revenues to be controlled by an Iraqi body, or failing that by the
+UN or World Bank, in line with the pre-invasion promise to use them exclusively for the
+benefit of Iraq. Instead, resolution 1483 placed the power to spend the Development
+Fund for Iraq into the hands of the CPA, overseen by a monitoring board. That was in
+line with US objectives, but did not address UK concerns.
+35.  The UK considered that an Interim Iraqi Administration should have real powers,
+and not be subordinate to the CPA. Resolution 1483 said that the CPA would retain
+its responsibilities until an internationally recognised representative government was
+established. The text did not go so far as to require an interim administration to report
+formally to the CPA, as the US wished, but that was in effect how the relationship
+between the CPA and the Governing Council established by resolution 1483 operated.
+36.  The UK’s policy position was that the UN should take the lead in establishing the
+Interim Iraqi Administration. Resolution 1483 gave the UN a role working with the people
+of Iraq and the CPA, but did not give it the lead. Evidence considered by the Inquiry
+suggests that there was consistent reluctance on the part of the UN to take on such
+a role and the UK position was therefore not wholly realistic.
+37.  Resolution 1483 formally designated the UK and US as joint Occupying Powers
+in Iraq. It also set the conditions for the CPA’s dominance over post-invasion strategy
+and policy by handing it control of funding for reconstruction and influence on political
+development at least equal to that of the UN.
+UK INFLUENCE ON THE COALITION PROVISIONAL AUTHORITY
+38.  By the time resolution 1483 was adopted, the CPA was already operating in Iraq
+under the leadership of Ambassador L Paul Bremer, reporting to Mr Donald Rumsfeld,
+the US Defense Secretary. There was no reporting line from the CPA to the UK.
+39.  The resolution’s designation of the US and UK as joint Occupying Powers did not
+reflect the reality of the Occupation. The UK contribution to the CPA’s effort was much
+smaller than that of the US and was particularly concerned with Basra.
+40.  The UK took an early decision to concentrate its effort in one geographical area
+rather than accept a national lead for a particular element of the Coalition effort (such
+as police reform). However, it was inevitable that Iraq’s future would be determined
+in Baghdad, as both the administrative centre and the place where the power shift
+from minority Sunni rule to majority Shia rule was going to be most keenly felt. Having
+decided to concentrate its effort on an area some distance removed from the capital,
+the UK’s ability to influence policy under debate in Baghdad was curtailed.
+41.  In Baghdad itself, the UK provided only a small proportion of the staff for the military
+and civilian headquarters. The low numbers were influenced in part by reasonable
+476
+
+9.8  |  Conclusions: The post-conflict period
+
+concerns about the personal legal liabilities of UK staff working initially in the Office
+of Reconstruction and Humanitarian Assistance and then in the CPA, and what their
+deployment might imply about the UK’s responsibility for decisions made by those
+organisations, in the absence of formal consultation or the right of veto.
+42.  The pre-invasion focus on a leading UN role in Iraq meant that little thought had
+been given to the status of UK personnel during an occupation which followed an
+invasion without Security Council authorisation. Better planning, including proper
+assessment of a variety of different possible scenarios, would have allowed such issues
+to be worked through at a much earlier stage.
+43.  There was an urgent need for suitably experienced UK officials ready to deploy to
+Baghdad, but they had not been identified (see Section 15).
+44.  No governance arrangements were designed before the invasion which might
+have enabled officials and Ministers based in London and Washington to manage the
+implications of a joint occupation involving separate resources of a very different scale.
+Such arrangements would have provided a means to identify and resolve different
+perspectives on policy, and to facilitate joint decisions.
+45.  Once the CPA had been established, policy decisions were made largely in
+Baghdad, where there was also no formal US/UK governance structure. This created
+a risk described to the Inquiry by Sir Michael Wood, FCO Legal Adviser from 2001 to
+2006, as “the UK being held jointly responsible for acts or omissions of the CPA, without
+a right to consult and a right of joint decision”.10
+46.  To manage that risk, the UK proposed a Memorandum of Understanding (MOU) with
+the US to establish procedures for working together on issues related to the Occupation,
+but it could not be agreed. Having supplied the overwhelming majority of the CPA’s
+resources, the US had little incentive to give the UK an influential role in deciding how
+those resources were to be used, and the UK lacked the will and leverage to insist.
+47.  In the absence of formal arrangements, there was a clear risk that the UK would
+be inadequately involved in important decisions, and the UK struggled from the start
+to have a significant effect on the CPA’s policies. This was a source of concern to both
+Ministers and officials in 2003, but the issue was never resolved.
+48.  Senior individuals deployed to Iraq by the UK at this time saw themselves either as
+working for the CPA in support of its objectives and as part of its chain of command, or
+as UK representatives within the CPA with a remit to seek to influence CPA decisions.
+No-one formally represented the UK position within the CPA decision-making process,
+a serious weakness which should have been addressed at an early stage.
+
+10 
+
+Statement Wood, 15 March 2011, page 22.
+
+477
+
+The Report of the Iraq Inquiry
+
+49.  Managing a joint occupation of such size and complexity effectively and coherently
+required regular formal and informal discussion and clear decision-making at all levels,
+both between capitals and in-country. Once attempts to agree an MOU had failed, the
+chances of constructing such mechanisms were slim.
+50.  In the absence of an MOU with the US, the UK’s influence in Baghdad depended
+heavily on the personal impact of successive Special Representatives and British
+Ambassadors to Iraq and the relationships they were able to build with senior
+US figures.
+51.  Some instances of important CPA decisions in which the UK played little or no
+formal part were:
+
+•	
+
+•	
+
+•	
+•	
+•	
+
+The decision to issue CPA Order No.2, which “dissolved” (or disbanded)
+a number of military and other security entities that had operated as part of
+Saddam Hussein’s regime, including the armed forces (see Section 12). This was
+raised informally by Ambassador Bremer in his first meeting with Mr John
+Sawers, Mr Blair’s Special Representative on Iraq, who – unbriefed – did not at
+that point take a contrary position. The concept of creating a new army had also
+been raised by Mr Walt Slocombe, CPA Senior Adviser on National Security and
+Defense, in discussion with Mr Hoon. Dissolution was a key decision which was
+to have a significant effect on the alienation of the Sunni community and the
+development of an insurgency in Iraq, and the terms and timing of this important
+Order should have been approved by both Washington and London.
+Decisions on how to spend the Development Fund for Iraq, which resolution
+1483 gave the CPA the power to make. CPA Regulation No.2 subsequently
+vested Ambassador Bremer with control of the Fund, effectively placing it
+under US control. This exacerbated concerns about the under-resourcing
+of CPA(South) as expressed in Mr Straw’s letter to Mr Blair of 5 June 2003
+(see Section 10.1).
+The creation of the Iraqi Central Bank as an independent body in July 2003
+(see Sections 9.2 and 10.1). This came as a surprise to the UK despite the
+close involvement of officials from the Treasury in arrangements for Iraq’s new
+currency and budget.
+The creation of a new Iraqi Central Criminal Court (see Section 9.2), the
+announcement of which UK officials could not delay for long enough to
+enable the Attorney General to give his view on its legality under the terms
+of resolution 1483.
+Production of the CPA’s ‘Vision for Iraq’ and ‘Achieving the Vision’ (see
+Sections 9.2 and 10.1). Mr Sawers alerted the FCO to the first document on
+6 July when it was already at an advanced stage of drafting, and by 18 July it
+had been signed off by the Pentagon. No formal UK approval was sought for
+a document which was intended to provide strategic direction to the Coalition’s
+non-military effort in Iraq.
+
+478
+
+9.8  |  Conclusions: The post-conflict period
+
+52.  UK involvement in CPA decisions about the scope and implementation of
+de‑Ba’athification policy is considered in Section 11.2.
+53.  In some areas, the UK was able to affect CPA policy through the influence that
+Mr Sawers or his successor Sir Jeremy Greenstock exerted on senior US officials. Both
+used their diplomatic experience to build connections with Iraqi politicians and contribute
+to the political development of Iraq. Instances of UK influence included:
+
+•	
+•	
+
+•	
+•	
+
+Mr Sawers’ involvement in the plans for an Interim Iraqi Administration, in
+respect of which he considered that “much of the thinking is ours”.11
+Sir Jeremy Greenstock’s “two chickens, two eggs” plan, which overcame political
+stalemate between the CPA and Grand Ayatollah al-Sistani on how the new Iraqi
+Constitution should be created. The plan led to the 15 November Agreement
+which set the timetable for transfer of sovereignty to a transitional administration
+by 30 June 2004.
+Ensuring that negotiations on the content of the Transitional Administrative Law
+reached a successful conclusion. Sir Jeremy Greenstock told the Inquiry that
+he had prevented the Kurdish delegation from leaving, “which Bremer wasn’t
+aware of”.12
+The level of female representation in Iraq’s new political structures, including the
+25 percent “goal” for members of the National Assembly set by the Transitional
+Administrative Law, which the UK pursued with some success.
+
+54.  In the absence of decision-making arrangements in which the UK had a formal
+role, too much reliance was placed on communication between Mr Blair and President
+Bush, one of the very small number of ways of influencing US policy. Some issues were
+addressed by this route: for instance, using his regular conversations with President
+Bush, Mr Blair was able, with some success, to urge caution in relation to the US
+operation in Fallujah in April 2004.
+55.  But the channel of communication between Prime Minister and President should be
+reserved for the most strategic and most intractable issues. It is not the right mechanism
+for day-to-day policy-making or an effective way of making tactical decisions.
+56.  It is impossible to say whether a greater and more formal UK input to CPA decisions
+would have led to better outcomes. But it is clear that the UK’s ability to influence
+decisions made by the CPA was not commensurate with its responsibilities as joint
+Occupying Power.
+
+A decline in security
+57.  From early June 2003, and throughout the summer, there were signs that security
+in both Baghdad and the South was deteriorating. The MOD’s Strategic Planning
+11 
+12 
+
+Telegram 028 IraqRep to FCO London, 1 June 2003, ‘Iraq: Political Process’.
+Private hearing, 26 May 2010, page 64.
+
+479
+
+The Report of the Iraq Inquiry
+
+Group warned that “more organised opposition to the Coalition may be emerging”13 as
+discontent about the Coalition’s failure to deliver a secure environment began to grow
+in the Iraqi population.
+58.  The extent of the decline in Baghdad and central Iraq overshadowed the decline in
+MND(SE). Food shortages and the failure of essential services such as the supply of
+electricity and water, plus lack of progress in the political process, however, began to
+erode the relationship between UK forces and the local population. The deterioration
+was exemplified by attacks on UK forces in Majar al-Kabir in Maysan province on
+22 and 24 June.
+59.  As the summer wore on, authoritative sources in the UK, such as the JIC, began to
+identify issues with the potential to escalate into conflict and to recognise the likelihood
+that extremist groups would become more co-ordinated. The constraint imposed on
+reconstruction activities by the lack of security began to be apparent. Mr Sawers and
+Sir David Manning expressed concern about whether the UK had sufficient troops
+deployed in MND(SE), and about the permeability of Maysan’s substantial border
+with Iran.
+60.  From early July, security was seen in Whitehall as the key concern and was raised
+by Mr Blair with President Bush.
+61.  A circular analysis began to develop, in which progress on reconstruction required
+security to be improved, and improved security required the consent generated by
+reconstruction activity. Lieutenant General Robert Fry, Deputy Chief of the Defence Staff
+(Commitments), reported “a decline in Iraqi consent to the Coalition in MND(SE) due to
+the failure by the Coalition to deliver improvements in essential services” and that Shia
+leaders were warning of a short grace period before further significant deterioration.
+62.  By the autumn of 2003, violence was escalating in Baghdad and attacks were
+becoming more sophisticated. Attacks on the UN in August and September, which
+injured and killed a number of UN officials including the UN Special Representative for
+Iraq, prompted some organisations to withdraw their international staff. Although Basra
+was less turbulent than the capital, the risk of a ripple effect from Baghdad – as identified
+by Gen Jackson in May – remained.
+63.  The JIC assessed on 3 September that the security environment would probably
+worsen over the year ahead. There had been a number of serious attacks on the
+Coalition in MND(SE), and Islamic “extremists/terrorists”14 were expected to remain a
+long-term threat in Iraq. The UK’s military and civilian representatives on the ground
+were reporting a growing insurgency in central Iraq.
+
+Minute SECCOS to PSO/CDS, 10 June 2003, ‘OP COS Paper: UK contribution to Iraq: strategic intent
+and direction’ attaching Paper SPG, 9 June 2003, ‘UK contribution to Iraq: strategic intent and direction’.
+14 
+JIC Assessment, 3 September 2003, ‘Iraq: Threats to Security’.
+13 
+
+480
+
+9.8  |  Conclusions: The post-conflict period
+
+64.  Despite that evidence, military planning under the leadership of General
+Sir Michael Walker, Chief of the Defence Staff, proceeded on the basis that the
+situation in Basra would remain relatively benign.
+65.  The Inquiry considers that a deterioration in security could and should have been
+identified by Lt Gen Reith by the end of August 2003 and that the cumulative evidence
+of a deteriorating security situation should have led him to conclude that the underlying
+assumptions on which the UK’s Iraq campaign was based were over-optimistic, and to
+instigate a review of the scale of the UK’s military effort in Iraq.
+66.  There were a number of issues that might have been examined by such a review,
+including:
+
+•	
+•	
+
+whether the UK had sufficient resources in MND(SE) to deal with a worsening
+security situation; and
+whether the UK should engage outside MND(SE) in the interests of Iraq’s
+overall stability (as had been advocated by Gen Jackson, Maj Gen Richards
+and Lt Gen Pigott).
+
+67.  No such review took place.
+68.  There was a strong case for reinforcing MND(SE) so that it could handle its highpriority tasks (providing essential security for reconstruction projects, protecting existing
+infrastructure, guarding key sites and improving border security to inhibit the import of
+arms from Iran) effectively in changing circumstances. Those tasks all demanded a
+higher level of manpower than was available. Although additional military personnel were
+deployed in September 2003, mainly to fill existing gaps in support for reconstruction
+activities, their numbers were far too small to have a significant impact.
+69.  The failure to consider the option of reinforcement at this time was a serious
+omission and Lt Gen Reith and Gen Walker should have ensured that UK force levels in
+MND(SE) were formally reconsidered in autumn 2003 or at the latest by the end of the
+year. Increases in UK force levels in order to address the security situation should have
+been recommended to Ministers. Any opportunity to regain the initiative and pre-empt
+further deterioration in the security situation was lost.
+70.  In October, Sir Jeremy Greenstock reported that Lieutenant General Ricardo
+Sanchez, Commander of Combined Joint Task Force-7, had “come to recognise that
+Coalition operations are at a standstill and that there is a need to regain momentum”.15
+Doubts started to build about the chances of credible elections based on a legitimate
+constitution in the course of 2004 and work began to look for alternatives to the plan set
+out by Ambassador Bremer. The “bloodiest 48-hour period in Baghdad since March”,16
+
+15 
+16 
+
+Telegram 230 IraqRep to FCO London, 24 October 2003, ‘Iraq: Security Update’.
+Telegram 1426 Washington to FCO London, 28 October 2003, ‘Iraq: US Views 28 October’.
+
+481
+
+The Report of the Iraq Inquiry
+
+including an attack on the al-Rashid Hotel in Baghdad’s Green Zone, was sufficient to
+convince some that a pivotal point in the security situation had been reached.
+71.  When President Bush visited London in November, Mr Blair provided him with a
+paper written by Sir Jeremy Greenstock which argued that security should be the highest
+priority in the run-up to June 2004, when the Iraqi Transitional Government would take
+power. Sir Jeremy suggested that troop levels should be looked at again and highlighted
+“the dangers we face if we do not get a grip on the security situation” as a topic that
+President Bush and Mr Blair needed to discuss in stark terms.
+72.  The constraints within which the UK was operating as a result of the limited scale
+of forces deployed in Iraq were articulated clearly for the Chiefs of Staff in December.
+Lt Gen Fry argued that a strategy of “early effect”17 was needed which prioritised
+campaign success. Operation TELIC was the UK “Main Effort”, but deploying additional
+resources in a way that was compliant with the Defence Planning Assumptions would
+require the withdrawal of resources from other operations.
+73.  On 1 January 2004, Sir Jeremy Greenstock wrote bluntly: “This theatre remains
+a security crisis.”18
+74.  Despite mounting evidence of violent insurgency, the UK’s policy of military
+drawdown in Iraq continued. After force levels had been reviewed in January, the
+rationale for continued drawdown was based on adjusted criteria by which the success
+of Security Sector Reform would be judged, meaning that such reform would be
+implemented “only to applicable standards for Iraq”.19
+
+Sectarianism
+The UK’s approach to the development of new political structures for Iraq assumed the
+need for an Iraqi Government that was as inclusive and representative as possible.
+A more representative government was bound to reflect the views of the Shia majority
+more closely. This created a risk of reprisals against members of the minority Sunni
+community, of which Saddam Hussein was a member, after many years in which they had
+dominated Iraq.
+The UK sought to minimise the opportunities for reprisals and to ensure balance,
+supported by the JIC’s assessment that “disaffected Sunni Arabs – not necessarily
+connected to the former regime – who fear Shia domination and are frustrated by lack of
+money and jobs”20 were a potential source of resistance to the Coalition.
+
+Minute DCDS(C) to COSSEC, 5 December 2003, ‘Op TELIC – Review of UK Military Strategy for Iraq’.
+Telegram 337 IraqRep to FCO London, 1 January 2004, ‘Iraq: Six Final Months of Occupation’.
+19 
+Minute Reith to PSO/CDS, 29 January 2004, ‘Op TELIC Force Level Review – Jan 04’.
+20 
+JIC Assessment, 31 March 2004, ‘Iraq Security: Prospects’.
+17 
+18 
+
+482
+
+9.8  |  Conclusions: The post-conflict period
+
+Concerns about a lack of balance led to a focus on constitutional arrangements founded
+on proportional representation for Shia, Sunni, Kurdish and minority groups, based on
+the assumption that those belonging to one confessional or ethnic group could only be
+represented fairly by a member of the same group.
+The electoral system that developed led to the dominance in government of Islamist
+parties such as Dawa and SCIRI from 2005, although UK would have preferred a
+moderate secular leader. The UK sought to compensate for the political dominance
+of Shia parties by encouraging active outreach to the Sunni community.
+The Transitional Administrative Law (TAL) agreed by the Governing Council on 1 March
+2004 intended that the National Assembly would have “fair representation” for all Iraq’s
+communities. The UK thought of the TAL as a power-sharing arrangement, but it could
+not deliver the change of mindset needed to embed genuine sharing of power, notably
+a majority willing to listen to the representatives of minority groups.
+As described in Section 11.1, the TAL prevented senior Ba’athists from standing
+for election unless they had been successful in an appeal to the de-Ba’athification
+Commission, and stipulated that “full” members must renounce the Ba’ath Party. Both
+measures would mainly affect the Sunni community, and reflected anxiety about a
+Ba’athist resurgence.
+A key UK objective for the new Iraqi Constitution which would replace the TAL was
+to protect the provision that three provinces voting against it would constitute a veto.
+Originally considered to be protecting Kurdish interests, after the January 2005 elections
+this was also seen an important safeguard for the Sunni community, which had turned out
+in very low numbers to vote on membership of the Transitional National Assembly (TNA)
+that would draft the Constitution.
+In October 2005, the Constitution was approved. Like the TAL, it placed restrictions on
+Ba’athists, and the party was banned from participation in “political pluralism in Iraq”.
+Although it contained a range of rights and liberties guaranteeing equality before the law
+and the right to liberty, the Constitution left some divisive issues unresolved. In particular,
+the text did not make explicit how Iraq’s oil and gas reserves would be managed by the
+federal government “with the producing governorates and regional governments”; it left
+the question of Kirkuk for a referendum; and – despite containing clear statements about
+the right to freedom of worship – stated in Article 1 that “No law may be enacted that
+contradicts the established provisions of Islam”.
+The Constitution continued to reinforce the need for strict confessional/ethic balance.
+In relation to the Council of Representatives, the federal legislature, it said that “the
+representation of all components of the people shall be upheld in it”. Regarding the Iraqi
+Security Forces, it said they would be “composed of the components of the Iraqi people,
+with due consideration given to their balance and representation without discrimination or
+exclusion”.
+In recognition of limited Sunni involvement in its drafting, the Constitution provided for
+a committee comprising members of the Council of Representatives “representing the
+principal components of the Iraqi society” to recommend amendments.
+
+483
+
+The Report of the Iraq Inquiry
+
+The combination of ambiguity and an ongoing process may have convinced many Iraqi
+communities to support the Constitution, but the failure to resolve some fundamental
+issues helped to aggravate increasingly sectarian divisions.
+
+The turning point
+75.  February 2004 was the worst month for Coalition casualties since the fall of Saddam
+Hussein’s regime. More than 200 people, mainly Iraqi citizens, were killed in suicide
+attacks. Attacks on the Iraqi Security Forces were increasing and concerns about Islamic
+extremists operating in Iraq began to grow. By the end of March, more than 200 attacks
+targeting Iraqi citizens were being reported each week.
+76.  In April, there was a sudden escalation in attacks by the Jaysh al-Mahdi (JAM) in
+Basra, described by the General Officer Commanding MND(SE) as “like a switch had
+been flicked”.21 In Fallujah, a US offensive which followed the ambush and murder of
+four security contractors provoked an angry response from the Sunni community.
+77.  The significant worsening of security, coupled with revelations of abuse by members
+of the US military of Iraqi detainees held in Abu Ghraib prison, led many of the Inquiry’s
+witnesses to conclude that the spring of 2004 had been a turning point.
+78.  At the end of April, Mr Blair’s analysis was that the key issue in Iraq was not
+multi‑faceted, rather it was “simple: security”.22
+79.  Despite the failing security situation in MND(SE) in spring 2004, Gen Walker was
+explicit that no additional troops were required for the tasks currently assigned to
+the UK.
+80.  The Chiefs of Staff maintained the view they had originally reached in November
+2003, that HQ Allied Rapid Reaction Corps (ARRC) should not be actively considered
+for deployment to Iraq, even though:
+
+21 
+22 
+
+•	
+•	
+
+Iraq was a higher priority for the UK than Afghanistan;
+
+•	
+
+there had been a specific US request for deployment of HQ ARRC.
+
+security in Iraq was clearly worsening and had been identified by Mr Blair as
+the key issue; and
+
+Public hearing Lamb, 9 December 2009, pages 67-68.
+Letter Rycroft to Owen, 26 April 2004, ‘Iraq: 15 Reports for the Prime Minister’.
+
+484
+
+9.8  |  Conclusions: The post-conflict period
+
+Transition
+UK influence on US strategy post-CPA
+81.  In June 2004, the US and UK ceased to be Occupying Powers in Iraq and the CPA
+was disbanded. Responsibility for day-to-day interaction on civil affairs with the Iraqi
+Interim Government passed to the newly appointed British and US Ambassadors.
+82.  After the handover, the UK’s priorities were to maintain the momentum of the
+political process towards elections in January 2005, and to ensure that the conditions
+for the drawdown of its forces were achieved.
+83.  Mr Blair and President Bush continued to discuss Iraq on a regular basis. It
+continued to be the case that relatively small issues were raised to this level. The UK
+took false comfort that it was involved in US decision-making from the strength of that
+relationship.
+84.  Themes which Mr Blair emphasised to President Bush included the acceleration
+of Security Sector Reform and the Iraqiisation of security, UN engagement, better
+outreach to the Sunni community (often referred to as “reconciliation”), provision of direct
+support to Prime Minister Ayad Allawi and better use of local media to transmit a positive
+message about the coalition’s intentions and actions.
+
+Planning for withdrawal
+85.  By July 2004, the UK envisaged that, providing the necessary criteria were met,
+there would be a gradual reduction in troop numbers during 2005 leading to final
+withdrawal in 2006, to be followed by a period of “Strategic Overwatch”.
+86.  The most important of the criteria that would enable coalition troops to withdraw was
+the ability of the Iraqi Security Forces to take the lead on security (Iraqiisation). Having
+recognised that a stable and secure environment was the key factor on which progress
+in Iraq depended, by May 2004 the UK solution was “a better and quicker plan for
+building Iraqi capacity in the Police, Civil Defence Corps, the Army and the Intelligence
+Service”.23 This made sense in the long term but was unlikely to meet the requirement
+to regain control of Iraq rapidly in the face of a mounting insurgency. Reform of the Iraqi
+Security Forces is addressed in detail in Section 12.
+87.  By mid-August, the level of attacks against coalition forces had matched the
+previous peak in April of the same year. In September, Lieutenant General John McColl
+(Senior British Military Representative – Iraq) judged that the Iraqi Security Forces would
+not be able to take full responsibility for security before 2006.
+88.  In September 2004, Gen Walker received a well-argued piece of advice from
+Lt Gen McColl which made clear that the conditions on which decisions on drawdown
+23 
+
+Letter Bowen to Baker, 13 May 2004, ‘Iraq: Security’.
+
+485
+
+The Report of the Iraq Inquiry
+
+were to be based were unlikely to be met in the near future. Despite the warnings in
+Lt Gen McColl’s paper and his advice that “the time is right for the consideration of the
+substantive issues”,24 the Chiefs of Staff, chaired by Gen Walker, declined to engage in
+a substantive review of UK options.
+89.  The Inquiry recognises that the scale of the resources which the UK might have
+deployed to deal with the issues was substantially less than the US could bring to bear.
+It is possible that the UK may not have been able to make a real difference, when the
+key strategic change that might have affected the outcome was the deployment of a
+much larger force. But proper consideration ought to have been given to what options
+were available, including for the deployment of additional personnel. Mr Straw raised
+the need for such a debate with Mr Blair in October.
+90.  The UK had consistently resisted US requests to deploy additional personnel, which
+Lt Gen McColl described as having “chipped away at the US/UK relationship”,25 but in
+October it was agreed that the Black Watch would be deployed to North Babil for 30 days
+to backfill US forces needed for operations in Fallujah. Approximately 350 personnel
+from 1st Battalion, the Royal Highland Fusiliers were also deployed to Iraq to provide
+additional security across MND(SE) during the election period in January and February
+2005. The UK remained reluctant to commit any further forces in the longer term: when
+Dutch forces withdrew from Muthanna province, the UK instead redeployed forces from
+elsewhere in MND(SE) plus a small amount of additional logistic support.
+91.  In January 2005, Lt Gen Fry produced a thoughtful and realistic assessment of the
+prospects for security in Iraq, observing that “we are not on track to deliver the Steady
+State Criteria (SSC) before the UN mandate expires, or even shortly thereafter”.26 He
+judged that “only additional military effort by the MNF-I [Multi-National Force – Iraq] as
+a whole” might be able to get the campaign back on track. Lt Gen Fry identified three
+possible courses of action for the UK: increasing the UK scale of effort, maintaining the
+status quo or, if it were judged that the campaign was irretrievable, accepting failure and
+seeking to mitigate UK liability.
+92.  The Inquiry endorses Lt Gen Fry’s assessment of the options open to the UK at this
+point and considers that full and proper consideration should have been given to each
+option by the Defence and Overseas Policy Committee (DOP).
+93.  In his advice to Mr Blair on 21 January, Gen Walker did not expose the assessment
+made by Lt Gen Fry that only additional military effort by the MNF-I might be able to get
+the campaign back on track.
+94.  On 30 January, elections for the Transitional National Assembly and Provincial
+Assemblies took place across Iraq. Security arrangements involved 130,000 personnel
+Minute McColl to CDS and CJO, 26 September 2004, ‘Report 130 of 26 Sep 04’.
+Report McColl to CDS and CJO, 20 October 2004, ‘SBMR-I Hauldown Report – Lt Gen McColl’.
+26 
+Minute DCDS(C) to APS 2/SofS [MOD], 11 January 2005, ‘Iraq 2005 – a UK MOD perspective’.
+24 
+25 
+
+486
+
+9.8  |  Conclusions: The post-conflict period
+
+from the Iraqi Security Forces, supported by 184,500 troops from the MNF-I. The JIC
+assessed that perhaps fewer than 10 percent of voters had turned out in the Sunni
+heartlands and judged that “without Sunni engagement in the political process, it will not
+be possible significantly to undermine the insurgency”.
+95.  In April, the JIC assessed that:
+“A significant Sunni insurgency will continue through 2005 and beyond, but the
+opportunities for reducing it appear greater than we judged in early February.”27
+
+The impact of Afghanistan
+96.  In June 2004, the UK had made a public commitment to deploy HQ ARRC to
+Afghanistan in 2006, based on a recommendation from the Chiefs of Staff and Mr Hoon,
+and with Mr Straw’s support. HQ ARRC was a NATO asset for which the UK was the
+lead nation and provided 60 percent of its staff.
+97.  It appears that senior members of the Armed Forces reached the view, throughout
+2004 and 2005, that little more would be achieved in MND(SE) and that it would
+make more sense to concentrate military effort on Afghanistan where it might have
+greater effect.
+98.  In February 2005, the UK announced that it would switch its existing military effort
+in Afghanistan from the north to Helmand province in the south.
+99.  In 2002, A New Chapter, an MOD review of the 1998 Strategic Defence Review
+(SDR), had reaffirmed that the UK’s Armed Forces would be unable to support two
+enduring medium scale military operations at the same time:
+“Since the SDR we have assumed that we should plan to be able to undertake either
+a single major operation (of a similar scale and duration to our contribution to the
+Gulf War in 1990-91), or undertake a more extended overseas deployment on a
+lesser scale (as in the mid-1990s in Bosnia), while retaining the ability to mount a
+second substantial deployment … if this were made necessary by a second crisis.
+We would not, however, expect both deployments to involve war-fighting or to
+maintain them simultaneously for longer than six months.”28
+100.  As described in Section 16.1, since 2002 the Armed Forces had been consistently
+operating at or above the level of concurrency defined in the 1998 SDR, and the
+continuation of Op TELIC had placed additional strain on military personnel.
+101.  By May 2005, the UK had been supporting an operation of at least medium scale
+in Iraq for more than two years. The Ministerial Committee on Defence and Overseas
+Policy Sub-Committee on Iraq (DOP(I)) recognised that future force levels in Iraq would
+
+27 
+28 
+
+JIC Assessment, 6 April 2005, ‘Iraq: The State of the Insurgency’.
+Ministry of Defence, Strategic Defence Review: A New Chapter, July 2002, page 14.
+
+487
+
+The Report of the Iraq Inquiry
+
+need to be considered in the context of the requirement to achieve “strategic balance”
+with commitments in Afghanistan, to ensure that both were properly resourced.
+102.  In July 2005, DOP agreed proposals for both the transfer of the four provinces in
+MND(SE) to Iraqi control and for the deployment of the UK Provincial Reconstruction
+Team then based in northern Afghanistan to Helmand province in the South, along with
+an infantry battlegroup and full helicopter support – around 2,500 personnel.
+103.  As described under the heading ‘Iraqiisation’ below, the proposals to transfer
+responsibility for security in the four provinces of MND(SE) to Iraqi control were based
+on high-risk assumptions about the capability of the Iraqi Security Forces to take
+the lead for security. If those assumptions proved to be inaccurate and the UK was
+unable to withdraw, agreement to the Helmand deployment in Afghanistan effectively
+constrained the UK’s ability to respond by increasing troop levels in Iraq.
+104.  In January 2006, Cabinet approved the decision to deploy to Helmand.
+Dr John Reid, the Defence Secretary, announced that the UK was “preparing for
+a deployment to southern Afghanistan” which included a Provincial Reconstruction
+Team as “part of a larger, more than 3,300-strong British force providing the
+security framework”.29
+105.  The impact of that decision was summarised neatly by Gen Walker as:
+“Militarily, the UK force structure is already stretched and, with two concurrent
+medium scale operations in prospect, will soon become exceptionally so in
+niche areas.”30
+106.  Niche capabilities such as helicopter support and Intelligence, Surveillance, Target
+Acquisition and Reconnaissance (ISTAR) were essential to the successful conduct
+of operations.
+107.  From July 2005 onwards, decisions in relation to resources for Iraq were effectively
+made under the influence of the demands of the UK effort in Afghanistan. Although
+Iraq remained the stated UK main effort, the Government no longer had the option of a
+substantial reinforcement of its forces there, should it have considered one necessary.
+When the US announced in January 2007 that it would send a surge of resources to
+Iraq, the UK was consequently unable to contemplate a parallel surge of its own.
+108.  The impact of the decision to deploy to Helmand on the availability of key
+equipment capabilities for Iraq, and on the level of stretch felt by military personnel,
+is addressed in Sections 14 and 16.
+
+29 
+30 
+
+House of Commons, Official Report, 26 January 2006, columns 1529-1533.
+Letter Walker to Richards, 24 January 2006, [untitled].
+
+488
+
+9.8  |  Conclusions: The post-conflict period
+
+Iraqiisation
+109.  After becoming Defence Secretary in May 2005, Dr Reid had continued the policy
+of reducing UK troop levels based on the transition of lead responsibility for security
+to the Iraqi Security Forces (ISF). In one of his early acts as Defence Secretary, he
+announced the deployment of just over 400 additional personnel to enhance the UK’s
+effort in training the ISF, which would “enable them to take on ever greater responsibility
+for their own security and so pave the way for UK troops to withdraw”.31
+110.  The proposals for transfer of the four provinces in MND(SE) to Iraqi control agreed
+in July 2005 suggested transition from MNF-I to ISF primacy in Basra from March 2006,
+based on the assumption that the ISF would, by that point, be capable of taking on
+responsibility for security in what was likely to remain a very challenging environment.
+111.  There was sufficient reliable contemporary evidence available, including from the
+JIC and in reports from commanders in theatre, to demonstrate that the assumption that
+the ISF would be ready to take the lead in Basra by that point was probably unrealistic.
+112.  In September 2005, Mr Blair expressed his concerns about ISF capability, following
+reports of police involvement in attacks on the MNF in Basra. But despite the concerns
+that had been expressed about the capacity of the ISF, Dr Reid recommended that a
+reduction in UK forces should take place in October or November 2005.
+113.  A few days after Dr Reid made his recommendation, the Jameat incident in Basra
+raised questions about the ISF in MND(SE). Officials from the FCO, the MOD and
+DFID judged that the incident had highlighted the risks to achieving UK objectives in
+MND(SE), and that those risks had implications for military resources. Nevertheless,
+assumptions about ISF readiness were not re-examined by Ministers. The incident
+should have prompted a more searching analysis of whether the conditions necessary
+for drawdown were likely to be met within the planned timetable. Reluctance to consider
+the potential implications of the Jameat incident obscured what it had revealed about the
+security situation in MND(SE).
+114.  The critical importance of ISF capability in assessing readiness for transfer to
+Provincial Iraqi Control, on which UK plans to draw down were based, was emphasised
+by the ‘Conditions for Provincial Transfer’ published by the Joint Iraqi/MNF Committee
+to Transfer Security Responsibility, and by Dr Reid, who told DOP(I) that “successful
+Iraqiisation remains the key”.32 DOP(I) decided that Dr Reid should have lead
+responsibility for building the capacity of the Iraqi Police Service (IPS) in Basra in
+addition to his responsibility for the Iraqi Army.
+115.  In October 2005, Mr Blair asked for a major and sustained push to make progress
+on the ability of the ISF to take the lead on security. Gen Jackson raised concerns about
+
+31 
+32 
+
+House of Commons, Official Report, 25 May 2005, column 15WS.
+Paper Reid, 11 October 2005, ‘Iraq: Security Update’.
+
+489
+
+The Report of the Iraq Inquiry
+
+ISF effectiveness in a minute to Gen Walker, and concluded: “it is not to our credit that
+we have known about the inadequacies of the IPS for so long and yet failed to address
+them”.33 The Assessments Staff reinforced the lack of progress in reforming the ISF.
+116.  In October 2005, the Chiefs of Staff made a stark assessment of the insurgency
+and coalition strategy in Iraq. They concluded that “Ministers needed to be clear
+that the campaign could potentially be heading for ‘strategic failure’, with grave
+national and international consequences if the appropriate actions were not taken”.34
+Gen Walker judged that only 5 percent of UK military effort in MND(SE) was
+devoted to counter-insurgency operations. But neither Air Marshal Sir Glenn Torpy,
+Chief of Joint Operations, nor Gen Walker reassessed UK force requirements in Iraq,
+based on those two assessments.
+117.  The security situation at this point should have resulted in a reassessment of the
+UK troop levels needed to achieve the UK’s key outcomes in MND(SE). Although the
+responsibility for tactical decision-making rested with commanders on the ground, it was
+for Gen Walker to ensure that those commanders had sufficient resources to deliver.
+118.  The absence of additional resources placed further pressure on the UK’s ability
+to deliver the conditions required for transfer. At the end of 2005 and in early 2006
+there were further indications that the ISF were not ready to operate alone. The MOD
+reported to the final DOP(I) meeting of 2005 that the capacity of the Iraqi administration
+and security forces to assume responsibility, acknowledging the challenge of increasing
+sectarianism and militia infiltration, was one of the key challenges remaining.
+119.  In March 2006, the JIC again highlighted doubts about the ability of the Iraqi Army
+to operate without MNF support and concerns about the corruption and infiltration of the
+Iraqi Police Service.
+120.  US concerns about UK plans for the transition of Maysan and Muthanna to Iraqi
+control in May were such that Dr Reid adapted them to include a small residual team
+providing mentoring and support to the Iraqi Army.
+121.  Dr Reid continued to press ahead with drawdown and announced that troop
+levels would reduce in May 2006 from approximately 8,000 to around 7,200 based on
+“completion of various security sector reform tasks, a reduction in the support levels for
+those tasks, and recent efficiency measures in theatre”.35 That rationale did not include
+an assessment of the effect of those tasks on the capability of the ISF.
+
+Minute CGS to CDS, 18 October 2005, ‘CGS visit to Iraq: 10-13 Oct 05’.
+Minutes, 18 October 2005, Chiefs of Staff meeting.
+35 
+Letter Reid to Blair, 9 March 2006, ‘Iraq: Force Level Review and Announcement’.
+33 
+34 
+
+490
+
+9.8  |  Conclusions: The post-conflict period
+
+Reconciliation
+One clear focus of UK strategy was the need to bring the Sunni community back into
+mainstream Iraqi politics, often referred to as “reconciliation” or “Sunni outreach”. Mr Blair
+consistently said that reconciliation was the key to success, and UK Ministers regularly
+lobbied their US and Iraqi counterparts about its importance, and the added security risk
+if it was neglected.
+Reconciliation was hampered from the start. The UK, understandably, had limited
+knowledge of Iraq’s complex tribal landscape, and how it interacted with broader
+confessional groups. Decisions about the scope and implementation of de-Ba’athification
+made in the early days of the CPA had a lasting legacy of mistrust and alienation.
+The UK took a number of steps to promote reconciliation, including Sir Nigel Sheinwald’s
+meetings with hard-line Sunni nationalists and representatives of Sunni insurgent groups
+in November 2005 and February 2006, and work by Lieutenant General Graeme Lamb
+with insurgent groups in late 2006 and early 2007. The UK also lobbied for a unity
+Government in 2006, but ultimately in vain. Mr Dominic Asquith, British Ambassador
+to Iraq, observed that: “For a government of national unity, most of its members are
+in opposition.”36
+
+Preparation for withdrawal
+A major divergence in strategy
+122.  US and UK strategies for Iraq had in effect been on different courses since the UK
+decision to focus its attention on MND(SE) in 2003. As a result of that decision, the UK
+had acquired distinctly different priorities from the US. It was only marginally involved in
+the central tasks of stabilising the Iraqi Government in Baghdad and managing sectarian
+divisions, while it had come to see its main task in Basra as one of keeping the situation
+calm while building the case for drawdown.
+123.  For some time, there had been indications of tension between the US and
+UK regarding assessments of progress, and differing assumptions about whether
+plans were needed for long-term bases in Iraq. In May 2006, Mr Blair was told about
+“rumblings from the US system about UK failure to grip the security situation in what they
+regard as a strategically vital part of Iraq”.37 Gen Jackson felt compelled to report that:
+“The perception, right or wrong, in some – if not all – US military circles is that the
+UK is motivated more by the short-term political gain of early withdrawal than by the
+long-term importance of mission accomplishment; and that, as a result, MND(SE)’s
+operational posture is too laissez faire and lacks initiative …”38
+
+Letter Asquith to Sawers, 12 September 2006, ‘Iraq: First Impressions’.
+Minute Phillipson to Prime Minister, 2 May 2006, ‘VTC with President Bush, 1615 2 May 2006’.
+38 
+Minute CGS to CDS, 22 May 2006, ‘CGS visit to Iraq: 15-18 May 06’.
+36 
+37 
+
+491
+
+The Report of the Iraq Inquiry
+
+124.  In January 2007, the divergence between US and UK strategies was thrown into
+sharp relief by President Bush’s announcement that the US would adopt a new strategy,
+of which a prominent feature would be the deployment of a surge of US forces, primarily
+to Baghdad and its environs. UK assessments of the prospects for the new US policy
+were bleak, reflecting widespread pessimism about the prospects for Iraq. UK strategy
+continued to look towards withdrawal.
+125.  US concerns about the differences in approach were evident. In February 2007,
+Sir David Manning, British Ambassador to the US, reported that Secretary Rice had
+asked him “to tell her honestly whether the UK was now making for the exit as fast
+as possible”.39
+126.  The divergence in strategies was also illustrated by the conditions-based process
+through which the four provinces in MND(SE) were transferred to Provincial Iraqi Control
+(PIC) during 2007. Although each transfer was signed off by senior members of the US
+military, there was persistent reporting of US concerns about readiness for PIC, whether
+the conditions had actually been met and the wider impact of transfer.
+127.  The US was also uncomfortable about arrangements made by the UK with a militia
+group in Basra which allowed the safe exit of UK troops from their main base in the city
+(see Box entitled ‘Negotiations with JAM1 in Basra’).
+
+A possible civil war
+128.  By March 2006, senior members of the UK military were considering the possibility
+of civil war in Iraq, prompted by rising levels of sectarian violence and concerns that the
+Iraqi Government was “not … perceived as even-handed in security issues”.40 The risk
+of civil war had been acknowledged by Prime Minister Ibrahim Ja’afari in the wake of the
+bombing of the al-Askari mosque in February. Although there was general agreement
+that the situation in Iraq did not constitute civil war, the risk that one might develop was
+considered to be real.
+129.  At this time, the presence in Iraq of the MNF was authorised by resolution 1637
+(2005). The exchange of letters between Prime Minister Ja’afari and the President of the
+Security Council which accompanied the resolution clearly identified providing security
+for the Iraqi people as the reason why a continued MNF presence was necessary.
+130.  In late April, FCO officials were concerned that security in Basra was declining and
+that a determined and sustained effort, including a more assertive military posture, would
+be required to deliver the UK’s objective of transferring Basra to Iraqi control by late
+2006 or early 2007.
+
+Letter Manning to Hayes, 1 February 2007, ‘Conversation with the US Secretary of State,
+31 January 2007’.
+40 
+Minute Houghton to CDS, 5 March 2006, ‘SBMR-I Weekly Report (201) 5 March 06’.
+39 
+
+492
+
+9.8  |  Conclusions: The post-conflict period
+
+131.  Accounts from mid-2006 suggested that security in MND(SE) was a significant
+concern, characterised by “steady, if generally unspectacular, decline”41 and increased
+militia activity. The UK military’s approach had generated US concern and the security
+situation was limiting UK civilian activity.
+132.  Gen Jackson’s assessment in May of the short-term security prospects in Iraq
+was bleak. He judged that “what we will leave behind will not look much like strategic
+success. Ten years hence our strategy may fully bear fruit.”42
+133.  After visiting Iraq in early May, Air Chief Marshal Sir Jock Stirrup, Chief of the
+Defence Staff, advised Dr Reid that there should be no change to the operational
+approach and that there were “compelling reasons” why the UK should “press on”
+with handing over security to Iraq, including to permit the UK’s continuing build-up in
+Afghanistan.43 ACM Stirrup identified the risk that UK withdrawal from Basra would be
+seen as a “strategic failure” and suggested that “astute conditioning of the UK public
+may be necessary” to avoid that.
+134.  ACM Stirrup’s view that the UK should press ahead with drawdown despite the
+security challenges in Basra was not consistent with Government policy that withdrawal
+should be conditions-based.
+135.  ACM Stirrup’s acceptance that the “law of diminishing returns” was “now firmly in
+play” and that there was “an increasing risk” that UK forces would “become part of the
+problem, rather than the solution” had some validity: it was clear from accounts of the
+situation in Basra that UK forces were not preventing a steady decline in security. ACM
+Stirrup was also right to advise Dr Reid that the MNF in Iraq faced a “multifaceted”,
+sophisticated and dangerous enemy; that serious issues remained in Basra (militia
+activity, poor governance, insecurity); and that it was possible the UK would be accused
+of strategic failure.
+136.  The established policy was that UK forces would withdraw as the capabilities of the
+ISF increased until responsibility could be handed over to the Iraqi Government. ACM
+Stirrup’s proposed remedy of continued drawdown and managing public opinion did not
+mitigate the risk of strategic failure he described.
+137.  In the summer of 2006, in recognition of the need to stabilise Basra and prepare
+it for transition to Iraqi control, the UK developed the Basra Security Plan, “a plan to
+improve Basra through operations, high impact reconstruction and SSR [Security Sector
+Reform] … lasting for up to six months”.44 The military element of the plan became
+known as Operation SALAMANCA and included operations against militia groups.
+
+Minute senior government official specialising in the Middle East to Dowse, 12 May 2006, ‘Situation
+in Basrah’.
+42 
+Minute CGS to CDS, 22 May 2006, ‘CGS visit to Iraq: 15-18 May 06’.
+43 
+Minute Stirrup to SofS [MOD], 8 May 2006, ‘CDS Visit to Iraq and Afghanistan – 5-7 May 06’.
+44 
+Minute Burke-Davies to APS/Secretary of State [MOD], 24 August 2006, ‘Iraq: Op SALAMANCA’.
+41 
+
+493
+
+The Report of the Iraq Inquiry
+
+138.  In August 2006, ACM Stirrup was asked to give direction on both seeking US help
+for Op SALAMANCA and the possibility of deploying UK forces to support US operations
+outside MND(SE).
+139.  While ACM Stirrup stressed the importance of senior Iraqi political support
+if Op SALAMANCA was to be a success, Lieutenant General Nicholas Houghton,
+the Senior British Military Representative – Iraq, indicated a concern that even with
+US support the capabilities available in MND(SE) might not be sufficient successfully
+to deliver Op SALAMANCA.
+140.  ACM Stirrup directed that it was acceptable for the UK to make use of US
+enablers, such as aviation, in MND(SE), but that, in general, commitments in MND(SE)
+were to be met by existing MND(SE) personnel (including contractors) and any shortfalls
+were to be identified and considered appropriately.
+141.  ACM Stirrup also directed that the deployment of UK troops to Multi-National
+Division (Centre South):
+“… crossed a clear policy ‘red line’ and seemed counter-intuitive, given that
+consideration was also being given to obtaining US forces for MND(SE). The UK
+needed to draw down its force levels as soon as practicable, both in MND(SE)
+and elsewhere.”45
+142.  The decision not to allow the use of US support in Basra was an important one.
+The Inquiry considers that the question of what was needed to make Op SALAMANCA
+a success should have been addressed directly by ACM Stirrup, whose response instead
+precluded proper consideration of whether additional UK resources would be required.
+143.  There was continuing resistance to any suggestion that UK forces should
+operate outside MND(SE) and there may have been concern that US participation in
+Op SALAMANCA would have led to an obligation on the UK to engage more outside
+MND(SE). This might not, as ACM Stirrup observed, be consistent with a commitment
+to drawdown, but might have reduced the risk of strategic failure.
+144.  The nature of Op SALAMANCA was constrained by the Iraqi Government in
+September 2006, so that the eventual operation (renamed Operation SINBAD) left
+“Basra in the hands of the militant militia and death squads, with the ISF unable to
+impose, let alone maintain, the rule of law”.46 This contributed to the conditions which
+led the UK into negotiations with Jaysh al-Mahdi (JAM) in early 2007.
+145.  Attempts were subsequently made to present Op SINBAD as equivalent to the
+2007 US surge. Although there was some resemblance between the “Clear, Hold, Build”
+tactics to be used by US surge forces and the UK’s tactics for Op SINBAD, the UK
+operation did not deploy sufficient additional resources to conduct “Hold” and “Build”
+45 
+46 
+
+Minutes, 2 August 2006, Chiefs of Staff meeting.
+Minute Shirreff, 21 September 2006, ‘GOC MND(SE) – Southern Iraq Update – 21 September 2006’.
+
+494
+
+9.8  |  Conclusions: The post-conflict period
+
+phases with anything like the same strategic effect. The additional 360 troops deployed
+by the UK could not have had the same effect as the more than 20,000 troops surged
+into Baghdad and its environs by the US.
+146.  At the end of 2006, tensions between the military and civilian teams in MND(SE)
+became explicit. In a report to Mr Blair, Major General Richard Shirreff, General
+Officer Commanding MND(SE), diagnosed that the existing arrangement, in which the
+Provincial Reconstruction Team was located in Kuwait, “lacks unity of command and
+unity of purpose”47 and proposed the establishment of a “Joint Inter-Agency Task Force”
+in Basra led by the General Officer Commanding MND(SE).
+147.  ACM Stirrup’s advice to Mr Blair was that it was “too late” to implement
+Maj Gen Shirreff’s proposal. That may have been the right conclusion, but the effect
+was to deter consideration of a real problem and of ways in which military and civilian
+operations in MND(SE) could be better aligned.
+148.  The adequacy of UK force levels in Iraq and the effectiveness of the UK’s efforts in
+MND(SE) were explicitly questioned in Maj Gen Shirreff’s end of tour report.
+
+Force Level Review
+149.  The balance of forces between Iraq and Afghanistan was reviewed by DOP in
+February 2007 on the basis that the UK could only sustain the enduring operational
+deployment of eight battlegroups.
+150.  ACM Stirrup’s “strong advice”,48 with which DOP agreed, was that the UK should
+provide two additional battlegroups to the International Security Assistance Force in
+Afghanistan, reducing the Iraq to Afghanistan battlegroup ratio from 6:2 to 5:3 and
+then 4:4.
+151.  This advice did not include an assessment of either the actual state of security in
+Basra or the impact on the UK’s ability to deliver its objectives (including that drawdown
+should be conditions-based) and responsibilities under resolution 1723 (2006). The
+advice did identify US “nervousness” about the UK proposals.
+152.  In early May, Sir Nigel Sheinwald, Mr Blair’s Foreign Policy Adviser, sought ACM
+Stirrup’s advice on the future of the UK military presence in Iraq. ACM Stirrup advised
+that the UK should press ahead with drawdown from Iraq on the basis that there was
+little more the UK could achieve. There was “no militarily useful mission”.49
+153.  Mr Blair was concerned about the implications of ACM Stirrup’s position unless
+the political circumstances in Basra changed first. He commented: “it will be very hard
+
+Letter Shirreff to Blair, 29 December 2006, [untitled].
+Paper MOD officials, 13 February 2007, ‘Iraq and Afghanistan: balancing military effort in 2007’.
+49 
+Minute Sheinwald to Prime Minister, 3 May 2007, ‘Iraq’.
+47 
+48 
+
+495
+
+The Report of the Iraq Inquiry
+
+to present as anything other than a total withdrawal … it cd be very dangerous for the
+stability of Iraq, & the US will, rightly, be v. concerned.”50
+154.  After visiting Basra again in mid-May, ACM Stirrup continued to recommend the
+drawdown of UK forces. But other contemporary evidence indicated a more negative
+picture of circumstances in Basra than ACM Stirrup’s view that:
+“… the Iraqis are increasingly in a position to take on responsibility for their own
+problems and therefore they might wish to look to propose the south of the country
+as a model through which we can recommend a drawdown of forces.”51
+
+Negotiations with JAM1 in Basra
+In 2007, the UK reached an agreement with an individual described by the Inquiry as
+JAM1 for an end to the targeting of UK forces by members of the JAM militia in Basra in
+exchange for the some detainee releases.
+This agreement was a response to the dominance of JAM in Basra, which UK military
+commanders had few remaining means to challenge, given the resources available to
+them, and the lack of support from the Iraqi Government for Op SALAMANCA.
+The agreement was based on the commendable intention to safeguard the lives of
+members of the UK military as they defended, and then withdrew from, Basra Palace.
+It was a pragmatic tactical response to immensely difficult circumstances.
+Those circumstances were at least in part of the UK’s own making, particularly because
+of the decisions that had been taken about the balance of resources between Iraq and
+Afghanistan. It was humiliating that the UK reached a position in which an agreement
+with a militia group which had been actively targeting UK forces was considered the best
+option available. It should have been possible for the UK to consider increasing troop
+levels in Basra even in 2007/08.
+The agreement with JAM1 also had costs, which were little considered by the UK.
+Although it allowed withdrawal from Basra Palace without the loss of UK life, it did nothing
+to alleviate the impact of JAM activity on the residents of Basra.
+
+155.  In July 2007, FCO and MOD officials recognised that leaving Basra Palace would
+mean moving to PIC in fact if not in name. Mr Brown, who had become Prime Minister
+in June, was keen that the gap between leaving the Palace and transfer to PIC should
+be as small as possible, since UK situational awareness and ability to conduct
+operations in Basra would be limited once the Palace was no longer in use.
+156.  During a visit to Iraq at the start of July, ACM Stirrup sought to convince senior
+US officers that Basra was ready for transfer to PIC on the basis that it would not
+be possible to demonstrate readiness until after the transfer had taken place.
+General David Petraeus, Commanding General MNF-I, and Ambassador Ryan Crocker,
+50 
+51 
+
+Manuscript comment Blair on Minute Sheinwald to Prime Minister, 3 May 2007, ‘Iraq’.
+Minute Poffley to PSSC/SofS [MOD], 17 May 2007, ‘CDS visit to Iraq 13-16 May 07’.
+
+496
+
+9.8  |  Conclusions: The post-conflict period
+
+US Ambassador to Iraq, remained “circumspect” on the timing of PIC.52 They considered
+that there remained “significant problems” associated with “unstable politics” and “JAM
+infiltration” in Basra.
+
+Making the decision to leave Basra Palace
+In Basra City, occupation of the Basra Palace base was crucial to UK understanding
+of what was happening and the consequent risks (known in military terminology as
+“situational awareness”). Centrally located, the Palace site was large enough to house
+both military and civilian staff, giving them access to Iraqi officials within the city.
+The Palace was also a target. By summer 2007, it was considered the “most heavily
+mortared and rocketed place in Iraq”,53 with the result that civilian staff were relocated to
+the more secure Basra Air Station on the edge of the city in the autumn.
+The ‘in principle’ decision to re-posture/draw down UK forces in Basra, subject to a further
+review, was taken by DOP on 14 February 2007. Based on the minutes of that meeting,
+those present were entitled to assume that a further collective discussion would take place
+before the decision made in principle was implemented.
+Before the decision was taken, the issue had been discussed once at DOP, and at its
+Sub‑Committee on Iraq.
+The broad timing of the withdrawal of UK forces from Basra Palace was subsequently
+decided by Mr Brown without discussion at the Ministerial Committee on National Security,
+International Relations and Development (NSID), the relevant Cabinet committee during
+his time in office. The timing was influenced by UK negotiations with JAM1 in Basra, which
+could have been discussed by NSID in a restricted session, if necessary.
+The risks of withdrawing from the Palace to the UK’s ability to discharge its obligations in
+Basra were clearly understood by the MOD and the FCO.
+Mr Brown was advised by Mr Simon McDonald (his Foreign Policy Adviser) that the
+withdrawal from Basra Palace would result in the loss of situational awareness and
+compromise the UK’s ability to discharge its responsibility to help the Government of Iraq
+provide security.
+Leaving Basra Palace was a significant step towards the eventual withdrawal of UK forces
+from Iraq, and it carried risks to the UK’s reputation. Although responsibility for the fine
+detail rested with operational commanders, the importance of the decision on broad timing
+was demonstrated by the Prime Minister’s involvement. For these reasons, the decision to
+withdraw troops should have been formally considered by a group of senior Ministers.
+
+157.  As they reached the end of their respective tours of duty, both Major General
+Jonathan Shaw, General Officer Commanding MND(SE) from January to August 2007,
+and Lieutenant General William Rollo, Senior British Military Representative – Iraq
+from July 2007 to March 2008, identified the impact of limited resources on the UK’s
+military effort and questioned the drive for continued drawdown in Iraq in order to
+
+52 
+53 
+
+Minute Kyd to PS/SofS [MOD], 5 July 2007, ‘CDS visit to Iraq 1-3 Jul 07’.
+Paper FCO and MOD, 12 July 2007, ‘Iraq: Transition in Basra’.
+
+497
+
+The Report of the Iraq Inquiry
+
+prioritise resources for Helmand. Maj Gen Shaw wrote: “We have been hamstrung for
+resources throughout the tour, driven by the rising strategic significance of the Afghan
+deployment.”54
+158.  During a visit to Iraq in October 2007, ACM Stirrup was briefed by Major
+General Graham Binns, General Office Commanding MND(SE) from August 2007 to
+February 2008, that the ISF might have only limited ability to cope in the event that JAM
+resumed combat operations. The JIC and others also identified continued weaknesses
+in the ISF. Their “ability and willingness to maintain security in the South remains patchy
+and dependent on MNF training, logistic and specialist air support”.55
+
+Deciding the UK role post-PIC
+Decisions on the UK’s role in Basra post-PIC were also taken without the opportunity for
+Ministerial discussion, despite Mr Brown’s 11 September commitment that Cabinet would
+have “a further opportunity to discuss” the UK’s future role in Iraq.
+Mr Brown informed the Overseas and Defence Sub-Committee of the NSID of the content
+of his statement to Parliament a few hours before making it on 8 October 2007.
+As a consequence, Ministers did not have the chance to explore:
+
+•	
+•	
+
+precisely what the number of troops proposed would be able to deliver; or
+conditions in Basra.
+
+The decision had been discussed with the US, and with some Ministers individually, but no
+collective discussion took place before 8 October. We cannot now know what difference
+such a discussion might have made.
+Although bilateral conversations are a useful and necessary part of preparing for
+Committee discussion, they are not an adequate substitute. The effective operation
+of a system of collective responsibility is founded on the opportunity for informed and
+timely discussion.
+
+The beginning of the end
+159.  On 27 February 2008, the JIC assessed security prospects in the South at the
+request of the Permanent Joint Headquarters (PJHQ): security in Basra remained
+a concern.
+160.  In March 2008, Prime Minister Maliki instigated the Charge of the Knights to tackle
+militia groups in Basra. That such an important operation came as a surprise was an
+indication of the distance between the UK and Iraqi Governments at this point.
+
+54 
+55 
+
+Letter Shaw to Houghton, 14 August 2007, ‘Post operation report Shawforce Jan-Aug 07’.
+JIC Assessment, 27 February 2008, ‘Iraq: Security Prospects in the South’.
+
+498
+
+9.8  |  Conclusions: The post-conflict period
+
+161.  When the Charge of the Knights began, the UK found itself to be both
+compromised in the eyes of the Iraqi Government and unable to offer significant
+operational support, as a result of the tactical decision to negotiate with JAM1and the
+absence of situational awareness in Basra after withdrawing from the Palace site.
+162.  On 1 April, ACM Stirrup briefed the NSID(OD) that the UK military task would
+be complete by the end of 2008; its timetable would not be affected by the Charge of
+the Knights.
+163.  ACM Stirrup’s conclusion that there was no need to review UK drawdown plans
+was premature in the light of both the level of uncertainty generated by the Charge of
+the Knights and continued questions about the ability of the ISF to take the security
+lead in Basra.
+
+Did the UK achieve its strategic objectives in Iraq?
+164.  From mid-2005 onwards, various senior individuals – officials, military officers and
+Ministers – began to consider whether the UK was heading towards “strategic failure”
+in Iraq.
+165.  The term “strategic failure” was variously used to mean:
+
+•	
+•	
+•	
+•	
+•	
+•	
+•	
+•	
+•	
+
+the development of a widespread sectarian conflict or civil war in Iraq;
+“victory” for terrorist groups;
+collapse of the democratic process;
+failure to achieve the UK’s objectives;
+failure to achieve a stable and secure environment in Basra;
+the collapse of the UK/Iraq relationship;
+the division of Iraq and the end of its existence as a nation state;
+damage to the UK’s military and political reputation; and
+damage to the relationship between the US and UK.
+
+166.  None of the contemporary accounts that the Inquiry has considered reached the
+conclusion that strategic failure was inevitable, although most recognised that without
+some form of corrective action it was a serious risk.
+167.  Although the UK revisited its Iraq strategy with considerable frequency, no
+substantial change in approach was ever implemented: UK troop numbers continued to
+reduce; the size of the civilian deployment varied very little; the Iraqiisation of security
+and handover of responsibility to the Iraqi Government remained key objectives.
+168.  The Iraq of 2009 certainly did not meet the UK’s objectives as described in January
+2003: it fell far short of strategic success. Although the borders of Iraq were the same
+as they had been in 2003, deep sectarian divisions threatened both stability and unity.
+
+499
+
+The Report of the Iraq Inquiry
+
+Those divisions were not created by the coalition, but they were exacerbated by its
+decisions on de-Ba’athification and on demobilisation of the Iraqi Army and were not
+addressed by an effective programme of reconciliation.
+169.  In January 2009, the JIC judged “internal political failures that could lead to
+renewed violence within and between Iraq’s Sunni, Shia and Kurdish communities”56
+to be the greatest strategic threat to Iraq’s stability.
+170.  The fragility of the situation in Basra, which had been the focus of UK effort in
+MND(SE), was clear. The JIC assessed that threats remained from Iranian-backed
+JAM Special Groups, and the Iraqi Security Forces remained reliant on support from
+Multi-National Forces to address weaknesses in leadership and tactical support. Even
+as UK troops withdrew from Basra, the US was sufficiently concerned to deploy its own
+forces there, to secure the border and protect supply lines.
+171.  In 2009, Iraq did have a democratically elected Parliament, in which many of
+Iraq’s communities were represented. But, as demonstrated by the protracted process
+of negotiating agreements on the status of US and then UK forces in Iraq, and the
+continued absence of a much-needed Hydrocarbons Law, representation did not
+translate into effective government. In 2008, Transparency International judged Iraq to
+be the third most corrupt country in the world, and in mid-2009 the Assessments Staff
+judged that Government ministries were “riddled with” corruption.57
+172.  By 2009, it had been demonstrated that some elements of the UK’s 2003
+objectives for Iraq were misjudged. No evidence had been identified that Iraq possessed
+weapons of mass destruction, with which it might threaten its neighbours and the
+international community more widely. But in the years between 2003 and 2009, events in
+Iraq had undermined regional stability, including by allowing Al Qaida space in which to
+operate and unsecured borders across which its members might move.
+173.  The gap between the ambitious objectives with which the UK entered Iraq and
+the resources that the Government was prepared to commit to the task was substantial
+from the start. Even with more resources it would have been difficult to achieve those
+objectives, as a result of the circumstances of the invasion, the lack of international
+support, the inadequacy of planning and preparation, and the inability to deliver law and
+order. The lack of security hampered progress at every turn. It is therefore not surprising
+that, despite the considerable efforts made by UK civilian and military personnel over
+this period, the results were meagre.
+174.  The Inquiry has not been able to identify alternative approaches that would have
+guaranteed greater success in the circumstances of March 2003. What can be said is
+that a number of opportunities for the sort of candid reappraisal of policies that would
+have better aligned objectives and resources did not take place. There was no serious
+56 
+57 
+
+JIC Assessment, 28 January 2009, ‘Iraq: Threats to Stability and UK Mission Change in 2009’.
+CIG Assessment, 21 July 2009, ‘How Corrupt is Iraq?’
+
+500
+
+9.8  |  Conclusions: The post-conflict period
+
+consideration of more radical options, such as an early withdrawal or else a substantial
+increase in effort. The Inquiry has identified a number of moments, especially during the
+first year of the Occupation, when it would have been possible to conduct a substantial
+reappraisal. None took place.
+
+Issues in the UK system
+Strategy-making
+175.  Between May 2003 and May 2007, there were more than 20 instances in which UK
+strategy and objectives were reconsidered.
+176.  It is important to reassess any strategy in the light of changing circumstances or
+new information, but that is not the pattern that emerged in relation to the UK strategy for
+Iraq. The production of strategies consumed considerable time and energy, particularly
+in government departments, but new strategies did not result in substantial changes of
+direction. There are a number of reasons why that was the case.
+177.  Crucially, UK strategies tended to focus on describing the desired end state rather
+than how it would be reached. On none of the 20 occasions when UK strategy was
+reconsidered was a robust plan for implementation produced. Setting a clear direction
+of travel is a vital element of an effective strategy, but strategies also require a serious
+assessment of the material resources available and how they can best be deployed to
+achieve the desired end state. That is especially important when the strategy relates to
+an armed conflict in which it will be actively opposed by organised and capable groups.
+There is very little evidence of thorough analysis of the resources, expertise, conditions
+and support needed to make implementation of UK strategy achievable.
+178.  Without properly defined and resourced delivery plans, the UK faced obvious
+difficulties in converting strategy into action. Consequently, the strategies that were
+developed had limited longevity and impact.
+179.  In the absence of a Cabinet Minister with overall responsibility for Iraq, leadership
+on strategy rested with Mr Blair. His judgement regarding the issues holding back
+progress was often right. For instance, in April 2004 he recognised that the lack of a
+stable and secure environment was key and wrote to President Bush: “The good news is
+that the problem we face is not multi-faceted. It is simple: security. The bad news is that
+I am not sure we yet have a fully worked-out strategy to tackle it. But we can get one.”58
+180.  In the UK system, however, the Prime Minister does not lead a department of his
+or her own. Mr Blair’s ability to solve the strategic problems he identified therefore relied
+on his Cabinet colleagues, and the departments they led, working together.
+
+58 
+
+Letter Sheinwald to Rice, 26 April 2004, [untitled] attaching Note [Blair to Bush], [undated], ‘Note’.
+
+501
+
+The Report of the Iraq Inquiry
+
+181.  A recurring issue between 2003 and 2007 was the difficulty of translating the
+Government’s strategy for Iraq into action by departments. The system that drove policy
+on the invasion of Iraq, which centered on No.10, could not be easily transformed into
+a system for the effective management of the aftermath, in which a coherent collective
+effort was needed to pull together the many interrelated strands of activity required.
+Although Iraq was designated the UK’s highest foreign policy priority, it was not the top
+priority within individual departments. As a consequence, Whitehall did not put significant
+collective weight behind the task.
+182.  One indication of that, as described in Section 13, was the failure to resource the
+UK effort coherently. Others included:
+
+•	
+•	
+•	
+•	
+
+Sir Nigel Sheinwald’s identification of “definite signs of Iraq fatigue”59 within
+Whitehall in September 2004, and his advice to Mr Blair that he would have to
+press for greater engagement.
+Concerns expressed by Sir Nigel and Mr Blair in July 2005 about the ability to
+deliver Sir Nigel’s “Comprehensive Strategy”.
+Mr Jonathan Powell’s identification in September 2005 that amongst those
+dealing with Iraq a “weary cynicism and feeling that it is all inevitable has sunk
+in”60 and Mr Blair’s recognition that the new strategy proposed would require
+Mr Powell to spend “much time pushing it through”.61
+Mr Blair’s observation in April 2007 that the FCO and the MOD were unwilling to
+push forward further work on reconciliation, meaning “we will have to do it”.62
+
+Optimism bias
+183.  Throughout the UK’s engagement in Iraq there was a tendency to focus on the
+most positive interpretation of events.
+184.  One manifestation of that was failure to give weight to the candid analysis that was
+regularly supplied by the JIC, by some commanders in theatre, and by others that things
+were going wrong.
+185.  The default position was to judge that negative events were isolated incidents
+rather than potential evidence of a trend which should be monitored and which
+might require a policy response. This meant that underlying causes were not always
+investigated and brought to light.
+186.  This became a particularly serious issue in relation to considering whether the
+conditions for transfer to PIC had been met.
+
+Minute Sheinwald to Prime Minister, 13 September 2004, ‘Visit to Iraq: Some Impressions’.
+Minute Powell to Prime Minister, 21 September 2005, ‘Iraq: Strategy’.
+61 
+Manuscript comment Prime Minister to Powell on Minute Powell to Prime Minister, 21 September 2005,
+‘Iraq: Strategy’.
+62 
+Manuscript comment Blair on Minute Banner to Prime Minister, 27 April 2007, ‘Iraq Update, 26 April’.
+59 
+60 
+
+502
+
+9.8  |  Conclusions: The post-conflict period
+
+187.  One of the most senior individuals displaying this tendency was Mr Des Browne,
+who held the post of Defence Secretary from May 2006 to October 2008.
+188.  Mr Browne repeatedly downplayed the negative aspects of the situation in Iraq
+and failed to ensure the dissemination of a full and unvarnished version of the truth on
+the ground in Iraq; and that the UK’s policy was assessed and reviewed with due rigour
+based on that information. Mr Browne should himself have proposed a reappraisal of the
+UK’s posture and tactics in Basra in 2007, on the basis of the evidence available to him.
+189.  In four instances, Mr Browne gave an unbalanced account of the situation in Basra
+to the Prime Minister, Cabinet or Parliament:
+
+•	
+•	
+
+•	
+
+•	
+
+On 11 January 2007, Mr Browne presented Op SINBAD and the US surge to
+DOP(I) as being “entirely consistent”, which did not give a full picture of the
+substantial differences between UK and US strategy.
+Mr Browne briefed a meeting of Cabinet on 25 January 2007 that there was no
+disagreement between the US and UK on force levels in MND(SE), downplaying
+the concerns being raised by senior members of the US Administration.
+Mr Browne also painted an extremely positive picture of conditions in Basra,
+when other contemporary accounts provided a different view.
+From 28 to 31 January 2007, Mr Browne visited Iraq. After returning to the UK,
+he continued to stress to DOP the positive effect of Op SINBAD. Mr Browne’s
+reassuring report did not take into account: the strength of US objections to
+the UK’s approach; the serious risk that the UK would have responsibility
+without control in Basra, which was driving consideration of a continued
+UK presence in Basra Palace; or evidence of the dangerous situation faced
+by ordinary Basrawis.
+On 1 April 2008, Mr Browne gave a positive account of the reduction of
+corruption in the Basra police to Parliament. This painted a significantly more
+positive picture than contemporary reporting from those on the ground in Basra.
+
+Lessons
+190.  The UK had not participated in an opposed invasion and full-scale occupation of
+a sovereign State (followed by shared responsibility for security and reconstruction over
+a long period) since the end of the Second World War. The particular circumstances of
+Op TELIC are unlikely to recur. Nevertheless, there are lessons to be drawn about major
+operations abroad and the UK’s approach to armed intervention.
+191.  The UK did not achieve its objectives, despite the best efforts and acceptance of
+risk in a dangerous environment by military and civilian personnel.
+192.  Although the UK expected to be involved in Iraq for a lengthy period after the
+conflict, the Government was unprepared for the role in which the UK found itself from
+April 2003. Much of what went wrong stemmed from that lack of preparation.
+
+503
+
+The Report of the Iraq Inquiry
+
+193.  In any undertaking of this kind, certain fundamental elements are of vital
+importance:
+
+•	
+•	
+•	
+•	
+
+the best possible appreciation of the theatre of operations, including the political,
+cultural and ethnic background, and the state of society, the economy and
+infrastructure;
+a hard-headed assessment of risks;
+objectives which are realistic within that context, and if necessary limited – rather
+than idealistic and based on optimistic assumptions; and
+allocation of the resources necessary for the task – both military and civil.
+
+194.  All of these elements were lacking in the UK’s approach to its role in post-conflict
+Iraq.
+195.  Where responsibility is to be shared, it is essential to have written agreement in
+advance on how decision-making and governance will operate within an alliance or
+coalition. The UK normally acts with allies, as it did in Iraq. Within the NATO alliance, the
+rules and mechanisms for decision-taking and the sharing of responsibility have been
+developed over time and are well understood. The Coalition in Iraq, by contrast, was
+an ad hoc alliance.The UK tried to establish some governance principles in the MOU
+proposed to the US, but did not press the point. This led the UK into the uncomfortable
+and unsatisfactory situation of accepting shared responsibility without the ability to make
+a formal input to the process of decision-making.
+196.  As Iraq showed, the pattern set in the initial stage of an intervention is crucial. The
+maximum impact needs to be made in the early weeks and months, or opportunities
+missed may be lost for ever. It is very difficult to recover from a slow or damaging start.
+197.  Ground truth is vital. Over-optimistic assessments lead to bad decisions. Senior
+decision-makers – Ministers, Chiefs of Staff, senior officials – must have a flow of
+accurate and frank reporting. A “can do” attitude is laudably ingrained in the UK Armed
+Forces – a determination to get on with the job, however difficult the circumstances – but
+this can prevent ground truth from reaching senior ears. At times, in Iraq, the bearers
+of bad tidings were not heard. On several occasions, decision-makers visiting Iraq
+(including the Prime Minister, the Foreign Secretary and the Chief of the General Staff)
+found the situation on the ground to be much worse than had been reported to them.
+Effective audit mechanisms need to be used to counter optimism bias, whether through
+changes in the culture of reporting, use of multiple channels of information – internal and
+external – or use of visits.
+198.  It is important to retain a flexible margin of resources – in personnel, equipment
+and financing – and the ability to change tactics to deal with adverse developments
+on the ground. In Iraq, that flexibility was lost after the parallel deployment to Helmand
+province in Afghanistan, which both constrained the supply of equipment (such as
+ISTAR) and took away the option of an effective reinforcement. Any decision to deploy
+
+504
+
+9.8  |  Conclusions: The post-conflict period
+
+to the limit of capabilities entails a high level of risk. In relation to Iraq, the risks involved
+in the parallel deployment of two enduring medium scale operations were not examined
+with sufficient rigour and challenge.
+199.  The management, in Whitehall, of a cross-government effort on the scale which
+was required in Iraq is a complex task. It needs dedicated leadership by someone with
+time, energy and influence. It cannot realistically be done by a Prime Minister alone, but
+requires a senior Minister with lead responsibility who has access to the Prime Minister
+and is therefore able to call on his or her influence in resolving problems or conflicts.
+A coherent inter-departmental effort, supported by a structure able to hold departments
+to account, is required to support such a Minister.
+
+505
+
