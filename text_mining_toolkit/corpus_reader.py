@@ -1,5 +1,6 @@
 # module to read corpora
 # a corpus will be a directory with a plain text files
+# this module provides the raw text, it does not provide preprocessing steps
 
 
 # glob module for finding files that match a pattern
