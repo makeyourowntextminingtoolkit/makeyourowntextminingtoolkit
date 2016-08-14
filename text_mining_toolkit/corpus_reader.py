@@ -46,4 +46,4 @@ class CorpusReader:
 
     # returns all the text from all the documents
     def get_all_text(self):
-        return " ".join(iter(self.documents.values()))
+        return " ".join(self.documents.values())
