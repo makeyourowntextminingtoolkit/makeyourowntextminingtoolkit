@@ -1,2 +1,2 @@
 from .corpus_reader import CorpusReader
-from .preprocessor import PreProcessor
+from . import pre_processor
