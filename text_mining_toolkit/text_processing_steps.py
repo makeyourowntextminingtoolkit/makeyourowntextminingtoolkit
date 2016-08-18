@@ -1,4 +1,4 @@
-# module apply processing to text
+# module apply processing to text (not word lists)
 
 # import text string stuff
 import string
@@ -27,10 +27,4 @@ def remove_punctuation(input_text):
 def keep_alphanumeric(input_text):
     delchars = ''.join(c for c in map(chr, range(256)) if c not in (" " + string.ascii_letters + string.digits))
     output_text = input_text.translate(str.maketrans("\n\r", "  ", delchars))
-    return output_text
-
-
-# split into words
-def split_text_into_words(input_text):
-    output_text = input_text.split(" ")
     return output_text
