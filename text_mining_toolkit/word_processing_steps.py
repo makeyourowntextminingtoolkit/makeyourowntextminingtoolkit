@@ -25,5 +25,15 @@ def count_word_frequency(input_words_list):
 
 # remove stop words (given stop word list source file)
 def remove_stop_words(input_words_list, stop_words_file):
-    print ("TODO")
-    pass
+    print("stop words file = ", stop_words_file)
+    with open(stop_words_file, "r") as f:
+        stop_words_list= f.read().split()
+        pass
+
+    # remove comments lines starting with #
+    stop_words_list[:] = [word for word in stop_words_list if word[:1]!='#']
+
+    # remove stop words from input words list
+    output_words_list = [word for word in input_words_list if word not in stop_words_list]
+
+    return output_words_list
