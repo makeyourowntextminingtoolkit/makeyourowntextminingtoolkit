@@ -10,16 +10,16 @@ import os
 
 
 class CorpusReader:
-    def __init__(self, directory_of_files, text_filename_pattern):
+    def __init__(self, content_directory, text_filename_pattern):
         # corpus location, and file name pattern
-        self.directory_of_files = directory_of_files
+        self.content_directory = content_directory
         self.text_filename_pattern = text_filename_pattern
 
-        print("directory of files = ", self.directory_of_files)
+        print("content_directory = ", self.content_directory)
         print("text_filename_pattern = ", self.text_filename_pattern)
 
         # list of text files
-        self.list_of_text_files = glob.glob(directory_of_files + text_filename_pattern)
+        self.list_of_text_files = glob.glob(content_directory + text_filename_pattern)
 
         # populate dictionary mapping document name to text content
         self.documents = {os.path.basename(i): self.read_text_from_file(i) for i in self.list_of_text_files}

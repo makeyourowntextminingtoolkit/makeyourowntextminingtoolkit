@@ -4,6 +4,12 @@
 import string
 
 
+# split into words
+def split_text_into_words(input_text):
+    output_words_list = input_text.split(" ")
+    return output_words_list
+
+
 # make lowercase
 def to_lowercase(input_text):
     output_text = input_text.lower()
