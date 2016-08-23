@@ -24,16 +24,19 @@ def update_index(content_directory, document_name, doc_words_list):
 
     # load index if it already exists
     index_file = content_directory + "index"
-    with open(index_file, "r") as f:
-        index = pickle.load(f)
-        pass
+    if os.path.isfile(index_file):
+        with open(index_file, "rb") as f:
+            print("loading existing index, ", index_file)
+            index = pickle.load(f)
+            pass
+    pass
 
     # update index
 
 
     # finally save updated index again
-    with open(index_file, "w") as f:
-        pickle.dump(index, index_file)
+    with open(index_file, "wb") as f:
+        pickle.dump(index, f)
         pass
 
     pass
