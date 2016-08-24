@@ -24,15 +24,16 @@ def print_index(content_directory):
         with open(index_file, "rb") as f:
             index = pickle.load(f)
             pass
-        for x in index.most_common(20):
-            print(x)
+        for i in range(20):
+            print(list(index.items())[i])
+            pass
     pass
 
 
 # update index
 def update_index(content_directory, document_name, doc_words_list):
     # start with empty index
-    index = collections.Counter()
+    index = collections.defaultdict(list)
 
     # load index if it already exists
     index_file = content_directory + "index"
@@ -44,11 +45,8 @@ def update_index(content_directory, document_name, doc_words_list):
     pass
 
     # update index
-    # first make (word, document_name) tuple
-    doc_and_word = [(word, document_name) for word in doc_words_list]
-    # then count it
-    doc_word_count = collections.Counter(doc_and_word)
-    index += doc_word_count
+    # (word, [document_name]) dictionary, there can be many [document_names] in list
+    [index[word].append(document_name) for word in doc_words_list]
 
     # finally save updated index again
     with open(index_file, "wb") as f:
@@ -60,6 +58,20 @@ def update_index(content_directory, document_name, doc_words_list):
 
 
 # query index
-def search_index(corpus, search_query):
+def search_index(content_directory, search_query):
     print("search_index called")
+    # load index if it already exists
+    index_file = content_directory + "index"
+    if os.path.isfile(index_file):
+        with open(index_file, "rb") as f:
+            print("loading existing index, ", index_file)
+            index = pickle.load(f)
+            pass
+
+        # do query
+        matching_documents = index[search_query]
+        # count occurences in matching documents
+        matching_documents_counter = collections.Counter(matching_documents)
+        # return list of matching documents ordered by those with most occurences
+        return list(matching_documents_counter.most_common())
     pass
