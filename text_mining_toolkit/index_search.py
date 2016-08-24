@@ -24,7 +24,7 @@ def print_index(content_directory):
         with open(index_file, "rb") as f:
             index = pickle.load(f)
             pass
-        for i in range(20):
+        for i in range(5):
             print(list(index.items())[i])
             pass
     pass
