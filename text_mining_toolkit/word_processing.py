@@ -10,8 +10,8 @@ def keep_words_min_length(input_words_list, min_length):
     return output_words_list
 
 
-# count word frequency
-def count_word_frequency(input_words_list):
+# count word occurance
+def count_word_occurance(input_words_list):
     word_counts = collections.Counter(input_words_list)
     # returns a collections.Counter object
     return word_counts

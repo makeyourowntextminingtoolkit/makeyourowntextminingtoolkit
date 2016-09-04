@@ -81,12 +81,18 @@ def calculate_relevance_index(content_directory):
     frequency_index = wordcount_index/wordcount_index.sum()
 
     # penalise short word length
-    print("1=== ", frequency_index)
     for word in frequency_index.index.values:
         frequency_index.loc[word] = frequency_index.loc[word] * numpy.tanh(len(word)/5.0)
         pass
-    # still to do IDF
-    print("2=== ", frequency_index)
+
+    # inverse document frequency
+    for word in frequency_index.index.values:
+        documents = frequency_index.loc[word]
+        matching_documents = documents[documents > 0]
+        inverse_document_frequency = 1.0 - (len(matching_documents) / len(documents))
+        # print("word =", word, " idf = ", inverse_document_frequency)
+        frequency_index.loc[word] = frequency_index.loc[word] * inverse_document_frequency
+        pass
 
     # save relevance index
     relevance_index_file = content_directory + "index.relevance"
@@ -96,7 +102,6 @@ def calculate_relevance_index(content_directory):
 
 # query index
 def search_index(content_directory, search_query):
-    print("search_index called")
     # load index if it already exists
     relevance_index_file = content_directory + "index.relevance"
     relevance_index = pandas.read_pickle(relevance_index_file)
@@ -109,3 +114,17 @@ def search_index(content_directory, search_query):
     # to list
     matching_documents_list = [(k,v) for (k,v) in matching_documents.to_dict().items()]
     return matching_documents_list
+
+
+# get words ordered by relevance (across all documents)
+def get_words_by_relevance(content_directory):
+    # load relevance index
+    relevance_index_file = content_directory + "index.relevance"
+    relevance_index = pandas.read_pickle(relevance_index_file)
+
+    # sum the relevance scores for a word across all documents, sort
+    word_relevance = relevance_index.sum(axis=1).sort_values(ascending=False)
+    # print(word_relevance)
+    word_relevance_counter = collections.Counter(word_relevance.to_dict())
+    # return collections.counter object
+    return word_relevance_counter
