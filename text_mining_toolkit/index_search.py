@@ -6,6 +6,8 @@ import os
 import collections
 # import pandas for index dataframe
 import pandas
+# import numpy for maths functions
+import numpy
 # max columns when printing .. (may not be needed if auto detected from display)
 pandas.set_option('max_columns', 5)
 
@@ -77,6 +79,14 @@ def calculate_relevance_index(content_directory):
 
     # word frequency (per document) from wordcount, aka TF
     frequency_index = wordcount_index/wordcount_index.sum()
+
+    # penalise short word length
+    print("1=== ", frequency_index)
+    for word in frequency_index.index.values:
+        frequency_index.loc[word] = frequency_index.loc[word] * numpy.tanh(len(word)/5.0)
+        pass
+    # still to do IDF
+    print("2=== ", frequency_index)
 
     # save relevance index
     relevance_index_file = content_directory + "index.relevance"
