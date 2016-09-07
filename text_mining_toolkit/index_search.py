@@ -97,7 +97,7 @@ def merge_wordcount_indices_for_corpus(content_directory):
         print("merging index file .. ", document_index_file)
 
         temporary_document_index = pandas.read_pickle(document_index_file)
-        wordcount_index = pandas.merge(wordcount_index, temporary_document_index, how='outer', left_index=True, right_index=True)
+        wordcount_index = pandas.merge(wordcount_index, temporary_document_index, sort=False, how='outer', left_index=True, right_index=True)
 
         # remove document index after merging
         os.remove(document_index_file)
