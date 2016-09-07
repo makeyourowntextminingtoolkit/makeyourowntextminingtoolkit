@@ -1,5 +1,7 @@
 # module for indexing a corpus, and basic search
 
+# glob module for finding files that match a pattern
+import glob
 # import os file deletion
 import os
 # import collections for index
@@ -15,6 +17,13 @@ pandas.set_option('max_columns', 5)
 # delete indices
 def delete_indices(content_directory):
     # delete wordcount index
+    """
+    Deletes any existing index files from the corpus directory.
+    Currently these are index.wordcount and index.relevance.
+
+    :param content_directory: directory containing the text corpus, this should be CorpusReader.content_directory
+    :type content_directory: string
+    """
     wordcount_index_file = content_directory + "index.wordcount"
     if os.path.isfile(wordcount_index_file):
         os.remove(wordcount_index_file)
@@ -33,29 +42,32 @@ def delete_indices(content_directory):
 # print existing index
 def print_index(content_directory):
     # wordcount index
+    """
+    Prints the index files, and only a small section (max 10 rows, 5 cols) if the indices are large.
+    Currently these are index.wordcount and index.relevance.
+
+    :param content_directory: directory containing the text corpus, this should be CorpusReader.content_directory
+    :type content_directory: string
+    """
     wordcount_index_file = content_directory + "index.wordcount"
     wordcount_index = pandas.read_pickle(wordcount_index_file)
+    print("wordcount_index_file ", wordcount_index_file)
     print(wordcount_index.head(10))
 
     # relevance index
     relevance_index_file = content_directory + "index.relevance"
     relevance_index_ = pandas.read_pickle(relevance_index_file)
+    print("relevance_index_file ", relevance_index_file)
     print(relevance_index_.head(10))
     pass
 
 
-# update word count index
-def update_wordcount_index(content_directory, document_name, doc_words_list):
+# create word count index just for one document
+def create_wordcount_index_for_document(content_directory, document_name, doc_words_list):
     # start with empty index
     wordcount_index = pandas.DataFrame()
 
-    # load index if it already exists
-    wordcount_index_file = content_directory + "index.wordcount"
-    if os.path.isfile(wordcount_index_file):
-        wordcount_index = pandas.read_pickle(wordcount_index_file)
-        pass
-
-    # update index
+    # create index
     # (word, [document_name]) dictionary, there can be many [document_names] in list
     words_ctr = collections.Counter(doc_words_list)
     for w, c in words_ctr.items():
@@ -66,7 +78,37 @@ def update_wordcount_index(content_directory, document_name, doc_words_list):
     # replace NaN wirh zeros
     wordcount_index.fillna(0, inplace=True)
 
-    # finally save updated index again
+    # finally save index
+    wordcount_index_file = content_directory + document_name + "_index.wordcount"
+    wordcount_index.to_pickle(wordcount_index_file)
+    pass
+
+
+# merge document indices into a single index for the corpus
+def merge_wordcount_indices_for_corpus(content_directory):
+    # start with empty index
+    wordcount_index = pandas.DataFrame()
+
+    # list of text files
+    list_of_text_files = glob.glob(content_directory + "*_index.wordcount")
+
+    # load each index file and merge into accummulating corpus index
+    for document_index_file in list_of_text_files:
+        print("merging index file .. ", document_index_file)
+
+        temporary_document_index = pandas.read_pickle(document_index_file)
+        wordcount_index = pandas.merge(wordcount_index, temporary_document_index, how='outer', left_index=True, right_index=True)
+
+        # remove document index after merging
+        os.remove(document_index_file)
+        pass
+
+    # replace NaN wirh zeros
+    wordcount_index.fillna(0, inplace=True)
+
+    # finally save index
+    wordcount_index_file = content_directory + "index.wordcount"
+    print("saving corpus index ... ", wordcount_index_file)
     wordcount_index.to_pickle(wordcount_index_file)
     pass
 
