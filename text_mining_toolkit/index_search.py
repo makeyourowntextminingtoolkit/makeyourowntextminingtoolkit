@@ -50,15 +50,19 @@ def print_index(content_directory):
     :type content_directory: string
     """
     wordcount_index_file = content_directory + "index.wordcount"
-    wordcount_index = pandas.read_pickle(wordcount_index_file)
+    hd5_store = pandas.HDFStore(wordcount_index_file, mode='r')
+    wordcount_index = hd5_store['corpus_index']
+    hd5_store.close()
     print("wordcount_index_file ", wordcount_index_file)
     print(wordcount_index.head(10))
 
     # relevance index
     relevance_index_file = content_directory + "index.relevance"
-    relevance_index_ = pandas.read_pickle(relevance_index_file)
+    hd5_store = pandas.HDFStore(relevance_index_file, mode='r')
+    relevance_index = hd5_store['corpus_index']
+    hd5_store.close()
     print("relevance_index_file ", relevance_index_file)
-    print(relevance_index_.head(10))
+    print(relevance_index.head(10))
     pass
 
 
@@ -80,7 +84,9 @@ def create_wordcount_index_for_document(content_directory, document_name, doc_wo
 
     # finally save index
     wordcount_index_file = content_directory + document_name + "_index.wordcount"
-    wordcount_index.to_pickle(wordcount_index_file)
+    hd5_store = pandas.HDFStore(wordcount_index_file, mode='w')
+    hd5_store['doc_index'] = wordcount_index
+    hd5_store.close()
     pass
 
 
@@ -90,13 +96,14 @@ def merge_wordcount_indices_for_corpus(content_directory):
     wordcount_index = pandas.DataFrame()
 
     # list of text files
-    list_of_text_files = glob.glob(content_directory + "*_index.wordcount")
+    list_of_index_files = glob.glob(content_directory + "*_index.wordcount")
 
     # load each index file and merge into accummulating corpus index
-    for document_index_file in list_of_text_files:
-        print("merging index file .. ", document_index_file)
-
-        temporary_document_index = pandas.read_pickle(document_index_file)
+    for document_index_file in list_of_index_files:
+        #print("merging index file .. ", document_index_file)
+        hd5_store = pandas.HDFStore(document_index_file, mode='r')
+        temporary_document_index  = hd5_store['doc_index']
+        hd5_store.close()
         wordcount_index = pandas.merge(wordcount_index, temporary_document_index, sort=False, how='outer', left_index=True, right_index=True)
 
         # remove document index after merging
@@ -109,7 +116,9 @@ def merge_wordcount_indices_for_corpus(content_directory):
     # finally save index
     wordcount_index_file = content_directory + "index.wordcount"
     print("saving corpus index ... ", wordcount_index_file)
-    wordcount_index.to_pickle(wordcount_index_file)
+    hd5_store = pandas.HDFStore(wordcount_index_file, mode='w')
+    hd5_store['corpus_index'] = wordcount_index
+    hd5_store.close()
     pass
 
 
@@ -117,7 +126,9 @@ def merge_wordcount_indices_for_corpus(content_directory):
 def calculate_relevance_index(content_directory):
     # load wordcount index
     wordcount_index_file = content_directory + "index.wordcount"
-    wordcount_index = pandas.read_pickle(wordcount_index_file)
+    hd5_store = pandas.HDFStore(wordcount_index_file, mode='r')
+    wordcount_index = hd5_store['corpus_index']
+    hd5_store.close()
 
     # word frequency (per document) from wordcount, aka TF
     frequency_index = wordcount_index/wordcount_index.sum()
@@ -138,7 +149,9 @@ def calculate_relevance_index(content_directory):
 
     # save relevance index
     relevance_index_file = content_directory + "index.relevance"
-    frequency_index.to_pickle(relevance_index_file)
+    hd5_store = pandas.HDFStore(relevance_index_file, mode='w')
+    hd5_store['corpus_index'] = frequency_index
+    hd5_store.close()
     pass
 
 
@@ -146,7 +159,10 @@ def calculate_relevance_index(content_directory):
 def search_index(content_directory, search_query):
     # load index if it already exists
     relevance_index_file = content_directory + "index.relevance"
-    relevance_index = pandas.read_pickle(relevance_index_file)
+    hd5_store = pandas.HDFStore(relevance_index_file, mode='r')
+    relevance_index = hd5_store['corpus_index']
+    hd5_store.close()
+
 
     # do query
     documents = relevance_index.loc[search_query]
@@ -162,7 +178,9 @@ def search_index(content_directory, search_query):
 def get_words_by_relevance(content_directory):
     # load relevance index
     relevance_index_file = content_directory + "index.relevance"
-    relevance_index = pandas.read_pickle(relevance_index_file)
+    hd5_store = pandas.HDFStore(relevance_index_file, mode='r')
+    relevance_index = hd5_store['corpus_index']
+    hd5_store.close()
 
     # sum the relevance scores for a word across all documents, sort
     word_relevance = relevance_index.sum(axis=1).sort_values(ascending=False)
