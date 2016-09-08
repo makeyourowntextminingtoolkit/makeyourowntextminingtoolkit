@@ -31,6 +31,5 @@ def remove_punctuation(input_text):
 
 # keep only alphanumeric characters
 def keep_alphanumeric(input_text):
-    delchars = ''.join(c for c in map(chr, range(256)) if c not in (" " + string.ascii_letters + string.digits))
-    output_text = input_text.translate(str.maketrans("\n\r", "  ", delchars))
+    output_text = ''.join(c for c in input_text if c in (" " + string.ascii_letters + string.digits))
     return output_text
