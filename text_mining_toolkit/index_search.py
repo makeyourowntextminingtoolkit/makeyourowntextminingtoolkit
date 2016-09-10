@@ -50,17 +50,17 @@ def print_index(content_directory):
     :type content_directory: string
     """
     wordcount_index_file = content_directory + "index.wordcount"
-    hd5_store = pandas.HDFStore(wordcount_index_file, mode='r')
-    wordcount_index = hd5_store['corpus_index']
-    hd5_store.close()
+    hd5_store1 = pandas.HDFStore(wordcount_index_file, mode='r')
+    wordcount_index = hd5_store1['corpus_index']
+    hd5_store1.close()
     print("wordcount_index_file ", wordcount_index_file)
     print(wordcount_index.head(10))
 
     # relevance index
     relevance_index_file = content_directory + "index.relevance"
-    hd5_store = pandas.HDFStore(relevance_index_file, mode='r')
-    relevance_index = hd5_store['corpus_index']
-    hd5_store.close()
+    hd5_store2 = pandas.HDFStore(relevance_index_file, mode='r')
+    relevance_index = hd5_store2['corpus_index']
+    hd5_store2.close()
     print("relevance_index_file ", relevance_index_file)
     print(relevance_index.head(10))
     pass
@@ -100,10 +100,13 @@ def merge_wordcount_indices_for_corpus(content_directory):
 
     # load each index file and merge into accummulating corpus index
     for document_index_file in list_of_index_files:
-        #print("merging index file .. ", document_index_file)
         hd5_store = pandas.HDFStore(document_index_file, mode='r')
         temporary_document_index  = hd5_store['doc_index']
         hd5_store.close()
+
+        # following is a workaround for a pandas bug
+        temporary_document_index.index = temporary_document_index.index.astype(str)
+
         wordcount_index = pandas.merge(wordcount_index, temporary_document_index, sort=False, how='outer', left_index=True, right_index=True)
 
         # remove document index after merging
@@ -129,6 +132,9 @@ def calculate_relevance_index(content_directory):
     hd5_store = pandas.HDFStore(wordcount_index_file, mode='r')
     wordcount_index = hd5_store['corpus_index']
     hd5_store.close()
+
+    # following is a workaround for a pandas bug
+    wordcount_index.index = wordcount_index.index.astype(str)
 
     # word frequency (per document) from wordcount, aka TF
     frequency_index = wordcount_index/wordcount_index.sum()
@@ -163,6 +169,8 @@ def search_index(content_directory, search_query):
     relevance_index = hd5_store['corpus_index']
     hd5_store.close()
 
+    # following is a workaround for a pandas bug
+    relevance_index.index = relevance_index.index.astype(str)
 
     # do query
     documents = relevance_index.loc[search_query]
@@ -181,6 +189,9 @@ def get_words_by_relevance(content_directory):
     hd5_store = pandas.HDFStore(relevance_index_file, mode='r')
     relevance_index = hd5_store['corpus_index']
     hd5_store.close()
+
+    # following is a workaround for a pandas bug
+    relevance_index.index = relevance_index.index.astype(str)
 
     # sum the relevance scores for a word across all documents, sort
     word_relevance = relevance_index.sum(axis=1).sort_values(ascending=False)
