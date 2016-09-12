@@ -173,11 +173,16 @@ def search_wordcount_index(content_directory, search_query):
     # following is a workaround for a pandas bug
     wordcount_index.index = wordcount_index.index.astype(str)
 
+    # query string to list of search terms
+    search_query_list = search_query.split()
+
     # do query
-    documents = wordcount_index.loc[search_query]
-    # filter out those with word count of zero
-    matching_documents = documents[documents > 0]
-    return matching_documents.sort_values(ascending=False)
+    documents = wordcount_index.loc[search_query_list]
+    # sum the scores
+    results = documents.sum()
+    # filter out those with score of zero
+    results = results[results > 0]
+    return results.sort_values(ascending=False)
 
 
 # query relevance index
@@ -191,11 +196,16 @@ def search_relevance_index(content_directory, search_query):
     # following is a workaround for a pandas bug
     relevance_index.index = relevance_index.index.astype(str)
 
+    # query string to list of search terms
+    search_query_list = search_query.split()
+
     # do query
-    documents = relevance_index.loc[search_query]
-    # filter out those with word count of zero
-    matching_documents = documents[documents > 0]
-    return matching_documents.sort_values(ascending=False)
+    documents = relevance_index.loc[search_query_list]
+    # sum the scores
+    results = documents.sum()
+    # filter out those with score of zero
+    results = results[results > 0]
+    return results.sort_values(ascending=False)
 
 
 # get words ordered by relevance (across all documents)
