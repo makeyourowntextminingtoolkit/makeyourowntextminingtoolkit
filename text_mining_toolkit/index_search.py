@@ -118,7 +118,7 @@ def merge_wordcount_indices_for_corpus(content_directory):
 
     # finally save index
     wordcount_index_file = content_directory + "index.wordcount"
-    print("saving corpus index ... ", wordcount_index_file)
+    print("saving corpus word count index ... ", wordcount_index_file)
     hd5_store = pandas.HDFStore(wordcount_index_file, mode='w')
     hd5_store['corpus_index'] = wordcount_index
     hd5_store.close()
@@ -155,14 +155,33 @@ def calculate_relevance_index(content_directory):
 
     # save relevance index
     relevance_index_file = content_directory + "index.relevance"
+    print("saving corpus relevance index ... ", relevance_index_file)
     hd5_store = pandas.HDFStore(relevance_index_file, mode='w')
     hd5_store['corpus_index'] = frequency_index
     hd5_store.close()
     pass
 
 
-# query index
-def search_index(content_directory, search_query):
+# query wordcount index
+def search_wordcount_index(content_directory, search_query):
+    # load index if it already exists
+    wordcount_index_file = content_directory + "index.wordcount"
+    hd5_store = pandas.HDFStore(wordcount_index_file, mode='r')
+    wordcount_index = hd5_store['corpus_index']
+    hd5_store.close()
+
+    # following is a workaround for a pandas bug
+    wordcount_index.index = wordcount_index.index.astype(str)
+
+    # do query
+    documents = wordcount_index.loc[search_query]
+    # filter out those with word count of zero
+    matching_documents = documents[documents > 0]
+    return matching_documents.sort_values(ascending=False)
+
+
+# query relevance index
+def search_relevance_index(content_directory, search_query):
     # load index if it already exists
     relevance_index_file = content_directory + "index.relevance"
     hd5_store = pandas.HDFStore(relevance_index_file, mode='r')
@@ -176,10 +195,7 @@ def search_index(content_directory, search_query):
     documents = relevance_index.loc[search_query]
     # filter out those with word count of zero
     matching_documents = documents[documents > 0]
-    print("matching_documents", matching_documents)
-    # to list
-    matching_documents_list = [(k,v) for (k,v) in matching_documents.to_dict().items()]
-    return matching_documents_list
+    return matching_documents.sort_values(ascending=False)
 
 
 # get words ordered by relevance (across all documents)
