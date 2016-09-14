@@ -180,6 +180,8 @@ def search_wordcount_index(content_directory, search_query):
     documents = wordcount_index.loc[search_query_list]
     # sum the scores
     results = documents.sum()
+    # multiply the scores
+    #results = documents.prod()
     # filter out those with score of zero
     results = results[results > 0]
     return results.sort_values(ascending=False)
@@ -203,6 +205,8 @@ def search_relevance_index(content_directory, search_query):
     documents = relevance_index.loc[search_query_list]
     # sum the scores
     results = documents.sum()
+    # multiply the scores
+    #results = documents.prod()
     # filter out those with score of zero
     results = results[results > 0]
     return results.sort_values(ascending=False)
@@ -221,7 +225,4 @@ def get_words_by_relevance(content_directory):
 
     # sum the relevance scores for a word across all documents, sort
     word_relevance = relevance_index.sum(axis=1).sort_values(ascending=False)
-    # print(word_relevance)
-    word_relevance_counter = collections.Counter(word_relevance.to_dict())
-    # return collections.counter object
-    return word_relevance_counter
+    return word_relevance
