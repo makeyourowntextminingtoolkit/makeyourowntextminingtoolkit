@@ -10,6 +10,7 @@ import matplotlib.pyplot as plt
 # import modules for d3 graphs
 import IPython.core.display
 import networkx
+import networkx.readwrite.json_graph
 # import random for randomising dom-element
 import random
 
@@ -39,9 +40,6 @@ def plot_force_directed_graph(words_by_co_occurance):
     graph_json = networkx.readwrite.json_graph.node_link_data(graph)
     graph_json_nodes = graph_json['links']
     graph_json_links = graph_json['nodes']
-
-    # d3 library url
-    d3_url = "https://d3js.org/d3.v4.min.js"
 
     # read html template
     html_template_file = os.path.join(os.path.dirname(__file__), 'html_templates/d3_force_directed_graph.html')
@@ -73,5 +71,5 @@ def plot_force_directed_graph(words_by_co_occurance):
     # display html in notebook cell
     IPython.core.display.display_html(IPython.core.display.HTML(html))
     # display (run) javascript in notebook cell
-    IPython.core.display.display_javascript(IPython.core.display.Javascript(data=js, lib=d3_url))
+    IPython.core.display.display_javascript(IPython.core.display.Javascript(data=js))
     pass
