@@ -8,7 +8,7 @@ require.config({
 require(["d3"], function(d3) {
     // run
     d3.select("#d3-container-%%unique-id%%").append("h1").text("Successfully loaded D3 version " + d3.version);
-    console.log(d3);
+    console.log(d3.version);
 
     var width = 640,
         height = 480;
@@ -20,41 +20,47 @@ require(["d3"], function(d3) {
 
     console.log("test2");
 
-    /* var nodes = [
-        {"id": "Alice"},
-        {"id": "Bob"},
-        {"id": "Carol"}
-    ];
 
-    var links = [
-        {"source": 0, "target": 1}, // Alice → Bob
-        {"source": 1, "target": 2} // Bob → Carol
-    ];
+    var graph = {
+        "nodes": [
+            {"id": "apple"},
+            {"id": "banana"},
+            {"id": "cherry"}
+        ],
+        "links": [
+            {"source": 0, "target": 1},
+            {"source": 1, "target": 2}
+        ]
+    };
 
     var link = svg.append("g")
         .attr("class", "links")
         .selectAll("line")
-        .data(links)
+        .data(graph.links)
         .enter().append("line");
 
     var node = svg.append("g")
         .attr("class", "nodes")
         .selectAll("circle")
-        .data(nodes)
+        .data(graph.nodes)
         .enter().append("circle")
         .attr("r", 2.5);
 
-    var simulation = d3.forceSimulation()
+    var simulation = d3.forceSimulation(graph.nodes)
+        .force("link", d3.forceLink())
+        .force("charge", d3.forceManyBody())
+        .force("center", d3.forceCenter(width/2, height/2));
+
+    /* var simulation = d3.forceSimulation(graph.nodes)
         .force("link", d3.forceLink().id(function(d) { return d.id; }))
         .force("charge", d3.forceManyBody())
-        .force("center", d3.forceCenter(width / 2, height / 2));
+        .force("center", d3.forceCenter(width / 2, height / 2)); */
 
     simulation
-        .nodes(nodes)
         .on("tick", ticked);
 
     simulation.force("link")
-        .links(links);
+        .links(graph.links);
 
     function ticked() {
         link
@@ -66,7 +72,7 @@ require(["d3"], function(d3) {
         node
             .attr("cx", function(d) { return d.x; })
             .attr("cy", function(d) { return d.y; });
-    } */
+    }
 
 });
 
