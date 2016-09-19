@@ -22,16 +22,21 @@ require(["d3"], function(d3) {
 
 
     var graph = {
-        "nodes": [
-            {"id": "apple"},
-            {"id": "banana"},
-            {"id": "cherry"}
+        nodes: [
+            {id: "apple"},
+            {id: "banana"},
+            {id: "cherry"}
         ],
-        "links": [
-            {"source": 0, "target": 1},
-            {"source": 1, "target": 2}
+        links: [
+            {source: 0, target: 1},
+            {source: 1, target: 2}
         ]
     };
+
+    var simulation = d3.forceSimulation(graph.nodes)
+        .force("link", d3.forceLink(graph.links))
+        .force("charge", d3.forceManyBody())
+        .force("center", d3.forceCenter(width / 2, height / 2));
 
     var link = svg.append("g")
         .attr("class", "links")
@@ -44,20 +49,18 @@ require(["d3"], function(d3) {
         .selectAll("circle")
         .data(graph.nodes)
         .enter().append("circle")
-        .attr("r", 2.5);
+        .attr("r", 2.5)
+        .call(d3.drag()
+        .on("start", dragstarted)
+        .on("drag", dragged)
+        .on("end", dragended));
 
-    var simulation = d3.forceSimulation(graph.nodes)
-        .force("link", d3.forceLink())
-        .force("charge", d3.forceManyBody())
-        .force("center", d3.forceCenter(width/2, height/2));
-
-    /* var simulation = d3.forceSimulation(graph.nodes)
-        .force("link", d3.forceLink().id(function(d) { return d.id; }))
-        .force("charge", d3.forceManyBody())
-        .force("center", d3.forceCenter(width / 2, height / 2)); */
+    node.append("title")
+        .text(function(d) { return d.id; });
 
     simulation
-        .on("tick", ticked);
+        .nodes(graph.nodes)
+        .on("tick", ticked)
 
     simulation.force("link")
         .links(graph.links);
@@ -72,6 +75,23 @@ require(["d3"], function(d3) {
         node
             .attr("cx", function(d) { return d.x; })
             .attr("cy", function(d) { return d.y; });
+    };
+
+    function dragstarted(d) {
+        if (!d3.event.active) simulation.alphaTarget(0.3).restart();
+        d.fx = d.x;
+        d.fy = d.y;
+    }
+
+    function dragged(d) {
+        d.fx = d3.event.x;
+        d.fy = d3.event.y;
+    }
+
+    function dragended(d) {
+        if (!d3.event.active) simulation.alphaTarget(0);
+        d.fx = null;
+        d.fy = null;
     }
 
 });
