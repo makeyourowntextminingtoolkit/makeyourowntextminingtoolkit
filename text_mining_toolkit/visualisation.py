@@ -38,8 +38,10 @@ def plot_force_directed_graph(words_by_co_occurance):
     graph = networkx.from_pandas_dataframe(words_by_co_occurance, 'word1', 'word2', 'weight')
     # convert graph nodes and inks to json, ready for d3
     graph_json = networkx.readwrite.json_graph.node_link_data(graph)
-    graph_json_nodes = graph_json['links']
-    graph_json_links = graph_json['nodes']
+    graph_json_nodes = graph_json['nodes']
+    graph_json_links = graph_json['links']
+    print(str(graph_json_nodes))
+    print(str(graph_json_links))
 
     # read html template
     html_template_file = os.path.join(os.path.dirname(__file__), 'html_templates/d3_force_directed_graph.html')
@@ -53,18 +55,15 @@ def plot_force_directed_graph(words_by_co_occurance):
         js = f.read()
         pass
 
-    #print(str(networkx.readwrite.json_graph.node_link_data(graph)))
-
     # generate random identifier for SVG element, to avoid name clashes if used multiple times in a notebook
     random_id_string = str(random.randrange(1000000,9999999))
     # replace placeholder in both html and js templates
     html = html.replace('%%unique-id%%', random_id_string)
     js = js.replace('%%unique-id%%', random_id_string)
 
-
     # substitute links and data
-    html = html.replace('%%links%%', str(graph_json_links))
-    html = html.replace('%%nodes%%', str(graph_json_nodes))
+    js = js.replace('%%links%%', str(graph_json_links))
+    js = js.replace('%%nodes%%', str(graph_json_nodes))
     #print(html)
     #print(js)
 
