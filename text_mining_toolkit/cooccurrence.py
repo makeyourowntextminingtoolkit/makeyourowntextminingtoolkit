@@ -26,10 +26,12 @@ def delete_matrices(content_directory):
 
 # print existing matrix
 def print_matrix(content_directory):
+    # open matrix file
     cooccurrence_matrix_file = content_directory + "matrix.cooccurrence"
     hd5_store1 = pandas.HDFStore(cooccurrence_matrix_file, mode='r')
     cooccurrence_matrix = hd5_store1['corpus_matrix']
     hd5_store1.close()
+    # print first 10 entries
     print("cooccurrence_matrix_file ", cooccurrence_matrix_file)
     print(cooccurrence_matrix.head(10))
     pass
@@ -93,20 +95,44 @@ def merge_cooccurrence_matrices_for_corpus(content_directory):
     pass
 
 
-####
+# query co-occurrence matrix
+def query_cooccurance_matrix(content_directory, word1, word2):
+    # open matrix file
+    cooccurrence_matrix_file = content_directory + "matrix.cooccurrence"
+    hd5_store1 = pandas.HDFStore(cooccurrence_matrix_file, mode='r')
+    cooccurrence_matrix = hd5_store1['corpus_matrix']
+    hd5_store1.close()
+
+    # query matrix and return
+    return cooccurrence_matrix.ix[word1, word2]
+
+
+# query co-occurrence matrix
+def most_likely_next(content_directory, word1):
+    # open matrix file
+    cooccurrence_matrix_file = content_directory + "matrix.cooccurrence"
+    hd5_store1 = pandas.HDFStore(cooccurrence_matrix_file, mode='r')
+    cooccurrence_matrix = hd5_store1['corpus_matrix']
+    hd5_store1.close()
+
+    # query matrix and return index with max cooccurrence value
+    return  cooccurrence_matrix.loc[word1].idxmax()
 
 
 # get words ordered by cooccurrence (across all documents)
 def get_word_pairs_by_cooccurrence(content_directory):
-    # load relevance index
-    relevance_index_file = content_directory + "index.relevance"
-    hd5_store = pandas.HDFStore(relevance_index_file, mode='r')
-    relevance_index = hd5_store['corpus_index']
-    hd5_store.close()
+    # open matrix file
+    cooccurrence_matrix_file = content_directory + "matrix.cooccurrence"
+    hd5_store1 = pandas.HDFStore(cooccurrence_matrix_file, mode='r')
+    cooccurrence_matrix = hd5_store1['corpus_matrix']
+    hd5_store1.close()
 
-    # following is a workaround for a pandas bug
-    relevance_index.index = relevance_index.index.astype(str)
+    # to find max we need to unstack (unpack 2d matrix into 1d list)
+    unstacked_cooccurrence_matrix = cooccurrence_matrix.T.unstack()
+    # remove the zero occurances
+    unstacked_cooccurrence_matrix = unstacked_cooccurrence_matrix[unstacked_cooccurrence_matrix>0]
+    # sort by co-occurance value
+    unstacked_cooccurrence_matrix.sort_values(ascending=False, inplace=True)
 
-    # sum the relevance scores for a word across all documents, sort
-    word_relevance = relevance_index.sum(axis=1).sort_values(ascending=False)
-    return word_relevance
+    # return pandas Series
+    return unstacked_cooccurrence_matrix
