@@ -40,8 +40,8 @@ def plot_force_directed_graph(words_by_co_occurance):
     graph_json = networkx.readwrite.json_graph.node_link_data(graph)
     graph_json_nodes = graph_json['nodes']
     graph_json_links = graph_json['links']
-    print(str(graph_json_nodes))
-    print(str(graph_json_links))
+    #print(str(graph_json_nodes))
+    #print(str(graph_json_links))
 
     # read html template
     html_template_file = os.path.join(os.path.dirname(__file__), 'html_templates/d3_force_directed_graph.html')

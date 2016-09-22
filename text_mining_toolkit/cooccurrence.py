@@ -134,5 +134,9 @@ def get_word_pairs_by_cooccurrence(content_directory):
     # sort by co-occurance value
     unstacked_cooccurrence_matrix.sort_values(ascending=False, inplace=True)
 
-    # return pandas Series
-    return unstacked_cooccurrence_matrix
+    # convert to pandas dataframe with word1, word2, weight columns
+    word1_word2_weight_list = [ (w1, w2, unstacked_cooccurrence_matrix.ix[w1,w2]) for (w1,w2) in unstacked_cooccurrence_matrix.index.values]
+    word1_word2_weight = pandas.DataFrame(word1_word2_weight_list, columns=["word1", "word2", "weight"])
+
+    # return dataframe
+    return word1_word2_weight
