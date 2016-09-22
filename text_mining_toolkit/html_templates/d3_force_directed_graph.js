@@ -16,6 +16,8 @@ require(["d3"], function(d3) {
         .attr("width", width)
         .attr("height", height);
 
+    var colour = d3.scaleOrdinal(d3.schemeCategory20);
+
     var graph = {
         nodes: %%nodes%%,
         links: %%links%%
@@ -38,6 +40,7 @@ require(["d3"], function(d3) {
         .data(graph.nodes)
         .enter().append("circle")
         .attr("r", 4.5)
+        .style("fill", function (d) {return colour(d.weight);})
         .call(d3.drag()
             .on("start", dragstarted)
             .on("drag", dragged)
