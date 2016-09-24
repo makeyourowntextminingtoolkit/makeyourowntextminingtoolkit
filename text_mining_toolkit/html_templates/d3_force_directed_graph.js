@@ -16,7 +16,7 @@ require(["d3"], function(d3) {
         .attr("width", width)
         .attr("height", height);
 
-    var colour = d3.scaleOrdinal(d3.schemeCategory20);
+    var colour = d3.scaleOrdinal(d3.schemeCategory20c);
 
     var graph = {
         nodes: %%nodes%%,
@@ -32,7 +32,11 @@ require(["d3"], function(d3) {
         .attr("class", "links")
         .selectAll("line")
         .data(graph.links)
-        .enter().append("line");
+        .enter().append("line")
+        .style("stroke-linecap", "round")
+        .style("stroke", function(d) {return colour(d.weight);})
+        //.style("stroke-width", "4");
+        .style("stroke-width", function (d) {return d.weight;});
 
     var node = svg.append("g")
         .attr("class", "nodes")
@@ -40,7 +44,7 @@ require(["d3"], function(d3) {
         .data(graph.nodes)
         .enter().append("circle")
         .attr("r", 4.5)
-        .style("fill", function (d) {return colour(d.weight);})
+        .style("fill", "grey")
         .call(d3.drag()
             .on("start", dragstarted)
             .on("drag", dragged)
