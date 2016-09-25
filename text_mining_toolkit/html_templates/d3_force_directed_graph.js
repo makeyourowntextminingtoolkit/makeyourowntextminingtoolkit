@@ -35,14 +35,27 @@ require(["d3"], function(d3) {
         .enter().append("line")
         .style("stroke-linecap", "round")
         .style("stroke", function(d) {return colour(d.weight);})
-        //.style("stroke-width", "4");
-        .style("stroke-width", function (d) {return d.weight;});
+        .style("stroke-width", function (d) {return Math.sqrt(d.weight);});
 
-    var node = svg.append("g")
+    /* var node = svg.append("g")
         .attr("class", "nodes")
         .selectAll("circle")
         .data(graph.nodes)
         .enter().append("circle")
+        .attr("r", 4.5)
+        .style("fill", "grey")
+        .call(d3.drag()
+            .on("start", dragstarted)
+            .on("drag", dragged)
+            .on("end", dragended)); */
+
+    var node = svg.append("g")
+        .attr("class", "nodes")
+        .selectAll("g")
+        .data(graph.nodes)
+        .enter().append("g");
+
+    var circle = node.append("circle")
         .attr("r", 4.5)
         .style("fill", "grey")
         .call(d3.drag()
@@ -53,10 +66,10 @@ require(["d3"], function(d3) {
     node.append("title")
         .text(function(d) { return d.id; });
 
-    /* node.append("text")
-      .attr("dx", 12)
+    var t2 = node.append("text")
+      .attr("dx", 10)
       .attr("dy", ".35em")
-      .text(function(d) { return d.id }); */
+      .text(function(d) { return d.id; });
 
     simulation
         .on("tick", ticked);
@@ -68,9 +81,13 @@ require(["d3"], function(d3) {
             .attr("x2", function(d) { return d.target.x; })
             .attr("y2", function(d) { return d.target.y; });
 
-        node
+        circle
             .attr("cx", function(d) { return d.x; })
             .attr("cy", function(d) { return d.y; });
+
+        t2
+            .attr("x", function(d) { return d.x; })
+            .attr("y", function(d) { return d.y; });
     };
 
     function dragstarted(d) {
