@@ -8,8 +8,8 @@ require.config({
 require(["d3"], function(d3) {
     //console.log(d3.version);
 
-    var width = 640,
-        height = 480;
+    var width = 800,
+        height = 600;
 
     var svg = d3.select("#d3-container-%%unique-id%%")
         .append("svg")
@@ -37,18 +37,6 @@ require(["d3"], function(d3) {
         .style("stroke", function(d) {return colour(d.weight);})
         .style("stroke-width", function (d) {return Math.sqrt(d.weight);});
 
-    /* var node = svg.append("g")
-        .attr("class", "nodes")
-        .selectAll("circle")
-        .data(graph.nodes)
-        .enter().append("circle")
-        .attr("r", 4.5)
-        .style("fill", "grey")
-        .call(d3.drag()
-            .on("start", dragstarted)
-            .on("drag", dragged)
-            .on("end", dragended)); */
-
     var node = svg.append("g")
         .attr("class", "nodes")
         .selectAll("g")
@@ -63,8 +51,8 @@ require(["d3"], function(d3) {
             .on("drag", dragged)
             .on("end", dragended));
 
-    node.append("title")
-        .text(function(d) { return d.id; });
+    //node.append("title")
+    //    .text(function(d) { return d.id; });
 
     var t2 = node.append("text")
       .attr("dx", 10)
