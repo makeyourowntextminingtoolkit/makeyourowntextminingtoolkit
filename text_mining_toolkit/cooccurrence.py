@@ -8,8 +8,8 @@ import os
 import collections
 # import pandas for matrix dataframe
 import pandas
-# import numpy for maths functions
-import numpy
+# import for maths functions
+import math
 # max columns when printing .. (may not be needed if auto detected from display)
 pandas.set_option('max_columns', 5)
 
@@ -37,23 +37,33 @@ def print_matrix(content_directory):
     pass
 
 
-# create word cooccurrence matrix just for one document
-def create_cooccurrence_matrix_for_document(content_directory, document_name, doc_words_list):
+# create word cooccurrence matrix just for one document, updated to extend beyond immediate neighbour
+def create_cooccurrence_matrix_for_document(content_directory, document_name, doc_words_list, window):
+
     # start with empty matrix
     cooccurrence_matrix = pandas.DataFrame()
 
-    # create co-occurrence matrix
-    # first create word-pair list
-    word_pair_list = zip(doc_words_list[:-1], doc_words_list[1:])
-    # counts for each pair
-    word_pair_ctr = collections.Counter(word_pair_list)
-    for wp, c in word_pair_ctr.items():
-        #print("=== ", wp, c)
-        cooccurrence_matrix.ix[wp] = c
+    # work along window
+    for ci in range(1, window + 1):
+        # first create word-pair list
+        word_pair_list = zip(doc_words_list[:-ci], doc_words_list[ci:])
+
+        # counts for each pair
+        word_pair_ctr = collections.Counter(word_pair_list)
+
+        for wp, c in word_pair_ctr.items():
+            neighbour_factor = math.exp(-ci / window)
+            # this try-exceptis ugly, needed because pandas doesn't yet have df[wp] += ...
+            try:
+                cooccurrence_matrix.ix[wp] += (c * neighbour_factor)
+            except KeyError:
+                cooccurrence_matrix.ix[wp] = (c * neighbour_factor)
+                pass
+            # replaces any created NaNs with zeros
+            cooccurrence_matrix.fillna(0, inplace=True)
         pass
 
-    # replace NaN wirh zeros
-    cooccurrence_matrix.fillna(0, inplace=True)
+    pass
 
     # finally save matrix
     cooccurrence_matrix_file = content_directory + document_name + "_matrix.cooccurrence"
