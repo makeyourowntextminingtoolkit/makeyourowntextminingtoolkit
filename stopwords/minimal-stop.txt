@@ -86,3 +86,7 @@ up
 upon
 with
 without
+# added by makeyourowntextminingtoolkit
+it
+is
+be
