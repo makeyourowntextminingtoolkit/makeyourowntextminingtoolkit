@@ -52,7 +52,7 @@ def create_cooccurrence_matrix_for_document(content_directory, document_name, do
         word_pair_ctr = collections.Counter(word_pair_list)
 
         for wp, c in word_pair_ctr.items():
-            neighbour_factor = math.exp(-ci / window)
+            neighbour_factor = math.exp(- math.pow(ci / window,2))
             # this try-exceptis ugly, needed because pandas doesn't yet have df[wp] += ...
             try:
                 cooccurrence_matrix.ix[wp] += (c * neighbour_factor)
