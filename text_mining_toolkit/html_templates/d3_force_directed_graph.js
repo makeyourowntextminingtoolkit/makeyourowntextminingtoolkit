@@ -1,4 +1,4 @@
-// require is needed to make d3 work in a noebooks from imported code
+// require is needed to make d3 work in jupyter notebooks from imported code
 require.config({
     paths: {
         d3: "https://d3js.org/d3.v4.min"
@@ -26,6 +26,7 @@ require(["d3"], function(d3) {
     var simulation = d3.forceSimulation(graph.nodes)
         .force("link", d3.forceLink(graph.links))
         .force("charge", d3.forceManyBody())
+        //.force("radius", d3.forceCollide(15))
         .force("center", d3.forceCenter(width / 2.0, height / 2.0));
 
     var link = svg.append("g")
@@ -35,7 +36,7 @@ require(["d3"], function(d3) {
         .enter().append("line")
         .style("stroke-linecap", "round")
         .style("stroke", function(d) {return colour(d.weight);})
-        .style("stroke-width", function (d) {return Math.sqrt(d.weight);});
+        .style("stroke-width", function (d) {return 0.5 + Math.sqrt(d.weight);});
 
     var node = svg.append("g")
         .attr("class", "nodes")
