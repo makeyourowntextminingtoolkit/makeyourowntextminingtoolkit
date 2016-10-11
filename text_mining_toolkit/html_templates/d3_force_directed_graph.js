@@ -24,8 +24,8 @@ require(["d3"], function(d3) {
     };
 
     var simulation = d3.forceSimulation(graph.nodes)
-        .force("link", d3.forceLink(graph.links))
-        .force("charge", d3.forceManyBody())
+        .force("link", d3.forceLink(graph.links).distance(50))
+        .force("charge", d3.forceManyBody().strength(-20))
         //.force("radius", d3.forceCollide(15))
         .force("center", d3.forceCenter(width / 2.0, height / 2.0));
 
