@@ -2,7 +2,8 @@
 
 # import text string stuff
 import string
-
+# import regular expression engine
+import re
 
 # split into words
 def split_text_into_words(input_text):
@@ -31,5 +32,6 @@ def remove_punctuation(input_text):
 
 # keep only alphanumeric characters
 def keep_alphanumeric(input_text):
-    output_text = ''.join(c for c in input_text if c in (" " + string.ascii_letters + string.digits))
+    regex = re.compile('[^a-zA-Z0-9 ]+')
+    output_text = regex.sub('', input_text)
     return output_text
