@@ -55,7 +55,8 @@ def create_cooccurrence_matrix_for_document(content_directory, document_name, do
             neighbour_factor = math.exp(- math.pow(ci / window,2))
             # this try-exceptis ugly, needed because pandas doesn't yet have df[wp] += ...
             try:
-                cooccurrence_matrix.ix[wp] += (c * neighbour_factor)
+                # cooccurrence_matrix.ix[wp] += (c * neighbour_factor)
+                cooccurrence_matrix.ix[wp] = cooccurrence_matrix.ix[wp] + (c * neighbour_factor)
             except KeyError:
                 cooccurrence_matrix.ix[wp] = (c * neighbour_factor)
                 pass
