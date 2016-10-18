@@ -6,6 +6,8 @@ import glob
 import os
 # import collections for index
 import collections
+# import hdf5 large dataset storage support
+import h5py
 # import pandas for index dataframe
 import pandas
 # import numpy for maths functions
@@ -24,14 +26,14 @@ def delete_indices(content_directory):
     :param content_directory: directory containing the text corpus, this should be CorpusReader.content_directory
     :type content_directory: string
     """
-    wordcount_index_file = content_directory + "index.wordcount"
+    wordcount_index_file = content_directory + "index_wordcount.hdf5"
     if os.path.isfile(wordcount_index_file):
         os.remove(wordcount_index_file)
         print("removed wordcount index file: ", wordcount_index_file)
         pass
 
     # delete relevance index
-    relevance_index_file = content_directory + "index.relevance"
+    relevance_index_file = content_directory + "index_relevance.hdf5"
     if os.path.isfile(relevance_index_file):
         os.remove(relevance_index_file)
         print("removed relevance index file: ", relevance_index_file)
@@ -49,7 +51,7 @@ def print_index(content_directory):
     :param content_directory: directory containing the text corpus, this should be CorpusReader.content_directory
     :type content_directory: string
     """
-    wordcount_index_file = content_directory + "index.wordcount"
+    wordcount_index_file = content_directory + "index_wordcount.hdf5"
     hd5_store1 = pandas.HDFStore(wordcount_index_file, mode='r')
     wordcount_index = hd5_store1['corpus_index']
     hd5_store1.close()
@@ -57,12 +59,31 @@ def print_index(content_directory):
     print(wordcount_index.head(10))
 
     # relevance index
-    relevance_index_file = content_directory + "index.relevance"
+    relevance_index_file = content_directory + "index_relevance.hdf5"
     hd5_store2 = pandas.HDFStore(relevance_index_file, mode='r')
     relevance_index = hd5_store2['corpus_index']
     hd5_store2.close()
     print("relevance_index_file ", relevance_index_file)
     print(relevance_index.head(10))
+    pass
+
+
+# create word count index just for one document
+def create_wordcount_index_for_document2(content_directory, document_name, doc_words_list):
+    # create index
+    # (word, [document_name]) dictionary, there can be many [document_names] in list
+    words_ctr = collections.Counter(doc_words_list)
+
+    # convert to numpy structured array, ready for hdf5 storage
+    names = ['word', 'count']
+    formats = ['S20', 'i8']
+    wordcount_index_np = numpy.fromiter(words_ctr.items(), dtype=dict(names=names, formats=formats))
+
+    # finally save index
+    wordcount_index_file = content_directory + document_name + "_index_wordcount.hdf5"
+    with h5py.File(wordcount_index_file, 'w') as hf:
+        hf.create_dataset('doc_index', data=wordcount_index_np)
+        pass
     pass
 
 
@@ -83,10 +104,46 @@ def create_wordcount_index_for_document(content_directory, document_name, doc_wo
     wordcount_index.fillna(0, inplace=True)
 
     # finally save index
-    wordcount_index_file = content_directory + document_name + "_index.wordcount"
+    wordcount_index_file = content_directory + document_name + "_index_wordcount.hdf5"
     hd5_store = pandas.HDFStore(wordcount_index_file, mode='w')
     hd5_store['doc_index'] = wordcount_index
     hd5_store.close()
+    pass
+
+
+# merge document indices into a single index for the corpus
+def merge_wordcount_indices_for_corpus2(content_directory):
+    # start with empty index counter
+    wordcount_index_ctr = collections.Counter()
+
+    # list of text files
+    list_of_index_files = glob.glob(content_directory + "*_index_wordcount.hdf5")
+
+    # load each index file and merge into accummulating corpus index
+    for document_index_file in list_of_index_files:
+        with h5py.File(document_index_file, 'r') as hf:
+            temporary_document_index = hf.get('doc_index')
+            temporary_document_index_np = numpy.array(temporary_document_index)
+            pass
+
+        # merge word counts
+        temporary_document_index_dict = dict(temporary_document_index_np)
+        wordcount_index_ctr += collections.Counter(temporary_document_index_dict)
+
+        # remove document index after merging
+        os.remove(document_index_file)
+        pass
+
+    # convert merged word counts to numpy array, ready for hdf5 storage
+    names = ['word', 'count']
+    formats = ['S20', 'i8']
+    wordcount_index_np = numpy.fromiter(wordcount_index_ctr.items(), dtype=dict(names=names, formats=formats))
+
+    # finally save index
+    wordcount_index_file = content_directory + "index_wordcount.hdf5"
+    with h5py.File(wordcount_index_file, 'w') as hf:
+        hf.create_dataset('corpus_index', data=wordcount_index_np)
+        pass
     pass
 
 
@@ -96,7 +153,7 @@ def merge_wordcount_indices_for_corpus(content_directory):
     wordcount_index = pandas.DataFrame()
 
     # list of text files
-    list_of_index_files = glob.glob(content_directory + "*_index.wordcount")
+    list_of_index_files = glob.glob(content_directory + "*_index_wordcount.hdf5")
 
     # load each index file and merge into accummulating corpus index
     for document_index_file in list_of_index_files:
@@ -117,7 +174,7 @@ def merge_wordcount_indices_for_corpus(content_directory):
     wordcount_index.fillna(0, inplace=True)
 
     # finally save index
-    wordcount_index_file = content_directory + "index.wordcount"
+    wordcount_index_file = content_directory + "index_wordcount.hdf5"
     print("saving corpus word count index ... ", wordcount_index_file)
     hd5_store = pandas.HDFStore(wordcount_index_file, mode='w')
     hd5_store['corpus_index'] = wordcount_index
@@ -128,7 +185,7 @@ def merge_wordcount_indices_for_corpus(content_directory):
 # calculate relevance index from wordcount index
 def calculate_relevance_index(content_directory):
     # load wordcount index
-    wordcount_index_file = content_directory + "index.wordcount"
+    wordcount_index_file = content_directory + "index_wordcount.hdf5"
     hd5_store = pandas.HDFStore(wordcount_index_file, mode='r')
     wordcount_index = hd5_store['corpus_index']
     hd5_store.close()
@@ -154,7 +211,7 @@ def calculate_relevance_index(content_directory):
         pass
 
     # save relevance index
-    relevance_index_file = content_directory + "index.relevance"
+    relevance_index_file = content_directory + "index_relevance.hdf5"
     print("saving corpus relevance index ... ", relevance_index_file)
     hd5_store = pandas.HDFStore(relevance_index_file, mode='w')
     hd5_store['corpus_index'] = frequency_index
@@ -165,7 +222,7 @@ def calculate_relevance_index(content_directory):
 # query wordcount index
 def search_wordcount_index(content_directory, search_query):
     # load index if it already exists
-    wordcount_index_file = content_directory + "index.wordcount"
+    wordcount_index_file = content_directory + "index_wordcount.hdf5"
     hd5_store = pandas.HDFStore(wordcount_index_file, mode='r')
     wordcount_index = hd5_store['corpus_index']
     hd5_store.close()
@@ -190,7 +247,7 @@ def search_wordcount_index(content_directory, search_query):
 # query relevance index
 def search_relevance_index(content_directory, search_query):
     # load index if it already exists
-    relevance_index_file = content_directory + "index.relevance"
+    relevance_index_file = content_directory + "index_relevance.hdf5"
     hd5_store = pandas.HDFStore(relevance_index_file, mode='r')
     relevance_index = hd5_store['corpus_index']
     hd5_store.close()
@@ -215,7 +272,7 @@ def search_relevance_index(content_directory, search_query):
 # get words ordered by relevance (across all documents)
 def get_words_by_relevance(content_directory):
     # load relevance index
-    relevance_index_file = content_directory + "index.relevance"
+    relevance_index_file = content_directory + "index_relevance.hdf5"
     hd5_store = pandas.HDFStore(relevance_index_file, mode='r')
     relevance_index = hd5_store['corpus_index']
     hd5_store.close()
