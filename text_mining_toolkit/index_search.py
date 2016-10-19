@@ -12,6 +12,7 @@ import h5py
 import pandas
 # import numpy for maths functions
 import numpy
+import numpy.lib.recfunctions
 # max columns when printing .. (may not be needed if auto detected from display)
 pandas.set_option('max_columns', 5)
 
@@ -42,15 +43,29 @@ def delete_indices(content_directory):
 
 
 # print existing index
-def print_index(content_directory):
-    # wordcount index
-    """
-    Prints the index files, and only a small section (max 10 rows, 5 cols) if the indices are large.
-    Currently these are index.wordcount and index.relevance.
+def print_index2(content_directory):
+    wordcount_index_file = content_directory + "index_wordcount.hdf5"
 
-    :param content_directory: directory containing the text corpus, this should be CorpusReader.content_directory
-    :type content_directory: string
-    """
+    with h5py.File(wordcount_index_file, 'r') as hf:
+        wordcount_index_hf = hf.get('corpus_index')
+        wordcount_index_np = numpy.array(wordcount_index_hf)
+        pass
+
+    print("wordcount_index_file ", wordcount_index_file)
+    print(pandas.DataFrame(wordcount_index_np[:10], columns = wordcount_index_np.dtype.names))
+
+    # relevance index
+    #relevance_index_file = content_directory + "index_relevance.hdf5"
+    #hd5_store2 = pandas.HDFStore(relevance_index_file, mode='r')
+    #relevance_index = hd5_store2['corpus_index']
+    #hd5_store2.close()
+    #print("relevance_index_file ", relevance_index_file)
+    #print(relevance_index.head(10))
+    pass
+
+
+# print existing index
+def print_index(content_directory):
     wordcount_index_file = content_directory + "index_wordcount.hdf5"
     hd5_store1 = pandas.HDFStore(wordcount_index_file, mode='r')
     wordcount_index = hd5_store1['corpus_index']
@@ -75,8 +90,8 @@ def create_wordcount_index_for_document2(content_directory, document_name, doc_w
     words_ctr = collections.Counter(doc_words_list)
 
     # convert to numpy structured array, ready for hdf5 storage
-    names = ['word', 'count']
-    formats = ['S20', 'i8']
+    names = ['word', document_name]
+    formats = ['S20', 'i4']
     wordcount_index_np = numpy.fromiter(words_ctr.items(), dtype=dict(names=names, formats=formats))
 
     # finally save index
@@ -113,8 +128,8 @@ def create_wordcount_index_for_document(content_directory, document_name, doc_wo
 
 # merge document indices into a single index for the corpus
 def merge_wordcount_indices_for_corpus2(content_directory):
-    # start with empty index counter
-    wordcount_index_ctr = collections.Counter()
+    # start with empty list of arrays
+    list_of_arrays = []
 
     # list of text files
     list_of_index_files = glob.glob(content_directory + "*_index_wordcount.hdf5")
@@ -122,22 +137,26 @@ def merge_wordcount_indices_for_corpus2(content_directory):
     # load each index file and merge into accummulating corpus index
     for document_index_file in list_of_index_files:
         with h5py.File(document_index_file, 'r') as hf:
-            temporary_document_index = hf.get('doc_index')
-            temporary_document_index_np = numpy.array(temporary_document_index)
+            temporary_document_index_hf = hf.get('doc_index')
+            temporary_document_index_np = numpy.array(temporary_document_index_hf)
             pass
 
-        # merge word counts
-        temporary_document_index_dict = dict(temporary_document_index_np)
-        wordcount_index_ctr += collections.Counter(temporary_document_index_dict)
+        # append document index to list for merging later
+        list_of_arrays.append(temporary_document_index_np)
 
         # remove document index after merging
-        os.remove(document_index_file)
+        #os.remove(document_index_file)
         pass
 
-    # convert merged word counts to numpy array, ready for hdf5 storage
-    names = ['word', 'count']
-    formats = ['S20', 'i8']
-    wordcount_index_np = numpy.fromiter(wordcount_index_ctr.items(), dtype=dict(names=names, formats=formats))
+    # merge arrays in list
+    wordcount_index_np = list_of_arrays[0]
+    for a in list_of_arrays[1:]:
+        wordcount_index_np = numpy.lib.recfunctions.join_by('word', wordcount_index_np, a, jointype='outer', usemask=True)
+        pass
+
+    wordcount_index_np.fill_value = 0
+    wordcount_index_np = wordcount_index_np.filled()
+    print(wordcount_index_np)
 
     # finally save index
     wordcount_index_file = content_directory + "index_wordcount.hdf5"
