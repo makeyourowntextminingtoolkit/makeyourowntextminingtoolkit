@@ -145,7 +145,7 @@ def merge_wordcount_indices_for_corpus2(content_directory):
         list_of_arrays.append(temporary_document_index_np)
 
         # remove document index after merging
-        #os.remove(document_index_file)
+        os.remove(document_index_file)
         pass
 
     # merge arrays in list
