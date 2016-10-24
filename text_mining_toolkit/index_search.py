@@ -52,7 +52,7 @@ def print_index(content_directory):
 
 
 # create word count index just for one document
-def create_wordcount_index_for_document3(content_directory, document_name, doc_words_list):
+def create_wordcount_index_for_document(content_directory, document_name, doc_words_list):
     # create index
     # (word, [document_name]) dictionary, there can be many [document_names] in list
     words_ctr = collections.Counter(doc_words_list)
