@@ -14,8 +14,8 @@ import math
 pandas.set_option('max_columns', 5)
 
 
-# delete matrices
-def delete_matrices(content_directory):
+# delete matrix
+def delete_matrix(content_directory):
     cooccurrence_matrix_file = content_directory + "matrix.cooccurrence"
     if os.path.isfile(cooccurrence_matrix_file):
         os.remove(cooccurrence_matrix_file)
