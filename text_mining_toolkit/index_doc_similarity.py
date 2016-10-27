@@ -1,4 +1,4 @@
-# module for indexing a corpus for co-occurrence of words
+# module for indexing a corpus for document similarity
 
 # glob module for finding files that match a pattern
 import glob
@@ -16,10 +16,10 @@ pandas.set_option('max_columns', 5)
 
 # delete matrix
 def delete_matrix(content_directory):
-    cooccurrence_matrix_file = content_directory + "matrix.cooccurrence"
-    if os.path.isfile(cooccurrence_matrix_file):
-        os.remove(cooccurrence_matrix_file)
-        print("removed co-occurrence matrix file: ", cooccurrence_matrix_file)
+    doc_similarity_matrix_file = content_directory + "matrix.docsimilarity"
+    if os.path.isfile(doc_similarity_matrix_file):
+        os.remove(doc_similarity_matrix_file)
+        print("removed doc similarity matrix file: ", doc_similarity_matrix_file)
         pass
     pass
 
@@ -27,13 +27,13 @@ def delete_matrix(content_directory):
 # print existing matrix
 def print_matrix(content_directory):
     # open matrix file
-    cooccurrence_matrix_file = content_directory + "matrix.cooccurrence"
-    hd5_store = pandas.HDFStore(cooccurrence_matrix_file, mode='r')
-    cooccurrence_matrix = hd5_store['corpus_matrix']
+    doc_similarity_matrix_file = content_directory + "matrix.docsimilarity"
+    hd5_store = pandas.HDFStore(doc_similarity_matrix_file, mode='r')
+    doc_similarity_matrix = hd5_store['corpus_matrix']
     hd5_store.close()
     # print first 10 entries
-    print("cooccurrence_matrix_file ", cooccurrence_matrix_file)
-    print(cooccurrence_matrix.head(10))
+    print("doc_similarity_matrix_file ", doc_similarity_matrix_file)
+    print(doc_similarity_matrix.head(10))
     pass
 
 
