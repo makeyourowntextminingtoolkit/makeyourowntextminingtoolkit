@@ -31,7 +31,7 @@ def remove_punctuation(input_text):
 
 
 # keep only alphanumeric characters
-def keep_alphanumeric(input_text):
+def keep_only_alphanumeric(input_text):
     regex = re.compile('[^a-zA-Z0-9 ]+')
     output_text = regex.sub('', input_text)
     return output_text
