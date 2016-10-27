@@ -15,7 +15,7 @@ pandas.set_option('max_columns', 5)
 
 
 # delete indices
-def delete_indices(content_directory):
+def delete_index(content_directory):
     # delete relevance index
     relevance_index_file = content_directory + "index_relevance.hdf5"
     if os.path.isfile(relevance_index_file):
