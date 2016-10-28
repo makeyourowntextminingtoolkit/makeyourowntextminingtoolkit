@@ -35,8 +35,8 @@ require(["d3"], function(d3) {
         .data(graph.links)
         .enter().append("line")
         .style("stroke-linecap", "round")
-        .style("stroke", function(d) {return colour(d.weight);})
-        .style("stroke-width", function (d) {return 0.5 + Math.sqrt(d.weight*100);});
+        .style("stroke", function(d) {return colour(d.%%edge_attribute%%);})
+        .style("stroke-width", function (d) {return 0.5 + Math.sqrt(d.%%edge_attribute%%*100);});
 
     var node = svg.append("g")
         .attr("class", "nodes")
