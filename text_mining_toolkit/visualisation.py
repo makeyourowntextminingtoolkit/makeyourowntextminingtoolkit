@@ -33,9 +33,12 @@ def plot_wordcloud(word_count, most_common=None):
 
 
 # force-directed graph
-def plot_force_directed_graph(words_by_co_occurance):
-    # convert words_by_co_occurance to graph
-    graph = networkx.from_pandas_dataframe(words_by_co_occurance, 'word1', 'word2', 'weight')
+def plot_force_directed_graph(node1_node1_weight):
+    # convert node1_node1_weight to graph
+    graph = networkx.from_pandas_dataframe(node1_node1_weight,
+                                           source=node1_node1_weight.columns.values[0],
+                                           target=node1_node1_weight.columns.values[1],
+                                           edge_attr=node1_node1_weight.columns.values[2])
     # convert graph nodes and inks to json, ready for d3
     graph_json = networkx.readwrite.json_graph.node_link_data(graph)
     graph_json_nodes = graph_json['nodes']
