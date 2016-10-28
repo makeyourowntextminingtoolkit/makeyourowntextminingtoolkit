@@ -28,9 +28,9 @@ def delete_index(content_directory):
 # print existing index
 def print_index(content_directory):
     wordcount_index_file = content_directory + "index_wordcount.hdf5"
-    hd5_store1 = pandas.HDFStore(wordcount_index_file, mode='r')
-    wordcount_index = hd5_store1['corpus_index']
-    hd5_store1.close()
+    hd5_store = pandas.HDFStore(wordcount_index_file, mode='r')
+    wordcount_index = hd5_store['corpus_index']
+    hd5_store.close()
     print("wordcount_index_file ", wordcount_index_file)
     print(wordcount_index.head(10))
     pass
