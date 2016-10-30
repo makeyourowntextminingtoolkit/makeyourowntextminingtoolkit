@@ -81,8 +81,8 @@ def plot_force_directed_graph(node1_node1_weight):
     pass
 
 
-# force-directed tree
-def plot_force_directed_tree(node1_node1_weight):
+# force-directed graph2
+def plot_force_directed_graph2(node1_node1_weight):
     # column names for node source and target, and edge attributes
     node_source_name = node1_node1_weight.columns.values[0]
     node_target_name = node1_node1_weight.columns.values[1]
@@ -99,13 +99,13 @@ def plot_force_directed_tree(node1_node1_weight):
     #print(str(graph_json_links))
 
     # read html template
-    html_template_file = os.path.join(os.path.dirname(__file__), 'html_templates/d3_force_directed_tree.html')
+    html_template_file = os.path.join(os.path.dirname(__file__), 'html_templates/d3_force_directed_graph.html')
     with open(html_template_file, mode='r') as f:
         html = f.read()
         pass
 
     # read javascript template
-    js_template_file = os.path.join(os.path.dirname(__file__), 'html_templates/d3_force_directed_tree.js')
+    js_template_file = os.path.join(os.path.dirname(__file__), 'html_templates/d3_force_directed_graph.js')
     with open(js_template_file, mode='r') as f:
         js = f.read()
         pass

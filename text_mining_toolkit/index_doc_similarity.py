@@ -50,18 +50,19 @@ def create_doc_similarity_matrix(content_directory):
     hd5_store = pandas.HDFStore(wordcount_index_file, mode='r')
     wordcount_index = hd5_store['corpus_index']
     hd5_store.close()
+
     # following is a workaround for a pandas bug
     wordcount_index.index = wordcount_index.index.astype(str)
 
-    print("wordcount_index_file ", wordcount_index_file)
+    # word frequency (per document) from wordcount, to normalise for doc length
+    wordfrequency_index = wordcount_index / wordcount_index.sum()
 
     # calcuate similarity as dot_product(doc1, doc2)
-
-    docs = wordcount_index.columns
+    docs = wordfrequency_index.columns
     # combinations (not permutations) of length 2, also avoid same-same combinations
     docs_combinations = itertools.combinations(docs, 2)
     for doc1, doc2 in docs_combinations:
-        doc_similarity_matrix.ix[doc1, doc2] = pandas.Series.dot(wordcount_index[doc1],wordcount_index[doc2])
+        doc_similarity_matrix.ix[doc1, doc2] = pandas.Series.dot(wordfrequency_index[doc1],wordfrequency_index[doc2])
         pass
 
     # finally save matrix
