@@ -63,6 +63,7 @@ def create_doc_similarity_matrix(content_directory):
     docs_combinations = itertools.combinations(docs, 2)
     for doc1, doc2 in docs_combinations:
         doc_similarity_matrix.ix[doc1, doc2] = pandas.Series.dot(wordfrequency_index[doc1],wordfrequency_index[doc2])
+        # TODO normalise!!!
         pass
 
     # finally save matrix
