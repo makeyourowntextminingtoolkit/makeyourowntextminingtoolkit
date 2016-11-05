@@ -10,6 +10,8 @@ import collections
 import pandas
 # import for maths functions
 import math
+#import scipy.spatial.distance for cosine similarity
+import scipy.spatial.distance
 # import itertools for combinations
 import itertools
 # max columns when printing .. (may not be needed if auto detected from display)
@@ -62,8 +64,10 @@ def create_doc_similarity_matrix(content_directory):
     # combinations (not permutations) of length 2, also avoid same-same combinations
     docs_combinations = itertools.combinations(docs, 2)
     for doc1, doc2 in docs_combinations:
-        doc_similarity_matrix.ix[doc1, doc2] = pandas.Series.dot(wordfrequency_index[doc1],wordfrequency_index[doc2])
-        # TODO normalise!!!
+        #doc_similarity_matrix.ix[doc1, doc2] = pandas.Series.dot(wordfrequency_index[doc1],wordfrequency_index[doc2])
+
+        # scipy cosine similarity function includes normalising the vectors but is a distance .. so we need to take it from 1.0
+        doc_similarity_matrix.ix[doc1,doc2] = 1.0 - scipy.spatial.distance.cosine(wordfrequency_index[doc1],wordfrequency_index[doc2])
         pass
 
     # finally save matrix
