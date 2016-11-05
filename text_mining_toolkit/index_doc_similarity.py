@@ -41,33 +41,30 @@ def print_matrix(content_directory):
     pass
 
 
-# create document similarity matrix, the wordcount matrix needs to already exist
+# create document similarity matrix, the relevance matrix needs to already exist
 def create_doc_similarity_matrix(content_directory):
 
     # start with empty matrix
     doc_similarity_matrix = pandas.DataFrame()
 
-    # load the wordcount matrix
-    wordcount_index_file = content_directory + "index_wordcount.hdf5"
-    hd5_store = pandas.HDFStore(wordcount_index_file, mode='r')
-    wordcount_index = hd5_store['corpus_index']
+    # load the relevance matrix
+    relevance_index_file = content_directory + "index_relevance.hdf5"
+    hd5_store = pandas.HDFStore(relevance_index_file, mode='r')
+    relevance_index = hd5_store['corpus_index']
     hd5_store.close()
 
     # following is a workaround for a pandas bug
-    wordcount_index.index = wordcount_index.index.astype(str)
-
-    # word frequency (per document) from wordcount, to normalise for doc length
-    wordfrequency_index = wordcount_index / wordcount_index.sum()
+    relevance_index.index = relevance_index.index.astype(str)
 
     # calcuate similarity as dot_product(doc1, doc2)
-    docs = wordfrequency_index.columns
+    docs = relevance_index.columns
     # combinations (not permutations) of length 2, also avoid same-same combinations
     docs_combinations = itertools.combinations(docs, 2)
     for doc1, doc2 in docs_combinations:
         #doc_similarity_matrix.ix[doc1, doc2] = pandas.Series.dot(wordfrequency_index[doc1],wordfrequency_index[doc2])
 
         # scipy cosine similarity function includes normalising the vectors but is a distance .. so we need to take it from 1.0
-        doc_similarity_matrix.ix[doc1,doc2] = 1.0 - scipy.spatial.distance.cosine(wordfrequency_index[doc1],wordfrequency_index[doc2])
+        doc_similarity_matrix.ix[doc1,doc2] = 1.0 - scipy.spatial.distance.cosine(relevance_index[doc1],relevance_index[doc2])
         pass
 
     # finally save matrix
