@@ -62,8 +62,8 @@ def create_wordcount_index_for_document(content_directory, document_name, doc_wo
 
 # merge document indices into a single index for the corpus
 def merge_wordcount_indices_for_corpus(content_directory):
-    # start with empty index
-    wordcount_index = pandas.DataFrame()
+    # start with empty dictionary to collect document dictionaries
+    corpus_dict = {}
 
     # list of text files
     list_of_index_files = glob.glob(content_directory + "*_index_wordcount.hdf5")
@@ -77,11 +77,15 @@ def merge_wordcount_indices_for_corpus(content_directory):
         # following is a workaround for a pandas bug
         temporary_document_index.index = temporary_document_index.index.astype(str)
 
-        wordcount_index = pandas.merge(wordcount_index, temporary_document_index, sort=False, how='outer', left_index=True, right_index=True)
+        # append dictionary to the previous one (we don't need merge as documents are different)
+        corpus_dict.update(temporary_document_index.to_dict())
 
         # remove document index after merging
         os.remove(document_index_file)
         pass
+
+    # convert collected dict to dataframe
+    wordcount_index = pandas.DataFrame(corpus_dict)
 
     # replace NaN wirh zeros
     wordcount_index.fillna(0, inplace=True)
