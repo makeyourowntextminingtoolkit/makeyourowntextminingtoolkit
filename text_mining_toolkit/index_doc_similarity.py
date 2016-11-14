@@ -20,7 +20,7 @@ pandas.set_option('max_columns', 5)
 
 # delete matrix
 def delete_matrix(content_directory):
-    doc_similarity_matrix_file = content_directory + "matrix.docsimilarity"
+    doc_similarity_matrix_file = content_directory + "matrix_docsimilarity.hdf5"
     if os.path.isfile(doc_similarity_matrix_file):
         os.remove(doc_similarity_matrix_file)
         print("removed doc similarity matrix file: ", doc_similarity_matrix_file)
@@ -31,7 +31,7 @@ def delete_matrix(content_directory):
 # print existing matrix
 def print_matrix(content_directory):
     # open matrix file
-    doc_similarity_matrix_file = content_directory + "matrix.docsimilarity"
+    doc_similarity_matrix_file = content_directory + "matrix_docsimilarity.hdf5"
     hd5_store = pandas.HDFStore(doc_similarity_matrix_file, mode='r')
     doc_similarity_matrix = hd5_store['corpus_matrix']
     hd5_store.close()
@@ -43,9 +43,8 @@ def print_matrix(content_directory):
 
 # create document similarity matrix, the relevance matrix needs to already exist
 def create_doc_similarity_matrix(content_directory):
-
-    # start with empty matrix
-    doc_similarity_matrix = pandas.DataFrame()
+    # start with empty dictionary for collecting similarity results
+    doc_similarity_dict = collections.defaultdict(dict)
 
     # load the relevance matrix
     relevance_index_file = content_directory + "index_relevance.hdf5"
@@ -61,14 +60,15 @@ def create_doc_similarity_matrix(content_directory):
     # combinations (not permutations) of length 2, also avoid same-same combinations
     docs_combinations = itertools.combinations(docs, 2)
     for doc1, doc2 in docs_combinations:
-        #doc_similarity_matrix.ix[doc1, doc2] = pandas.Series.dot(wordfrequency_index[doc1],wordfrequency_index[doc2])
-
         # scipy cosine similarity function includes normalising the vectors but is a distance .. so we need to take it from 1.0
-        doc_similarity_matrix.ix[doc1,doc2] = 1.0 - scipy.spatial.distance.cosine(relevance_index[doc1],relevance_index[doc2])
+        doc_similarity_dict[doc2].update({doc1: 1.0 - scipy.spatial.distance.cosine(relevance_index[doc1],relevance_index[doc2])})
         pass
 
+    #convert dict to pandas dataframe
+    doc_similarity_matrix = pandas.DataFrame(doc_similarity_dict)
+
     # finally save matrix
-    doc_similarity_matrix_file = content_directory + "matrix.docsimilarity"
+    doc_similarity_matrix_file = content_directory + "matrix_docsimilarity.hdf5"
     hd5_store = pandas.HDFStore(doc_similarity_matrix_file, mode='w')
     hd5_store['corpus_matrix'] = doc_similarity_matrix
     hd5_store.close()
@@ -79,7 +79,7 @@ def create_doc_similarity_matrix(content_directory):
 # query document similarity matrix
 def query_doc_similarity_matrix(content_directory, doc1, doc2):
     # open matrix file
-    cooccurrence_matrix_file = content_directory + "matrix.docsimilarity"
+    cooccurrence_matrix_file = content_directory + "matrix_docsimilarity.hdf5"
     hd5_store1 = pandas.HDFStore(cooccurrence_matrix_file, mode='r')
     cooccurrence_matrix = hd5_store1['corpus_matrix']
     hd5_store1.close()
@@ -91,7 +91,7 @@ def query_doc_similarity_matrix(content_directory, doc1, doc2):
 # get document pairs ordered by similarity
 def get_doc_pairs_by_similarity(content_directory):
     # open matrix file
-    doc_similarity_matrix_file = content_directory + "matrix.docsimilarity"
+    doc_similarity_matrix_file = content_directory + "matrix_docsimilarity.hdf5"
     hd5_store1 = pandas.HDFStore(doc_similarity_matrix_file, mode='r')
     doc_similarity_matrix = hd5_store1['corpus_matrix']
     hd5_store1.close()
