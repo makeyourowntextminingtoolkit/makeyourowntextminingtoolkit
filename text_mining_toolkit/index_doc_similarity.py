@@ -8,6 +8,8 @@ import os
 import collections
 # import pandas for matrix dataframe
 import pandas
+# import numpy for maths functions
+import numpy
 # import for maths functions
 import math
 #import scipy.spatial.distance for cosine similarity
@@ -17,6 +19,8 @@ import itertools
 # max columns when printing .. (may not be needed if auto detected from display)
 pandas.set_option('max_columns', 5)
 
+#temp warning catch
+import warnings
 
 # delete matrix
 def delete_matrix(content_directory):
