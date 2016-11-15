@@ -1,15 +1,9 @@
 # module for indexing a corpus for relevance
 
-# glob module for finding files that match a pattern
-import glob
-# import os file deletion
 import os
-# import collections for index
-import collections
-# import pandas for index dataframe
 import pandas
-# import numpy for maths functions
 import numpy
+
 # max columns when printing .. (may not be needed if auto detected from display)
 pandas.set_option('max_columns', 5)
 

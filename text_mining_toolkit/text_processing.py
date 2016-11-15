@@ -1,8 +1,6 @@
 # module apply processing to text (not word lists)
 
-# import text string stuff
 import string
-# import regular expression engine
 import re
 
 # split into words

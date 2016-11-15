@@ -1,17 +1,12 @@
 # module with visualisation functions
 
-# import os for local resources like html templates
 import os
-
-# import visualisation modules
 import wordcloud
 import matplotlib.pyplot as plt
 
-# import modules for d3 graphs
 import IPython.core.display
 import networkx
 import networkx.readwrite.json_graph
-# import random for randomising dom-element
 import random
 
 # word cloud

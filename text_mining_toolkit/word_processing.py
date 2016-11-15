@@ -1,6 +1,5 @@
 # module apply processing to text (not word lists)
 
-# import collections module for word frequency
 import collections
 
 

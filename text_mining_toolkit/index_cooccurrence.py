@@ -1,15 +1,11 @@
 # module for indexing a corpus for co-occurrence of words
 
-# glob module for finding files that match a pattern
 import glob
-# import os file deletion
 import os
-# import collections for matrices
 import collections
-# import pandas for matrix dataframe
 import pandas
-# import for maths functions
 import math
+
 # max columns when printing .. (may not be needed if auto detected from display)
 pandas.set_option('max_columns', 5)
 
