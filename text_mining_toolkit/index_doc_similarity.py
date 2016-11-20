@@ -7,6 +7,8 @@ import math
 import random
 import scipy.spatial.distance
 import itertools
+import numpy
+import numba
 
 # max columns when printing .. (may not be needed if auto detected from display)
 pandas.set_option('max_columns', 5)
@@ -38,7 +40,56 @@ def print_matrix(content_directory):
 
 
 # create document similarity matrix, the relevance matrix needs to already exist
-def create_doc_similarity_matrix(content_directory):
+# sample_fraction is useful to select a subset of documents as the combinations get large quickly
+# this version is jitted with numba
+@numba.njit
+def similarity_jit(m):
+    l = m.shape[1]
+    s = numpy.zeros((l-1,l-1))
+    for i in range(l):
+        for j in range(i+1,l):
+            x = m[:,i]
+            y = m[:,j]
+            s[i, j - 1] = numpy.dot(x,y) / (numpy.sqrt(numpy.sum(numpy.square(x))) * numpy.sqrt(numpy.sum(numpy.square(y))))
+            pass
+        pass
+    return s
+
+def create_doc_similarity_matrix_jit(content_directory, sample_fraction):
+    # load the relevance matrix
+    relevance_index_file = content_directory + "index_relevance.hdf5"
+    hd5_store = pandas.HDFStore(relevance_index_file, mode='r')
+    relevance_index = hd5_store['corpus_index']
+    hd5_store.close()
+
+    # following is a workaround for a pandas bug
+    relevance_index.index = relevance_index.index.astype(str)
+
+    # calcuate similarity as dot_product(doc1, doc2)
+    docs = list(relevance_index.columns)
+
+    # create subsample
+    print("docs = ", len(docs))
+    docs_sample = random.sample(docs, math.ceil(sample_fraction*len(docs)))
+    print("docs_sample = ", len(docs_sample))
+    relevance_index_subset = relevance_index[docs_sample]
+
+    # calculate using jit function
+    doc_similarity_matrix = pandas.DataFrame(similarity_jit(numpy.array(relevance_index_subset.values, order='F')), index=docs_sample[:-1], columns=docs_sample[1:])
+    #doc_similarity_matrix = pandas.DataFrame(similarity_jit(relevance_index_subset.values), index=docs_sample[:-1], columns=docs_sample[1:])
+
+    # finally save matrix
+    doc_similarity_matrix_file = content_directory + "matrix_docsimilarity.hdf5"
+    hd5_store = pandas.HDFStore(doc_similarity_matrix_file, mode='w')
+    hd5_store['corpus_matrix'] = doc_similarity_matrix
+    hd5_store.close()
+    print("created ", doc_similarity_matrix_file)
+    pass
+
+
+# create document similarity matrix, the relevance matrix needs to already exist
+# sample_fraction is useful to select a subset of documents as the combinations get large quickly
+def create_doc_similarity_matrix(content_directory, sample_fraction):
     # start with empty dictionary for collecting similarity results
     doc_similarity_dict = collections.defaultdict(dict)
 
@@ -53,9 +104,13 @@ def create_doc_similarity_matrix(content_directory):
 
     # calcuate similarity as dot_product(doc1, doc2)
     docs = list(relevance_index.columns)
+    # create subsample
+    print("docs = ", len(docs))
+    docs_sample = random.sample(docs, math.ceil(sample_fraction * len(docs)))
+    print("docs_sample = ", len(docs_sample))
 
     # combinations (not permutations) of length 2, also avoid same-same combinations
-    docs_combinations = itertools.combinations(docs, 2)
+    docs_combinations = itertools.combinations(docs_sample, 2)
     for doc1, doc2 in docs_combinations:
         # scipy cosine similarity function includes normalising the vectors but is a distance .. so we need to take it from 1.0
         doc_similarity_dict[doc2].update({doc1: 1.0 - scipy.spatial.distance.cosine(relevance_index[doc1],relevance_index[doc2])})
