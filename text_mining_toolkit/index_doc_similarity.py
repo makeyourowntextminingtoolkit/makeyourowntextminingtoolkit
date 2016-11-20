@@ -38,8 +38,7 @@ def print_matrix(content_directory):
 
 
 # create document similarity matrix, the relevance matrix needs to already exist
-# sample_fraction is useful to select a subset of documents as the combinations get large quickly
-def create_doc_similarity_matrix(content_directory, sample_fraction):
+def create_doc_similarity_matrix(content_directory):
     # start with empty dictionary for collecting similarity results
     doc_similarity_dict = collections.defaultdict(dict)
 
@@ -55,15 +54,8 @@ def create_doc_similarity_matrix(content_directory, sample_fraction):
     # calcuate similarity as dot_product(doc1, doc2)
     docs = list(relevance_index.columns)
 
-    print("docs = ", len(docs))
-    docs_sample = random.sample(docs, math.ceil(sample_fraction*len(docs)))
-    print("docs_sample = ", len(docs_sample))
-
-    total = len(list(itertools.combinations(docs_sample, 2)))
-    print("total combinations = ", total)
-
     # combinations (not permutations) of length 2, also avoid same-same combinations
-    docs_combinations = itertools.combinations(docs_sample, 2)
+    docs_combinations = itertools.combinations(docs, 2)
     for doc1, doc2 in docs_combinations:
         # scipy cosine similarity function includes normalising the vectors but is a distance .. so we need to take it from 1.0
         doc_similarity_dict[doc2].update({doc1: 1.0 - scipy.spatial.distance.cosine(relevance_index[doc1],relevance_index[doc2])})
@@ -71,6 +63,7 @@ def create_doc_similarity_matrix(content_directory, sample_fraction):
 
     #convert dict to pandas dataframe
     doc_similarity_matrix = pandas.DataFrame(doc_similarity_dict)
+    doc_similarity_matrix.fillna(0, inplace=True)
 
     # finally save matrix
     doc_similarity_matrix_file = content_directory + "matrix_docsimilarity.hdf5"
