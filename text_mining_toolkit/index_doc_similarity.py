@@ -107,8 +107,10 @@ def get_doc_pairs_by_similarity(content_directory):
     unstacked_doc_similarity_matrix.sort_values(ascending=False, inplace=True)
 
     # convert to pandas dataframe with doc1, doc2, similarity
-    doc1_doc1_similarity_list = [(doc1, doc2, unstacked_doc_similarity_matrix.ix[doc1, doc2]) for (doc1, doc2) in unstacked_doc_similarity_matrix.index.values]
-    doc1_doc2_similarity = pandas.DataFrame(doc1_doc1_similarity_list, columns=["doc1", "doc2", "similarity"])
+    l1, l2 = zip(*unstacked_doc_similarity_matrix.index.values)
+    l3 = unstacked_doc_similarity_matrix.values
+    doc1_doc2_similarity = pandas.DataFrame(numpy.vstack((l1, l2, l3)).T, columns=["doc1", "doc2", "similarity"])
+    doc1_doc2_similarity['similarity'] = doc1_doc2_similarity['similarity'].astype(float)
 
     # normalise similarity to 0-1
     doc1_doc2_similarity['similarity'] /= doc1_doc2_similarity['similarity'].max()
