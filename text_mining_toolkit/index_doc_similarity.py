@@ -1,12 +1,7 @@
 # module for indexing a corpus for document similarity
 
 import os
-import collections
 import pandas
-import math
-import random
-import scipy.spatial.distance
-import itertools
 import numpy
 import numba
 
@@ -100,7 +95,7 @@ def get_doc_pairs_by_similarity(content_directory):
     hd5_store1.close()
 
     # unstack the similarity matrix
-    unstacked_doc_similarity_matrix = doc_similarity_matrix.unstack()
+    unstacked_doc_similarity_matrix = doc_similarity_matrix.T.unstack()
     # remove the zero occurances (nans)
     unstacked_doc_similarity_matrix = unstacked_doc_similarity_matrix[unstacked_doc_similarity_matrix > 0]
     # sort by similarity value
