@@ -52,18 +52,58 @@ def calculate_singular_value_decomposition(content_directory):
 
 
 # get already calculated SVD frames
-def get_svd(content_directory):
+def get_svd_eigenvalues(content_directory):
+    # load dataframes of U, S, VT
+    svd_file = content_directory + "svd.hdf5"
+    hd5_store = pandas.HDFStore(svd_file, mode='r')
+    #U_df = hd5_store['U']
+    S_df = hd5_store['S']
+    #VT_df = hd5_store['VT']
+    hd5_store.close()
+
+    # following is a workaround for a pandas bug
+    #U_df.index = U_df.index.astype(str)
+    S_df.index = S_df.index.astype(str)
+    #VT_df.index = VT_df.index.astype(str)
+
+    return S_df
+
+
+# get document-view projected onto 2-d space
+def get_document_view(content_directory):
+    # load dataframes of U, S, VT
+    svd_file = content_directory + "svd.hdf5"
+    hd5_store = pandas.HDFStore(svd_file, mode='r')
+    #U_df = hd5_store['U']
+    S_df = hd5_store['S']
+    VT_df = hd5_store['VT']
+    hd5_store.close()
+
+    # document view is S.V^T
+    S_VT = numpy.dot(numpy.diag(S_df.values.flat), VT_df)
+
+    # convert to dataframe with x,y features and added column of doc names
+    S_VT_df = pandas.DataFrame(S_VT[0:2,], columns = VT_df.columns)
+
+    return S_VT_df
+
+
+# get word-view projected onto n-dimensional space for topic extraction_
+def get_word_view(content_directory, dimensions):
     # load dataframes of U, S, VT
     svd_file = content_directory + "svd.hdf5"
     hd5_store = pandas.HDFStore(svd_file, mode='r')
     U_df = hd5_store['U']
     S_df = hd5_store['S']
-    VT_df = hd5_store['VT']
+    #VT_df = hd5_store['VT']
     hd5_store.close()
 
-    # following is a workaround for a pandas bug
-    U_df.index = U_df.index.astype(str)
-    S_df.index = S_df.index.astype(str)
-    VT_df.index = VT_df.index.astype(str)
+    # word view is U.S
+    U_S = numpy.dot(U_df.values, numpy.diag(S_df.values.flat))
+    print(U_S[:,:dimensions])
 
-    return U_df, S_df, VT_df
+    # convert to dataframe with reduced dimension and add words as index
+    #U_S_df = pandas.DataFrame(U_S[,:dimensions], index = U_df.index)
+
+    #return U_S_df
+    pass

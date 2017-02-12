@@ -130,3 +130,22 @@ def plot_force_directed_graph2(node1_node1_weight):
 def plot_bar_chart(data_series):
     plt.bar(numpy.arange(len(data_series)), data_series.values)
     pass
+
+
+# scatter 2-d plot
+def scatter_plot(xy_data):
+
+    # plot as scatter plot
+    p = plt.subplot(111)
+    p.axis('scaled');
+    #p.axis([-2, 2, -2, 2]);
+    p.axhline(y=0, color='lightgrey');
+    p.axvline(x=0, color='lightgrey')
+    p.set_yticklabels([]);
+    p.set_xticklabels([])
+
+    p.set_title("S_reduced_VT")
+    p.plot(xy_data.iloc[0], xy_data.iloc[1], 'ro')
+
+    plt.show()
+    pass

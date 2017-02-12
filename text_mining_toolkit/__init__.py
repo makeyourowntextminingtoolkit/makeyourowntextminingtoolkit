@@ -6,4 +6,4 @@ from . import index_doc_similarity
 from . import text_processing
 from . import word_processing
 from . import visualisation
-from . import topic_model
+from . import svd
