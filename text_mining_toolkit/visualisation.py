@@ -4,6 +4,8 @@ import os
 import wordcloud
 import matplotlib.pyplot as plt
 
+import numpy
+
 import IPython.core.display
 import networkx
 import networkx.readwrite.json_graph
@@ -122,4 +124,9 @@ def plot_force_directed_graph2(node1_node1_weight):
     IPython.core.display.display_html(IPython.core.display.HTML(html))
     # display (run) javascript in notebook cell
     IPython.core.display.display_javascript(IPython.core.display.Javascript(data=js))
+    pass
+
+# bar chart
+def plot_bar_chart(data_series):
+    plt.bar(numpy.arange(len(data_series)), data_series.values)
     pass
