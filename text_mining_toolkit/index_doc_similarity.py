@@ -8,8 +8,6 @@ import numba
 # max columns when printing .. (may not be needed if auto detected from display)
 pandas.set_option('max_columns', 5)
 
-#temp warning catch
-import warnings
 
 # delete matrix
 def delete_matrix(content_directory):
