@@ -133,7 +133,7 @@ def plot_bar_chart(data_series):
 
 
 # scatter 2-d plot
-def scatter_plot(xy_data):
+def plot_scatter_chart(xy_data):
 
     # plot as scatter plot
     p = plt.subplot(111)

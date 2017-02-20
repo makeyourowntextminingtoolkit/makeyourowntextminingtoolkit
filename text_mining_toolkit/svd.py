@@ -100,10 +100,25 @@ def get_word_view(content_directory, dimensions):
 
     # word view is U.S
     U_S = numpy.dot(U_df.values, numpy.diag(S_df.values.flat))
-    print(U_S[:,:dimensions])
 
     # convert to dataframe with reduced dimension and add words as index
-    #U_S_df = pandas.DataFrame(U_S[,:dimensions], index = U_df.index)
+    U_S_df = pandas.DataFrame(U_S[:,0:dimensions], index = U_df.index)
 
-    #return U_S_df
-    pass
+    return U_S_df
+
+
+# get top n topics
+def get_topics(content_directory, number_of_topics, topic_length):
+    # first get word_view
+    word_view = get_word_view(content_directory, number_of_topics)
+
+    # create empty list of topics
+    topics_list = []
+
+    for column in word_view:
+        topic = word_view[column]
+        # note we take the absolute values here because negative large values are important too
+        topic_sorted = topic.abs().sort_values(ascending=False)[:topic_length]
+        topics_list.append(topic_sorted)
+
+    return topics_list
