@@ -33,7 +33,7 @@ def remove_stop_words(input_words_list, stop_words_file):
 
 # build n-grams
 def build_ngrams_from_words(input_words_list, ngram_length):
-    print("ngram_length = ", ngram_length)
+    #print("ngram_length = ", ngram_length)
     # construct the ngrams
     z = zip(*[input_words_list[i:] for i in range(ngram_length)])
     # join them together to make a string (in a list)
