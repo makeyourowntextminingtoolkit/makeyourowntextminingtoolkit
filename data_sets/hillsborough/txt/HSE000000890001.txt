@@ -1,0 +1,1316 @@
+                                             Sheffield City Council
+(3                                                                                                                ((oC? ,Cj?
+                                                                                                         - 3 IUL 1989'
+                                                                        C-€L-
+
+
+
+                                                                                                            lg '1     8 fi
+
+
+
+
+                       HILLSBOROUGH INQUIRY
+                   REPORT ON CRUSH BARRIER 124A
+
+
+
+
+                  F.I.Struct,E, F.I.A.S., M.B.C.S.
+     Principal Engineer
+                                                                                 4th May, 1989
+
+
+
+
+                           DIRECTOR                                             BUILDING b U K V b Y U K
+                           J. WINTER, D ip A rch . RIBA, DipTP, FRTPI           K. W. G. BLOUNT, PPIAAS, FIAS, CDipAF. M B IM
+                                                  - 1 -
+
+            Crush Barrier Assessment
+
+       i*
+            1.0   Synopsis
+
+                  This report assesses the strength, stiffness and load carrying capacity
+                  of Barrier number 124A which collapsed under recorded excess crowd
+*                 loading on Saturday, 15th April, 1989.
+
+                  The barrier is located on the central west terrace at the Leppings Lane
+i                 End of S.W.F.C., Hillsborough....
+
+                   It is of steel construction, rigidly fixed to the terrace foundation.
+W /t              At this stage the date of construction is notknown but it is likely to
+Wk                be from the early 30's era.
+
+            2.0   Testing and Maintenance
+
+                  In accordance with the Safety Certificate issued in1979 and the
+                  recommendations of the so-called "Green Guide" booklet on the Safety at
+                  Sports Ground then in operation, a % of all the stadium barriers, rails
+                  and fences are tested every year.
+
+                  On most barriers a test load of 6 KN/m is applied which corresponds to
+■                 the greater strength requirements of table 1 in peak viewing areas. New
+                  barriers may be designed and analysed to a loading of 5 KN/m.
+
+                  At the time of test the barriers are examined visually for signs of
+m
+                  excess corrosion and maintenance undertaken accordingly. Any element
+                  which does not satisfy the testing criteria is replaced and re-tested.
+
+m                 It is fortuitous for the present report that these barriers were
+                  included in the last test series undertaken in July 1988 together with
+                  a calibration test on the equipment used by the Club's Engineer,
+m                 Dr. W. Eastwood. .
+
+                  The previous test was in June 1983.
+m           3.0   Construction Details
+
+                  The barrier consists of vertical cantilever type frame supports of
+m                 2)6" x 2%" x   (54mm x 54mm x 6.3mm) raker struts and 2" x 2" x X"
+                  (51mm x 51mm x 6.3mm) angle vertical ties attached to a riveted/bolted
+
+■                 gusseted joint at the top which carries a 2%" (60mm) diameter x 6 swg
+                  CHS barrier rail tube by means of a clip assembly.
+
+                  A maintenance repair had been undertaken in the past at joint numbered
+■                 20 which consisted of a CHS tube sleeve inserted into the barrier rail.
+
+                  There are signs of surface corrosion in some areas and it is possible
+
+■                 that the strength of the angle legs had at some time been supplemented
+                  with additional angle fixtures at foundation level.
+
+            4.0   Failure
+■                 The collapse mechanism appeared to follow classic theoretical lines with
+                  the progressive formation of plastic hinges at critical locations.
+
+                  The supports and barrier rail had completely failed at joints 4 and 12
+                  and the barrier rails exhibited excessive deflections near mid spans of
+                  about 7" (170mm).
+
+
+
+
+m
+                                              -   2   -
+
+
+m
+           It is likely that approaching ultimate conditions the rail behaved in a
+m          catenary manner creating torsion and longitudinal forces in the frame
+           support members.
+
+     5.0   Model Analysis
+m
+           The barrier construction has been modelled using computer finite element
+           techniques. There is no pretence that these yield an exact analysis of
+m          the stresses induced and the mode of collapse due to the existence of
+           many unknown factors such as failure in the gusset assembly, assumptions
+           in member properties, pattern of loading, strain hardening, lever and
+
+■          prying forces, etc.
+
+           Nevertheless within reasonable practical limits the analysis will give a
+           good indication of load factors, strengths and particularly stiffness
+■          since an accurate comparison can be made with the recorded test
+           information data.
+
+           The analysis gives results for the theoretical behaviour of the system
+           in the elastic and plastic states of stress.
+
+           Although research into the plastic behaviour of angle members is not
+■          complete and the current British Standard.BS 5950 forbids plastic design
+           of angles, it is considered that such an approach should give reasonable
+           results in this case because the plasticity will occur in areas which
+m          are fairly well restrained at foundation and top assembly locations.
+
+           The angle members are also of a 'stocky' section with D/T ratios of
+■          about 8.
+
+     6.0   Summary of Results
+
+■          Barrier Hail analysis B124CB1-5
+
+           Some measure of the extreme load acting in the construction can be
+■          gauged from the deflection of barrier rails 4-12 and 12-20. These
+           developed a near mid-span deflection of 170mm - a value well above
+           that corresponding to the onset of plasticity (about 15mm).
+
+■          Space frame analysis of complete structure B124S
+
+           This shows good correlation with the test load figures on deflection
+■          (18mm on test (6 KN/m) 15mm analysis (5 KN/m)) and provides a confidence
+           limit on the accuracy of the assessment.
+
+^1         Support frame analysis B124A - J
+
+           Indicates a load factor against collapse of over 2.0. Analyses B124B
+           (BS 449) and B124D (BS 5950) show that the design would not quite meet
+■          current design requirements using standard load factors although there
+           would be a strong case for revising these in regard to barrier
+           assessment.
+
+     7.0   Conclusions
+
+           The on-going tests carried out in accordance with the safety certificate
+           and S at SG guidelines proves the barrier system capable of taking the
+           6 KN/m load safety. This is all that is required of the Act.
+
+
+
+
+m
+Nevertheless the analysis carried out in this report shows clearly the
+additional reserve of strength in the barrier system - about i%x.
+
+The crowd forces involved in this incident can be reasonably deduced
+from these calculations but the cause can only be assessed by consider­
+ation of many factors yet to be investigated by the Lord Justice Taylor
+Enquiry.
+
+Recommendations on Barrier Strength
+
+(1) The design and test load figures specified in the Guide may need to
+     be re-assessed although medical evidence may suggest that forces
+     applied in excess of these limits would be intolerable.
+
+(2)   It may be of advantage to additionally test load individual barrier
+      spans rather than a series of continuous members. This would
+      perhaps highlight potential joint and element weaknesses.
+
+(3) Longitudinal or sideways loadings on barrier supports may be
+     critical particularly towards the stage of ultimate collapse.
+     Members should be rigidly connected in all directions.
+                                                 4-70        80
+
+                                                             •'✓rs\ A
+                        50
+
+Analysis Dimensions Only
+
+
+
+
+                        i no
+
+
+
+
+                                                                        2001
+
+
+                                                 550
+
+
+                                                        17
+
+
+               8             15                      23      2A          31
+                             12                      20                  23
+                                  Plan Showing Numbering
+
+      Co-ordinates (origin 1)
+
+                   I          T
+
+      1         0.000        0.000
+      2         0.410        1.110
+      3         0.470        1 .160
+      4         0.550        1 .220
+      5         0.550        1 .160
+      6         0.550        1.010
+      7         0.550        0.200
+
+
+
+                                             BARRIER 124A
+Section Properties (approximate)
+
+Vertical Member          2" x 2" x 1
+                                   4n L
+                        (51 x 51 x 6.3)
+
+Centroid                 0.58" (14 .9)
+                         1.42" (36 .1)
+
+A          0.94 in^           6.08    cm^
+Z          0.24 in 3          3.98    cm3
+Sxx        0.44 in 3          7.21    cm3
+Sxy        0.39 in3           6.39    cm3
+I          0.34 in1*          14.3    cm1*
+J          0.019 in1*         0.79    cm1*
+
+
+Raker Member             214 ” x 2%” x X"
+                        (54 x 54 x 6.3)
+
+Assume same as vertical for analys
+
+
+Barrier Rail
+                                   2%" o/dia 2" i/dia     CHS
+                                  (59)       (51)
+                                    (2%" o/dia x 6 swg tube)
+
+A          1.32 in2            8.52   cm^
+Z          0.666 in3          10.91   cm3
+S          0.917 in3          15.03   cm3
+I          0.79 in1*          32.88   cm1*
+J          1.58 in1*          65.76   cm1*
+
+
+
+
+                                       BARRIER 124A
+Strength properties
+
+Steel properties data is not available at the time of writing this report but
+these should not differ too greatly from present day values.
+
+Yield stress        255 N/mm2     '     16.5 ton/in2
+E                  206E3 N/mm2         13340 ton/in2
+Pbc                165 N/mm2           10.6 ton/in2
+                    (for present day    comparison)
+
+
+
+2" x 2" x %"L
+
+Elastic M of R    165 x 3-9SE-3 = 0.657 KNm
+Plastic M of R    255 x 7.21E-3 = 1.338 KNm
+
+
+
+
+Barrier Rail
+
+Elastic M of R    165 x 10.91 E—3 = 1 .800 KNm
+Plastic M of R    255 x 15.03E-3 = 3-833 KNm
+Moment at yield   255 x 10-91E—3 = 2.782 KNm
+
+
+
+
+6 swg   0.192" (4.88 mm)
+♦                                                                                 A P P E N D I X
+
+
+    See Analyses B124CB1-5
+
+
+Check load factor on CHS barrier rail (Deflection measured 170mm - clearly
+well beyond plastic onset limits).
+
+
+
+
+Mp = WL_           =       5 x 2.32           =        2.26 KNm
+    11.7                     11.7
+
+Plastic MR         =       15.03     x 255    =        3-833 KNm
+
+Load factor        =       3.833              =        1.696 (cf       1.6 permitted)
+                             2.26
+
+Check deflection at yield (255          N/mm2) - SS_
+
+Load applied           = (Z x f) x    8/L2
+                       = (10.91E—3     x 255) x 8/2.32 x 1E6
+                       =   4.207 KN/m
+
+Corresponding £        = 5 x 4.207    x 2.3^ x 1E5
+                          384      206 x 32.6
+
+                           22.83mm
+
+
+Check deflection at yield - continuous
+
+Load applied           =   2.782 x 10/2.32    =   5.259 KN/m
+
+                           Corresponding deflection from
+                           computer output = 5.259 x 14            =    14.73mm
+                                                  5.00
+                                                          A P P E N D I X
+0
+
+
+    Load Factor Analysis
+
+
+    Joint                     1            2          6              7
+
+    Run B124A
+
+    Mcap                     1.83      1.83       1.83           1.83
+    M                        0.427     0.571      1 .054         0.855
+    Mcap/M                                        1.736
+    M x 1.736                0.741     0.991      1.83           1 .484
+    Mcap                     1.089     0.839      0              0.346
+
+    Run B124F
+
+    Mcap                     1 .089    0.839      0              0.346
+    M                        1.152     1.651      0              0.82
+    Mcap/M                                                       0.422
+    M x 0.422                0.486     0.697      0              0.346
+    Mcap                     0.602     0.142      0              0
+
+    Run B124H
+
+    Mcap                     0.603     0.142      0              0
+    M                        1.362     1.36       0              0
+    Mcap/M                             0.072
+    M x 0.072                0.095     0 .142     0              0
+    Mcap                     0.505     0          0              0
+
+    Run B124J
+
+    Mcap                     0.505     0          0              0
+    M                        9.06      0          0              0
+    Mcap/M                   0.056
+    M x 0.056   etc.
+
+
+    Total LF       1.736
+                   0.422
+                   0.072
+                   0.056 +
+
+                   2.286
+
+                                                  s(D
+
+
+
+
+                              ( ) Order of hinge formation
+Computer Analyses
+
+
+Barrier Support Frame     -    Plane frame
+
+
+B124A       Basic frame analysis - 1.0 factor
+
+    B       Design of basic frame to BS 449
+
+    C       Basic frame analysis - 1.6 factor
+
+    D       Design of basic frame to BS 5950
+
+    F               Pin at 6           )
+
+    H               Pins at 6 & 7    )     - Plastic load
+                                     )       factor appraisal
+    J               Pins at 2, 6 & 7 )
+
+
+B124S       Space frame analysis
+             - complete construction
+
+
+Barrier Rail   -    Plane frame
+
+B124C   B1 Basic analysis - 1.0 factor
+
+        2   Design to BS 449
+
+        3   Basic analysis - 1.6 factor
+
+        4   Design to BS 5950
+
+        5          Pin                Pin at support - first
+
+                   onset of plasticity
+                                                                                                                                                                                               |ii)UUUw«tU
+
+
+
+
+                                                  BARRIER TESTING RECORD SHEET
+                  SHEFFIELD WEDNESDAY F.C.PLC.                                                                                                       EASTWOOD 4 PARTNERS,
+                  HILLSBOROUGH                                                                                                                       CONSULTING ENGINEERS,
+                                                              COMPLETED BY                 £> G UiG&/a4S                                             ST. ANDREWS HOUSE,
+                  SI IEFF1ELD
+                  S6 1SW
+                                                                                                                                                     23 KINGFIELD ROAD,
+                   l
+                                                              DATE                  3-*-^ lcK",S                                                     SHEFFIELD,
+           'I -                                                                                                                                      SII 9A S .
+   w\ ,                                                       JOB NO       104B1
+
+
+                                           TEST LOAD                                        ALL DIMENSIONS ARE IN MILLIMETRES
+1ARRIER           BARRIER SIZE                      APPLIEp        TEST I                                     TEST 2
+                  & No. OF              KN/M                                                                                                               TEST 3
+‘OST                                                LOAD
+10.               SPANS                             TONNES         REST        LOAD        U/LOAO    •AREC    REST         LOAO          U/ LOAO   m e     REST     LOAO   U/LOAO                7.REC
+
+
+                                                                    O                       o         )CO         O                        o        ICO    C         l<+       O                     IOO
+  12 1                          1- Z      Q>             1 4-Lh
+
+                                                                   o               k,-       o        1G O        o                         o       ico     o        15        O                  IOC
+                                2-3       G>             1
+
+
+
+
+                                l-Z        L>            1          o              IS        o        loo         o            n           o        IOO     o        n          O                    loc
+  122
+
+
+
+
+                                                         1 ^ 4.      o                          o     IOO         o            ic\                  IOO        o    XI            o                  IO(
+   12.3,                         l-Z      (c>
+
+                                                                                                                                                                            ..........   i-.
+
+
+                                                         I q-L|-           o   ip        e 2o k £ .           J       C li *       ee.
+   12-Lh                         1 -2      L>                                                                                                                                                    -
+
+
+
+
+                                1-2.       io             1 <+Lh       o           2ci                 S e|           O        19           5       n           o     in          o                  IOC
+
+
+                                2           (s>           I.u-lf       o           2.1           5      lip           O        1%           O       IC O        o     ik         o                   IOC
+            ™   0   n9   R   tiW    ElffBiElW,             ™ *
+                BOV/MAKER' H O U S E ,
+                .23 , KINGFIELD ROAD,
+                SHEFFIELD Sll 9 A S .                                                       SHEFFIELD WEDNESDAY FOOTBALL Q j B
+                                                         BARRIER TESTS                      HILLSBOROUGH
+                                                                                            SHEFFIELD 6
+                DATE         \iJ»— iE   lS8i
+                                                                                            BARRIER TESTS 1983
+                COMPLETED BY            v
+                                                                                            JOB NO. 4644
+
+
+                                   MAXI MUM-TEST LOAD                              DEFORMATION 1000
+
+                                               applied                    TEST 1                 TEST 2          TEST 3       REMARKS
+barrier     size                    KN/m
+8* NO. OF SPANS          .                     -LOAD
+                                                                 MAX           REST                    REST           REST
+                                                TONS
+
+                                                                 Im - o       <?Qo     ~l'ix=>    ■'
+
+
+                                                                                        /oo
+
+
+
+
+                                                                                                       poo
+^ ^ 2 - 3       \4"2
+
+                                                                              \oo     • 7L=>o                         o
+
+
+
+
+                                                                                                                     OtbQ .
+
+
+
+
+  \o   2                                                                       70                                    ooo
+                                                                           SERIAL N U M B E R
+  CERTIFICATE OF CALIBRATION
+                                                            •                       N0154
+                    SHEFFIELD TESTING W ORKS LTD.
+
+
+
+RESULTS
+                                    ^ Cylinder 04773
+
+           Force                         Reading on Gauge inner scale
+
+            Tons                                 Tons
+
+      Com-oression             Test 1          Test 2        Test 3        Average
+
+             0-5                0.5              0.5            0.5         0.5
+
+                1                   1                1              1           1
+
+            1.5                 1 -5             1 -5           1-5         1 -5
+
+                2                   2               2               2           2
+
+            2.5                 2.5             2.5          2.5            2.5
+
+                3                   3               3            3              3
+
+            3-5                 3-5             3-5          3-45           3-5
+
+                4                  4                4           4              4
+
+
+
+
+                                    Cylinder 04772
+
+          Force                         Reading on Gauge inner scale
+
+           Tons                                Tons
+
+     Comursssion              Test            Test 2       Test 3         Average
+
+           0.5                 0.5             0-5          0.5            0.5
+
+            1                   1                1              1           1
+
+           1*5                 1 -5            1.5          1-5            1 -5
+
+            2 •                 2               2               2           2
+
+           2.5                 2.5             2.5          2-5            2.5
+
+            3                   3               3            3              3
+
+           3-5                 3-5             .3*5         3-5            3-5
+
+            4                  4                4            4             4
+
+
+
+
+                                                                    PAGE 2 OF 2 PAGES
+               J CERTIFICATE OF CALIBRATION
+                                                                                                                                                           DATE OF ISSUE
+                                                                                                                                                             15th July 1988
+                                                                                                                                                          SERIAL NO.
+
+                                                                                      SHEFFIELD TESTING W O R K S LTD                                                    H0154
+                                                                                      Nursery Street                                                      PAGE OF PAGES
+                                                                                      Sheffield S3 8GP                                                            1                  2
+                                                                                      Telephone ^(0742) 726581/2
+                                                                                      Telex (547676 C h a m c o G) S T W
+
+
+
+
+                  ISSUED TO:                                                Eastwood & Partners
+                                                                            23 Kingfield Hoad
+                                                                            Sheffield
+                                                                            S11
+
+
+
+                 ORDER Ho.:                                                 Verbal,
+
+
+                 MADE B Y :                                                 Enerpac
+
+
+                 DESCRIPTION:                                              One hydraulic pump complete with two hydraulic cylinders.
+                                                                           The force on the cylinders,     under an applied force    is
+                                                                           measured by a pressure gauge mounted .on the pump.
+
+
+                 IDENTIFICATION:                                           Pump: D948005
+                                                                           Gauge: BGF 168 SE
+                                                                           Cylinder 1 : 04773                                 Model EC 53AF9N
+                                                                           Clyinder 2: 04772                                  Model EC 530J8N
+
+
+                METHOD
+
+                The calibration was carried out in a Grade 0*5 lever arm testing machine                                                                                                 in
+                terms of theTechnical unit of force the ton force (tozrf). The uncertainty                                                                                               of
+                the forces applied during the calibration is +0.5?*
+
+                Three tests were made on each cylinder.
+
+                Tests were made to determine the reading indicated on the gauge at filed loads.
+
+
+
+
+               DATS OF CALIBRATION: 8th July 1988
+
+
+
+
+T ta c e r t i f i c a t e La is s u e d o n th e u n d e r r t a j a d i a t t h a t it m a y n o t be r e p r o d u c e d
+o t h e r t h i n In fu ll e x c e p t w i t h th e p r i o r w r itt e n a p p ro v a l o f th e Is su in g
+l a b o r a t o r y . AH f ig u r e s a r e a c o r r e c t r e c o r d o f th e m e a s u r e m e n ts m a d e a n d              C e rtifie d
+ere tr a c e a b le to U n i t e d K in g d o m a a t l o o a i s ta n d a r d s a n d to th e u n i t s o f
+= * a x u r e m e n t r e a lis e d a t t h e N a tio n a l P h y s ic a l L a b o r a to r y .                                                   A u th o r is e d S ig n a to ry
+                                                                                                   .;
+
+
+
+
+    ■ij.   n K i
+
+
+
+
+                                                                                                                                           -i=i
+
+
+
+
+                                                               'WEST   STAND;
+
+
+
+
+                   ^ - r~ ~z_1i;7.r;z   . _:.ip8v^:jii^ip49^                                              151- i -r :. .:i1 52^--^::" ~ :153 ^
+                                  ” ’                                           f~ ~           ........                                  ..... .
+                                                                                           3 E _ ^ S =
+
+
+
+
+                       S;W.: PEN = 2 5 0 0 persons   '' , CENTRAL :PEN= 2 2 0 0 -persons                  M.W PEN= 16 0 0 persons
+
+
+
+
+I
+                                                                                                               D     13 3 4
+                                                                                                                    P e v
+
+                                                                                                (1982) tMd
+                                                                                                14*4                               ^
+                                                                                                                                                  2
+SCALE      -------------
+   >Y          0 .1 3
+
+
+
+
+                                                                                                                         x*'")
+                                                                                                                         **    *»
+
+
+
+                   7*   * * * * * * * * * * :    * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * g ** * * * * * * 2 ^ * 4
+
+*********************
+LOAO COMBINATION   1
+
+
+LOAO CASE                  1
+FORCES AND MOMENTS* 1 . 0 0
+DISPLACEMENTS     * 1-00
+
+
+DISPLACEMENTS                                                                                                                          LC     1
+ JT              X-OIRN                         Y-OIRN                         Z-ROTN
+   1 0 .0 0 0 0 0 0 E + 0 0          0.000000E +00                  0.000000E +00
+  2 -0 .2 2 5 1 7 5 E -0 2           0 .5 8 8 1 2 8 E -0 3        - 0 . 29240SE-02
+  3 -0.210716E -02                   0 .4 0 8 7 5 0 E -0 3        -0 .3 0 7 9 4 1 E -0 2
+  6 -0 .2 5 S 1 4 S E -0 2           0 . 144835c -0 3             - 0 . 275949E -02
+  5 - 0 . 2 1 1043E-02               0 . 1487S4E-03               - 0 .2 9 6 0 1 3E -02
+  7 0.000000E +00                    0.000000E +00                  0.000000E +00
+  4 - 0 . 195426E -02                0 . 14S7S4E-03               - 0 .2 7 2 3 4 2 c -02
+
+REACTIONS(LOAD FACTOR*1 . 0 )                                                                                                          LC     1
+ JT      X-FORCE    Y-FORCE                                      Z-MOMENT
+   1       9 .1 4 4  2 2 .3 2 2                                     -0 .4 2 7
+  7        2 .3 5 S -2 2 .3 2 2                                    -0 .8 5 5
+
+REACTIONS* FACTORED)                                                                                                                   LC     1
+ JT      X-FORCE     Y-FORCE                                     Z-MOMENT
+   1       9.144-     2 2 .3 2 2                                    -0 .4 2 7
+  7         2 .3 5 S -2 2 .3 2 2                                    -0 .8 5 5
+
+FORCES AND MOMENTS
+
+MEMBER          1-->        2                                                                                                          LC     1
+
+         DISTANCE                       AXIAL                     SHEAR                 MOMENT
+O.OL        0 .000                    24 .1 0 7                  -0 .8 4 3              -0 .4 2 7
+0 . 1L      0 .1 1 8                  24 .1 0 7                  -0 .8 4 3              -0 .3 2 7
+0 .2 L      0.2 3 7                   24 .1 0 7                  -0 .8 4 3              -0 .2 2 7
+0 .3L       0 .3 5 5                  2 4 .1 0 7                 -0 .8 4 3              -0 .1 2 8
+0 .4L       0 .4 7 3                  2 4 .1 0 7                 -0 .8 4 3              -0 .0 2 8
+0 .5L       0.5 9 2                   2 4 .1 0 7                 -0 .8 4 3               0 .0 7 2
+O .S L      0 .7 1 0                  2 4 .1 0 7                 -0 .8 4 3               0 . 172
+0 .7L       0 .8 2 8                  2 4 .1 0 7                 -0 .8 4 3               0.2 7 2
+0 .8L       0 .9 4 7                  2 4 .1 0 7                 -0 .8 4 3               0 .3 7 1
+0 .9L        1 .0S5                   2 4 .1 0 7                 -0 .8 4 3               0 .4 7 1
+1 .OL        1 .183                   2 4 .1 0 7                 -0 .8 4 3               0.5 7 1
+
+TABLE              GAMMA                     3ETA                       N                M
+   15 0.. 1 0 0 0 0 0 E + 10              -0 .7 4 8              0 .S 6 0         0 .4 3 0
+
+MEMSER          2— >         3                                                                                                          LC    1
+
+         DISTANCE                      AXIAL                      SHEAR                 MOMENT
+O.OL        0 .0 0 0                  1 8 .025                   -2 .2 5 4               0 .0 8 6
+0 . 1L      0 .0 0 8                  18.025                     -2 .2 5 4               0 .1 0 4
+0.2 L       0 .0 1 S                  18.025                     -2 .2 5 4               0 .121
+0.3 L       0 .0 2 3                  18.025                     -2 .2 5 4               0 . 139
+0.4 L       0.031                     18.0 2 5                   -2 .2 5 4               0 . 155
+O .S L      0 .0 3 9                  1 8 .025                   -2 .2 5 4               0 .1 7 4
+O .S L      0 .0 4 7                  18.025                     -2 .2 5 4               0 . 192
+0 .7L       0 .0 5 5                  1 8.025                    -2 .2 5 4               0 .2 0 9
+0.8L        0 .0 6 2                  1 8.025                    -2 .2 5 4               0 .2 2 7
+0.9L        0 .0 7 0                  18.025                     -2 .2 5 4               0 .2 4 4
+ 1 .OL      0 .0 7 8                  18.025                     -2 .2 5 4               0 .2 6 2
+
+taels                 GAMMA                       BETA                  N                M
+      15 0 . 1 C 0 0 0 0 E - 10                 0 .3 2 8         0 .8 5 5          0.S 8 9
+
+                 3—     >                                                                                                               LC    1
+
+           I   STANCE                    AXIAL                     SHEAR                 MOMENT
+                0.000                  1 5.290                     9 .8 0 8               0 .2 6 2
+0. :L          C.CC3                   15 . 2 9 0                  9 .3 0 8               0 . 183
+C .2L          0 . 0 IS                15.2S0                      9 .8 0 8               0 . 105
+0 .3L          0 .G 24                 15.290                      9 .8 0 8               0 .0 2 7
+C .-L          0 .0 3 2                                            9 .3 0 8              -0 .0 5 2
+                                       I S . 230
+0 .3L          0 .040                                                                    -0 .1 3 0
+                                       15.220                      9 .8 0 8
+ SCALE       * --------------
+ -~ > Y            0 . 18
+
+  I**
+        ♦* * *
+                 * ** *
+                          * ** * *
+                                     * ♦♦ ♦
+                                              * ** *
+                                                       *****
+                                                               * * * *
+                                                                         * * * * *
+                                                                                     ♦♦* *
+                                                                                              ** * *
+                                                                                                       * * * * *
+                                                                                                                   * * * *
+                                                                                                                             * * * *
+
+                                                                                                                                       ♦» 2
+                                                                                                                                        *       * *
+                                                                                                                                   *.                 *3
+
+                    ,     y * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * ^* * * * * * * * ^* *^
+
+
+  ADJACENT NODES NOT SPECIFIED                                     ;8            9     10       11        12        13       14        15         16        17    18    19    20    21    22   23   24   25   26   27   28   29   30   31   32
+
+
+
+
+SCALE
+— >Z               1.11
+                                                                                      17                                                25
+                                                                                          *                                                 *
+
+                                              10                                      18                                                26
+0 * * * * * * * * * g * * t * * * * * * * u * * * * * t * * j 0 * * * * * 1920* * * * ♦ ♦ ♦ ♦ * 2 4 * * * * * * * * 2 7 * * * * 3 2
+
+ADJACENT NODES NOT SPECIFIED                                       4         5        6        7       12          13    14        15           21         22    23    28    29    30    31
+*************t******
+LOAD COMBINATION                       1
+#t******************
+LOAD CASE                 1  2   3    4
+FORCES AND MOMENTS* 1.00 1.00 1.00 1.00
+DISPTS 8. REACTIONS* 1.00
+
+DISPLACEMENTS
+ JT          X-D1RN                             Y-DIRN                       Z-DIRN                           X-RDTN                             Y-RDTN                       Z-ROTN
+  1 O.OOOOOOE+OO                        O.OOOOOOE+OO                 O.OOOOOOE+OO                     O.OOOOOOE+OO                       O.OOOOOOE+OO                   O.OOOOOOE+OO
+  2 -O.0G171GE-O3                       0.225079E-03                -O.07G63OE-O4                    -0.137826E-03                      -0.11350GE-O4                  -0.11191 IE-02
+  3 -0.795082E-03                       0. 157032E-03               -0.953032E-04                    -0.127912E-03                      -0. 11330 IE-06                -0.118269E-02
+  4 -0.733556E-03                       0.506222E-04                -0.1040G4E-03                    -0.145775E-03                       0. 126279E-06                 -0.1O7220E-O2
+  5 -0.7S6317E-03                       0.506213E-04                -0.953147E-04                    -0.145507E-03                       0 . 12G279E-OG                -0.114590E-02
+  6 -O.9'd 7930E-O3                     0.570218E-04                -0.735765E-04                    -0.144036E-03                      -O.0222G0E-O5                  -0.106444E-02
+  7 O.OOOOOOE *00                       O.OOOOOOE+OO                 O.OOOOOOE+OO                     O.OOOOOOE+OO                       O.OOOOOOE+OO                   O.OOOOOOE+OO
+  8 -0.171912E-01                       0 . 191366E-03              -0.1041G7E-03                    -0.702994E-04                       0.393875E-02                  -0.18301 IE-02
+  9 0.OGQOOOE *00                       O.OOOOOOE+OO                 O.OOOOOOE+OO                     O.OOOOOOE+OO                       O.OOOOOOE+OO                   O.OOOOOOE+OO
+   10 - 0 . ’^ » 1 2 E - 0 2            0.603019E-03                 0.383385E-03                     0.831G58E-03                       0.319259E-02                  -0.290699E-02
+   11    -0.iW69E-02                    0.424534E-03                 0.23B448E-03                     0 . 1900G3E-02                     0.43604 IE-02                 -0.307443E-02
+   12    -0.203 IB IE'02                0.16BB49E-03                - 0.104270E-03                    0 . 132214E-03                     O.681302E-O2                  -0.258794E-02
+   13    -O.210628E-O2                  O.1G0B5IE-03                - 0. 112593E-03                   0 . 144B46E-03                     0.4400500*02                  -0.291724E-02
+   14    -0.263154C-02                  0.1639971-03                - 0 .I3194BE-03                   0.906539E-04                       0.300112E-02                  -O.276790E-O2
+   15     (f-OOOOOOE *00                   O.OOOOOOC*OQ                  o.ooowoc*oo                  O .(/WOOOC •00                     O.OOOOUOCOO                    O.OOOOOOE*00
+DSTRAN-BS5950 ANALYSES
+PRCCUCED 2 4 / 0 4 / 1 9 8 9 AT 1 4 : 0 2 KRS
+
+
+       BAKER STRUT-LOWER * /
+
+MAX/MIN cNVELGPE VALUES
+
+  c s r i_y                  E r r LX                E r r L5                MAX SR
+    0 .3 0 0                  0 .8 0 0                0 .8 0 0              180 .0 0 0
+
+  CC-EXG                     MOMENT                   SHEAR
+                              0.0 0 0                 0 .0 0 0
+
+  MEMBER                     MOMENT                   AXIAL        CCMB
+
+      1-        2             C .913                3 8 .5 7 2           1
+                             -0 .583                38 .5 7 2            1
+                              0 .9 1 3              38 .5 7 2            1
+                              0 .9 1 3              38 .5 7 2            1
+
+SELECTED EA                   S IZ E S GRADE 4 3 STEEL
+MEM8ERS   1-                  2/
+
+       SO* SO® 8 EA                        X-X (         1-       2 ) PLASTIC
+ SHEAR      (   —        /                 7 1 .2 8 )
+LOCAL       (  3 8 .5 7 /                2 4 8 .2 9 ) + (           0 .9 1 /   1 .8 9 )+ (       0 .0 0 /    1 .8 9 )    =0.637
+OV. BUCK (     3 8 .5 7 /                 1 6 5 .5 2 )+ (           0 .9 1 /   1 .5 2 )+ (       0 .0 0 /    1.52)       = 0 .8 3 6
+OV. BUCK (     "         /                 —          )+(           0 .9 1 /   1 .2 3 M          0 .0 0 /    1.41)       = 0 .7 4 0
+       SO* S03> 10 EA                      X-X (         1-       2 ) PLAS TIC
+SHEAR       (   —        /                 8 9 . 10)
+LOCAL       (  3 8 .5 7 /                3 0 4 .39)+(               0 .9 1 /  2 .3 1 )+ (        0 .0 0 /   2 .3 1 )     = 0 .5 2 2
+OV. BUCK (     3 8 .5 7 /                202.3S )+ (                0 .9 1 /  1 .8 5 )+ (        0 .0 0 /   1,85)        = 0 .6 8 4
+OV. BUCK (     —         /                            )+ (          0 .9 1 /  1.5 7 )+ (         0 .0 0 /   1.82)        = 0 .5 8 2
+      70 * 70® S EA                        X-X (         1-       2 ) SEMI -CCMPACT
+SHEAR       (  —        /                  S 2 .3 7 )
+LOCAL       (  3 8 .5 7 /                2 2 3 .4 9 )+ (            0 .9 1 /  2 .0 0 )+ (        0 .0 0 /   2 .0 0 )     = 0 .6 2 9
+OV. BUCK (     3 8 .5 7 /                 1 S 6.09)+ (              0 .9 1 /  1 .6 0 )+ (        0 .0 0 /   1 .6 0 )     = 0 .8 0 3
+OV. BUCK (     --       /                  —         )+(            0 .9 1 /  1 ,2 9 )+ (        0 .0 0 /   1 .4 6 )     = 0.710
+      70 * 70® 8 EA                        X-X (         1-       2 ) CCMPACT
+SHEAR       (  —        /                  8 3 .1 6 )
+LOCAL       (  3 8 .5 7 /                2 9 2 ,79)+ (              0 .9 1 /  2 .6 2 )+ (        0 .0 0 /   2 .6 2 )     = 0.4 8 1
+OV. BUCK (     3 8 .5 7 /                2 1 6 .64)+(               0 .9 1 /  2 .0 9 )+ (        0 .0 0 /   2 .0 9 )     = 0.6 1 4
+OV .BUCK (     —        /                  —         )+(            0 .9 1 /  1-78)+ (           0 .0 0 /   2 .0 7 )     = 0.513
+      7 0 * 70® 10 EA                      X-X (         1-       2 ) PLASTIC
+SHEAR      (   —        /                 103.95)
+LOCAL      (   3 8 .5 7 /                3 5 9 .8 9 )+ (            0 .9 1 /  3 .2 1 )+ (        0 .0 0 /   3 .2 1 )     = 0.392
+OV. BUCK (     3 8 .5 7 /                2 6 5 .52)+(               0 .9 1 /  2 .5 7 )+ (        0 .0 0 /   2 .5 7 )     = 0.501
+CV. BUCK (     —        /                  —         )+(            0 .9 1 /  2 .2 5 )+ (        0 .0 0 /   2 .6 5 )     = 0.4 0 6
+      8 0 * 80® S EA                       X-X (         1-       2 ) SEMI -COMPACT
+SHEAR      (   —        /                  71 . 2 8 )
+LOCAL      (   3 8 .5 7 /                2 5 7 .0 5 )+ (            0 .9 1 /  2 .6 3 )+ (        0 .0 0 /   2 .6 3 )     = 0 .4 9 7
+OV. BUCK (     3 8 .5 7 /                2 0 4 .4 5 )+ (            0 .9 1 /  2 .1 1 )+ (        0 .0 0 /   2 .1 1 )     = 0 .6 2 2
+0V.3UCK (      —        /                            )+(            0 .9 1 /  1 .7 6 )+ (        0 .0 0 /   2 .0 3 )     = 0 .5 1 9
+      8 0 * 80® 8 EA                       X-X (         1-       2 ) SEMI -CCMPACT
+SHEAR      (   —        /                  9 5 .0 4 )
+LOCAL      (   3 8 .5 7 /                3 3 7 .35)+(              0 .9 1 /        3 .4 6 )+ (   0 .0 0 /   3 .4 6 )     = 0.378
+OV. BUCK (     3 8 .5 7 /                2 6 7 .3 9 )+ (           0 .9 1 /        2 .7 7 )+ (   0 .0 0 /   2 .. 7 7 )   = 0 .4 7 4
+OV.SUCK (      —        /                  —         )+(           0 .9 1 /        2 .4 2 )+ (   0 .0 0 /   2.8 4 )      = 0 .3 7 8
+
+/ - TCP GUSSET * /
+mmmrnmn
+MAX/MIN ENVELOPE VALUES
+
+ EFF LY                     E r r LX                E rF LB              MAX SR
+  0 . 100                    0 . 100                 0 .1 0 0           180.000
+
+ CO-EXG                     MOMENT                   SHEAR
+                             0 .000                  0 .0 0 0
+
+ MEMBER                     MOMENT                   AXIAL         COMB
+
+  2-        3                0 .4 1 9               28.341              1
+                             0 . 137                2 8.841             1
+                             0 .4 1 9               28.841              1
+                             0 .4 1 9               28.841              1
+
+  3-        =                0 .419                 24 .4 6 4           1
+                            -0 .3 3 6               24 .4 6 4           1
+                            -0 .3 3 6               24 .4 6 4
+                            -0 .8 3 6               24 .4 6 4           1
+
+  5-        6                 0 .2 6 8         -1 5 .6 3 3              1
+                            -0 .6 4 2          -1 5 .6 9 3              1
+                            - 0 . S4 2         -1 5 .6 9 3              1
+                            -0 .6 4 2          -1 5 .6 9 3              1
+
+  2-        6                 0.7 7 6          -1 9 .6 4 0              1
+                            -1 .0 4 4          -1 9 .6 4 0              1
+                            -1 .0 4 4          -1 9 .6 4 0              1
+                            - 1 .044           -1 9 .3 4 0              1
+SELECTED EA                  SIZ ES GRADE 4 3 STEE L
+MEM3E3S   2-                 3/   3-  5/  5-   6 / ~2-                        6/
+
+  _        S O ' 50®         a EA        X-X    (      3-        5 ) PLASTIC
+S"5Ak               :   r       ._/      59.40)
+LGM5 COMBINATION           1
+
+
+LCAO CASE                            1   2           3     4
+FGJCES ANO MOMENTS* 1.00 1.00 1.00 1.00
+DISPLACEMENTS             * 1-00
+
+
+DISPLACEMENTS                                                                                    LC    1
+ JT        X-OIRN                   Y-DIRN          2-ROTN
+  1 O.OOOOOOE+OO               .OOOOOOE+OO -0 .222718E-01
+  2 O.OOOOCOE+OO               .OOOOOOE+OO • 0 .673575E-02             -
+  3 O.OOOOOOE+OO               .OOOOOOE+OO -0 .472S03E"02
+  4 O.OOOOOOE+OO               .OOOOOOE+OO 0 .1220S3E-01
+  5 O.OOOOOOE+OO               .S25434E-02 0 .879901E-02
+
+MEMBER      1— >     2          (RL, THETA)=              2.300,      0.00 DEG)                  LC    1
+
+          X-CORD     Y-CORD RLX-DIST                       X-DIRN            Y-OIRN         LOCAL DEFLN
+          0 .0 0 0       0 .0 0 0        0 .0 0 0    O.OOOOOOE+OO      O.OOOOOOE+OO        O.OOOOOOE+OO
+O.OL
+          0.230          0.0 0 0         0.230       O.OOOOOOE+OO     -0.50SS50E-02       -0.50SS50E-02
+0. 1L                                                                                     -0.940924E-02
+0.2L      0.460          0.0 0 0         0.460       O.OOOOOOE+OO     -0.940924E-02
+          0.690          0.0 0 0         0.690       O.OOOOOOE+OO     -0.125128E-01       -0.125128E-01
+0 .3 L
+          0.920          0.0 0 0         0.920       O.OOOOOOE+OO     -0.140701E-01       -0.140701E-01
+0 .4 L
+                                         1.150       O.OOOOOOE+OO     -0.139825E-01       -0.139825E-01
+o.a.      1. 150         0.0 0 0
+                                                                                          -0.123596c-01
+O.SL      1.380          0 .000          1.380       O.OOOOOOE+OO     -0.123596c-01
+          1.610          0 .000          1.610        O.OOOOOOE+OO    -0.951935c-02       -0.95193SE-02
+0.7L                                                                                      -0.598815E-02'
+o.ai      1.840          0 .000          1.840        O.OOOOOOE+OO    -0.598815E-02
+                                         2.070        O.OOOOOOE+OO    -0.2500S9E-02       -0.2500S9E-02
+o.a.      2.070          0 .0 0 0
+                                                                       0.330S40E-17        0.330S40E-17
+t .OL     2.300          0 .0 0 0        2.300        O.OOOOOOE+OO
+
+M£>BER      2— >     3          (RL,,THETA)=               2.300,     0.00 DEG)                  LC    1
+
+           X-CORD        Y-CCRD RLX-DIST                     X-DIRN          Y-OIRN         LOCAL DEFLN
+            2.300        0 .0 0 0        0 .0 0 0     O.OOOOOOE+OO     O.OOOOOOE+OO        O.OOOOOOE+OO
+O.OL
+0 .1 L      2.530        0 .0 0 0        0.230        O.OOOOOOE+OO     0.570931E-03        0.570931E-03
+            2.760        0 .0 0 0        0.460        O.OOOOOOE+OO    -0.3107S4E-04       -0.3107S4E-04
+0 .2 L
+            2.990        0 .0 0 0        0.690        O.OOOOOOE+OO    -0.104913E-02       -0.104913E-02
+0 .2 L
+            3.220        0 .0 0 0        0.920        0 .OOOOOOE+OO   -0.193470E-02       -0.193470E-02
+0 .4 L
+                         0 .0 0 0        1.150        O.OOOOOOE+OO    -0.234759E-02       -0.234759E-02
+O .S L   . •'3.450                                                                        -0.215597E-02
+O .SL       3.680        0 .0 0 0        1.380        O.OOOOOOE+OO    -0.215597E-02
+            3.910        0 .0 0 0        1.610        O.OOOOOOE+OO    -0.143S36E-02       -0.14363SE-02
+o . tl
+            4.140        0 .000          1.840        O.OOOOOOE+OO    -0.473S24E-03       -0.473S24E-03
+O .S L
+0 .9 L      4.370        0 .000          2.070        O.OOOOOOE+OO     0.239020E-03        0.239020E-03
+            4.600        0 .0 0 0        2.300        O.OOOOOOE+OO     0.330S40E-17        0.330S40E-17
+ 1 .OL
+
+ICMBER      3— >     4           (RL ,THETA)s              2.300,     0.00 DEG)                  LC    1
+
+          X-CORD         Y-CORD RLX-OIST              X-CIRN                  Y-DIRN         LOCAL DEFLN
+O.OL       4.600          0 .0 0 0              O.COOOOOE+OO
+                                         0 .0 0 0                      O.OOOOOOE+OO        O.OOCOOOE+OO
+0.1L       4.830          0 .0 0 0       0.230 O.OOOCOOE+OO           -0.191S13E-Q2       -0.191S13E-02
+0.2L       5.060          0 .0 0 0       0.460 O.OOOOOOE+OO           -0.4S5331E-02       -0.4SS33IE-02
+           5.290          0 .0 0 0       0.690 O.OOOOOOE+OO           -0.737935E-02       -0.737935E-02
+0.3L                                                                                      -0.947042E-02
+0.4L       5.520          0 .0 0 0       0.920 0.OOOOOOE+OO           -0.947042E-02
+0.5L       5.750          0 .0 0 0       1. 150 O.OOOOOOE+OO          -0. 105110E-01      -0.105110E-01
+0. SL      5.980          0 .0 0 0       1.380 O.OOOOOOE+OO           -0.102941E-01       -0.102941E-01
+0.7L       6.210          O.OCO          1.610 O.OOOOOOE+OO           -0.882074E-02       -0.882074E-02
+0.3L       6.440          0 .000         1.840 O.OOOOOOE+OO           -0.S300S0E-02       -0.S300S0E-02
+O.SL       6.670          0.000          2.070 O.OOOOOOE+OO           -0.3151S0E-02        ■0.3151SGE-02
+           6.900          0 .000         2.300 O.OOOOOOE+OO            0.245397E-17         0.245397E-17
+1.0L
+ MEMBER     4— >     5              (RL ,THETA )=          0.650,     0.00 DEG)                   LC   1
+
+          X-CORD         Y-CORD RLX-DIST                     X-DIRN             y -oirn     LOCAL DEFLN
+ O.OL      6.900          0 .0 0 0        0 .0 0 0    O.OCOOOOE+OO         .OOOOOOE+OO     O.OOOOOOE+OO
+           6.965          0 .0 0 0        0.065       O.OOOOOOE+OO          760000E-03     0. 134565E-03
+ 0. 1L
+ C.2L      7.030          0 .0 0 0        0. 130      O.OOOOOOE+OO         .14SS17E-02     0. 215305E-03
+           7.095          0 .0 0 0        0. 195      O.OOOOOOE+OO         .2129S2E-02     0.253515E-03
+ G.3L
+ 0.4L      7. 160         0 .0 0 0        0.260       O.OOOOOOE+OO         .27S090E-02     0.2591S3E-03
+ O.SL      7.225          0 .0 0 0        0.325       O.OOOOOOE+OO         .33S30SE-02     0.240889E-03
+ 0. SL     7.290          0 .0 0 0        0.390       O.OOOOOOE+OO         .395851E-02     0 .20S001E-03
+ 0.7L      7.355          0 .000          0 •455      O.OOOOOOE+OO         .453852E-02     0. 1S0482E-03
+ 0.3L      7.420          0.000           0.520       0 .OOOOOOE+OO        .511246E-02     0.10898 1E-03
+ O.SL      7.485          0 .0 0 0        0.585       O.OOOOOOE+OO         .5S8373E-02     0.548230E-04
+  1.OL     7.550          0.000           0.650       O.OOOOOOE+OO         .S25434E-02     0.20SS50E-18
+
+ REACTIONS(LOAD FACTOR*1.0)                                                                       LC   1
+  \j *   X-FORCS     Y-FORCE                         Z-MOMENT
+     1     0 .0 0 0    4, 570                            0.000
+    2      0-000      12.833                             0.000
+     3     0-000      11. 916                            0.000
+    4      0-000       8. 432                            0.000
+ REACTIONS(FACTORED)
+  JT      X-FORCE                   Y-FORCE Z-MOMENT
+    1       0.000                     4.570       0.000
+   2        O.OCO                    12.333       O.COO
+   3        0-000                    11.316       0.000
+   4        0-000                     3.432       0.000
+ FCRCES AND MOMENTS
+                                                                                                           j          —    ’
+                                                       S O ‘CLs
+             4>               8 S i     J O            Vl£ o    O -
+                                                                                                                                        1- u 5 © e r a ' „ ;    *      v
+                                                                                                                                f.- • o / o        £2 % C < 5 o ;
+
+
+                                                                                                                                                                           £3iSv
+
+
+
+
+                                                                                                                                                                    /N fS-4-
+
+                                            Vte-w ^                   h&c-U*'lo.                 •
+                                            fa c t W i g X ^ o ^            '
+                                                                            pf^ch
+
+
+                                        - 0 ~ — ~ - — G )“ —                      -— § ■
+                                                                                                                                     A ...                                                                       Q    o ^ se ^       c o w        &   S
+
+
+                               2   .
+                                                                             OA         ■m
+                                                                                                         3 2
+                                                                                                         3                                                                                                      \y>                 G C C S& & -
+i7 @                                                                                    ”3)
+                                                                                                                                                                                                                       -k ?   b    a t^ r '^ & Y
+                                                                             *7 - 3 j        \       7         •   /* \
+■                                                                              O —                                 ( Lt)                                                                                  VXL.
+    I ' !|| I ill.- til I I            1_     i   .i
+     j&-y5^BR.                         12i4>A
+                                                                              3 fe 2 T ir
+
+                                                                                                     >    3S<^                                                                          B A ' & e A & Q        \%%.
+
+
+                                                                                                                                                                                                          iS x
+                                                                                                                                 je5r                                       . . . - H                                               I .«<cvul
+
+
+                                                                                                                                                     460
+                                                                                                                                                     (19')
+                                                                                                                                                                                                                       - //¥ \~ T
+                                                                                                                                                                                                                                                & ;& £    ■
+                                                                                                                                                                                                               ■ #     #      }                 <&4*)
+                                                                                                                                                               j2» K        - :r
+                                              ivU/le*y
+                                                                                                                                                               c ^ s v s s s ^     d    l   '*
+
+
+
+                     ,w c ^                                                                                                    2§L .                                                             2/L-     I-
+                                                                                                                                                                                                                  o 9 T
+                                                                                                                                                                                                                                  -^ 4
+
+                                                               (Dv • isD-                                                                                                          ;:^ -
+                                                                                                                                                                                            h'
+                                                                                                       BS 5950 : Part 1 : 1985
+                                                                                                       Section seven
+
+
+S ^ tio n           s e v e n . L o a d in g t e s t s
+
+
+
+
+7.1 General                                                           magnitude of such deflections should be estimated in
+                                                                      advance with generous allowances made for movement
+Testing may be undertaken when:                                       beyond the elastic range. It is important to ensure that the
+   (a) the design or construction is not entirely in accord­          loading system can follow the movements of the specimen
+   ance with sections one to six of this standard and use is          w ithout interruption or abnormal restraint. Load and
+   made of experimental verification as recommended                   deflection measurements should be controlled as closely as
+   in 2.1.2.5 (see tests (1) and (2) below);                          practicable.
+   (b) design load limits are to be established from a                In some situations it may be desirable to determine the
+   knowledge of the ultimate capacity of a com ponent or              magnitude of stresses in a specimen. This may be demon­
+   structure (see test (3) below);                                    strated qualitatively by means of brittle coatings or
+                                                                      quantitatively by measurements pf strain. Such information
+   (c) confirmation is required of the consistency of                 should be considered supplementary to the overall behaviour
+   production of components or structures originally                  as determined by deflections^
+   justified by test (see test (4) below);
+                                                                      Where te s t results are used to establish or confirm the
+   (d) the actual performance of an existing structure is to          behaviour of similar structures or components the properties
+   be established if its capacity is in question (see test (1)        of the steel used in the relevant items should be established
+   below).                                                            by coupon tests to validate comparisons between tests
+To meet these situations a basis is presented for four types          carried out on different specimens or at different times.
+of tests:                                                             Coupons should either be c u t from the same sections or
+   (1) an acceptance test for confirmation of general                 plates or else recovered from unyielded areas of the specimen
+   structural behaviour;                                              after test.
+    (2) a strength test against the required factored loads;      Loading should be applied in a number of regular increments
+                                                                  a t regular intervals in each phase. A t each increment the
+   (3) a test to determine the ultimate capacity and mode
+                                                                  specimen should be carefully examined for signs of rupture,
+   of failure;
+                                                                  yield or buckling. A running plot should be maintained of
+    (4) a check test to establish consistency of production.      loading against principal deflection. When this indicates
+Because circumstances and test facilities vary greatly,           significant non-linearity, load increments should bereduced.
+the test procedure should be agreed in advance by all             On the attainment of maximum load for either acceptance
+concerned.                                                        or strength tests, the load should be maintained for a t least
+These test procedures are intended for steel structures only.     1 hour with recordings of load and deflection being taken
+For structures of composite construction in steel and             at the beginning and end of this period to establish whether
+concrete reference should be made to BS 5950 : Part 3*            the specimen is subject to creep.
+and Part 4.                                                       Unloading should be completed in regular decrements with
+Structures qualifying for acceptance from loading tests           deflection readings taken at each stage.
+should be of robust and practical construction and
+reasonably insensitive to incidental loads.
+Testing of scale models or of items subject to fluctuating
+                                                                      7.3 Test procedures
+loads which could cause fatigue to become the design
+criterion is not covered by this section.
+                                                                  7.3.1 Test loads
+                                                                      The test load for an acceptance test should be actual dead
+12. Test conditions                                                   load present during test x 1.0 + remainder of the dead
+                                                                      load x 1.15 + imposed load x 1.25 but need not be taken as
+The design of the test rig should be such that the loading            more than the average of the factored and unfactored load.
+system adequately simulates the magnitude and distribution            The test load for a strength test should be based on the
+of the loading and allows the specimen to perform in a                factored load calculated in accordance with section two of
+manner representative of service conditions. The specimen             this standard with appropriate factors applied to dead,
+should be free to deflect under load and lateral and torsional        imposed and wind loads separately or in combination as
+restraints should be representative of those in service.              appropriate.
+Care should be taken to avoid inadvertent eccentricities at           It is im portant to recognize that the self weight of the
+the points of application of the test loads and at the                specimen may not be representative of the actual dead load
+supports.                                                             in service. Allowance for any difference should be made in
+Due attention should be paid to the safety of the test                the calculation of the test loads to be applied.
+arrangements particularly in ultimate tests. Failure of a test
+specimen should not lead to general instability of the test           7.3.2 Preliminary loading
+rig.                                                                  Prior to any test it may be advantageous to apply (and then
+Careful consideration should be given to the positions at             remove) preliminary bedding down loading not exceeding
+which deflections are to be measured. The anticipated                 the unfactored loads.
+
+* In preparation.
+
+
+                                                                 91
+ BS 5950 : Part 1 : 1985
+ Section seven
+
+                                                                                                                                           t.
+
+
+
+
+ 7.3.3 Acceptance test                                                   has been estimated it may be desirable to adjust its value in
+ This test is intended as a non-destructive test fo r confirming         the light of the specimen's behaviour.
+ structural performance.                                                 During a test to failure the loading should first be applied in
+ The assembly should prove capable of sustaining the test                increments up to the strength test load. Consideration of the
+ loading as given in 7.3.1. It should be recognized that such            principal deflection plot shouJd then determine subsequent
+ loading applied to certain structures may cause permanent               load increments.
+ local distortions. Such effects may not indicate structural             The ultimate test load is defined as th a t point at which the
+ failure in an acceptance test b ut the possibility o f their            specimen is unable to sustain any further increases in load~
+ occurrence should be agreed before testing.                             At this point gross permanent distortion is likely to have
+The assembly should demonstrate substantially linear                     occurred and in some cases gross deformation may define
+behaviour under test loading and on removal of the test                  the test limit.
+load the residual deflection should not exceed 20 % o f the              Provided th a t there is a ductile failure the design capacity
+maximum recorded. If these conditions are n o t m et the te s t          of a similar assembly may be determined from :
+should be repeated and the assembly should demonstrate
+                                                                            _ .         .     ■ /      design strength       \
+substantially linear behaviour under test loading and the                   Design capacity * K J           , . ,.---------- ) x
+residual deflection should not exceed 10 % o f the maximum                                          averaged yield strength/
+recorded.                                                                                     x ultimate test load
+Where this test is being used to relate to performance                   In the case of a sudden ('brittle') failure the averaged yield
+established in earlier tests, the deflections should be                  strength should be replaced by the averaged ultimate tensile
+measured at the same positions. The original maximum                     strength of the steel, o r by 1.2 times the averaged yield
+deflections should n o t be exceeded by m ore than 20                    strength in the case of a sudden buckling-type faiJure.
+                                                                         In cases where the failure has occurred due ta s tr u t or
+7.3.4 Strength test                                                      lateral torsional buckling the ratio may be calculated using
+The strength test is used to confirm the calculated capacity             the two values for the design strength on the appropriate
+of a structure or component. Where a number o f rtems are                curve for the 'design strength' and 'averaged yield strength'.
+to be constructed to a common design, and one o r more                   These values are to be taken at the slenderness ratio
+prototypes are tested to confirm their strength, the others              appropriate to the situation.
+may be accepted without further tests provided they are                  For a single test Kx should be taken as 0.9 unless the
+similar in all relevant respects to the prototype (see 7.3.6).           resulting capacity falls below the design capacity confirmed
+Before carrying o ut the strength test the specimen should               by the strength test, when the latter should be taken.
+first be submitted to and satisfy the acceptance test                    For two or more related tests K x may be taken as 1.0
+described in 7.3.3.                                                      provided that the lowest of the individual ultimate test
+The capacity of the assembly under test will be dependent                loads is used.
+on the material properties. The actual yield strength of the
+steel or steels in the assembly should be determined from                7.3.6 Check tests
+coupon tests. An averaged value should be taken from such                Where the assembly is designed on the basis of tests as
+tests having regard to the importance of each element in the             defined in 7.1 (a) or (b) and a production run is carried out
+assembly. The test load (including self weight) is given by:             of that assembly the following precautions should be
+   _           / averaged yield strength \                               observed.
+   Test load = ( ------ -—;------------- ------- )x factored load           (a) An appropriate number of samples (not less than two)
+               \       design strength           /
+                                                                            should be selected from each production batch at
+At this load there should be no failure by buckling or
+                                                                            random.
+rupture of any part of the specimen.
+                                                                            (b) The samples should be carefully examined to ensure
+On removal of the test load the deflection should be
+                                                                            they are similar in all respects to the prototype tested,
+reduced by at least 20 %.
+                                                                            particular attention being given to the following items:
+7.3.5 Test to failure                                                          (1) dimensions of components and connections;
+It is only from a test to failure that the real mode of failure                (2) tolerance and workmanship;
+and true capacity of a specimen can be determined. Where                       (3) quality of steel used, checked with reference to
+the item is not required for use it may be advantageous to                     mill certificates.
+secure this additional information after a strength test.
+                                                                           (c) Where it is not possible to determine either the
+Alternatively the objective may be to determine the true                   variations or the effect of variations from the prototype
+design capacity from the ultimate test capacity. In this                   an acceptance test should be carried out. The maximum
+situation it is still desirable to carry out the load cycling of           recorded deflection should not exceed 120 % of the
+the acceptance and strength tests. An estimate should be                   deflection recorded during the acceptance test on the
+made of the anticipated design capacity as a basis for such                prototype and the residual deflection should not be
+tests.
+                                                                           more than 105 % of th at recorded for the prototype.
+Before a test to failure the specimen should first satisfy the
+strength test described in 7.3.4. Where the design capacity
+
+                                                                    92
+        BS 449 : Part 2 : 1969                                                                                                                                                                   BS 449 ; Part 2 :1969
+
+                                                           APPENDICES                                        load, has been maintained Tor 24 hours. This information is required as a
+                                                                                                             of comparison in any check tests carried out on samples of the structures.
+                                                APPENDIX A. LOADING TESTS                                        When a structure of the same type is selected for a chcck test it shall be
+                                                                                                             subjected, in addition to its actual dead load, to a         imposed test load, equal
+                     The methods of testing structures of unconventional design referred to in               to 1 times the specified live load, in a manner and to an extent prescribed by
+                     Subclausc 9c of this standard shall be as follows:                                      the engineer carrying out the test. This load shall be maintained for 24 hours,
+                                                                                                             during which time the maximum deflection should be noted. The chcck test shall
+                     Acceptance tests.                                                                       be considered to be satisfactory, provided that the maximum strain or deflection
+                                                                                                             noted in the check test does not exceed by more than 20 per cent the maximum
+                         The structure or structural member under consideration shall be loaded
+                                                                                                             strain or dcflection shown at similar load in the test on the prototype.
+                     with its actual dead load for as long a time as possible before testing and the
+                                                                                                                 An actual structure which has satisfied test (ii), ‘ Strength test ’, and is subse­
+                     tests shall be conducted as follows;
+                                                                                                             quently to be erected for use, shall be considered satisfactory for occupancy
+                          (i) Stiffness test. In this test the structure or member shall be subjected, in    after it has been strengthened by replacing any distorted members, and has
+                      addition to its actual dead load, to a test load equal to 1 % times the apeoificd      subsequently satisfied test (i), ‘ Stiffness test
+                     •superimposed load, and this loading shall be maintained for 24 hours. The
+                                                                                                             NO T E . Method of testing. T h e m anner in which the loading is to b e applied a n d the positions
+                      maximum deflection attained during this test should not be excessive. If, after        a t which deflections o r strains are to be measured can only b e decided with reference to the
+                      removal of the test load, the member or structure docs not showa recovery of at        particular structure to be tested; b u t as a general guide the following ar e suggested:
+                      least 80 per cent of the maximum strain or deflection shown during the 24 hours            Beam s and girders. T h e deflection should be measured a t mid s p a n ; and if it is expectcd
+                                                                                                             th at considerable strain o r settlement m ay occ ur a t t he supports, the deflection o r settlement
+                      under load, the test shall be repeated. The structure shall be considered to have      at the su pp orts should also bo recorded.
+                      sufficient stiffness, provided that the recovery after this second test is not less         Cantilevers. The deflections a t the e nd o f th e cantilcvcr should be m eas ure d ; an d, under
+                    . than 90 per cent of the maximum increase in strain or deflection shown during          the conditions visualized ab ov e for the beam s, the deflections at th e su pp ort.
+                      the second test. Tfvs                      « bet>w\ ooefer- ih                              Stanchions. The lateral deflections a t the mid-height o f the stanchio n a n d at the head of
+                                                  v/lH-.   rJen iW . * £                          .y         the stanchi on should be mea su red relative to th e join t next below a nd to the base.
+                         (ii) Strength test. Tne structure shall be subjected, in addition to its actual     Loading
+                                                                                                                  (i) Vertical loading. U niform ly distributed loading on bea m s m ay b e represented by two
+                     dead load, to a test load equal to the sum of thedead load and twice the specified      loads, each h alf the total o f th e uniformly distributed load, applied a t the qu ar ter points.
+                     superimposed load, and this load shall be maintained for 24 hours; «Keept-that               (ii) H orizontal loading. W her e the effect o f horizontal forces o n the structu re as a whole
+/V.u '.masS-         foftiwdltiig-heases-ef-flet-fnera-thftn-twj-storeys-and-fer-single^torcy-schools—       has to b e tested, the action o f the cladding in applying the load to the frame should be t ak en
+                                                                                                             into account. T h e horizontal forces would in general be represented b y a limited n u m b e r o f
+                                                                                                             poin t loads.
+                                                                                                                  (iii) Dead load equivalent. It has been assumed th at the actual dead load is in place, bu t
+                         In the case of wind load, a load corresponding to twice the specified wind          whe n it is convenient to do th e test before the dead load is applied, a n equivalent can b e used,
+                     load shall be applied and maintained for 24 hours, either with or without the           placcd as described in (i). T h e deflection due to the dead load o r its equivalent shoul d not
+                                                                                                             be included in th e test measurements.
+                     vertical test load, according to which condition is the more severe in the member
+                     under consideration or the structure as a whole. Complete tests under both
+                     conditions may be necessary to verify the strength o f the structure. The structure
+                     shall be deemed to have adequate strength if during the test no part completely
+                     fails, and if on removal of the test load the structure shows a recovery o f at least
+                     20 per cent of the maximum deflection or strain shown during the 24 hours under
+                     load.
+                         Where several structures are to be built to the same design and it is con­
+                     sidered unnecessary to test all of them, one structure, as a prototype, shall be
+                     fully tested, as described in (i) and (ii), by a qualified engineer, but in addition,
+                     during the first application of the test load, particular note shall be taken of the
+                     strain or deflection when the test load, at 1M times the specified superimposed
+                                                                   98                                                                                         99
+                       L                  r.                -     I <■>>•>
+               y ’ ’' i r r      <-> ••   r.-
+

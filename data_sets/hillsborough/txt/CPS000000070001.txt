@@ -1,0 +1,954 @@
+ IN THE HIGH COURT OF JUSTICE                                          CO                199
+
+ QUEEN’S BENCH DIVISION
+
+ CROWN OFFICE LIST
+
+     IN THE MATTER OF A N APPLICATION FOR LEAVE TO APPLY FOR JUDICIAL
+                                  REVIEW
+
+BETWEEN:
+
+                                             THE QUEEN
+
+
+
+                                                  and
+
+
+
+                              D IR EC T O R OF PUBLIC PROSECUTIONS
+                                                                                  Respondent
+
+                                              EX-PARTE
+
+                                   DAVID GO DFREY DUC KEN FIELD
+                                                                                   Applicant
+
+
+
+
+                                  VARIOUS LAW C O M M ISSIO N AND
+                                   ROYAL COM M ISSIO N REPORTS
+
+
+
+
+                                                                                      Page
+1.        Extract from the Royal Commission o f Criminal Procedure - January           1-8
+           1981.
+
+2.        Extract from         the Law    Commission’s Consultation Paper   149       9-14
+           “Consents to Prosecution”.
+
+3.        Extracts from the Law Commission’s final report “Consents to               15-17
+           Prosecution” - October 1998.
+
+
+
+
+P:\24332\l \d0005.0P:\24332\l \d0005.0}
+   The Royal Commission on
+      Criminal Procedure
+
+          Chairman: Sir Cyril Philips
+
+
+
+
+                  R EPO R T
+
+Presented to Parliament by Com m and o f Her M ajesty
+                    January 1981
+
+
+
+
+                 LONDON: HM SO
+                     £19.00 net
+                                                        Cm nd 8092
+Chapter    7
+
+
+large urban areas) are reluctant to become involved at all in some kinds of
+prosecution for which they have no primary responsibility. Some agencies, for
+example the National Television Licence Record Office, work almost wholly
+without reference to the police and without wishing to involve them. Others
+investigate their own cases but pass them to the police for prosecution. And
+there are some, like the Department of Health and Social Security in its social
+security fraud work, which have inspectors without special powers and which
+work with the police to the extent that is possible. Indeed in its evidence to us
+the Departm ent has expressed concern lest the level of cooperation should
+diminish. And that is the sense of the evidence of other non-governmental
+bodies, such as the Royal Society for the Protection of Birds. The introduction
+of the Crown prosecutor will certainly affect these relationships and that will
+have to be kept in mind as changes are implemented.
+
+The private prosecutor
+   7.46. Apart from those retail stores that have to prosecute because of the
+policy of a particular police force, prosecutions by private citizens are, as a
+significant phenomenon, confined to prosecutions for common assault.1 Even
+private prosecutions for the latter offence may well owe their relative frequency
+(but they form a tiny proportion of all prosecutions) to the way in which the
+offence is treated by the Offences against the Person Act 1861. The Act makes
+it an essentially private wrong; any proceedings have to be brought by or on
+behalf of the aggrieved person and any person who is prosecuted is thereby
+released from the threat of civil proceedings.2 The Criminal Law Revision
+Committee has recommended the repeal of these provisions.3 We accept the
+case for bringing this offence under the purview of the police and into the
+prosecution arrangements which we propose. As far as prosecutions by retail
+stores for shop-lifting are concerned, we recommend that this practice should
+cease and that the police should start proceedings in such cases and the Crown
+prosecutor should conduct the prosecutions. Police forces have not found it
+easy to achieve consistency in the treatm ent of shop-lifters, who may be elderly
+and with medical and personal histories justifying non-prosecution. Since a
+greater degree of consistency in the use of prosecution in these cases is
+desirable, it is, in our view, inappropriate to permit or to expect private
+organisations routinely to be exercising the responsibility for the decision to
+prosecute.
+   7.47. Prosecutions by private citizens other than in these cases are very rare
+indeed and scarcely seem a sufficient base to justify the position of the great
+majority of our witnesses who argue in one way or another that the private
+prosecution is one of the fundamental rights of the citizen in this country and
+that it is the ultimate safeguard for the citizen against inaction on the part of
+the authorities.
+   7.48. This right, upon which as we have noted the whole prosecution system
+is in theory built, is in fact subject to a num ber of constraints for the private
+’See the Law and Procedure Volume, paras 169 ff, and Lidstone, Hogg and Sutcliffe, op. cit.,
+  chapter 5.
+’See the Law and Procedure Volume, paras 172 and 173.
+’Fourteenth Report of the Criminal Law Revision Com m ittee Offences against the Person. London
+  H M S O 1980 Cmnd 7844. paras 158 to 166.
+                                        The C om m ission's proposed prosecution system
+
+citizen. First in well over ] 00 Acts of Parliament the right to prosecute is
+subject to the consent of a Minister, usually the Attorney General, an official,
+the Director of Public Prosecutions, or a judge.1 The second, more important,
+constraint on the private prosecutor is the cost. Legal aid is not available to
+begin a criminal prosecution. In indictable cases the prosecutor may at the
+discretion of the court be awarded his costs out of central funds a t the
+conclusion of the case whether or not there was a conviction. In summary
+matters this does not apply and he can only be awarded costs to be paid by the
+defendant, and then only if the prosecution succeeded. If the defendant is
+acquitted, in all cases the court has the power to order that the defence costs
+shall be paid by the prosecution, and he might have to find both his own legal
+expenses and those of the person he has prosecuted. Certain technical
+considerations about the right of audience at the Crown Court also restrict the
+right as does the need for the prosecutor to have the necessary legal and
+procedural knowledge. As Lidstone and his colleagues observe,
+        “ These constraints combine to put formidable obstacles in the way of a
+        private prosecutor, and they make the right of private prosecution one
+        that is hardly exercised in practice.” 2
+
+   7.49. They do not, however, preclude a person maliciously and vexatiously
+applying to a magistrates' court for the issue of a summons or warrant of
+arrest which effectively is the start of proceedings, even though the complainant
+does not intend or will be unable to take the matter further than that. We have
+received evidence of this occurring, and, where a magistrate, perhaps properly
+on the evidence before him, accedes to the application, the harm caused to the
+person accused can be substantial.
+
+   7.50. If then the private prosecution is to be retained as an effective
+safeguard against improper inaction by the prosecuting authority, the financial
+difficulty must be removed. At the same time the risk of malicious, vexatious
+and utterly unreasonable prosecutions must be guarded against. Nevertheless,
+the application of the criminal law is of its nature only appropriate where the
+community’s interests arc at risk. Criminal sanctions arc imposed for the
+benefit of society as a whole, on its behalf and at its expense. We do not think
+that private citizens should have an unlimited right of access to the criminal
+process to remedy wrongs for which other measures might be more appropriate.
+But where criminal proceedings should be taken, then they should be paid for
+out of public funds. We therefore recommend that if a private citizen wishes to
+initiate a prosecution he should apply in the first instance to the Crown
+prosecutor. If the latter is satisfied about the case, applying the same criteria
+as he would apply for any other prosecution, he should take the case on. If he
+is not and the private citizen, after explanation, still wishes to proceed, the
+latter should be able to make an application for leave to commence proceedings
+to a magistrates' court, that is to at least two justices, attended by a clerk.
+  7.51. The Crown prosecutor should attend the hearing of the application,
+which should be held in private, to explain why he considers the matter should
+no: be prosecuted. We have considered whether, if leave v-cre granted, the
+’See the L a * e nd Procedur e Vol ume, para 159.
+2Op cii., p i l l
+
+                                                161
+
+
+
+                                                                                          3
+Chapter   7
+
+
+Crown prosecutor should be obliged to undertake the case. But we do not
+consider it sensible to require a lawyer to conduct a case he has already
+rejected. We think it preferable to permit the private prosecutor to employ his
+own solicitor for the purpose and to guarantee that he will be paid. W here
+leave has been given, this should automatically carry with it a right for the
+prosecutor’s reasonable costs to be paid out of central funds. This will serve to
+remove the financial obstacle to private prosecution, but will also remind the
+court that leave should be given only for prosecutions which it is proper to
+finance out of public funds.
+The role of central Departments
+  7.52. We have already said that there will be a measure of national control
+and machinery for accountability to central Government in the locally based
+system which we propose. These are necessary for three purposes: first, in
+order to develop consistent prosecution policies and to minimise arbitrary
+variations in decisions between different areas; secondly, to achieve uniform
+and acceptable standards of efficiency and service; and thirdly, to provide a
+measure of accountability to Parliament in relation to general policies.
+Development o f consistent prosecution policies
+   7.53. The present position is that there is a limited degree of influence
+exercised by the Attorney General (and the Director of Public Prosecutions)
+through their responsibilities for the conduct of and provision of advice in
+certain prosecutions, and also by the Home Secretary through his general
+responsibility for the police.
+The roles o f the Attorney General and the Director o f Public Prosecutions
+   7.54. The Director currently has responsibilities under the Prosecution of
+Offences Regulations 1979 for making the decision to prosecute in a limited
+range of cases and for advising the police on that decision in the cases which
+they refer to him and for consenting to prosecutions in a range of other cases
+as required by individual statutes. He may also intervene in any case to take
+over the prosecution. The Attorney’s role both in consenting to prosecutions
+and in entering the plea of nolle prosequi to discontinue a trial on indictment
+is more limited. Many of these powers have a long history but the statutory
+consent provisions have often been arbitrarily imposed. The Director’s central
+role derives from the nineteenth century attem pt to bring some order to public
+prosecutions of major offences. The main general criticism of these arrange­
+ments that we have had in our evidence is the delay in handling cases by the
+Director’s office, which is attributed to lack of resources to meet the substantial
+pressure of work.
+    7.55. We would not propose remedying this by an infusion of new resources
+ into the Director’s office. We consider that the service we propose will, in time,
+ remove the need for the Director to be brought in by local prosecutors to
+ decide or advise on prosecutions to anything like the extent that he is required
+ to do now, and will thus reduce the pressure upon him and the delay in
+ consultation. For the time being he will have a key part to play in developing
+ the proposed new service, in conjunction, no doubt, with a reshaped and
+ renamed Prosecuting Solicitors’ Society. W;hile new Crown prosecutors’
+                                                                                   Bringing a case to trial
+
+their being told whether they are in fact going to be prosecuted,1 and also of
+saving resources, since at present, we believe, much police and court time is
+taken up with ensuring that notice of summons in respect of such offences has
+been properly served. It would also add to the flexibility of the police response
+to offences on the street. However there are practical difficulties that would
+have to be overcome; for example, adequate police supervision would have to
+be arranged, consideration would need to be given to how cautioning practice
+would be affected and arrangements would have to be made for liaison between
+the police and courts over listing of cases. We consider that, especially in the
+light of our proposal for the accusation, the possible benefits of such a
+procedure merit its being introduced more widely on an experimental basis to
+test its general feasibility.
+
+The criteria for prosecution
+   8.6. The present procedures for the commencement of proceedings were,
+presumably, developed to enable the court to apply appropriate criteria for
+allowing a prosecution to be launched. As we have recognised, this check is
+now almost alw-ays a formality. In the written submissions made to us we
+received substantial comment upon what the criteria for prosecution should be
+and in our discussion of the present arrangements for prosecution in chapter 6
+we observed that one of the standards of fairness by which a prosecution
+system should be judged is whether prosecutions are brought only in those
+cases where these criteria are met.2 This raises issues of great political and
+social importance; it reflects the interplay between the law enforcement
+agencies, prosecutors, the courts and society at large in ever-changing
+circumstances; there can perhaps be no absolute answers. A statutory
+prosecution service will promote a greater measure of openness and account­
+ability and will stimulate, and provide the forum for, the development of
+agreed and consistent criteria for the exercise of the discretion to prosecute.
+We therefore offer some comments upon what these criteria should cover.
+
+   8.7. It has long been accepted that not all incidents thought to have involved
+breaches of the law can or indeed should be visited with prosecution. At the
+minimum, prosecution should follow only if it is thought that an offence known
+to the law has been committed. However repugnant or anti-social a person’s
+behaviour, a prosecution should not be launched unless he has committed an
+offence under the law. There must also be evidence to support the accusation;
+in the absence of such evidence a person should not be accused of an offence
+and brought before a court simply to allay public disquiet or to satisfy public
+demand or prejudice. The English system permits arrest and investigation
+when there is suspicion but not necessarily evidence in the full legal sense. Our
+proposals for the institution of proceedings, and the criteria for exercise of
+coercive powers such as arrest, do not affect this. The decision to prosecute,
+however, is in practice a series of decisions from the initial arrest (or report of
+an incident for consideration of prosecution) up until the trial. The further
+down the path towards prosecution a case has travelled the more important it
+becomes that whoever takes the decision to continue proceedings should satisfy
+ See G e m m i l l and M o r g a n -G il e s , op.   c h .,   Tab le 3:12, p 2 y
+!Sec paras 6 . 9-6 .1 1.
+  Chapter 8
+
+ himself that there is evidence by which the offence could, if necessary, be
+ proved. This is particularly important in the English system of criminal justice
+ which allows accused persons by pleading guilty to waive their right to have
+ evidence produced against them.”
+      5.8. There are at present differing views among prosecutors as to what
+  constitutes enough evidence to justify a prosecution. The minimum standard
+  (which all seem to agree is a necessary, although some do not consider it a
+  sufficient, test) is often referred to as the existence of a p rim a fa c ie case: that
+  is, evidence upon the basis of which, if it were accepted, a reasonable jury or
+ magistrates court would be justified in convicting the accused of the offence
+ alleged. The Director of Public Prosecutions is one of those who consider the
+  existence of a prim a fa cie case a necessary but not sufficient condition for
+  prosecution. In cases where his Department is involved, the Director has told
+ us that the test used is whether or not there is a reasonable prospect of
+ conviction; in other words, whether it seems more likely that there will be a
+ conviction than an acquittal.1 This test requires the prosecutor, in reaching his
+ decision, to go beyond consideration of whether there exists a p rim a fa c ie case
+ and to consider whether the evidence that comprises it is, in fact, likely to be
+ accepted. To do this he needs to assess all the available information, including
+ any explanation or further information forthcoming from the prospective
+ defendant. To this end it may be advantageous to the defendant or his legal
+ adviser to disclose as much as possible to the prosecutor. This may sometimes
+ result in the preferring of less serious charges or the abandonment of the
+ prosecution.
+
+    8.9. There is an underlying rationale in the application of this standard
+ which, in our view, justifies its adoption as the minimum requirement for
+ prosecution in any case. Someone should not be put on trial if it can be
+ predicted, with some confidence, that he is more likely than not to be acquitted,
+since it is both unfair to the accused and a waste of the restricted resources of
+the criminal justice system. It does not follow that no case where the prosecutor
+has doubts about its strength should be prosecuted. We accept, as was often
+put to, us, that in such doubtful cases the prosecutor should “ let the court
+decide , and in many instances the prosecutor does not know until the actual
+trial shows it that there was a doubt about the strength of his case. But those
+where it is apparent to the prosecutor, that is the police a t their stage in the
+process or the Crown prosecutor at his, that there is no reasonable prospect of
+conviction can hardly be described as doubtful. In such cases the prosecutor
+should take responsibility for deciding not to prosecute, as the Director does
+now.2 W e therefore suggest that the prosecutor should have to satisfy himself
+that there is a reasonable prospect of conviction before going ahead with a
+prosecution. The test applied to the Director’s cases should be extended to all
+cases, and applied by all who make the decisions that bring a case to court.
+   8.10. The Director also told us that he takes into account factors other than
+the nature of the evidence and whether there is a reasonable prospect of
+conviction.3 The factors which properly can be taken into account are difficult
+'See the Law an d Procedure Volume, Appendix 25.
+'/bid.
+                                                         ■Bringing a case to trial
+
+to enumerate exhaustively, but some commonly accepted ones have emerged
+from the evidence submitted to us by the police service, the Director, and other
+prosecuting agencies. Among these are the staleness of the offence, the youth
+or age of the offender, and any mental illness or stress affecting the offender.
+It is also sometimes proper to take into consideration the attitude of the victim
+and the relationship of the victim to the offender. But there are undoubtedly
+other factors which may indicate that no useful purpose would be served by
+instituting a prosecution. These cannot be comprehensively listed; they depend
+to some extent on the circumstances of individual cases. We consider, however,
+that an attem pt must be m ade under the auspices of the Director of Public
+Prosecutions to develop and promulgate throughout the police and prosecution
+services criteria for the exercise of the discretion to prosecute.
+
+   8.11. Within that framework it will always be possible that a prosecutor
+will be subjected to criticism over the way he has exercised his discretion. But
+the possibility of criticism cannot be a justification for starting a prosecution
+against any individual if the criteria are not met. It must also be recognised
+that the impartial administration of the criminal law does not mean that every
+offender will or should be prosecuted. The decision to prosecute or to
+discontinue proceedings must be seen for what it is, a decision on whether
+prosecution is justified, on the basis of the evidence, and, as appropriate, taking
+into account the sort of factors outlined in the previous paragraph. N o r can
+the process of prosecution be used primarily to determine what occurred during
+incidents of serious disorder or to allay public disquiet. It may be that some
+other means of doing this needs to be found, but that is not for us to determine.
+We confine ourselves to the observation that if there is such a gap in our
+present arrangements for ascertaining and bringing to light the circumstances
+of incidents that give rise to public concern, those who wish to see it filled
+should not look to the decision on or the process of prosecution to do it.
+
+Disclosure
+   8.12. The term disclosure refers to the cxchnngc of information between the
+parties before trial. That information can include names of witnesses, other
+material which may be evidence relevant to the offence, and information on
+the line of attack or defence which it is intended to pursue at trial. The
+standards that we have been applying throughout our discussion of pre-trial
+procedures apply equally to this aspect of preparing the case for trial. Openness
+is essential if the system is to work fairly for the accused. There are a num ber
+of critical decisions he has to make before the case comes to trial and he can
+make them properly only if he is fully informed; the decision whether to plead
+guilty or not guilty is only the most obvious of these. Similarly those decisions
+and disclosure of certain information by the defence (an alibi, for example)
+can affect the way the prosecution prepare their case and the resources they
+devote to it. The prior disclosure of matters that could take up time at trial can
+be of great importance in securing the efficient use of the resources of the
+police, prosecutors and the courts. Accordingly it is our view that provision
+should be made for the fullest disclosure possible, but any arrangements for
+disclosure must be consistent with the overriding features of the accusatorial
+  Chapter 9
+
+      • . n the light of our proposals for a statutorily based prosecution service
+ '! e avc            in chapter 8 the means by which prosecutions are started.
+ t e means for ensuring that only adequately prepared cases for which
+ prosecution is justified come to trial and the procedures governing their
+ preparation.                                                             6
+
+    9.9. We see no case for retention of the present different procedures f o r
+ starting prosecutions (by charge or summons). We recommend a single
+ procedure, called an accusation, which should not require the consent of the
+ magistrates in cases initiated by the police or other official prosecutors (8.4).
+    9.10. There should be agreed and consistent criteria f o r the exercise o f the
+ discretion to prosecute. The criteria cannot be exhaustively enumerated; they
+ must take account of varying circumstances. We would recommend the
+ adoption for aH prosecutions of the test at present applied by the Director of
+ Public Prosecutions. The prosecutor should have to satisfy himself that there is
+ a reasonable prospect of conviction before going ahead with the prosecution:
+ the cxibtencc of a prim a fa cie case would not of itself be sufficient (8.9-10).
+   9.11 We endorse the principle now established in statute that the require­
+ ment for disclosure by the prosecution should also apply to cases tried in the
+m a8T CT f ‘ 0 U m ’ 3nd recornrnend a framework for facilitating such disclo­
+sure (8.14-17). At the Crown Court, disclosure of material additional to that
+at present required should be the responsibility of the prosecutor. Subject to a
+discretion to withhold sensitive materia], he should be under a duty to copy or
+make available statements or documents having some bearing on the offences
+charged or the surrounding circumstances of the case (8.19). We rule out any
+formal requirement of general disclosure by the defence, on grounds both of
+principle and of practicability (8.20), but recommend the extension of the
+provisions relating to the notification of alibi to certain other defences (8.22).
+    9.12. T h &f o r m a l com m ittal of cases for trial seems to us unnecessary. But
+some procedure is required where there will be delay in bringing a case to trial
+in which the defendant wishes to challenge the justification for prosecution.
+ I hat applies as much to cases tried in magistrates’ courts as in the Crown
+Court. A new procedure should be devised to enable the defendant, whether
+represented or not, to make a submission to the magistrates of no case to
+answer in all either way or indictable cases, if the delay before trial will exceed
+a specified period, which might be set at eight weeks (8.28-30).
+
+  9.13. Other ways of improving the procedures for preparing a case for trial
+were put to us in evidence, but for the various reasons given in the body of the
+report we have not considered these in any detail. It would, in our view, be
+more sensible to allow the new arrangements for prosecution to settle down
+before any further wide examination of these other matters is undertaken.
+  !Yl.pUi l
+                                                                                                 tdUC I 01 _
+
+
+
+
+              Home     J ^ L ib ia iy
+      «
+
+
+
+                                                  The Law
+                                                  Commission
+                                                   Working for Better Law
+
+
+
+                     CRIMINAL LAW: CONSENTS
+                     TO PROSECUTION
+                     CONSULTATION PAPER NO 149
+
+
+                     Comments on this Consultation Paper are invited until 31 December
+                     1997. They can be sent to:
+
+                     Ms C Salmon, Law Commission, Conquest House. 37-38 John Street
+                     Theobalds Road, London W C IN 2BQ
+
+                     Tel: 0171 453 1232
+
+                     Fax: 0171 453 1297
+
+                     E-mail: com m on.lawcom m ^gtnet.gov.uk
+
+
+
+                     CONTENTS
+
+                     PART I: INTRODUCTION
+
+                                    The need for review                               12
+                                    The objective o f this project                    hi
+                                    Our approach                                      1 .1 2 -
+                                                                                      1.16
+                                    Provisional conclusions                           1.17
+                     PART II: THE PROSECUTION PROCESS, PRIVATE
+                     PROSECUTIONS AND MECHANISMS FOR
+                     CONTROLLING THEM
+
+                                   Commencing proceedings                             23
+                                   The Crown Prosecution Service                      2-7
+                                   Other public bodies                                2.26
+                                   Private prosecutions                               2.28
+
+
+
+http: w w v .g t n e t .g o v . u k 'l aw com m 'library 1ccpl4 9 coir.cms.htm                    2 '26 1
+Report / Consultation Paper                                                                    Page 2 ol 16
+
+
+
+
+                             (e) finally, we attempt to identify the sorts o f
+                             offences the prosecution o f which would be
+                             most likely to give rise to the harm identified
+                             and which would, therefore, most appropriately
+                             include a consent provision.
+
+               THE FUNDAMENTAL PRINCIPLE
+               6.3 Lord Simon o f Glaisdale spoke o f the constitutional principle
+               underlying the right to private prosecution as the "principle o f individual
+               liberty based on the rule o f law". {3} And in the House o f Lords case o f
+               Gouriet , (4) both Lord Diplock and Lord Wilberforce emphasised that,
+               although resort was rarely had to instituting a private prosecution, the
+               right to bring a private prosecution provided a constitutional safeguard
+               against "capricious, corrupt or biased failure or refusal" (5) by the
+               authorities to prosecute, and "inertia or partiality on the part o f the
+               authority". (6)
+
+               6.4 We respectfully agree. Indeed, we expressed a similar view in our
+               recent report on involuntary manslaughter, (7) in which we said o f that
+               right that it was "an important one which should not be lightly set aside".
+               (8) We acknowledge that the right o f private prosecution cannot be easily
+               exercised: it can prove expensive, and private individuals do not have the
+               expertise or resources which are available to the police and CPS.
+               However, for some members o f our society those, for example, who have
+               doubts about the impartiality o f the prosecuting authorities, or who
+               believe that an official prosecutor has misjudged the evidence in a case
+               the right o f private prosecution provides an important safeguard against
+               abuse. We therefore begin our consideration o f the principles underlying
+               a reformed consent regime by setting out this "fundamental principle":
+               that the right o f private prosecution should be unrestricted unless some
+               very good reason to the contrary exists.
+
+               THE HARM CAUSED BY AN
+               UNFETTERED RIGHT OF PRIVATE
+               PROSECUTION
+               6.5 Arguably, the proper objective o f a prosecution system is to
+               prosecute all those who have committed a crime and to avoid prosecuting
+               those who have not. This formulation, however, makes no allowance for
+               the fact that the outcome o f a trial is very uncertain and that it is wholly
+               unrealistic to expect proceedings to be instituted only in those cases in
+               which there is a guaranteed prospect o f conviction and no risk o f
+               acquittal. It also fails to take into account the fact that there are
+               circumstances in which, despite the strength o f evidence against a
+               defendant, it might not be in the public interest for that defendant to be
+               prosecuted.
+
+               6.6 The Code for Crown Prosecutors, (9) on the other hand, takes into
+               account both these matters: the evidential sufficiency test (requiring there
+               to be a "realistic prospect o f conviction" if the case is to continue) marks
+               what might be regarded as the acceptable risk o f acquittal and the public
+               interest test provides the prosecutor with a discretion not to continue a
+               prosecution despite evidential sufficiency.
+
+                6.7 The private prosecutor is not bound by the Code for Crown                                 10
+
+hup:'7\v\vw.gtnet. g o v . u k ’law comm 'library 'lccp 149.pt6.htm                                2/20
+Report / Consultation Paper                                                                      Page 3 o f 16
+
+
+
+               Prosecutors. Indeed, he or she is likely to institute proceedings in the
+               very cases which fail the Code tests: the difficulty in bringing a private
+               prosecution is such that if a case were to pass the Code tests but the CPS,
+               nonetheless, refused to prosecute it, a preferable course would be to
+               apply for judicial review o f the CPS decision. (10) If this is the case,
+               then, depending on which o f the Code tests is failed, either or both o f the
+               following kinds o f harm are likely to result from a private prosecution:
+
+                      (1) the harm that results from an unsuccessful prosecution;
+
+                      (2) the harm that results from any prosecution (successful or
+                      not) which is not in the public interest.
+
+               6.8 But the interplay between public and private interests is more
+               complex than this suggests. It is clear from the Code that some o f the
+               factors relevant to the "public interest" test relate to the harm that a
+               prosecution would do to the private interests o f the various individuals
+               involved. For example, one reason for not prosecuting is that the
+               defendant is ’’suffering from significant mental or physical ill health,
+               unless the offence is serious or there is a real possibility that it may be
+               repeated". (11)
+
+               6.9 Another factor is the effect that a prosecution would be likely to have
+               on the physical or mental health o f the victim . (12)
+
+               The Crown Prosecution Service acts in the public interest, not just in the
+               interests o f any one individual. But Crown Prosecutors must always
+               think very carefully about the interests o f the victim, which are an
+               important factor, when deciding where the public interest lies. (13)
+
+               Thus the "public interest" includes the private interests o f the victim. It
+               also includes the private interest o f the defendant (and his or her
+               family) in not being subjected to the mental anguish, damaged
+               reputation, disruption to career and financial costs (direct or indirect) o f a
+               prosecution. The greater the likely harm to the individuals involved, the
+               less likely it is that the public interest w ill require a prosecution.
+
+               6.10 Similarly, an unsuccessful prosecution can damage both private
+               and public interests. An unsuccessful prosecution is obviously likely to
+               do less harm to the interests o f the defendant, and his or her family, than
+               a successful one; but even for a defendant who is innocent, and is
+               eventually acquitted, the harm done by a prosecution can be
+               considerable.
+
+               6.11 In addition, all prosecutions involve public costs, such as those o f
+               running the courts; The more likely a prosecution is to result in an
+               acquittal, the harder it is to justify incurring those costs. On the other
+               hand a private prosecution which is unsuccessful, and which is
+               therefore less likely to result in an award o f costs to the prosecutor, (14)
+               may for this reason involve less cost to the public purse than an
+               unsuccessful prosecution brought by the CPS.
+
+               6.12 We conclude that the object o f the two Code tests is to avoid
+               various kinds o f harm, both public and private, which might result from a
+               prosecution, by ensuring that a case is not prosecuted if the risk o f such
+               harm outweighs the general public interest in prosecuting those who
+               appear to be guilty o f crime. Where that is the case, any prosecution
+               must logically be undesirable. This conclusion is, on the face o f it,
+               directly contrary to our fundamental principle that the right o f private
+
+
+
+hup:/.'w\vw.gtnei.gov.uk/la\vcoinrn lib ra ry I c c p l 49.pt6.htm                                    2/26.'^S
+                  prosecution should be unrestricted: i f there is an unacceptable risk o f
+                  harm in bringing a prosecution in any circumstance which fails to satisfy
+                  the Code tests, and if it is to be assumed that the CPS w ill continue
+                  proceedings in any case which satisfies the tests, then it would seem to
+                  follow that there should be no right o f private prosecution at all.
+
+                   6.13 We take the view, however, that this line o f reasoning places too
+                   much reliance on the Code tests: (15) there is always a risk that an
+                   individual Crown Prosecutor w ill either misapply the Code or more
+                   likely, given the width o f the Code tests apply a personal interpretation
+                   to the tests which, although not wrong, might differ from that o f other
+                  prosecutors. (16) More fundamentally, the Code itself may, in the eyes o f
+                   some, fail to achieve a proper balance between the rights o f the
+                  defendant and the interests o f the community. We appreciate that in cases
+                  where the failure lies not in the Code itself but in its misapplication,
+                  judicial review (17) is the more obvious remedy. Nonetheless, the rarity
+                  with which a right is exercised does not dimmish the significance o f
+                  protecting that right.
+
+                 6.14 Furthermore, that line o f reasoning assumes that the Code tests are
+                 appropriate for all prosecutions, public and private. It assumes that i f it
+                 is wrong to bring a public prosecution then it is also wrong to bring a
+                 private prosecution. We agree that this assumption is likely to be right if
+                 a case is refused or discontinued by the CPS on the grounds o f public
+                 interest: it is difficult to imagine why a prosecution which is private
+                 should not be prejudicial to the public interest when it would be if it were
+                 public.
+
+                  6.15 On the other hand, if, for example, a case is turned down by the
+                  CPS because it fails the evidential sufficiency test, but only just; if the
+                 private prosecutor knows that the defendant is guilty (because, say, he or
+                  she was the victim and can identify the offender); and if the case is a
+                  serious one, then a private prosecution might be thought desirable. The
+                 Philips Commission favoured an evidential sufficiency test along the
+                 lines o f the Code test (18) because they thought a less demanding one
+                 would be "both unfair to the accused and a waste o f the restricted
+                 resources o f the criminal justice system". {19} The evidential sufficiency
+                 test does, indeed, provide a threshold to enable the CPS to carry out its
+                 role as "a filter for evidentially weak cases"; (20) and it properly takes
+                 into account fairness to the defendant. However, where a defendant is
+                 guilty, there is arguably, in principle, no moral unfairness in bringing a
+                 private prosecution against him or her. (21} As for the risk o f court and
+                 other legal resources being wasted, whilst it is true that limited resources
+                 will be used at the expense o f other pending cases, it may be argued that
+                 bringing a guilty defendant to trial is a good use for those resources even
+                 if he o r she is acquitted , so long as the evidence against the defendant,
+                 whilst not meeting the Code test o f evidential sufficiency, is reasonably
+                 substantial. (22)
+
+                6.16 W e provisionally conclude that the harm which might result
+                from an unfettered right o f private prosecution will be either or both
+                o f the following:
+
+                #1(1) the harm that results from an unsuccessful prosecution o f an
+                innocent defendant,
+
+         #1(2) the harm (whether to any individual involved in the criminal process or
+         the public interest in the strict sense) that results from any prosecution
+         (successful or not) which is not in the public interest.
+
+
+
+http:// \v \v w .g tn e t.g o v .u k luwconun'library lccp]-19 pt6.htm                          2 2 o ’9X
+Report / Consultation Paper                                                                  Page 4 o f ] 6
+
+
+
+               prosecution should be unrestricted: if there is an unacceptable risk o f
+               harm in bringing a prosecution in any circumstance which fails to satisfy
+               the Code tests, and i f it is to be assumed that the CPS will continue
+               proceedings in any case which satisfies the tests, then it would seem to
+               follow that there should be no right o f private prosecution at all.
+
+               6.13 We take the view, however, that this line o f reasoning places too
+               much reliance on the Code tests: (15) there is always a risk that an
+               individual Crown Prosecutor will either misapply the Code or more
+               likely, given the width o f the Code tests apply a personal interpretation
+              to the tests which, although not wrong, might differ from that o f other
+              prosecutors. (16) More fundamentally, the Code itself may, in the eyes o f
+               some, fail to achieve a proper balance between the rights o f the
+              defendant and the interests o f the community. We appreciate that in cases
+              where the failure lies not in the Code itself but in its misapplication,
+              judicial review (17) is the more obvious remedy. Nonetheless, the rarity
+              with which a right is exercised does not diminish the significance o f
+              protecting that right.
+
+              6.14 Furthermore, that line o f reasoning assumes that the Code tests are
+              appropriate for all prosecutions, public and private. It assumes that if it
+              is wrong to bring a public prosecution then it is also wrong to bring a
+              private prosecution. We agree that this assumption is likely to be right if
+              a case is refused or discontinued by the CPS on the grounds o f public
+              interest: it is difficult to imagine why a prosecution which is private
+              should not be prejudicial to the public interest when it would be if it were
+              public.
+
+              6.15 On the other hand, if, for example, a case is turned down by the
+              CPS because it fails the evidential sufficiency test, but only just; i f the
+              private prosecutor knows that the defendant is guilty (because, say, he or
+              she was the victim and can identify the offender); and if the case is a
+              serious one, then a private prosecution might be thought desirable. The
+              Philips Commission favoured an evidential sufficiency test along the
+              lines o f the Code test (18) because they thought a less demanding one
+              would be "both unfair to the accused and a waste o f the restricted
+              resources o f the criminal justice system". (19) The evidential sufficiency
+              test does, indeed, provide a threshold to enable the CPS to carry out its
+              role as "a filter for evidentially weak cases"; (20) and it properly takes
+              into account fairness to the defendant. However, where a defendant is
+              guilty, there is arguably, in principle, no moral unfairness in bringing a
+              private prosecution against him or her. (21) As for the risk o f court and
+              other legal resources being wasted, whilst it is true that limited resources
+              will be used at the expense o f other pending cases, it may be argued that
+              bringing a guilty defendant to trial is a good use for those resources even
+              i f he or she is acquitted , so long as the evidence against the defendant,
+              whilst not meeting the Code test o f evidential sufficiency, is reasonably
+              substantial. (22)
+
+              6.16 W e provisionally conclude that the harm which might result
+              from an unfettered right of private prosecution will be either or both
+              o f the following:
+
+              #1(1) the harm that results from an unsuccessful prosecution o f an
+              innocent defendant,
+
+        #1(2) the harm (whether to any individual involved in the criminal process or
+        the public interest in the strict sense) that results from any prosecution
+        (successful or not) which is not in the public interest.                                           13
+
+
+http:,'/ \Y\vw .gJnci.uov.uk/la\vcomm/library/Iccp]49 pt6.htm                                    2/26 98
+    K e p o n , Lun su iia uo n j^aper
+                                                                                                   ragcD 01 io
+
+
+
+
+     S ? d ? F NT P R 0 V I S I 0 N S: THE PR EFER R ED M EC H A N ISM FOR PREVENTING THE
+
+
+      f -i     have1_su| g e^ed that generally (23) a private prosecution is likely to be undesirable if it
+     tails either or both o f the tests in the Code for Crown Prosecutors. Where an undesirable
+     prosecution is brought, it should be terminated as soon as possible; but it would be better if the
+     prosecution were not brought at all. Consequently, a prosecutorial control mechanism that
+     prevents an undesirable private prosecution being brought is preferable to one which terminates
+     proceedings once they have begun. (24) A consent provision has this advantage. Whereas the
+     otner principal mechanisms o f control (that is, the power o f the CPS to take over a prosecution
+     and terminate it or the power o f the Attorney-General to enter a nolle prosequ i ) are
+     retrospective and operate by terminating proceedings that are under way, a consent provision is
+     pre-emptive, preventing the institution o f proceedings in the first place. (25) W e provisionally
+     conclude, therefore, that a consent mechanism is the preferred mechanism for preventing
+     the harm that would be caused by an undesirable prosecution.
+
+
+    AN OFFENCE-STRUCTURED CONSENTS REGIME?
+
+•
+    6.18 The present consent regime is, by and large, offence-structured. B y this we mean that the
+    consent attaches to a particular offence rather than, say, to a particular type o f offender or a
+    particular set o f circumstances. There are, however, some examples o f hybrid criteria. As we have
+    seen, (26) the Law Reform (Year and a Day Rule) Act 1996 imposes a requirement o f consent on
+    the prosecution o f homicide offences but only in certain circumstances, namely (a) when there is a
+    lapse o f time o f more than three years between the date o f the injury and the date o f death and (b)
+             6 defendant has already been convicted in relation to the injury. The War Crimes Act
+    1991 imposes a requirement o f consent on the prosecution o f homicide offences committed as war
+    cnm es in Germany or German-occupied territory during the period o f the Second World War.
+
+              now 11111110 the question whether we should retain an offence-structured regime or adopt
+    a different structure. In approaching this question we bear in mind the crucial importance o f
+    certainty as to when consent is and is not required. It would not be satisfactory for the criteria to
+    be framed in such a way that only a ruling at the start o f the trial could determine whether or not
+    the prosecution was valid.
+
+   6.20 Bearing this in mind, our approach is to focus on the kinds o f prosecution that we are trying
+   to prevent: that is, prosecutions which are unlikely to succeed or which, even if likely to succeed,
+  are undesirable because the public interest in prosecuting the guilty is outweighed by other
+' interests (public, private or both) militating against prosecution. In the case o f prosecutions which
+  are unlikely to succeed, we believe that the most important kind o f harm to be averted is that
+  likely to be suffered by the (presumably) innocent defendant, who may be subjected to stress,
+  expense and damage to his or her career or reputation. These same kinds o f private harm may also
+  result from a prosecution which, though likely to succeed, is not justified in all the circumstances,
+  and thus fails what the Code for Crown Prosecutors describes as the "public interest" test; but in ’
+  this case an equally important consideration may be the public interest in the strict sense that is,
+  the interests o f the public as distinct from those o f the individuals involved
+
+    6.21 As regards harm to innocent defendants, a distinction should be drawn between those
+    innocent defendants who are particularly likely to be privately prosecuted (and therefore to suffer
+    harm) and those who, i f privately prosecuted, are likely to suffer serious harm. We suspect
+    that the first category o f individuals is an abstract which has no actuality; w e cannot see why a
+    particular class o f individuals (defined other than by way o f the offence charged) should attract
+    inappropriate private prosecutions. As regards the second category, on the other hand, we have
+    been made aware, for example, o f the concern o f doctors who, it is said, are likely, if privately
+    prosecuted for manslaughter in the event o f a patient dying, to suffer particularly serious harm.
+    We acknowledge this concern and will be asking consultees to express a view about it. However,
+    even if we were able to make an unambiguous classification o f protected classes, we doubt
+    whether this would be a sufficiently comprehensive way o f deciding when consents should be
+    applied.
+
+
+h ttp:'/\v\\ ay.gtnct.gov.uk la w c o m m /lib ra ry /lc c p ]49 ptO.htm                             2/26'98
+The Law Com m ission
+(LA W C O M N o 255)
+
+
+
+
+CONSENTS TO PROSECUTION
+Item 11 o f the Sixth P rog ra m m e o f Law Reform :
+C rim in al Law
+
+
+
+
+Laid, before Parliament by the L ord H igh Chancellor p u r s u a n t to section 3 ( 2 ) o f the
+L a v : Com missions A c t 1965
+
+
+
+
+ Ordered by T h e H o u s e o f C o m m o n s to be p r in te d
+ 19 October 1998
+
+
+
+
+                          L O X D O K : T h e S t a t i o n e r y Office
+                                         £ 1 3 .9 5
+
+
+H C 108^
+
+                                                                                                   15
+                     (3)      It should n o t be assum ed th a t if it is wrong to bring a public prosecution
+                              th e n it is also wrong to bring a private prosecution. If, for example, a case
+                              is t u r n e d down by the C P S because it fails the evidential sufficiency test,
+                              b u t only just; if the private prosecutor knows that the d e fe n d a n t is guilty
+                              (because, say, he or she was the victim an d can identify the offender); and
+                              if the case is a serious one, th en a private prosecution m ight be th o u g h t
+                              desirable.
+
+
+                   R esponses on consultation
+           5.23    T h e vast m ajority of those who considered the provisional conclusions relating to
+                   the h a r m which might result from an unfettered right or private prosecutors
+                   agreed a n d m a d e very little additional c o m m e n t. L ord A rcher of Sandw ell Q C ’1
+                   a d d e d th a t a problem arose when it was necessary to apply a j u d g m e n t based on
+                   s ta n d a r d s , a n d he cited as an example the Obscene P ublications Act. H e
+                   c o m m e n t e d th a t the extent to which this was a problem m ight d e p e n d u p o n how
+                   centralised the C P S structure was at any time. L o rd Archer d o u b t e d w h e th e r it
+                   was a p ro b le m at present and he was merely setting down a marker. We believe
+       ^          that the responses that we have received confirm our provisional view'.
+
+           5.24   We therefore conclude that the harm which might result from an
+                  unfettered right of prosecution would be either or both o f the following:
+
+                    (1)      the harm that results from an unsuccessful prosecution o f an
+                             innocent defendant;
+
+                    (2)       the harm (whether to the individual involved in the criminal
+                              process or to the public interest in the strict sense) that results
+                              from any prosecution successful or not which is not in the public
+                              interest.
+
+
+                  The      r o l e o f c o n s e n t p r o v i s i o n s ln p r e v e n t i n g t h i s h a r m
+
+        5.25      In the c onsultation paper, we pointed o u t ;: that a private p rose c ution is likely to
+       ^          be undesirable if it fails either or b o th of the C ode tests. We explained that an
+       ™          undesirable prosecution should be term inated as soon as possible b u t it would be
+                   b e tte r if it was not brought at all. We advocated a prosecutorial c ontrol system
+                   which prevented undesirable private prosecutions being brought r a th e r th a n a
+                   system which terminated proceedings after they had been co m m e n c ed .
+
+       5.26       T h e reasoning be hind this is that if there was a consent provision the de fe nda nt
+                   would n o t suffer the h a rm caused by an a borted prosecution and the legal and
+                   administrative costs would not be incurred. Again, it is a less attractive optio n for
+                   the C P S to intervene after a private prosecutor has gone to the trouble of
+                   instituting proceedings rather than to prevent the c o m m e n c e m e n t of proceedings
+                   at the outset. In essence, the consents provision acts as a pre-em ptive m easure
+                   preventing the institution of undesirable proceedings and is thus preferable to the
+
+
+
+                      Si'iiciior-Gener.'.i          ] 4 7 9.
+
+                      Para 6.17.
+
+
+                                                                                                                     16
+
+v. .
+           oth er m ec h a n ism s o f control, namely, the power of the C P S to take over a
+           prosecution and term ina te it or the power of the A ttorney-General to enter a nolle
+           prosequi, b o t h of which are retrospective, not pre-emptive.
+
+    5.27   O u r provisional view was that the consent m echanism was the preferred
+           m ec h a n ism for preventing the h a r m that w'ould be caused by an undesirable
+           p r o s e c u t i o n . T h i s view was accepted by the majority who c o m m e n t e d on it,
+           while those w ho disagreed did not p u t forward any a rgum e nt which p e rs u a d e d us
+           to change o u r provisional conclusion. A significant point raised was th a t it is
+           im p o r ta n t to b e a r in m in d that the consent provisions are to be seen in the light of
+            the fact th a t existing private prosecutions can be stopped by the D P P or the
+            A tto rn e y - G e n e ra l.’^ We therefore appreciate that the salient feature o f a consent
+            provision is th a t it prevents the institution of inappropriate criminal proceedings
+            which could subsequently be stopped. Professor Sir John Sm ith said in his
+            response, “ the question to be asked seems to be, why is it n o t sufficient that the
+            D P P can take over private prosecutions and, w ithout giving any reasons
+^          term ina te t h e m ’\ We m u st focus on the h a r m that could be caused betw een
+*          institution and discontinuance of misconceived private prosecutions and ensure
+           that the consent m echanism deals, if possible, with this harm .
+
+
+           Should          w e h a v e an o f f e n c e - s t r u c t u r e d c o n se n t s r e g im e ?
+
+    5.28   We now t u r n to look at the circumstances in which consent should be required.
+           T h e present regime is basically offence-structured in the sense th a t broadly the
+           consent attaches to a particular offence rather than, for example, to a particular
+           type of offender with a particular set of circumstances. In other words, the
+            question of w h e th e r a consent is required depends on the offence charged,
+            although there are some examples of hybrid criteria. '' A fundam ental issue to be
+            d e te rm in e d is w h e th e r we should retain an offence-structured regime or adopt a
+            different type of structure.
+
+    5.29   In the consultation paper we stressed the im porta nc e of certainty as to when
+            consent is or is n o t required as it would be totally unsatisfactory for the criterion
+)          to be fram ed in such a way that only a ruling at the start of the trial would
+            determ ine w h e th e r or n o t the prosecution was valid."
+
+
+
+
+                P a r a 6 .1 7 .
+
+                See p a r a s 2 . 1 4 a n d 2 . 1 7 - 2 . 2 0 above.
+
+            ”   P O A s 2 3 ( 6 ) p r o v i d e s that:
+                     on g iv i n c an v n o ti c e [that h e d o e s n o t w a n t th e p r o c e e d i n g s to c o n t i n u e in w h i c h case
+                     t h e y s h o u l d b e d i s c o n t i n u e d w ith effect f r o m t h e giving o f t h a t no ti c e] t h e D i r e c t o r shall
+                     i n f o r m t h e a c c u s e d o f th e no ti c e a n d o f th e a c c u s e d ' s ri g h t to r e q u i r e t h e p r o c e e d i n g s to
+                     b e c o n t i n u e d ; b u t t h e D i r e c t o r shall n o t b e ob li g e d to give th e a c c u s e d a n y i n d i c a t io n o f
+                      his re a s o n s fo r n o t w a n t i n g th e p r o c e e d i n g s to c o n t i n u e .
+
+            "   F o r e x a m p l e , t h e L a w R e f o r m (Year a n d a D a y ) R u le A c t 1996 im p o s e s a r e q u i r e m e n t o f
+                c o n s e n t on th e p r o s e c u t i o n o f h o m i c i d e offences b u t o i l y m csi'tcivi c i r c u m s t a n c e s , n a m e l y (a)
+                w h e r e th e r e is a lapse o f m o r e t h a n th r e e years b e t w e e n th e dat e o f th e in j u r y a n d t h e d a t e o f
+                th e d e a t h a n d (b) w h e n th e d e f e n d a n t ha> a lre ad y b e e n co n v ic te d in rel atio n to t h e injury.
+
+                 P a r a ft. ID.
+

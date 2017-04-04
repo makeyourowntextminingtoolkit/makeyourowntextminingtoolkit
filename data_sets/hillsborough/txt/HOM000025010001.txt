@@ -1,0 +1,639 @@
+              REPORT OF THE TECHNICAL WORKING PARTY
+
+
+The Green Guide
+
+1.   The   Technical   Worki n g Party  recognises  the  valuable
+contributions of successive editions of the Guide to Safety at
+Sports Grounds, commonly known as the Green Guide.  Its scope and
+status are described in its introduction as follows:        "This
+booklet provides guidance to ground management, local authorities
+and technical specialists such as engineers on measures for
+improving spectator safety at existing sports grounds.    It is a
+voluntary guide and has no legal force".
+
+2.   In view of the variability of existing sports grounds in
+function  and  in   scale,  there are    serious difficulties  in
+establishing comprehensive and general regulations, backed by
+legal force, to cover all the       complex details of design and
+construction.    Adherence to the standards      set by Building
+Regulations should provide a measure of uniformity in respect of
+new work at sports grounds.   Nevertheless, the Technical Working
+Party is strongly of the opinion that a much higher degree of
+standardisation than presently     prevails should be sought   in
+practice.
+
+3.   It considers that a revised issue of the Green Guide should
+form the basis on which a designated ground or stand is certified
+by the certifying authority, and recommends that any departures
+from its guidance on technical provisions that may arise from
+local circumstances should be fully defined and should be subject
+to approval in writing by the certifying authority.
+
+A Centre of Expertise
+
+4.   The Green Guide covers a wide range of material, much of
+which concerns the physical characteristics of grounds.         Its
+successive issues have been published in response to a number of
+serious accidents at football grounds.   This process has led to
+incremental advances in the Guide as experience has grown, but
+the Technical Working Party does  not believe that such a process,
+although essential, is by itself sufficient to cope with present-
+day requirements.
+
+5.   Many British football grounds were first constructed a long
+time ago, and improvements have been introduced largely on an
+individual basis.  A central body of knowledge applicable to the
+complex design of such grounds has been conspicuously absent
+although a start has now been made.   As a result, progress has
+been piecemeal.
+
+6.   The Technical Working Party considers that this is a serious
+defect.   A continuous and expanding body of public knowledge,
+drawn from the relevant professional fields,      is required to
+provide a basis for good individual designs at modern standards.
+At a time when substantial improvements are under consideration,
+including a higher proportion of seated accommodation, it is
+imperative to establish and to disseminate rigorous standards of
+design if expectations are to be fulfilled.          The work of
+organisations in other countries, including the Comitato Olimpico
+Nazionale Italiano (CONI), can provide a valuable reference.  The
+Technical Working Party recognises, too, the      important  work
+undertaken in this country by the Sports Council.      Its recent
+guide to the planning, design and management of indoor arenas is
+a noteworthy attempt to draw together a considerable body of
+research and practical experience.     Similarly, other work on
+outdoor stadia has taken place and is currently proceeding under
+the Council's aegis.  It is important that resulting publications
+should be widely disseminated and that any guidance on outdoor
+stadia should make particular reference to the structural aspects
+of safety, comfort and crowd control.
+
+7.   The   T echnical   Working  Party therefore   recommends  the
+formation of a central body, under a title such as The Advisory
+Council for Sports Grounds, to provide an authoritative source of
+knowledge for all those involved in the design and construction
+of outdoor stadia.   A detailed specification of its structure and
+funding is not proposed at this stage but, as envisaged, its
+members would be drawn from the relevant professional fields and
+would commission specialist advice when necessary.     It would be
+independent of any Inspectorate.   The relationship of such a body
+to other organisations is a matter for further discussion, but it
+is suggested that the Football Association and the Sports Council
+might wish to play leading roles.
+
+Seating and Standing
+
+8.   The Technical Working Party notes that FIFA has agreed
+regulations on seating for certain classes of football matches,
+and that the regulations are to be imposed within a short time-
+scale.  It also recognises that the British tradition of standing
+on terraces runs counter to these international requirements.
+
+9.   It is clear that if British Clubs are to continue within the
+international community, they will be obliged to close their
+standing accommodation for matches that fall within the FIFA
+definition.     For other matches, the Technical Working Party
+recognises     that,   whilst  standing   ac c o m m o d a t i o n    is  not
+intrinsically unsafe, the benefits to spectator comfort and crowd
+control   brought   about  by all-seater   stadia        are       likely  to
+accelerate the move towards such venues. The Technical Working
+Party accepts, however, that although the introduction of all-
+seater stadia for leading, well-supported football clubs may be
+both beneficial and practical, clubs in the lower divisions may
+find it less so and the removal of all standing accommodation at
+these grounds may affect their viability.   Alterations to seating
+from standing arrangements at existing grounds may have both
+design and cost implications through the impact on such matters
+as spectator sight-lines and crowd density.
+
+10.  In addition, it must be recognised that there are many
+sports (horse, greyhound, motor racing and car rallying for
+example) where the nature of the sport favours the mobility of
+large sections of the crowd and where viewing from standing areas
+is an essential element.   Any recommendations towards all-seater
+stadia must therefore be carefully worded.
+Capacities
+
+11 . The   Technical  Working  Party  recognises  that  the safe
+allowable capacity of any viewing area,       whether seated or
+standing, is the least of (i) its holding capacity, (i i ) the
+number of persons who can leave through a normal exit system
+within a prescribed time at the end of an event, (iii) the number
+of persons who can leave through an emergency exit system within
+a prescribed time, and (iv) the number of persons who can be
+admitted through the turnstiles serving that area within one
+hour.
+
+12.  The theoretical holding capacity of a seated viewing area is
+simply the number of seats in good condition which comply with
+the relevant Green Guide recommendations including those relating
+to distance from exits and gangways and size and spacing.
+Determination of the holding capacity of a viewing terrace or
+slope is not so simple;   factors that must be taken into account
+include the strength and spacing of the crush-barriers,       the
+position of gangways, the dimensions and physical state of the
+steps, the effective standing area, and the acceptable packing
+density.
+
+13. A packing density of 5.4/m2 is recommended in the current
+Green Guide as the maximum allowable figure for terraces and
+viewing slopes that meet all the specified guidelines.   A reduced
+figure of 2.7/m2 is presently recommended for areas deviating
+materially from the guidelines.  The Technical Working Party sees
+no  point   in retaining reference    to the   lower   figure  and
+recommends that there should be no lower limit to the reduction;
+ie if the enclosure had such poor safety standards that it was
+totally unfit as a viewing area the figure should be zero.
+
+14. As to the maximum figures, the Technical Working Party
+concludes that a uniformly distributed density of 5.4/m2 should
+be safe in static conditions where the terraces are in full
+compliance with the Green Guide.    It recognises, however, that
+there will be variations of density within a given enclosure, and
+allowance should be made to accommodate this factor in the final
+determination.
+
+15.  The Technical Working Party recommends that the maximum
+allowable average packing density determined by the Inquiry
+should establish a general reference for certifying authorities.
+For an individual ground, the packing density applicable to a
+given standing area should be derived from this figure, the full
+figure for areas in good condition and reduced figures for areas
+in poorer condition.  Detailed calculations of holding capacities
+should then be determined on the basis of the agreed packing
+density for that specific enclosure or other relevant factors.
+These calculations should take into account specific features of
+the   crush-barriers   and   fences  and  of   step dimensions as
+illustrated in the    Green Guide.   The Technical Working Party
+recommends a thorough review of the examples currently contained
+in Chapter    16 of    the Green Guide,    and the inclusion of
+appropriate diagrams.
+16.  It is a fundamental requirement of safety that structures at
+grounds should provide spectators with safe accommodation and
+safe means of ingress and egress.    They should also enable police
+and stewards to exert proper control over crowd movements. If a
+conflict should occur between these objectives, a substantial re­
+arrangement may be required;    in no circumstances should safety
+standards be compromised.   The Technical Working Party recommends
+that references to sub-divisions in Chapter 14 of the Green Guide
+be reviewed with these considerations in mind, and that the
+Chapt e r as  a whole    should   reflect   these  principles  more
+positively.
+
+Separation of Viewing Areas and Pitch
+
+17.  The Technical Working Party recognises the importance of
+physical barriers as deterrents to pitch invasions.      It also
+recognises that not all viewing areas present the same risk, and
+recommends that consideration be given to differentiating those
+areas requiring higher levels of security and other areas, such
+as seated accommodation and members' enclosures, where a lesser
+degree of security might be acceptable.
+
+18.  The  general   principle  of  separation   endorsed  by  the
+Technical Working Party is that the means adopted should provide
+sufficient security against pitch incursions to enable the police
+to take timely and effective action should such incidents occur.
+Clearly a balance has to be struck between crowd control and
+safety.
+
+19. A configuration recommended for wider consideration consists
+of a perimeter barrier on the pitch-side backed by a parallel and
+continuous crush-barrier on the terrace-side, set back from the
+perimeter barrier so as to provide a clear walk-way between the
+two;   except in emergencies, spectators would not be allowed to
+enter the walk-way.   Such an arrangement would reduce the risks
+associated with a common feature of British grounds, namely that
+the front steps of terraces are substantially lower than the
+level of the pitch:   immediate attention should be given to the
+elimination of this hazard.
+
+20.  The Technical Working Party recommends that the maximum
+height of perimeter fences should be determined in relation to
+the UEFA standard of 2.2m.    It also recommends the removal of
+overhanging sections and spiked or barbed-wire attachments at the
+tops of fences.
+
+21 . A form of separation increasingly adopted in new stadia is
+the dry moat.   To be effective, a dry moat must be sufficiently
+wide and deep, and should be protected by fences on both sides to
+ensure that spectators and players do not fall into it.     Where
+enough space is available,     a moat may offer an attractive
+solution, but its application to older grounds is likely to be
+restricted by limitations of space.
+Emergency Access to Pitch
+
+22.   The Technical Working Party recommends that emergency access
+to the pitch should be provided from all adjacent viewing areas.
+It considers the provision of gates or gaps in any formal barrier
+to be in all cases advantageous for the evacuation of adjacent
+enclosures and essential except where adequate, safe alternative
+arrangements   exist.      Where fences, barriers  or   moats  are
+installed the majority view of the Technical Working Party is
+that there should be clear gangways leading to emergency exits on
+to the pitch.   Such gangways must be properly identified and kept
+clear at all times.     The exit gates or gaps should be at least
+1 .1 metres wide or as wide as the gangways feeding into them,
+whichever is the larger and should be sufficient in dimensions
+and spacing    to   allow evacuation of the enclosure    within a
+prescribed time.   The Working Party recorded a minority view that
+the need to police gangways exacerbated friction on terraces, and
+that gangways were not always essential for proper crowd control
+and safety.
+
+Crush Barriers
+
+23.  A review of the procedures for inspection and testing of
+barriers is recommended.   The Technical Working Party considers
+that greater emphasis should be given to thorough recorded and
+certified annual inspections of all crush barriers.    Particular
+attention should be given to the development of corrosion.
+
+24.  It is further recommended that 25% of barriers, evenly
+spaced through each enclosure as designated by a competent
+engineer, continue to be tested each year.     In addition, all
+barriers which the inspection has identified as of possibly sub­
+standard condition should also be tested.
+
+25.  The adopted test method should be capable of applying to
+barrier rail, post and foundation anchorage, a loading equivalent
+to a uniformly distributed load 1.20 x the design load of the
+barrier as at present.
+
+26.  The test procedure should be revised in line with current
+practice for structural testing to incorporate (i) a detailed
+visual inspection of the barrier, (ii) a bedding-in cycle taken
+to a percentage of the design loading and (iii) a single cycle of
+proof testing taken as at present to 1.20 x the design loading.
+Deflections at all significant points should be recorded.
+
+27.  After the full proof load has been held for a minimum of
+five minutes the deflections should be recorded prior to release
+of loading and the permanent residual unloaded deflections
+recorded after the load has been released.
+
+28.     The Technical Working Party recommends the adoption of two
+criteria for acceptable structural performance              (i)  that no
+s ig n i fi c a nt defects,   including   corrosion,   are   revealed  by
+inspection and (ii) that the percentage recovery of deflections
+after       release   of   the   load   during   proof-testing   achieves
+acceptable values.        The specific values required will depend on
+the materials of construction.
+29.  The Technical Working Party recommends that the distinction
+currently drawn in the Green Guide between "peak" and "non-peak"
+viewing areas for the purpose of assessing barrier spacing should
+be abolished.    All areas should comply with the peak viewing
+specifications.
+
+Stands
+
+30. A substantial part of Chapter 10 of the Green Guide, 'Roofed
+Stands   with  Seated  Accommodation',   deals   with  temporary
+structures.   It is recommended that this material should be
+placed in a separate chapter, and that it should give explicit
+references as required to British Standards and to applicable
+regulations.
+
+31.  The remainder, which might be called 'Covered Standing and
+Seated Accommodation', should clarify the special requirements
+for safety that are involved, noting that fire risk is not the
+only hazard and that statutory control of the requirements may be
+vested in different authorities.      Appropriate references to
+Building Regulations should be made.   It is important to ensure
+that all spectators can be cleared into safe protected escape
+routes within prescribed times, although such routes need not be
+exits from the stand as a whole.
+
+fnqress/Egress
+
+32.  The current Chapters on Ingress and Egress in the Green
+Guide (Chapters 5 and 6) contain much useful information, but are
+nonetheless in need of some revision.  Consideration was given by
+the Technical Working Party to the possible amalgamation of
+features common to both ingress and egress, but despite the
+common ground it is recognised that emphases might well differ.
+The Working Party does not therefore recommend amalgamation of
+the individual Chapters.
+
+Ingress
+
+33.  The Technical Working Party felt that Chapter 5 needed
+expansion to incorporate additional clauses on (a) the positive
+counting and recording of those passing through each turnstile;
+(b)  the location of amenities inside the ground to avoid
+obstructing   or  disrupting   the  flow between   turnstile  and
+enclosures;    (c) the sub-division of enclosures;        (d) the
+adequacy of well distributed entrances into large enclosures to
+facilitate even packing;    and (e) the design of entrances so as
+to avoid local pressure on spectators caused, for example, by
+downward ramps.    Informative diagrams should be adopted and
+general principles laid down, wherever possible.    The Technical
+Working Party would not favour the introduction of numerical
+examples which might, in any event, be difficult to establish.
+It views the current maximum notional flow rate per turnstile of
+750 persons per hour (as set out in paragraph 47 Green Guide) as
+too high, and recommends a figure of 500 as the median for a
+normal turnstile.   Furthermore, it recommends that variations up
+or down be approved by the certifying authority, subject to a
+maximum upper limit of 660 persons per hour.
+Egress
+
+34.  Greater cross-referencing with other Chapters is required,
+and the Technical Working Party favours expansion or amendment of
+a number of paragraphs.     In particular, the density figure set
+out in paragraph 54 in respect of reservoir areas is felt to be
+too high,   and the members of      the Technical Working Party
+recommend that,     where reservoir areas cannot be removed from
+egress routes, a lower density of 35-40 persons per 10 sq metres
+be substituted.       The Technical Working Party favours greater
+emphasis on networking, and believes that the Green Guide should
+include a stipulation that each ground produce proper, networked
+plans, delineating all aspects of ingress/egress.
+
+Enclosures/Turnstiles
+
+35.  The Technical Working Party strongly recommends that there
+should be a direct one-to-one relationship between banks of
+turnstiles and enclosures in order to maintain accurate counts of
+entries.   A review of the current state of League grounds had
+shown that sub-divisions such as had occurred at Hillsborough
+were uncommon, and had generally been initiated by police for
+crowd control.     Where such sub-divisions do exist,      it is
+imperative that the total number of spectators entering each sub­
+division should be counted separately.
+
+Stairways and Ramps
+
+36.   The Technical Working Party notes the dangers presented by
+stairways and ramps, particularly those used by the public in
+large numbers, and recommends extensive redrafting of the Green
+Guide   to present   more  sharply  the hazards   involved.    It
+recognises that the standards of safety required for stairways
+and ramps which form part of the access between enclosures and an
+exit and those which exist as gangways within enclosures differ
+and recommends that the differences be explained in more detail.
+Particular attention should be given by certifying authorities to
+acceptable upper limits on the gradients of ramps and stairways.
+The maximum gradient for ramps set out in the current Green Guide
+was felt acceptable.
+
+37.  Similarly, the Working Party believes that the channelling
+of flows by the provision of handrails should be given greater
+emphasis.   The recommended width of channel for both stairways
+and ramps should not exceed three persons (unit widths) in line
+abreast, and the width of up to 1.8 metres permitted by paragraph
+76 should therefore be reduced accordingly.      Handrails should
+extend, by at least 300mm beyond the top and bottom of any
+stairway or ramp.
+
+38.  The difference between handrails, balustrades and barriers
+on or near the top and bottom of stairways and ramps, and their
+appropriate strength requirements, needs to be clarified.
+
+39.  The Technical Working Party recommends the inclusion in the
+Green Guide of a greater number of diagrams illustrating the
+potentially hazardous situations in relation to stairways and
+ramps and of the principles behind the provisions.
+
+Inspections and Tests
+
+40. Inspection and tests of all equipment and structures at
+grounds are vital features of good operation.     Their range is
+wide, extending from visual inspection before and after each
+event to regular testing of structural components.       It is a
+matter of serious concern that the interpretation of requirements
+by those responsible is unacceptably variable.      The Technical
+Working Party considers that action should be taken to ensure
+that common high standards of inspection and test are realised,
+and makes the following recommendations.
+
+     (i)    The   Green   Guide should include a comprehensive
+     tabulation of inspections and tests covering the essential
+     technical features of grounds.    It should prescribe the
+     minimum frequencies at which the inspections and tests
+     should be conducted.
+
+     (ii)   The required levels of competence of those carrying
+     out the inspections and tests should be defined.
+
+     (iii)   Records of the results of inspections and tests,
+     including the identification of defects and the remedies
+     adopted, should be certified by those carrying out the work.
+
+     (iv)    A national Inspectorate should be established to
+     oversee the adoption of common standards of inspection and
+     test.  Its terms of reference should include the compilation
+     and maintenance of a national register of organisations
+     employed to carry out inspections and tests;         central
+     recording of the extent and type of the inspections and
+     tests adopted at individual grounds;    and the provision of
+     advice on inspection and test for those responsible for
+     carrying out the work and for certifying authorities.     It
+     would  be   in  the interest   of common   standards  if an
+     Inspectorate of this kind dealt with the grounds of all
+     relevant sports, and consideration should be given to its
+     formation through an association of their governing bodies.
+
+Fire Safety
+
+41. There is general recognition amongst Technical Working Party
+members that the current Chapter on Fire Safety (Chapter 11) is
+well-defined.  It contains much useful advice on egress and means
+of escape, application of which is not restricted to fire risks
+and which would bear repetition in other Chapters.
+
+42. The Technical Working Party considers that it is essential
+to maintain simple, clear lines of authority and communication;
+independent input from individual bodies is to be avoided. With
+that in mind, its members believe that consultation on all safety
+matters should be directly with the certifying authority who, in
+turn, would consult with the fire, police, and other authorities.
+Emergency/Auxiliary Power
+
+43.  The Technical Working Party considers that the current Green
+Guide contains insufficient information on auxiliary power.    It
+recommends a separate chapter on the topic with a requirement
+that emergency power should be sufficient to maintain an adequate
+level of lighting, and public address system and to operate any
+electronic gates, alarms etc for a period of three hours from the
+time of failure of the normal supply.
+
+Communications
+
+44.  The Technical Working Party considers that too little weight
+has in the past been attached to the need for a comprehensive
+communications system,   capable of reaching both inside and
+outside the ground.
+
+45.  Chapter 12 of the Green Guide therefore requires substantial
+amendment to reflect the importance of effective communications
+systems,   the need to make use of high-technology equipment, and
+the  value   of  closer  co-operation between   club and police
+personnel.   The Technical Working Party considers that Interim
+Recommendations    31-34   should  be  retained  permanently  and
+incorporated into the Green Guide.
+
+Disabled Spectators
+
+46.  The current Green     Guide fails to address the specific
+problems    encountered by disabled spectators and the Technical
+Working Party recommends the introduction of a Chapter to cover
+these aspects.    It should deal in particular with Ingress and
+Egress and with the provision of self-contained viewing areas.
+                    SUMMARY OF MAIN RECOMMENDATIONS
+
+
+The Green Guide
+
+
+1.   A higher degree of standardisation in stadia design and
+construction is required.     An updated and revised Green Guide
+should form the basis on which a designated ground or stand is
+certified.    It should incorporate appropriate diagrams and refer
+to relevant Building Regulations.
+
+
+Advisory Body
+
+
+2.   There should be a single, central body (called perhaps the
+Advisory Council for Sports Grounds) to provide an authoritative
+source of knowledge for all those involved in the design and
+construction of stadia.
+
+
+Seating/Standing
+
+
+3.   Whilst standing accommodation is not intrinsically unsafe,
+all-seater stadia bring benefits to spectator comfort, safety and
+crowd control.     The implementation of higher proportions of
+seated accommodation should be governed by common high standards
+of design and construction.
+
+
+Capacities
+
+
+4.   Capacity depends on standards of ingress, egress and safety
+generally as well as the acceptable packing density and the
+effective area of the accommodation.     The current maximum packing
+density of 5.4/m2 recommended in the Green Guide for standing
+terraces should be safe in static conditions where the terraces
+are in full compliance with the Green Guide.     It should be
+recognised, however, that densities normally vary over an
+enclosure,   and an allowable average figure should reflect this
+consideration.     The reduced figure of 2.7/m2 should be abolished
+and there should be no specified lower limit.     If an enclosure
+has such poor safety standards that it is totally unfit as a
+viewing area, the figure should be zero.
+Separation of Viewing Areas and Pitch
+
+
+5.    Consideration should be given to different perimeter
+arrangements appropriate for different areas of a ground.
+
+
+6.    The means of separation adopted should provide sufficient
+protection against pitch incursions without compromising
+spectator safety.    The maximum height of fences should be
+determined in relation to the UEFA standard of 2.2 metres.
+Overhanging sections and spiked or barbed-wire attachments should
+be removed.
+
+
+7.    Attention should be given to the elimination of spectator
+viewing from front steps of terraces which are substantially
+lower than the level of the pitch.
+
+
+Emergency Access to the Pitch
+
+
+8.    Emergency access to the pitch should be provided from all
+adjacent viewing areas.
+
+
+9.    Exit gaps or gates should be at least 1.1 metres wide or as
+wide as the gangways feeding into them, whichever is the larger.
+All gangways must be clearly identified and must be kept clear of
+spectators in normal circumstances.
+
+
+Crush Barriers
+
+
+10.   A review of the procedures for inspection and testing of
+barriers is recommended.   Greater emphasis should be given to
+thorough recorded and certified annual visual inspections of all
+crush barriers, and to the establishment of an unambiguous
+testing procedure.
+
+
+Stands
+
+
+11.   The Green Guide should contain a separate chapter on
+temporary structures, with appropriate references to applicable
+regulations and British Standards.
+
+
+Ingress
+
+
+12.     The current maximum notional flow rate per turnstile of 750
+persons per hour is too high.     A figure of 500 should be adopted
+as the median with a maximum upper limit of 660 persons per hour.
+Variations from the median must be approved by the certifying
+authority.
+
+
+Egress
+
+
+13.     Where reservoir areas cannot be removed, a lower density of
+35-40 persons per 10 sq metres should be adopted.     Each ground
+should produce networked plans delineating all aspects of ingress
+and egress.
+
+
+Enclosures/Turnstiles
+
+
+14.     There should be a direct one-to-one relationship between a
+bank of turnstiles and corresponding enclosures.     Where sub­
+divisions exist, it is imperative that the totals entering each
+sub-division are counted separately.
+
+
+Stairways and Ramps
+
+
+15.     The recommended width of channels should not exceed three
+persons (unit widths) in line abreast.     Handrails should extend
+by at least 300mm beyond the top and bottom of any stairway or
+ramp.     The design and strength of handrails, barriers and
+protection on or near stairways or ramps should be clearly
+defined.     Ramps should not produce dangerous crowd pressures.
+
+
+Inspection and Tests
+
+
+16.     Action should be taken to ensure that common high standards
+of inspection and test are realised.     A national Inspectorate
+should be established to oversee the adoption of such standards.
+Its terms of reference should include compilation and maintenance
+of a national register of organisations employed to carry out
+inspections and tests;   central recording of the extent and type
+of inspections and tests at individual grounds;   and the
+provision of advice.
+
+
+Disabled Spectators
+
+
+17.   The Green Guide should contain a separate Chapter to cover
+this subject.
+

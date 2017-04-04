@@ -1,0 +1,146 @@
+                                                                 Incident Report
+
+
+                          HFATrm AND SAFETY EXECUTIVE
+
+                   RESEARCH AND IABORATORY SERVICES DIVISION
+
+                         Broad Lane, Sheffield S3 7HQ
+
+
+                   The Hillsborough Incident 15 April 1989:
+                    A compendium of the Technical Aspects
+                     of the Incident Investigation by the
+                         Health and Safety Executive
+
+                                      by
+
+                         C E Nicholson PhD CEng MIM
+
+                                                nyVME/MM/89/2
+
+
+
+
+Distribution                               Issue authorised by: Dr A Jones
+                                           Date: 21 December 1989
+The Court of Inquiry (5 copies)
+ACC M Jones West Midlands Police
+Mr D C T Eves
+Dr J MbQuaid
+Dr A Jones
+Mr A Barrell TD
+Mr P G Jones TD
+Mr M S Nattrass PAID Area 14
+Mr J P Giltrow HFS (N)
+Mr M R Stephenson NE FOG
+Mr M Fountain TD3
+Dr J H Foley
+Dr C E Nicholson
+Mr P F Heyes
+Mr I R Price                            TO RL5D/DIAS STAFF ONLY: NOT TO
+Mr D Waterhouse                         BE CCMMUNICATED OUTSIDE HSE
+Mr G A C Games                          WITHOUT THE APTBOVAL OF THE
+Mr G Norton                             AUTHORISING OFFICER
+Mr M James TD3
+Mr C J Pertee NE FOG
+Mr J B Hibbs NE FOG
+EPS                                        SMR/343/235/01
+Library (2)
+Registry File                              S80.02.0IH.814
+1 INTRODUCTION
+
+1.1 Following an incident on 15 April 1989, I visited Sheffield Wednesday
+    Football Club's (SWFC) Hillsborough Stadium on 16 April 1989 at the
+    request of Mr M S Nattrass, Area Director of South Yorkshire and
+    Humberside Factory and Agricultural Inspectorate of the Health and Safety
+    Executive (HSE). Subsequently I was appointed to head the HSE team
+    investigating the incident following correspondence between the Court of
+    Inquiry and the then Deputy Director General of the HSE, Mr J D G Hammer.
+
+1.2 The HSE's Research and Laboratory Services Division (RLSD) consists of
+    3 laboratories, one of which, the Safety Engineering Laboratory (SEL), is
+    based in Sheffield. As a Deputy Director in the Sheffield Laboratory, I
+    was able to assemble a team of scientists and engineers from various
+    specialist sections to tackle the various technical problems which arose.
+    I was also assisted by members of HSE's Technology Division in much of the
+    on site investigation at the Hillsborough ground. They produced site
+    reports, which are reproduced in the Annexe, and which have been utilised
+    by HSE staff throughout this investigation.
+
+  In considering collapse load calculations of barrier 124A, Professor
+  R A Smith of the University of Sheffield Department of Mechanical and
+  Process Engineering, acted as a consultant and in conjunction with RLSD
+  staff produced a report on this topic.
+
+1.3 A few days after the incident, the West Midlands Police were appointed to
+    assist the Inquiry and all the initial stages of the investigation were
+    carried out in close collaboration with ACC M Jones of the West Midlands
+    Police. When the Inquiry assessors were appointed, the direction of
+    technical aspects of the investigation was then planned with Professor
+    L Maunder of the University of Newcastle Department of Mechanical
+    Engineering, but still in collaboration with ACC Jones.
+
+1.4 A summary report of HSE's findings "The Hillsborough Incident
+    15 April 1989: An Investigation into Various Technical Aspects prepared
+    for the Court of Inquiry" by C E Nicholson, Report No n y L/ME/Mty/89/1 was
+    written and presented to the Court of Inquiry in June 1989.
+
+1.5 This compendium of reports contains details of examinations performed on
+    site and in the laboratory. The work was carried out by me, by other
+    staff of HSE and by the consultant Professor Smith, working on my
+    instructions and under my general supervision.
+
+2 REPORTS
+
+  The following is a list of reports contained within this ccaipendium.   All
+  authors are staff of HSE's Research Division except where noted.
+
+2.1 Examination of Crush Barriers free Pens 3 and 4
+    by P F Heyes and J G Tattersall
+    Report No nV'L/MM/89/11
+
+2.2 Collapse Load Calculations for Barrier 124A
+    by Professor R A Smith, University of Sheffield and G A C Games
+    Report No JR/I/ME/89/36
+
+2.3 An investigation into the number of pecple in Pens 3 and 4
+    by G Norton
+    Report No nyi/ME/89/32
+2.4 An estimation of the maximum allowable capacity of Pens 3 and 4
+    by A L Collins and D Waterhouse
+    Report No IR/I/ME/89/35
+
+2.5 An investigation of the turnstiles at the Lappings Lane entrance to the
+    stadium
+    by G A C Games and D Waterhouse
+    Report No IR/I/ME/89/33
+
+2.6 An investigation into the number of people entering the stadium through
+    turnstiles A to G and through Gate C
+    by G A C Gaines
+    Report No IR/I/ME/89/34
+
+2.7 Audibility of the Public Address System at Hillsborough Football Ground
+    by I R Price
+    Report No IR/I/NV/89/17
+
+3 ANNEXE
+
+  These are three Field Consultant Group (FOG) Inspector reports produced by
+  specialist inspectors from HSE's Technology Division (TD) following their on
+  site investigations of barriers, turnstiles and a perimeter brick wall.
+  Also included is an interim report on the measurement of crowd densities and
+  pressures. These four reports were prepared in the immediate aftermath of
+  the incident and contain the best information available at the time.
+
+3.1 Condition of outer perimeter wall by C J Pertee TD
+
+3.2 Examination of turnstiles A-G by J B Hibbs TD
+
+3.3 Examination of Crush Barriers, Lappings Lane End, Central Pen by J B Hibbs
+    TD
+
+3.4 Interim Report (Minute to Dr C E Nicholson)
+    Crowd densities and pressures by M James TD.
+

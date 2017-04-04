@@ -1,0 +1,350 @@
+                                                                    Nid^oWi fa
+
+GUIEfcl ID SftEBIY AT SPORTS GROONDS - fGREEK GOITER
+
+
+CH&ETER 4 - INSPECE1CKS AMD TESTS
+
+                                                        Need 'results of these
+Inspections and tests should be carried out by          tests should be submitted
+suitably qualified persons on behalf of management      to the Licensing
+to ensure that the safety standards of the Guide are    Authority for approval'
+maintained.
+
+
+36.   A detailed inspection of the ground, including    Need 'sufficient time
+all components and installations, should be arranged    should be allowed by this
+annually by the management. It should be carried        person to adequately and
+out by a person with a relevant and recognised          methodically conduct this
+professional qualification, and experience of           inspection and report'
+inspecting existing structures.
+
+
+ 37.    Engineers commissioned to assess structural
+ safety of buildings may find the appraisal
+ techniques recommended by the Institution of
+ Structural Engineers (ISE) in the "Appraisal of
+ Existing Structures", published in 1980, of
+ assistance. Hard and fast rules on the extent to
+ which a structural appraisal is necessary for
+ individual buildings are difficult to lay dcwn: much
+.will depend upon the type of installation, its size,
+’condition, materials used in construction and
+ standard of maintenance. A full appraisal is
+ however unlikely to be necessary unless defects are
+ identified or in evidence front the analysis of
+ information on the structure and visual inspection.
+
+
+38.   Testing of crush barriers (see also Chapter 9)    Need the details of all
+should be carried out in accordance with Annex C of     parts of the barrier
+this Guide. When the guidelines are first applied
+to a particular ground, a representative sample of      Include
+barriers of all types from all areas of the ground      - assessment of
+should be selected for testing. Thereafter testing      configuration of crush
+of barriers should take place every 4 years unless      barriers
+from visual inspection doubts are raised as to their
+strength/integrity, in which case they should be        - and assessment of the
+retested. Testing should be carried out by or under     effects of corrosion
+the supervision of a suitably qualified engineer, ie
+a structural or civil engineer.
+
+
+39.    Following each event, a general visual
+inspection of the ground should be made for signs of
+damage which might create a potential danger to the
+public. Particular attention should be paid to the
+condition of terraces, viewing slopes and
+stairways. Crush barriers and balustrades should be
+examined for deformation or any other overt signs of
+weakness. The fire precautions measures should also
+be inspected for damage, and alarm and other
+electrical installations should be checked to ensure
+compliance with the relevant British Standards.
+
+
+40.   Warning, detection, lighting and public
+address systems are vulnerable to vandalism., and
+this should be borne in mind when installing them.
+All automatic fire detection and fire warning,
+emergency lighting and public address sytems should
+be tested 24 hours before an event, in accordance
+with the methods laid dcwn in BS 5839: Part 1 and
+BS 5266: Part 1 respectively. There is currently no
+British Standard for public address systems. In
+case any of these systems is not operating properly
+and cannot be fixed before the event, contingency
+plans should be formulated, in consultation with the
+emergency services, for the use of acceptable
+substitute measures or (if necessary) the closure of
+any areas of spectator acccsnucdation until the fault
+is remedied.
+
+
+41.   Before an event, and at major soccer grounds
+in particular, steps should be taken to ensure that
+the ground does not contain any accessible items
+which could be used as missiles (eg piles of bricks,
+stones etc).
+
+
+42.   The ground should be inspected before and
+after each event to ensure there are no
+accumulations of combustible waste and that any
+hazardous materials (if essential to be stored) are
+safely stored well away from public areas.
+
+
+43.   Records should be kept and maintained of all      Who should these records
+inspections and tests together with a record of         be sent to? Is there a
+remedial actions taken.                                 need for a central system
+                                                         for recording and
+                                                         alerting other clubs?
+CH&PTER 9 - 0 $ K H BSKREERS AND B&NERATLS
+                                                       Need re-draft of whole section
+
+Marry of the hazards arising from crowd pressure on    Materials for barriers are not
+terraces can be eliminated by provision of well        mentioned. Should wrought
+constructed, correctly positioned and properly         iron be permitted in view of
+mounted crush barriers.                                its unpredictable properties?
+                                                       What about corrosion
+                                                       resistance and corrosion
+                                                       traps? Areas of likely
+                                                       corrosion shall be identified
+                                                       and recorded. Should the
+                                                       stability of barriers be
+                                                       considered?
+
+Dimensions and design features
+                                                       i) are barriers that do not
+110. In order to locate the tcp rail against that      comply to be disregarded for
+part of the body most able to tolerate pressure the    calculation purposes?
+height of crush barriers should be between             ii) is l.lm still the optimum?
+1.02 metres and 1.12 metres above the nosing of the    iii) is height to centre, top
+step immediately behind the barrier, with a            or bottom of barrier the
+preferred height of 1.1 metres.                        relevant dimension? Use of
+                                                       nets? Medical basis of 1.2m?
+                                                       Diagram required, defining
+                                                       height, measurement etc.
+
+
+'111. Crush barriers should be designed so that        Should a minimum barrier depth
+ there are no sharp projections or edges. Although a   be specified? - a broader rail
+ barrier with a top rail of 50mm internal diameter     is better, eg 100mm rail shown
+ tube has been favoured at many sports grounds,        to be more tolerant.
+ research has shewn that there would be advantage in
+ the use of a flat rail of 100mm vertical depth.
+
+
+Spacing of crush barriers
+
+112. Hie maximum spacing of crush barriers will be
+dependent on the gradient of the terrace or viewing
+slope. Paragraphs 113-119 below give
+recommendations for the spacing and strength of
+crush barriers.
+
+
+113. Ideally, crush barriers should be provided          Full lengthbarriers would be
+along the full width of a terrace, with gaps only at   preferable,
+the radial gangways.
+
+
+114. Where barriers are not continuous between         What is basis for allowable
+radial gangways, the alignment of gaps in successive   number of gaps? Is two too
+rews of barriers on a terrace should form an angle     many?
+of less than 60° to the barriers. 'There should be
+no more than 2 consecutive gaps in any line of gaps.   Better diagram required.
+(See Figure 3)
+115. Where there are gaps in the line of crush          (1.1m = 2 shoulder widths)
+barriers these should be at least 1.1 metres and not    What is the basis of 1.4?
+more than 1.4 rretres in width.
+
+                          (e p p o ii'i) I«■ ”!«**“
+116. Column A in Table i provides the maximum           Are values in Table 1 still
+distances between barriers conforming to the greater    valid? - 'as described above'
+strength requirements of crush barriers as described    is vague.
+above; column B provides the maximum distances          Weaker barrier should be
+between barriers conforming to the lesser strength      satisfactory for landing
+requirements. Interpolation may be made between         barriers etc. Chapter 78?
+these figures.                                          Header barriers?
+                                                        Should advice be given when
+                                                        terrace is level?
+
+
+
+
+117. A distinction is made between barrier              There should be one standard
+intervals required in "peak" viewing areas. The         of crush barrier (peak viewing
+term llpeak" viewing areas describes the most papular   is a weak definition).
+parts.of the terraces where there is a tendency for
+spectators to crcwd together and become so
+emotionally involved in the occasion that their
+reactions can cause additional pressures to be set
+v?) in those sections of the ground. The peak
+viewing areas are particularly associated with
+football grounds and are typically behind the goal
+areas, although other parts of the terraces known
+locally may ccme within this category.
+
+
+Strength of crush barriers and handrails
+
+118. Existing crush barriers and handrails should       Table 2 should be labelled
+be capable of resisting the forces indicated.in the     'Characteristic Design Force'
+existing test load columns of Table 2^when applied      or Safe Working Design Force
+in a test as described in Annex C.                      and Test Force.
+
+                                                        KN should be kN and 'lbs f'
+119. New crush barriers or handrails should be          should be Ibf. Is the
+designed to resist safely a horizontal force as         magnitude of the 'New Design
+indicated in the existing test load columns of    v     Force' to change? Standardise
+Table 2 applied as a static load acting on the top      no of decimal places in table
+rail of the barrier or handrail at right angles to      (eg 2.189 to 2.2).
+                                                        Or should it be parallel to
+                                                        slope? Should handrails be
+                                                        tested parallel to the rail?
+the longitudinal axis. The foundations of new        the longitudinal axis.
+barriers or handrails should be designed to resist   'The substructures of new
+the overturning movements and sliding forces,        barriers or handrails should
+induced by the forces described in the "new design   be designed to the relevant
+force*1 column, with a factor of safety of 2.        British Standards. In all
+                                                     cases the overturning moments
+                                                     and sliding forces frcm the
+                                                     barriers shall have an overall
+                                                     factor of safety of 2.
+CHAPTER 1 5 - PnC H HKCMETEK FENCE/WAIi
+
+
+A pitch perimeter fence/wall may not only delineate     This_ is incompatible with the
+the playing area from the spectator accommodation       medial basis for crush barrier
+but may have to serve as a crush barrier, or in sane    height. Consideration should
+situations as a barrier to discourage or prevent        be given to the provision of a
+access to the playing area except in an emergency.      sterile zone. Diagram
+                                                        required.
+
+214. The type, strength and height of a pitch           If required, perimeter fences
+perimeter fence or wall will vary according to its      should have a standard format
+location and required function. At one extreme, at      with reference to height,
+a certain type of ground or small stadium vised by      design, strength, width and
+very few spectators, there may be no need for a         spacing of gates.
+perimeter fence or wall at all; or if such a wall or
+fence exists it may need to consist of little more
+than a rail to mark the playing area. At the other
+extreme, at same major soccer stadia, where
+restriction on crowd movement forms a necessary part
+of the safety measures, it nay be necessary to have
+a fence which prevents access to the pitch in normal
+circumstances (see also Chapter 14, paragraph 209)
+but allows for access in emergency. Even at these
+grounds however specification of the pitch fence nay
+vary for different parts of the ground.
+
+
+215. For most major stadia, whether used for            See Taylor.
+association football or other sports, the pitch
+perimeter fence will be required either to prevent
+access to the pitch as mentioned above, or at least     Gates must    be provided of
+to discourage attempts by spectators to enter the       sufficient    width, - is 1.1m
+playing area. Gates or other access points (minimum     sufficient    and should a
+width 1.1 metres) should nonetheless be provided for    maximum be    specified?
+use in an emergency and, at those grounds where a
+perimeter track is used as part of the exit system,     Should the spacing of gates
+for the departure of spectators at the end of an        also be specified?
+event. Provision of such gates or access points is
+particularly important to allow full access to the
+playing area (or track) where it is likely to be
+used as a place of safety in an emergency. Such
+gates or access points should be properly stewarded
+and clearly marked so that immediate access to the
+playing area or perimeter track can be ensured.
+
+
+216. If spectators can lean on the perimeter fence      See opening paragraph above.
+it should be deemed a crush barrier and fulfil the
+conditions of height and strength specified in
+Chapter 9 although if the fence is of solid
+construction its height may be more than
+1.12 metres. This is bepause the pressures acting
+on a person forced against such a fence are
+distributed over a large area of the body, unlike
+the situation with a normal carush barrier, where the
+pressures are localized.
+ANNEX C                                                Basic philosophical question -
+                                                       should mechanical tests be
+TESEINS OF CEE5H BARRIERS AND HMS3R&HS                 used to assess what is really
+                                                       the severity of corrosion?
+
+                                                       Consideration should be given
+                                                       to using corrosion-resistant
+                                                       materials and design.
+
+1.    For crush barriers the test is to consist of     Difficult or impractical to
+the application of an evenly distributed force of      achieve an 'evenly distributed
+either 6.OKN/metre width (400 lbs f/foot width) or     force'. Eastwood's method
+4.3KN/metre width (290 lbs f/foot width) of barrier    achieved a test load
+as mentioned in Chapter 9.                             distribution that is a
+                                                       reasonable compromise. Refer
+                                                       to 'A' and 'B' strength
+                                                       requirements. Diagram of
+                                                       typical test method. (kN Ibf.)
+
+2.    For handrails the test is to consist of the
+application of an evenly distributed force of either
+4.3KN/metre width (290 lbs f/foot width) or
+2.74KN/metre width (188 lbs f/foot width) of
+handrail as mentioned in Chapter 9.
+                                                       No guidance on the number of
+                                                       'bays' to be tested at a time.
+3.    The force is to be in the form of a static       Eastwood tests two - if only
+load acting on the top rail of the barrier or          one is tested then the
+handrail at right angles to the longitudinal axis      uprights are not subjected to
+
+•
+and applied in about ten equal increments.             the full force that would
+                                                       occur from loading on a
+                                                       multi-bay barrier. Why 10
+                                                       increments? how does this
+                                                       help?
+
+4.    The force to be applied for three consecutive    'any deformation' - seems
+periods, the full force being maintained for 5         vague, is absolute or relative
+minutes each period. The interval between              deformation measured? - what
+applications to be as short as possible, ie to         about successive or
+enable complete unloading and reloading only. A        'successful' tests which
+record should be kept of any deformation during the    permanently bend a rail
+loading periods, during the periods of maintained      further each time?
+loading, or during the recovery period.
+
+                                                       75% of what? The datum for
+5.    If on the removal of the force for the third     deflection is ambiguous and
+time the recovery of deformation is at least 75% the   the positions of measurement
+barrier or 'handrail may be deemed to have satisfied   may need to be specified and
+the loading requirements.                              should include measurement of
+                                                       the vertical posts as well as
+If this requirement is not met but the recovery is     the horizontal rail.
+more than 50% then the test should be repeated and     Magnitude of deflection
+if on retest the recovery is at least 75% the          recovery may be more important
+barrier or handrail may be deemed to have satisfied    that %. Is the second test
+the loading requirements.                              necessary?
+
+If the recovery is less than 50% on the first test
+or less than 75% on the retest, the barrier or
+handrail shall be deemed to have failed to meet the
+loading requirements.
+         6.    If during any test, even though the barrier or   Corrosion must be referred to
+         handrail satisfies the above loading requirements,     in this paragraph, plus scsne
+         doubt should arise for any reason (including such      reference to methods of
+         matters as cracking of the terracing or distortion     inspection and to the degree
+         of connections) as to the safety of the barrier or     of corrosion which is not
+         handrail, a detailed investigation should be carried   acceptable.
+         out. Unless the results of this investigation
+         remove the doubt as to the safety of the barrier or
+   P^'^handrial, (the barrier or handrail,"] as the case may
+irep*e»M be, should be deerred to have failed the test.
+iv*
+
+       7.    A record should be kept of all the barriers        Could a typical test sheet be
+       and handrails tested and of their performances           given as an example?
+       during the tests.
+

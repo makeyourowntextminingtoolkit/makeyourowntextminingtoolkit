@@ -1,0 +1,408 @@
+                                                   | ,v<>
+
+
+
+
+INSPECTION AND TESTING OF                        |%yf
+
+CRUSH BARRIERS AND HANDRAILS
+
+
+
+
+(1)       INSPECTION
+
+
+
+          TESTING
+
+          (a)          The Proof Test
+
+          (b)          Test Arrangement
+
+          (c)          Bedding-in Cycle
+
+          (d)          The Test Schedule
+
+          (e)          Criteria for Compliance
+
+
+
+(3)       REFERENCES
+INSPECTION AND TESTING OF
+
+CRUSH BARRIERS AND HAND RAILS
+
+
+
+
+(1)      INSPECTION
+
+1-0      An important part of the inspection is to determine the
+
+          physical condition of all                barriers.           Correct spacing,
+
+          height      and     layout       together     with adequate structural
+
+          condition         are   all      essential      if     the     barrier       is to
+
+          function so as to prevent injury.
+
+
+
+2.0      In    order     that      comparison       can    be made with previous
+
+          annual inspections,            a full     record of          the observations
+
+          on   each     barrier         should     be   logged by the inspecting
+
+          engineer on a Standard              Record      Sheet        (Ref    5     Ch 6.3)
+
+          giving       location      and      date of inspection together with
+
+          all comments on condition.
+
+
+
+3.0      Any     visible          defect       (corrosion,            cracks,         holes,
+
+          misalignment,           missing      bolts)     shall        be noted and its
+
+          potential      reduction in         strength         gauged     in       order   to
+
+          determine      whether        the      condition       of     the     barrier is
+
+          satisfactory.           All signs       of potential          weakness should
+
+          be looked for, such as potential for instability.
+
+
+
+4.0      Members       and    connections         which the engineer considers
+
+          may contain defects (hidden corrosion) will                              need to be
+
+          exposed.       In particular,           inspection should             be made of
+all areas where     water      traps   or     hidden    detail where
+
+corrosion or damage could facilitate corrosion.
+
+
+
+When the inspection establishes the presence of obvious
+
+and significantly      deteriorated         material,    the barrier
+
+shall be   deemed to     be defective and replaced.           Should
+
+the inspection reveal any component whose               condition is
+
+deleterious   giving     any     doubt as to performance,       then
+
+that barrier should be proved to have adequate strength
+
+by proof testing, or declared defective and replaced.
+TESTING
+
+(a)            The Proof Test
+
+For     barriers        the    proof     test     is    to      consist of the
+
+application        of     a    loading       which     is       as    nearly     as
+
+practical equivalent             on all components of the barriers
+
+to the evenly distributed                force required              to test that
+
+category of        barrier       (see Table      ... Chapter ...).             As a
+
+general principle,            the barriers        shall be           proof tested
+
+for up     to a load of 1.25 x the Required Design Service
+
+Loading (Ref 2 Ch 3.8.3).
+
+
+
+The purpose of site tests is to assess                       the adequacy of
+
+the barrier        for service,        and to observe and record the
+
+behaviour and deflections of the barrier, handrails and
+
+posts under test.
+
+
+
+It is important therefore to both record the results of
+
+the     test    and      to    look    for      any     signs        of weakness,
+
+particularly at           the base       of the        barrier posts, or at
+
+structural joints, during the test.
+
+
+
+The test will be              carried out       by applying           a series of
+
+part loads        to the        tops of the barrier rail               (posts and
+
+intermediately along the span                   of the       rails)     so   as to
+
+model     the     live        load    performance        expected from that
+
+barrier.        The magnitude of load             applied will therefore
+
+vary from        barrier to barrier, and within an individual
+barrier, depending on location,                            span,   height          (and of
+
+course, barrier type).
+
+
+
+(b)            Test Arrangement
+
+The     load     shall       be      applied          by     jacking        against the
+
+terrace behind the barrier,                     ensuring the test equipment
+
+is horizontal as far as possible generally as diagram.
+
+
+
+The instrumentation                 shall be designed so as to be able
+
+to measure up to approximately twice the design service
+
+load     of     the       barrier        and     to        record accurately each
+
+individual load increment required during the test.
+
+
+
+Deflections in two directions at right                             angles shall be
+
+measured         immediately              adjacent            to      the     point     of
+
+application of the loads                   on the           handrails and          at the
+
+top     of     all    posts,         using       a     graduated        steel       rule,
+
+incorporating a Vernier gauge capable of                               recording the
+
+nearest        0.5    mm.           The deflection measuring equipment
+
+shall be properly fixed to a rigid part of the terrace.
+
+
+
+The arrangement              (), the        load      (kN)     and the deflection
+
+(nun)    shall        be    recorded            by the testing authority for
+
+each barrier              location        and     load       increment        so     as to
+
+assess        linearity        of        performance of the barrier under
+
+load.        Each barrier           to     be     tested       shall        be numbered
+
+according            to      the         barrier           schedule         and      shown
+diagrammatically on the Test Record,                  so       as to indicate
+
+the length     of the     barrier and         whether the barrier is
+
+single or multiple.
+
+
+
+(c)    The Bedding-in Cycle
+
+As an initial cycle, and to allow for bedding-in of the
+
+test     equipment,       the     release            of        any     frictional
+
+restraints,    the barrier is       to be           loaded up           to 75% of
+
+its design     service load;        the bedding-in load shall be
+
+applied in     at least     three       (or    six)       equal increments,
+
+with deformations        being monitored at each increment of
+
+the load cycle.
+
+
+
+The testing     and     barrier     can       be     considered           to have
+
+satisfactory     completed        this        part        of     the     test    if
+
+recovery to ±10% of its original                   position is achieved.
+
+If the barrier fails to achieve this level of recovery,
+
+the engineer     shall     establish          the     reason           why before
+
+restarting the        bedding-in cycle.             The barrier shall be
+
+deemed defective        unless a     satisfactory explanation is
+
+obtained for these results.
+
+
+
+(d)          The Test Schedule
+
+The schedule should reference the number of the barrier
+
+in accordance with the           'Barrier Location                   Plan'.     From
+
+year to year, the barriers to be tested will vary.                               The
+
+engineer should        provide     to     the       testing           authority a
+schedule of the 25% of all the barriers to be tested in
+
+that year,    together with any additional              barriers which
+
+the prior     inspection has          recorded may be of defective
+
+condition.
+
+
+
+The test loading is to          be     applied    on    five    (or ten)
+
+approximately       equal     increments,    the loading increment
+
+being maintained for five minutes prior                 to measurement
+
+of    the    deflections.        A record should be        kept of all
+
+deflections at each increment of load.                 The load should
+
+then be     released in the same increments and the extent
+
+of permanent deformation          (mm) measured after release of
+
+all load.
+
+
+
+(e)         Criteria for Compliance
+
+Provided     that      the    structure     has     been     bedded-down
+
+correctly     prior     to     testing,     it      should      show   no
+
+significant signs        of permanent       deformation.        This may
+
+be assumed to have           been demonstrated         if the following
+
+conditions are met:
+
+
+
+     (i)    The     recovery     of     the deflection is at least
+
+             75% of the maximum deformation recorded under
+
+             the full proof load.
+
+ (ii)       Existing cracking,            or deformations are shown
+
+             not to     extend significantly during the test
+
+             and the     barrier as       a whole      showed no great
+                non-linearity of deformation during test.
+
+(iii)           The barrier shows no other signs                 of distress
+
+                as a result of the test cycle.
+
+
+
+Where    possible,           comparison      should   be   made         of   the
+
+performance of other               similar   barriers      and        with that
+
+under    any         previous      similar    tests    to establish that
+
+there      is        no      significant       reduction         in     overall
+
+performance of that barrier with time.
+
+
+
+In the     event of          the inspection revealing a structural
+
+condition that is likely to prove unsatisfactory or the
+
+barrier failing             to comply     with the     conditions of the
+
+proof testing, it shall be deemed                   defective and either
+
+replaced        in        total,    or   repaired     so   as     to     enable
+
+compliance with further proof testing.
+References
+
+
+
+1)   BS5950 Pt 1 (1985) Structural Use of Steelwork in Building:
+
+     Section 7 Loading Tests
+
+
+
+2)   ISE Load Testing   of   Structures    and     Structural Components
+
+     (Revised Draft for Approval: Report of ad hoc Committee
+
+     January 1989 EA/89/1)
+
+     Section 2.2     Types of Test   Site Acceptance Test
+
+     Section 3.7     Bedding-in Loads
+
+     Section 3.8.3   Test Loads
+
+     Section 3.8.4   Measurements and Observations
+
+     Section 3.8.5   Criteria for Compliance
+
+     Appendix 1 Code Requirements C - Site Acceptance Tests
+
+
+
+3)   ISE Safety Considerations for the Design and Erection of
+
+     Demountable Grandstands
+
+     Chapter 3       Proof Loading Tests    (p8)
+
+     Chapter 9       Inspection             (pl4)
+
+
+
+4)   ISE Appraisal of Existing Structures 1980
+
+     Section 3.2.6   Load Testing
+
+     Section 4.1.5   Condition
+
+     Section 4.2     Testing
+
+     Appendix 6      Methods of Test - T17 Optical         Methods
+
+     Appendix 4      Types of Defect: Structural Steelwork p47
+ISE Appraisal of Sports Grounds Draft October 1989
+
+Section 5.6    Crush Barriers
+
+Section 6.3    Survey of Conditions and Record of Findings
+
+Section 6.4    Potentially Dangerous, Degraded or
+
+               Substandard Fabric
+

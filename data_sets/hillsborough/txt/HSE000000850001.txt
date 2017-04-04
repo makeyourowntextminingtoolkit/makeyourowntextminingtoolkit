@@ -1,0 +1,256 @@
+Dr C Nicholson
+D/D SEL 1
+
+
+RESEARCH ON CROWD SAFETY
+
+
+Further to your recent request, these are my suggestions for research on
+crowd safety:
+
+1) The effect of crush barrier spacing on barrier loading. Is the
+maximum spacing between barriers in the same row (currently 1.4m in the
+Green Guide) sufficient to prevent barriers further down the terrace
+receiving extra crowd loading? We discussed this point briefly with Prof
+Smith recently.
+
+2) An investigation of crowd density variations within a terraced area.
+To what density will people pack without constraint?
+
+3) Revision of specified barrier dimensions to take into account
+increases in average height and weight.
+
+4) Investigation of remote counting techniques. This may be a bit
+fanciful but it could be useful to discover whether any methods exist
+e.g military applications.
+
+Apart from measuring loads on barriers, i.e. strain gauging, and
+appraisal of new barrier designs, I cannot think of any 'engineering'
+work which would contribute to increased safety.
+
+
+
+
+2 February 1990
+                                                                    H=!./II
+                                                                                    w ?
+                                                                              -   ; " 3 (930
+
+
+
+
+               NOTE OF A MEETING HELD IN MAGDAT.TCN HOUSE ON 17 JANUARY TO DISCUSS
+                                         CROWD SAFETY.
+               Present were:-                         CC
+
+               Dr L Derrick^--    SGPC C?)                                    \ iaJc  ImxdZ'
+               Dr C NichoJ^6n -   RLSD                                        ) N2A£OXCiK
+                              -   FAID HQ                                 '       su q q eiH ci^
+                              -   TD3
+                              -   Leisure NIG                                     - Sec- kxltpcxju
+                              -   LAU
+
+                                                                     C 0 - nACHOl-S£>nJ
+               BACKGROUND
+
+               1.   The meeting had been arranged to discuss what further work
+               had taken place on crowd safety and to discuss a possible approach
+               to advice and guidance in the leisure industry with the imminent
+               transfer of some enforcement responsibilities to local
+               authorities with effect from the 1 April.
+               TD
+
+               2.   M r e x p l a i n e d that he had been working with the National
+               Outdoor Events Association on the development of a British
+               Standard.     TheBSI Project manager involved had seemed committed
+               to the work andhad indicated that resources were available.
+               Generally, Mr         ^iad been looking at the design of structures
+               with the users psychology in mind, He thought it was possible to
+               design for crowd safety and to provide an effective engineering
+               solution to some aspects.      On top of that, effective management
+               would be needed to work within the parameters which the
+               engineering solution offered.      He had already undertaken some
+               initial preparatory work on temporary stands but this work needed
+               further extension and would require some 50 days of effort to
+               produce it up to the sort of standard for a guidance note.
+               He did not think that CONIAC would have an interest in temporary
+               stands.                  "
+Asr„..v.       RLSD
+
+                3.    Dr Nicholson indicated that there had been two meetings of
+                the working group on the Green Guide. RLSD had also done some
+           ?   work on competent persons.    He said that Lord Justice Taylor, in
+               Tfie^cbntext of the Hillsborough inquiry, had decided that the
+                crowd density of 5.4 persons per square metre should be reduced by
+                15%. RLSD had indicated that there did not seem to be any sound
+                scientific basis for this judgement but this would almost
+                certainly feature as a recommendation in any report.    Dr
+                Nicholson said they had not seen the results of the report nor had
+               been given any inclination as to what the report was likely to
+                contain.   However, the line of questioning from Lord Justice
+               Taylor's office had clearly shown the way that the report was
+                                                 1
+likely to go.   The final report was probably fairly close to
+completion and there was to be a meeting at the Home Office next
+week to discuss it.
+4.   He referred to the Institution of Structural Engineers, who
+had undertaken an appraisal of sports grounds with an audience of
+designers principally in mind.
+5.   There was a general discussion over the prosecution arising
+from the Hillsborough disaster.   It seemed likely that
+manslaughter was being considered by the West Midlands Police who
+were looking at the whole conduct of the Hillsborough disaster but
+it seemed unlikely that the element of recklessness necessary for
+manslaughter was likely to be present.   There were probably also
+breaches of the Safety of Sports Ground Act of a technical nature,
+failures by the local authority to maintain the licence or to keep
+it up to date and there might also have been breaches of the
+Health and Safety at Work Act.   Proving the offences was likely
+to be difficult in this case.   Whilst approaches had been made by
+the West Midlands Police to Dr Nicholson, a   decision on any
+prosecution was likely to be taken by the Crown Prosecution
+Service in conjunction with the Director of Public Prosecutions.
+
+6.    Dr Nicholson indicated that the cr<^sh barrier^ which had
+collapsed in the football stadium had been corroded but, in any
+event, had collapsed at a pressure which was likely to have
+inflicted very serious injuries on the crowd who were restrained
+by them.    The progressive collapse of two^Sarriers had led to the
+catapulting of large numbers of people down the steps towards the
+"front of the stadium resulting in the injuries which had been
+found.
+SGPC
+7.    Dr Derrick indicated the work which her Crowd Safety Working
+Group had undertaken and said that it seemed likely that some
+research work was going to be needed in the area of crowd dynamics
+and crowd psychology.    The Creasy work which had been produced in
+1945 to 1946, though unpublished, was generally relied on as a
+source of expertise in this area, but the work dated. There was
+also some American work but this was unavailable at the present
+time.
+
+LAU
+8.   Mr         indicated the work which the LAU had done m
+setting up a working group to respond to local authorities and
+employers1 pressures for advice and guidance in the area of pop
+concerts.
+Form of General Guidance
+9.   There was a general discussion about the form which any
+guidance might take and it was felt that a_core module was
+probably needed which would describe the general principles which
+applied to all leisure activities, for example, crowd behaviour,
+crowd dynamics, crowd psychology, safe systems of work etc.
+Supplementary and complementary modules would also be needed then
+                                2
+^       n> n>
+©     -jb' <>
+          o
+    -r
+
+
+
+                to either amplify or qualify the general guidance to deal with
+                particular applications.     Modules might be needed on
+                theatres/cinemas; horse and agricultural shows; car/motor-cycle
+                events; aircraft shows; stock car racing; pop concerts (indoor and
+                outdoor)): discotheques and clubs; shopping malls; sporting
+                activities; transport termini; and religious and cultural events.
+                The APAU, who were not represented, would probably be able to
+                provide some expertise on the management of health and safety as
+                part of the core general guidance.
+
+                10. In describing the visits to pop concerts which Mr                and
+                Dr Derrick had undertaken, Dr Derrick indicated that the noise
+                levels had been particularly noticeable. Dr Nicholson suggested
+                that noise levels at discotheques, clubs and pop concerts might be
+                a suitable area for a Technical Development Survey.        The
+                requirements to get one of these set up was that at least two
+                divisions would need to support it.     M r i n d i c a t e d for TD
+                that they would regard it as a useful exercise as did Mr
+                He pointed out that this would also be a useful demonstration of
+                collaboration between local authority inspectors and FAID.        Once
+                the objective data on noise levels and exposure of workers and
+                members of the public had been collected, it would be possible to
+                undertake some medical evaluation of the likely damage that was
+                being caused.   On the basis of this, it might then be possible to
+                try and educate employers in this area to keep noise at reasonable
+                levels. If this failed then enforcement action might be
+                necessary.    M r a n d      Mrs          poth agreed it would be
+                helpful to have a common enforcement policy in this area because
+                of the sensitive area which was involved and to ensure uniformity
+                and consistency of approach.     Work would need to be set in hand
+                to develop a Protocol.
+
+                11. Dr Nicholson asked to see details of the "Mojo" barrier which
+                was being used at Wembley. The drawings produced by the Concert
+                Promoters Association with their ideas for a circular barrier at
+                Castle Donington had already been copied to TD and Dr Nicholson
+                also asked for copies; there was potential for this having a more
+                general application but a detailed evaluation of it would be
+                needed.   Dr Derrick suggested that research on barriers might be
+                a further area that might be needed. This was generally agreed.
+                Dr Nicholson indicated that in Liverpool some work was being done
+                on packing densities of people.
+                Accidents
+
+                12. Mrs          said that she was trying to identify information
+                on accidents which might have occurred in the area of pop concerts
+                and other activities, but it seemed likely that little information
+                was available.   Dr Derrick indicated that a number of places that
+                had been visited by her did have first aid facilities and the
+                first aiders maintained quite detailed records going back over a
+                period of years. Most of the accidents were of a fairly trivial
+                nature involving faints and hysteria but there were some more
+                serious accidents. Mr          said he would check on the
+                agricultural side of FAID to see what information       they had
+                on accidents at the kind of shows where they were the enforcing
+                authority.
+
+                                                  3
+FURTHER ACTION
+
+13. a) Mr         would maintain contact with the National Outdoor
+Association encouraging them to undertake work with BSI which
+would fit with HSE priorities and other work.   For example,
+technical BSI standards on temporary stands, or barriers, or
+seating would dovetail with the guidance which HSE might produce.
+He would keep those present in touch with the work.
+
+     b) Dr Nicholson and Mr        would prepare some initial
+suggestions for research on crowd safety.
+     c)        ©r:.„Kicholsoni would seek clarification from the West
+Midlands Police about their request for HSE involvement with the
+Hillsborough prosecution and liaise with Dr Derrick over a
+possible Executive paper.
+     d)   Dr Nicholson^and Mr       would consider the various
+barrier designs proposed by the Concert Promoters.
+
+     e)   Mr         tfould proceed with the proposal to provide
+general guidance on pop concerts.    The next step was to put the
+proposal to HELA.   He would also pursue with those present and
+SGP B the proposal for a survey into noise levels at pop
+concerts.
+
+     f)
+     j-)  Mrs         and Mr        .Twould gather ' together
+                                                     -- -O ------- - what
+                                                                     ----
+information they ouuxJ on the kind and extent of injuries at large
+gatherings, particularly in the leisure industry.
+     g)   Dr Derrick said she would pursue the longer term
+proposals for general principles of good management of crowds.
+She proposed to discuss the issue with the Home Office and visit
+other leisure industry venues plus Professor Carter at Sussex
+University.
+14. Dr Derrick said that it would be necessary to hold a further
+meeting of the Crowd Safety Group involving most of the original
+participants, the local authority interest now being represented
+by the LAU rather than by the North West Leicester District
+Council inspectors.
+
+
+
+
+SGP. C
+February 1990
+

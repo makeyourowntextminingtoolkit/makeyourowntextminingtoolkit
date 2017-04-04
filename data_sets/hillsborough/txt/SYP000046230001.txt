@@ -1,0 +1,273 @@
+T itle                                                                                                     "Mcr
+(Include source and any document num ber i f relevant)
+
+                                             /
+Receiver's instructions — urgent action — ^<S/No
+                                                                                                          Receiver
+
+
+
+
+D ocum ept/egistered/indexed as indicated                                                                  Indexer
+
+
+No(s) of actions raised
+
+Statement reader's instructions                                                                       Statem ent Readier
+
+
+                                                                                                          N f L it
+
+Indexed as indicated                                                                                       Indexer
+
+
+Nofs) of actions raised                                                                                           TS
+
+Examined - ■ fu rth e r action to be taken                                                                         S10
+
+
+
+
+Further action Mo(s)                                                                                       Indexer
+
+
+
+When satisfied all actions raised O ffice Manager to endorse oth e r D ocum ent Master Num ber Form
+H IL L S B O R O U G H
+ IN Q U IR Y TEAM
+
+
+
+
+   c&mp@un£nt&
+SJA20/1 2 2 . 3 . 9 0
+
+
+                                FORCE CONTROL ROOM
+
+                                 RECORDING SYSTEM
+
+
+
+There are a total of four VHF radio channels and a
+
+number of internal, national, emergency (999) and
+
+motorway emergency telephones in use within the Force
+
+Control Room.              In addition there are also direct lines
+
+to the Fire and Ambulance Service controls available
+
+to each console.              All incoming and outgoing radio and
+
+telephone calls from the room are recorded on a
+
+multi-channel ’Racal’ tape system.               The tape and radio
+
+channel numbers do not correspond.
+
+
+
+The following schedule 1 shows the ’Racal’ recorder
+
+channels together with the corresponding
+
+console/internal extensions/switchboard and radio
+
+channels.               Schedule 2 shows the tape channel and what
+
+is being recorded on it together with the console from
+
+which it is being made.
+
+
+
+This is explained in order that the reader can
+
+understand the origin of the extracts taken from
+
+transcripts of the recordings from the Force Control
+
+Room system, which follow the schedules.
+
+
+
+The UHF Channel 25 transmissions between the Force
+
+Control Room and the Police Control Box at the ground
+
+were on a ’stand-alone’ system and not therefore
+
+ recorded.
+                                   SCHEDULE X
+
+
+
+                              FORCE OPERATIONS ROOM
+
+
+
+                             RACAL RECORDER CHANNELS
+
+
+
+
+SOURCE                                                 TAPE CHANNEL
+
+
+
+Emergency Fallback **                                  Channel 1
+
+Time Injection                                         Channel 2
+
+Console 1                                              Channel 3
+
+Console 2                                              Channel 4
+
+Console 3                                              Channel 5
+
+Console 4                                              Channel 6
+
+Console 5                                              Channel 7
+
+Console 6                                              Channel 8
+
+Console 7                                              Channel 9
+
+Console 8                                              Channel 10
+
+Console 9   Motorway 1                                 Channel 11
+
+Console 10 Motorway 2                                  Channel 12
+
+Console 11 Sergeants                                   Channel 13
+
+Console 12 Inspectors                                  Channel 14
+
+Console 13 Major                                       Channel 15
+
+            Incident Room
+
+Extn 3251   Abnormal Loads                             Channel 16
+
+Extn 3254} Major                                       Channel 17
+
+Extn 3255} Incident                                    Channel 18
+
+Extn 3253} Room                                        Channel 19
+SOURCE                                                  TAPE CHANNEL
+
+
+
+Tel 700700      Information                             Channel 20
+
+                Line
+
+Extn 3249       Telex Room                              Channel 21
+
+Switchboard 1                                           Channel 22
+
+Switchboard 2                                           Channel 23
+
+Radio           Channel 1                               Channel 24
+
+Radio           Channel 2                               Channel 25
+
+Radio           Channel 3                              Channel 26
+
+Radio           Channel 4                               Channel 27
+
+
+
+
+** Should any of the operational channels fail they will automatically divert
+
+to channel 1.
+                           SCHEDULE 2
+
+                    FORCE OPERATIONS ROOM
+
+                  RACAL RECORDER CHANNELS
+
+
+TAPE CHANNEL   CONSOLE                      FUNCTION/RECORDING
+
+1                                           Emergency fall back
+                                            system. Should any of
+                                            the operational channels
+                                            fail they will
+                                            automatically divert to
+                                            Tape Channel 1.
+
+2                                           Time and date injection.
+
+3              Console 1                    Monitors radio and
+                                            telephone calls, is a
+                                            back up to Console 2,
+                                            uses VHF Channel 2
+                                            covering Sheffield and
+                                            Barnsley Divisions.
+
+               Console 2                    This is VHF Channel 2,
+                                            it constantly monitors
+                                            all telephone calls.
+
+               Console 3                    This is VHF Channel 1,
+                                            monitoring telephone
+                                            calls and covering
+                                            Doncaster and Rotherham
+                                            Divisions. Also
+                                            covering the motorway
+                                            system.
+
+               Console 4                    This is a back up to
+                                            Console 3.
+
+7,8,9 and 10   Consoles 5,6,7 and 8         These mainly deal with
+                                            incoming emergency (999)
+                                            calls and internal phone
+                                            calls. If needed they
+                                            can all monitor and
+                                            transmit on VHF Channels
+                                            1 and 2.
+
+11 and 12      Consoles 9 and 10            These deal with the
+                                            motorway switch
+                                            telephone (emergency
+                                            calls) from motorists.
+
+13 and 14      Consoles 11 and 12           The sergeants and
+                                            inspectors consoles.
+                                            These can monitor and
+                                            transmit on VHF Channels
+                                            1 and 2 and receive
+                                            emergency (999) and
+                                            other phone calls.
+TAPE CHANNEL      CONSOLE      FUNCTION/RECORDING
+
+15                Console 13   This is located in the
+                               Major Incident Room. It
+                               has a facility to
+                               transmit and monitor VHF
+                               Channel 1 and 2 and also
+                               telephone communications
+                               incoming and outgoing.
+
+16,17,18 and 19                This covers the
+                               telephone lines within
+                               the Major Incident Room.
+
+20                             No longer in use.
+
+21                             The communications
+                               within the telex room.
+
+22 and 23                      The Force switchboard
+                               (Sheffield and Sheffield
+                               HQ).
+
+24,25,26 and 27                These monitor VHF
+                               Channels 1,2,3 and 4
+                               respectively.
+

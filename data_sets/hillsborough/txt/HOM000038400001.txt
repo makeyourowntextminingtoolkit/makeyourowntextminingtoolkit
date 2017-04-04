@@ -1,0 +1,2460 @@
+                                                                 Roger Houldsworth
+                                                                              No 1
+                                                     Date Sworn 25th November 1996
+
+
+
+
+                                 AFFIDAVIT
+
+
+I, Roger Houldsworth, of                                                   MAKE
+OATH and say as follows:
+
+      I amM years
+            S '* *old
+                    ' and hold an H N p qualification as an Electronics Engineer.
+
+2    Save as herein stated all facts and matters deposed to hereafter are within my
+      own knowledge, information and belief.
+
+3    At the time of the Hillsborough disaster on 15th April 1989,1 was engaged on a
+     contract basis by Sheffield Wednesday Football Club as a video technician. As
+     such I have a detailed knowledge of the workings of the closed circuit
+     television systems (“the systems”) in operation at the club. In particular, I was
+     on duty on the day of the disaster itself and was charged with the responsibility
+     of ensuring that the systems were fully functional and working properly.
+
+4    In the immediate aftermath of the disaster I made a comprehensive statement
+      detailing the scope and extent of the systems and the remedial works I had
+      carried out immediately prior to the disaster to ensure that the systems were in
+      full working order. My statement also described the circumstances in which 2
+      video tapes went missing on the night of the disaster. There is exhibited hereto
+      and marked “GH1” a copy of that statement.
+
+5    Having made my statement I was under the impression that the contents thereof
+     would be considered by the Taylor Inquiry and by the Coroner at the Inquests
+     of the victims held between 19 November 1990 and 28 March 1991. I was not
+     called as a witness to either Inquiry.
+
+6    I have recently read extracts of the actual evidence submitted to both Inquiries
+      in relation to the systems. I feel compelled to rebut that evidence. There is
+      exhibited hereto and marked “GH2” extracts of the said evidence and my
+      rebuttals thereof.
+7    I am anxious to ensure, and the public interest requires, that all the evidence
+     relating to the systems and the quality of the visual material available to the
+      South Yorkshire Police as the disaster unfolded, is the subject of further
+      scrutiny.
+
+Sworn this 25th day of November 1996.
+
+Before               ..jri.'Ak'^'L 1 tkh ...................
+A    S o lu J te r
+                                                                    Roger Houldsworth
+                                                                                 No 1
+                                                        Date Sworn 25th November 1996
+
+
+
+
+This is the Exhibit marked “GH1” referred to in the Affidavit of ROGER
+
+HOULDSWORTH attached hereto.
+
+
+
+Sworn this 25th day of November 1996 before
+                                fiU .   //. f k )            /-
+                                                    *      ...
+
+
+
+
+                                          71
+                                                     I          /                        /fc.i'.S')
+      i.i /rLuj
+
+
+
+                                            S T A T E M E N T
+
+
+
+   I.      ROGER         HOULDSWORTH         of
+
+                     WILL STATE
+
+
+
+  I      am 42 years old and up to the week commencing 10th April                                   I
+
+  was       employed           as     Technical     Director    by       M.W.       (Technology)
+
+  Limited           of       Sheffield.       I had been employed in that                  capacity
+
+  for       some         2    years until I resigned my position.                    I     hold    an
+
+^^H.N.C.           qualification            as an Electronics Engineer.                  Prior     to
+
+  working           with       M.W.     (Technology)     Limited         I    had     previously
+
+  worked           for       more     than 10 years abroad,         in       the     electronics
+
+  field
+
+
+
+  When I returned from working abroad, in 1986, I was approached
+
+  by      the then Company Secretary of Sheffield Wednesday Football
+                                                     t
+  Club,           Dick       Chester,       who asked me to assist in               relation       to
+
+  certain           problems          the    Club   were having      with          their       closed
+
+ ^ircuit           television           systems     (CCTV).    I understand              the     CCTV
+
+  system          then installed had been put in place by Philips Alarms
+
+  in      about          1984 but that Company had subsequently gone out                           of
+
+  business.
+
+
+
+  I     did look at the system at Mr. Chester's request and as then
+
+  designed and installed it was not working properly.
+
+
+
+
+                                               It
+                                               - 2 -
+
+
+
+Shortly           afterwards       I    joined M.W.       (Technology)         Limited       and
+
+whilst        their          employee   I    completed my         examination          of    the
+
+existing           system and re-designed it to improve the system                           and
+
+also        the     computer system related to it.                    I also     re-designed
+
+the     CCTV        system       which had been installed by               the    Club       for
+
+Police        use - this being a separate system from that                         operated
+
+by the Club for its own purposes.
+
+
+
+^he Cl u b S y s t e m
+
+This        consisted of a number of static T.V. cameras situated at
+
+strategic               points    around the     ground.         As     aresult    of       my
+
+examining           the       system I arranged for some additional                    cameras
+
+to     be     installed to enhance it, particularly when                         the     Spion
+
+Kop part of the ground was re-opened in 1986.
+
+
+
+Being        a static system the cameras                  are in a fixed position and
+
+focus         on         a    particular fixed       area.        They were        in       fact
+
+positionedat                 strategic -points       to           view    the     turnstile
+
+entrances,               and there wasalso a camera covering the                   players'
+
+entrance.               Within the CCTV room, situated in the south                      stand
+
+near        the     players' entrance, there is a bank                   of     20 monitors
+
+plus        a monitor for the computer system.                    This computer system
+
+records           the    number of spectators             who come through the turn­
+
+stiles            for    each     separate    area         of   the ground.       Of         the
+
+20 monitors             within the control room,            19 display the scene              as
+
+depicted           in the Club's static system.                 The remaining          monitor
+
+is connected to the Police CCTV system.
+                                   ——
+                                                73
+                                                          - 3 -
+
+
+
+Each - of the monitors connected to the Club system is in                                                 turn
+
+connected                 to        a VCR so that we have the facility to tape                             the
+
+film        shown              on    those       monitors, on a           video    tape.           "of     the
+
+19 static                 cameras however 1 was not in commission at the time
+
+because           a wall had been constructed after the camera had been
+
+installed,                  which          obstructed        that    camera's       view           of      the
+
+relevant              turnstiles.                The turnstiles in question were                         those   j
+
+j^umbered             9-16            which      will     be referred to           later           in    this
+
+Statement.
+
+
+   s'
+The Police system
+
+This         consisted                of     5    fully      functional         remote     controlled
+
+cameras           - i.e. those cameras could pan tilt through 3 60°, and
+
+zoom        on        a     16/160 lens.           They are c o n t r o ^ e d from             a    Police
+
+control           box          which        is fixed in position at               tfre    south          west
+
+corner           of        the       ground, adjacent to the western                     end       of     the
+
+south            stand.               The    cameras         for    the    Police        system           are
+
+positioned as follows:-
+
+
+
+        1        on        the       upper south west corner               of     the     west
+
+        stand;
+
+
+
+        2        are       positioned on the top of the south                           stand,
+
+        1 at              about its centre point and the other to                          the
+
+        eastern end of the stand at the top;
+
+
+
+        1 at the top (rear) of the roof of the Spion Kop;
+
+
+                                                        74
+             1     at the south west corner of the ground, mounted
+
+             on     high           near             the score board and close                    to    the
+
+             Police control box.
+         s
+
+
+
+
+  Within the Police control box there are 7 T.V. monitors.                                                         5 of
+
+  them        are dedicated,                        1 to each of the CCTV cameras.                         The other
+
+  2          are     connected to special time lapse Video                                        Recorders,          and
+
+^ o u        can     switch from camera to camera by means of                                          a     passive
+
+  switch           within the control room so that the Officer in                                             Charge
+
+  can        record        the                   scene          being displayed on any           1     of     the     5
+
+  cameras.               The              remaining                    2    monitors are used    so        that     the
+                               n— i ...    ■ -       .    ..... .   _____
+
+
+  Officer            cancheck which of the 5 cameras are being                                              recorded
+
+  at     any       given time.                       P.C. Trevor Bishop was the                   Officer           who
+
+  worked           the     CCTV system for the Police but it was                                       not        usual
+
+  for     him to be alone in the control room - thei;e might perhaps
+
+  be     3 or 4 other Officers in there with him at any given                                                      time
+
+^ o r     their own reasons - e.g. to watch a section of the                                                      crowd
+
+  from an elevated position.
+
+
+
+  Within           the Police control box there is also a telephone                                                land
+
+- line       which         is             part of Sheffield Wednesday                        F.C.'s         internal
+
+  telephone              system,                  and          the Police have           their   own        separate
+
+  telephone land lines installed also.
+
+
+
+  The events of Saturday,                                15th April,              1989
+
+  Although               I had previously resigned my position as                                       Technical
+
+  Director           of M.W.                      (Technology) Limited I was asked by                        Graham
+
+  Mackrell           to attend                       at              the ground on that day       in        case     my
+
+                                                                                                           A * * # '
+                                                      - 5 -
+
+
+
+    assistance was required.                    We knew that the F.A. Cup semi-final
+
+    between        Liverpool           F.C.     and     Nottingham Forest      F.C.        was     a
+
+    sell-out           all ticket match and I arrived at the ground                        fairly
+
+    earl^         on     the Saturday morning to check that everything                           was
+
+    in     order.        I was in fact asked to rectify a fault on 1 of                          the
+
+    Police        CCTV        cameras, the one at the south west               corner           near   y*.
+
+    the     score        board.        I checked it,found it was not           functioning
+
+    properly           and     I     made the necessary adjustments to               the        iris
+
+^^Qtf«r6Ts^^*ithin the camera and thereafter checked that it was
+y    '                   \
+/ working          OK. 1 Late           in the morning I then went          to       the        CCTV
+
+    co7fErol~~room where P.C. Harold Guest was also in                           attendance,
+
+    as     usual.        In     addition        there    was present   Doug      Lock,           the
+
+    Security           Officer for Sheffield Wednesday F.C. and
+
+    of     M.W.        (Technology).           P.C. Guest, as a matter         of     routine,
+
+    would     have           ensured early in the morning that cassette                        tapes
+
+    were     inserted           in     the     19 VCRs - 1 of course ‘ would              not     be
+
+    recording           a picture because the camera was out of action                           but
+
+^^.C.        Guest           would     nevertheless routinely load all               19.         The
+
+    authorised           crowd       capacity       figures for each section              of     the
+
+    ground        was        part of the data stored in the computer, and                        the
+
+    display            monitor        for     the   computer   would    show        how         many
+
+    spectators           came        through each of the turnstiles in               operation
+
+    as     the day went on.                 The system was so designed that when the
+
+    turnstiles           for a particular area had admitted 90% capacity to
+
+    that     area, the total for that section would flash on the T.V.
+
+    screen        and if, for example, one part of the ground was                              being
+
+    filled        up    quickly        and there was capacity          in   another             part
+
+    (subject           to segregation of supporters) that would enable                           the
+
+
+                                                                                                         Q
+                                                   - 6 -
+
+
+
+  Police         to     be       aware     that    they     should     direct       remaining
+
+  supporters           to    a     different set of turnstiles.              Each    of     the
+
+  turnstiles           was       also fitted with an infra-red ray sensor,                   so
+
+  that _ if       spectators             tried to climb over the          turnstiles        but
+
+  within        the     turnstile enclosure, that would also be                     recorded
+
+  on      the         screen,            under a    separate     heading.I       produce
+
+  [Exhibit 1]           a copy of the print-out from the computer monitor
+
+  for      the        game        in    question.     Numbers     climbing      over        the
+
+^^turnstiles          within the enclosure would be shown on the                        column
+
+  headed        "Check       Total".         The    first    heading     "Gate"      is     the
+
+  turnstile        number              through which the fans entered,            the "Gate
+
+  Total"        shows       the        number who entered through each              of those
+
+  turnstiles and there will be sub-totals for each section.
+
+
+
+  I     was present in the CCTV control room from about 11.30                             a.m.
+
+  that     morning          when the turnstiles were opened and                 spectators
+
+  were     entering the ground.                The Spion Kop and the south                stand
+
+^^had     been designated for Nottingham Forest supporters, and the
+
+  north     stand       and west stand (including Leppings                      Lane)     were
+
+  reserved       for        Liverpool supporters.            The authorised         capacity
+
+  for the various sections of the ground was as follows:-
+
+
+
+                       Spion Kop                             21,000
+
+                       South Stand covered                     5,524
+
+                       South Stand uncovered                   3,310
+
+                       West Stand                              4,465
+
+                       Leppings Lane                        ( 10,100 |
+
+                       North Stand                             9,702
+
+
+                                                      77
+                                              - 7 -
+
+
+
+
+ By about 2.45 p.m. the Kop and the south stand areas were full
+
+ of     Nottingham           Forest supporters but the north stand and              the
+
+ west     stand areas were only about 2/3 full at that time and it
+
+ was     noticeable             from the static camera covering the         Leppings
+                                                                                          O mVv6v-A. /
+ Lane turnstiles that there was a build-up of fans outside the
+ *r~    : ' ~                          “     1    ' ' * — —
+ turnstiles in that area.  I produce [Exhibit 2 ] a plan of the
+
+ ground     showing the Leppings Lane entrance to the west and the
+
+^^urnstiles           (7     in    number)   which    admit   spectators     to     the
+
+ terraced        area of the west stand are designated A/G.                 It     will
+
+ be     seen that to the south of those turnstiles runs a concrete
+
+ path     which leads around eventually to the south stand.                        That
+
+ path     is bounded on the one side (the south) by the river                       Don
+
+ and     on the north side by a high brick wall.                Situated in that
+
+ wall     just        immediately       beyond the turnstiles - i.e.         to     the
+
+ east     of them - was an exit gate designated Gate C which is                       a
+
+ double     gate        of      the   concertina metal type     which      was     kept
+
+ closed.         One       of     the static cameras of the CCTV        system      was
+
+^^ituated        on     a post just east of that gate, the camera                 being
+
+ positioned so as to show the area of the turnstiles A/G.
+
+
+
+ It     was through the monitor showing the scene depicted by that
+
+ camera     that it was possible to see the build-up of supporters
+
+ outside     the turnstiles.             The Police had erected some barriers
+
+ across     the        pathway a short distance east of Gate C              so     that
+
+ spectators           could not walk along that pathway to get access to
+
+ the south stand.               The build-up of Liverpool supporters outside
+
+ the    Leppings Lane entrance was such that some had been forced
+
+
+                                                     78
+  beyond          the entrance to the turnstiles outside Gate C and some
+
+  of those supporters were visible within the field of vision of
+
+  the static camera.
+
+
+
+  The       position           was such that I recall commenting,     at     perhaps
+
+  2.50          p.m.,    "For God's sake why don't they delay the kick-off"
+
+  and       I     made     that comment in the presence of     Doug        Lock        and
+
+  P.C. Guest.              We    were all, as I recall, in general         agreement
+
+^ ^ ha t        it would be sensible to postpone the kick-off to               enable
+
+  people          to get into the ground, although I do not recall                 that
+
+  anyone          in     the    CCTV control room attempted   to    contact            the
+
+  Police          by radio or telephone to suggest that.           The Police           of
+
+  course were monitoring the situation themselves from their own
+
+  CCTV       system, and in particular using the camera on the                    south
+
+  west      corner         of the west stand roof.     We could of course
+                                                           see ^ .
+                                                               ^    * *"'* lyk
+  that that camera was trained on the Leppings Lane turnstiles      ,      \
+     ______                             u           —-- '      JO '*W\/ J'V
+  because      we were able to monitor the Police pictures on one of                                      ^   *
+                             --- :
+                                 ----- ------------ — — — --- — --- —                               +£4
+^^he       monitors within our control room, although we did not
+
+  have the facility to record that picture.
+
+
+
+  There         came      a time when Gate C appeared to be opened,            and          a
+
+  number          of spectators rushed through into the "reservoir” area
+
+  between          the     turnstiles and the rear of the west        stand.            An
+
+  examination             of    the video recording appears to indicate            that
+
+  this          occurred        when the Police opened the gate in an          effort
+
+  to       eject one of the spectators that way, and a number of                       the
+
+  fans      pressed through from the outside.            It would appear           that
+
+
+
+                                                7.9                        s t / s *    ?       '
+                                          - 9 -
+
+
+
+   several        hundred        got     through     before the ' gates             were        again
+
+   closed.
+
+
+
+   Subsequently           the     static        camera picked up the           fact        that     a
+
+   number     of     fans        climbed up over the           structure           housing        the
+
+   turnstiles,           and     jumped down into the reservoir area                       inside.
+
+   That     is,     it     seems,        further     indication        of     the     pressures
+
+   building        up outside the turnstiles although a steady flow                               of
+
+^J^spectators        was coming through those turnstiles at all                             times,
+
+   in the normal way.
+
+
+
+  I     recall      that        after     the first influx        of        several        hundred
+
+  spectators         through Gate C Doug Lock left the CCTV room to                               go
+
+  outside          presumably            to     report   the   matter         to     the        Club
+
+  Secretary,         Graham Mackrell, and/or to check the position                               for
+
+  himself on the ground.
+
+
+
+^^Some     time later, I am unsure of the exact time,                              I heard over
+
+  the     Police      radio        (we        had one in the CCTV           room)     a     Senior
+
+  Police     Officer           make a request that a gate be opened                        at    the
+
+  Leppings         Lane    entrance.           Police control asked which gate                    he
+
+  wished      opened       and he repeated his request 2 or 3 times.                              On
+
+  about      the     fourth occasion he said "Someone is going                             to    die
+
+  here.     Open      the gate" and Police control replied "If                             someone
+
+  is going to die open the gate, open the gate".
+
+
+
+
+                                                    80
+                                                   - 10 -
+
+
+
+     As     appears           from the video tape recording the scene the                 gate
+
+     was     then        opened apparently by a uniformed P.C., and                  a    huge
+
+     number of fans flooded into the area.
+
+
+
+     At     that        point in time I realised,            from the    numbers     already 11
+
+     displayed           on the monitor as having entered from the                  Leppings        j
+                                                                                                        , .
+
+                                                                                                              j Im jt
+     Lane turnstiles, that a dangerous situation was being created,                                 f         (
+
+    11      left the room and went down the players' tunnel to the pitch
+                                                                                                          I \/ ‘ t y X t J
+^Land        just        as    I     did so the Referee stopped the         match        as  I f *
+                                                                                                 4 *0L& »
+    /recall.            I looked over to the west stand area and I saw                    fans
+
+    I climbing          over the fence and my first thought at that time was
+
+(    that     it was a pitch invasion, and the match had been                        stopped
+i
+1
+     for     that reason.             The perimeter fencing at that point is high
+
+     and     not        easy    to climb over.       I sat down in the        stand       area
+
+     behind        the     dug-out, and watched the situation for               a     little
+
+     time     -     perhaps 2 or 3 minutes before I realised what                     really
+
+    was       occurring.                One    of the   Sheffield       Wednesday     ground
+
+     staff     came down           the tunnel holding 2 stretchers and I grabbed
+
+     one     from him and ran across with it to help ferry the injured
+
+    people         to    the       gymnasium area where the first-aid           room          was
+
+     situated.            It    was    in fact only after I had ferried 3                or     4
+
+    injured         people         in that way that I then realised           that       there
+
+    were      many people who had died as a result, and the gym was in
+
+     fact designated as a temporary mortuary.
+
+
+
+    After      helping          on    the     pitch as much as     possible     at       about
+
+    4.15/4.30           p.m. I went back to the CCTV room where
+
+    and      P.C. Guest were present, and I had a cup of coffee and                             a
+
+
+                                                        81                                                        < r.
+                                                - 11 -
+
+
+
+  cigarette.           Subsequently I took print-outs of the                      attendance
+
+  from the computer monitor, and ejected the tapes from the VCRs
+
+  leaving them in the machines in the ejected position so that I
+
+ could         later     know       exactly     which        tape    related      to           which
+         T
+
+
+
+ monitor/area.
+
+
+
+ I     normally        take     3    print-outs from           the     computer        for           the
+
+ attendance           figures,       2 of which go to the              Secretary,          Graham
+
+^^ackrell,        and        the third will normally to the                  Ticket        Office
+
+ staff.         However        on this occasion, since it was an                   F.A.              Cup
+
+ semi-final,           all     ticket,      I   did     at     first     give     the          third
+
+ print-out        to     P.C.       Guest at his request, since he                 said              his
+
+ Superior         Officers          might   want       it.       Later   however           Graham
+
+ Mackrell        said        that    he wanted to keep all 3             in     his        secure
+
+ possession and I therefpre retrieved it from P.C. Guest.
+
+
+                                                                                                           (j   *A       i*
+ At about 6.15/6.30 p.m. Graham Mackrell asked me to ensure the
+
+^^ideo        room was properly secured.                                 and P.C.              Guest
+
+ had     left     the ground at that time.                   I went to the CCTV                room,
+
+ locked        the cupboard doors where the VCRs were and then locked
+                                                                                   i   ~   —    ,—    ,,
+
+
+
+ the     room and activated the alarm system for the room.                                 I kept
+
+ the     key in my possession overnight.                     On locking the            cupboard
+
+ doors        where     the     VCRs     were I       do ' not      recall      specifically
+
+ checking that all the tapes were still in the machine but I do
+
+ recall        that     as I finally left the ground at about 7.30                              p.m.
+
+ that        night,    with my fiancee who works as a Receptionist                                   the
+
+ Club,        I asked the Security Guard at the players' entrance                                     to
+
+
+
+                                                         82
+                                                                                                                     1
+ensure     that    no-one   entered   the CCTV   room   overnight.     He
+pcomi.se t to do so.
+                                                                                          I
+                                                                                          ir
+I    returned to the ground at 9 a.at. on the Sunday morning          and
+
+checkedl    the   room   where it was still locked      and   the   alarm
+                                                                                          ?r-
+operative.        However when I opened up the room and checked the                       ft"
+
+
+
+VCSs     IS found that 2 tapes were missing. >_Qne of those was the
+                                                                            ^ MA.         I
+tape re .ating to the camera which looks over Gates 9 - 16/ and
+
+the othjpr was from the VCR which had not been activated at the
+time,      I have no idea who removed the tapes - I mentioned         it
+                                                                            jA * r~ C   • ii'
+to     th* Security Officer, Doug Lock, and he was surprised         and
+had no laiowledge of it.
+
+
+
+I have     ead this Statement and it is correct to the best of zny
+kncwled e and belief.
+
+
+signed
+
+
+
+Dated
+                                                                                          %•
+                                                                                          c;
+
+Witness
+                                  Wa7¥*o
+                                                               Roger Houidsworth
+                                                                            No 1
+                                                   Date Sworn 25th November 1996
+
+
+
+
+This is the Exhibit marked “GH2” referred to in the Affidavit of ROGER
+
+HOULDSWORTH attached hereto.
+
+
+
+Sworn this 25th day of November 1996 before ..—     ^          ——»-
+Comments bv Roger Holdsworth on the camera eviaenca.
+
+ I went to the club at about 8.00 am because I'd been asked by Graham
+Mackrell to give the cameras a final check. We'd had a problem with the
+camera on the scoreboard.
+I switched on all the cameras at the police control box, and checked the
+irises were working properly, monitors and VCRs were OK. It would
+have taken about three quarters of an hour.’
+
+The faulty' camera
+'There had been a flaring problems with the camera on the scoreboard -
+an electrical fault when the scoreboard came into use. It wasn't a
+problem with the quality of the picture. I had been there all day the day
+before to sort it out. On the day of the disaster itself I phase-locked the
+camera, which cured the problem, and to save any more potential
+problems, I disconnected the earth to the camera which suppressed the
+electrical supply. By the time I had finished the check, everything was
+working OK.
+
+Graham Mackrell came and talked to me when I was up the ladder and I
+said it was all working properly.
+Mick Ryan also came in when I was checking them. I would have shown
+Ryan and Goddard that they were working when I had finished.'
+
+Evidence given by police re cameras:
+
+PC Mick Rvan f in charge of phones and public address system in
+control box) savs camera 5 faulty
+
+Mick Ryan says in his evidence to Taylor p 52E re camera 5 'there was
+an apparent fault on the camera to the West stand., the one that is
+mounted on the electronic scoreboard'
+
+He also specifically describes this camera at 53 E to say 'It is principally
+directed towards the West stand terraces'.
+
+He goes on on p53 A to say 'the picture was very distorted1. He says
+that he contacted Roger Holdsworth himself about it, and Holdsworth
+'was there working on it for some considerable time'.
+
+He then says The picture was never satisfactory as far as I recall... It
+was not as clear as you would hope the picture to be...It was the quality
+of the picture which was the problem'.
+ RH: The quality of the picture was never a premium - ana . tuaa che
+ Haring problem by disconnecting the earth that morning.
+
+ Sat Mick Goddard fin charge or radios in the control box!
+
+ 1) Couldn't see pens 3 and 4 full
+                                                                                             -
+                                                                                             a_>
+ Goddard says in his evidence to Taylor p95B that it wasn't possible to
+ tell that the pens were full from the control box.                                          ^        'ttV /iuU
+ He says that at no stage before he saw people climbing over the pens      'S           * * v A /K ;W .
+ did he notice any overcrowding in pens 3 and 4.
+ ‘3 and 4 were getting full, were full. From my vantage point, they were
+ not overcrowded’
+
+rRH.  7 was able to see what the police could see on their monitors,
+                                                                               /k-o ^                      fv-kjl
+                                                                               /-Wwuf                          /u>
+ and he specifically remembers checking to see the state of pens 3
+ and~%~wherTtivir<^                                   Tcoufd see very                            )'         k(   jy l
+ clearly that the pens wereTuil to the point of overcrowding                         { t/                        ?
+                                                                                    Mi
+ 2)'Blind spot' made it difficult to see crushing
+
+ Goddard also talks on p 96 about a 'blind spot', down at the front by the /        i    A
+ fencing, obstructing the first two rows of the terracing.
+                                                                               j,
+
+
+ "Even though your view is obstructed, basically you see figures,
+ although., you would not be able to pick them out individually'.
+
+ /?/-/ ‘This evidence does not made any sense to me. based on my                                      a,     ^
+
+ knowledge of the control box. '                                       x ^ ''1
+                                                                              1                        M /M /V
+  PC Bichard (in charge of cameras and videos)
+                                                                   ^ f& J tf't-b          j(x
+ 1)Camera 5 faulty                                                   - -
+ In his evidence to the Taylor Inquiry (June 12th), P43 Trevor Bichard
+ claims, like Mick Ryan, that there was a problem with the scoreboard
+ camera which overlooked the terraces. He says that 'for a number of
+ weeks we had been having difficulty with the camera, and they had
+ been looking into having the camera replaced or improvements made.,
+ when the system had been switched on, the picture would go white -
+ you would lose what you could actually see., we seem to think it may be
+ a problem with the electrical supply to the camera.
+       On that particular day, it was not up to the mark, but it was a lot better        {k,I>a S ^ V it
+       than it had been. We were getting pictures, that is the best way of              /■ ^ f f
+       describing it’.
+
+       At the Inquest, P80 . Bichard admits that camera 5 was trained on the
+       Leppings lane end, but says that the camera 'had been faulty and in fact
+       you saw some of the problems that occurred. You were getting what is
+       called flare. It is reflection of light on coloured objects and you lose the
+       picture. The camera was not being used as much as it normally would
+       be because of the substandard picture.’
+                                                 f         A.
+       Inquest P89 B Bichard says that from 2.05 onwards there was only one
+                                                                                    lb tN-5
+       camera trained on Leppings Lane, which solicitor Mr Manning
+                                                                                        f     Ht
+       summarises as being 'a small screen and not a very easy picture to
+       distinguish and differentiate'.
+
+      At the Inquest, P93 A. Bichard again describes the camera as
+      'inadequate1.
+
+      RH: 'Bichard gives an accurate description of what the problem had
+      been, but I disagree that 'it was not up to the mark'. As far as /               Cj    J-
+      was concerned, the camera was working perfectly afterThad fixed &U               ^ 2. -
+      it tHaTmorning.
+                                                 V#W         A ^k. id               '
+                                                                                            A c*      ^
+                                                         ^                i v n n fVv^          I .
+^~s   2.)No close ups available with camera 5
+      At the Inquest P92 D Bichard says that it is not possible to get whet he
+      would call a 'close up’ view of the centre pens from any of the cameras.
+      He is defining ’close up’ as no more than 6 or 7 heads and shoulders on
+      the picture.
+
+      Inquest p96D/E/F. Bichard agrees with the comment that it is not
+      possible to zoom in so that one can clearly identify a given individual if
+      one wishes to do so. He also denies that you can zoom in and see
+      clearly facial features with the camera.
+
+      RH 'With camera 5, you wouldn't get 6 heads at the far end of the
+      ground, but you would get them in the central pens.
+       It is possible to pick out facial features with the camera. [This is
+      home out by the evidence of the families and lawyers who went to
+      Hhe ground]. It would be more difficult to pick out facial features
+       while events are happening, -but this is not the specific question that
+      Bichard was asked.'
+
+
+
+
+                                                      87
+3). Camera 5 was not only faulty, it gave a distorted view of the
+terraces
+
+Bichard describes the close up that is available of the pens from this
+particular camera (5). He says tc Taylor p43E.
+
+'A close up is available to move into those centre two pens. However,
+because of the position and the angle, it does give you a false                        ) t           o
+impression about the crowd that is in there. It is quite low down and it is
+                                                                                       CIA
+set at 90 degrees to the pens rather than looking face o n ... The picture
+it creates is a bit of an illusion about the crowd that is in there. You may
+be looking at somebody who is stood in the far corner of pen 3, and it
+may give you the impression that in fact he is stood at the far corner of
+pen 4. It is because of the angle of the camera          The physical
+position it is in is difficult to assess that the pens would be getting
+overcrowded'.
+
+RH: ’ This explanation does not make any sense at all. You cannot
+get optica! effects with crowd density. Even looking at an angle
+you've got reference points. You've got a perceptive depth which
+would give you an indication o f density. / had focused each of the
+lenses along the focal plane, so they were virtually in focus all of
+the time. A CCTV camera doesn't auto-focus, would also disagree
+that it was difficult to assess that the pens were getting
+overcrowded from that camera'
+
+4)Colour earner^ (camera 2} does not provide a very close picture
+of the terraces \           J
+Taylor P44 D Bichard says of the colour camera that although it 'does
+provide a better angled view’ of the terraces 'it does not provide as
+close a picture as the one mounted on LL itself.
+
+Taylor P63 D. Bichard says that the zoom facility of the colour camera
+was not good enough to see whether or not people were being crushed
+                                                                                               /v“
+against the perimeter fencing in pens 3 and 4.
+
+Bichard admits that it enables you to see the fence , but not to get a         t/V**         a*.
+close up of the people at the fence.                                            S'AAtsw ^
+'We must define what you mean by a 'close up'. It is closer than it is
+closer than in its extreme, yes, but it is not a close up of an individual.
+You would probably only get 30 or 40 heads and shoulders at best on
+this picture'.
+At tiie Inquest, P77B Bichard says of the colour camera 'If you were to
+take pictures of people below the camera in the uncovered seating
+area, you would get identification because they are so close to the
+camera, but once you get to the end of the South Stand area, Leppings
+lane, the magnification available on that zoom was insufficient to create
+identification'.
+(He admits, however, at 77 F that it gave you a 'reasonable view' of pens
+3 and 4).
+
+RH: 'The colour camera had the same magnification as the camera
+on the scoreboard. The magnification was reasonable (1:10). After
+all, it was designed for identification purposes. This evidence is
+contradictory and not altogether truthful, it depends where on
+Leppings Lane you are talking about. The shots of the very far side
+would obviously not be quite as detailed. But the camera was
+designed to give a view of the Leppings Lane end. You could                           ft^              t^yti > kA.
+ceitainly identify individuals with it, and distinguish their clothing. A
+shot would give you S or 7 heads and shoulders, depending on the
+crowd density'.       '
+
+fi)Camera 1j^ovides large and general picture when zoom is on                 /   1           i        iA . A.
+F?7^rBtcfiard describes the camera that could look down Leppings              U . U")                                    /'
+lane (camera 1) ’when you are using your zoom facility the picture you                    L       l.   %             ^
+are getting at the extreme is a rather large and general one1.
+
+RH: 'That the camera had been replaced 6 months earlier, and was
+so good that he could pick out a car number plate at the end of
+Leppings Lane.
+
+6}Why there is no video evidence from camera 2 before 3.00
+
+At the Inquest 79C Bichard says 'when the colour camera came into
+use, the tape had expired'. Bichard also says that the colour camera
+was also trained on the Spion Kop, along with camera 3, and camera 2
+was not retrained onto the terraces till after 3.00.
+
+
+7) Why no video recording of the terraces before 3.00.                   Lr
+Taylor P51 D. Bichard admits that there was a video going of the         hT
+situation on the West terrace from about 2.30. [yet no pictures from this T           w <5                       /
+camera were ever made available to the Inquiry or the Inquest],          J            ^
+                                                                                  fU .1       c-vO /
+At the inquest, p80D. Bichard can offer no explanation of why there is
+no video material available of from camera 5 before 3.02. He admits
+that it would have been recording before then
+
+
+                                                                         5
+Taylor P69 D Bichard claims that of the 2 VHS recordings that were
+made, one expired just after 3.00 [this does not explain why there was
+no evidence available from this tape before 3.00]. He says (Taylor p69
+H) that it finished at 6 minutes past 3.
+
+’The other tape, somewhere between 2.30 and 3.00, the actual function
+of the tape, the mode of operation, altered inadvertently.. The
+assumption is that when the radio repair man came into the control box,
+Mr Ducfcenfield actually came and stood to my right had side, behind the
+controls, and I would then move to the left hand corner and I have
+caught the video with my knee - the actual operating button.
+
+RH.Tfte buttons in the front of the machines are tiny. They don't
+stick out. It is highly unlikely that he could have knocked it with his
+knee. More importantly, it is actually impossible to flick a switch
+and go into time lapse mode if, as Bichard claims at 69G, the
+machine is already recording'.
+
+
+8)'Pictures shown to jury at inquest greatly enhanced*
+At the inquest P73 F. Bichard says that the video pictures shown to the
+jury of Leppings Lane end of the ground were 'greatly enhanced’.
+'What you must consider is that the screen we are looking at is only 12
+inches..(the tapes shown to the jury) gave a false impression about the
+accuracy of the picture you were seeing’. He agrees with the coroner
+that the image seen by the jury is 'infinitely clearer".
+
+RH: The screens in the control room were 14 inches, not 12. They
+are 5 ft in front of the camera operator. The size of the screen is in
+i elation to the position of the person watching it in the control
+mom. You get the same information as you would do if you
+showed the picWm_on a larger screen, as they do in the court. It is
+irrelevant if the image xs blown up. It is simply not true that you get
+more information on tfije screen if the picture is enlarged'
+
+At the inquest p74D Bichard says that the pictures the court have seen
+(which he initially claims that he did not recognise as his own) was
+running on a time lapse system, and was not running at the same speed
+as they would have seen it on the camera.
+[From p80 A, we know that the pictures shown to the court were actually
+taken from camera 5, the allegedly faulty camera, and showed the
+Leppings lane terraces], .
+RH: 'You only get the time and date imprinted on the recording if
+things are recorded at normal speed.'
+
+
+9) Camera 3 not trained on LL end                                     ^ ^
+P77G Bichard says that Camera 3, the one with maximum zoom S           Odt™       8
+facilities, wasn't trained onto the Leppings Lane end because there had
+been an incident at the Kop end. He agrees on p78 A that the camera
+remained on that location - then goes onto contradict himself at 78D by
+saying that it was retrained onto the Leppings Lane end, but it was not
+recorded.
+
+At 78 B, Bichard says that this particular camera would not have been
+good enough to enable identification of individuals at the front of
+Leppings Lane terraces ’it would give you an overall picture only'.
+
+RH: 'This camera was extremely powerful - and had magnification                         ^   ?
+facilities of 1:500 It would have been able to give a very clear 11                   ^ _____
+picture of the Leppings Lane terraces'.                          I
+
+10) Why pictures from camera 3 did not become part of the
+recording
+At 78 D, Bichard says that the reason the pictures from Camera 3 when
+it was retrained on the Leppings Lane end did not become part of the
+recording was as follows                                                      s / ^ r ^
+The system operated whereby at_2.30 I should have replaced both             /             .
+tapes. Because of what was happening on Leppings Lane end I didn’t                 °
+replace those tapes, and eventually I think it ran out just after 3.00. The
+camera was used, but it was not taping’.
+
+RH 'It is very unusual for them to have needed to replace both tapes
+at 2.30. It would suggest that they had been recording everything in
+real time since 11.30 am .'
+
+                                     !                                    ,
+Chief Inspector McRobbie (observer in Control Box)                    ^       ^
+The evidence on McRobbie to the Taylor Inquiry (p22C) is that he was
+impressed by the zoom facilities of/the black and white camera which
+was showing the scene on the terrace. It was used to pick out someone
+directly underneath the control box who had dropped his trousers. He
+says p26G 'the definition was quite reasonable1. ‘        1
+This appears to be the same camera that Mick Ryan described as
+'never satisfactory'.          /
+                            /
+                              /
+McRobbie is directly contradicting the evidence of his colleagues.
+                          /           ----
+                         /
+McRobbie also contradicts his colleagues when he tells Lord Justice
+Taylor’s Inquiry that you could see 'quite clearly' that ’pen 3 was full,
+and 2.. had got space’ (p29B).
+
+
+
+
+                                                                            8
+
+
+
+
+                                               92
+                                                                                                                                                                                      WG 41 2
+                                                                                                                                                                                (Amended 9.87)
+                                                                   Wost Midlands Police
+BLE
+                                                          STATEMENT OF WITNESS
+?.2 29                                         (C.J. A ct 1 9 6 7 , s .9; M .C . A ct 1 9 8 0 , s. 10 2 ; M .C . Rules 1 9 8 1 , r.7 0 )
+.'.’ 3 30
+24 31
+25
+            Name                                                                                                         ............
+26
+27          Age . . . .V-.? : . . . (yrs)                            Date of Birth                      ) .^ . . . ^                            .......................................
+28
+            Occupation................................................. ' ^                                                        .....................................................
+
+22 29       Home or business address
+23 30       and telephone number
+24 31
+25
+26
+27
+28
+
+            This statement, consisting of     ~3      page(s) each* signed by me, is true to the best of my knowledge
+22 29       and belief and I make it knowing that, if it is tendered in evidence, I shall be liable to prosecution if I
+23 30
+            have wilfully stated in it anything which I know to be false or do not believe to be true.
+24 31
+25
+26
+27          Dated the                                       day of
+28
+
+            Signed                                                                                 Signature witnessed by
+
+                                                                                                   Officer's Name
+
+                                                                                                   Rank . . . D O * . . . . .                      No. .
+
+                                          J             <Xvw                                                    .a ^ v . ..CL.
+              basis.                        ’ wjO X ’’                                                                                        Lq u a . F o o v y ^
+                                                                                                                                                                 ..r                  .
+
+
+                                          t   i*   r-     \/ .      . —   \ \              .   .      — .   .    \           A .       < -v      c i   4   < ^   \> n      La
+                                                          Yofw       s    V'OlSl                                                                                                r......
+                                          i’. O j e                                                                                                          p Q V > ^ i ..                      .
+
+
+
+                                                                                                                                                                     .Q k                            .
+
+
+                  v'O A 'iaV 'j^                                                                      Vg.                                                                                 .. .
+                   £AS)rr'. ..                                                                                                                         y ^ o ... Qhr............
+                  y vc j ^ )                       i^^ccfeiy.                                                                  .... .....................
+                    vjuo                   a .             Q iQ tv A J p s J v fe / .. f Q Q v u .                                            o if.                    \?WSL_______
+                         Irt          .   in                   n .        V tr\ < P n                                                              J'
+
+                            <3J                                                                               i.. . 9 ^ . .
+                     'c^aa«j-                                             M                ( I Q r u d b a k ) . C:O Q w .                                             ,                  J
+
+                      ^ < ? i r p 3 (Ck>                             M                                                                         ... ,«LfQ w                        .....
+                       k<uuc.                           <.u                                Vv^i s j '                j   .    < ^ p \ m                            .
+
+                        Q      k   .               '^li’u u d a u                          i S s l H ..                                                                    -4     r|W>.
+                       0.\                                                                \ Qt                  M
+                        fT S L S S U ,^                     J -J-v            ^ -0 I                                                                         f
+                                                                                                                                                       .. « X ).k A ... . .
+            Signed         .              . y-r~ '* r-.r~ :-r                       . .    Signature w itn essed by
+
+              Delete a s applicable
+                                                                                                                                                                       WG 4 1 3
+                                                                                                                                                                 (Amended 9.871
+                                                              West Midlands Police
+                                                     S T A T E M E N T OF WITNESS
+                                     (C .J. A c t 1 9 6 7 , s .9; M .C . A c t 1 9 8 0 , s .1 0 2 ; M .C . Rules 1 9 8 1 , r.7 0 )
+
+
+
+Continuation of statement o f ................................................................................................... . . . . .
+ .h t ^ k ..m i l                      Kiox a .                   R l .                               ,    v k .A-QQJfe-                     . C m
+
+ .o j a s Js                             ..            ........................... .
+                             6L               J ixwlsV                   VlO    v/vsiao
+ .                          .                                 .                               . V?. . . 9v . . . y V ^ ^ 7o ( . . . sjLv .
+     VUSL                                                    . t o Q M ; . . . . s q . .\tQjf.                                      h)£L.. c & jr * .
+      siL‘                                                  Vorw^Vvlsi                                                     -             .Ct... VU/
+      ! t a . .
+                      CajiUgjQi                                   Q>4u       Q ,lX                                   HOi vJU,QRgiQi'vJ<.
+      OS-.                                                          ::J. .. ..                                           . . . . . / . . ................
+                             xxjsS- ^                                 it>a                w     ^          squj                qLy                   e g
+                      .„                                                                                                                         ., ’
+                                                                                                                                                    (o     g m             ,
+                      c x ^ t s / . .. . J O . fc w a i . .fSUu.cjy^&l                                                                   .   V-Jrv..
+.. C Q O a a ,.^.................. .............................. .......
+.......... J J .... r o j g f w i d .... ( 9 0 ^ 1
+^            S            Q                       . . . .                .   1
+                                                                             .    .   .4. .V'W^iv^C.
+                                                                                              . . .                      . .                                .................................... ,
+
+
+                      ^pcysV                                                      ..f<2^oAL.                                       to
+                  v                                                   V ^/f-V .......iY
+                                                                                     V .L v / j Oiiu^Qj'qyy                                          r lt iV i'i'n
+     y .                                                               b a i              . s,iv .'<*-.                                          ...
+      bc.fkkjjv-                     '                  P b s Z c js .,                   ^O-KfcQKVQJ?                              ,         raiSkh
+     v^vjc               a v a h i ^ ^ e                          I                                       u
+                                                                                 ^ 43                                                            f o o ^
+     qJ/      . qJoguJ         jo .                                                                   i k k y i ' U ^ ' l o
+     r a J fa iw    g> W iiU \                                               fOJf                fcQfJ                             0 _
+
+
+
+                                                                  ,                       v+ rk V                 \Z-n ) \. ,^U ,                 I
+                                -J                                               .... VKlsJ... V'q                             .w £ x ^ J .....
+                            '4                          io<US&                   \V-S-                    rgQ*^-                   oj-^is
+     '^g_ o i a f v ^                      < xwi                                 VgAY                      VHi.          lQ f < 9 4 4 ^ 4 .•.....
+                            J (^vifi^.                                  y o ....                                  .. : ^ < a u i r > d                            su.
+                                .
+
+
+
+
+     aboyi"                     ^ <a j AA -                                                                                                                      .....
+     f e X j ' .. .'8S.., - r i ^ ... ^ X r V y u K ...V o - v S o                                                                           K $ z i!* * r ..
+                                       .
+
+
+
+
+     ^05.                                                               CkJUl                             1M-         r ^ . ‘> V . . . . ' ^ & ......
+     to a lc k k                I             i               qJ       ^ S ) ^                             vCq     .., y v s u e . r ^ S O M s /t,
+     o_s .. Ji                      raga^isd                                 A?.                ..j & M A ... ^ . Q f - W S k .IbC-. ..
+     f&^uiKKS' .                                    j             <fo<^vSUXJJ                                        P         $         (£-.).K s i o . ...
+     f c M        S             KhUOl                         (ulssO-g.                                       \       v u a s W - . A .
+     vuctfouflW                                                                       ^
+         .^7" .,'--
+                 v 3 vr'-X
+                        ;:                             ^      _                       ” ■                                          w. -
+Signed y!'. <.                                                                        Signature w itn essed by
+                                                                                                                                                                                                            5   .
+                                                                                                                                                                                                        WG 413
+                                                                                                                                                                                                  (Amended 9.87)
+                                                            W est Midlands Police
+                                                 STATEMENT OF WITNESS
+                             (C.J. Act 1967, s .9 ; M.C. Act 1980, s . 102; M.C. Rules 1981, r.7 0 >
+
+
+Continuation of statement of                                      Gooe/                       ( - k w u s s Kj O f c M .
+                                >        '   '   ' '
+                                                       U ,t-^ Y M   VU)                      YK                    liiU                    Y Y 4,                   "
+
+
+
+  M . ..                                                 ,. . 0 Y ) .                                     .                               .                        V O ^ i                         v j^
+
+                   ^                                          M q k J c u a 'n " ' A p ^ O '                                                                  " 'H "                      ' .. .........
+                       W4                \u ,'                                                O k,                               i l                     d M                £
+    1                   4                    G4Ar»vj«iJ                                 w<i                                                                   ,     ^U              suj       W.o     l u   .
+  'Q u Y i,   M . ''                                                    .. '                                                      _               'v ^ s u f... v l-o
+   VOms ,AQCn
+   veil h   o v q      ASS .                     vii i W i i n
+                                                 ajljlss:                                                      'O
+
+               J                                                                vivjt^’                        fe                         ’J l m a i F                                .
+   W            io o J C '                             iiiM         j               vU u j                     ' w o $ "                                                                      R    k
+    u o                ;y w - . 'n                           \/a              * "                 j            *                          r Y            ;                  y y ; \ r ...................
+    m                                                                               :...                      .3.....
+   f-\ . . A yV\             14 A        V 'J                H i I .1 I <                   ^ /I ^                           .                           h v i 14 I iT \ </>/"»
+   o k io t s l              t^ a j
+   M           v'<usis
+
+               Y Y 5?Y Y ib u y Y U Y ... vq lw .. .... j (Q v'jl.                                                                                                              vl~g
+                q.Y»na4j<Y Y                                  '   f c & V       ' ' '                              . .       v J ^ y ..
+
+                                               Y < ^ < L n Y 4 .... V v S .(H # ld S - S .
+                                 ^   /
+                                     .
+                    9 - ’) $ . . ’ I; ''   oi.   Vfa u e o ^ i 'V o jY .. .V^O         <rM
+                    >lYhi J ’ rl
+                   ^ Q L L -d ^ (  /   C\ Vv-N. /n
+                                                 ’
+                                                       \ OCNi. t iJn<?
+                                                    ii U i^ u ^ is
+                                                       ’
+                                                                        1 0i UO       \/b v'/fri c                                            ’   u tte                 ,
+                                                                                                                                                                            ’   ’
+
+
+                   l » .IS
+                         o          V
+                                    \ /.^o.                 nQ rO, . , M « l/fc /T ) f < x W                                                                      Q JO _                      U J d
+
+ im                                   y                    M e .                          .. ,Q K > < k ..
+                            4.'..                                                   ......Q j ^ . a / ( L ... . I t o J .. Qk>sM.
+                        -\^ O O/H                           r-^o fc«n( /c                                      OI                     \/C ) C d                                           O '—-'
+
+
+
+
+                                                                    .     .     .       .     .           .              .   t    o   .            . ^    Q   .
+
+                                                       n                                    ■-—       '
+                                VOfCkSb
+                                                                                                                                 ..                                q        /4 -          .
+
+  A U - K x .fo a jd                                 V 'o                                                     . w . w i k ) . ..
+ \t4 u                               *                 Jv'     ^                                                                                                                . .   .1 ^
+  ^ e 1        V iM i                                v ' Y . Y Y u ......
+  fe Y                                                     U I a j; '                   vg,voiVvks •:: ..................
+
+
+          V-
+Signed                                                                         Signature w itn essed by                                                  f c . y ^                                . . ^
+                                                                                                                                                          WG 4 1 2
+                                                                                                                                                    (Amended 9 .8 7 }
+                                                           West Midlands Police
+                                                   STATEMENT OF WITNESS
+22 29                                  (C .J. A ct 1 9 6 7 , s .9; M .C . A c t 1 9 8 0 , s .1 0 2 ; M .C . Rules 1 9 8 1 , r.70)
+23 30
+24 31
+25      N am e                    R   C C p !...... W.OU                     WD (LTVA........................
+26
+27      Age                                (yrs)              Date of Birth                                          ..............
+28
+        Occupation .
+22 29   Home or business address
+23 30   and telephone number
+24 31
+25
+26
+27
+28
+
+        This statement, consisting of /           page(s) each* signed by me, is true to the best of my knowledge
+22 29   and belief and I make it knowing that, if it is tendered in evidence, I shall be liable to prosecution if I
+23 30
+24 31
+        have wilfully stated in it anything which 1 know to be false or do not believe to be true.
+25
+26
+27      Dated the s '- S 3-- # ?                    day of                                                            19       \                \
+28
+
+        Signed                                                  '                       Signature witnessed by
+
+                                                                                        Officer's Name . . . M 9. l t T 0 .tA.....
+
+                                                                                        Rank . \> s l.9 ~ > .........         No. . .                      ..
+
+                  .T .C & A M 5 ...                                                                            ........ Ifl& R .                                ).   .
+
+            I .. .Voa^. . . xnnc^Vvs-d-__ Oxn                                                  (X. . .                       .. .e^-......... .
+                                                                                     .. .tooth a L L L .. Q T . G v ^ v d . ...
+             .                             OC^.b^rst).. 0^_. ___C l A W , .... .. .U;u-d ..
+                                                   cy\                        ____...
+
+            Vv\^sAA^>^^k                                                           k>-v\ .... XXa/\<A~...                              X X X tO .
+
+            AW -              !       . . . .W XX m - • • •                                                               U X m ty ft                                ^   .
+
+            ( j ^ c \ y x d X j ^ A ... . A o w > A ....                                          ... . p d / u ^ . .. . L a w h ^ V r
+             .\dc >>c ............ (J...........................,...........
+                        \              W      x a t C.   ... ,           \          y         .... .. S V s^-],a U A
+                                                         .. .ODsyvox.c^^                                                                      f\.. •&
+           Cxo^...Cx..VL                                            v C y w d . ,.,.J
+            i£vjyvvsji.                                  b M ••••. ^ v O ^ . V v W v a .... X » . !... .0fPs£>....
+           Ia t A \>\> a                                 ,W r .                      ( . ® . 3 ) _____ .....                       ..........................
+                                  .
+                                  1 ... , V \ a v ^ ... . a X s o . ....                      m j     &   x   Si v u o ....                     ......
+
+
+                                                               fVSOisC.            .......... ........................
+                     . V. W>^rL.. wxvxds ^6. . . . ( X&UJu'ysAK'.h
+              .fc... .P S ... A e a L l o 4 . ..........................................................
+
+        Signed /5 c ^ < ? ? ^ r -r < ? T T 7 . . . . \ .............              Signature witnessed by ^
+
+        * Delete as applicable.
+                                 H   Z .
+
+ 'FIRST TUESDAY*                           •
+
+HILLSBOROUGH-22
+
+ROLL 62
+
+INT; ROGER HOULDSWORTH
+
+
+
+
+INT:                 Le t m e take you b a c k
+
+then,     Roger,      to that day.             An as k
+
+yo u to d e s c r i b e y o u k n o w the fact
+
+that you w e r e        here an d w h o you w e r e
+
+h ere with.          And    just to, wha t was
+
+g o i n g on,   w h a t w a s the scene?
+
+
+
+MAN:                 W e l l b a s i c a l l y the d a y
+
+s t a r t e d off.      I wa s here at nine               o
+
+c l o c k in the m o r ning.           I op e n e d t h e
+
+s y s t e m up a n d p o w e r e d it up,        di d a
+
+q u i c k c h e c k to m a k e sure that
+
+e v e r y t h i n g wa s w o r k i n g o.k.     All       the
+
+monitors were           on,    all the cameras
+
+w e r e working.           I di d a q u i c k c h e c k
+
+on the c o m p u t e r s y s t e m on ra n d o m
+
+gates.-     This      h a d all b een don e the
+
+previous week because                it was s u c h an
+
+i m p o r t a n t event,      a semi final.           Just
+
+to m a k e sure that e v e r y t h i n g was           ok
+
+a n d b a s i c a l l y for me own
+
+s a t i s f a c t i o n as o p p o s e d to any f a u l t
+
+in the s y s t e m that we expected.
+
+T hen   r e a l l y it w a s    just a case of
+
+                                           ..co n t . .
+MAN:                 ..c o n t ..hanging around
+
+u n t i l the t u r n s t i l e s w e r e opened at
+
+el e v e n o clock.            F r o m e l e v e n o clock
+
+'onwards the p o l i c e          contstable Harold
+
+Guest was d o w n            h e r e and D o u g Loc k
+
+w h o is S h e f f i e l d W e d n e s d a y ' s
+
+s e c u r i t y expert.          He is a po l i c e
+
+superintendant.                  We w e r e all in
+
+here and the g a t e s w e r e opened.
+
+N o r m a l l y on a n o r m a l m a t c h as soon
+
+as the t u r n s t i l e s       are o p e n e d we
+
+would     start v i d e o i n g e v e r y one of
+
+these monitors               t h a t you can see
+
+here.       But on t h i s p a r t i c u l a r d a y we
+
+didn't      start     straight        away because
+
+these are o n l y g e n e r a l t h r e e hour
+
+d o m e s t i c videos.         So we    left it
+
+u ntil about q u a r t e r to t w e l v e w h e n
+
+we a c t u a l l y s t a r t e d recording.
+
+There wasn't mu c h activity between
+
+el e v e n o c l o c k a n d q u a r t e r to tw e l v e
+
+so w e r e a l l y d i d n ' t m i s s much.            Fro m
+
+a p p r o x i m a t e l y q u a r t e r twelve,    twelve
+
+o clock when we               set the v i d e o s g o i n g
+
+and it was q u i t e           normal    i n f l o w of
+
+p e o p l e right th e w a y up to
+
+a p p r o x i m a t e l y a b o u t two f i f t e e n
+
+although I didn't               r e a l l y look at che
+
+time.      T hen w e c o u l d see t h r o u g h
+
+looking,       e s p e c i a l l y on thi s m o n i t o r
+
+                                           ..c o n t . .
+
+
+
+
+                A        i
+                                            MAN:                 ..c o n t ..which comes down
+
+                                            fro m the p o l i c e       system,      I've l i n k e d
+
+                                            the v i d e o    im p u t s d o w n to her e so
+
+                                            that the p o l i c e m a n ,      Harold Guest              and
+
+                                            Wednesday's          own security man               can see
+
+                                          I wha t the p o l i c e       are a c t u a l l y l o o k i n g
+
+                                            at.       We put      it on .to ca m e r a one
+
+           /tv6 t'') k-A) CA.VLAKK i*       w h i c h is the W e s t s t a n d c a m e r a w h i c h
+
+/k   .•>                     /NjkJ\   '
+                                            overlooks       the L e p p i n g s Lan e          end and
+
+ 5L-        C„Awv«Af”*   /                  you c o u l d see        t hat the c r o w d was
+
+                                           b u i l d i n g up.       Thi s kept      continuing
+
+                                           up to a b o u t a p p r o x i m a t e l y two
+
+                                            thirty,       two t h i r t y five w h e r e we
+
+                                            could see that            f r o m that       camera    and
+
+                                           also f r o m the          c a m e r a t hat    is p a r t of
+
+                                           the W e d n e s d a y s    own system, --it
+
+                                           overlooks        t u r n s t i l e s A to G and gate
+
+                                           C,     tha t   it was      a very,      sort of
+
+                                           a b n o r m a l b u i l d up.      R e a l l y m y brief,
+
+                                            I am d o w n her e p u r e l y as a
+
+                                            consultant        in case a n y t h i n g goes
+
+                                           w r o n g on the day.            So a p a r t f r o m
+
+                                           that .1 cannot s a y a n y t h i n g to the
+
+                                           p o l i c e or a d v i s e    in an y way,          shape
+
+                                           or form.         So it was         just a case that
+
+                                           we w a t c h e d it h a ppening.               At
+
+                                           a p p r o x i m a t e l y t w e n t y to three,
+
+                                           s o m e w h e r e r o u n d a b o u t t h a t region,
+
+                                           we d i d n o t i c e t h a t gate C was              open
+
+                                                                                         ..c o n t ..
+
+
+
+
+                                            *         3
+         MAN:                      cont..and an influx of
+
+         people      came       t h r o u g h the gate.
+
+         E v e n t u a l l y the p o l i c e got that u n d e r
+
+         control by putting a police horse
+
+         acros s     gat e C to a l l o w t h e m to close
+
+         it again.
+
+
+
+         INT;                   Ca n I just i n t e r u p t ycu
+
+         at t h a t p o i n t     and a s k you,       y o u sa y
+
+         it wa s     an a b n o r m a l b u i l d up,       can you
+
+         tell me w h a t m a d e you t h i n k it was
+
+         abnormal.          W h a t yo u sa w on the
+
+         monitors?
+
+
+
+         MAN:                   W e l l w h a t we sa w on the
+                                                                         rWvVt.
+         m o n i t o r s wa s    the m a s s of h u m a n i t y
+L bj r
+
+         tha t was o u t s i d e       the gates and
+
+         l o o k i n g f r o m the m o n i t o r s    themselves
+
+         a n d f r o m the       imputs    that w ere g o i n g
+
+         t h r o u g h on the c o m p u t e r s y s t e m that
+
+         t h e r e was n o r e l a t i o n s h i p b e t w e e n
+
+         the two.         T h e r e was,     t here s e e m e d to
+
+         be less p e o p l e        as t h o u g h t h e y ' d got
+
+         only a small            crowd outside         coming
+
+         t h r o u g h the turnst i l e s .          So that led
+
+         us to b e l i e v e ,      or led me to believe,
+
+         that    the crow^v o u t s i d e w e r e          forcing
+
+         so m u c h p r e s s u r e    a g a i n s t the
+
+         entrances        to the t urnstiles,               inst e a d
+
+         of b e i n c lik e an o r d e r l e y q ueue
+
+                                                       c o n t ..
+MAN:                     ..cont..you don't look
+
+for the t y p e of p r o b l e m that
+
+o b v i o u s l y d i d occur,        but y o u could
+
+see t hat t h e r e was            a problem.          Now
+
+w h a t the    cause of that p r o b l e m wa s               I
+
+honestly didn't know but                    I had my
+
+own t h o u g h t s      t hat too m a n y p e o p l e
+
+h a d come too late as o p p o s e d to last
+
+seas o n s    game,       which     I w a s ’a l s o - i n
+
+attendance          in the same p o s i t i o n
+
+here,     it was         a more s t e a d y flo w f r o m
+
+an e a r l i e r hour.
+
+
+
+INT:                  D i d you t a l k w i t h the
+
+p o l i c e m a n w h o was      in here w i t h you
+
+an d w h a t was         the c o n v e r s a t i o n tha t
+
+y o u had w i t h him.            Was he aware of
+
+the p r o b l e m ?
+
+
+
+MAN:                  The p o l i c e m a n was aware
+
+of the p r o b l e m bu t a g a i n         I don't
+
+t h i n k r e a l l y e i t h e r myself,        the
+
+p o l i c e m a n or M r L o c k sort of too k
+
+any cognisense              of w h a t was h a p p e n i n g
+
+outside.           You    c ould hea r the p o l i c e
+
+radios       and    t h e y w e r e b r e a k i n g down.
+
+For whatreason               that was      I do not
+
+know.        Because        it s e e m e d to be as          if
+
+there was          an a w f u l amount of st a t i c
+
+on the p o l i c e        radio.
+    <— -— -— — -—
+                                                                         7.
+
+
+
+                        INT:                 O.K.      so let me as k you
+
+                        the n Roger.          Not      t a l k i n g a b o u t the
+
+                        v e r y e a r l y p a r t of the d a y but f r o m
+
+                        w h e n the     crowds      r e a l l y s t a r t e d to
+
+                        b u i l d up.       If y o u    can t ells us w h a t
+
+                        you s a w on y o u r s c r e e n w h e n you s a w
+
+                        the cr o w d s bui l d i n g .
+
+
+
+                        MAN:                 Well what         I s a w on the
+
+                        screens       from both the            ca m e r a on A to
+
+                        G and f r o m the p o l i c e m o n i t o r that
+
+                        the o t h e r s .     A l a r g e b u i l d up of
+
+                        people     o u t s i d e the L e p p i n q s L ane
+
+                        t u r n s t i l e s w h i c h s e n t v e ry ab n o r m a 1,
+
+                       we came to the r e a l i s a t i o n that                a
+
+                        lot of p e o p l e ha d a r r i v e d late and
+
+                        there w e r e all t r y i n g to g e t            into
+
+                       the g r o u n d o b v i o u s l y b e f o r e the k i c k
+
+                       off at t h r e e       o clock.         Th e c r o w d
+
+                       o u t s i d e b o r e no s o r t of r e l a t i o n s h i p
+
+                       to the p e o p l e w h o w e r e a c t u a l l y
+
+                       g o i n g t h r o u g h the t u r n s t i l e s    as I
+
+                       sa y w h i c h le d me to b e l i e v e           that
+
+CA^r{f\   CASVfcVtA    t h e r e was a b u i l d u p w h i c h w o u l d not
+
+                       a l l o w the n o r m a l    f l o w through.          .At
+
+                      \ about    t w e n t y to three,         somewhere            in
+
+                       that region,           gate C was opened               , at
+
+                       the time we d i d n ' t k n o w w h y             it was
+
+                       opened,       just that         it was opened.               A
+
+                       large a m o u n t      of p e o p l e   came      in to
+                                                                        8.
+
+
+
+                         MAN:                  ..cont..the g r o u n d f r o m
+
+                         gate C w h i c h r e l i e v e d the p r e s s u r e        a
+
+                         little bit on the pe o p l e outside.
+
+                         E v e n t u a l l y the p o l i c e got cont r o l of
+
+                         that s i t u a t i o n b y p u t t i n g a p o l i c e
+
+                         horse     across      the gate and t h e y
+
+                         m a n a g e d to c lose      it.     It c o n t i n u e d
+
+                         the same as          it h a d be f o r e up to
+
+                         a bout    I w o u l d s a y ten to,        five to
+
+                         three w h e n we h e a r d that gate C was
+
+                         a s k e d to be o p e n e d b y the police,
+
+                         the c o m m a n d w a s     g i v e n for gate C to
+      |t    \M   4A#--
+                         be opened.       It was       o p e n e d and the
+^   ' ■ W
+                         f l o w of p e o p l e    c ame through.          It
+
+                         came t h r o u g h f i r s t f a i r l y steadily.
+
+       I                 It b u i l t up to a surge,            d i e d ofj for
+
+                         a short w h i l e        and the n it b u i l t up
+
+                         a gain and it b u i l t u p then a n d it
+
+                         w as at the p o int t h e n that I left
+
+                         the r o o m to go d o w n          to the entrance,
+
+                         to the p l a y e r s entrance,           just to see
+
+                         e x a c t l y .what w a s    h a p p e n i n g in the
+
+                         c e n t r a l pens
+
+
+
+                         INT:                 W h y d i d you do that?
+
+
+
+                         MAN:                 Because       acain fro m the
+
+                         police     s y s t e m we c o u l d see that
+
+                         t here was a         .. an d fro m the compute:
+
+                                                                  ..c o n t ..
+                                                                        9.
+
+
+
+                         MAN:                ..c o n t ..s y s t e m we c o u l d
+
+                         see h o w m a n y that w e r e s u p p o s e d l y to
+^Uvf ^ L L iW v H t M
+                  %*
+  *v\ C*-*a 4a-*. i      be a l l o w e d in that end of the g r o u n d
+
+                         an d we k n e w t h a t we w e r e g e t t i n g
+
+                         s o m e w h e r e n e a r the limits that
+
+                         o b v i o u s l y the   c o m p u t e r s y s t e m then
+
+                        w a s v i r t u a l l y useless.         Because        I
+
+                         c o u l d not c o u n t the p e o p l e on the
+
+                        c o m p u t e r s y s t e m c o m i n g t h r o u g h g ate
+
+                        C.
+
+
+
+                        INT:                So e f f e c t i v e l y this
+
+                        whole system had been bypassed by
+
+                        the o p e n i n g of the gate.
+
+
+
+                        MAN:                B y the o p e n i n g of the
+
+                        g at e the s y s t e m ha d b e e n bypassed.
+
+                        As far as a c c o u n t i n g      is c o n c e r n e d
+
+                        and k e e p i n g a c c o u n t of c r o w d c o n t r o l
+
+                        f r o m that p o i n t of view.
+
+
+
+                        INT:               At w h a t stage.           I mean
+
+                        can yo u sort of d e s c r i b e w h a t you
+
+                        sa w on that m o n i t o r w h e n g ate C
+
+                        opened, by s o r t of r e f e r r i n g to the
+                                       ——    .        — ___
+                        monitor, like I w a s sat, I l o o k e d at
+
+                        the m o n i t o r ...?
+
+
+
+                        MAN:               I l o o k e d at the m o n i t o r
+
+                        a n d as I s a y we h e a r d the c o m m a n d
+
+                                                                   .c o n t .
+                MAN:                  at gate C, open the gate
+
+                an a the g a t e w a s        to be open.          Gate C
+
+                w a s opened.          When      it was o p e n a huge
+
+                surge went t hrough                an d that
+
+                e v e n t u a l l y t a i l e d off     to a steady
+                               I
+                f l o w for a m i n u t e        or so.      A f t e r that
+
+                the s u r g e s u r g e d a g a i n and a w h o l e
+
+                l oad of p e o p l e      c a m e through.         I mean
+
+               we   c o u l d see f r o m the m o n i t o r s        that
+
+                they were          c o m i n g d o w n right    from the
+
+               Itop en d of L e p p i n g s         L a n e a n d they
+,
+10^ -          were bypassing             the     turnstiles       and
+        ‘ y
+               coming straight             t h r o u g h gate C and I
+
+               c o u l d see       f r o m the w a y that the y
+
+               were heading            from,      cos'    I k n o w the
+
+               b e a ring,     of    t h e r e l a t i o n s h i p of the
+
+               came r a s    to the       layout        of the ground,
+
+               that the m a j o r i t y of p e o p l e wer e
+
+              | heading towards            the central p e n s .
+
+
+
+               INT:                  W h a t d i d yo u say to the
+
+               p o l i c e m a n w h o w a s w i t h you?
+
+
+
+               MAN:                  I didn't          realjLy in all
+
+               h o n e s t y s a y a n t h i n g b e c a u s e he was
+
+               t r y i n g to g e t t h r o u g h hims e l f       tc the
+
+               police       control       b o x as the po l i c e
+
+               r adios w e r e n o t w o r k i n g p r o p e r l y ar.d
+
+               the land,           we have       a l a n d l i n e here
+
+               which     is t h r o u g h W e d n e s d a y s   internal
+
+                                           '/L     g        ..cont..
+                                                   1 1 .
+
+
+
+
+    MAN:               .c o n t ..internal
+
+    t e l e p h o n e s y s t e m an d that was
+
+    b l o c k e d as well.
+
+
+
+    INT:               So e f f e c t i v e l y you were
+
+    isolated?                             '
+
+
+
+    MAN:              At     t hat p o i n t   in time
+
+    yes .
+
+
+
+    INT:              Ca n    I ask y o u f i n a l l y
+
+    w h a t y o u s a w w h e n y o u w e n t outside
+
+    and l o o k e d at the p e n s        fo r yourself.
+
+
+
+    MAN:              H a n g on     is this ,;in y o u r
+
+    statement?
+
+
+
+    MAN:              N o thi s      is not in m y
+
+    statement.
+
+
+:
+    MAN:              He     can o n l y t alk about
+
+    what    is in his        s t a t e m e n t .......
+
+
+
+
+    CUT:
+
+
+
+
+                l o
+S7-08-TT 14:04   FROM:   SOLICITORS BUS UNIT 01512252356   TO-01712424270
+
+
+
+
+          fiMfaaant b y Trevor Hi aka                          sth March T087
+
+
+          Video ftrideaca - Hillsborough Disaster
+
+          I Trevor Hicks of
+                                                       would make the
+          following statement in connection with video material I have
+          viewed ia recent weeks.
+
+
+          Earlier in m y career I was Divisional Director of Chubb Alarms
+          Ltd, a company which sold , installed and serviced security
+          systems and hence have a reasonable working knowledge of
+          closed-circuit television systems (CCTV)
+
+      #
+          a)     It ia m y firm belief that the material I viewed is
+                 genuine footage r e c o r d e d b y the South Yorkshire Police
+
+                 cvideo system and that the time and date codes on that
+                    .......       ^
+                  footage are correct.
+
+
+          b)     I am content that the video material proves four key
+                 pointsi -
+
+
+                 1)      The crucial camera (scoreboard/Camera S) was working        s'
+                                                                                    >/
+                         from 1200hrs through till 1722hrs at least.
+
+
+                 2)      It could pan, tilt/ and zoom and produced pictures
+                         of sufficient quality and detail to "identify facial ’■>
+                         features”
+
+
+                 3}      That camera could produce good views of people
+                         standing at the front of Pens 3/4 of the Loppings
+                         Lane terraces and can be seen to zoom during such
+                         seguezices.
+
+                 4)      They clearly demonstrate the capabilities of the
+                         colour camera (cam.2) and the other black and white
+                         camera (cam.3) mounted on the South Stand
+
+
+                                                   1
+                                                             TO:01712424270   PAGE:07
+27-00-97 14:05    FROM. SOLICITORS BUS UNIT 0151S52356
+
+
+
+
+         c)      All of the above corroborate Soger Houldsworth'a
+                 statement and in m y opinion shows that Police Officers
+                 Ryan and Bichard gave false witness.
+
+
+         d)      Because of the large number of "sequences* contained
+                 within the videos it ia incomprehensible that the peraon
+                 or persons who edited the "Compilation Video" did not
+                 know of the existence of the extensive footage from the
+                 acoreboard camera.
+
+
+         e)      It was not produced despite several requests from the
+                 inquest jury and this indicates suppression of critical
+                 evidence.
+
+
+     ^^ f )      Footage from colour camera 2 and black and white camera 3
+                 clearly illustrate the powerful zoom facility that gave
+                 the police the ability to see the Leppings Lane terrace
+                 to a level that allows "facial recognition".
+
+
+         g)      Xt is m y belief that had these sections of video footage
+                 been produced and shown to the jury it would have totally
+                 changed their opinion of *what the police could see".
+
+
+
+         Background
+         Following discussions with Katie Jones of Granada Television,
+              contacted M r Chris Bryer, Head of Factual Programmes at
+          orkshire Television in an attempt to establish what material
+         was still in their archives following their production "First
+         Tuesday".
+
+
+         After our telephone discussion he agreed to see what was
+         available and contact me further.           The following day he
+         returned m y call and advised that he and Roger Finnigan
+         (Senior Producer and co-producer of the First Tuesday
+        programme) had discussed m y telephone call /various aspects of
+        Houldsworth*a evidence.
+
+
+
+
+                                                2
+1*27-00-97 14:05        FROM:SOLICITORS BUS UNIT 01512252356                          TO:01712424270                    PAGE: 0B
+
+
+
+
+                   *ade the folioWi„„ „
+                                owing comments
+
+              1.
+                       They had conducted an                                 j
+                                       tie D l s a B                   l 2           S °Z °r * ° u lto m r tb       .
+
+
+                       m y ',id ' °                       o f th a t r ^ a i w                      t0 S e e i f
+
+
+              *'       rJley W e           * written transcript of th                     *
+                       Xouldsworth'ginterview.                                      " a       esaid «offer
+
+
+             3*       ^    * * *><»<* *o*e footage of »„7 ■
+                      Aad ±>eensupplied to th   k                                     VJdeo tapes which
+
+                                                                             tie     T » .s d a y p r o s l3 im s
+
+
+             *'    r*e circumstances of t-t,
+
+      •             follows: -               e supply of Video tapes were aa
+
+                              ■*“ * PI>ro* ch ""*» m id* to South Y o rk s h ire
+         ^         •         « “             r e q u ir e d r a t i f l T . S 1
+                              “ • *>«. ^                                      r *8t~               KW3At-
+                             At a suijfleguent meeting    petei. Writrhf.  .
+                             W W video tapes were han. w        bright, a box of
+                             « » W        P      ^ W S d t0 » « «         and
+
+                         Wording copies (broadcast video       -
+                         VKS video tapes were mad     s        * » — **>* the
+                                              tJle w ^ Yorkshire Television
+                         Part
+                         part of n, WOr* for a,ade
+                              of the                                       ° as
+                                                                             afl
+                             (N o te ;     t h e s e were fciie t                         *   * " * « ■■■.
+                                              * tape* vie^ed by m e to
+                          facilitate basic research f
+     m                   p r o g r a m )             ° T ’ potenti*i ™
+     W                                     w w             h /u, Vv-Vvt^ /x^,
+
+
+
+         T a r Z iZ    l 7    t \ 7   *    V   t a ti °   th   h *   *“ *    ***r              ™«^ered
+
+                                     ’    ^ r : « ; : : : * r n ; “
+                                         e ®aid later that this a                   “ d “ at - -
+      senior officer believed to be fn
+      police.                       ia CAar^e of p* «*     Midlands
+
+
+     Tfc was a g r e e d t h a t we s h o u l d m e e t so th a t- t
+     whatever video footage th* h w                                  could examine
+                           roocage they had and that                         ,
+     Friday 24 January 25^7.                                      *••*«.* too* place on
+
+
+
+
+                                                               3
+                                                                 TO:01?124242™           PflGE'-CB
+                  ^ S O L I C I T O R S BIB UNIT 01512252356
+27-08-'g7 14:05
+
+
+
+
+            Meeting At Yorkshire T - Friday 24 th January 1997
+            Foil owing a preliminary discussion mainly surrounding
+            Houldsworth'a evidence and the relevance thereof, we crossed
+            to another building and entered an editing suite.
+
+
+            We viewed at length several video tapes including references
+            PI-Part 1,2 £ 3 and P4~Part 1 & 2, which clearly showed that
+            the score board camera (camera 5 on map attached as appendix
+           A ) was working.
+
+
+            The pictures from this camera were clear enough to enable
+           identification of individuals and in only one case was there
+           any evidence of the flaring (whitening of screenJ appearing.
+
+
+        +The      clarity of the images was more than satisfactory and
+           therefore raised a serious doubt in m y mind regarding the
+           truthfulness of evidence by the police officers responsible
+           for operating the CCTV.
+
+
+           Tapes PI-Part 1,2 & 3 shows several different sequences taken
+           from the scoreboard camera ( camera S) from the earliest time
+           of 1200hra through to 1423 and then 1502 through to 1523hrs.
+
+
+           Although there ia no footage recorded from this camera between                     &V
+           1423 and 1502 it is more than probable that the camera was
+           working perfectly well throughout this period . The screen in                             x-y
+           the police control box would of course show the output from
+          V P i s camera even when it was not recording.
+
+
+           Tape P4- Part 1 & 2 include              similar footage tijaed at1557 and
+           through until 1722 when the              tape runs out.
+
+
+           These sequences include some very clear shots of the front of
+           of the West Stand and Pen 3/4 on the terraces. Camera 5 can he
+           seen to pan, tilt and *ooo,              especially when looking at a group
+            Qf four people at the front             of the terrace.
+
+
+
+
+                                                        4
+                                                    2252356   TO:01712424270       PAGE-10
+*7-08-97 1< =®   ^ S O L I C I T O R S BUS UNIT 01512.5
+
+
+
+
+           Both sequences of video tape show the arrival of a Lijnousioe
+           Registration NTV2 and comparing the video time bases we wore
+           able to establish that the footage had come from two video
+           machines -which fits the configuration of the Sheffield
+           system.
+
+
+           I contacted Roger Houldsworth by telephone and he confirmed
+           that the two video machines in the police control box operated
+           in parallel.       This would appear sensible as it would enable
+           recording via either VCR of any of the two ■sequencing*
+           devices output enabling the police to either view or record a
+           specific incident while the other machine was still on auto-
+           sequence.
+
+       A
+       ^^Comment and Opinion
+           It is m y opinion that this footage has never been seen before
+          b y myself and X believe has not been included in any police               CA   if       kJ v
+
+                                                                                                L-L.
+           compilations and/or other tapes that I have seen.
+                                                                                         />AC          -
+
+
+          From m y knowledge of close circuit television and of this
+          particular CCTV system, this evidence ia uncontroversial proof
+           that camera 5 - the black and white scoreboard camera was               i^k^c S«-i'v ^
+          working between the hours of say 1200am and 1722pm.             In all     ^            *
+          cases bar one , the images are clear and caxmot be described as
+          inferior'.                 ~         ~~                 "
+
+           Tg addition to the proof of quality , the sequences contain
+         ^Bn,    tilt and zoom actions which not only prove that these
+          facilities were functioning, they prove that the operators
+           (i.e. the policemen) were using the camera and de facto must
+          have known it to be working and to have been able to see the
+           terraces.
+
+
+           Within the batch of tapes is footage from the South Stand
+           colour and black and white camera's. Both cameras are shown to
+          have very powerful zoom facilities and are used , admittedly
+          not at the crucial time , to view the front of theTLepping lane
+           terraces.
+
+
+
+                                                      5
+                                          o ,SIK52356     TD:B17ia«CT0     P"*'11
+2,-09-97 14:06   FROM’SOLICITORS BUS UNIT 015125235
+
+
+
+
+          Tape P5-Part 1 has excellent footage (1S3S to 1637) showing
+          the front of the terrace and individual (even facial)
+          recognition is possible. The camera ia physically seen to zoom
+          in/out and both pan and tilt xoovements take place. These are
+          exaggerated /jerky which shows that the camera ia zoomed in at
+          thia point.
+
+
+          There are sequences from both cameras showing activity in the
+          North West corner of the Spion Kop (approximately twice the
+          distance of that to pen3/4) and again clarity and definition
+          are adequate for recognition. Using the same zoom on half the
+          distance would dramatically improve the view on the monitors.
+
+
+      ^^Thia proves that these camera's would have allowed clear view
+      yiWof the terrace, including the front of Pqna 3 & 4, and la
+          again contrary to evidence/comment from police officers given
+          to the Inquiry and the Inquest.
+
+          It is m y belief that the footage I viewed totally supports
+         Uouldsworth'a position.
+
+
+         Messrs Bryer and Finnigan operate in the television world and
+         have produced many documentaries (including First Tuesday)
+         which have relied upon video evidence.         They gave me the
+         impreasion that in their opinion thia footage was more than
+         adequate.
+
+
+        ^furthermore, they advised that the transcript or their
+         interview with Bouldsworth tends to support his statement and
+         in effect corroborates his position has not changed between
+          the disaster and now regarding the performance of the CCTV
+          equipment.
+
+
+          I was loaned a working copy of the tapea ao that I could look
+          at all the relevant sections in detail and I would confirm                *
+          that the compilation attached ia a true copy of that working
+          copy. YTV can confirm that the original tapea. Including those
+          with footage from camera 5 were supplied to them b y South
+          Yorkshire Police.
+
+
+                                                6
+                                                                                                                                               Appendix 1:
+
+                                                                                                                                               Sheffield Wednesday Football Gub.
+                                                                                                                                               Hillsborough Ground.
+
+
+
+
+                                                                                                                       ' ' '           ,
+
+
+
+
+                                                                                                                                                                                   / 1 "X O
+                                                                                                                  *2
+
+
+
+
+                                                                                                                                                                                    yn
+                                                                        Gymnasium
+
+
+
+
+                                                                                                                                                                                    J //
+                                                                                                                           Ughting
+                              Lighting                                           "‘^ ‘•■^pQlice
+                                                                          Firs < AkT                                       Tower           '
+                              Tower                                       Room m
+
+
+
+
+                                                                                                                                                                                   i£jC
+                                                               NORTH STAND
+
+
+u
+3
+H
+0
+c
+c
+3
+2
+H
+jr
+r                Tunnel                                                             c3>
+j                                                                                  &hrtK            I\
+3
+jr                                                                                 C jU M d p |
+U                                                                                        i*»V*
+ 0                                                                 cdifo.tr
+ J
+ H
+ c
+T
+Z>I                                                                                                                     L ig h tin g
+ u                                                                                                                       Tower
+X
+
+                   Lighting              Police
+                   Tower                                    CCTV                 CCTV
+31                                       Control
+3                                                                  SOUTH STAND
+                                                                                                         W .J H
+                                                                                                         JO ”32
+
+                                                                    *    'Directors entrance
+                                                        Official   f    :tru I     J     Car Par*
+
+                                                                        Lighting
+                                                                        Tower
+
+      ISO feet
+                                                   ft
+

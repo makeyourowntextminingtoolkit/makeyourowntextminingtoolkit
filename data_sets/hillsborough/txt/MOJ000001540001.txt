@@ -1,0 +1,787 @@
+                                                                           'V   \V-Jo
+
+IN THE HIGH COURT OF JUSTICE                                                    CO/582/99
+QUEEN’S BENCH DIVISION
+CROWN OFFICE LIST
+
+BETWEEN:
+
+                                      R
+                                      v
+                (1) THE SOUTH YORKSHIRE POLICE AUTHORITY
+                             (2) ANN ADLINGTON           Respondents
+                                   ex parte
+                          THE CHIEF CONSTABLE OF
+                         SOUTH YORKSHIRE POLICE            Applicant
+
+
+
+
+                    SKELETON ARGUMENT ON BEHALF OF
+                 THE SOUTH YORKSHIRE POLICE AUTHORITY
+                  (Listed: Floating from Monday, 22 March 1999)
+
+
+
+Time estimate
+
+2 days (excluding judgment).
+
+
+Essential Reading
+
+*         The Form 86A (2-17).
+*         The affirmation of Ian Daines in support (18-21).
+*         The announcement of the challenged decision (29-30).
+*         Section 111 of the Local Government Act 1972 (55).
+*         Sections 6 and 88 of the Police Act 1996 (56-59).
+*         Home Office Circulars 77/1987 and 4/1998 (60-69).
+*         The affidavit of William James Wilkinson for the First Respondent (74-86).
+*         The letter dated 4 February 1999 from the Home Office (159).
+*         The letter dated 10 February 1999 from the First Respondent’s solicitors
+          explaining the legal advice to the First Respondent in relation to the challenged
+          decision (161-163).
+*         The first affidavit of the Second Respondent (164-184).
+*         The second affidavit of the Second Respondent (484-485).
+*         The affidavit of the Clerk to the South Sefton Magistrates’ Court (575-576).
+
+
+
+
+                                            1
+Facts1
+
+17 Feb 1998              Home Office Circular 4/1998 came into effect (60-63).
+
+27 Feb 1998              The First Respondent decided in principle to authorise its
+                         clerk/treasurer to consider funding applications from the officers
+                         (now reversed and replaced by the decision made on 5 February
+                         1999) (80 and 129-130).
+
+5 Mar 1998               A funding application by Mr Duckenfield was approved by the First
+                         Respondent (81).
+
+29 Jun 1998              A funding application by Mr Murray was approved by the First
+                         Respondent (81).
+
+10/13 Jul 1998           Informations were laid in the Leeds Magistrates’ Court for the
+                         private prosecution of the officers (32-33).
+
+20 Nov 1998              Mr Murray applied to the First Respondent for further financial
+                         assistance to apply for judicial review of the DPP’s decision (134-
+                         135).
+
+18 Dec 1998              The DPP decided not to intervene and stop the private prosecutions
+                         (137-138).
+
+23 Dec 1998              A funding application by Mr Duckenfield in relation to judicial
+                         review proceedings was made to the First Respondent (146-147).
+
+22 Dec 1998/
+5 Jan 1999               The Second Respondent wrote to the First Respondent complaining
+                         that funding had wrongly and unlawfully been approved for the
+                         officers (139-145 and 148-154).
+
+1 Feb 1999               Written answer by Paul Boateng MP, the Home Office Minister
+                         (156).
+
+2 Feb 1999               Written answer by Paul Boateng MP, the Home Office Minister
+                         (157).
+
+4 Feb 1999               Home Office letter to the First Respondent’s solicitors (159).
+
+5 Feb 1999               The Second Respondent made the challenged decision (29-30).
+
+
+             This chronology sets out the essential events relevant to the present proceedings.
+             A more detailed narrative appears in the affidavit of William James Wilkinson
+             for the First Respondent (74-86).
+10 Feb 1999              Notice of application for judicial review was lodged (2-17).
+
+12 Feb 1999              Mr Justice Latham granted leave to move, abridged time, joined Ann
+                         Adlington as the Second Respondent and ordered expedition (73).
+
+15 Feb 1999              Oral answer by Paul Boateng MP, the Home Office Minister (589).
+
+17 Feb 1999              Notice of motion.
+
+1 Mar 1999               Home Office letter to the Chief Constable (592).
+
+15 Mar 1999              Mr Justice Latham stood over (to be heard with the present case):
+                         (1)     applications by the officers for leave to move for judicial
+                                 review of the same decision that is challenged in the present
+                                 case2; and
+                         (2)     applications by the officers for leave to move for judicial
+                                 review of the DPP’s decision not to take over and
+                                 discontinue the private prosecutions.
+
+19 Apr 1999              Private prosecution committal proceedings are due to start in the
+                         Leeds Magistrates’ Court (on 1 March 1999 the Magistrates’ Court
+                         refused to vacate the date (484)).
+
+
+Submissions
+The issues
+1.           Two issues, both turning on the proper construction of the Police Act 1996 ("the
+             1996 Act"), are raised by these proceedings:
+             (1)         whether a police authority has power to provide financial assistance
+                         to (serving or former) police officers to cover the costs of defending
+                         private criminal prosecutions brought against them personally; and
+             (2)         whether a police authority has power to provide financial assistance
+                         to (serving or former) police officers to cover the costs of judicial
+                         review proceedings launched by them personally.
+
+
+2.           On 5 February 1999, the First Respondent (SYPA) decided that it had neither
+
+
+
+
+             The grounds relied upon by the officers are almost identical to those relied upon
+             by the Chief Constable.
+
+                                               3
+     power3.      It so decided without regard to the (de)merits of the funding
+     applications made by the officers. In its view, there was simply no power to
+     fund the officers in relation to such proceedings, regardless of how (undeserving
+     the funding applications were on their facts. This is the decision which is under
+     challenge.
+
+
+3.   Accordingly, SYPA submits that the Court should not be concerned with the
+     content or history of the officers’ funding applications. Rather, it should look
+     at the legal issues as matters of principle.       They are narrow questions of
+     construction. This was the approach deliberately taken by SYPA when it made
+     the challenged decision.     SYPA recognises that if the Court finds that the
+     disputed powers exist, consideration will then need to be given to whether to
+     fund these officers in relation to their litigation. But that position has not yet
+     been reached.
+
+
+4.   Ann Adlington objects to the Court adopting such a course (164-184).            She
+     complains that SYPA ought not to have divorced the question of principle from
+     the content or history of the officers’ funding applications. But:
+     (1)          SYPA considered, on advice, that it had no power to grant the
+                  applications at all. Unless and until that view is overturned, it would
+                  be wrong and potentially wasteful for SYPA to go on to consider the
+                  (de)merits of the applications.
+     (2)          Even if, contrary to (1), SYPA was wrong to separate questions of
+                  principle from questions of fact, that is what it has done4. The
+                  Court has to consider the decision-making process which SYPA
+                  actually carried out, not that which Ann Adlington wishes had been
+
+
+
+     This decision replaced and reversed a decision (to grant funding in principle)
+     made on 27 February 1998. Accordingly, SYPA submits that the Court should
+     not concern itself with the criticisms of that earlier decision made in the first
+     affidavit of Ann Adlington (164). Given the complex legal issues involved, that
+     decision was understandable but the present reality is that it has been superseded.
+
+     It so decided on 1 February 1999 (84).
+
+                                        4
+                       carried out. The Court is unable to impugn SYPA’s decision by
+                      reference to particular features of the content or history of the
+                      officers’ funding applications because it does not know whether
+                      SYPA would have considered those features to be factors relevant to
+                      a decision on the applications’ merits. There has been no merits
+                      decision.
+
+
+Standing
+5.         Paragraphs 83 and 84 of the affidavit of Ann Adlington (180) dispute the
+           standing of the Chief Constable to bring these proceedings. SYPA makes no
+           such objection.
+           (1)        The Chief Constable has a close and legitimate interest in the extent
+                      of SYPA’s powers to fund the police force under section 6(1) of the
+                      1996 Act. He is the head of that force.
+           (2)        An individual serving officer in the South Yorkshire force would
+                      have a sufficient interest in bringing these proceedings. Even if no
+                      legal proceedings had yet been brought against him, he would want
+                      to know whether he could rely on the SYPA to fund him. As the
+                      representative of all officers in South Yorkshire, the Chief Constable
+                      has at least as much of an interest.
+           (3)        The Chief Constable stresses that if SYPA’s decision is upheld by the
+                      Court, this will have an effect on the morale of the police force in
+                      South Yorkshire (and nationally). This is a matter of concern to the
+                      Chief Constable.
+           (4)        The Chief Constable made written and oral representations to SYPA
+                      before it made its decision (84). This evidences his interest. Ann
+                      Adlington (who also made representations (510)) did not object.
+           (5)        In any event, the present case raises an important point of principle
+                      for the funding of police forces. There is a public interest in it being
+                      ventilated.   The Court should not be too prescriptive in applying
+                      rules of standing, especially since the current trend is towards a
+                      generous interpretation of those rules.
+
+
+                                            5
+           (6)         There are, before the Court, applications by the officers for leave to
+                       move for judicial review of the same decision that is challenged in
+                       the present case. Their standing cannot be questioned. If there be
+                       any doubt about the standing of the Chief Constable, the Court is
+                       invited to grant leave to the officers (so that they appear as applicants
+                       not directly affected persons) and then to conduct the substantive
+                       hearing on that basis.
+
+
+The statutory scheme
+6.         The Chief Constable’s challenge rests predominantly on section 6(1) of the 1996
+          Act (56). In essence, it is said that section 6(1) empowers police authorities to
+          do anything which maintains an efficient and effective police force (subject only
+          to Wednesbury) and extended even further by section 111(1) of the Local
+          Government Act 1972 ("the 1972 Act"). In SYPA’s submission, this is asking
+          much too much of section 6(1).
+          The role of section 6(1)
+          (1)          Section 6(1) requires every police authority to "secure the
+                       maintenance of an efficient and effective police force for its area"
+                       (56). These words do not confer any powers, as such, (broad or
+                       otherwise) on a police authority.      Instead, as its heading states,
+                       section 6(1) sets out the "[g]eneral functions of police authorities":
+                       that is, their broad overall duty. Police authorities must fulfil this
+                       duty whenever exercising their powers.          But those powers are
+                       conferred elsewhere in the 1996 Act and the 1972 Act5. Section 6(1)
+                       performs a different role. It sets out the (proper) purposes which a
+                       police authority must promote when exercising its powers6. Sections
+
+
+     5    Section 6(1) can, of course, inform the construction of specific powers. One can
+          test the legality of acts or omissions of police authorities by reference to section
+          6(1). The 1972 Act is applied to police authorities by section 146A of the 1972
+          Act.
+
+     6    At common law, public authorities must always exercise their powers for proper
+          purposes. Section 6(1) is a statutory statement of what those proper purposes are
+          for police authorities.
+
+                                                6
+            6(2)-(4) support this approach. They, too, do not set out powers but
+            describe other matters to which police authorities must have regard
+            when discharging their functions. The approach is also supported by
+            the slightly different wording of the statutory predecessor of section
+            6(1): that is, section 4(1) of the Police Act 1964 ("the 1964 Act")
+            (51). It provided:
+
+                    "It shall be the duty of the police authority for every police
+                    area ... to secure the maintenance of an adequate and
+                    sufficient police force for the area, and to exercise fo r that
+                    purpose the powers conferred on a police authority by this
+                    Act."
+                                                                 (emphasis added)
+
+
+            In short, therefore, section 6(1) does not confer powers. It imposes
+            a duty: a duty to strive towards broad objectives. The means by
+            which these objectives are to be achieved are the specific duties and
+           powers contained in other sections of the 1996 Act and the 1972 Act.
+           This is underscored by the detailed division of powers within the
+            1996 Act. Powers to control and regulate the police are conferred on
+           three distinct persons/bodies: the Chief Constable7, the Secretary of
+           State8 and the police authority. If section 6(1) is read as conferring
+           broad powers on the police authority, it would disrupt the balance of
+           powers exercised by these three persons/bodies. The police authority
+           would be able to do/fund any activity, even if that particular activity
+           were specifically the preserve of the other two persons/bodies9.
+
+
+
+See section 10.
+
+See sections 36-53 (examined in paragraphs 6(8)-(10) below).
+
+The deliberations of SYPA on 5 February 1999 focused on the interaction
+between section 6(1) and section 88 and between section 6(1) and section 111(1)
+of the 1972 Act. The role of section 6(1), in isolation, was not specifically
+considered. However, the issue in this case is one of legality. The Court is
+examining whether there is power to fund the officers on a proper, objective
+construction of the 1996 Act. The reasons for the Court’s decision need not be
+the same as those for SYPA’s decision.
+
+                                 7
+The ambit of section 6(1) read with section 88
+(2)        Read alone, section 6(1) contains extremely wide words.             They
+           cannot, however, be read alone.         Like any statutory provision,
+           section 6 must be read in context. In particular, it must be read with
+           section 88(4) of the 1996 Act (59). Section 88(4) explicitly gives a
+           police authority power to pay out of the police fund any damages,
+           settlement monies and costs (incurred by or awarded against) an
+           officer in tort proceedings brought against him. The 1996 Act is
+           silent as to indemnities in any other type of proceedings. It is a
+           fundamental canon of statutory construction that where Parliament
+           specifies one particular matter, it impliedly excludes other allied
+           matters: see Bennion, Statutory Interpretation, sections 390-395, and
+           Halsbury’s Laws10, volume 44(1), paragraph 1494.
+(3)        The Chief Constable contends that section 88 (and its predecessor,
+           section 48 of the 1964 Act) was included to make Chief Constables
+           vicariously liable in tort for the acts/omissions of their officers in the
+           same way that employers would be liable for the acts/omissions of
+           their employees. Police officers are office holders not employees.
+           But, while this explains sections 88(l)-(3), it does not explain section
+           88(4) which is not limited to cases of vicarious liability. The Chief
+           Constable also relies on the past practice (before and after 1964) of
+           paying officers’ costs generally. But the issue of the legality of such
+           payments has never before been examined.
+(4)        If section 6(1) were as wide as the Chief Constable contends, section
+           88(4) would be unnecessary. Unless compelled to do so by clear and
+           unambiguous language, the Court should not construe a statute so as
+           to render part of it otiose.
+(5)        If there be any ambiguity about the meaning of these provisions, the
+           Court is referred to Hansard: see Pepper v Hart [1993] AC 593 at
+           page 634C-E (per Lord Browne-Wilkinson). On 6 February 1964
+
+
+
+Also written by Francis Bennion.
+            there was a debate in the House of Commons Standing Committee D
+            on the clause that later became section 48 of the 1964 Act, now
+            section 88 of the 1996 Act, (92, column 620). Mr Brooke, the then
+            Home Secretary and promoter of the Bill, emphasised that the clause
+            did not cover criminal proceedings. He did not go on to say that the
+            clause that later became section 4(1) of the 1964 Act would cover
+            criminal proceedings.
+(6)        In any event, even if the Chief Constable is correct to say that
+            section 6(1) is wide enough to cover indemnities in tort proceedings
+            and that section 88(4) was included only for the avoidance of doubt,
+            it is quite another thing to say that section 6(1) is wide enough to
+            cover indemnities in private criminal prosecutions.
+(7)        Moreover, it is not clear that section 88(4) applies to former officers:
+            see section 88(5). It would be very surprising if section 88(4) gives
+            an explicit power to indemnify serving officers in tort proceedings yet
+            section 6(1) gives an implicit duty11 to indemnify serving and former
+            officers in criminal proceedings.
+The 1996 Act absent section 88(4V2
+(8)        Even if section 6(1) is a power-conferring provision13 and even if
+           section 88(4) were to be absent from the 1996 Act, SYPA does not
+           accept that section 6(1) would authorise the funding in question.
+           Section 6(1) must be read with other sections of the 1996 Act,
+           including section 50.      Section 50(1) and (2)(j) give the Home
+           Secretary, not police authorities, the power to make regulations
+
+
+
+Section 6(1) is phrased as a duty ("shall secure") but SYPA does not contend, if
+the Chief Constable is right, that it would be required to accede to every
+application for funding. In each case SYPA would have to consider whether
+such funding would "secure the maintenance of an efficient and effective police
+force for its area".
+
+Again, this was not the focus of SYPA’s deliberations on 5 February 1999.
+However, the issue is one of legality: see footnote 9 above.
+
+See paragraph 6(1) above.
+
+                                  9
+            setting the pay, allowances and other conditions of service of serving
+            officers14. An indemnity against the costs of litigation arising out
+            of the performance of his duties by an employee of office-holder is
+            an allowance15 or a condition of service. It is a common provision
+            in a contract of service.
+(9)         Suppose that the Home Secretary were to direct, by regulation, that
+            police officers nationally should benefit from such an indemnity
+            (payable ex post facto or only on acquittal) in respect of certain
+            classes of litigation but not other classes16. It is submitted that it
+            would not be open to police authorities to invoke section 6(1) to pay
+            their own local indemnities inconsistent with the national arrangement
+            (for example, payable "up front" or payable on conviction or
+            acquittal). Regulations made under section 50 exhaustively set out
+            the monies which can be paid to police officers. Neither section 6(1)
+            of the 1996 Act nor section 111(1) of the 1972 Act17 can be used to
+            supplement those monies.
+
+
+
+The relevant regulations are the Police Regulations 1995 (SI 1995 No.215), as
+amended. In relation to retired officers, see section 24 of the Superannuation Act
+1972, section 1 of the Police Pensions Act 1976 and the Police Pensions
+Regulations 1987 (SI 1987 No.257), as amended.
+
+The meaning of "allowance" is amply wide enough to cover the funding sought
+in the present case: see Mutual Acceptance Company limited v Federal
+Commissioner of Taxation (1944) 69 CLR 389 at page 396 (per Latham CJ).
+
+Indeed, SYPA submits that the Home Secretary could make a regulation under
+section 50(2)(j) permitting or requiring an indemnity to be given to serving or
+former police officers of precisely the type sought by the officers in the present
+case. He has not done so. It would be surprising if SYPA has a local power to
+do what the Home Secretary has refrained from doing.
+
+See Allsop v North Tyneside Metropolitan Borough Council [1992] RVR 104
+(CA) (no enhanced redundancy terms can be paid by a local authority because the
+Superannuation Act 1972 contains a comprehensive code).               The Police
+Regulations 1995 contain a very detailed code for all financial benefits payable
+to police officers. See especially regulation 50 which prohibits allowances being
+paid outside the Regulations except with the Home Secretary’s consent. See also
+regulation K5(4) of the Police Pensions Regulations 1987.
+     (10)        Similarly, SYPA relies on the following other provisions of the 1996
+                 Act: section 49(5) (power of the Home Secretary to direct that the
+                 costs incurred by any person for the purposes of a local inquiry be
+                 paid out of the police fund), section 51 (which echoes section 50 but
+                 in relation to special constables) and section 52 (which echoes section
+                 50 but in relation to police cadets).
+     Ex parte Wilson and Dalton
+     (11)        The Chief Constable relies on the decision of the Divisional Court
+                 (Lord Justice Ralph Gibson and Mr Justice Nolan) in R v Derbyshire
+                 Police Authority, ex parte Wilson and Dalton (20 July 1989) (70-
+                 72)18. But the funding power was there accepted by the parties and
+                 assumed by the Court, not decided after argument. Moreover, the
+                 Court relied on, without questioning, the Home Office Circular that
+                 was then current (HOC 77/1987). As explained below19, no such
+                 reliance can be placed on the latest Home Office Circular.
+
+
+7.   The Chief Constable also relies on section 111(1) of the Local Government Act
+     1972 ("the 1972 Act") (55). In SYPA’s submission, section 111(1) adds nothing
+     to the debate.
+     (1)         The Chief Constable contends that section 6(1) uses extremely wide
+                 language.   It is difficult to understand how it could be usefully
+                 widened by recourse to section 111(1) of the 1972 Act. If section
+                 6(1) is not already wide enough, section 111(1) will not help. It is
+                 a red herring. The Chief Constable’s difficulty is not the narrowness
+                 of the words of section 6(1) but the relationship between section 6(1)
+                 and section 88. Where Parliament has specifically enacted provisions
+                 dealing with indemnities for officers, the general words cannot help.
+
+
+
+
+     This is the Times version. The full transcript will be available in the bundle of
+     materials.
+
+     Paragraphs 9(2) and (3).
+
+                                      11
+(2)         Section 111(1) begins:
+
+                        " ... subject to the provisions of this Act and any other
+                        enactment passed before or after this Act ... "20.
+
+
+            Thus:
+            (a)         if SYPA is correct about the proper construction of the 1996
+                        Act, section 111(1) is overridden; but
+            (b)         if SYPA is wrong about the proper construction of the 1996
+                        Act, the Chief Constable prevails without relying on section
+                        111(1) at all.
+(3)        Where (as here) the primary statutory scheme is comprehensive,
+            section 111(1) cannot extend it21. Thus, in Sutton London Borough
+            Council v Morgan Grenfell & Company Limited22 the Court of
+            Appeal held that section 111(1) did not confer on a local authority the
+            power to give an additional indemnity to a local housing authority
+            where the housing legislation dealt         specifically with the same
+            subject.
+
+
+The same reasoning applies to financial assistance for the officers’ judicial review
+proceedings.
+(1)        Section 88 is limited to tort. The arguments set out in paragraphs 6
+            and 7 above apply mutatis mutandis to any non-tort proceedings.
+(2)        The judicial review challenges are to be brought by, not against, the
+            officers.
+(3)        The judicial review challenges are closely linked to the defence of the
+            private prosecutions. It would be surprising if SYPA could not fund
+            the officers in respect of the main proceedings but could do so in
+
+
+
+This part of section 111(1) is misquoted in the Form 86A (10).
+
+Burgoine v Waltham Forest London Borough Council (1996) 95 LGR 520
+(Neuberger J).
+
+[1996] 29 HLR 608 (especially at page 617 per Lord Justice Ralph Gibson).
+                     respect of derivative/satellite litigation.
+
+
+The Home Office Circulars
+9.        The Chief Constable maintains that his position is supported by two Home Office
+          Circulars each entitled "Financial Assistance to Police Officers in Legal
+          Proceedings" (60-69). SYPA accepts that the Court should have regard to the
+          Circulars. Departmental Circulars provide guidance on law and practice but, as
+          they always stress, only the Court can decide what the law is. In any event, in
+          the present case, SYPA submits that Home Office guidance supports its position.
+          (1)        Circular 77/1987, dated 4 December 1987, clearly contemplates that
+                     police authorities have power under section 4(1) of the 1964 Act to
+                     pay the costs of officers involved in all kinds of legal proceedings,
+                     including private and public criminal proceedings (64-65).
+          (2)        But Circular 77/1987 was cancelled and replaced by Circular 4/1998
+                     with effect from 17 February 1998 (60-63). This is the Circular
+                     applicable to the challenged decision. It is very different from its
+                     predecessor.
+                     (a)     Paragraph 5 stresses that section 88(4) and (5) of the1996
+                              Act apply to civil proceedings only.
+                     (b)     Paragraph 5 says that police authorities         "may wish      to
+                              consult their legal advisers" as to whether there is power to
+                              provide    financial assistance in relation to criminal
+                              proceedings.        Section 111(1) of the 1972 Act is then
+                              mentioned and it is speculated that this could support the
+                              very argument advanced by the Chief Constable in the
+                              present case (if the officer is acquitted). Section 6(1) is not
+                              specifically mentioned at all.
+                     (c)     Paragraph 6 concludes that:
+
+                                        "[i]t is for individual police authorities to decide in
+                                        the particular circumstances of a case, and on the
+                                        basis of legal advice, whether to make financial
+                                        assistance available to officers in criminal
+                                        proceedings."
+
+
+                                             13
+                                There is no mention of private prosecutions.
+           (3)         Circular 4/1998 is markedly more hesitant than its predecessor.
+                       Instead of reassuring police authorities that the funding power exists,
+                       it merely mentions an argument that could be advanced and then
+                       urges police authorities to take their own advice.          Insofar as
+                       paragraph 6 assumes that the power exists for the right case, SYPA
+                       submits that it is wrong.
+           (4)         In correspondence arising out of these proceedings, the Home Office
+                       has retreated even further from Circular 77/1987. By letter dated 4
+                       February 1999 (159) it stated:
+
+                                "Home Office Circular 4/1998 states clearly that section
+                               88(4) and (5) of the Police Act 1996 apply to civil
+                               proceedings only. The circular goes on to say that [s]ection
+                               88(4) does not apply to criminal proceedings. There is no
+                               provision in the Police Act 1996 enabling police authorities
+                               to provide financial assistance to officers involved in
+                               criminal proceedings. The circular does not purport to
+                               suggest otherwise. Nor does the Circular proffer advice to
+                               police authorities on whether section 111 of the Local
+                               Government Act 1972 provides authority for the payment of
+                               such financial assistance."
+                                                                      (emphasis added)
+           (5)         Parliamentary answers by the Minister, Mr Boateng MP, on 2
+                       February 1999 (157) and 15 February 1999 (589) are to like effect;
+                       as is the letter dated 1 March 1999 from the Home Secretary (592).
+           (6)         The Home Office has been invited by SYPA to participate in these
+                       proceedings but has declined (159).
+
+
+Other considerations
+10.        The construction of the statutory scheme advocated by SYPA does not produce
+           unpalatable practical consequences.
+           (1)         On the contrary, the law recognises a public policy that those who
+                       are identified by the criminal law as the appropriate defendants23
+
+
+
+           The prosecution here is for "individual" not "corporate" offences.
+
+                                            14
+            should not be permitted to transfer the consequences of their offences
+            (whether a fine or the costs of the proceedings themselves) to
+            another: see Askev v Golden Wine Co. Ltd. [1947] 2 All ER 35 at
+            page 38C-H (Denning J). In SYPA’s submission, this explains why
+            the 1996 Act provides for indemnities to be paid to officers for
+            proceedings in tort but not crime.
+(2)         Legal aid will (subject to means) be available to officers in the same
+            way that it is available to others faced with a criminal prosecution or
+            to others launching judicial review proceedings24. Mr Murray has
+            apparently applied for criminal legal aid (484).
+(3)         A defendant who is acquitted will normally obtain an order that his
+            reasonable non-legally aided costs should be paid in full out of
+            central funds, unless he was at fault in bringing suspicion on himself
+            or was acquitted on a technicality: see Practice Direction (Crime:
+            Costs) [1991] 1 WLR 498. The position is similar when a defendant
+            is legally-aided. The Court can remit a contribution order or order
+            that a contribution should be repaid where there has been an
+            acquittal25. Clearly, where a defendant (whether legally-aided or
+            not) is convicted, very different public policy considerations apply.
+            The Chief Constable argues that the officers should have all their
+            costs paid "up front" and in any event (whether they are later
+            convicted or acquitted). SYPA submits that, whatever the proper
+            construction of section 6(1), this goes too far. It does not accord
+
+
+For the avoidance of doubt, SYPA does not accept that the availability of funding
+for the officers from other sources (for example, the Legal Aid Board, the
+prosecutor or central funds) would be irrelevant to the decision on the merits of
+the officer’s applications for funding. The Chief Constable seeks a declaration
+to this effect (4, paragraph (4)). The position of SYPA is set out in paragraph
+39 of the affidavit of William James Wilkinson (85-86). Given that SYPA has
+limited resources for the police fund, the availability of funding from alternative
+sources must, it is submitted, be relevant in deciding what is needed for the
+maintenance of "an efficient and effective police force" under section 6(1).
+
+Regulation 35 of the Legal Aid in Criminal and Care Proceedings (General)
+Regulations 1989 (SI 1989 No.344).
+
+                                  15
+                          with the public policy reflected in the Practice Direction, the Legal
+                          Aid Act 1988 or Askev.
+            (4)          Moreover, where there has been an acquittal and the criminal court
+                          concludes that a private prosecutor was at fault in bringing the
+                         proceedings, it may order that prosecutor to pay the defendant’s costs
+                          (65).
+            (5)          The Chief Constable contends that there are good reasons of public
+                         policy why funding beyond that contemplated by section 88(4) of the
+                          1996 Act should be given to officers.     It is said that, otherwise,
+                         police morale would be seriously undermined. But, equally, there
+                         are countervailing public policy considerations. It might be said that
+                         a police authority’s funds should not be paid to an officer who is said
+                         to be criminally liable in his personal capacity. An officer who is
+                         later acquitted should receive an award of costs as set out above26.
+                         An officer who is later convicted should not be funded by the police
+                         authority.
+           (6)           A Magistrates’ Court has an inherent power to refuse to issue a
+                         summons or to strike out a prosecution if it is frivolous, vexatious or
+                         abusive.
+           (7)           This case concerns the comparatively rare situation where a police
+                         officer sues or is sued/charged in his personal capacity. It does not
+                         concern a representative appearance by a police officer in a court,
+                         tribunal or inquiry. Such an appearance will be made in police time,
+                         with police funding and with the help of police lawyers.
+
+
+Legitimate expectation
+11.        The Chief Constable seeks a declaration (4, paragraph (6)) that the officers have
+           a (substantive) legitimate expectation that their costs and expenses of defending
+           the private prosecution will be met by SYPA as and when they are incurred27
+
+
+           Paragraph 10(3) above.
+
+           The basis for the claim is elaborated only in paragraph 34 of the grounds (16).
+
+                                              16
+            (in other words, that the SYPA decision of 27 February 1998 is not null and
+           void28 but should still stand). This is misconceived.
+            (1)        The highest (legitimate) expectation that the officer could have is that
+                       the earlier decision by SYPA should not be changed without giving
+                       them the opportunity to comment.
+           (2)        That expectation was met, not defeated. The representatives of the
+                       officers addressed SYPA on 5 February 1999 orally and in writing
+                       about whether the earlier decision should be altered (84).
+           (3)        If SYPA is correct that it has no power to fund these officers, it
+                       cannot acquire power through the creation of a legitimate expectation.
+                       SYPA’s powers derive from statute, not from a promise29.
+           (4)        Neither the fact that SYPA has already paid some money to the
+                       officers nor the incurring of further legal expenses by them in
+                       reliance on the previous promise to pay means that SYPA is obliged,
+                       or indeed able, to continue to pay their expenses30.
+
+
+Miscellaneous
+12.        When granting written leave to move on 12 February 1999 (73) Mr Justice
+           Latham ordered not only that Ann Adlington should be served with the papers
+           but also that she should be joined as the Second Respondent. SYPA submits,
+           with respect, that the second of these orders went too far. It is accepted, of
+           course, that the HFSG is directly affected by these proceedings31 and is entitled
+           to participate as an interested party. However, HFSG (still less AnnAdlington
+           herself) is not a public body susceptible to judicialreview.Moreover,        HFSG
+           (still less Ann Adlington herself) has not made any decision which is impugned
+           by the Chief Constable.
+
+
+      28   As SYPA decided, on 5 February 1999, that it should be.
+
+      29   R v MAFF. ex parte Hamble Fisheries (Offshore) Limited [1995] 2 All ER 714
+           (QBD).
+
+      30   Cr6dit Suisse v Allerdale BC [1997] QB 306 (CA).
+
+      31   RSC Order 53 rule 5(3).
+13.          Accordingly, SYPA invites the Court to make it clear that Ann Adlington
+             participates in these proceedings as an interested party rather than a Respondent.
+
+
+Conclusion
+14.          For these reasons, the Court is invited to dismiss this application for judicial
+             review.
+
+
+
+                                                               PRESILEY BAXENDALE PC
+
+                                                                               MARK SHAW
+
+
+                                                                         Blackstone Chambers
+                                                                                      Temple
+
+
+         17 March 1999
+
+
+
+
+                                              18
+                                   NOTES
+
+
+1.    Hammond Suddards should be told that a gremlin has crept into the bundle at
+      pages 60-69 (the Home Office Circulars). The Circulars are in the wrong order
+      (according to the leave index) and a page is blank. But all the pages are there
+      so it is probably not worth changing anything.
+
+
+2.   Quite a few of the pages of the Royal Commission Report and the statutes (37-
+      59) are feint or chopped off at the margins. Better copies need to be circulated.
+
+
+3.   Section 6 of the bundle (party-party correspondence will need to be updated by
+      Hammond Suddards just before the hearing).
+
+
+4.   Hammond Suddards should be invited to compile a composite bundle of
+     authorities and materials for the Court and the parties (but not duplicating those
+     that already appear in the bundle). The authorities and materials that SYPA wish
+     to rely upon appear in its skeleton argument.
+
+
+5.   I have not included anything objecting to the use of the Royal Commission as an
+     aid to construction: see Pepper v Hart [1993] AC 593. Do we want to take this
+     point? It is rather technical, since we are saying that we just want the Court to
+     tell us all where we stand?     The answer may be to let the Court raise the
+     objection if it wants to. In any event, the Applicants may say that they are
+     relying on the Royal Commission not as an aid to construction, as such, but as
+     a factual indication of previous practice.
+
+
+
+
+                                       19
+                             CO/582/99
+
+IN THE HIGH COURT OF JUSTICE
+QUEEN’S BENCH DIVISION
+CROWN OFFICE LIST
+
+BETWEEN:
+
+                    R
+                    v
+      (1) THE SOUTH YORKSHIRE
+          POLICE AUTHORITY
+           (2) ANN ADLINGTON
+                           Respondents
+                 ex parte
+      THE CHIEF CONSTABLE OF
+      SOUTH YORKSHIRE POLICE
+                             Applicant
+
+
+
+
+ SKELETON ARGUMENT ON BEHALF
+    OF THE SOUTH YORKSHIRE
+       POLICE AUTHORITY
+        (Listed: floating from
+      Monday, 22 March 1999)
+
+
+
+
+Garretts
+1 City Square
+LEEDS
+LSI 2AL
+
+Ref: NJP/DH
+
+Tel: 0113-207-9000
+Fax: 0113-207-9001
+
+17 March 1999
+

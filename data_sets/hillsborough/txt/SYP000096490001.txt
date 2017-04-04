@@ -1,0 +1,28 @@
+                                        GROUND CAPACITY AND TURNSTILE ALLOCATIONS
+
+
+LOCATION      CAPACITY   NO. OF       FEED AT      PERCENTAGE     RECORD OF    SPARE        PERCENTAGE
+                         TURNSTILES   750 PER      OF CAPACITY    TURNSTILE    CAPACITY     OCCUPIED
+                                      HOUR                        FIGURE       AT 3, 00PM
+                                                                  AT 3 00PM
+
+
+
+
+NOTTINGHAM
+
+Spion Kop     21,000       42         31,500       1 0 0 % plus   20,290            710     96.61%
+South Stand
+Covered        5,524        12         9,000       1 0 0 % plus    4,740            784     85.80%
+South Stand
+Uncovered      3,310                   6,000       1 0 0 % plus    3,255 /           55     98.33%
+
+
+
+LIVERPOOL
+
+North Stand    9,705       10          7.500        77.27%         9,326            379     96.09%
+West Stand     4,465         6         4.500       1 0 0 % plus    4,403            62      98.61%
+Leppings Lane
+Terraces      10,100         7         5,254        52%            7,038       3,062        6 9 .6 8 %
+

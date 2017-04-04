@@ -1,0 +1,595 @@
+                                                      DCI (ENG)^
+                                                    1 - AUG 1990
+                                                     TECH. DIV.
+
+
+
+C E Nicholson                                 Technology Division
+Safety Engineering Laboratory 1              Room 436 Magdalen Ho
+RLSD Sheffield                                HSE Bootle
+
+                                               1 August 1990
+
+HOME OFFICE - REVISION OF GREEN GUIDE ON SAFETY AT SPORTS GROUNDS
+
+
+As discussed by telephone today, Mr Jones passed your letter of
+the 3 July (with the revised Green Guide) to             who asked
+me to reply to Mr Jones.
+
+It now seems that we are very pressed for time and I have agreed
+with Mr Jones that I will pass mv comments directly to you. The
+intended consultation with            of TD over the fire matters
+in the Guide will have to wait to the public consultation stage.
+
+As I pointed out,            is on holiday at the present time and
+I have had to comment on the text without the benefit of his
+advice.  I have not been involved in any meetings nor seen the
+draft or the original document before - so my comments are rather
+"off the top of my head".
+
+Nevertheless I have made some comments on 87 of the 107 pages of
+the draft, and hope that some of them may be of value.  I feel the
+document lacks clarity - especially over the fundamental question
+of who is in charge and when that circumstance might change and
+under what circumstances.  It is repetitious, and the Chapter on
+"Communications" is the worst and would benefit from a_x^-write.
+
+
+
+
+                                      c. c.               TD3
+                           This minute only1 jyla r o u n t a
+
+Head of Group
+[{1 1
+                                                                        Reference
+
+
+
+
+                                  DC! (E N G IN E E R IN G )
+               Dr C E Nicholson                                  cc:   Dr B§jn^ick, SGPD C3
+               DD/SEL5                in          1330                      Jones, TD
+               Sheffield
+                              T E C H N O L O G Y D IV IS IO N
+                                                                       Mr F Lindsay, APAU
+                               FlLEKo: ^            A                  Mr H Cavanagh, POD (Area 18)
+                                                                 .J
+               HOME OFFICE - REVISION OF THE 'GEEEN GUIDE1 ON SAFETY AT SPORTS GROUNDS
+
+
+               1)   Thank you for sending me this "First Aid" section for comment.
+                    Clearly the policy comment will come from__________ HPD/D.
+
+               2)   However, I can perhaps add a few related thoughts:
+
+                    (a)   Do we have any idea of the average accident and ill
+                          health rate/10,000 attendees at a football match or
+                          any large public gathering ?
+
+                    (b)   If we haven't got these statistics, perhaps we should
+                          get them (via an extramural research programme) ?
+
+                    (c)   How do the number of cases of ill-health vary with
+                          temperature, type of event (horse-riding v. soccer etc),
+                          density and type of accommodation, access to alcohol ?
+
+                    (d)   Should (or do) the first-aid rooms have accident books ?
+                          If they do, have we looked at them ?
+
+               3)   If we had this sort of information we could give informed guidance.
+                    This draft suggests a room "large enough to contain the minima
+                     of a couch".
+
+                    It seems such a room (with one couch) certainly is an inadequate
+                    provision at a large first-division match.
+
+               4)   Clearly the present guidance will go out. Should we commission
+                     some research concerning accident and ill health rates at public
+                     sports gatherings (if this information is not available) ? We
+                     in HPD/E would be happy to help.
+
+
+
+
+               HPD/E
+               5 July 1990
+
+
+
+
+CODE   18-77
+J O tt V A .
+     xv^'             r
+      T*! . ro-J" ^
+                                       -safr
+              U     N    I V   E   R   S    I T Y        O       F     S U     R     R   E Y
+                                                                                                              ■k
+t             Guildford Surrey GU2 5XH
+              Departm ent o f Psychology
+                                              Telephone (0483) 571281
+                                              Direct Line (0483) 50917®
+                                                                                   Telex 859331
+                                                                                   Fax 0483 32813
+                                                                                                     ^2- a
+              David Canter, Head of Department and Professor of Psychology                           OCT ms
+              Harry McGurk, Professor of Developmental Psychology
+                                                                                             fit 0*
+                                                                                                <K        W
+ 2nd October 1989                                  Cc       S.
+                                                                               ij*                   (1^1 Re.
+Mr R M Whallcy
+Secretary to the Inquiry
+Inquiry into the Hillsborough
+Stadium Disaster
+50 Queen Annc‘s Gate                                    „    K*.     Q4<jl)C
+London SW1H 9AT
+
+Dear Mr Whalley,
+
+Further to your request of 20th September 1989, enclosed are some notes on the issues
+as I see them in relation to Crowd Behaviour. I have deliberately been as succinct as
+possible, given the amount of documents you will be reading. I hope my notes are not
+too cryptic as a consequence.
+
+If you require any further assistance do let me know, but as you will see I do think
+that this is an enormous topic with very little scientific information to draw upon.
+
+Yours sincerely,
+
+
+
+Professor David Canter
+Head of Department
+
+Encl.
+
+
+
+
+                                             1
+4
+
+
+
+
+                     HILLSBOROUGH STADIUM DISASTER INQUIRY
+
+
+
+
+                          Comments on Crowd Behaviour from
+                          Professor David Canter
+                          University of Surrey
+
+
+
+
+    LACK OF RESEARCH
+
+     1. Despite the distressing regularity of major inquiries into aspects of crowd safety and
+    control throughout this century there has been remarkably little systematic, scientific
+    -tudy of crowds and how to control them effectively. What knowledge does exist tends
+    to be ad hoc personal experience of police officers.
+
+    2. The few studies that have been carried out tend to have focused on limited issues in
+    haste for major inquiries, (e.g. the work of Scicon following the Ibrox Disaster Inquiry,
+    the work of Canter et al for the Popplewell Inquiry).
+
+    3. Clearly, then, a significant issue is to encourage the support of wide ranging studies
+    of crowd behaviour by competent behavioural scientists.
+
+
+    WHAT IS KNOWN
+
+    4. Such studies can build upon the following areas in which there is some systematic
+    knowledge.
+
+           a)    Flow rates can be predicted in general terms.
+
+          b)     Basic maximum capacities can be established as a consequence of
+                 assumptions about flow rates, but the densities used as calculations are for
+                 extreme circumstances not for the normal conditions.
+
+          c)     Although often ignored, there is a general understanding of the difficulties
+                 that disabled people experience in crowds and how to design for these
+                 people.
+
+          d)     There is some preliminary understanding of how to communicate with
+                 large crowds and of the processes that are likely to make crowds difficult
+                 to control.
+
+
+
+
+                                               1
+#
+         MATTERS REQUIRING URGENT CONSIDERATION
+
+         5. Differential Ingress and Egress
+
+         Current calculations usually take the capacity divided by exit unit widths in order to
+         calculate crowd flows. This assumes people divide themselves evenly between available
+         exits or entrances. They do not.
+
+         6. Differential Densities
+
+        Variations in crowd density are likely to be a natural product of various sociol-
+        psychological processes. This should be planned for in capacity calculations and crowd
+        management procedures.
+
+    *       Crowd Characteristics
+
+        The large differences between types of crowd needs to be systematised and allowed for,
+        overtly, in management and planning. This will have direct implications for flow rates
+        and densities.
+
+        8. Waiting Times
+
+        The Scicon study on crowd waiting in enclosed areas and possible turbulence, is by
+        their own admission ambiguous and flawed. Yet it guides many regulations. The
+        control of slow moving, static or waiting crowds needs urgent analysis.
+
+        9. Communication with Crowds
+
+        A set of clear guidelines on the most effective way to communicate with crowds under
+        various circumstances need to be established. This should not be left to "common
+        sense and the personal style of the person who happens to be near a microphone, for
+        example. Who should communicate, when, where and how all needs to be set down
+        for varying circumstances.
+
+        10. Information Systems
+
+        The maintenance of consistency across all forms of communication and signposting is
+        already indicated in your interim recommendations (e.g. recommendation nos. 22, 23
+        and 24). What is involved in establishing a comprehensive consistency now needs to
+        be elaborated.
+
+        11. Training for Crowd Management
+
+        Procedures need to be established as to the best ways to train police, club management,
+        stewards etc to recognise and act on appropriate crowd cues. I have already had police
+        forces in touch with me asking for help for example, in relation to recommendation 6,
+        in recognition of crowd densities and dynamics.
+
+
+
+                                                   2
+  12. Public Expectations and Attitudes
+
+ As considered in our book "Football in its Place", which has been sent to you, a focal
+ issue is the expectations that members of a crowd have about a public event. The role
+ of the police and club management in this are crucial. At present most actions support
+ a fortress attitude with expectations of anti-social behaviour. If there is not to be a
+ need for another inquiry in a few year's time this attitudinal/educational issue must be
+ addressed directly.
+
+
+
+ BRIEF RESUME OF PROFESSOR CANTER
+
+Professor David Canter is Professor of Psychology and Head of the Department of
+  sychology at the University of Surrey. He is internationally known for his work in
+^ nvironmental Psychology and his studies of human behaviour in fires and emergencies.
+
+kHe is Fellow of the British Psychological Society and the American Psychological
+ Association and the British Institute of Management. He is the founding editor of the
+ Journal of Environmental Psychology.
+
+He carried out a series of studies on major fires and other small domestic fires, for
+m^n>^ / ef r,s ^or  Fire Research Station. As a result of this work produced a book,
+Pu? ! s^ by Wiley in 1980 entitled "Fires and Human Behaviour". He has also
+published a number of papers on this topic and given many presentations at national
+and international conferences on the topic.
+
+He was appointed as a technical adviser to the Popplewell Inquiry into Crowd Safety at
+bports Grounds and the King's Cross Inquiry.
+
+He had produced 14 books and over 100 articles in technical and learned journals.
+
+
+
+
+                                          3
+11 &
+
+
+       4
+                                               TD3/5A
+
+
+
+                  H/TD3B                  cc                          H /T D 3
+                                               I              TD 3B
+
+
+
+
+                           HILLSBOROUGH
+Reference your telecon message of 12.10.89         about HSE input to the
+revision of the Green Guide.   I had spoken        to Dr A Jones, D/SEL
+on 10.10.89 about this when he advised me          that Dr Nicholson had
+been invited by the Inquiry team to join a         working party for this
+purpose (see copy of letter attached).
+
+It is too late to revise our representation on the Inquiry/WG but
+I   impressed on Dr Jones the need for proper briefing of
+Dr Nicholson at each significant stage.       In this respect I
+suggested that Dr Nicholson runs briefing meetings at appropriate
+intervals which would include
+
+          TD3 (
+          FAID-ttnt. NIG (H Cavanaqh)
+          SPD/D3 Policy (|        \
+No doubt Dr Nicholson will be in touch on this requirement in the
+near future since I understand that the Inquiry/WG has a somewhat
+ambitious meeting schedule.      Please cooperate as required to
+ensure that TD views are known and considered.
+
+
+
+
+pp P G JONES
+DCI(ENG)/TD
+
+17 October 1989
+                                             T E L E PH O N cM E SS.
+
+
+F or th e a tte n tio n o f:
+
+Caller's nam e:
+
+Firm o r organisation
+
+Address        ....................
+
+
+
+
+T elephone n u m b e r ...................... ,A.......................................... 4 E xt
+
+Particulars of message
+
+ 0^/..                                                                        --ivryvAiJ^_.. 9 ^ . A n . .
+^y^.'/Vv4fer^. .jp.S                                                                          .&j_. .-^r^A .
+^ s A - il .9 -v x ..                                  pjfc. A |? ^ * r £ > . jl^ V iavvvvd p ,, .                          .
+
+                                                                  (Xaa/Sl
+
+ .€>                                  ..^ky&Jb. ,.^s£V. .OJh .
+                          .|La_.                                                      ,tfsfc .QkvA                          .
+
+^ - V . . H v c? ^ k s iA /9 > . ^ y s t ' .’ . . ."TT.-b                                           rsftJ C .
+
+IL loliLl                                  <w^ ^uv,da^ °-t                                                      f< £. lU x s^ o
+A ction tak en an d /o r to be tak en (e.g. phone back)
+
+
+
+
+                                          S ignature        ......................... t). r S A ^ v L .Q i^ .............
+
+                                                o       . .......................
+                                               T im e      ..................................( 9 . ’.   9: 9. 9^     .
+
+
+
+CS3/2
+i/ h °
+                                                 DSEL 14.4
+
+
+                                           ccs   Dr Nicholson
+                                                 Dr McQuaid
+
+
+
+
+HILLSBOROUGH
+
+I confirm what we agreed by telephone today that Dr Nicholson
+will convene a briefing meeting with T           (TD),
+Mr H Cavanagh (Ent.NIG) and           (SPD D3) in preparation
+for the first meeting of Lord Justice Taylor's Technical
+Working Party on the Green Guide.
+
+I enclose correspondence relating to the formation of the
+Technical Working Party for your information.
+
+
+
+
+ALAN JONES
+D/SEL
+RLSD Sheffield                                    DCI (ENGINEERING)
+10 October 1989                                      12 QCT 1989 lA v°
+                                                 TECHNOLOGY DIVISION
+
+Encs.                                            FILE No:
+IIw
+                                                   T b jO P P £ o   M ix
+                  RECEIVED IN THE OFFICE OF
+                       THE DIRECT"                                         o
+                        12 OCT 1339
+Dr Linda Derrick
+spd 3            TECHNOLOGY DIVISION
+                                              DSEL 14.4
+
+                                              Dr   J   McQuaid, RLSD
+                                              Mr   D   J Hodgkins, SPD
+                                              Mr   P   G Jones, TD
+                                              Mr   F   Lindsay, APAU
+                                                            ■   Ent.NIG
+                                              Mr   h   uavanagn, Ent.NIG
+
+
+
+                                              Mr A c Barrell, TD
+                                              Mr A J Linehan, CIO
+
+
+                                              Dr C E Nicholson, SEL
+
+
+HILLSBOROUGH
+
+Your minute of 2 6 September and vour minute to Mr P G Jones
+dated 19 September.
+
+I suggest that Dr Nicholson (DD/SEL1) joins the working group
+that you propose and I would be grateful if you would contact
+him directly concerning arrangements for the pre-meeting in
+mid-October.
+
+A separate development that I discussed today with
+SPD D3, is that Dr Nicholson is to sit on a small technical
+working party on the Guide to Safety of Sports Grounds. This
+working party has been convened by Lord Justice Taylor as part
+of the Hillsborough Disaster Inquiry Part II.   (The terms of
+reference of the Working Party are attached.)
+
+In addition to what you propose in your draft terms of
+reference, the HSE Working Group will usefully provide Dr
+Nicholson with information from other parts of HSE relevant to
+the Taylor Technical Working Party. Unfortunately, however,
+Lord Justice Taylor's Working Party has arranged to meet on 18
+October and as an interim measure, and after consultation with
+TD, I have arranged for Dr Nicholson to be briefed for this
+first meeting by representatives of TD, the Entertainments NIG
+and, in your absence,             has also agreed to join the
+meeting.
+
+Subsequent meetings of the Taylor Working Party are arranged for
+the 2, 7 and 28 November.
+
+
+
+
+ALAN JONES
+Director/SEL
+RLSD Sheffield
+10 October 1989
+
+Enc.
+TERMS OF REFERENCE
+
+
+
+     To review technical aspects of the Guide to Safety at
+     Sports Grounds;   identify areas needing clarification
+     or amendment;   and recommend accordingly.
+
+
+
+
+MEMBERSHIP
+
+Professor Leonard Maunder OBE (Chairman)
+Assessor to the Hillsborough Stadium Disaster Inquiry
+
+M G T Dickson Esq BA MS CEng MIStructE
+Buro Happold - on behalf of the Institution of Structural
+Engineers
+
+L N Bush Esq FRICS CEng MIStructE FIAS
+City Building Surveyor, City of Liverpool
+
+Dr C E Nicholson PhD CEng MIM
+Deputy Director, Research and Laboratory Services Division,
+Health and Safety Executive
+
+B A Stickley Esq CEng FIStructE
+Directorate of Works
+Home Office
+
+W H Carter Esq
+George Corderoy & Co
+Quantity Surveyors - on behalf of the Football Association
+
+J Sweet Esq (Secretary)
+Hillsborough Stadium Disaster Inquiry
+i/ h
+INQUIRY INTO THE HILLSBOROUGH               T h e Rt Hon Lord j u s i i c e Taylor
+STADIUM DISASTER
+                                            v iQutren Anne > Gait
+
+
+
+
+Dr C E Nicholson PhD CEng MIM
+Deputy Director
+Research & Laboratory Services Division
+Health and Safety Executive
+Broad Lane
+SHEFFIELD
+S3 7HQ
+                                                2 6 September 1989
+
+
+
+
+HILLSBOROUGH STADIUM DISASTER INQUIRY PART II
+TECHNICAL WORKING PARTY ON THE GREEN GUIDE
+
+
+I am very pleased that you are able to accept Lord Justice
+Taylor's invitation to sit on a small technical working party on
+the Guide to Safety at Sports Grounds.  The terms of reference
+and membership of the working party are attached.
+
+The Chairman of the working party is Professor Leonard Maunder,
+one of Lord Justice Taylor's Assessors on the Hillsborough
+Stadium Disaster Inquiry.
+
+The Secretary is Jonathan Sweet, my assistant as Secretary to the
+Inquiry.  He will be contacting you shortly about the date for
+the first meeting of the working party.
+
+                                          0Uaj
+                                                                  /
+
+
+
+                                        R M WHALLEY
+                                   Secretary to the Inquiry
+TERMS OF REFERENCE
+
+
+
+     To review technical aspects of the Guide to Safety at
+     Sports Grounds;   identify areas needing clarification
+     or amendment;   and recommend accordingly.
+
+
+
+
+MEMBERSHIP
+
+Professor Leonard Maunder OBE (Chairman)
+Assessor to the Hillsborough Stadium Disaster Inquiry
+
+M G T Dickson Esq BA MS CEng MIStructE
+Buro Happold - on behalf of the Institution of Structural
+Engineers
+
+L N Bush Esq FRICS CEng MIStructE FIAS
+City Building Surveyor, City of Liverpool
+
+Dr C E Nicholson PhD CEng MIM
+Deputy Director, Research and Laboratory Services Division,
+Health and Safety Executive
+
+B A Stickley Esq CEng FIStructE
+Directorate of Works
+Home Office
+
+W H Carter Esq
+George Corderoy & Co
+Quantity Surveyors - on behalf of the Football Association
+
+J Sweet Esq (Secretary)
+Hillsborough Stadium Disaster Inquiry
+ih i
+

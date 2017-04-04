@@ -1,0 +1,428 @@
+                                                Date and time raised .                                Number
+OTHER DOCUMENT FORM
+
+Title                        Pr'kjLCx I f i k o , —
+(Include source and any document number! f relevant)
+
+Receiver's instructions - urgent action - Yes/No -------------------- —                                           FtiCiivar
+
+
+
+
+Document registtiw indexed as indicated
+
+No(s) of actions raised
+                                                                                                                %2Q
+                                                                                                               Statement Reader
+Statement reader's instructions
+
+                                                                                                                   Indexer
+Indexed as indicated
+
+No(s)o^actions raised
+
+Examined     further action to be taken
+                                                                                                er-w g s
+
+
+
+
+Further action No(s)
+
+When satisfied all actions raised Office Manager to endorse other Document Master Number Form
+Incident    102     280391 OP9636        AMENDMENT TYPING DOCUMENT
+
+                                                   Other Document Number   D3825
+
+
+
+      Date              010890
+
+      Description       INDEXERS POLICY FILE - 2
+
+
+
+
+           250690
+
+
+
+           106 Database created (between 010690-150690 by DSU COBB) to assist with
+
+           the CRIMINAL INVESTIGATION.
+
+
+
+
+           PROCEDURES FOR DEALING WITH TAPE TRANSCRIPTS/CONTEMPORANEOUS NOTES.
+
+           ARISING FROM THE INTERVIEWS OF POLICE OFFICERS, OFFICIALS ETC.
+
+
+
+           To assist in future research of the information contained in the above
+
+           documentation, there is an emphasis to provide Free Text Retrieval via
+
+           status.
+
+
+
+           The current main database 102 still suffers a considerable backlog of
+
+           documentation awaiting transfer into the Free Text DB. There is no
+
+           immediate solution available from BULL to assist in this area. There is
+
+           no selective option available to force through the more important
+
+           documentation and hence it is a question of first in queue, first to
+
+           transfer.
+
+
+
+           To overcame same of these problems and to push through the interview
+
+           transcripts, a new database has been created. This is in turn linked to
+
+           the main database 102.
+                                                                  PAGE    2
+                                                                  D3825
+
+Hie procedures to be followed in relation to TRANSCRIPTS,
+
+CONTEMPORANEOUS NOTES AND OTHER DOCUMENTS ARISING FROM THE INTERVIEW OF
+
+POLICE OFFICERS, OFFICIALS ETC, is thus
+
+
+
+a) The Receiver will clearly mark the document for registration etc in
+
+   106.
+
+b) Registerthe documentation to the new database 106.
+
+c) Create askeleton nominal for the person interviewed,     Page1 with
+
+   some reference on Page 3 should suffice.
+
+d) Type thetranscript etc in the new database via +TS.
+
+e) Any actions arising should      be     raised in the new DB, linkedtothe
+
+   Nominal.
+
+
+
+Because the two databases are linked, then all of the previously
+
+recorded information held on the Nominal in DB 102 is available for
+
+research.
+
+
+
+When researching, where it is known that the information required is
+
+held within the interview record of that person, then it is more
+
+efficent to log into the new database and not to make the link to 102.
+
+If however, the purpose of the research is to compare the content of
+
+the interview record with the written recollection and/or judicial
+
+inquiry transcript, then there will be a need to link into both
+
+databases.
+
+
+
+If a pattern of common searches should emerge, then it might be
+
+possible to set up a series of global macros (DSU COBB will execute).
+
+
+
+When it comes to filing, there is a need to be aware that there will be
+
+some duplication of numbers i.e. the new database will commence at
+                                                                PAGE       3
+                                                                D3825
+
+No. 1.
+
+
+
+Transcript/Contemporaneous notes will be typed on and registered as
+
+statements.
+
+
+
+ DSU COBB.
+
+
+
+250690
+
+
+
+On Datatbase 106 in order to assist indexing information gained from
+
+the Interviews a SEQUENCE OF EVENTS has been created for each person
+
+interviewed.
+
+e.g. - 01 PC SMITH         02 PC ILLINGWORTH
+
+
+
+280990
+
+
+
+               now the only indexer left on enquiry,                 now
+
+involved in training although has watching brief on Hillsborough.
+
+
+
+'POL LINK' in the link field indicates a link between a police officer
+
+and a deceased & where used makes it clearer which police officers
+
+had dealings with each body.
+
+
+
+150191
+
+
+
+In relation to the Resumed Inquest ccranenced Novemember 1990, the
+
+events for each day has been maintained until January 1991 (000191).
+
+The Incident Roam & staff are based at Fumival House Sheffield.
+
+
+
+STAFFING FOR RESUMED INQUEST
+                                                               PAGE      4
+                                                               D3825
+
+
+
+DSU BEECHEY                   SIO
+
+DI PERKINS                    OM
+
+                              WITNESS WARNING   (R)
+
+PS KILLOCH                    WITNESS WARNING   (R)
+
+                              COURT USHER
+
+                              PRESS & WITNESS WARNING (R)
+
+PC BROWN                      WITNESS WARNING (R)
+
+                              CLERK (R)
+
+PC PHILIPS                    CLERK (R)
+
+                              INDEXER
+
+
+
+(R) signifies weekly rotation between Sheffield & Liverpool (see below)
+
+
+
+The indexer           is on Annual Leave for the rest of January &
+
+February and in the interests of cost, she will not be replaced.
+
+
+
+For the duration of the Resumed Inquest, which is anticipated to last
+
+another 4 months, due to costs 3 monbers of staff will be located at
+
+Nechells Police Station rotating on a weekly basis with staff in
+
+Sheffield.
+
+
+
+
+210391
+
+
+
+ERRORS ON 106:
+
+This policy file is being used also for 106 and therefore please note
+
+that on 106 two statements have been registered in error (S14 and S34)
+
+on that database. This is not immediately obvious although a note has
+
+been put on the notepad of each statement (ie +IN) to this effect. D20,
+                                                                          PAGE    5
+                                                                          D3825
+
+also on 106, has also been registered in error.
+
+
+
+There are two error nominal records on 106: N106 & N81.
+
+
+
+In anticipation of handing over the database to South Yorkshire Police,
+
+following the conclusion of the Resumed Inquests in the forseeable
+
+future, the situation on 106 stands as follows:
+
+
+
+Ncminals:        112       Sequences:      10   Messages:             8
+
+Vehicles:          0       Events:        167   Reports:              0
+
+Streets:           3       Other names:    2    Telexes:              0
+
+Houses:            4       Actions:       58    Other Documents:   43
+
+Telephones:        2       Statements*    35    Questionnaires:       0
+
+Categories:       43       PDF's           0 (*excludes suffixes. )
+
+
+
+
+Statements         48
+
+PDF's                  0
+
+Messages               8
+
+Reports                0
+
+Telexes                0
+
+Other Documents    43
+
+Questionnaires         0
+
+Property               0
+
+House to House         0
+
+
+
+
+ERRORS ON 105:
+
+A seperate working indexers policy file was created, particularly for
+
+the Resumed Inquest which ran from 191190 - 00391 (still running at the
+                                                               PAGE     6
+                                                               D3825
+
+time of this entry). This is D315 on 105 - please view for summary of
+
+105 database.
+
+
+
+
+280391
+
+
+
+ERRORS ON 102:
+
+
+
+1 error address (street & house) in this incident
+
+Several error houses exist where they have been identified later in the
+
+enquiry.
+
+4 error telephone numbers exist at this time.
+
+No error nominals.
+
+There are no PDF's taken although 21 have been registered due to
+
+operator error.
+
+
+
+The following information is correct as of 280391 for 102:
+
+
+
+Statements         5306
+
+PDF                   21
+
+Messages           2205
+
+Reports              113
+
+Telexes               8
+
+Other Documents    3967
+
+Questionnaires     7975
+
+Property              0
+
+House to house        0
+
+
+
+
+Nominals          13314    Sequences      23        Messages       2205
+                                                                           PAGE    7
+                                                                           D3825
+
+         Vehicles              30   Events        10833        Reports
+
+         Streets            7579    Other names    316         Telexes
+
+         Houses             10021   Actions       8678         Other documents
+
+         Telephones         10505   Statements    3907         Questionnaires
+
+         Categories          844    PDF's           21
+
+          (these do not include suffixes ie 'A' statements).
+
+         Unident vehicles      7
+
+         Unident streets     266
+
+
+
+         280391
+
+
+
+         Inquest ended 280391 with a verdict of accidental death. Indexers
+
+         policy file closed.
+
+
+
+
+END OF REPORT
+

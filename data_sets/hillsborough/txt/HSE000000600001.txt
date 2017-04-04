@@ -1,0 +1,817 @@
+                                                                 Incident Report
+
+
+                          HEAUTH AND SAFETY EXECUTIVE
+
+                   RESEARCH AND LABORATORY SERVICES DIVISION
+
+                         Harpur Hill, Buxton, SKL7 9JN
+
+
+
+                    Audibility of the Public Address System
+                        at Hillsborough Football Ground
+
+                                      by
+
+                          I R Price, BSc MIOA MSEE
+
+                                                 IR/I/NV/89/17
+
+
+
+
+Distribution                               Issue authorised by: Dr A Jones
+                                                          Date: 12 January 1990
+
+The Court of Inquiry (5 copies)
+ACC M Jones West Midlands Police
+Mr D C T Eves
+Dr J MoQuaid
+Dr A Jones
+Mr A Barrell TD
+Mr p G Jones TD
+Mr M S Nattrass FAID Area 14
+Mr J P Giltrow HFS (N)
+Mr M R Stephenson NE FOG
+Mr M Fountain TD3
+Dr J H Foley
+Dr C E Nicholson
+Mr P F Heyes
+Mr I R Price                                 TO RISD/DIAS STAFF ONLY: NOT TO
+Mr D Waterhouse                              BE COMMUNICATED OUTSIDE HSE
+Mr G A C Gaines                              WITHOUT THE APPROVAL OF THE
+Mr G Norton                                  AUTHORISING OFFIQ2R
+Mr M James TD3
+Mr C J Pertee NE FOG
+Mr J B Hibbs NE FOG
+RPS
+Library (2 )                                  SMfy'343/235/01
+Registry File                                 NV/05/002/89
+1   INTRDDUCTIOT
+
+    As part of the investigation undertaken by the Health and Safety Executive
+    into the incident at Sheffield Wednesday PC's Hillsborough football ground
+    on the 15th April 1989, I was asked by Dr C E Nicholson to investigate the
+    audibility of the Public Address system (PA system) at Hillsborough. This
+    report sets out the results of that investigation. Information on the
+    design of the PA system and the equiment used in it was supplied by Mr R
+    Annible (Contracts Director) of DP Sound Systems Ltd at a meeting on the
+    8th June 1989 and in subsequent correspondence and telephone conversations.
+
+    This report contains details of investigations performed both on site and in
+    the laboratory. The work was carried out by me and by other members of the
+    Noise and Vibration Section of the Research and Laboratory Services Division
+    (RLSD) working on irty instruction and under my general supervision.
+
+2 DESCRIPTION OF SYSTEM
+
+    I was informed by Mr Annible that the PA system at Hillsborough was designed
+    and installed by DP Sound Systems Ltd of Sheffield. The principle
+    components, loudspeakers and amplifiers, were made by TOA Electric Co Ltd, a
+    Japanese company which is a specialist manufacturer of public address
+    equipment of seme 55 years standing.
+
+    Mr Annible informed me that the PA system was installed primarily as a means
+    of communicating with the spectators for crowd control or in an emergency.
+    The system is controlled from the police control booth located between the
+    West and South Stands. In the booth is a control unit (TOA VR 1012) on
+    which the microphone input to the system is located together with a button
+    which activates the system when depressed. The control unit also has a
+    series of buttons which enable sectors of the ground to be selected so that
+    messages can be relayed to specific areas (see Figure 1). The PA system has
+    been divided into eight sectors; inside and outside of each of the four
+    stands (Figure 2). The outside sectors also include the passages leading to
+    the upper seated accommodation in each of the stands. Any combination of
+    the eight sectors can be selected or, using the button labelled 'ALL CALL'
+    every sector can be selected. The sector outside the West stand also
+    includes loudspeakers directed at the approach to the turnstiles at Leppings
+    Lane. Thus it is possible for the police to talk to those inside the ground
+    independently of those approaching it or vice versa. It is also, for
+    example, possible to talk to those inside and/or approaching the West
+    stand/terracing independently of those anywhere else in or around the
+    ground.
+
+    A second input to the PA system has been provided for use by a Disc Jockey
+     (DJ) to play music and jingles to the spectators and to make announcements.
+    This input uses part of the same PA system, that directed at all spectators
+    inside the ground, ie the four sectors inside the stadium. The DJ's input,
+    whether music or speech, is automatically overridden when the police control
+    panel is used. Thus a message from the police can be relayed to one portion
+    of the crowd whilst the rest hear the DJ. The DJ's booth is underneath the
+    police control room.
+
+    The location of the loudspeakers in the West stand, inside and outside
+    sectors, are shown in Figure 3. These are controlled by buttons 1 and 7
+    respectively. The 12 loudspeakers inside the stand are mounted under the
+    front edge of the roof and are alternately directed into the upper stand and
+    down to the terracing. These loudspeakers are TOA TZ 201 units. Outside
+
+                                         1
+  the stand TOA TC 15ML horn loudspeakers have been used. Using TOA data for
+  the loudspeakers calculations were made of the sound pressure level (SFL) at
+  various locations inside and outside the ground (see Table 1).
+
+3 NOISE LEVELS IN FOOTBALL GROUNDS
+
+  No useful information on typical noise levels in football grounds was found
+  in the technical literature. Consequently limited measurements were made at
+  the first available opportunity which happened to be the Liverpool vs
+  Arsenal match at Liverpool FC's Anfield ground on the 26th of May 1989.
+  Tape recordings were made of the sound level at the pitch side and on the
+  collar of a member of RISD's Noise and Vibration      Sectionwho was a spectator
+  in the 'Kop'. The sound pressure level was also       logged as 1 minute averages
+  using noise dosemeters in both cases. The pitch side microphones were
+  located approximately 1m from the goal line, 8m from the nearest goal post
+  and 4m from the spectators at the 'Kcp' end of the ground. The equipment
+  used is detailed in Annex 1.
+
+  Plots of the 1 minute average sound pressure level (SPL) are presented in
+  Figure 4. The match kicked off at about 20:15 and finished about 22:00.
+  During this period the 1 minute average level in      the Kbpwas always greater
+  than 90 dB(A) and above 100 dB(A) for much of the time. The corresponding
+  figures at pitch side are about 5 dB lower, viz 85 dB(A) and 95 dB(A).
+
+  Unpublished data from a football match at Bristol, and from the Rugby League
+  Cup Final, at Wembley, were made available to HSE. These data were obtained
+  as 3 minute averages and are presented in Figure 5 together with the HSE
+  data re-calculated as 3 minute averages. Clearly the HSE Anfield data shows
+  much higher levels than at Bristol and Wembley.
+
+  The logarithmic units used to measure noise as a 1 or 3 minute average can
+  mask much lower levels which may have occurred during the period. Thus it
+  is possible for the sound level to be relatively lew for a significant
+  proportion of the time whilst the average level is high. A statistical
+  distribution analysis of the sound levels illustrates this effect. Table 2
+  presents such data for the Anfield recordings for 3 minute periods leading
+  up to and just beyond the start of the match. From these data it can be
+  seen that althou^i the 3 minute average levels in the Kbp were between 97.9
+  and 105.7 dB(A), the level was below 91.9 dB(A) for 10% of the total period
+  (as shewn by Io0) 31x1 belew 96.9 dB(A) for 50% of the time (I5 Q) •
+  Figure 6 illustrates the relationship between the various statistical
+  measurements of fluctuating sound for a 3 minute period of the Anfield
+  recordings in the Kcp. In this period 108.2 dB(A) was exceeded for 1% of
+  the time; 105.2 dB(A) for 10% and 97.2 dB(A) for 50%; whereas the average
+  level (Leq) was 101.1 dB(A).
+
+  In Figure 6 various crowd activities which give rise to high levels of sound
+  are identified.
+
+4 TESTS ON THE HILLSBOROUGH PA SYSTEM
+
+  Recordings were made of speech relayed by the Hillsborough PA system at
+  locations inside and outside the West stand and terracing. The locations
+  are shewn in Figure 7 and described in detail in Annex 2. The recordings
+  were made on the 7th June 1989 in an empty ground. The speech was input
+  using either the microphone on the control panel in the police control room
+  or the one in the DJ's booth and consisted of a reading of the team list
+  from a match programme and other lists. Recordings were made for two
+
+                                        2
+    different voices, one male the other female.  The recordings were analysed
+    for their sound pressure level and amplitude fluctuation. The A-weighted*
+    SFL at each measurement location is given in Table 1 together with the
+    calculated performance of the PA system. As would be expected the measured
+    sound levels from the PA system vary depending on hew loudly the passage was
+    spoken, or indeed individual words in the passage. However, it is clear
+    that the system is capable of producing the theoretical levels calculated
+    from manufacturer's data inside the ground (Sector 1). Outside the West
+    stand (Sector 7) the levels measured are somewhat less than those
+    calculated.
+
+    (* The 'A' frequency weighting is applied to acoustic signals to simulate
+    the frequency response of the ear.)
+
+5   TNTETJiTGIBUJTY OF THE HILLSBOROUGH PA SYSTEM
+
+    The 'Green Guide' (Ref 1) states, in Section 12:
+
+    "There should be a canmunications system capable of clearly relaying
+    essential messages to all parts of the ground in both normal circumstances
+    and in an emergency."
+
+    and in paragraph 194 iii:
+
+    "Public address equipment should be installed so that broadcast messages can
+    be heard under reasonable conditions (including emergencies) by all persons
+    of normal hearing in any part of the ground to which the public has access.
+    The system should be capable of being controlled from a central point and
+    should ideally be capable of addressing messages to each major section of
+    the ground. The power supply to the system should be such as to enable it
+    to operate in an emergency such as fire or failure of the mains supply."
+
+    I understand from DP Sound Ltd that the Hillsborough PA system was designed
+    to fulfil this requirement.
+
+    Whether a message can be clearly understood will depend on many factors but
+    it was not possible to identify from the literature any criteria by which
+    the intelligibility of speech from public address systems could be assessed
+    directly. There are standards for emergency evacuation signals and guidance
+    for selecting warning signals but these do not address spoken warnings from
+    PA systems. Standards for assessing the intelligibility of speech in rooms
+    cannot be applied directly to sports stadia PA systems. Therefore it was
+    not possible to assess the performance of the Hillsborough PA system against
+    defined performance criteria in terms of intelligibility of messages relayed
+    through it.
+
+    Typically tests of speech intelligibility require panels of subjects to
+    listen to standard word lists against appropriate background noises. Such
+    tests were impracticable in this investigation. Instead an ad hoc
+    assessment was made vising recordings of announcements made at Hillsborough
+    and of crowd noise made at Anfield.
+
+    In this ad hoc test twelve subjects (HSE staff of age range frcm 21 to 43
+    years) were asked to judge if they could understand the recording from
+    Hillsborough when replayed together with the recorded crowd noise from
+    Anfield. It was not possible to reproduce the exact sound field present at
+    Hillsborough at the time of the incident. Therefore the recordings were
+    replayed in an anechoic chamber through a PA system which had been set to
+
+                                         3
+    produce a uniform diffuse sound field at the listening position (see
+    Figure 8 ). The two recordings were superimposed at known relative levels
+    and the listeners were asked if they could hear the PA announcements and if
+    they could understand them. The test was repeated at four relative levels
+    of the two signals. Table 3 lists the level of the announcement relative to
+    the crcwd noise at which the listener could understand the announcement.
+    Nearly all the listeners could understand the announcement when its average
+    level (Leq) was 10 dB belcw that of the crowd noise.
+
+6   DISCUSSION
+
+    Mr Annible informed me that in designing the PA system the installers had
+    made the following assumptions in respect of noise levels at football
+    matches: ambient levels 77-80 dB(A); average levels 85 dB(A); short duration
+    levels 90-95 dB(A). The data frcxn Bristol and Wembley would support these
+    assumptions but the Anfield data would not. Obviously the noise level of
+    spectators will depend on many factors such as: number of spectators; design
+    of stadium; significance of the match; emotional state of the crcwd. Each
+    of the crcwd noise measurements presented in this report were taken at
+    important matches but with very different crcwd numbers and in different
+    stadia. This accounts for the range of noise levels reported. It should be
+    noted that the match at Anfield was the League Championship deciding match
+    and Liverpool FC fans are noted for their vocal (choral) support for their
+    team. The Anfield ground is very compact with roofing covering all
+    spectator areas. All factors which would lead to a high crcwd noise level.
+
+    In general a wide range of levels will occur depending on the factors
+    mentioned above. During any one match or even any period of a match, levels
+    will fluctuate and although the average may be high this will be influenced
+    by short periods of very high levels, leaving significant periods at lower
+    levels (as illustrated in Figure 6 ). Messages from a PA system can be
+    understood from information received in these periods. The simple listening
+    test described illustrates this since messages with average sound levels
+    10 dB (A) belcw the ambient level could be understood. Thus, whilst it is
+    impracticable to design sound systems to overcame the highest levels, a
+    criteria based on exceeding a particular level which it is assumed crcwd
+    noise will only exceed for short periods of time is perhaps more realistic
+    (say I»0)• There is, of course, a difference in the ability to hear and
+    understand a message and actually listening to it. Spectators deeply
+    involved in watching the game may not listen to messages they can clearly
+    hear. At Anfield, and at a recently televised International rugby match,
+    spectator safety messages were preceded by a chime which identified them as
+    such. This facility seems a sensible way to attract the spectators'
+    attention.
+
+    In the particular case of the situation at Hillsborough leading up to the
+    incident I have no information of crcwi noise levels on the West terracing.
+    Nor do I have such information for the areas inside and outside the
+    turnstiles at Leppings Lane. Careful examination of a video tape, supplied
+    by West Midlands Police, for the period 14:45 to 15:07 has not enabled noise
+    levels at the West terracing to be determined since the 'effects' microphone
+    is also picking up crcwi noise from other parts of the ground. Up to 14:50
+    it is not possible to identify any chants clearly related to Liverpool
+    fans. Additionally, when spectators are at their most vocal they usually
+    wave their hands, scarves and banners in the air en masse. There is no sign
+    of this activity on this section of the video tape. Throughout this period
+    music is being played on the PA system and can be heard clearly above the
+    crcwd noise. At about 14:50 the teams were announced over the PA system.
+
+                                        4
+    Fran then    chi   there were the usual chanting of the fans as their
+    members' names were called and as the teams entered the pitch at 14:54 and
+    the match started. Between the announcements of the teams and the kick-off,
+    music was being played and can be heard except during the loudest chants
+    frcm the crcwd.
+
+    The pattern of crcwi chanting seems much the same as that observed at
+    Anfield though visual indications from the video tape suggest that a
+    significant percentage of the Liverpool fans were not joining in the
+    chanting. Thus given the open nature of the West terracing and the numbers
+    of fans there it is reasonable to conclude that crcwd noise levels at the
+    West terracing would not have been as high as those found at Anfield. In my
+    cpinion it is probable therefore that any messages relayed through the PA
+    system would have been intelligible to the spectators. It should be noted
+    that although the Hillsborough system is capable of having a chime, one was
+    not fitted at the time of the incident. I understand from Mr I A Ramsay,
+    Managing Director of DP Sounds Ltd that a chime has now been fitted
+    following the publication of the Interim Report by Lord Justice Taylor.
+    (Ref 2)
+
+7 CONCLUSIONS
+
+    From this limited investigation I have made the following conclusions:
+
+    7.1   The Hillsborough PA system had been professionally installed using good
+          quality components and meets the performance criteria to which it was
+          designed.
+
+    7.2   It is probable that spectators in the West terracing and its approaches
+          could have heard any messages relayed through the PA system during the
+          period encompassing the incident.
+
+    7.3   There is limited information on crcwd noise in sports stadia and the
+          necessary performance requirements for PA systems to ensure
+          intelligible communication.
+
+8   REFERENCES
+
+    1.    Guide to Safety at Sports Grounds (1986) HMSO
+          ISBN 0 11 340840 4
+
+    2.    The Hillsborough Stadium Disaster 15 April 1989
+          Inquiry by the Rt Hon Lord Justice Taylor - Interim Report August 1989
+          ISBN 0 10 1076525
+
+
+
+
+                                              5
+TABLE 1
+
+
+T«1       \                   arrt nit-siriP the West stand at the Hillsborough ground during broadcasts from the PA system
+
+the measurement positions quoted are shown in Figure 7 and described in full in        Appendix 2.
+
+                  BROADCAST                                                    SPL AT MEASUREMENT POSITION
+
+                                                      A        B       C         D        E          F     G       H       I      J
+
+Calculated level 1                                                                                                                     Notes
+
+Assuming operation at rated power                    86       87           -    87       98     96         -      93      86     84    1 Calculated levels assume:
+                                                                                                                                         - spherical propagation
+                                                                                                                                           from a point source;
+Measured levels for:2                                                                                                                    - non-reverberant field.
+
+Male voice speaking normally on DJ's                                                                                                   2 Measured levels are
+system. Volume control set to the first dot.        76-80    76-81   68-72     79-82                                                     taken from a time history
+                                                                                                                                         chart recording of a
+As above but with the speaker using a                                                                                                    sequence of speech.
+raised voice.                                        85-90    89      82        84                                                       The levels quoted are for
+                                                                                                                                         the loudest passages
+Female voice speaking normally on DJ's                                                                                                   excluding pauses.
+system. Volume control set to the first dot.         87-90    91      83        90
+                                                                                                                                       3 Distorted output.
+As above but with speaker using a raised
+                                                                                923                                                    4 Very unclear
+
+
+
+
+                                                                      CO
+voice.                                              90-943    913
+                                                                                                                                         reproduction.
+Male voice speaking normally on the police
+system to the inside of the West stand                                                                                                 5 These measurements are
+only.                                                75-78   71-76   67-73     75-79                                                     dominated by traffic
+                                                                                                                                         noise from the nearby
+Male voice speaking normally on the police                                                                                               Leppings Lane.
+system to both the inside and outside of
+the West stand.                                       80     74-81    74       79-82
+
+Male voice speaking normally on the police
+system to all areas of the ground.                    82     80-84    77       81-84
+
+Male voice speaking normally on the police
+system to the area outside the West stand.                                             84-87   80-84     74-77   81-84
+
+Male voice speaking normally on the police
+system to the inside of the West stand.                                                65-68    70        81     72
+
+Female voice speaking normally on DJ's
+system. Volume control set to the first
+dot.                                                         88-93             88-91                                      93     91
+
+As above but with the volume control set
+to maximum.                                                   91                93                                       954     924
+
+Female voice speaking normally on the police
+system to all areas of the ground.                            80                82                                       83-87   82
+TABLE 2
+
+
+Statistical analysis of part of recordings at Anfield - 26 Mav 1989
+
+                                    BEFORE START OF MATCH
+
+(A)     In R od
+
+START OF RECORDING                             SOUND LEVEL,r dB(A)
+      PERIOD                            ^0                            L 99    Leq
+                                                  *50       ^O
+         19.50              108.2      105.2      97.2      90.2      88.2   101.1
+         19.53              109.5      105.5      97.0      92.5      90.5   100.9
+         19.56              108.5      100.5      95.0      91.5      74.0    97.9
+         19.59              109.5      104.5      96.0      90.0      80.0   100.2
+         20.02              110.5      104.5      97.0      93.5      91.5   100.7
+         20.05              111.0      110.0     103.5      96.5      92.0   105.7
+      19.50-20.08           110.4      105.9      96.9      91.9      85.9   101.5
+(B)     Pitch Side
+
+START OF RECORDING                             SOUND LEVEL,r dB(A)
+      PERIOD                            ^0        *50                 L 99    Leq
+                                                           ^O
+         19.55              106.0       99.0      88.0      83.5     82.0     94.8
+         19.58              103.5       97.5      86.5      82.0     77.0     93.0
+         20.01              110.0      106.5      97.0      88.5     85.0    101.5
+         20.04              110.5      105.5      97.5      90.0     88.0    101.4
+         20.07              110.5      106.0      96.5      91.0     88.5    101.6
+      19.55-20.10           110.1      104.1      93.6      84.6     80.6     99.8
+
+                                    AFTER START OF MATCH
+
+(C)    Pitch Side
+
+START OF RECORDING                             SOUND LEVEL,r dB(A)
+      PERIOD                            ^0        *50       *90              Leq
+                                                                     ^99
+     20.17                  107.5      101.0      92.5      86.5     84.5    97.2
+     20.20                  108.8      102.3      92.8      86.3     83.3    98.9
+     20.23                  108.5      101.5      91.5      85.5     83.0    97.7
+     20.26                  107.5      100.0      89.5      83.0     79.5    96.2
+     20.29                  100.5       93.5      87.0      83.0     80.0    90.6
+     20.32                  103.5       95.5      88.0      82.5     79.0    92.4
+  20.17-20.35               107.6      100.1      90.1      83.6     80.1    96.4
+
+
+Notes:
+
+L^    is   the SPL exceeded for 1% of the time
+L^q   is    the SPL exceeded for 10% of the time
+I^q   is    the SPL exceeded for 50% of the time
+Lg0   is    the SPL exceeded for 90% of the time
+Lgg   is    the SPL exceeded for 99% of the time
+Leq   is   equivalent steady level over the period (average level).
+TABLE 3
+
+
+Results of listening tests - Relative level (Lea) of announcement from the PA
+system to the level of the background crcwd noise necessary for
+intelligibility.
+
+
+       T.T.crrRNFR    AGE    RELATIVE LEVEL OF ANNOUNCEMENT FOR INERTJIGIBUJTY
+                     (YRS)                          (dB)
+
+
+            1         21                            -10
+            2         22                            - 5
+            3         24                            -10
+            4         26                            -10
+            5         26                            -10
+            6         29                            -10
+            7         29                            - 5
+            8         30                            -10
+            9         30                            -10
+           10          35                           -10
+           11          35                           -10
+           12          43                           -10
+F ig u r e 1   C o n t r o l u n i t f o r PA system
+ N orth    stfvt^D
+
+
+
+
+  South    sinnd
+
+
+
+
+                                                Inside   Outside
+
+                               West    Stand                7
+
+                               North    Stand      2        8
+
+                               Kcjp                3        9
+
+                               South    Stand      4       10
+
+Figure 2   PA system sectors
+                                                     Sector 7
+
+
+                                               □     S e c t o r 1 - d ow n             A (M ounted on the
+                                                                                         ■ u n d er sid e o f the
+                                               H     S e c t o r 1 - i n t o s ta n d   7 f r o n t o f t h e r o o f)
+
+
+
+
+       ’ O'~     a
+
+
+
+
+Figure 3   L ocation o f loudspeakers in sectors 1 and 7
+                                 Anfield Liverpool vs Arsenal
+                                                            26th Mcy 1989
+             120
+
+                                      Ko p
+(d B (A ))
+
+
+
+
+             100   -
+Leq
+1 m in .
+
+
+
+
+             90 -
+
+
+
+
+             80 -
+
+
+
+
+             70                                              imxiWBfflpiasiursviBiuBiaauiMiiinnf■■iimuniii   igiiriviTTma^Bii
+               18:00                  15:00                       20:00                    21:00                     22:00
+
+                                                           Time (hours:mins)
+
+
+
+
+                                 Anfield Liverpool vs Arsenal
+                                                            26th May 1989
+             120
+
+
+
+                                                    side
+(d B (A ))
+
+
+
+
+             100    -
+Leq
+m in .
+
+
+
+
+              90 -
+
+
+
+
+              80 -
+
+
+
+
+             70            unUiuiin w n n iy irKi
+
+                   18:00              19:00                        20:00                                             22 :00
+
+                                                           T im e (h o u rs :m in s )
+
+
+
+
+              Figure 4     P lo ts o f 1 m in. average SPL at A n fie ld 2 6 tk May 1989
+                      Anfield Liverpool vs Arsenal                                                                                     Bristol City vs Sheffield United
+                                 In cioitd, 26lh Ho/ 1989.
+                                                                                                                                                                                                                     Wembley Stadium, Rugby League Cup Final
+                                                                                                                                                        In crowd, 13th Mey 1989.
+                                                                                                                                                                                                                                              In crowd, 29th April 1989.
+o.>>
+
+
+
+
+                                                                                                                 A
+                                                                                                                 A                                                                                           A
+                                                                                                                                                                                                             A
+ B                                                                                                                                                                                                           <
+\5
+                                                                                                                 0                                                                                           \
+                                                                                                                                                                                                             y
+                                                                                                                                                                                                             0
+                                                                                                                 \5
+ y
+                                                                                                                                                                                                             \5
+                                                                                                                  y
+                                                                                                                                                                                                              y
+                                                                                                                 tr
+                                                                                                                 «
+                                                                                                                 j                                                                                           tr
+                                                                                                                                                                                                             9
+ C                                                                                                                                                                                                           J
+                                                                                                                 c
+ E                                                                                                                                                                                                           C
+
+n                                                                                                                I                                                                                           E
+                                                                                                                 n                                                                                           n
+
+
+
+
+                        |»i    i|ii        | | ' * n n i n j i i i i ) n i n i n m n i | n iiTi n i [ n n iTrr
+                                                                                                                      ^ I*1........ >'11,1Ml||»>|M,miMniiiiijimurii|hiuiin | im m n pin in m u rn iriin ni
+       1759   18:29   18:59   19:29       19:59       20:29        20:59         21:29        2159
+                                                                                                                                                                                                                  J ■r
+                                                                                                                                                                                                                     nimi]iiiitii11|ii111iiii|iiniu11|iit    i'p iim iii|im n n n i m u n i|in n m n n r
+                                                                                                                      13110    13:30   MHO      14:30      15110    15JO     16:00   16JO   17110   17.30
+                                                                                                                                                                                                                  13110   13:30   MHO     14:30   15110     15:30    16110    16:30     17:00     17:30
+                                      lime (hrs:nwis)
+                                                                                                                                                          Time (hrs:mins)
+                                                                                                                                                                                                                                                  Time (hrs:mins)
+
+
+
+
+                                                                                                                 Figure 5              P lots o f 3 m in. average SPL
+      PA announcement                Crowd singing   'Walk on            Crowd clapping & chanting            Crowd singing   'When the saints
+
+
+
+
+                                                                                         TIME
+
+I   S O U N D P R ES S U R E L E V EL dB (A )
+
+
+
+
+                                         X      -   Lx    -     108.2 dB( A)      SPL exceeded           for 17. of   the time
+
+                                         Y      -   L,o -       105. 2 dB( A)               ::              10’
+                                                                                                              /.        ::
+
+                                         Z      -   L»o -        97.2 dB( A)                ::              50’
+                                                                                                              /.        ::
+
+                                         0      -   Leq   -     101 .1 dB( A)      Aver age      level    over   the period
+
+
+
+
+                         Figure 6     T im e -h is to r y o f n o i s e in th e crowd at A n fie ld 2 6 ,h May 1989 (3 m in. p e r io d )
+                                                                                                    sH
+                                                                                                     HK
+                                                                                                      tt
+                                                                                                       lm
+
+
+                                                                 rfMiff
+                                                                 iTxHinC                              wr S7*w
+                                                                                                       Ua;j     *□»THRMP
+                                                                                                                   SiJTS
+
+
+
+
+                                                                            rxao cu rr
+
+
+
+
+                                    kt«n7SM}
+                                   SL                                             to *fS T in t o
+
+                                                                                      W
+                                                  rtmntol    %»■»«'•«■»—»        \\         U---- -                          stcMfin
+                                               (imaewmMfi                                                                  MSw rHa3M
+                                                   iT*mvc\                                                                    TA   Mc
+                                                                                                                                    Gr
+                                                n      ~ Jl.
+MOM’  mm
+MmmMf, >» ! ■
+
+
+
+
+                                                                                                                                         O
+
+
+
+
+          F igure 7   R e c o r d in g p o s itio n s at H il ls b o r o u g h 7 ,h J u n e 1989
+                                        A ttenuator
+  H illsb o ro u g h
+  PA r e c o r d i n g
+
+                                                       M ix e r /
+                                                      A m p lifier
+
+
+
+
+  A n f i e l d cr o w d
+     recording
+
+
+
+F ig u r e 8    Set-up fo r l i s t e n i n g tests
+ANNEX 1
+
+
+Equiranent used for recordings of Hillsborough public address svst-^m h h Hp r,n
+7 June 1989
+
+Tape recorder number 1 (Blue) - Nagra IV5J s/n 4994
+
+Channel 1:
+B&K 4134 1/2 inch microphone s/n 736121
+B&K 2619 microphone preamplifier s/n 462127
+QSJP adaptor s/n 1200
+
+Channel 2:
+B&K 4134 1/2 inch microphone s/n 928525
+B&K 2619 microphone preanplifier s/n 360352
+QSJP adaptor s/n 340
+
+Tape recorder number 2 (Black) - Nagra IV5J s/n 1735
+
+Channel 1:
+B&K 4134 1/2 inch microphone s/n 666962
+B&K 2619 microphone preamplifier s/n 702300
+QSJP adaptor s/n 1210
+
+Channel 2:
+B&K 4134 1/2 inch microphone s/n 558290
+B&K 2619 microphone preanplifier s/n 702305
+QSJP adaptor s/n 149
+
+Calibrators
+B&K 4230 s/ns   542887
+                419695
+
+
+Additional eonipnent vised at Anfield on 26 Mav 1989
+
+Sony walkman professional cassette recorder
+IXiPont Mk III logging dosemeters s/ns  21639
+                                        21632
+                                        21627
+                                        15997
+ANNEX 2
+
+
+Positions of sound recordings made at Hillsborough on 7 June 1989
+
+Hie mcrophone positions given in this table are shewn on Figure 7 and
+described in full below.
+
+Position A   At the front of the pen, 0.75m behind gate number 3 to the pitch,
+             adjacent to the step before the gate. Height above immediate
+             ground level 1.5m.
+
+Position B At the back of the pen, 0.38m behind the side gate to the South
+           West pen, under the overhang of West terrace seating, 0.59m from
+           the rear wall above the second step from the wall. Height above
+           the step 1.5m.
+
+Position C   Inside the tunnel to the centre pens, 10.5m from the end of the
+             extended walls at the terrace end of the tunnel. Positioned
+             equidistant from the side walls of the tunnel. Height above ground
+             level 1 .8m.
+
+Position D Adjacent to the end of the extended walls from the access tunnel
+           0 .2m across from the second upright post of the dividing barrier
+           between the two centre pens. Height above immediate ground level
+           1.5m.
+
+Position E   In line with, and 0.5m from the end of the blue handrail between
+             the entrance to the West terrace standing turnstiles and the access
+             road to the South stand. Height above ground level 1.5m.
+
+Position F   In line with the grey sheeted fence separating the Leppings Lane
+             entrances to the West and North stand seats from the entrances to
+             South Stand and the West stand standing area. 10.2m from the end
+             of the fence outside the gates by Leppings Lane. Height above
+             ground level 1.5m.
+
+Position G   At the entrance to the tunnel to the centre pens equidistant from
+             the side walls. Height above ground level 1.5m.
+
+Position H   In the area inside the turnstiles A-G, 4.5m from gate C and 2.9m
+             from the wall of the turnstiles. Height above ground 1.5m.
+
+Position I   In the West stand seats; Rcw 11 next to the blue rail at seat 99.
+             Height 1.3m.
+
+Position J   In the West stand seats; Rc m 28 next to the blue rail at seat 99.
+             Height 1.3m.
+

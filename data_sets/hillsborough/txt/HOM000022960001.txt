@@ -1,0 +1,837 @@
+             Department of the Environment
+             and
+             The Welsh Office
+
+
+
+
+\            The Building Regulations 1985
+
+Stairways, ramps and guards
+
+
+
+
+APPROVED DOCUMENTS
+
+
+
+
+             Her Majesty’s Stationery Office
+             1985
+PART K
+Stairways, ramps and guards
+APPROVED DOCUMENTS                                     as serviceability or aspects which although they
+                                                       relate to health and safety are ones which are not
+This publication includes the following Approved       covered by the regulations.
+Documents:                                             The Secretary of State has agreed with the British
+                                               PAGE
+                                                       Board of Agrement the aspects of performance
+K1     Stairways and ramps                      1
+                                                       which they need to assess in preparing their
+K2/3   Pedestrian and vehicle barriers          9
+                                                       Certificates in order that the Board may
+                                                       demonstrate the compliance of a product or
+These documents have been approved by the
+                                                       system, which has an Agrement Certificate, with
+Secretary of State as practical guidance to
+                                                       the requirements of the regulations. An Agrement
+meeting the requirements of the above
+                                                       Certificate issued by the Board under these
+Paragraphs in Schedule 1 to the Regulations, but
+                                                       arrangements will give assurance that a product
+there is no obligation to adopt any particular
+                                                       or system to which the Certificate relates, if
+solution in the documents if you preferto meetthe
+                                                       properly used in accordance with terms of the
+requirement in some other way.
+                                                       Certificate, will meet the relevant requirements.
+If a contravention of a requirement is alleged then,
+if you have followed the guidance in the
+document, that will be evidence tending to show
+that you have complied with the Regulations, If
+you have not followed the guidance then that will
+be evidence tending to show that you have not
+complied. It will then be up to you to demonstrate
+by other means that you have satisfied the
+requirement.
+
+Other requirements
+The guidance relates only to the Requirement
+given at the start of each document. The building
+work will also have to comply with the
+requirements of any other relevant paragraphs in
+Schedules 1 and 2 to the Regulations, Other
+Approved Documents give guidance on the other
+requirements in Schedule 1,
+
+Materials and Workmanship
+Any building work to which a requirement of the
+regulations applies must, in accordance with
+Regulation 7, be carried out with proper materials
+and in a workmanlike manner. You may show that
+you have complied with this requirement in a
+number of ways, for example by following an
+appropriate British Standard or British Board of
+Agrement Certificate. You will find further
+guidance in the Approved Documenton Materials
+and Workmanship.
+
+British Standards and British Board of
+Agrgment Certificates
+When a document makes reference to a named
+British Standard, the relevant version of the
+Standard is the one listed at the end of the
+publication.
+Building Regulations are made for specific
+purposes; health and safety, energy conservation
+and the welfare and convenience of disabled
+people. British Standards and Agrement
+Certificates are relevant guidance to the extent
+that they relate to these considerations. The
+Standards and Certificates themselves may
+address, also, other aspects of performance such
+STAIRWAYS AND RAMPS
+                                                                 -                 3S
+
+
+This Approved Document deals with the following
+Requirement from PART K-of Schedule 1 to the
+Building Regulations 1985:
+
+
+
+                             Requirem ent                         Limits on application
+
+
+                             Stairways and ram ps
+                Stairways;   K l. Stairways and ramps shall be The requirem ents of this Part
+                tam ps.        such as to afford safe passage for apply to stairways and ramps
+                               the users of the building.         which form part of the structure
+                                                                  of the building.
+
+
+
+
+                                                   PAGE
+
+Introduction to provisions                          2
+
+Section 1
+Stairways                                           2
+Steepness of stairs                                 2
+Rise and going                                      2
+Headroom                                            3
+Construction of steps                               3
+Width of flights                                    3
+Length of flights                                   4
+Steps with tapered tread                            4
+Handrails                                           4
+Landings                                            5
+Guarding                                            6
+
+Section 2
+Ramps                                               7
+
+Steepness of ramp                                   7
+Landings                                            7
+Stepped ramps                                       7
+
+
+
+
+ Approved Document
+K1
+Provisions meeting the Rsayirenn-r-
+INTRODUCTION TO PROVISIONS                              STEEPNESS OF STAIRS
+                                                        (pitch)
+Application
+                                                        1.4 The steepness can be controlled by putting
+0.1 The Regulations do not require buildings to         limits on the rises and the goings (see paragraph
+have stairways or ramps, but they do apply to any       1.5) but limits should also be put on the pitch of
+which the building has.                                 stairs serving dwellings. These limits are:
+0.2 The requirements do not apply to stairways or       • Private stairs 42°
+ramps outside a building, unless they are part of       • Common stairs 38°
+the structure and they do not apply to ladders.         Diagram 1 shows how the pitch should be
+A ladder includes a flight, whether fixed or not,       measured and what is meant by the pitch line.
+steeper than 55°.
+
+0.3 Stairways and ramps which form part of a              Diagram      1     Measuring angle of pitch
+means of escape in case of fire (see Mandatory
+rules for means of escape in case of fire
+published by HMSO) or are part of the only
+                                                                                pitch line a notional line
+means of access for the disabled (see Schedule
+                                                                                           connecting the nosings
+2 to the Building Regulations), may need to meet                                           of all treads in a flight
+requirements which are additional to the
+provisions described in this document.
+                                                                        angle           '       ? \
+                                                                        of
+                                                                        pitch
+                                                                                                      1—
+Section 1                                                                  horizontal
+
+Stairways
+1.1 This Section describes provisions for               RISE AND GOING
+stairways which are in a building or form part of the
+structure of a building.                                1.5 In a flight of stairs, the steps should all have
+                                                        the same rise and they should all have the same
+1.2 The provisions apply if the stairway:               going. Diagram 2 shows how to measure the rise
+(a) is part of a means of escape from the building      and going, (for steps with tapered threads see
+(see Mandatory rules for means of escape in case        also paragraphs 1.16-1.18)
+of fire published by HMSO), or
+(b) has a rise of more than 600mm, or                     Diagram      2      Measuring rise and going
+(c) has a drop at the side of more than 600mm.
+                                                                               going
+                                                                             open tread
+1.3 In this document:
+Stairway includes landings and flights                                         * ~ i
+                                                                                nosing            going, closed tread
+Private stairway means a stairway in or intended            open treads - ) | l(—           top surface of tread
+                                                            should overlap
+to be used by only one dwelling                             at least 16mm
+                                                                                        tread top surface of tread      rise
+Common stairway means a stairway intended to                                  riser
+be used by two or more dwellings                                                        riser    tread
+Going of a step means the depth of the tread less                          front face            front face
+any overlap with the next tread                                            of riser              of riser
+
+Rise of a step means the height, including the
+thickness of the tread.
+Flight means part of a stairway or ramp that has
+consecutive steps.
+
+
+
+
+S tairw ays and ramps                                                                                 Approved Document
+ 2
+1.6 If the landing of an outside stair is*formed by
+the ground (see paragraph 1.25) and slopes                             gram 3 Measuring headroom
+across the width of the flight, then the rise of the
+step should be measured at the mid-point of the
+width of the flight.
+                                                                     "7F\
+1.7 The normal relationship between the
+dimensions of the rise and going is that twice the
+rise plus the going (2R + G) should be between                          at least                      --------------- minimum
+550mm and 700mm. The rise of each step should                           2m                             tts            headroom
+                                                                                        at least
+not be greater, nor the going less, than the figures                                    2m
+given in Table 1.                                                                                       at least
+                                                                    landing                             2m
+1.8 It is not possible in private or common stairs                                 fligi^P'tah line
+to combine a maximum rise with a minimum going
+because this would make the stair steeper than                                                     landing
+the maximum pitch noted in paragraph 1.4 above.
+An indication of the practical limits for rise and
+going for each kind of staircase is given in the
+Notes to Table 1. Calculations may need to be
+made to suit particular circumstances.                           CONSTRUCTION OF STEPS
+                                                                 1.10 Steps should have level treads. Steps may
+Table 1       Rise and goingI                                    have open risers, but the treads should then
+                                        Rise     Going           overlap each other by at least 16mm.
+                                        (max)    (min)
+
+1                                       220mm    220mm
+                                                                 1.11 Steps with open risers in a flight which:
+    private stair
+
+2   common stair                        190mm    244m m
+                                                                 (a) is part of a private or common stair, or
+                                                                 (b) is in an institutional building and is likely to be
+3   stairway in:
+(a) an institutional building (unless
+                                                                 used by children under 5, or
+     it will only be used by staff)
+                                        180mm    280mm           (c) is in any other residential building
+(b) an assembly building and
+    serving an area used for                                     should (to stop children being held fast between
+    assembly purposes (unless                                    the treads)) be constructed so that a 100mm
+    the area is less than 100m 2)
+                                                                 diameter sphere cannot pass through the open
+                                                                 risers.
+4   stairway not described              190mm    250mm
+    in 1, 2 and 3 above
+
+Notes                                                            WIDTH OF FLIGHTS
+1  Diagram 2 shows how to measure rise and going
+2  Stairways with any of the goings and rises within the         1.12 There are four minimum widths for flights
+ranges given below will meet the limitation on pitch (where it   of stairs which will satisfy the requirements of
+applies) and lie within the limits of (2R + G):                  Paragraph K1, depending on the type of stair. The
+Private stair -                                                  widths are given in Table 2 but where a stairway
+• any rise between 155 and 220m m used with any going            forms part of a means of escape to meet
+between 245 and 260mm                                            Paragraph B1 of Schedule 1, the widths may need
+• any rise between 165 and 200m m used with any going            to be increased to comply with the Mandatory
+between 223 and 300m m.                                          rules for means o f escape in case o f fire. The
+Common stair -                                                   widths given in the table are unobstructed widths
+• any rise between 155 and 190mm used with any going             and are not measured in the same way as the
+between 244 and 320m m.                                          widths given in the British Standards referred to in
+                                                                 the Mandatory rules for means o f escape in case
+                                                                 o f fire.
+
+HEADROOM                                                         1.13 A stairway which is wider than 1800mm
+                                                                 should, unless it is a private or common stair, be
+1.9 All stairways should have a clear headroom                   divided into flights which are not wider than
+overthe length and width of the stairway of at least             1800mm. The minimum widths in Table 2 then
+2m. Diagram 3 shows how to measure this - a                      apply to each flight.
+vertical line is measured from the pitch line of the
+stair or the floor level of the landing as the case
+may be.
+
+
+
+
+Approved Document                                                                                  Stairw ays and ram ps
+                                                             LENGTH OF FLIGHTS
+Table 2 Widths of stairways
+                                        Unobstructed width   1.14 The number of risers in a flight should be
+                                              (min)          limited to 16 if a stairway serves an area used for
+                                                             shop or assembly purposes.
+1     private stair providing access
+      only to one room (not being a
+      kitchen or living room) or to a                        1.15 Stairways of more than 36 risers in
+      bathroom, a closet, or both                 600mm      consecutive flights should make at least one
+                                                             change in direction between flights of at least 30°.
+2     private stair other than 1
+                                                             (see Diagram 5)
+      above                                       800mm
+
+3 common stair                                    900mm
+                                                               Diagram 5       Change of direction
+4     stairway in:
+(a)   an institutional building
+       (unless it will only be
+       used by staff)
+                                                                                   at least
+(b) an assembly building and                      1000mm                           stair width   flight
+    serving an area used for
+    assembly purposes (unless
+    the area is less than 100m 2)                                         flight
+
+(c)   any other building and
+      serving an area which can                                stair
+      be occupied by more than                                 width                  landing             angle at
+      50 people                                                                                           least 30°
+
+5     any stairway not described
+      in 1, 2, 3 or 4 above                       800mm
+
+Note
+Diagram 4 shows how to measure width
+
+
+
+
+    Diagram 4         Measuring width of flights,            STEPS WITH TAPERED TREADS
+                      landings and ramps                     (see Diagram 6 and paragraph 1.18)
+
+                                                             1.16 For steps with tapered treads, the going
+                                                             should be measured as follows:
+           wall /                             wall/          (a) if the flight is narrower than 1m, measure in
+           guarding                           guarding       the middle, and
+
+                    ►---------- i                            (b) if the flight is 1m or wider, measure 270mm
+                                                             from each side.
+                    I * --------------------- >              Whatever the width, the rise and the going should
+                                                             be within the limits in Table 1 and the going should
+                                                             measure at least 50mm at the narrower end.
+                      I*------- \
+                      unobstructed widths                     1.17 Consecutive tapered steps should have
+                      see Table 2                             uniform going.
+
+                                                             Alternative ap p ro ach
+                                                             1.18 BS5395 Stairs, ladders and walkways Part
+                                                             1: 1977 Code o f practice for stairs and Part 2:
+                                                             1984 Code o f practice for the design of helical and
+                                                             spiral stairs give additional information which may
+                                                             be useful for setting out stairways.
+
+
+                                                              HANDRAILS
+                      minor intrusions like
+                      string/skirting and                     1.19 Flights should have a handrail on at least
+                      newel can be ignored
+                                                              one side if they are less than 1 m wide. They
+                                                              should have a handrail on both sides if they are
+                                                              wider. There is no need to have any handrails
+                                                              beside the two bottom steps of a stairway.
+
+
+Stairways and r.-                                                                                 Approved Document
+                                                                                                                      1
+
+                                                        1.20 Handrails should be at a height of between
+ Diagram 6      Measuring tapered treads                840mm and 1m and give firm support, (see
+                                                        Diagram 7 for measuring height). Handrails can
+                                                        form the top of the guarding if the heights can be
+                                                        matched, (see paragraph 1.28 and Table 3 for
+                                                        height of guarding)
+
+
+                                                            Diagram 7           Measuring heights of
+                                                                                handrails and guarding
+                            going at least
+                            50mm                            height of handrail to
+                                                            be measured vertically       height of guarding to be
+               measure the                                  above landing                measured vertically above
+               going between centre                                                      pitch line
+               points of the tread
+               and the rise at the                                                       height of handrail to be
+               centre point of tread                                                     measured vertically above
+                                                                                         pitch line: min 840mm
+                                                             floor or                                max 1000mm
+                                                             landing
+                                                                                           no need for guarding when
+                                                                                         . rise is less than 600mm and
+                                                                        pitch line'   " t x T T 7 when not a means of
+                                                                                           I'J r   escape route
+
+
+                                     ^   going at
+                                         least 50mm
+                                                                                      . ■■■■■■■ ■'■ ■. ■■
+                                                                                                        :             ''
+              measure the goings                        Table 3          Height o f guarding
+              between points at 270mm
+              from both edges of tread                                                                  Height
+              and the rise at these points                                                              (min)
+
+ (a) Tapered treads of equal length                                                                 flights   840mm
+                                                        1    private stairways
+                                                                                                  landings    900mm
+
+                                                                                                    flights 900mm
+                                                        2    common stairways
+                                                                                                  landings 1000mm
+
+                                                                                                     flights 900mm
+                               goings measured          3    other stairways                      landings 1 100mm
+                               at centre point of
+                               this step
+                                                        Note
+                                                        Diagram 7 shows how to measure height
+
+
+
+
+             going at
+                                                        LANDINGS
+             least 50mm
+                                                        1.21 Landings should be provided at the top and
+          ' stair width                                 bottom of every flight. The width and depth of
+            less than 1 m
+                                                        landing should be at least as great as the smallest
+                              270mm
+                                                        width of the appropriate stairway, (see Table 2)
+
+                                ^   goings measured     1.22 Part of the floor of the building can count as a
+                                    between points at   landing. Diagram 8 shows landings and areas
+                                    270mm from ends     which can be classed as landings if the stairway
+                                    of this step
+                                                        continues.
+
+
+                                    270mm
+
+
+
+          going at
+          least 50mm
+
+           stair width
+           1 m or more
+
+ (b) Tapered treads of unequal length
+
+
+
+Approved Document                                                                               stairways
+  Diagram 8        Landings
+                                                                    GUARDING
+                                                                    1.26 Flights and landings should be guarded at
+       this area                                                    the sides where there is a drop of more than
+       becomes a                                                    600mm. Suitable guarding would include a wall,
+       landing if                                                   screen, railing or balustrade.
+       the stairway
+       continues
+                                                                    1.27 The guarding to a stair which:
+                              landing                               (a) is a private or common stair, or
+                                                                    (b) is an institutional building and is likely to be
+                                flight                              used by children under 5, or
+                                                                    (c) is in any other residential building
+
+                                                 landing            should (to stop children from being held fast by
+                                                                    the guarding) be constructed so that a 100mm
+                                                                    diameter sphere cannot pass through any
+                                 flight
+                                                                    openings in the guarding. The guarding should
+                                                                    also be constructed so that children will not readily
+                                                                    be able to climb up it.
+                         this part of the floor
+                         can be counted as a landing
+                                                                    1.28 The height of the guarding itself should be
+                                                                    as shown in Table 3. The guarding should be able
+                                                                    to resist a horizontal force, at the height given in
+                                                                    Table 3, of 0.36kN for each metre of length if it
+                                                                    guards a private or common stairway, or, 0.74kN if
+1.23 To afford safe passage, landings should be                     it guards any other stairway. Any glazing below
+clear of any permanent obstruction. A door may
+                                                                    the height shown in Table 3 should be of glass
+swing across a landing at the bottom of a flight but
+                                                                    blocks, toughened glass or laminated safety
+only if it will leave a clear space of at least 400mm
+                                                                    glass. Wired glass should not be used, (see
+across the full width of the flight, (see Diagram 9
+                                                                    Diagram 10)
+for examples)
+
+                ......   ____
+                                                                :
+     width of                                     width
+     flight                                       of flight
+
+                                                  K        >i
+
+
+
+                                          /Tv"
+                              at least
+                   at least   400mm
+                   400mm
+         landing
+
+
+
+
+1.24 A landing need not be provided between a
+flight and a door if the rise of the flight is not more
+than 600mm and the door slides or opens away
+from the steps.
+
+1.25 Landings should be level unless they are
+formed by the ground at the top or bottom of a
+flight. They may then slope up to 1 in 12, provided
+that the ground is paved or otherwise made firm.
+
+
+
+
+Stairways and ram ps                                                                                   Approved Document
+Section 2                                                       are wider. There is no need to have any handrails
+                                                                if the rise of the ramp is less than 600mm.
+Ramps                                                           Handrails should be at a height of between
+                                                                840mm and 1000mm and give firm support.
+                                                                Handrails can form the top of the guarding if the
+STEEPNESS OF RAMP                                               heights can be matched, [see paragraph 1.28and
+(slope)                                                         Table 3 in Section 1)
+
+2.1 To permit safe passage, the steepest slope of
+ramp that should be used is 1:12.                               LANDINGS
+2.2 Headroom - All ramps and landings should                    2.6 Ramps should be provided with landings in
+have a clear headroom throughout of at least 2m.                the same way as stairways, (see paragraphs 1.21
+(see Diagram 3in Section 1 for ways of measuring                to 1.25 in Section 1)
+this)
+
+2.3 Width of ram ps-T h e re are four minimum                   STEPPED RAMPS
+widths for ramps which will satisfy the
+requirements of Paragraph K1 ofthe Regulations.                 2.7 Where a ramp and a flight of stairs are
+These are the same as widths for stairways, (see                combined to form a stepped ramp, the length of
+paragraphs 1.12 and 1.13 and Table 2 in Section                 the ramps between the steps should be between
+ 1)                                                             1m and 2m.
+                                                                Intermediate steps should be level.
+2.4 Obstruction of ramps - Ramps should be
+clear of permanent obstructions.                                2.8 G uarding- Ramps and their landings should
+                                                                be guarded at their sides in the same way as
+2.5 Handrails - Ramps should have a handrail                    flights and their landings, (see paragraphs
+on at least one side if they are less than 1 m wide.            1.26-1.28, Table 3 and Diagram 10)
+They should have a handrail on both sides if they
+
+
+  Diagram         Guard design
+
+                                  ! I
+                                    i
+
+                 0 .3 6   AA
+                                    i
+                                    i
+                                                         0.74          vl I
+                                                                           !:
+                kN/m      v l                            kN/m
+                                        private stair:
+                                                                                a stair which
+                                        flight 840mm
+                                                                                is not a private
+                                        landing 900mm
+                                                                                stair or a
+                          guard                                    guard
+                                                                                common stair:
+                                        common stair:
+                                                                                flight 900mm
+                                        flight 900mm
+                                                                                landing 1.1m
+                                        landing 1m
+
+
+
+
+Approved Document                                                                                  Stairways and ram ps
+                        ♦
+    Approved Document
+8
+PEDESTRIAN AND VEHICLE BARRIERS
+Building Regulations - trie Requirement
+This Approved Document deals with the following
+Requirements from PART K of Schedule 1 to the
+Building Regulations 1985:
+
+
+
+                             Requirement                              Limits on application
+
+
+                              Protection from falling
+                              K2. Stairways, ramps, floors and
+                                balconies, and any roof to which
+                                people normally have access, shall
+                                be guarded with barriers where
+                                they are necessary to protect users
+                                from the risk of falling.
+                              Vehicle barriers
+                 Vehicle      K3. Vehicle ramps, and any floor
+                 ramps;        and roof to which vehicles have
+                 floors;       access, shall be guarded with bar-
+                 roofs.        riers where they are necessary to
+                                provide protection for people in or
+                                about the building.
+
+
+
+
+Acceptable Isval of parformfint^
+Any provision described below will meet the
+requirements of Paragraphs K2 and K3.
+To reduce the risk to the safety of people in and
+about buildings:
+(a) pedestrian guarding should be capable of
+preventing people from being injured by falling
+from a height of more than 600mm , and
+(b) vehicle barriers should be capable of resisting
+or deflecting the impact of vehicles.
+
+
+Contents
+                                                PAGE
+
+Guards and barriers                              10
+Pedestrian guarding                              10
+Vehicle barriers                                 10
+
+
+
+
+Approved Document                                                                        Pedestrian an d vehicle barriers
+K2/3
+Provisions meeting the performance
+Guards and barriers                                    Diagram 2             Guard design
+                                                                       i i                           l I
+PEDESTRIAN GUARDING                                                    i i
+                                                                                                     '!
+                                                                       11            0.74
+                                                                                     kN/m
+1.1 S itin g -G u a rd in g should be providedwhere                                                            at least
+it is reasonably necessary for safety to guard the                                                             1100mm
+edges of any part of a raised floor, gallery,                                at least
+                                                                             900mm height may
+balcony, roof (including rooflights and other                  guard                  be reduced
+openings), any other place to which people have                                       to 790mm
+access, (unless it is only for the purpose of                                         for assembly
+                                                                                      building
+maintenance or repair) and any light well,                                            balcony in
+basement area or similar sunken area next to a                                        front of
+                                                       floor
+building, (see Diagram 1J Guarding should also                                        fixed seats
+                                                       level
+be provided in vehicle parks, but not on any ramps
+used only for vehicle access.                          (a) Dwelling: floors in       (b) Dwelling: balcony or
+                                                           any part of a building        roof
+Guarding need not be provided where a                      serving only one             Other building: any part
+difference in levels is less than 600mm, or to             dwelling                     for pedestrian protection,
+places such as loading bays where it would                                              but for audience
+                                                                                        spectators and crowd
+obstruct normal use.                                                                    protection see BS6180:
+                                                                                        1982.
+
+  Diagram 1 Guard siting
+                                                      1.3 If the guarding is in anyone of the following:
+             i guard             p| guard   p guard   (a) a dwelling, or
+
+               /TN                                    (b) a part of a building serving a dwelling or used
+                     more            more             for any other residential purpose, or
+                     than            than
+                     600mm           600mm            (c) a part of an institutional building which is likely
+               J4.                                    to be used by children under 5,
+    (a) Edge                 (b) Opening
+                                                      the guarding should (in order to stop children
+                                                      being held fast by it) be constructed so that a
+                                                O
+                                                      100mm diameter sphere cannot pass throug h any
+               I guard
+                                                      openings in it.
+                /\                                    The guarding should also be constructed so that
+                     more                             children will not readily be able to climb up it.
+                     than
+                     600mm
+
+                                                      VEHICLE BARRIERS
+    (c)   Sunken area                performance
+                                     guard
+                                                      1.4 S iting - If vehicles have access to a floor,
+                                                      roof or ramp which forms part of a building,
+                                                      barriers should be provided to any edges which
+1.2 Design - Any wall, parapet, balustrade or         are level with or above the floor or ground or any
+similar obstruction may serve as guarding.            other route for vehicles, (see Diagram 3)
+Guarding should be at least the height shown in
+Diagram 2.
+Guarding should be capable of resisting the             Diagram 3            Barrier siting
+horizontal force given in Diagram 2 applied at the
+height shown.
+Any glazing below the height shown in Diagram 2
+should be of glass blocks, toughened glass or
+laminated safety glass. Wired glass should not be
+used.                                                                  1 ^ D - o ------------o             -
+
+                                                                       Derformance
+                                                                       Darner
+
+
+
+
+P edestrian a n d vehicle barriers                                                              Approved Document
+                                                                                     K2/3
+1.5 Design - Any wall, parapet, balustrade or
+similar obstruction may serve as a barrier.
+Barriers should be at least the height shown in
+Diagram 4.
+
+
+  Diagram 4           Barrier design
+
+
+                               150
+                               kN/m
+                                                     at least
+      150                                            610mm
+      kN/m
+                         at least       barrier
+            barrier      375mm
+     floor or
+     roof level                     ramp level
+                                                  zk-
+    (a) Any building: floor          (b) Any building:
+        or roof edge                     ramp edge
+
+
+
+1.6 In vehicle parks expected to be used by
+vehicles of less than 2.5 tonnes (cars and light
+vans), barriers should be capable of resisting a
+horizontal force at the height shown in Diagram 4.
+If the vehicle park will be used by heaviervehicles
+or by vehicles moving at a speed of more than
+16km/h, the relevant recommendations of BS
+6180: 1982 Code o f practice for protective
+barriers in and about buildings should be
+followed, (see paragraph 1.7 below)
+
+A lternative a p p ro ach
+1.7 The requirements can also be met by
+following the relevant recommendations of
+BS 6180: 1982 Code o f practice for protective
+barriers in and about buildings. The code includes
+provisions for vehicles with a weight of more than
+2.5 tonnes or moving at speeds of more than
+16km/h.
+
+
+
+
+Approved Document                                               Pedestrian and vehicle barriers
+                                                                                             11
+British Standards referred to
+
+BS 5395 Stairs, ladders and walkways.
+Part 1 :1 9 7 7 Code o f practice for   stairs
+Amendment slip number 1: AMD            3355
+                            2: AMD      4450,
+Part 2 :1 9 8 4 Code o f practice for   the design o f
+helical and spiral stairs.
+
+
+K2/3
+BS 6180: 1982 Code o f practice for protective
+barriers in and about buildings.
+
+
+
+
+                                                                             m
+
+
+
+
+                                                         Approved Document
+12
+Designed by nbaTectonics, London WC2
+
+Printed in the UK for HMSO
+Dd 291336.060.7/89.(31798)
+HER MAJESTY’S STATIONERY OFFICE
+HMSO Bookshops
+49 High Holborn, London, WC1V 6HB 01-S73 0011 (Counter service only)   HMSO publications are available from:
+258 Broad Street, Birmingham, B1 2HE 021-643 3740                      HMSO Publications Centre
+Southey House, 33 Wine Street, Bristol, BS1 2BQ (0272) 264306          (Mail and telephone orders only)
+9-21 Princess Street, Manchester, M60 8AS 061-834 7201                 PO Box 276, London, SW8 5DT
+80 Chichester Street, Belfast, BT1 4JY (0232) 238451                   Telephone orders 01-873 9090
+71 Lothian Road, Edinburgh, EH3 9AZ 031-228 4181                       General enquiries 01-873 0011
+HMSO’s Accredited Agents                                               (queuing system in operation for both numbers)
+(see Yellow Pages)
+an d through good booksellers
+
+
+
+
+©Crown copyright 1985
+ First published 1985
+ Second impression 1989
+
+
+
+
+AUGUST 1985
+
+
+
+
+£2.85 net                                                                                                               (Q u
+                                                                                                                        §3
+                                                                                                                        (0 S
+                                                                                                                          ><
+                                                                                                                          01
+
+                                                                                                                           Bl
+                                                                                                                           3
+                                                                                                                          ■c
+                                                                                                                          01
+                                                                                                                          Bl
+                                                                                                                          3
+                                                                                                                          a
+
+
+
+
+                                                                                                                           0
+ ISBN 0 11 751827 1                                                                                                        C
+

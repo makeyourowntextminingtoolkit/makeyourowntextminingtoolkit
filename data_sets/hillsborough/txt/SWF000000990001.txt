@@ -1,0 +1,370 @@
+DELTA SCREEN MASK SETUP/AMEND                 :Mask Parameter File = A :BALL.MSK
+CLAIM NO     ____         HILLSBOROUGH DATABASE
+                          s s e e s.e e e s e s s e s s s e e e e =
+
+iSURNAME     __;______                       FORENAMES _
+
+ADDRESS      ..______ _
+
+
+COONTY
+POST CODE
+INJURIES                       LOCATION
+                               = s=ssss= =sss;
+
+FATAL Y/N _                   PENS 1 & 2
+SHOCK                         PEN 3
+SUMMARY OF PHYSICAL           PEN 4
+                              PENS S.6.&7
+!                         '- OUTSIDE TURNSTILES
+2*                            OTHER PARTS OF GROUND
+3*                        1 'AT HOME _____________
+4"                          ' SUBSEQUENT KNOWLEDGE
+s * ___                     O T H E R _______ _________
+SOLICITORS
+
+   NAME
+   ADDRESS
+
+   COUNTY
+   POST CODE
+   TEL NO.
+
+D A T E WR4T ISSUED                                                   DATE WRIT SERVED :
+DATE STATEMENT ISSUED                                                 DATE DEFENCE DUE :
+DISTRICT REGISTRY                                                     ACTION NUMBER    :
+
+MEDICAL RECORDS <Y/N>                                                 MEDICAL REPORTS <Y/N>
+
+RESERVE
+
+ADDITIONAL COMMENTS
+DELTA SCREEN MASK SETUP/AMEND                  :Mask Parameter File = AsBALL-MSK
+CLAIM NO     ______               HILLSBOROUGH DATABASE
+                        e c E B   CS.tS C B B B R R B B B B B B B B S
+
+
+‘SURNAME    __:____________________FORENAMES                                             :--
+
+ADDRESS     ^----- ----------- ----------
+
+
+COUNTY
+POST CODE
+INJURIES                      LOCATION
+                                    srsses
+
+
+
+FATAL Y/N _                PENS 1 & 2
+SHOCK                      PEN 3
+SUMMARY OF PHYSICAL        PEN 4
+                           PENS S.6.&7 _
+1 .____ ;
+        _____:_________   OUTSIDE     TURNSTILES
+2.___________              OTHER
+                         .'AT HOME
+                                    PARTS OF GROUND
+                                             _______
+3.___________________
+4                         SUBSEQUENT KNOWLEDGE
+s *_____ ________________ O T H E R ______ ________
+SOLICITORS
+sesss=s==-
+    NAME
+    ADDRESS
+
+   COUNTY
+   POST CODE
+   TEL NO.
+
+D ATE WB'tT ISSUED                                                      DATE WRIT SERVED :
+DATE STATEMENT ISSUED                                                   DATE DEFENCE DUE :
+DISTRICT REGISTRY                                                       ACTION NUMBER    :
+
+MEDICAL RECORDS <Y/N>                                                   MEDICAL REPORTS <Y/N>   :
+
+RESERVE
+ADDITIONAL COMMENTS
+DELTA SCREEN MASK SETUP/AMEND              :Mask Parameter File = A :B A L L .MSK
+CLAIM NO        V___        HILLSBOROUGH DATABASE
+                            6ese6.8sseeeeeeeceesBs
+
+‘SURNAME        __:___________     ^_'__   FORENAME? ____                     :___
+
+ADDRESS         ^_______________ _____ ___
+
+wunii
+POST CODE
+INJURIES                          LOCATION
+«= =*:= = = =                     ========
+
+FATAL Y/N _                       PENS 1 & 2
+SHOCK                             PEN 3
+SUMMARY OF PHYSICAL               PEN 4
+                                  PENS S.6.&7 _
+1.                                OUTSIDE TURNSTILES _
+2.                                OTHER PARTS OF GROUND
+3.                               ■AT HOME
+4.                                SUBSEQUENT KNOWLEDGE
+s ,” “ “_______________           OTHER
+SOLICITORS
+
+    NAME           _________________
+    ADDRESS        _________________
+
+    COUNTY
+    POST CODE
+    TEL' NO.
+
+DA TE WB'tT ISSUED    :                                   DATE WRIT SERVED :
+DATE STATEMENT ISSUED :                                   DATE DEFENCE DUE :
+DISTRICT REGISTRY     :                                   ACTION NUMBER    :
+
+MEDICAL RECORDS <Y/N>        :                            MEDICAL REPORTS <Y/N>      :
+
+RESERVE
+
+ADDITIONAL COMMENTS
+DELTA SCREEN MASK SETUP/AMEND             :Mask Parameter File = A :B A L L .MSK •
+CLAIM NO          ___        HILLSBOROUGH DATABASE
+                  ~           eeeee.eeceeeeeeeeee=e =
+
+‘SURNAME         __;_____________ FORENAMES
+
+ADDRESS          .._____ ___________ __________
+
+
+COUNTY
+POST CODE
+INJURIES                           LOCATION
+
+
+FATAL Y/N _                      PENS 1 & 2
+SHOCK                            PEN 3
+SUMMARY OF'PHYSICAL              PEN 4
+                                 PENS S.6.&7
+1 ..                             OUTSIDE: TURNSTILES
+2                                 OTHER PARTS OF GROUND
+3 *-----                        'AT HOME _____________
+4 *-----                       ' SUBSEQUENT KNOWLEDGE
+5 *------                      O T H E R _______ _________
+SOLICITORS
+
+       NAME
+       ADDRESS
+
+       COUNTY
+       POST CODE
+       TEL NO.
+
+DA TE WRIT ISSUED                                        DATE WRIT SERVED :
+DATE STATEMENT ISSUED :                                  DATE DEFENCE DUE :
+DISTRICT REGISTRY     :                                  ACTION NUMBER    :
+
+MEDICAL RECORDS <Y/N>          :                         MEDICAL REPORTS <Y/N> :
+
+RESERVE
+ADDITIONAL COMMENTS
+DELTA SCREEN MASK SETUP/AMEND           :Mask Parameter File = A :BALL.MSK
+CLAIM NO       1___        HILLSBOROUGH DATABASE
+                            e s eee.e seeeeeessBBe ses
+
+{SURNAME       __;___________________ 'FORENAMES         ;
+                                                         ------
+
+ADDRESS        ^__ ____ ____________ _____ ____
+
+
+COUNTY .IIIIII-     ____
+POST CODE    ______ __
+INJURIES                       LOCATION
+
+
+FATAL Y/N _                     PENS 1 & 2
+SHOCK                           PEN 3
+SUMMARY OF PHYSICAL             PEN 4
+                                PENS S.6 .8.7
+1.       ____                   OUTSIDE TURNSTILES
+2 ._____                        OTHER PARTS OF GROUND
+                              •'AT HOME _____________
+3 ._________
+4 .________                   ' SUBSEQUENT KNOWLEDGE
+5 .__________                   OTHER         , ______
+SOLICITORS
+
+     NAME
+     ADDRESS
+
+     COUNTY
+     POST CODE
+     TEL NO.
+DA TE WBtT ISSUED                                        DATE WRIT SERVED
+DATE STATEMENT ISSUED                                    DATE DEFENCE DUE
+DISTRICT REGISTRY                                        ACTION NUMBER
+
+MED ICAL RECORDS <Y /N >                                 MEDICAL REPORTS <Y/N>
+
+RESERVE
+
+ADDITIONAL COMMENTS
+DELTA SCREEN MASK SETUP/AMEND             iMask Parameter File = A ;BALL.MSK
+CLAIM NO     ___         HILLSBOROUGH DATABASE
+                         nsE C tn s nn n c c e c c nc e c s s
+
+‘SURNAME       _____________              FORENAMES
+
+ADDRESS      ..______ ___________ __________
+
+
+COUNTY _
+POST CODE
+INJURIES                       LOCATION
+
+
+FATAL Y/N _                PENS 1 & 2 _
+SHOCK       _              PEN 3
+SUMMARY OF PHYSICAL        PEN 4
+===================        PENS S.6.&7 _
+t                          OUTSIDE TURNSTILES _
+2*                         OTHER PARTS OF GROUND
+3 *                     1 'AT HOME _____________
+4*                        ' SUBSEQUENT KNOWLEDGE
+s *_______ _____________    O T H E R ______ _________
+SOLICITORS
+
+   NAME
+   ADDRESS
+
+   COUNTY
+   POST CODE                                                         9
+   TEL NO.
+"DATE WH'tT ISSUED    :                                         DATE WRIT SERVED :
+DATE STATEMENT ISSUED :                                         DATE DEFENCE DUE :
+DISTRICT REGISTRY     :                                         ACTION NUMBER    :
+
+MEDICAL RECORDS <Y/N>      :                                    MEDICAL REPORTS (Y/N> :
+
+RESERVE
+ADDITIONAL COMMENTS
+DELTA SCREEN MASK SETUP/AMEND                iMask Parameter File = A sB A LL. MSK
+CLAIM NO      ______           HILLSBOROUGH DATABASE
+                         bsc b   s.«s c c c c c e c c & c e e c c s
+
+‘SURNAME     _______________      '1,      'FORENAMES                 ;
+                                                                      ------
+
+ADDRESS      ^______ ___________ __________
+
+
+COUNTY _
+POST CODE
+INJURIES                       LOCATION
+
+
+FATAL Y/N _                 PENS 1 & 2
+SHOCK                       PEN 3
+SUMMARY OF PHYSICAL         PEN 4
+                            PENS S.6.&7
+1 ..                        OUTSIDE TURNSTILES _
+ 2 -----                    OTHER PARTS OF GROUND
+3 *____                 1 'AT HOME _____________
+   ______ ______________ - SUBSEQUENT KNOWLEDGE _
+                            OTHER
+SOLICITORS
+
+   NAME
+   ADDRESS
+
+   COUNTY
+   POST CODE
+   TEL NO.
+D A T E WRIT ISSUED                                                   DATE WRIT SERVED :
+DATE STATEMENT ISSUED                                                 DATE DEFENCE DUE :
+DISTRICT REGISTRY                                                     ACTION NUMBER    :
+
+MEDICAL RECORDS <Y/N>                                                 MEDICAL REPORTS (Y/N>   :
+
+RESERVE
+
+ADDITIONAL COMMENTS
+DELTA SCREEN MASK SETUP /AMEND         tHask Parameter File = A iBALL.MSK
+CLAIM HO        ___       HILLSBOROUGH DATABASE
+                          s s s s s.s sssseeeBBBBess =
+
+{SURNAME      __;______                FORENAMES
+
+ADDRESS       ^______ _
+
+
+COUNTY _
+POST CODE
+INJURIES                     LOCATION
+
+
+FATAL Y/N _                   PENS 1 & 2
+SHOCK                         PEN 3
+SUMMARY OF PHYSICAL           PEN 4
+ess s s :                     PENS S.6.&7 _
+1 .__________                 OUTSIDE TURNSTILES _
+2 ._____                      OTHER PARTS OF GROUND
+3 ._________                 'AT HOME _____________
+4 ._________                ' SUBSEQUENT KNOWLEDGE _
+5 ._______ _                  OTHER
+SOLICITORS
+    NAME
+    ADDRESS
+
+    COUNTY
+    POST CODE
+    TEL NO.
+
+D ATE WRIT ISSUED                                        DATE WRIT SERVED :
+DATE STATEMENT ISSUED                                    DATE DEFENCE DUE -.
+DISTRICT REGISTRY                                        ACTION NUMBER    :
+
+MEDICAL RECORDS <Y/N>                                    MEDICAL REPORTS (Y/N>   :
+
+RESERVE
+ADDITIONAL COMMENTS
+DELTA SCREEN MASK SETUP/AMEND          tMask Parameter File = A sBA LL .MSK
+CLAIM HO    ___          HILLSBOROUGH DATABASE
+                         e s s c e.e c ceeceee eeee scs
+
+{SURNAME                               FORENAMES __
+
+ADDRESS     ..______ _
+
+
+COUNTY _
+POST CODE
+INJURIES                     LOCATION
+
+
+FATAL Y/N _               PENS 1 & 2
+SHOCK                     PEN 3
+SUMMARY OF*PHYSICAL       PEN 4
+                          PENS S.6.&7 _
+l-                        OUTSIDE     TURNSTILES _
+2. II ________________- OTHER PARTS OF GROUND
+3*                     1 'AT HOME _______ _____
+&                         SUBSEQUENT KNOWLEDGE
+s * _____ _____________   O T H E R ______ ________
+SOLICI TORS
+&S8SSSSSSS
+   NAME       __________________________
+   ADDRESS    _______________________________
+
+   COUNTY
+   POST CODE
+   TEL NO.
+
+DA TE WRiT ISSUED                                         DATE WRIT SERVED :
+DATE STATEMENT ISSUED                                     DATE DEFENCE DUE :
+DISTRICT REGISTRY                                         ACTION NUMBER    :
+
+MEDICAL RECORDS <Y/N>                                     MEDICAL REPORTS (Y/N>   :
+
+RESERVE
+ADDITIONAL COMMENTS
+

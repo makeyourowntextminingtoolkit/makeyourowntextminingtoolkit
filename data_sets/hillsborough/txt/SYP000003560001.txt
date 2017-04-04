@@ -1,0 +1,396 @@
+                       n   o   t   e   p   a   d   t   e   m   p   r_.A.rr*Hi .
+
+               l* intended to assist the Receiver/Statement Reader to
+ identify those d o c u m en t s which are to flagged by use of the NOTEPAD
+ »1R •
+
+CQPJLMG-                       JN TE R P R ETA TT ON
+
+***INOUTY***                    I NSIDE/OUTSIDE THE GROUND & MATERIAL
+***INOUTX***                         ••       tt        n i   ii      & NON-MATERIAL
+***INY***                       INSIDE THE G RO U N D & MATERIAL
+                                    ii       ii
+                                                        " & NON-MATERIAL
+ ***OUTY***                     OUTSIDE THE G ROUND & MATERIAL
+ ***OUTX***                         ii       ii
+                                                        " & NON-MATERIAL
+ ♦•♦DEC?***                     DECEASED & MATERIAL
+ * * * DECX * * *                   ii
+                                                 & NON-MATERIAL
+rf**INJY***                     INJURED PERSON & MATERIAL
+P**INJX***                          ii
+                                             "         & NON-MATERIAL
+ ***POLYSY***                  POLICE, SOUTH YORKS & MATERIAL
+ ***POLXSY***                                "          "    & NON-MATERIAL
+***POLYMS***                   POLICE, M E R S E Y S I D E & MATERIAL
+* * *POLXMS * * *                           "           " 1 & N O N ‘MATERIAL
+***POLYNC***                   POLICE, NOTTS & M AT ERIAL
+* * *POLXNC* * *                   ••       it        S NON-MATERIAL
+***POLYOT***                   POLICE, OTHER FO R C E & MATERIAL
+* * *POLXOT* * *                   ii       it          " 1 & NON-MATERIAL
+* * *POLPRAISE* * *            P O L I C E ACTION PRAISE, APPRECIATION
+* * *POLADVERSE* * *           P O L I C E ACTION CRITICISED, ADV ER S E COMMEN
+
+
+   THE RECEIVER/STATEMENT READER SHOULD TICK THE APPROPRIATE BOX(ES) TO
+   DIRECT THE INDEXER TO ATTACH THE MARKED CODING TO THE DOCUMENT
+   BEING INDEXED VIA +IN.               I \       '
+    CATEGORY             T EMFOLATE        (Version IV :>   (170589)
+
+    Please tick those category box   which are applicable for indexing.
+
+    STANDS                                   MEDICAL
+:   Spion Kop                                Doctor
+    North Stand                              Police Surgeon
+    South Stand - Seated                     Surgeon
+                  Standing                   Pathologist
+    WEST STAND                               Nurse
+    Pen 1&2
+    Pen 5-7
+    PEN 3
+    PEN 4
+                                        /    St Johns Amb
+
+
+                                             Liverpool
+                                                                       Ff v/
+                                             Notts Forest
+    POLICE OFFICER ON DUTY.                  Other
+    South Yorkshire
+    Merseyside                               EMERGENCY SERVICES
+    Nottinghamshire                          Fire Brigade
+                                             Ambulance
+^ P O L ICE OFFICER   OFF DUTY
+                                             RECOGNITION
+^^ler
+   rlerseyside
+    Nottinghamshire                          Bravery Acts
+    South Yorkshire                          Awards
+    Others                                   Appreci ati on
+                                             Adverse Comments
+    MEDIA                                    Complaint
+    Press
+    TV                                       PUBLIC BODIES
+    Radio                                    Local Authority
+                                             Health & Safety
+    GROUND STAFF.                            FA
+    Steward                                  Football Trust
+    Turnstile Operator
+    Catering                                 CONSULTANTS & FIRMS
+    Other                                    Safety
+                                             Construction
+    LOCAL RESIDENTS                          Other
+    House to House
+    Shopping                                 SURGES IN GROUND
+    Other                                    Team on Pitch
+                                             Hanson’s Name
+    PUBLIC                                   Kick Off
+    Letter                                   Ball hits X-Bar
+    Telephone                                Barrier breaks
+    Visit to Police Station
+                                             CROWD SURGES O/S GROUND \
+        CATE60RY NOT SPECIFIED               Metal Sate forced
+                                             Sate ’C ’ to eject
+                                             Sate ’C' crowd in
+
+                                             PREVIOUS MATCHES
+                                             Semi Final 1981
+    WITNESS CALLED TO INQUIRY                Semi Final 1956
+                                             Semi Final 1988
+    COACHES - Alcohol                        Other State:
+            - Disorder
+            - Police                         INVESTIGATION
+              Check                          Forged Tickets
+            - Traffic                        Forcing Gates
+              Delay                          Unauthorised acc
+
+    LETTER REQUIRED     Y/N   □              Alcohol
+                                             Disorder
+Inci dent       102     160589 OP 10004                     TYPING SERVICE DOCUMENT
+
+                                                                                                     S T A T E M E N T NU M B E R      8 356
+                                                            sj— t   r   p » 5 '3 '\                                ^A —    S
+                                                                                                                                     Station
+                                                          0-^9. C_                                       i~e,
+Surname
+
+F o r e names
+
+                                                                        Date          of b i r t h                         U
+Address
+
+
+Occupation
+                                                      IVERPOOL,                MERSEYSIDE
+                                                                                                                   V
+ Telephone                                       \y
+
+ IC                        He i g h t                                   Bui Id
+
+Hair     colour
+
+Hair     type
+
+Eyes                                                                    C o m p l e x i on
+
+Facial      hair
+
+Glasses                    Use                                          Ac c e n t
+
+Num b e r   of P ages 6
+
+ Dated                     020389                                                                                                       Signed
+
+
+             I am                                          I am a single                     person       living at the above
+
+             a d d r e s s w i t h m y fiancee                              I have been a                       <erpoo 1 football             club
+
+             s u p p o r t e r for      n i n e t e e n y e a r s an d hold a se a s o n ticket                           for   the kop.       On
+
+             Saturday        15th April         1 9 8 9 , I went               to H i l l s b o r o u g h F o o tball            stad i u m
+
+            Sheffield         to w a t c h my team          play a g a i n s t N o t t i n g h a m Fo r e s t                    in the
+
+             footb a l l    Association           challenge             cup Semi Final.                   I pur c h a s e d my ticket
+
+             for the game            from A i n t r e e    (Ref                       Ex.    No         ) approximately
+
+             wee k    before      the m a t c h an d       I paid six                  pounds        for the L e p p i n g y Lane
+
+             standing.
+
+             I t r a v e l l e d to S h e f f i e l d     in my         car w i t h a friend
+
+                                                   L i v e r p o o l . We             left L i v e r p o o l      at about          10.00am
+
+             on the S a t u r d a y , t ra v e l l i n g     direct w i t h o u t                 stopping         for         refreshments,
+
+            arriving         in S h e f f i e l d at a bout             1pm. We             then spent a bout 45 m i n u t e s
+                                                                                                                                P AGE     2
+                                                                                                                                S35 6
+
+                 looking         for my frie n d s         <                           H o u s e w h e r e we were       going to
+
+                 park    the        car.
+
+                 After        e v e n t u a l l y find i n g   his    house we        parkeed the       car a n d then took a
+
+                 taxi    towa r d s        the gro u n d w h i c h was a b o u t three m iles away.                    The     taxi
+
+                 dropped         us off a b o u t a mile             from the g r o u n d at a public              house,       I
+
+                 c a n ’t remember           the    pub or the         road that        it was    in. We went            inside the
+
+                 p u b . It w a s n ' t      crowded a n d we got a seat.                  There were a lot of Forest
+
+                 supporters           in the       pub.    I had one       pint of b i t t e r, a nd my friends                     had
+
+                 two    pints of beer.              We were       in the     pub for a bout 2 0 m i n u t e s            then
+
+                 left to walk              to the ground.
+
+             (fV T h ® route was            easy to find          I've been to the gr o u n d               last year        for the
+
+         v       same    semi-final.            I i m m e d i a t e l y n o t i c e d on route        the   lack of       police
+
+                 p r e s e n c e and       crowd    control       that was very a p p a r e n t         last year.           Leppings
+
+                 Lan e was          quite    busy w i t h      people     going       to t/ne m a t c h an d as we           neared
+
+                 the e n t r a n c e       I could see         intense     c r o w d y a r o u n d the a rea to the
+
+                 t u r n s t i l e s s p i lling      back     into L e p p i n ^ s    Lane.    I didn't       see m any
+
+                 po l i c e m e n on foot          only a b o u t 3 or 4f. I als o             saw two       p o l i c e m e n on
+
+A                h o r s e s and there was anot h e r                 poli/teman sitting a s t r i d e a wall                  to the
+
+             tf— right        of the West S t a n d stating^ turnstiles.                       Although       I had been to
+
+             tu»-6*'the ground before              I had d i f f i c u l t y f i n d i n g the    right e n t r a n c e        due to
+&>■       jjf-
+      ^|*A<^the         crowds and           lack of queues and d i r e c t i o n s i g n s . I ended up in the
+
+      ipTP      wrong     tur n s t i l e a r e a at the West S t a n d                seating entrance.            On
+
+        . ^     r e a l i s a t i o n of this        I climbed over          the       wall    to my right w here              the
+     A X '
+    <p           p o l i c e m a n was      still    sitting and          into the a p p r o p r i a t e      tur n s t i l e area,
+
+                 I became           s e p a r a t e d from my friends at              this stage.       The time was about
+
+                2.55.         The    crowds at this            time wer e very          i m p a t i e n t .an d they were
+
+                 getting         hostile w i t h the P o l i c e m e n on horses                for    fear     o£ not getting
+
+                 into the m a t c h          in t i m e . S h o r t l y after     gett i n g   over     the wall         the    crowd
+
+                 se e m e d    to move       to the       right of the t u r n s t i l e s       people were           running        I
+
+                 found my s e l f mo v i n g w i t h the              crowd that was going              very fast we went
+                                                                                                                                                P AGE
+                                                                                                                                                8336
+
+                           • t h r o u g h a gate.        I d i d n ’t see a n y          police or s tewa r d s           on the gate.           I
+
+                               wa s    t aken w i t h the        crowd ac r o s s        the are a to the           rear of the West
+
+                               stand and         into a t u n n e l . It was             i m possible     to stop,         the m o m e n t u m of
+
+                               the m o v i n g    crowd was        so great,        at times my feet                left    the ground
+
+                               especially         in the tunnel.            I saw a person U w n                 180 degrees        in front            of
+
+                               me a nd he was          carried backwards.                 All    o y a s u d d e n we entered daylight
+
+                               at     the    end of the tunnel             and    I was     c a r r i e d into one of the             pens w hi c h
+
+                               I beli e v e was        pen 3 as s h o w n on tjne               police    e n q u i r y diagram.       I did not
+
+                               stop m o v i n g     until       I hit a wall /o f          p e o p l e near      to the f r o nt of the
+
+                               pen.     I w ou l d estim a t e       that     ttye crowd was          ten d e e p from the fence                  to
+
+          ^                    when     I stood.       I fel| m y s e l f/be i n g         c r u s h e d . The    pressure of the               crowd
+
+                               was all        a r o u n d me.    3a didn/ t      k now    if the game was            in progress           I
+
+                               couldn't        see the       pitot^/I       remember at this s tage                  people being
+
+                               passed over my head a nd                  people      shout i n g    for       the   g a t e to        be opened I
+
+                               blac k e d out       immediately after              this.         I don't kno w how long              I blac k e d
+
+                               out     for.    It could have            been a bout 5            minutes when         I came          to       I was
+
+                               still        standing     in the same          position           an d the crowd       crush           was       still in
+
+                               tense.
+
+                               I could feel my s e l f            being     for c e d tfown and to my               left.     I r e m ained       in
+
+                               this     p o s i t i o n hanging     onto someone.
+
+                               I could see to my                right    t h a y the gate at the              front    of the       pen was
+
+                               ope n an d the        police wer e ^physically pulling                      people      out of the              pen.     I
+     ‘
+     <W/*
+         <JL
+oo                             noticed        that t f ^ c r o w ^ / i n    front was           easing.    I believe         people were
+
+^a, e i t h e r                             on the     g r o u n d or had m o v e d out of the way.                   I now seemed to be
+
+                               very     near to the fence.              I m a n a g e d to mov e       forward and           climbed onto a
+rjiy^ o            j
+{fcfzw f /                     body of a ma n          in front         of me.     He had a brown w o o l l e n             p u l l o v e r and
+
+ />i -TM-tig)                  dark h a i r and        was      c r o uched up in a ball.             I m a n a g e d to scale the fence
+
+o^ j J ^ u b-4-                        g 0 t stuck at the top w he r e the fence                      turns       inwards.       A policeman
+
+                               s h o u t e d at me for          climbing on the bodies w h i l e                  I was still        clinging
+M     ^        ■       -   —
+
+                                      the 'Penc:e* I ignored him and m a n a g e d to get one                          leg over the              lip.
+                                                                                                                  PAG E
+                                                                                                                  □u JO/
+
+I was        e x h a u s t e d and    resting.        T he p o l i c e m a n thep^said,            "Don't w o r r y
+
+about your           fucking         jeans." an d grab b e d me                     pulled me o v e r.           I
+
+la n d e d w i t h a bump an d pa s s e d o u t . Whetr'x                    came     to    I heard someone
+
+say,     "Are y ou alright",                 He    craddled my head an d                 I believe       he was a
+
+m ed i c or d o c t o r.        I said,       "Yes      but my back an d chest                   hurts."    I sat on
+
+the g r o u n d for a short w hi l e then s tood up./|                              just felt          numb and
+
+a ch e d all        over.     I was     in a state of shop#, and                    r e a lised that        I had wet
+
+a n d shit myself.              I w a n d e r e d around.         U tts    of     lads w ere help i n g the
+
+dead an d         i n j u r e d . I saw a /Tot of            police gett i n g           hassel and abuse              from
+
+the    crowds.           T h e y a p p e a r e d to be /angry at the P o l i c e                 for there       lack of
+
+re a c t i o n to the s e r i o u s n e s s          o f the s i t ua t i o n      especially          in the
+
+e a r l y stages          of the      crowd       crush    in the      pen.       I h eard the N o t t i n g h a m
+
+Forest        fans       singing an d a lot of the L i v e r p o o l                  fans wer e a n g e r e d by
+
+this.        They    ran across         the       pitch towards           the F o r e s t       end.   I believed
+
+the    police then            p r e v e n t e d a n y further        disturbance            by escorting             the
+
+fans     back.       There w ere a lot of people                     lying on the g r o u n d either                   dead
+
+with     b l a nkets       over      there    heads and others               being       tended too.        I had
+
+in s t r u c t i o n s    given to me to mov e a w a y from the                       goal area,         and w a l k e d
+
+ac r o s s    the    pitch to w h e r e           other Li v e r p o o l    fans w ere           congregated.          I
+
+was    by the N o r t h stand w h e n my friend f ound me.                               He told me to stay
+
+where        I was a nd went           to f i n d ] a n d                 r e t urned after about               ten
+
+minutes         having       seen him on the tep^acing,                     a p p a r e n t l y okay but         it was
+
+later        found that        he had bruise/f ribs.                 All    three        of us     left the
+
+g r o u n d via the          north s t a m h r We made our w a y                  in the d i r e c t i o n of w here
+
+my    car was        parked.         I wanted       to purchase a change                   of   clothes and           phone
+
+home.        We met a w om a n outside                her h o u s e , j n e a r    the     ground she       let us
+
+use her         phone and gave me tea w h i s k e y / a n d some                      clothing.        A fter     this
+
+we w a l k e d to the           car.    On    rom te we s,aw a mini                bus     of Liv e r p o o l
+
+s up p o r t e r s a t t a c k e d   by a g r o u p o f /Forest            f a n s . T h e y stoned        it and
+
+smashed         the windows.           The v a n V d n o v e off.         W h e n we got        to the     car we
+                                                                                                           P AG E
+                                                                                                             /"IIS! I
+                                                                                                           S356
+
+                 w a i t e d to make   sure our other         friends were    okay.   We   left S h e f f i e l d at
+
+                 a b o u t 6 . 3 0 and a r r i v e d home at a bout 8.45pm. /
+
+                 On M o n d a y even i n g   17th April   I                                     wit h_
+
+                                                                                   They were      brilliant.
+
+                 My
+L
+                 I w i s h to ad d that my friend                                 told me after       the m a t c h
+
+                 that    he got    into thfK^turnst/les         to the t e r r a c e s with o u t a ticket and
+
+                 gave    five    pounds to the tyfrnst i le operator.
+
+
+
+
+    <   ;
+
+                                                                                                         SIGNED
+
+    S T A T E M E N T T AK E N
+                      PLACES
+
+                      TIMEs                  DATE:    020589
+
+    W I T N E S S TO SIGNATURES
+
+    O F F I C E R S S I GNATURE!
+
+E N D OF R E P O R T
+

@@ -1,0 +1,812 @@
+                                                                ~c±dent Repo~
+
+                           HEALTH AND SAFETY ~
+                    RESEARC~ AND IARORATORY SERVICES DIVISION
+                          Broad lane, Sheffield $3 7HQ
+
+
+
+                     ~he Hillsborough Incident 15 April 1989:
+                      An Investigation into Various Te~cal
+                    Aspects prepared for the Court of Inquiry
+
+
+
+                          C E Nicholson PhD CEng MIM
+                                             mV~n~/~V89/1
+
+
+
+
+Distribution                                  Issue authorised by: Dr A Jones
+                                                            Date: 13 June 1989
+ Xhe Court of Inquiry (25 copies)
+ MrJDG~
+~Dr J McQuaid
+ Dr A Jones
+ MrA Barrell TD
+ Mr M S Nattrass FAID Area 14
+ Mr J P Giltr~w HFS (N)
+ Mr M R Stephenson NE FOG
+ Mr M Fountain TD3
+ Dr J H Foley
+ Dr C E Nicholson
+ Mr P F Heyes                                 TO RISD/DIAS STAFF ONLY: NOT TO
+ Mr D Waterhouse                              BE ~CATED OUTSIDE HSE
+ Mr G A C Games                               WIXlqOlYf THE APPROVAL OF THE
+ Mr M James TD3                               AUTHORISING OFFICER
+ MrCJ PerteeNE FOG
+ MrJ BHibbs NE FOG
+ RPS                                          SMR/343/235/01
+Lib =y (2)
+Registry File                                 ~0.02. OI~. 814
+1 INTROE~3CTION
+
+i.i   Following an incident on 15 April 1989, I visited Sheffield Wednesday
+      Football Club’s (SWFC) Hillsborc~ Stadium on 16 April 1989 at the
+      request of Mr M S Nattrass, Area Director of South Yorkshire and
+      Humberside Factory and Agricultural Inspectorate of the Health and Safety
+      Executive (HSE). Subsequently I was appointed to head the HSE team
+      investigating the incident foll~wing correspondence between the Court of
+      Inquiry and the Deputy Director General of the HSE, Mr J D G Hanm~r.
+1.2 ~ report contains details of examinations performed on site and in the
+    laboratory. ~he work was carried out by me and by other staff of HSE
+    working on my instructions and under my general supervision.
+
+2 SURVEY OF P~S 3 AND 4
+
+2.1 Using the drawings prepared by Ralph Brade & Associates, 1340/02 and 03,
+    and comparing with figures stated in the Guide to Safety at Sports Grounds
+    1986, the following assessments were made.
+2.2   The heights of crush barriers should be 1.02m to 1.12m with a preferred
+      height of l.lm. In Pen 3 four out of five barriers do not conform. In
+      Pen 4 six out of nine barrie/s do not conform.
+
+2.3   ¯ he alignment of gaps in successive rows of barriers on a terrace should
+      form an angle of less than 60° to the barriers. Of the four ’paths of
+      gaps’ in Pen 3, two do not conform. Of the eleven ’paths of gaps’ in Pen
+      4, one does not conform.
+2.4 Gaps in the line of crush barriers should be at least l.lm and not more
+    than 1.4m in width. In Pen 3, four out of five gaps do not conform. In
+    Pen 4, nine out of ten gaps do not conform.
+2.5 For a terrace slope of approximately 14° the interpolated maximum
+    horizontal distance between barriers is 3.9m. In Ben 3 only one spacing
+    does not conform. In Pen 4 only two spacings do not conform.
+2.6   Gates or other access points should have a minimum width of l.lm. ~e
+      gate to Pen 3 has a clearance width of 0.81 to 0.82m and the gate to Pen 4
+      has a clearance width of 0.77 to 0.79m. Both therefore do not conform.
+
+2.7   The aim is for every spectator on the terraces to be within 12m of a
+      gangway or exit. If the perimeter gaps are not considered as exits then
+      apprcydmately 40% of the spectators in Pens 3 and 4 will not be within
+      12 metres of an exit.
+
+3 EXAMINATION OF THE ~ROKEN BARRIER - NO 124A
+
+3.1   Barrier 124A was ~ by HSE staff at Hillsborc~ Football Ground on
+      17 April 1989. Various parts of this barrier and 3 core samples of
+      concrete were taken to the Sheffield Laboratory on 24 April 1989 for
+      detailed ~.
+3.2   It was deduced that barrier 124A had consisted of a continuous horizontal
+      tube, made from wrought iron, and four vertical supports each made from
+      two len~ of steel angle section joined at the top by a steel gusset
+                                          1
+      plate. Five of the eight support feet were reinforoed by additional angle
+      sections which appeared to be let into the concrete terrace steps. Two of
+      the rear support legs were braced by further angle sections. A
+      rscc~struction is shown in Figure i. ~he barrier had failed apparently by
+      partial collapse and fracture of sL~pports 3 and 4, and by fracture of the
+      horizontal tube at supports 2, 3 and 4, as shown in Figure 2. ~%e portion
+      of the tube which had been located between s~ 2 and 3 had been bent
+      uniformly to give a maximum permanent deflection of 133m~ at midspan. ~he
+      portion of the tube which had been located between supports 3 and 4 had
+      been bent uniformly to give a ~ permanent deflection of 200~m at
+      midspan. Barrier 124A was estimated to be approximately 60 years old,
+      although it had received a number of modifications during its lifetime.
+3.3   ~%e tensile strength of the wrought iron tube material was measured at
+      365MPa (23.6 tonf/in~) with an estimated elastic limit of 150MPa
+      (9.7 tcnf/in~) . ~%e tensile stre~ of the mild2steel angle used for
+      the supports was measured at 360MPa (23.3 tonf/in ) with a yield stress
+      of 288MPa (18.6 tonf/in~).
+3.4   ¯ he tube fractures had occuzref in areas which had been located under the
+      metal straps designed to retain the tube. At these locations the tubes
+      had not been painted, and the tube wall thicknesses, IKmninally 4.5~n, had
+      been reduced significantly by corrosion. At the fracture surface
+      corresponding to support 2 the residual thickness of the tube wall was
+      found to vary from 0.4~m to 4.4m~ around the circumference. Similarly at
+      the fracture surface corresponding to support 3 the wall thickness was in
+      the range 1.6m to 4.5~n. At support 4, however, there was evidence that
+      the tube wall had been perforated by co--ion at two locations producing
+      holes which wDuld have been approximately 10~u and 20~u in diameter before
+      the collapse. Elsewhere, ~ the fracture co~ to support 4,
+      the wall thickness was in the range l.Ixmn to 4.5ran.
+3.5   In general the appearar~e of the tube fractures was typical of wrought
+      iron which had fractured in a single-stage bending/tensile mode. Fracture
+      of the tube adjaoent to support 3 appeared to have initiated on th~ uphill
+      side of the barrier at a position approximately 90° from top dead centre.
+      ~he other tube fractures had suffered some post-failure damage and the
+      origins were not readily identifiable.
+3.6   Tne failed supports had been corroded, particularly at the junction with
+      the concrete steps and/or reinforcement angles. In these regions residual
+      thicknesses in the range 3.1~ - 5.9n~ were measured ccmpared with a
+      ncmdnal thickness of 6.3~n.
+3.7   large amounts of metal had been lost by co--ion from supports 3 and 4
+      near, what would have been, the original junctions between the support
+      feet and the terrace. In one case (rear leg support 4) a ligament of
+      metal 8n~ wide was all that remained of the original angle section (50 x
+      50n~). On two of the four feet this region had been reinforced by the
+      addition of a length of metal angle which had been bolted on top of the
+      original angle from which the support had been made. ~he height of the
+      concrete terrace had been raised at some stage and this had conoealed the
+      previous co--ion damage. ~he appearance of the concrete cores,
+      extracted from near the support feet, was consistent with this
+      Qbservation.
+3.8   Calculations to establish the force required to cause the collapse of
+      barrier 124A, and the collapse sequenc~ are currently underway.
+
+                                       2
+                      DIGITISED DRAWING OF PHOTOGRAPHS PRI-7A & PRI-8A
+                                       SUPERIMPOSED ON
+          DIGITISED DRAWING OF PHOTOGRAPHS PRIOA-2 TO PRIOA-5,   SCALED ETC TO MATCH
+
+                                          PEN 8
+                               OCCUPANTS 0FROW 4 ONLY SHOWN
+
+                                                                                  r
+
+
+
+
+                                                                                       PEN 4
+                                                                      I       !
+                                                      1               1
+                                                      1               1
+
+                                 ....
+                                   I            !     I   PEN 8
+              I
+              I
+              |
+               I
+I
+ I
+ I
+  I
+      PEN 2
+                                                                          0
+                                                                  0
+
+
+
+
+                                        HEADCOUNT -   268
+
+                                  PHOTOGRAPHS TAKEN 15 03
+
+
+
+
+                                                                                       F!G.6
+                                                                                       H~E StrEET PR17BC/PPllZ1
+3.9 One of the ~ barriers in the Central Pen will be tested to
+    destruction in the near future in order to validate the calculations.
+
+4     INVESTIGATION OF %~]RNSTILES AT ~4E LEPPINGS IANE ]~]D
+
+4.1     On 25 April 1989 HSE staff made tests on turnstiles at the Leppings lane
+        end of the stadium to investigate how the application of a force to a
+        ’gate’ affected the release of a turnstile. On 28 April 1989 tests were
+        made to assess the accuracy of the cc~ised system for counting and
+        recording the admissions through the turnstiles. Calculations were made
+        to oumpare the average admission ~ts of turnstiles serving the
+        designated zones of the stadium. Ommts of people passing through the
+        turnstiles A to G were made from video recordings.
+        ~4E EFFECT OF A HORI~ P~RCE PJSHING ON ~4E ’GATE’ OF A ~ORNSTILE
+4.2     Turnstiles C to G appeared to be of the same pattern, whilst turnstiles A
+        and B were of a different pattern. In the tests a known force measured by
+        a load cell was applied to the ’gate’ of the turnstile. Standard test
+        weights were then placed gently on the pedal until the spindle was
+        released. ~he tests showed that turnstiles C to G were likely to be more
+        difficult to release than turnstiles A and B.
+4.3     A turnstile operator having a weight of 750 N (12 stone) or less might
+        have difficulty in releasing turnstiles in the group C to G if a force of
+        480 N (ii0 ibf) or more was applied to the "gates’. ~he same operator
+        might have difficulty in releasing turnstiles A and B if a force of 1340 N
+        (300 ibf) or more was applied to the ’gates’.
+        THE ACO3RACY OF THE (X]M~JIZ~T~qED SY~ FOR ~ AND REODRDING
+        ADMISSIONS
+4.4     Turnstiles were d%ecked by rotating the "gate’ a known number of times and
+        then recording the count measured in the control roan. Tests of
+        turnstiles in the group 9 to 16 indicated that they recorded the correct
+        number of admissions.
+4.5     Tests indicated that turnstiles A, B, C, D, E and F were likely to record
+        the correct number of admissions. In my opinion turnstiles A to F, as a
+        group, would indicate the correct number of admissions to within 1%.
+4.6     Tests indicated that there could be a persistent error in the recorded
+        number of admissions through turnstile G. It is my opinion that this
+        turnstile might oontinuously register less than the correct number of
+        admissions during a period of operation. It was concluded that the error
+        was prcbably attributable to the roller of the roller-plunger micro-switch
+        fitted to this turnstile only just making contact with the upper boss of
+        each "gate’.
+4.7     Additional detectors were installed across each turnstile passageway at
+        positions above the gates. Examination of these devices indicated that
+        same appeared to be disconnected and in some cases the wiring had been
+        cut.
+        AVERAGE ~IONS REQUIRED ~ ~E ~NSYILES
+4.8 By ref~ to Eastwood & Partners Drawing No 8945/IA dated 16/4/87
+    figures were obtained for their estimates of the capacity of the various
+                                            3
+      zones of the stadium. On 28 April 1989 HSE staff surveyed the outside
+      perimeter of the stadium to identify the numbers of turnstiles used by
+      eac~ zone. Six groups of turnstiles served the six zones of the st~__dium.
+      ~hese are stmmarised in the following Table.
+
+
+                                             Turnstile     Number        People
+          Zone of ground      Capacity       Designation     of            per
+                                                           Turnstiles   Turnstile
+
+       West Terrace            i0,i00         AtoG                        1443
+       North Stand Seating      9,882         1 tol0          i0           988
+                                4,465        ii to 16          6           744
+       South Stand Covered      5,567        23 to 32         i0           557
+       spion K~ S~ling         21,000         37 to 78       42            5OO
+       South Stand              3,310        (19 to 22        8            413 " ~
+         ~~d ~tt~                            (33 to 36
+
+
+4.9   ~he three groups of turnstiles having the highest average admission
+      ~ts were sited at the ieppings Lane end of the stadium, i.e. West
+      Terrace Standing, North Stand Seating and West Stand Seating.
+4. i0 ~he average admission ~t of the turnstiles serving the West
+      Terrace was the highest for any zone of the stadium. It was almost 3.5
+      times the lowest average admission requirement whic~ is that for the South
+      Stand Uncovered Seating and approximately 2.9 times the average admission
+      requirement for Spion Kop.
+      COUNTING OF PEOPLE ~ ~ %~qNSI~LES ATO G FRCM VIDEO
+      RECORDINGS
+4.11 ~he video recordings used for the counting were delivered by West Midlands
+      Police and were identified BJH2/E/Part i, PJH2/E/Part 2, PJH2/E/Part 3,
+      B3~2/F/Part i, RJH2/F/Part 2, RJH2/F/Part 3. ~hey showed the exits of
+      turnstile booths A to G frum approximately 12.55pm until 3.10pm on
+      15 April 1989. Tne continuous ref~ timings on the video recordings
+      were with respect to the start of eac~ recording, and not to British
+      &Amm~_r Time (BST), but the relationship between the recording times and
+      BST was determined frum tb~ observation of specific events in conjunction
+      with West Midlands Police.
+4.12 ~he method of counting used a mi~ and specially developed
+      program. A push-button was depressed every time a person was seen to
+      emerge frum an identified turnstile booth and the crmputer recorded the
+      signal and its time. People emerging from turnstiles A and B were counted
+      together because it was not always possible to diff~tiate between
+      people emerging frum these individual turnstiles.
+4.13 The analysed data provided the relationship between the total number of
+      people seen to emerge frum turnstiles A to G and the time that they
+      emexged. Figure 3 shows the total number of people that had emerged frum
+      turnstiles A to G over the relevant period of time.
+                                         4
+4.14 I was informed by West Midlands Police that the turnstiles were opened
+    before the start of the video recordings. At approximately 2.00pro just
+    over 2,000 people had been counted and at 2.52pm this number had risen to
+    app~tely 6,000. ~he final total count was 7247 people.
+    The HSE count totals are ~ised in the following table and ccmpared
+    with the SWFC cumputer print-cut, taken on 15 April 1989, a copy of which
+    was provided by West Midlands Police.
+
+
+      Turnstiles    HSE      SWFC     Differenoe
+                   Count
+
+
+      A+B          1930      2004       -3.7%
+      C            1168      1206       -3.3%
+      D+E          2130      2196       -3.0%
+      F+G          2019      1632"
+
+      TC~AL        7247      7038*
+
+    * See paragraph 4.15
+
+    Turnstiles A and B, D and E and F and G had crmmon exits, and hence the
+    HSE and SWFC counts of these pairs of turnstiles have been combined.
+4.15 Parag~ 4.6 of this report referred to a persistent error in the count
+     obtained from turnstile G. ~his could result in no signal being sent to
+     the crmputer even though a person had passed thr~ the turnstile and
+     could account for the discrepar~y between the HSE count of 2019 for F plus
+     G and the SWFC count of 1632.
+4.16 Based on the assunl~tion that the SWFC ccmputer printout accurately
+    recorded A to E and that the HSE ocunt for F and G was less than the
+    number who actually passed through F and G by a similar percentage to that
+    obtained from A to E, the estimate for the total number of people that
+    entered thr~ turnstiles A to G is 7494. In my opinion the actual
+    number is unlikely to have exceeded this value by more than 2%, i.e. 7644.
+4.17 ~he rate at which people were cc~nted thr~ all the turnstiles is shown
+     in Figure 4. The rate is for a 3 minute time period and shows the number
+     of people per hour per turnstile. The rate increases rapidly at about
+     1.40pm and remains fairly oonstant between 2.05pro and 2.50pm. The mean
+     rate for this period was about 660 people per turnstile per hour. Between
+     2.55pa and 3.00pm the rate ~ and reached a maximum of abotrt 1150
+     people per turnstile per hour. %%ds increased rate coincides with the
+     time Gate C was opened and could therefore be a result of decreased crowd
+     pressure allowing a faster flow through the turnstiles.
+4.18 If the rate of 660 had been maintained from 2.50pm onwards and no gates
+     had been opened I estimate that it would have taken until about 3.40pm to
+     bring the total number of people admitted through turnstiles A to G to
+     i0, i00. (The quoted capacity of the West Terrace standing area. )
+                                       5
+5 ESIUIMATE OF PEOPLE AEMITYED ~ IC41TE C’ TAKE~ FROM VIDEO RECORDINGS
+5.1   A video recording labelled R3B2, delivered by West Midlands Police, was
+      used for this analysis. It was copied by HSE Dh~ and a timing
+      ref~ added. ~ copy was given the identification DFI/B. It showed
+      the exits of turnstile booths A to G, Gate C and the general area on the
+      West Stand side of these turnstiles. ~e oontinuous reference timings on
+      the video recording related to the start of the tape and not to BST.
+5.2   I was told by West Midlands Police that, following scrutiny of
+      synchronised video recordings, the ’First Opening’ of Gate C had occurred
+      at approximately 14.48pm for a duration of ~ 30 seconds. I was also told
+      that the ’Second Opening’ of Gate C had started at ~14.52pm and finished
+      at ~ 14.58pm, a duration of~ 5% minutes. A ’~lird Opening’ then occurred
+      apprcydmately one minute later when the gate was opened for approximately
+      8 minutes, sufficient to allow the entry of people in single file.
+5.3   The method of assessment for the first two cpeninc3s was to count the
+      number of people passing a refe!e/K~ line for a period of 3 seconds and
+      then to repeat this process at intervals of no greater than 15 seconds.
+      At times when the rate was seen to vary rapidly, and for the whole of the
+      ’First Opening’, samples were taken more frequently than at 15 seconds.
+      Figure 5 shows a graph of the number of people who entered through Gate C
+      during the ’Second Opening’.
+5.4   Estimates of accuracy are based on the possibility of missing one in ten
+      of the people passing the referenc~ line and the unlikelihood of missing
+      more than two in ten.
+5.5   ~he estimate of the number of people passing through Gate C during the
+      ’Second Opening’ based on the counting was 1800 but this should be
+      regarded as a imu. The best estimate would be 10% higher than 1800
+      i.e. about 2000, and in my opinion the actual number was unlikely to be
+      greater than 2200.
+5.6   ~he estimate of the number of people passing through Gate C during the
+      ¯ First Opening’ based on the counting was 130 ~ this should again be
+      regarded as a minimum. ~he best estimate would be about 150, and in my
+      opinion the actual number was unlikely to be greater than 180.
+5.7   In the "Third Opening’ entries were much slower and a more accurate count
+      was possible. A total of 90 were counted over a period of about 8
+      minutes, and in my opinion the actual number is unlikely to be greater
+      than i00.
+5.8 ~he foll~ng table is a ~ of the estimates of both Gate C and
+    turnstile A to G entries.
+                                      HSE Count     Best
+                                                  Estimate
+
+           First Opening Gate IC’        130         150       180
+
+           Second Opening Gate ’C’      1800        2000     2200
+       ~dxd Opening Gate ’C’              90          90       i00
+       Turnstiles A to G                7247        7494     7644
+
+       ~OTAL                            9267        9734     10124
+
+
+
+6 ESTIMATES OF THECAPACITYOFTHEWESTTERRACE
+
+6.1   Drawing 1340/02A by Ralph Brade & Associates gives dimensions of Pens 3
+      and 4. Both Pens are shown as being 13. im deep; Pen 3 is shown as being
+      14.350m wide and Pen 4 as being 14.645m wide. Based on these dimensions
+      the areas are 188.0sq m and 191.8sq m.
+6.2 The 1986 "Guide to Safety at Sports ~" states
+      "222 The extreme allowances for packingdensityare as follows:
+                a.   54 persons per i0 square metreswhentheterraceor
+                     viewing slope is in good condition (as set out in
+                     ~8); and
+               Do    27 persons per i0 square me~ when it materially
+                     deviates frGm the ~ed guidlines, so as to
+                     oonstitute a possible hazard to individuals closely
+                     packed.
+      223    It may be necessary to interpolate between these figures whez~
+      oonditions fall between the two extremes. When ..."
+6.3   If 54 people per i0 sq m is assumed as the allowable packing density
+      for the West Terrace then the capacity of Pen 3 is 1015 and the
+      capacity of Pen 4 is 1036 making a total of 2051 for the camb~
+      area.
+6.5   The above calculations of capacity m~st therefore be assumed to be
+      the maximum allowable capacity for this terrace area. The guide also
+      gives examples of how this maximum capacity figure should be reduced
+      when certain factors do not conform to the guide. Exaa~01es include
+      a)       When the st~ of crush barriers oonform with the
+               guidelines but the spacing of such barriers does not ...
+      b)       When perimeter wall and crush barriers do not cQmply with
+               st~ or spacing ~ ...
+      c) When the positioning and width of gangways do not meet with the
+         ~tior~ of Chapter 8 ....
+6.6   It also states that when crush barriers do not meet the guidelines on
+      st~ ..... but are well constructed, oonsideration may be given to
+      allowing a lower packing density figure for the purpose of calculation.
+
+7 EST!~ATES OF THE PACKING DENSITIES OF THE WEST TERRACE
+7.1   West Midlands Police provided me with several albums of l~phs, taken
+      at Hillsborou~ on 15 April 1989, and several of these photographs were
+      identified as providing material for the estimation of the numbers in
+      Pen 3. Enlargements of photographs PRI/7A and PRI/8A were provided by
+      West Midlands Police and these two photographs were analysed in detail.
+      The time identification marking on both these I~ was 15.03.
+7.2   ~be method of assessment entailed mounting the photographs on an
+      electronic digitising table (Digitiser) and then marking the head of each
+      person who was discernible. ~be Digitiser was linked to Cumputer Aided
+      Drafting software and the act of marking each person on the photograph
+      enabled the physical points on the photograph to be placed on an
+      electronic grid which could then be displayed, under cc~ oontrol, on
+      a VEU screen or printed cut on a ~cs plotter. Actual counting of the
+      number of those identified within a specified area was carried cut
+      autnm~tically and no allowance was made for people that were hidden from
+      view.
+7.3   On 22 May 1989 photographs were taken of the empty pens by the same
+      photogr-dpher, using the same camera and camera position, enabled the
+      boundaries and barrier locations in Pen 3 to be transposed onto the
+      computer image of photogr~ taken on 15 April 1989. PRI/7A and PRI/8A
+      oovered about 75% of Pen 3 and it was assumed that the density of people
+      in the remaining 25% was similar to that in the photographed area of
+      Pen3.
+7.4   The estimated headoount for the whole of Pen 3 was 1408 people but areas
+      at the front of the pen were masked by people outside the pen and heads in
+      the area for%ral~ of the first barriers w~re generally less discernible
+      than those behind the first barrier; 1408 is therefore a minimum estimate.
+7.5   ~be results from a mere detailed analysis, in which Pen 3 was sub-divided
+      into four rows, bounded by the perimeter fence and the rows of crush
+      barriers, are ~ised in the Table overleaf. Figures 6, 7 and 8
+      illustrate the four rc~s and the numbers oounted in rc~s 2, 3 and 4.
+
+
+
+
+                                       8
+                 D~                                      Capacity
+                      to               Width     Area    at 5.4      HSE       Density
+                Perimeter              of row   of row    /sq m     Count       /sq m
+                  Fence
+
+  Back Wall       13.1m
+                            4th I%3w    2.5m     35.88    194        268         7.5
+  3rd Barrier     i0.6m
+                            3rd Row     3.5m     50.23    271         382        7.6
+  2nd Barrier      7.1m
+                            2nd Row     3.5m    50.23     271        409         8.1
+  ist Barrier      3.6m
+                            Ist Row     3.6m     51.66    279        (517)(10.0)
+                                                                            *    *
+  Fence            0.0m
+ TOTAL                                          188.0    1015       (1576) *
+
+* ~ne number of spectators in the First Raw was estimated frcm the plan area and
+an assumed packing density of i0.0 spectators per square meter. This density has
+been shown to be the maximum achievable without undue disccmfort in tests at HSE’s
+Sheffield laboratories and has been co--rated by crowd density measurements in
+a selected area of the first lr~ on photograph PRI/10A.
+7.6 ~ne estimated total for Pen 3 of 1576 is about 55% greater than the value
+    calculated ~ a packing density of 5.4 people per square metre.
+7.7 An estimate of the packing density in Pen 2 was also made frcm photograph
+    PRI/7A. ~he area selected showed an overall packing density of 5.0 people
+    per square metre.
+
+8 E5qUIMATE OF POSSIBLE NUMBERS C~gSIDE THE LEPPINGS IANE q%~NSTILES
+8.1   I was asked to make estimates of the number of people which could have
+      gathered outside the turnstiles at Leppings Lane but within the outer
+      perimeter gates. Tne area between the leppings lane End turnstiles and
+      the outer perimeter gates is illustrated in Figure 9. ~ne Figure is based
+      on Ral~h Brade & Associates’ Drawing No 1340/04. ~he area has been
+      sub-divided into three separate areas (Area i, Area 2 and Area 3) and the
+      approximate area of each has been calculated by scaling frcm the Drawing.
+8.2 ~he number of people that could stand in the areas has been calculated
+    using a packing density of 8 people per square metre and also using i0
+    people per square metre; the estimates are tabulated overleaf.
+
+
+
+
+                                         9
+                     i
+
+
+
+                         Area in     Peqole         People
+                         square    at density     at density
+                         metres    of 8.0 per     of 10.0per
+                                    square m       square m
+
+        Areal              65         520            650
+
+        Area2             160         1280          1600
+
+        Area3             260         2080          2600
+
+        Area 1+2          225         1800          2250
+        Area 1+2+3        485 ,       3880          4850
+
+
+9 SUMMARY
+
+9.1   Various aspects of the crush barriers and perimeter gates in Pens 3 and 4
+      did not conform to the ’Guide to Safety at Sports Grounds 1986’.
+9.2   Xhe broken barrier, 124A, was made from wrought iron tube and mild steel
+      angle section. Both tube and angle sections were heavily corroded in some
+      areas. Calculations on the mechanism and force required to cause the
+      collapse of the barrier are proceeding.
+9.3   ExBmination of turnstiles A-G indicated that there was a fault in the
+      counting mechanism of G. From assessment of video recordings, a best
+      estimate of people entering through A-G was 7494, with a maximum of 7644.
+9.4   If Gate C had not been opened, HSE estimate that it would have taken until
+      about 3.40pm to admit i0,i00 people through turnstiles A to G.
+9.5   Assessment of the numbers of turnstiles allocated to various zones of the
+      stadium revealed that the average admission ~t of the turnstiles
+      serving the West Terrace was the highest for any zone of the stadium, and
+      was approximately 2.9 times the requirement for Spion Kc~.
+9.6   HSE’s best estimate of the total number of people who entered the
+      during the three c~enings of Gate C was 2240 with a maximum of 2480.
+9.7 HSE’s best estimate of the total number of people who entered the ground
+    through gate C (3 openings) and turnstiles A-G was 9734, with a maximum
+    value of 10124.
+9.8   Even if the strength and spacing of the barriers had complied with the
+      ’Guide to Safety at Sports Grounds 1986’, HSE’s calculations showed that
+      the capacity of Pens 3 and 4 was 1015 and 1036 respectively.
+9.9   Since the barriers did not comply in all respects with the Guide (see 9.1)
+      the estimated capacity of Pens 3 and 4 would be less than in 9.7 above.
+9. i0 ~be best estimate, based on photographs, of the number of people in Pen 3
+      at 15.03 was 1576.
+9.11 Xhe number of people who could be a~ted theoretically between the
+      perimeter gates and the turnstiles at leppings lane was estimated to be
+      3880 and 4850 for crowd packing densities 8.0 and i0.0 per square metre
+      respectively.
+                                             i0
+            RADIAL FENCE BE
+                 PENs 2 & 3 TWEEN
+
+
+
+
+                                                      3
+
+
+
+
+        \
+
+
+    \
+
+
+
+
+\
+
+
+                     Fig. 1. Re°°nstruetion
+
+                                              ot Barrier 124A
+Fig. 2 - Barrier 124A as photographed 17/4/89
+        _ ISTARY.’.                                                                                       t                            i       i
+                                                                                                                                                               END
+          ’ OF                                                                                                                                                 OF
+        ...... F DATA                                                                                                                                          ’DATA
+                        ,L   i .
+    Q                                                                                                          i
+                                                                                                                                ¯
+                                                                                        .,i.          i   i    ,       J
+                                                                                                                                                   S
+    Q
+    8                                                            i
+
+
+        " " I
+
+
+
+
+                                                                                   J
+
+
+
+
+                                                                 !
+....I
+Q                                                                                        J
+                                                                                                          //
+
+
+                                                                                         FF                                     I
+
+
+                                                                i¯
+
+
+
+
+                                                                          /
+
+
+
+
+                                                                                                                           ,.
+
+                                                                                                                                r
+                                              /
+              I
+                                                         I
+    Q                                                                         2.001~m                 ~                                             3.001pro
+                                          i                           I                  i            ,   i        J                       i
+                              -120.               -90.                                         -45.                             -15.               O.                  15.
+                                                             TIME RELATIVE TO 3.00pro (MINS)
+
+                              TOTAL NUMBER OF PEOPLE EMERGING FROM TURNSTILES A to C
+                                                                                                       +.     .-
+
+
+
+
+       0
+                             :I
+                              I~
+
+
+
+
+                             ’ii
+
+_..J
+
+
+z                   .[       i~
+I---
+                              i
+$                        :    i
+
+
+
+                ¯        !   iJ
+
+
+
+
+                                                                           f
+uJ
+~          ~ ......          i~
+       ~                     i
+                         t   :1
+
+
+
+           -- .+             ;1
+
+
+
+                              r
+                         1
+                              ,
+                                                                                                                                  :                                     ’     ’                 L
+                             I’
+                                                                                                                                                                                                ri
+                             i: /                                                                                             ......               ~    i ....          i~, I ......
+           ....... I
+                             I ....   1.O01~m
+                                                              ~
+                                                                  "+ ¯              +                       2.00pm
+                                                                                                                                          ......................... , ..... + ..... ++,.,.,oo++ ......
+                                                                                                                                                                        ~                   °
+                                                                                                                                                                             I
+       d                 I   i                I   I   I       +     I           I   I          l   I               !   I          w   t            i    t               i    i
+           -135.                      -120.           -105.              -90.           -75.                -60.           -45.             -30.                 -15.                  O.            15.
+                                                                                         TIME RELATIVE TO 3.00pm (MINS)
+
+
+           FIG. 4 MEAN RATE OF PEOPLE EMERGING FROM TURNSTILES A to G
+                                                                                         1
+
+
+
+
+                                            !     I          V   t   T       I   I I I I | I I
+                                                      200.
+                                                TIME in seconds
+
+
+FIG,   5   NUMBER OF PEOPLE EMERGING FROM GATE ’C’ AT THE "SECOND OPENING"
+                    DIGITISED DRAWING OF PHOTOGRAPHS PR!-7A & PR!-8A
+                                    SUPERIMPOSED ON
+        DIGITISED DRAWING OF PHOTOGRAPHS PRIOA-2 TO PR!0A-5, SCALED ETC TO MATCH
+
+                                          PEN 3
+                              OCCUPANTS OF ROW 3 ONLY SHOWN
+                  (NB   ESTIMATED CROWD- 60 OCCUPANTS - SHOWN HATCHED)
+
+
+
+
+                                                                                   PEN 4
+                                                                        l
+                                                                        I
+                                                                        !
+
+
+                                               ,
+                                               I
+
+                                               l
+                                                   , PEN 3
+                                                   !
+
+
+
+
+PEN 2
+                                                                    0
+                                                             O
+
+
+
+
+                                           f
+                                  HEADCOUNT -      382
+
+                                PHOTOGRAPHS TAKEN 15.03
+
+
+
+
+                                                                                   FIG.7
+                                                                                   HSE SIIE’ET FRITBD/FPllSl
+                         DIGITISED DRAWING OF PHOTOGRAPHS PRI-7A & PRI-8A
+                                         SUPER I MPOSED ON
+             DIGITISED DRAWING OF PHOTOGRAPHS PRIOA-2 TO PRIOA-6, SCALED ETC TO MATCH
+
+                                               PEN 8
+                                   OCCUPANTS OF ROW 2 ONLY SHOWN
+                      (NB   ESTIMATED CROWD - 118 OCCUPANTS - SHOWN HAT~D)
+
+
+
+                            I
+                                                                                        PEN 4
+
+
+
+
+                 !
+     !           I
+     !            !
+1    i
+1    1
+ |
+ I
+         PEN 2
+                                                                        0
+                                                               0
+
+
+
+
+                                      HEADCOUNT    -   409
+
+                                     PHOTOGRAPHS TAKEN 16.08
+                LID
+
+
+
+
+                                                                 Labels
+
+
+                                                                                         WES 1 S IA fit)
+                                                                                             SEALS
+
+
+                                                                                                                                                       1
+                                                                                                                                                2
+                                                                                                           9     8 7 t; 5 4
+
+                                                                                                                                                    " ~u~shl e De siqnah ons
+
+
+
+
+                                                                                                                                                     "\
+i 6’4-’72 ~f’         .i g-.,tl~7~o   ~.G%’7-] ~   !- 6tl" 1~6            .~ ,~-.7,3~-    I.’~’~’~;4"~         I G’,’,3o.~    -I ~: ,’,,-7~’-                ""X"   #o
+                                                                                                                                                                      "F ~<.
+

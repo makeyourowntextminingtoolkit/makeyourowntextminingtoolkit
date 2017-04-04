@@ -1,0 +1,883 @@
+*     *
+
+
+
+
+                                                               PO Case 29942
+
+
+
+                Dr L Derrick, H/SPD'D'
+                Baynards House                            cc                   H/TD3B
+
+
+
+
+                              FLIP UP SAFETY BARRIER AT FOOTBALL GROUNDS
+
+                Further to our telecon of 23?8.89 when you agreed to lead on this
+                case in view of the recognisable 'policy' considerations involved,
+                I have had my people examine the technical aspects.
+
+                Please find attached a copy of a note from             , H/TD3B on
+                an initial assessment of the barriers as a mechanical safety
+                device.    I have discussed these with              and can agree
+                with the relevance of his remarks.     Should HSE become further
+                involved in this matter, it would be appropriate for our technical
+                people to meet with the designer/distributor of the device before
+                any thought of 'HSE approval' was even considered.
+
+                However, my own view is that HSE should not get involved in
+                'approving' safety devices of this or any other kind.         The
+                responsibility for ensuring safety rests, in this case, with the
+                football   clubs,   and how    they   choose to    discharge that
+                responsibility is their business.
+
+                Please let me know if you need anything further.
+
+
+
+
+                P G JONES
+                DCI(ENG)/TD
+
+                25 August 1989
+
+
+
+
+HEALTH $ SAFETY
+     £X?!C’J nvf:
+     2 9 AUG 1989
+     i U'.jTrt' •>;fi,
+    INGIfU-r w .s UNIT
+            TU«
+              kjt c Jl                                        ly - \
+
+
+
+
+                                 C O M M E N T S BY                    TD3B
+        ON P ROPOSAL FOR F L I P - U P P ER I M E T E R SAFET Y B A R RI ER S AT F O O T B A L L GRO UN DS
+
+                    W O O D ’S S T A R T I N G STALLS OF B R U SS EL S ( M r E d w i n H. Woo d)
+
+
+In general this seems a r e a s o n a b l e idea, but a num be r of t e c hn ic al and
+oth er d ra wb ac ks might have to be overcom e.
+
+
+QUE RI ES / COM ME NT S/ D R A W B A C K S (in no p a r t i c u l a r o r d e r )
+
+ 1. When it o p e ra te s the re will o b v i o u s l y be a h azard to a n y o n e who is
+    stand in g w i t hi n 3m of the front of the barrier. This c o u l d be the
+    police, o ff ic ia ls , p l a y e r s etc.      It may not be p h y s i c a l l y p o s s i b l e
+    to c om pl e t e l y s t e r i l i s e a 3m zone in front of the b a r r i e r wit ho ut
+    sub stantial a l t e r a t i o n s to the g r o un d layout.
+
+2. It is not e n t i r e l y c l e a r what the b a r ri er is c o m p o s e d of- the re seems
+   to be various lay ers of mesh. Fir st ly , it may be d i f fi cu lt to see
+   any football at all, and s ec on dl y, it may be e a s il y c l i m b e d by football
+   fans. If it is p a r t i c u l a r l y dense, then there may be a q u e s t i o n of
+   wind loading.
+
+3. There are q ui t e e x t e n s i v e and very important f ou nd at io ns .    It is very
+   important that the b e l o w g r o u n d level ope ra ti ng bar does not distort
+   which could lead to a fai lu re in the ope ni ng m ec ha ni sm . The detail of the
+   f ou ndations w o u l d have to be giv en special c o n s i d e r a t i o n at e ach site.
+
+4. There may be p r o b l e m s of m a i n t e n a n c e with the e x p o s e d lever o pe r a t i n g
+   system. There is a d a n g e r that the u n d e r g r o u n d shaft might get rusted
+   up and bec om e stiff to o pe ra te , and the same w ou l d app ly to the engagem ent
+   of the cams on the shaft .
+
+5. I do not have any e x p e r i e n c e of the use of large steel spr in gs which will be
+   under con stant stress. W o u l d they be s u s c e p t a b l e to str es s c or ro s i o n ? Would
+   it not be b e t t e r if t h e i r m o u n t i n g a r r a n ge me nt s w e r e p r o t e c t e d from the
+   wea th er ? F o u r spr in gs w o u l d be fitted, but I w o n d e r if the b a r ri er would
+   ope ra te with only three. How e s s en ti al is it that they all o p e r a t e with the
+   same force ? Is there any p o s s i b i l i t y of the d i s t o r t i o n of the framed
+   b arrier? i.e. it j a m m i n g in its frame.
+
+6. I am not at all sure about the act ual m e c ha ni sm by w hi c h it is said the
+   b arriers w o u l d rai se if there was s uf fi ci en t p r e s s u r e from the crowd. As
+   much as I can u n d e r s t a n d it, it r elies on a notch in a bar. This seems
+   somewhat u n s o p h i s t i c a t e d , and p r e s u m a b l y cannot be c a l i b ra te d. What
+   h ap pens, I w o n de r, if the b a r r i e r is sub je ct ed to u n e q u a l p r e s s u r e ? What
+   is the key a re a of the b a r r i e r for p r e s s u r e that is g o i n g to t r i gg er this
+   r e l ea se a c t io n ?
+
+7. The posts b e t w e e n the l ength of b a r r i e r are r ather w ide a nd prese nt a
+   haz ar d when the b a r r i e r s have been raised. ( P r e s u m a b l y no one can reach
+   the o p e r a t i n g lever from insid e the s u p p o r t e r s ’ area). It mig ht be p os si bl e
+   to r e d uc e the w idths of the se pos ts by means of b e t t e r des ig n, or make them
+   r o u nd ed in c r o s s - s e c t i o n on the inside.
+8. C o n s i de ra ti on w ou l d h ave to be g i v en to the c h o ic e of the c h a r a c t e r i s t i c s of
+   the hydraulic cylin der.             To hrfve the b a r r i e r open too slowl y might result
+   in the pile-up of p e r s o n s as the fans at the back surge f or wa rd ,b ut no c l e ar
+   space having yet been c r e a t e d at the front. If the b a r r i e r flies up too
+   quick ly then a nyone who was h o l d i n g on to the ins id e s u r fa ce might go up
+   wit h i t .
+
+9. T he r e may be a dange r if one s e c t i o n of bar ri er opens a u t o m a t i c a l l y as
+   a result of cro wd p r e s s u r e and this is fol lo we d by a gen er al surge of
+   the crowd towards that one ope ni ng , i.e. a "fu nn el li ng effect" might
+   result.
+
+1 0. Some c on s i d e r a t i o n w o u l d a lso have to be given to the p o s i t i o n i n g of
+     the ter racing bar ri er s in r e l a t i o n to these new o p e ni ng p e r i m e t e r
+    barriers.
+*il3o   '*   t
+                Health &            St, Annes House
+                                    University Road
+                Safety              Bootle L203MF
+                                    Merseyside
+                Executive
+                                    Telephone Direct Line 051 -951
+                                    Switchboard 051-951 4000
+
+
+
+
+                     TD3B
+
+
+
+                            H/TD3B
+
+
+
+Will yo u p l e a s e t e l e p h o n e M r P G J o n e s
+on T h u r s d a y m o r n i n g r e g a r d i n g t hi s PO
+case.
+
+
+
+   HEALTH *        V>«TY
+
+
+         2 3 AUG 1989
+        Eifi*.' ■ <V-
+w tb the comolirhMts o f    -    P G J O N E S DC I (E N G )
+                                22 A u g u s t 19 89
+                                                             / M   l
+                 SIR ANTHONY G R ANT, M,P.
+
+                                                           ?T7
+                       House o f Commons.
+                                         t*A'A
+                      S ecITW iST \
+Secretary                                                Messages
+*219 505 !
+                      f AUG 1989
+                             989 J                     01- 219 4646
+
+
+                                        ith. August 1999
+
+
+
+
+             {Jhc*,   A   1'#   * * -
+
+              I am involved (cownercidl l y ) with a proposal
+        to market here a new type of Flip-up Sa£ety
+        Barrier at football grounds following the Hills-
+        borough disaster. I enclose brief details f*«m
+        i^he inventor in Belgium, MrEdwin Wood.
+
+              Obviously, the blessing of the Government
+        will be helpful and X have already written to
+        dolin Moynihan. It is also desirable that tne
+        approval of the Health & Safety E**eutive b<§
+        obtained. With this in mind M r . W o o d has already
+
+
+        now left* I refer to two letters of Mr*Wood dated
+        34 th, and 25th« July 1/iet.
+
+               Could you please give this a ‘shove’ now that
+        tihe football season is upon us?
+
+
+
+        [k.Hon.Norman Fowler MP
+        Secretary of State fro Employment
+        Saxton House
+        fothill Street
+         ondon SW1H 9NF
+                                                                                                          p.   3
+
+
+
+
+                                        Wood's          Starting              Stalls          C 1nter).
+                                        105 Ave Fond'Roy Uccle 1180 Bruxelles.
+                                        Teie; (M2) 374.21.04.
+
+                                                    L .M .R . W orks'   Qrogenbos, Belgium.
+                                                    Tele; 3 76 .12.77.
+                                                    Telefax: (322) 376.27.132.
+   1 0/7 /8 9.
+
+
+
+                           DESCRIPTION FLIP-UP SAFETY BARRIER.
+                               I
+
+                    The Flip-Up Safety Barrier Is designed to give an automatic and Immediate escape
+    route when a crowd of people are pressed against any section along the barrier frame, whether
+    it be In the centre or either end the force required to open the barrier or barriers is linear.
+                    The adjustment of the force required to open any one Fflp-Up barrier Is simple
+% requiring only simple tools. The barriers can be tested by using a special yoke attached to specified
+* sections of the barrier frame and coupled to a heavy duty spring weighing unit which is attached
+| to a tractor. Tho tension on the safety release should be at the minimum adjustment and gradually
+t increase the tension until you can hold the barrier between 400        and 500 Kg. The tractorshould
+   make a steady pull, avoid jerking.
+                   The safety barrier consists of a rectangular 'porta!* section constructed of square
+   and rectangular steel tubing forming a frame to carry the Flip-Up barrier which Is suspended from
+   the top of the 'portal' frumd.
+                   As it Is Important that the fllp -u p section has maximum rigidity with a minimum
+   of weight at the bottom end.lt is constructed with a section at the top of the frame where weight
+   Is not Important. This beam section Is built at 90 deg. to the flip-up frame and allows for vertical
+  stays to stabilize the lower region without adding too much weight to the bottom end of the flip -u p
+  frame.
+                  The construction of the beam section also provides suitable am»s for attaching
+  the laminated leaf springs which create the force to swing the fllp-up barrier up. A six metre
+  barrier requires four springs mounted at Intervals along the top of the portai frame. The bottom
+  of the fllp -up frame Is locked at Intervals along Its length by cams or arms attached to a transverse
+  shaft controlled by a lever attached to one end of the shaft.
+                  A control box mounted on one of the vertical portal pillars Is fitted with a mechanical
+  safety release to which Is locked the control lever. The safety release can also be operated by
+  an electro/magnetic actuator which is operated by. a remote Tele/Command by an In-Field official.
+                    Attached to the barrier frame and the pillar mount, are two small hydraulic cylinders,
+  which control the upward swing of the barrier, when released. They also check that the barriers
+  w ill not return to the ground, until the valve Is turned. Two men are required to close a barrier
+  and lock It Into place.      I
+                   The basic locking of a barrier consists of a chassis fitted below ground level,
+  which has ashaft running the length of the barrier, and mounted on suitable bearings. Attached
+  to this shaft are cams, or arms, at two metre intervals along the barrier, and at one end a strong
+  lever, 70cm long, controls the locking when held by a spring loaded notched arm, and is released
+  only by excessive pressure on the barrier {by a crowd), which w ill automatically release It,
+  or by a controlled signal from an electric activated release or Tele/Command signal.
+                   The Control Box and lever are protected from the public by the panels mounted
+  on the outside, between the two portal pillars of each barrier. The control box houses the locking
+  and safety release adjustment, end has provision to mount an electro/magnetic actuator, a 12
+  volt battery, a Tele/Command receiver and associated components, and Ant.
+                   Ihc mechanical locking chassis is a completely assembled module, and Is designed
+  to fit beiow ground level, to each mounting pillar.
+                   The safety release is a spring loaded notched arm, which holds the cam locking
+ lever. The notched arm can be loaded according to the prescribed release force. The adjustment
+ c a n bo aslow   as 300kg Of as h ig h as 7.000kg,
+                  All Filp-Up Safety Barriers are s ta lle d In units of s ix or nine metres, ro sun
+ an installation plan. A three metre long static barrier Is available which can be fitted between
+ two adjacent barriers, where they change direction and make a short angle, which may cause
+ Ukht) to touch.
+
+
+
+                           I
+    HS ES ECRET ORI ST                               ■   8-22.1939     10140                         p.     4
+
+FLIP-UP G A fr
+                 A hydrad lle 'Flip-Up G oto’ in a v a ila b le for oritreno* o r mxtt on S ports grounds
+for Emergency Services, O fficial cars, (or tho public In an e/nergancy).
+                   Tho necessity for emergency services and official cars to enter or leave the grounds
+without gate delays or obstructions Is Important.
+                   The 'Flijs-Up Gate* can be ojwned and closed by a hand held coded Co»r»nand,
+or a key s w it c h by fhe sgatc. It can bo opened and closed In less than ten seconds with
+hydraulic power from a hydraulic accumulator, which maintains stored energy even If the electric
+power has been cut. A small electric/hydraulic pump, keeps the accumulator fully charged.
+                When a command Is made to open the gate, the lower section (or panel) Is swung
+upwards, followed by tf»o main gate frame. The action of swinging the bottom section of the
+gate, up; reduces the 4rch of the main gate frame. This allow s vehicles to stop within 2 metres
+of the gate, without Interference.
+<
+    71
+
+                              Wood's        Starting        S t a lls       (Inter).
+                              105 Ave Fond'Roy Uccle 1180 Bruxelles.
+                              Tele; (322) 374.21.04.
+
+                                         L.M.R. Works Drogenbos, Belgium.
+                                         Tele; 376.12.77.
+                                         Telefax; (322) 376.27.82.
+    ftealth & Safety Executive,                                t
+    Magdalen House,
+    Stanley Precinct,
+                                                                                       3
+    Bootle,                                                            - 7 AUG ] W
+                                                                                       <
+    Merseyside L2Q< 30Z                  2/8/89.                                       }t
+    England.
+                                                               I__
+                                                                            'I I.-,
+                                                                                       J
+    Dear Sir,
+
+
+
+
+                  Last week I posted to you some illustrative sheets on
+    the Flip-Up Safety Barrier. I must apologize for sheet "A" which
+    showed the Public on the Inside of the grounds and the playing fields
+    on the Outside.
+                  I have enclosed another sheet which is in order.
+
+
+
+
+                             Yours sincerely,
+
+
+
+
+                                              i!   ^
+                            Edwin H.Wood.
+Shett IK
+
+
+
+
+                                                              I N - F I E L D
+
+      STATIC
+
+
+
+
+                                                                                                                          \ \ X>
+
+                         PUBLIC            51 D E
+                                                                                MANUAL LOCKING WITH AUTOMATIC SAFETY RELEASE.
+                 W o o d ’s      S ta r tin g  S ta lls       (In te r )        ELECTRIC OR REMOTE DIGITAL TELE/COMMAND.                  Original a Renvoyer au Deposant
+                 105 Ave Fond'Roy Uccle 1180 Bruxelles.                                                                                   du la Propriete industriele.
+                                                                                NO CABLES BETWEEN OFFICIAL SUPERVISER AND BARRIER LINE.
+                 Tele; (322) 374.21.04.                                                                                                   No. 31.05.89.29460.
+
+                           L.M.R. Works Drooenbos, Belgium.
+                           Tele; 3/6.12.77.
+                           Telefax; (322) 376.27.82.
+                                       /o f> /
+           F L IP -U P   S A F E T Y     B
+                                         B /A   R R IE R
+\ve
+                                               Wood’s          Starting            S t a lls   (Inter)
+     »      3    :S ilim                       105 Ave Fond!Roy Uccle 1180 Bruxelles.
+                                               Tele; (322) 374.21.04,
+
+                                                           L.M.R. Works Drogenbos, Belgium.
+                                                           Tele; 376.12.77.
+                                                           Telefax; (322) 376.27.82.
+         Heaith & Safety Executive
+         Magdalen House                                          25th.July 1989.
+         Stanley Precinct
+         Bootle
+         Merseyside L20 30Z
+                                                                Your reference: HS 84/103/88.
+         England.
+
+
+
+
+         Dear Sir,
+
+
+
+
+                        Previous correspondence was addressed to Mr.                 3ut I understand he has
+         now left your department.
+
+                        My association with your office has been on the subject of Starting Stalls for
+         Race Horses and standards of safety in design to protect Jockeys, handlers and horses, and
+         procedure of operation.
+
+                         I w ill advise you when I am next visiting the U.K., with a view to showing you
+         videos of various types of Starting Stalls, highlighting good ami bad features.
+
+                         In the meantime i am enclosing a letter, specifications and plans of my design
+         for safety barriers for crowd controi at sports stadiums, which ! think you w ill find of interest.
+
+
+
+
+                                            Yours sincerely,
+
+
+
+
+                                            Edwin H. Wood.
+
+
+
+
+gNtU>S£p:
+ If. $ U * f $
+ S J > X A w irq e .
+'t 'K   ?
+                         W o o d ’s      S ta r tin g  S ta lls       (In te r ).
+                         105 Ave Fond'Roy Uccle 1180 Bruxelles.
+                         Tele; (322) 374.21.04.
+
+                                   L.M.R. Works Drogenbos, Belgium.
+                                   Tele; 376.12.77.
+The Executive,
+                                   Telefax; (322) 376.27.82.
+Health & Safety,
+Magdalen House,
+Stanley Precinct,
+Bootle,                          24/7/89.
+Merseyside L 20 30 Z
+United Kingdom.
+
+
+
+Dear Sir,
+
+
+         Since the Hillsborough disaster last April, I have been
+approached by many of my associates here and in England, asking me
+(due to my long experience in safety barriers in horse racing), to
+design a practical safety barrier for crowd control at football
+stadiums.
+         Having witnessed how quickly events can happen at any section
+of a barrier line, the only solution I could see, was to have a
+barrier that moved OUTWARDS and UPWARDS away from the crowd, when
+released by an official. Or in an emergency, the safety release
+trigger would allow the barrier to open when sufficient force was
+created by a crowd.
+         Hence the heading FLIP-UP SAFETY BARRIER, which is exactly
+what I have designed, to cope safely with crowd control at football
+grounds- The enclosed description and illustrative drawings should
+help to understand the system which will be manufactured in Belgium
+ready for delivery in England. The quoted price delivered to the
+grounds concerned, is well below the cost of producing the same
+equipment in the U.K.
+         Delivery time Ex Works Bruxelles for 6 to 8 barriers ready
+for installation, would be six weeks from date of official order.
+         I hope your technical people find the design of the equipment
+of interest, and I would be pleased to give any further information
+if requested.
+
+
+
+
+                                  Yours sincerely.
+
+
+
+
+                                  Edwin H. Wood.
+                                      Wood’ s         Starting         S ta lls       (Inter).
+                                     105 Ave Fond'Roy Uccle 1180 Bruxelles.
+                                     Tele; (322) 374.21.04.
+
+                                                   L.M.R. Works Drogenbos, Belgium.
+                                                   Tele; 376.12.77.
+10/7/89.
+                                                   Telefax; (322) 376.27.82.
+
+
+
+
+                          DESCRIPTION FLIP-UP SAFETY BARRIER.
+                                               %
+
+
+
+
+The safety barrier consists of a rectangular 'Portal' section constructed of square and rectangular
+steel tubing forming the pillars and the overhead member, pre-cut and prepared, ready for assembly
+on site. The Flip-Up Safety Barrier is made with a beam section at the top, where weight is
+not important. This section provides rigidity so as to Increase the strength at the lower part
+of the barrier, without adding extra weight to that area.
+                 The force required to swing the barrier up, Is developed from a number of open
+leaf springs mounted on the overhead transverse member.        A s ix metre barrier requires four sets
+of springs to activate it.
+                 Attached to the barrier frame and the pillar mount, are two small hydraulic cylinders,
+which control the upward swing of the barrier, when released. They also check that the barriers
+w ill not return to the ground, until the valve Is turned. Two men are required to close a barrier
+and lock It Into place.
+                 The basic locking of a barrier consists of a chassis fitted below ground level,
+which has a shaft running the length of the barrier, and mounted on suitable bearings. Attached
+to this shaft are cams, or arms, at two metre intervals along the barrier, and at one end a strong
+lever, 70cm long, controls the locking when held by a spring loaded notched arm, and is released
+only by excessive pressure on the barrier (by a crowd), which w ill automatically release It;
+or by a controlled signal from an electric activated release or Tele/Command signal.
+                 The Control Box and lever are protected from the public by the panels mounted
+on the outside, between the two portal pillars of each barrier. The control box houses the locking
+and safety release adjustment, and has provision to mount an electro/magnetic actuator, a 12
+volt battery, a Tele/Command receiver and associated components, and Ant.
+                 The mechanical locking chassis Is a completely assembled module, and Is designed
+to fit below ground level, to each mounting pillar.
+                 The safety release is a spring loaded notched arm, which holds the cam locking
+lever. The notched arm can be loaded according to the prescribed release force. The adjustment
+can be as low as 300kg or as high as 1.000kg.
+                 A il Flip-Up Safety Barriers are supplied in units of six or nine metres, to suit
+an installation plan. A three metre long static barrier is available which can be fitted between
+two adjacent barriers, where they change direction and make a short angle, which may cause
+them to touch.
+
+
+
+ FLIP-UP GATE.
+
+                A hydraulic 'Fi ip-Up Gate' is available for entrance or e x it on Sports grounds
+ for Emergency Services, O fficial cars, (or the public in an emergency).
+                The necessity for emergency services and official cars to enter or leave the grounds
+ without gate delays or obstructions is important.
+                The 'Fi ip-Up Gate' can be opened and closed by a hand held coded Command,
+ or a key switch by the gate. It can be opened and closed in less than ten seconds with
+ hydraulic power from a hydraulic accumulator, which maintains stored energy even if the electric
+ power has been cut. A small eiectric/hydraullc pump, keeps the accumulator fully charged.
+                 When a command is made to open the gate, the lower section (or panel) is swung
+ upwards, followed by the main gate frame. The action of swinging the bottom section of the
+ gate, up; reduces the arch of the main gate frame. This allows vehicles to stop within 2 metres
+ of the gate, without interference.     ------------- 1 1
+                                      Wood’ s S t a r t i n g S t a l l s            (In te r).
+™                                     105 Ave Fond'Roy Uccie 1180 Bruxelles.
+                                      Tele; (322) 374.21.04.
+
+                                                  L.M.R. Works Drogenbos, Belgium.
+                                                  Tele; 376.12.77.
+                                                  Telefax; (322) 376.27.82.
+1 0/7 /89 .
+
+                              FLIP-UP SAFETY BARRIER PROPOSAL.
+
+
+                The equipment under offer Is complete as per the attached Inventory and w ill be
+delivered ready for assembly in any European country.
+                Commissioning a id testing the barrier equipment is carried out by us after the
+barrier frame section has been assembled and mounted in the ground. This work is the responsibility
+of the client and should be executed as specified In the drawings provided. Should the client
+request supervision of the work, a charge of £123 per day w ill be made.
+                Transport and Belgium Customs charges are included in the quotation and are
+based on equipment loaded at Bruxelles and delivered (in this instance) to Manchester. Deliver­
+ies made with a mileage greater or less than Manchester, w ill have the transport rate adjusted
+accordingly.
+                A il FLIP-UP SAFETY BARRIERS are supplied in units of s ix or nine metres, to
+suit an installation plan. A three metre long static barrier is available which can be fitted
+between two adjacent barriers where they change direction and make a short angle which may
+cause them to touch.
+
+QUOTATION:
+               One only six metre barrier ready for assembly and delivered Ex Works Bruxelles
+to Manchester, U.K.
+                                                       Price:        £3.765
+
+
+                 One only nine metre barrier ready for assembly and delivered Ex Works Bruxelles
+to Manchester, U.K.
+
+                                                       Price:        £5.125
+
+
+               One static barrier, three metres long, ready for assembly and delivered Ex Works
+Bruxelles to Manchester, U.K.
+
+
+                                                       Price:        £584
+
+
+
+
+ U.K. taxes the care of the client.
+
+
+    TERMS OF PAYMENT.
+                         By an Irrevocable Letter of Credit for the amount of the contract In favour
+    of Edwin H.Wood,                       account                      Provision to be made for
+    a cash withdraw! of 40% of the contract amount. 40% against certified export documents and the
+    balance 20% paid on completion of the installation.
+
+  Note; Minimum shipment of barriers is 4 only s ix metre sets or, 3 only nine metre sets.
+  The shipment of one barrier is possible but the transport and documentation charges are increased.
+71
+
+
+                                           Wood’ s        S ta rtin g         S ta lls     (In te r).
+                                           105 Ave Fond'Roy Uccle 1180 Bruxelles.
+                                           Tele; (322) 374.21.04.
+
+
+                                                       L.M.R. Works Drogenbos, Belgium.
+                                                       Tele; 376.12.77.
+                                                       Telefax; (322) 376.27.82.
+1 0 /7 /8 9 .
+
+
+                               FLIP-UP SAFETY BARRIER INVENTORY.
+
+
+
+
+Qty.            Code         Description
+
+
+2-              J&K          Barrier mount pillars with base plates.      4m long.
+1-              L            S ix or nine metre barrier, painted & ready for mounting. 3m wide.
+1-               1           Overhead frame member with mounting brackets & hardware.
+1-              h            Mechanical locking chassis, complete with (d -e -f-g ) & hardware.
+1-              a            Locking arm.
+4 or 6          c            Leaf springs & hardware.     (6 or 9m barriers).
+2-              n            Hydraulic braking & holding cylinders.
+
+2 or 4          Q            Ground plates with locking cam cut outs & hardware.
+
+2-              R            M-20 x 100mm specially machined bolts, plated.
+
+1-              O            Two section panels & mounting hardware.
+
+1-              b            Control box. Housing the safety release mechanism A manual control,
+
+
+Provision Is made to Install in the box (a) electro/magnetic actuator, for electric release only.
+Plus (b) which is a 2 channel digital Tele/Command receiver, which can be operated by either
+a 4 channel hand held digital unit (range 300m). Or a sophisticated self contained portable
+control unit, with a capability of up to 12 barriers, or other functions if desired.
+                 This portable control unit has been designed to provide the grounds Supervisor with
+complete control of a ll the barriers from a vantage point.         The control unit requires no cables,
+but It does have fac ilitie s to transmit coded signals to various points on the grounds.
+71
+
+                                     W o o d ’s      S ta r tin g  S ta lls          (In te r).
+                                     105 Ave Fond’Roy Uccle 1180 Bruxelles.
+                                     Tele; (322) 374.21.04.
+
+                                                 L.M.R. Works Drogenbos, Belgium.
+                                                 Tele; 376.12.77.
+                                                 Telefax; (322) 376.27.82.
+10/7/89.
+
+
+
+
+                    FLIP-UP SAFETY BARRIER ANCILLARY EQUIPMENT.
+
+
+
+
+                The basic operation of the Flip Up Barrier is mechanical with an adjustable safety
+rrelease that allows the barrier to swing up when a crowd of people create a pre-determinded
+force on the whole of the barrier. It can be as low as 300kg or as high as 1.000Kg.
+                 In order to provide means of opening any barrier by an official a Tele/Command
+system is now produced to control all the barriers remotely either by a hand held four channel
+digital unit or a CENTRAL CONTROL station.
+                 Ancillary equipment necessary to make (1) a controlled electric barrier release
+or (2) a control led remote release either by a hand held coded unit with a selection of four channels
+or (3) a portable CENTRAL CONTROL STATION which a grounds supervisor can operate from a
+vantage point during an emergency. The Central Control station is self contained and requires
+no cables. It has 10 channels and by push button selection cert control each barrier individually,
+up to a range of 1.000 metres.
+
+
+QUOTATION.
+               (1) Electro/Magnetic Actuator and mechanism,
+                   12 volt re-chargeable sealed battery and associated circuitary.
+
+
+                                                         Price ;          £ 220 .
+
+               (2) Remote Tele/Command system with four coded channels*. as part of (1).
+                   consisting of a dual channel receiver (bands 4 to 8) a complete module with
+                   antenna and associated cables, ready to be fitted to the barrier contol box.
+
+
+
+                                                         Price ;          £385.
+
+                  One Tele/Command hand held coded unit for operation with (1) and (2)
+                  This unit has a selection of four channels and a range of 300 metres.
+
+
+                                                         Price ;          £95.
+
+               (3) Central Control station for use with (1) and (2) is quoted with a ten channel
+                    selection but has a capability of 100 channels.
+                    The Central Control unit is 25cm x 20cm x 12cm and weighs 2.5 Kg.
+
+
+
+                                                         Price ;          £685
+U.K. taxes the clients care.
+-■iust A.
+
+
+
+
+                                                             x                    sid e
+
+
+       STATIC
+
+
+
+
+                             pj          RTTTTH
+
+
+                                                                                                                       i
+
+
+
+
+                                                                                                                                                  V*-,
+                                                                                          I INI —F I E L D    V IE W       FOUR         SAFETY            B A R R IE R S .
+
+                                                                                          manual  l o c k i n g with a u t o m a t ic s a f e t y r e le a s e .
+                   Wood’ s S t a r t i n g          S ta lls           (Inter).           ELECTRIC OR REMOTE DIGITAL TELE/COMMAND.                                  O rig in al a Renvoyer au Deposant
+                   105 A ve Fond'Roy U ccle 1180 B ru x e lle s .                         MO CABLES BETW       EEN OFFICIAL SUPERVISED AMD BARRItH LINE.            du ia Propriete industriele.
+                   Tele; (322) 374.21.04.                                                                                                                           No. 31.05.89.29460.
+
+                               L.M.R. Works Drogenbos, Belgium .
+                               Tele; 376.12.77.
+                               T e le fa x ; (322) 376.27.8Z. _C;4 |
+
+
+            F -L IP -U P   SAFETY            B / \ R R IE R
+              FRONT ELEVATION
+                                                                                              FRONT ELEVATION
+
+
+
+
+                                                                               P 01
+                                                                              ■H i           t
+                                                                              \w    m
+                                                                              m m m .
+                                                                               |W H 9 i
+                                                                              Im m m
+                                                                              w   Bi
+                                                                              inoaencK
+                                                                               m    a m
+
+
+                                                                                -                               ^ a * -        .   ;?i
+                                                                                                                ■:   .    ..             -
+       Y \o   »<j *«=>   Sta* ting        t «.-t« 5 r
+                                                    -> (I r i t e r )
+       105 Ave Fond'Roy Uccle 1180 Bruxelles. «
+       Tele; (322) 374,21.04,
+                                                       v,
+                                                            -
+                                                                ~
+                                                                *
+                                                                        0
+                                                                                     PUBLIC SIDE
+                    L.M.R. Works Drogenbos, Belgium,
+                    fete; 3/6.12.77.
+                    Telefax; (322) 376.27.82.
+                                                                        Original a Renvoyer au Oeposant
+                                                                        du la Propriete Industrieie.
+F L IP -U P       IAFETY         BARR 1ER                               Mo, 31.05,89.29460,
+                                          S K o o d 's    S ta r t In o           S ta lls            C ln te rJ
+                                          196 A ye ttw d B m l* x W     1*80 S a K « ll® s *
+M                                         tctc: tit»» 3*S,S»«.«*.
+Mu. SUMMWila,
+                 FRONT ELEVATION                      I .MLB. tS oriis S to p * * * * . S t i f l e
+                                                       iet«; 3M.I.2.JJ,
+                                                       l«eta»; B2?»
+
+                                                                                    jji|g
+
+
+
+
+                                                                                                  Z    j
+
+
+
+
+                    MANUAL 10CKIN G/TEIE-COMMANO RELEASE,
+
+
+                                                                                                           ' \ \   \
+
+
+                                                                                                      *
+
+                      jg||^<Sjll|j|pjll
+
+                                          111
+
+
+
+
+                PiAM BARRIER
+S ! « t
+                                                                                 S P R .IH O   }
+
+
+
+
+                                     B A w V .E rt t.P
+
+
+
+                                                                      HOLDING
+
+
+
+
+                Wood’s          Starting S t a l l s        (inter)
+                185 Ave Food'Roy Uccle 1180 Bruxelles.
+                                                                                                    b a r r ie r   down
+                Isle; (322) 374.21.04
+                          L.M.R. Works Orogenbos, Belgium
+                          Isle; 376.12.77
+                          Telefax; (322) 376.27.82
+
+          F L IP -U P   SAIFETY BARRIEjj
+
+
+                          Origins) a Rettvoyer m Bemsml
+                          du la Pfoprteie industriele
+                          no.
+                                                                                PILLAR
+
+
+
+
+                                                                                                   CAM
+                W o o d 's         S I r i r l Ir« f,i S l o i t s       (Ir U o r ).
+                105 Ave l ond’ttoy Uccle 1180 Uruxcllns.
+                I ole; (322) 3 /4 .2 1.04.
+
+                                                            tnjiyuim.
+                              ( . M i l , Woik*; Ooywilios, Ifelfllum.     ,
+                               lolc; 3 /0 ,1 ? ,/? .
+                              lolcfnx; (32?) 3/15.27.82
+
+
+       >- L i P - U P    S A P Ij'T Y        B /X R R U -R
+
+
+
+
+ I   aVv s
+
+
+
+
+                                                  llpipf
+
+
+
+
+^ n it « u
+        RtftttS,P
+
+
+
+
+                                                               \ sx
+                                                             '?SMt:
+
+
+
+
+                    Orlfllmt n ftanvoycr t\u tteposant
+                    d»t la Propriety liviUKlrlole„
+                    No. 31.05.09.29460.
+

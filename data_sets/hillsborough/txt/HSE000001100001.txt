@@ -1,0 +1,1331 @@
+                                                                        SEATING
+                                                                                         SIGHTLINES
+                                                                                        CONVERSION OF
+                                                                                          TERRACING
+                                                                                         SEAT TYPES
+
+
+                                                                                          $
+                                                                                          :y                    *   i?»if teclinplpgy ”
+.o f                                         ;1<1S'); ? '• ' 5' *'■'%          <! •■:           l^rmg     *              a«!y!«:€5 ® c^-uf
+
+^1?         i :1 ■. •■                                        '■ U i f } ; v        '      ..    -   liiiits IIN -;     **   iiM '’i l l f j i i !                 :-
+
+       5C % -■          ■■'.                                     r ir § |-; ;                              ** ■%f\i-%S S y | K 5^, *         «'-<nnmf:^ r p n «;:■
+
+|-HJ < ;■.'■■•■, A,.;      ' w ,r> : ■" ;l-- .'* ‘ ri $ &
+
+                               ■'   n f>:l               ^
+
+
+
+
+                                                                                                                                                            43J'
+          $ * i;«i§i¥«^BEt# terrace                                                                                 S iM le fe
+
+k &
+                  ::'C0!
+
+iy S ” 5 W ! f 5                             ■
+if                                  * Hitt
+r                                       .systeiiis                                              * feasibility studits • lust
+fm im m * ^                                                         aiSflstw s- * €«iitract terms * Sef.pl mh?rv '
+f                                                  . «* ? |p a b I ^ S ! ^ '- ;PSI«?s ® f u i i t s i l f c ■* i8?««3pv;P ;/•■■•'■'■ -
+
+
+
+
+                                                              FOOTBALL STADIA
+                                                              ADVISORY DESIGN
+                                                                  COUNCIL
+ I 645.41:
+ ! 725,826
+     VF
+                 SEATING
+           SIGHTLINES
+     CONVERSION OF TERRACING
+           SEAT TYPES
+
+
+
+
+                                     C o n trib u to rs
+                                    Rod Sheard
+                                  Ernest Atherden
+                                   Tony Sherratt
+                                          E d ito r
+                                     Simon Inglis
+                    T e c h n ic a l E d ito r a n d I l lu s t r a t o r
+                               Maritz Vandenberg
+Si        © T h e F o o t b a l l St a d ia A d v is o r y D   e s ig n   C o u n c il
+
+y     W   in c h ester   H   ouse,   259-2 6 9 O      ld   M arylebone Ro a d ,           FOOTBALL
+                               Lo n d o n N W 1 5 R A                                    ASSOCIATION
+           Contributors
+
+           Introduction-                                                         I CONTENTS
+1.0        What are viewing standards for seated spectators?                     7
+1.1        How are sightlines calculated?
+1.2        ‘C’ Values
+1.3        Angle of rake
+1.4         Riser heights
+
+2 .0       How can existing terraces be adapted for seating?                    10
+2.1        Every case is different
+2.2        How can terraces be reprofiled to provide good sightlines?
+2 .3       Ground conditions
+2 .4       How will the conversion affect capacity?
+2 .5       Numbers v. comfort
+2 .6       How will the conversion affect the layout of gangways?
+2.7        How will the conversion affect the layout of turnstiles and exits?
+2.8        Conversion costs
+
+3 .0       What seat dimensions are required?               --------------------- 13
+3 .1       The seatway, or clearway
+3.2        Seating row depth
+3 .3       Useful seat depth
+3.4        Seat width
+
+4 .0       How many seats can be installed between aisles?                      15
+4 .1       Current guidelines
+
+5.0        W hat types of seating are available?-------------------------------15
+5.1        Bench seats
+5.2        One-piece seats without backs
+5.3        One-piece seats with backs
+5.4        Tip-up seats
+
+6 .0       What types of seat frame are available?------------------------ 17
+6 .1       Top tread or nose fixed seats
+6.2        Tread or floor fixed seats
+6 .3       Riser fixed seats
+6 .4       Tread and riser fixed seats
+
+7.0        What materials and finishes are advised?------------------------ 18
+7.1        Seat materials
+7.2        Seat frame materials
+7.3        Seat frame finishes
+7.4        Durability of finishes in different locations
+7.5        Fixings
+
+8 .0       What colour seats should you choose?-------------------------- 20
+8 .1       Stability
+8 .2       Cost
+8 .3       Colour mixing
+
+9 .0       What flame retardancy standards are required?--------------- 20
+9 .1       Current standards
+9 .2       Design factors
+
+1 0 .0      Are there any other factors to consider?-                            21
+                                                                                       For ease of reference, a checklist of the
+10 .1       Seat strength
+                                                                                       main points in this publication appears
+10.2        Drainage
+10.3        Ease of cleaning
+                                                                                       on page 23
+10.4        Vandal-proof fixings
+10.5        Ability to number seats
+                                                                                       For information on how the FSADC can
+10 .6       After sales service and maintenance contracts                              help you contact professional advisors,
+10.7        Press box seating                                                          seat manufacturers and suppliers,
+10 .8       Comfort and event usage                                                    see page 24
+10 .9       Retractable and demountable seating
+1 0 .1 0    Costs                                                                      For information on future FSADC
+10 .11      Football Trust grants                                                      publications see page 24
+10 .12      Schemes for Football League clubs
+                                         The FSADC would like to thank members o f its Architects’
+                                         Working Pa,rty for assistance in compiling this booklet:
+                                         Geraint John (FSADC and Sports Council), Terry Ward
+                                         (Husband Design Group) and Stuart Wallace (Miller
+                                         Partnership). Additional contributions were made by B ill
+                                         Gilson, Duncan MacLean and Jay Parrish. The Courwil is
+                                         particularly indebted to the following for their specialised
+                                         contributions to the three main sections:
+
+                                         Sightlines: R od Sh ea rd Dip Arch ARIBA ARAIA is a
+                                         partner with the Lobb Partnersh ip. He was architect for
+                                         Watford’s Stanley Rous Stand, in 1986 and Twickenham ’s
+                                         South Stand in 1981. He has also designed a number o f major
+                                         qmndsta.vds, stadia,, racecourses and sports facilities in
+                                         B ritain and overseas (including Silverstone, New Delhi and
+                                         Kuala Lumpur). Other commissions ham taken Sheard to _
+                                         sports and recreation centres in Jersey, Goa, UAE, Australia
+                                         and Taiwan. A regular speaker and writer on aspects o f
+                                         stadium design, he has also been involved with, the IAI(S
+                                         European Stadium working party, particularly on matters o f
+                                         crowd safety. Examples o f his award winning work ham been
+                                         exhibited at the Royal Academy o f Arts, and Sheard is now a
+                                         member o f the FSADC’s Architects’ Working Party.
+
+                                         Conversion o f terracing: E rn est A th erd en Dip Arch RIBA is
+                                         Senior Partner withAlherden Fuller. Awarded the Rome
+                                         Scholarship in Architecture in 1960 he spent time in Italy
+                                         studying the noted stadia o f Pierluigi Nervi, before designing
+                                         his first grandstand at Manchester Racecourse in 1961. In
+                                         1963 Atherden began the first phase o f Old Trafford’s redevel­
+                                         opment (in which he was largely responsible for incorporating
+                                         the first executive boxes a t a European football ground), and
+                                         remains closely involved with the stadium to this day. He has
+                                         also designed stands for Wolves (1980), Tottenham (1981) and
+                                         Liverpool (1991), and has overseen safety work at Liverpool
+                                         and Everton. In 1986Atherden was appointed by Wembley
+                                         Stadium to undertake refurbishment o f the stadium. He is also
+                                         a member o f the FSADC’s Architects’ Working Party.
+
+                                         Seat types: Tony S h e rra tt BSc represents the British
+                                         Association o f Spectator Equipment Suppliers (BASES), a
+                                         trade association allied to the B ritish Sports and Allied
+                                         Industries Federation. Widely experienced in the manufacture
+                                         and design o f stadium seating, he is Managing Director of
+                                         Iiille Auditorium Seating Limited, based near Warrington,
+                                         and during the last 17 years has been involved at over 30
+                                         football grounds. A constant advocate o f quality seating,
+                                         Sherratt most recently oversaw the installa tion o f more than
+                                         40,000 seats a t Twickenham and Lords.
+
+ ------------                             The Football Stadia Advisory Design Council was established
+FI O\ JO\ JT1URr VAT  JJ SITADT
+                  J J IJ
+                                   A
+                          kJ 1 XXLVIX
+                                         in August 1990 on the recommendation o f Lord Justice Taylor
+                                         ^      pm d ed j ointiy by fjie Football League and the Football
+ A T W T Q n i T V TW QTPAT               Association. Its aim, in publishing booklets such as this and
+A I ) V llO U J a I   JJJu O lvX L N         by developing further research, is to encourage improvements
+                  n   r \ T T ~ \ T H TT in standards and a greater awareness o f stadium design. For
+                          [J       ( j | I j more information about the FSADC please refer to page 24.
+Welcome to the first in a series o f FSADC information booklets
+on specialised aspects of stadium design for football
+   As no-one in the the industry m il need reminding, seating is
+                                                                          INTRODUCTION
+one of the principal issues facing football throughout Europe
+du ring the 1990s, and while it is not for the FSADC to comment
+upon the current debate surrounding the issue, the Council 'is
+fully aware o f the difficulties many Football League clubs face
+in implementing the Taylor Report1.                                              1. Inquiry by Lord
+    A League survey conducted in early 1991 found that some                      Justice Taylor into the
+852,000 seats w ill be required by the 92 clubs in order to con­                 Hillsborough Stadium
+vert their grou nds to all-seaters. Countless more seats w ill no                Disaster, Final Report,
+                                                                                 HMSO Cm 962,
+doubt be needed in the non-League sector.                                        London, Januaiy 1990
+    Yet even before the Taylor Report’s publication in 1990 the
+ratio o f seats:standing places was already changing, largely
+owing - it is true - to the reduction in terrace capacities, but also
+to an increase in the number o f seats provided.
+    This is particularly true among First Division clubs. In Dec­
+ember 1990 seats fo m ed an average o f 51.5% o f capacity in the
+First Division, compared with 41.6% for the same clubs in 1982.
+    Comparative figures show a m e in the Second Division from
+23% in 1982 to 34.5% in 1990, in the Third Division from 19%
+ to 29%, and in the Fourth Division from 14.3% to 23%.
+     The provision of more seating raises a number of other issues,
+ not least the need at many grounds to build new multi-tiered
+ stands to maintain reasonable capacity levels and the require­
+ ment to cover seats placed on existing terraces. Both these issues
+ w ill be tackled in forthcoming FSADC information booklets.
+    Apart from the obvious problem o f funding the installation of
+ seats, there appear to be two further dilemmas.
+    Firstly, the FSADC recognises that for many clubs there is a
+ conflict between the need to provide as many seats as possible -
+ so as not to lose capacity - and the need to provide comfortable
+ seating. Compromise is inevitable, but it should only ever be as
+  the result of considered judgm ent by professional advisors.
+     Uncomfortable or poorly installed seating is less likely to
+ receive the approval o f supporters, and may even contribute to a
+ higher level o f damages and ill-behaviour, whereas experience
+ suggests that the most hardened sceptic can be won over by the
+ provision o f a comfortable, unhindered view o f the action.
+     Secondly, experience shorvs repeatedly that although adopting
+ cheap solutions for seating might seem attractive in the short­
+  term it w ill ultimately prove to be a false economy. This applies
+  not only to the choice of seat itself but also to the seat frame, its
+ fixin gs and the preparation o f the seat tread.
+     This first booklet therefore seeks to guide clubs, architects and
+ other interested parties through the basics of three main aspects
+  o f the subject:
+            • viewing standards for seated spectators
+            • the conversion o f terradng to seating
+            • an examination o f available seat types
+     Each section has been written by experts in the field, taking
+  into amount the logistical problems facing clubs, but at the same
+  time recommending, wherever possible, that high standards be
+  achieved,
+     For easy reference a summary of recommendations appears on
+ page 23, follo wed on page 24 by information on how the FSADC
+  can help with farther advice.
+     Both the FSADC, and BA SES - which represents the seat
+  suppliers - hope that the information in this booklet will be of
+   value to clubs in all sectors o f football, League and non-League,
+  and welcome any enquiries, comments or suggestions for this, or
+  any future publications.
+1.0 WHAT ARE VIEWING STANDARDS FOR
+    SEATED SPECTATORS?
+It goes without saying that every person          racecourses, where hats are often worn, the
+attending a football match should be able to      ‘C1value is sometimes increased to 150mm
+enjoy an unobstructed view of the event he        or even 200mm to ensure good sightlines.
+or she has paid to see. Unfortunately in          But at a cricket ground, where the action
+many cases that is an elusive goal, given         seldom comes close to the stands, a ‘C’
+the stadium infrastructures we have inherit­      value of 90mm to the outer area of the play­
+ed from previous generations.                     ing field might be acceptable. This is
+   However, there can be no excuse for instal­    because we have a tendency to tilt our
+ling new seating which does not meet mini­        heads backwards slightly as the action
+mum viewing standards. By this, we do not         moves closer towards us, thus reducing the
+mean the removal of physical obstructions.        distance between the centre of the eye and
+   Viewing standards in this case refers to       the top of our head to only 90mm.
+the ability of the seated spectator to see a        At a football match the action moves to all
+predetermined focal point (on the pitch) over     parts of the pitch, so ideally every football
+the top of the head of the spectators sitting     stadium would be designed to provide a ‘C’
+immediately in front. This viewing standard       value of 120mm to all parts of the pitch.
+is often referred to as the 'sightline'.             But, as Diagram 2 (see next page) illus­
+   (Note: Sightlines should not be confused       trates, a higher ‘C’ value has consequences
+with ‘viewing distances’, the measurement         for the rake (or angle) of the stand and its
+of how far the spectator is from certain          height, a particular problem for larger stadia,
+parts of the pitch. These will be examined in     especially multi-tiered designs. As a result,
+forthcoming FSADC information booklets.)          in some areas of large stadia it is difficult to
+   It is patently self-defeating to invest in     achieve a ‘C’ value greater than 60mm.
+high-quality seating if spectators cannot see        Diagram 3 (page 9) shows how bringing
+the game fully and in comfort. And yet false      the touchline nearer to a stand, while main­
+calculations have often been made by inex­        taining a 'C' value of 120mm, affects the
+perienced architects and builders, some­          height of the stand.
+times at great cost to the clients and
+considerable irritation to the supporters.        1.3 Angle of Rake
+  The FSADC therefore strongly advises that
+clubs employ experienced professionals for        The angle of rake is the measurement of
+these important calculations, and that             how steeply or gently the stand or terrace
+computer analysis is the best way to               slopes down towards the touchline, and
+perform the task accurately2.                     since this is an important element in              2. The FSADC is
+                                                  creating good sightlines it is worth under­        compiling a register
+1.1 How are sightlines calculated?                standing. We will, however, be referring to        of professionals with
+                                                  the rake of stands in future FSADC publica­        experience of or
+There is a simple mathematical calculation        tions concerned with stand design.                 interest in stadium
+to work out the sightlines for seated specta­        The ideal football ground would have as         design. For details of
+tors, but it becomes complicated once one         many spectators as close to the action as          how to use the
+realises that the calculation must be made        possible, but that would entail very steeply       register, please see
+for every row of seating and for every vari­      raked stands. Italian codes of practice sug­       page 24.
+able which the design throws up, such as          gest that a stadium rake can be as steep as
+variations in the rake of the stand, the cur­     41 degrees, and rakes of over 35 degrees
+vature of a particular corner, or the height      are to be found in North American stadia.
+and depth of the concrete treads and risers.         In the UK, however, the angle of rake is
+   The basis of the calculation is explained in   determined by safety limits for staircases.
+Diagram 1 (see next page), which shows            Before its abolition the GLC set a limit of 35
+how the formula is derived from simple            degrees for stands within its jurisdiction.
+trigonometry. The essentials are as follows:         The Green Guide currently recommends a
+                                                  rake of no more than 34 degrees, but this
+1.2 ‘C’ Values                                    may be increased if additional compensatory
+                                                  measures are provided (see Green Guide3            3. Green Guide - the
+An accepted international standard of the         para. 182 pp 38-9).                                Guide to Safety at
+distance between the centre of the eye and           Rakes of more than 34 degrees can               Sports Grounds,
+the top of the head is 120mm. This mea­           induce a vertigo effect, and it is noticeable      HMSO 1990.
+surement is referred to as the ‘C’ value.         that in the steeper Italian stadia, handrails
+   Research by NASA in the USA found that         are provided in front of each seat. Shallower
+for 95 per cent of American adult males the       rakes are usually found on lower tiers, with
+distance between the centre of the eye and        the upper decks of stands being steeper in
+the top of the head is 127mm or less, and         order to accommodate more spectators
+in 5 per cent of adult males 104mm or less.       closer to the pitch with an acceptable
+  In some sporting venues, for example            standard of view.
+                                                                                                                        7
+                       Diagram 1. Viewing standards for seated spectators - illustrations of terms
+
+
+
+
+                              Point of Focus
+'C' Values
+                              D = Distance to point of focus             \z___
+• 150mm: Excellent            R = Height to point of focus           V   VALUE
+viewing standards                                                        A\
+
+• 120mm: Veiy good
+
+• 90mm: Reasonable.
+This should be the
+minimum for newly
+constructed seated
+                                                                                             RISER HEIGHT
+areas
+                                                                                               4/
+• 60mm: Below
+minimum standards,                                                            TREAD DEPTH
+only acceptable in                                                              or Seating
+certain sections of                                                            Row Depth
+very large stadia.
+Spectators will only
+be able to see
+between heads of
+people in front.          To determine the riser height required for a desired 'C' value, use the calculation
+                                                      cited on page 9 opposite
+
+
+
+
+                       Diagram 2. The effect of changing 'C' values
+
+
+
+                                                                                                  C = 150
+                                                                                                  C = 120
+                               6 metres
+                                                                                                   C = 90
+                                                                                                   C = 60
+
+
+
+
+                                   POINT OF FOCUS - typically near touchline
+
+
+                             Notice how higher 'C' values raise the level required at the rear of the stand
+  The vertigo effect in such upper tiers can         N   = (R t C) X (D ±-I) _ r                               Diagram 5.
+be lessened by reducing the number of rows                         D                                           Worked example of
+in that tier, ie. the steeper the rake, the                                                                    calculation for riser
+shorter the run of treads should be.                 Where:                                                    height
+   Diagram 4 (see below) shows how the
+height of a stand is affected by the change          N=  riser height
+in height of the first row of seats, when at         R=  height between eye and point of focus
+the same time trying to maintain a ‘C’ value         C=  viewing standard, ie. the ‘C’ value
+of 120mm.                                            D=  distance from eye to point of focus
+                                                        (typically the near touchline)
+1.4 Riser heights                                    T = tread depth, ie. depth of seating row
+
+Viewing standards will be affected by the            Using a typical set of figures (see
+riser height of each seating row. In small,        Diagram 5), this is how the calculation looks
+single-tiered stands the riser height will be      in practice. Note that this calculation must
+constant.                                          be done for every row. (All measurements in
+   In large and multi-tiered stand the riser       mm):
+heights should be varied, in order to provide
+optimum sightlines for each seat.                    N = (6 .00 0 + 120) x (20 .0 00 + 8 0 0 ) _ « nnn
+   For ease of construction designers often                            20,000                                  Note that th e figures
+divide the tier into facets (ie. several rows                                                                  R, D & T for position A
+treated as one), adjusting the riser height          therefore:   ^ _ (6,120) x (20,800) _ @qoo                are used to determ ine
+slightly between facets. The difference                                    20,000                              the riser height N for
+between each facet’s riser height may vary                                                                     position B
+by only a few mms, but the overall effect on         therefore:   N = 6 ,3 6 4 .8 - 6,0 0 0
+viewing standards can be quite significant.
+   The following calculation is used to deter­
+mine the riser height:                               therefore:   N = 364.8m m
+
+
+
+
+   Diagram 3. The effect of bringing the point of focus nearer to a stand
+
+                                                 'C = 1 2 0
+              6m       9m                                                                               9.2m
+                                                                                                    I
+                                                                                                Jfk.
+                                                                                                        7.3m
+
+
+
+
+                                                 Moving the point of focus 3m nearer the first
+            POINT OF FOCUS                       row adds 1.9m to height at rear
+
+
+   Diagram 4. The effect of raising the height
+   of the first row of seats
+                                                                                              13m
+
+                                                                                              11.1m
+             6m
+                              34 degree rake                                                  9.2m
+
+
+
+
+                                                 Raising the first row provides better viewing
+                                                 standards, but also has the effect of adding
+            POINT OF FOCUS                       to the height at rear
+                      2.0 HOW CAN EXISTING TERRACES BE ADAPTED
+                          FOR SEATING?
+                      It should be stressed that the conversion of       1. If sub-soil conditions allow - ie. the
+                      standing to seated accommodation is not            ground can bear the weight - the terraces
+                      confined simply to putting seats onto exist­       can be reprofiled with mass concrete. (See
+                      ing terraces, be they timber or concrete.          Diagram 6 opposite page).
+                      Many other factors have to be considered if
+                      the new seating is to conform with all the         2. Pre-cast concrete units can be used to
+                      necessary criteria (such as correct sight­         the same effect, but solid foundations will
+                      lines, rakes, gangways etc.)                       still be required, and there may be ‘lead-in
+                         Clubs intending to embark upon a conver­        times’ to consider (ie. the units will need to
+                      sion project of this nature should consult         be ordered in advance).
+                      with the local licensing authority (that is the
+                      authority responsible for the issue of the         3. Should the existing terrace not be
+                      Safety Certificate under the Safety of Sports      considered suitable to carry the imposed
+                      Grounds Act 1975 or the Fire Safety and            dead load of mass or pre-cast concrete, or
+                      Safety of Places of Sport Act 1987).               where the terrace is very narrow (such as
+                         There should also be an input from the          the enclosure area in front of an old stand),
+                      police and fire authority prior to any con­        or where the stand is unlikely to be retained
+                      struction work being undertaken.                   for much longer, it may be simpler and
+                         It is also important to note that in order to   cheaper to reprofile using other methods.
+                      qualify for grant aid, certain other criteria        These may include the following:
+                      must be met.
+                                                                           a. lightweight concrete: there are various
+                      • The Football Trust must be notified with         methods of producing lightweight concrete,
+                      an accurate estimate and description of            for example, creating air voids in the con­
+                      works, followed by three competitive tenders       crete, omitting fine aggregate or adding a
+                      and approval by the Trust before work              foaming agent to the mix. The most readily
+4. Details from the   starts4.                                           used method is to use lightweight aggre­
+Football Trust,                                                          gate, such as blast furnace slag or fly ash.
+Walkden House,        • The proposed scheme must fall into the
+10 Metton Street,     Trust’s designated category for funding,             b. polystyrene blocks: used more com­
+London NW12EJ.        although the conversion of terraces from           monly for building up roadway embank­
+Tel. 071 388 4504     standing to seating normally does.                 ments, this method involves creating a brick
+                                                                         or blockwork grid, filling the voids with
+                        Guidance from the Football Trust should          specially cut polystyrene blocks (thereby
+                      be sought in any event.                            reducing the dead load) then laying concrete
+                                                                         on top. It is more expensive than using
+                      2.1 Eveiy case is different                        mass concrete, being more labour intensive.
+
+                      Convenient though it would be if hard and            c. steel plates or GRP (Glass Reinforced
+                      fast rules could be laid down for the conver­      Plastic) terrace units: these can be formed
+                      sion of standing accommodation to seats,           to provide the required terrace profile and
+                      the truth is that conditions vary enormously       supported on either a temporary or perma­
+                      from one venue to another.                         nent steel substructure fixed upon the exist­
+                        The following sections seek to cover some        ing standing terrace.
+                      of the most common situations.
+                                                                         4. If the concrete is in prime condition and
+                      2.2 How can terraces be reprofiled to              the treads and risers allow the new seats to
+                      provide good sightlines?                           be bolted directly onto the existing concrete,
+                                                                         the required sightlines can be achieved by
+                      There are four basic ways to reprofile an          adjusting the height of the seating’s metal
+                      existing terrace to prepare it for seating.        underframe.
+                        Each one is primarily geared towards pro­           This is by far the cheapest method of con­
+                      viding adequate viewing standards for              verting terraces and providing good sight­
+                      seated spectators.                                 lines, but it should only be treated as a last
+                         It must be stressed that high standards of      resort or as a way of simply fine-tuning the
+                      finishing, especially when using concrete,         conversion work.
+                      are absolutely essential for trouble-free seat       Adjustment should only take place within
+                      installation and subsequent maintenance of         the comfortable seating height range.
+                      the seats.                                         BASES advises that the British Standard for
+                        Note also that because of the reduction in       seat heights is 445m m s, but it would be
+                      capacity from standing to seating, the ‘live       acceptable to vary this within the range
+                      load’ on the terrace or on the stand’s struc­      4 4 0 - 460m m s to enable sightlines to be
+  10                  tural members will also be reduced.                improved.
+  Diagram 6. Reprofiling terraces using mass concrete
+
+                                                                 Existing barrier removed
+
+
+                                            Riser fixed
+                                            tip-up seats
+             New barrier
+
+                  Existing
+                  barrier
+                  removed                                                         • - *. '               Existing
+                                                                                      ' ; -a%jji         seated
+                                                                    New seated terrace. 'r - ^           terrace
+
+
+                                                                    1-----                   Existing standing
+                                                 1---------                                  terrace
+                                   I-----
+
+                New drainage channel
+
+2.3 Ground conditions                                         2.5 Numbers v. comfort
+
+A considerable number of standing terraces                    The two would seem to be mutually
+are built on ‘filled’ ground, the result of a                 exclusive. Clubs obviously desire maximum
+’cut and fill’ process undertaken when the                    comfort levels. Ultimately a responsible
+stadium was first laid out. Other terraces                    compromise will have to be reached to
+have been formed by the dumping of ash,                       satisfy safety requirements, but it should
+building rubble, or tube excavations at some                  not be forgotten that comfortable seating is
+London venues. Some clubs with such bank­                     more likely to be favourably received (arid
+ing have found that the sub-soil conditions                   possibly even treated) by sceptics, and that
+are inadequate for remodelling or for adding                  uncomfortable spectators may not give the
+roofs.                                                        new seats a second chance.
+   The surfaces of these terraces also
+causes concern. Invariably they are covered                   2.6 How will the conversion affect the
+in weak concrete, asphalt, paving slabs or a                  layout of gangways?
+combination of materials.
+   In severe cases, prolonged neglect has                     Although the numbers will be reduced for
+meant these terraces are beyond economic                      that section of the stadium (see Section
+repair and certainly totally unsuitable for                   2.4), it is unlikely that there will be suffi­
+fixing seats upon.                                            cient access points or vomitories to serve
+   The FSADC strongly urges clubs with                        individual gangways.
+‘filled’ banks o f terracing to carry out a thor­
+ough ground investigation in conjunction
+with a Consulting Structural Engineer to                         Diagram 7. Reprofiling terraces
+determine the nature of the sub-soil and                         using concrete infill on treads
+establish the load bearing capacity.
+   Where ‘land fill’ sites have been used, a
+geo-technical expert should also be consulted
+to advise on ground contamination prob­
+lems such as methane gas or toxicity levels
+(which could have a detrimental effect on
+subsequent concrete constructions).
+
+2.4 How will the conversion affect
+capacity?
+Calculations will vary from stadium to
+                                                                                                    For riser fixing
+stadium, but from a survey of twelve recent                                                         the concrete
+conversions it has been found that new                                                              riser height must
+seats can be provided in lieu of standing at                     Concrete infill to alternate       be at least
+                                                                 s te p s to form new seating       200mm. See
+the ratio of approximately 1:2 (ie. a terrace                    terrace                            section 6.3
+holding 5 ,000 standing spectators will
+accommddate 2 ,5 00 seats).
+        Note that the provision of more access        there is likely to be an overprovision due to
+     points, such as vomitories, is preferable to     the reduction in spectator capacity.
+     the use of lateral gangways, which take up          However, the location of these facilities
+     considerably more space, thus adding to the      can be critical in establishing a satisfactory
+     reduction in capacity.                           circulation pattern for spectators, especially
+        Nevertheless, a system of lateral gang­       on large areas of terracing, where entrances
+     ways may be necessary to achieve an even         and exits are sometimes grouped in
+     distribution of spectators.                      strategic positions.
+        Each of these lateral gangways may in            It may be necessary in certain circum­
+     turn serve a number of radial gangways, and      stances to consider relocating turnstiles
+     they will need to be of sufficient width to      and exits to achieve a more even distribu­
+     accommodate the cumulative capacity of all       tion relative to the proposed seating layout,
+     spectators using this circulation route.         in order to avoid unacceptably long travel
+        Where possible, avoid a situation where       distances and reduce potential bottlenecks
+     seats are provided on one side of a gang­        and funnelling.
+     way only, as this is not an efficient use of
+     circulation space.                               2.8 Conversion costs
+        Diagram 8 (below) shows two relatively
+     modern terraces which have been converted        Because ground conditions vary so much it
+     and illustrate how radial gangways are fed       is impossible to provide an accurate guide
+     either from the front or rear.                   to conversion costs.
+        Note however that although front lateral        A Football League survey showed that
+     gangways can sometimes assist in satisfy­        among twelve clubs to have installed seat­
+     ing the Green Guide para 3 08 (which recom­      ing on former terraced areas during 1990,
+     mends walkways between the pitch and ter­        the costs (including ground preparation, new
+      race), the movement of people along this        barriers, seat purchase etc) ranged from
+     gangway during a match can lead to ill feel­     approximately £ 1 8 per seat, where basic
+      ing from spectators in the front rows.          seats were installed on existing terracing,
+        There will be more detailed information       up to £101 where a whole new turnstile and
+     concerning circulation within stadia in future   entry system had also to be provided for
+      FSADC booklets.                                 greater safety.
+                                                        The majority of costs fell within the £35 -
+     2.7 How will the conversion affect the           75 cost bracket.
+     layout of turnstiles and exits?                    Note that the Football Trust provides grant
+                                                      aid at 75 per cent o f approved expenditure,
+     The numbers of turnstiles and exit widths        up to a ceiling o f £ 7 0 per seat installation
+     should not be a cause for concern because        costs (see Section 10.11).
+
+
+       Diagram 8. Examples of lateral gangway layouts on newly converted terraces
+
+
+                    Gangway-                                                  Vomitory
+
+
+
+
+            Lateral walkway at front
+
+
+      Lateral walkway at rear                                                 Vomitory
+
+
+
+
+                                                                  Gangway
+
+12
+ Diagram 9. Illustration of terms and measurements for tip-up seats
+                                                                                                                    Seat width
+                                                                                                                    measured
+                                                                                                        4      /-'b e tw e e n
+                            i     i                                                                                 seat
+                                                   *                                                                centres
+
+                                                                     Riser height
+
+
+
+
+                                 ^    - F
+
+
+                                                                                                               Seatway
+    A Seat down dimension        D Useful seat depth                                                           or
+    B Seatway or Clearway        E Seat back overhang                                                          Clearway
+    C Tipped dimension           F Seating row depth                Seating row
+                                   or Tread depth                      depth or
+                                                                    Tread depth
+
+
+
+3.0 WHAT SEAT DIMENSIONS ARE REQUIRED?
+The Green Guide covers the subject of seat­              Note that in Scotland, different criteria
+                                                                                                             Diagram 10.
+ing dimensions on pages 39-40. While                   apply. The Scottish Building Regulations
+                                                                                                             Dimensions for
+appreciating that clubs wish to install as             (E2.63) state that in rows of up to 1 1 seats
+                                                                                                             bench seats
+many seats as is safely practical, the FSADC           with one gangway or 2 2 seats with two
+advises that certain minimum dimensions                gangways, the minimum seatway must be                Minimum seating row depth
+are too small for comfort, and fall some way           400m m . In longer rows the minimum                  recommended 700mm.
+
+below other international standards. See               increases to 500m m . (See also Section 4.)
+Diagram 9 above for an explanation of terms.
+                                                       3.2 Seating row depth
+3.1 The seatway, or clearway
+                                                       As can be seen from Diagram 9, the depth
+As can be seen from Diagrams 9 and 10,                 of the 'seating row’ is the depth of the                      Minimum seatway
+the measurement between the foremost                   terrace tread on which the seat is placed.                    recommended
+                                                                                                                     400mm
+projection of the seat (if a tip-up seat, in the         The Green Guide advises a minimum
+tipped up position) and the back of the seat           seating row depth of 610mm (which
+in front is called the 'seatway'. The Green            includes the minimum 305mm seatway).
+Guide uses the term 'clearway'. This mea­                However, the Green Guide goes on to
+surement is important for two reasons.                 recommend that for comfort the seating row
+   The seatway is the passage along which              depth should be 760mm.
+spectators and other personnel must                      BASES5 recommends the following mini­              5. BASES {British
+squeeze past other spectators. Obviously,              mum seating row depths and seatway                   Association of
+the narrower the seatway the more difficult            dimensions. (Note that the seating row               Spectator Equipment
+it is to pass by.                                      depth always includes the measurement for            Suppliers),
+   A narrow seatway also creates problems              the seatway.)                                        23 Brighton Road,'
+for the occupier of the seat, not only when                                    Row depth inc. Seatway       South Croydon,
+standing up to allow others to pass, but                                                                    CR2 6EA.
+also when sitting.                                     Bench or tractor type      700mm       400mm         Tel. 0816811 242.
+  The Green Guide recommends a minimum                 Fixed seat with back       900mm       400mm
+clearway of 305m m . For non tip-up seats,             Tip-up seat with back      760mm       305mm
+however, the FSADC recommends a pre­
+ferred minimum of 400m m                                 BASES recommends that for new
+   If installing seats with armrests, the pro­         construction, wherever the option exists,
+jection of the armrests should not lessen the          clubs aim for a row depth measuring at
+                                                                                                                                  13
+the 305mm minimum seatway measurement.                 least 760mm, and 800m m if at all possible.
+                                                                                     3.3 Useful seat depth
+Diagram 11. Sections showing how measurements can
+vary between different types of tip-up seats                                         There is a third, crucial dimension which
+                                                                                     affects the comfort of seated spectators.
+Example 1. Tip-up seat with a tipped dimension of 320mm, a                           BASES call this dimension the 'useful seat
+seat-down dimension of 500mm and a back overhang of 100mm:                           depth’. This is the horizontal distance
+                                                                                     between the back of the seat, measured at
+                                         320                               100       seat height, and the rear of the back of the
+                                                                                     seat in front (see Diagrams 10 and 11).
+          ^ — 5 0 0 — ^ ^ S e a tw a y ) ^ I      N ^ d e p t f f 3' /      ^   K-      The New Metric Handbook (ed. P.Tutt and
+                                                                                     D.Adler, Butterworth 1990) found that 90
+                                                                                     per cent of males in the 18-40 age group
+
+                                                              ¥
+                                                         e r r '.
+                                                                                     measure between 568 - 660mm from the
+                                                                                     rear of the buttocks to the front of the knee.
+                                                                                     The average measurement is cited as
+                                                                                     614mm.
+                                                                                        In order to cater comfortably for the
+                                                                                     majority of spectators therefore - and note
+
+
+                  ¥
+                                                                                     that average sizes are gradually increasing -
+                                               / _ S e a t i n g ro u t-             conditions should ideally allow for the provi­
+                                               \          depth
+                                                                                     sion of a 'useful seat depth' of at least
+                                                                                     660mms.
+                                  Seating Row Depth Seatway Useful Seat Depth           Another factor affecting the 'useful seat
+                                           625        305       525                  depth' is the height of the riser, since the
+                                           660        340       560                  position of the knees can be affected by the
+                                           760*       440       660                  height of the back of the seat in front. Riser
+                                 * FSADC recommended standard                        heights of up to 200mm or over 400mm do
+                                                                                     not usually cause problems, as the knees
+                                                                                     either fit inside the back of the seat in
+Example 2. Tip-up seat with a tipped dimension of 210mm, a                           front, or remain above it.
+seat-down dimension of 470mm and a back overhang of 70mm:                                Before purchasing, check all dimensions
+                                                                                     with the seat manufacturers because, as
+                                         210                               70
+                                                                                      Diagram 11 illustrates, the varying dimen­
+              4   7    0    Seat way ^    I         Useful seat
+                                                      'depth
+                                                                                      sions of different seat models will affect the
+                                                                                      'useful seat depth’ created on different
+                                                                                      seating row depths.
+
+                                                                                     3.4 Seat width
+                                                         c:
+                                                                                     Seat widths are often expressed in terms of
+
+
+                                         i
+                                                                                     the distance between two seat centres (see
+
+
+
+
+                  4
+                                c:                                                   Diagram 9). The minimum width, according
+                                                                                     to the Green Guide, should be 460mm if the
+                                                                                     seat has no arms. BASES adds that where
+                                                     Seating row                     seat-for-seat replacement is being consid­
+                                                       depth                         ered, a width of 450mm is acceptable.
+                                                                                       The Green Guide minimum for seats with
+                                   Seating Row Depth Seatway Useful Seat Depth       arms is 500mm. BASES consider that
+                                            625        415       555                 490mm is acceptable.
+                                            660        450       590                    Note that when calculating the length of a
+                                            760*       550       690                 row of seats, allowance must be made for
+                                  * FSADC recommended standard                       the end of row supporting posts.
+                                                                                        For example, ten seats at 460mm
+                                                                                     centres require 4600mm plus approximately
+                               (The equivalent recommendations for                    75mm (depending on type of seat chosen).
+                             seating row depths in Germany and the USA
+                             are 800mm and 762mm respectively. In                      Diagram 12. Riser heights and aisle
+                             Australia the State of Victoria stipulates a              steps
+                             seating row depth of 850mm.                                        Aisle steps
+                               There is another reason for recommend­
+                             ing a seating row depth of 760 - 800mm.                                             \
+                                                                                                                      Terrace riser
+                               Where riser heights go above 380mm,
+                             which will occur in stadia holding more than                                             ...
+                             approximately 20,000 spectators, a tread
+                             depth of 760mm or more allows two steps                                    Seating row
+                             of 190mm risers to be placed in the aisle                                 ^ depth ^
+                                                                                        1
+                             (see Diagram 12 right).
+4.0 HOW MANY SEATS CAN BE INSTALLED
+    BETWEEN AISLES?
+4.1 Current guidelines                              BASES suggest in addition that BS 5588
+                                                  Part 6 19916 should be the guide where             6. BS 5588 Part 6
+The Green Guide states in para 187: “the          escape route distances are taken into con­         1991: 'Fire precau­
+number of seats in a row should not normal­       sideration.                                        tions in the design,
+ly exceed                                           Note that in Scotland the number of seats        construction and use
+                                                  between aisles has a direct bearing on the         of buildings'. HMSO
+a. 14 where there is a gangway at one end         minimum seatway measurement (see                   1991.
+      only                                        Section 3.1).
+                                                    (It is interesting to note that this figure of
+b. 28   where there is a gangway at both          28 seats per row compares with 22 in the
+        ends                                      USA and Australia, 48 in Italy and 96 in
+                                                  Germany. In English theatres the maximum
+  The FSADC endorses these figures.               is 22 seats per row.)
+
+
+
+5.0 WHAT TYPES OF SEATING ARE AVAILABLE?
+Ideally clubs should opt for the highest          5.3 One-piece seats with backs
+quality of seat type they can afford.
+  Practically, however, it may be necessary       As with tractor seats, these can be fixed
+to install different seat types in different      directly onto the terrace tread or placed
+parts of the stadium.                             upon a metal understructure.
+                                                    They have no moving parts and are there­
+5.1 Bench seats                                   fore easier to maintain than tip-up seats
+                                                  with a back.
+Continuous bench seating without a back             However one-piece seats with backs take
+support was sometimes used to provide             up considerably more room than either
+cheap seating in British football grounds         backless or tip-up seats, requiring a 'seat­
+before the 1980s and is common at older           ing row depth' of 900mm compared with the
+stadia in Europe. It usually consists of solid    recommended 760mm for tip-up seats (see
+concrete forms or wooden planks placed on         Section 3.2, page 14).
+concrete plinths.                                   In common with tractor seats, these types
+   Nowadays, in order to qualify for current      are more likely to be stood upon by specta­
+grants from the Football Trust, bench seat­       tors, so they must be strong, but they are
+ing must have individual indents to identify      also easy to clean and are cheaper per unit.
+each seating position.
+   Modern versions, sometimes called multi­       5.4 Tip-up seats
+ple seats, are available in aluminium or
+moulded GRP (Glass Reinforced Plastic),           This is the most common form of seating in
+with, if necessary, a metal underframe            places of public entertainment and, as a
+which can be fixed directly onto the terrace.     survey of Football League clubs showed in
+This type of seating is cheap, easy to clean      1991 (see Introduction), it is also the pre­
+the actual seat (though harder to clean           ferred type of seating at major football
+around the underframe) and some would             stadia.
+argue that it is safer because it allows spec­       This is because tip-up seats take up less
+tators to step over the seats in the event of     space, are easier to clean around, and allow
+an emergency.                                     spectators, the police and first-aid person­
+   However, it is also easier for spectators      nel to pass more freely along rows, a vital
+to stand on bench seats (which in itself is a     consideration during an emergency. Tip-up
+danger) and therefore the seat material and       seats are also less likely to be stood upon
+metal frame must be more robust.                  during a game.
+Seating of this type should only be consid­          A further advantage is that individual
+ered for the cheapest areas of admission.         seats can be upgraded by the addition of
+                                                  fixed cushioning, thus allowing you to pro­
+5.2 One-piece seats without backs                 vide greater comfort without major outlay.
+                                                  Note that some manufacturers of tip-up                     J.
+Individual seats without backs - sometimes        seats use the same mouldings for both the
+called ‘tractor’ seats - are available for fix­   seat and the seat back, which can lead to
+ing directly onto the terrace tread.              lower costs and simpler replacement and
+  Sometimes an additional metalwork               maintenance procedures (although some
+understructure is necessary to achieve the        people may judge there to be a slight loss
+correct seat height.                              of comfort).
+                  Tip-up seats can be supplied either with indi­      The second type is likely to be more prac­
+                  vidual fixings or linked together using com­     tical for general stadium usage. The first
+                  mon supporting posts, fixed either to the ter­   type is not recommended because some
+                  race tread or to the terrace riser (see          safety officers may determine that the mini­
+                  Sections 6.2 - 6.4).                             mum 'seatway' of 305mm (see Section 3.1)
+                    There is a choice of three types of tip-up     be measured when the seat is in the down
+                  arrangement:                                     position, whereas for types 2 and 3 the
+                                                                   measurement is made with the seat in the
+                           1. the spectator must manually          up position (see Green Guide p.39).
+                               raise the seat after use               When choosing a tip-up seat, examine the
+                                                                   pivot arrangement for noise, ease of use,
+                           2. the seat is counterweighted to       and the materials used.
+                               raise automatically                     A plastic stop (to prevent the seat drop­
+                                                                   ping down) and a nylon pivot bush elimi­
+                           3. the seat is spring-loaded to         nates metal-to-metal contact and thus
+                               raise automatically                  reduces the chance of corrosion.
+
+
+
+
+ Diagram 13. Different seat types, frames
+ and methods of fixing
+
+
+                                                                                                 J
+
+                                                                                       C ~ _ "
+
+
+
+Front tread or
+   nose fixed-
+         seats
+
+                                                               -f T-
+
+     Tread fixed seats-
+                                                                                       c:
+
+                                                        -      J
+
+              Riser fixed seats-
+                                                                                        c:~      y
+                            Tread and riser fixed seats                T
+
+
+
+16
+6.0 WHAT TYPES OF SEAT FRAMES ARE AVAILABLE?
+The choice of seat must be made in con­           6.2. Tread or floor fixing
+junction with the choice of seat frame (ie. its
+ supporting structure).                           Tread or floor fixing is when the seat’s
+   Time, money and effort could well be saved     frame is attached directly onto the terrace
+ by choosing a type of frame which, when          floor.
+ being installed, requires the least amount of      This method has the disadvantage of mak­
+ modification work to an existing stand or        ing it harder to sweep litter from under the
+terrace.                                          seat. A longer supporting seat post is also
+   Obviously space and money will be saved        required, and this must be sufficiently
+ by installing rows of seats on linked frames     strong to withstand the pressure of specta­
+ rather than using individual frames for each     tors pushing the seat from behind.
+ seat, but if the terrace on which the seating       It has also been found with tread or floor
+ is being installed is curved or angled some      fixed seats that the actual fixings are sus­
+ individual frames or short-run linked frames     ceptible to corrosion where poor drainage
+ will be necessary.                               allows water to collect on the terrace floor.
+    Diagram 13 on the opposite page shows            This is a particular failing where older, or
+ how different seat types can be supported        poorly maintained terracing is not upgraded
+ and fixed in the following ways:                 before seats are installed, or where new
+                                                  concrete has been laid unsatisfactorily.
+6.1 Front tread fixing
+                                                  6.3 Riser fixing
+Front tread fixing is when the seat pan is
+attached directly to the leading edge of the      This is the preferred method for fixing tip-up
+terrace's concrete tread.                         seats. In this case the seat frame is bolted
+  Seats can also be shaped to hug the nos­        to the riser of the terrace, leaving the floor
+ing of the terrace.                               clear for spectators to step back into and for
+  A concrete step of up to 400mm high is          litter clearance. However, you can only use
+required to provide a comfortable sitting         this method of fixing if the terrace riser is
+position, but lower heights can be supple­        sufficiently high - ie. a minimum of 160mm
+mented by the addition of a shallow support­      for wood risers and 200mm for concrete.
+ing understructure.
+  This type of fixing is most commonly found      6.4 Combined tread and riser fixing
+in the sunnier climes of Southern Europe
+and Latin America, where the stadium ter­         Where terrace risers are not quite high
+races were already designed for spectators        enough for riser fixings alone, for example
+to sit directly upon the concrete.                between 150-200mm in concrete, there is a
+Note that front tread or nose fixed seats         compromise version available whereby the
+require a ‘seatway’ of 400mm compared             seat fixings are attached to both the riser
+with 305mm for tip-up seats. (Section 3.1).       and the tread.
+
+
+
+
+                                                                                                    17
+7.0 WHAT MATERIALS AND FINISHES ARE ADVISED?
+For the seat, its supporting frame and its       maintenance' varying from 1- 20 years,
+fixings, a careful choice of materials is        dependent on location.
+strongly advised. You should take into             There are three recommended finishes:
+account how much wear and tear seats in
+certain parts of the stadium are likely to       1. Electrostatically coated nylon powder
+suffer, how exposed the seats will be to the
+elements, and whether it is cost-effective in    2. Hot dip galvanising to BS 729
+the long-term to opt for the cheaper types.
+   Less robust seating may cost less but         3. Electrostatically coated nylon powder on
+subsequent unit replacement and ongoing             grit blasted, hot-dipped galvanising
+maintenance problems may soon wipe out
+the intitial saving.                               Finishes 2 and 3 should be specified
+   The material of the seat frame and its        where weathering is likely to occur. Finish 1
+finish are more important than the material      could be used at the rear of stands, where
+of the seat itself. Choosing high quality fin­   the seats will be more sheltered from the
+ishing can extend the life of the metalwork      elements.
+by up to five times, and it is far cheaper to      Finish 3 is the most expensive and should
+replace the seat than the metalwork. High        be carried out to BS 729, using high quality
+quality, well maintained frames may last for     steel. The nylon coating adds resistance to
+2 0 years or more, whereas it is almost          U.V. rays, acid rain, salt and heavy impact.
+certain that the seats and backs will need       (An equivalent to nylon coating is acceptable
+to be replaced within that period.               providing it is shown to be both technically
+   The durability of the seat itself depends     sound, using the accelerated weathering
+on the material chosen.                          test to BS 5466 Part 1, and it forms a bond
+                                                 to the metalwork which will not peel off if its
+7.1 Seat materials                               surface is broken.)
+                                                   In both cases, check to find out if a
+The principle materials available for modern     means of economically maintaining the
+seating are Polypropylene (the most com­         metalwork is available,
+mon), Polyethylene, Polyamide (Nylon), PVC         Note that cheaper finishes are more sus­
+and GRP (Glass Reinforced Plastic).              ceptible to cracking, chipping, rust formation
+   However, many football and sports             and peeling, and are much harder to repair.
+grounds still use wooden seating extensive­
+ly, and in a few cases metal seating.            7.4 Durability of finishes in different
+   Table 1 opposite offers a brief summary of    locations
+the advantages and disadvantage of each
+material.                                        The geographical location of your stadium
+                                                 will affect the durability of the seat frame.
+7.2 Seat frame materials                         The weather in inland locations, for
+                                                 example, will be less damaging to the
+These are invariably metallic, usually fabri­    metalwork than in humid, damp, polluted or
+cated steelwork, although cast aluminium is      coastal regions.
+available at a premium price. Technological        Minimum guarantees to first maintenance
+advances have resulted in the development        of five years on plastic/nylon-coated metal­
+of moulded plastic seat frames, and it is        work, eight years on galvanised metalwork
+possible that in time these will become          and ten years on nylon-coated galvanising
+widely used. At present however the FSADC        should be expected.
+is unable to comment on the durability or
+performance of this material.                    7.5 Fixings
+
+7.3 Seat frame finishes                          The seat frame should be bolted to the con­
+                                                 crete with rustproof fixings. Stainless steel
+Apart from the material, the most important      bolts and fastenings are preferable. They
+factor is the finish, because this can seri­     add little to the cost but considerably
+ously affect the long-term durability of the     enhance the seat’s long-term appearance
+seat structure.                                  and ease of maintenance.
+  A number of finishes for metallic frames         Note also the advice in Section 6.2 re:
+are available, with 'life expectancy to first    corrosion of fixings.
+TABLE 1. SEAT MATERIALS
+In the UK, the most commonly used material for stadium seating is Polypropylene with UV (ultra-violet stabilizers) and absorbers (see first column).
+A number of other materials available on the market are compared in the table below, compiled by BASES. Wood and metal are still used, but have
+been excluded as they are both uneconomic when compared to plastics. It should be noted that the figures given for the 'raw material cost factor'
+are for information only, and do not necessarily reflect unit costs to the buyer.
+
+
+                          U.V                 U .V./Fire Retardancy    U.V. High Density         Polyamide                  P.V.C
+                          Polypropylene       Polypropylene            Polyethylene              (Nylon)                    Compound                   G.R.P.
+
+Raw material cost
+factor                    1.0                 1.4                      1.2                       3.2                        1.8                        approx. 7.0
+
+Availability              Readily available   Limited                   Readily available         Limited                   Limited                    Limited
+
+Colour Range              Very Good           Good                     Very Good                  Limited                   Limited                    Very Good
+
+Volume Manufacture        Very Good           Good                     Very Good                  Good                      Good                       Very Poor
+
+Flame Retardancy
+to BS 5 8 5 2             Ignition Source 0   Ignition Source 7         Ignition Source 0         Self-                     Self-                      Self-
+                                                                                                  extinguishes              extinguishes               extinguishes
+Reaction to low
+temperatures (-5° C)      Brittle             Brittle                   Very Good                 Very Good                 Very Good                  Very Good
+
+Reaction to high
+tem peratures(+50° C)     Very Good           Very Good                 Good                      Very Good                 Very Good                  Very Good
+
+Reclamation and
+Recycling                 Easy                Moderate                  Easy                      Moderate                  Specialised                None
+
+W eatherabllity           Good                Good                      Good                      Very Good                 Very Good                  Very Good
+
+Deformation               Recovers            Recovers                  Poor                      N/A                       N/A                        N/A
+
+Number o f years in
+production                27                  04                        20+                       19                        01                         25+
+                      8.0 WHAT COLOUR SEATS SHOULD YOU CHOOSE?
+                      This is obviously a matter of choice, but it         non-standard colour may lead to delays in
+                      maybe worth considering a few technical quali­       delivery and a premium being charged.
+                      ties and different approaches.                       Similarly, you may have to pay more if you
+                                                                           order smaller quantities.
+                      8.1 Stability                                          Members of the Football League should
+                                                                           refer to Section 10.12 to find out more about
+                      Every manufacturer has its own range of              the League’s plans for bulk purchase.
+                      colours, but some colours are more suscepti­
+                      ble to fading when exposed to ultra-violet rays      8.3 Colour mixing
+                      (bright sunlight) and other extremes of weath­
+                      er, such as acid rain.                               Apart from the now common use of multi­
+                         Two factors which affect colour stability are     coloured seats to spell out a club’s name, dif­
+                      the colour pigment itself and the level of addi­     ferent seat colours can be used to differenti­
+                      tives in the mouldings.                              ate between blocks in the same stand. This
+                         To ensure that the best colour pigments are       may be considered a useful aid for ticketing
+                      chosen for the location in question, light fast­     and signage. A disadvantage of this system is
+                      ness (ie. resistance to fading) is measured on       that if the stadium is only half full the different
+7. For further        what is called a Blue Wool Scale7. A perfor­         colours detract from the overall impression of
+details refer to      mance of 7 or 8 on this scale should indicate        the stadium.
+BS 1006: B01C 'Blue   that a colour pigment will not fade too rapidly.        In several large stadia in Europe and the
+Wool Standards'.         To ensure that the colour will last even          USA the same seat colour has been provided
+                      longer - although no guarantees can be given         throughout, to create a unified, and often dig­
+                      because conditions vary, even within the             nified image overall. Very often this single
+                      same stadium - additives are necessary,              colour is a neutral one - such as grey - so that
+                      namely UV stabilizer and absorber.                   the spectators provide the colour, rather than
+                         Full strength colours (eg. red, blue, black       the seats. Very light colours, however, can be
+                      and green) are more stable than pastel varia­        hard on the eye if there is only a small crowd.
+                      tions (such as pink and sky blue). Vet sky blue         In Sweden, where attendances can be low,
+                      has excellent anti-glare characteristics under       one stadium has used random colour seats
+                      floodlight.                                          (mainly blue, orange, red and yellow), which
+                         Clubs who include black in their team             uncannily gives the speckled appearance of
+                      colours may be interested to note that of all        a full stand, even when few people are in
+                      the colours, black is the best for colour stabili­   attendance!
+                      ty and for weatherability. Yellow and orange            Note also the comments of one manager
+                      are not good for stability.                          who complained that during reserve games,
+                                                                           from his position in the dug-out he was unable
+                      8.2 Cost                                             to distinguish his own players against the
+                                                                           backdrop of the empty seats, since the seats
+                      Costs vary according to colour. Choosing a           and players’ shirts matched exactly.
+
+
+                      9.0 WHAT FLAME RETARDANCY STANDARDS
+                          ARE REQUIRED?
+                      Unfortunately Fire Officers interpret flame          choice of colours is limited in these materi­
+                      retardancy to different standards throughout         als and there is a price premium to pay.
+                      the country, so clubs should be sure to                 Note also that some fire officers believe
+                      establish what standards apply before pur­           that the use of flame retardant additives
+                      chasing seats. Note also that not only the           means that when the seat does finally ignite
+                      material of the seat but also its design             it can produce dangerous toxic fumes,
+                      affects the standard of flame retardance.            including bromides and carbon monoxide.
+                                                                           Check with your Fire Officer first.
+                      9.1 Current standards
+                                                                           9.2 Design factors
+                      A minimum Ignition Source 0 of BS 5852
+                      Part 1 should be acceptable, especially              Some manufacturers feel that when it
+                      where the seats are attached to concrete.            comes to testing for flame retardance the
+                        Upholstered seating should comply with             design of the seat itself is at least as criti­
+                      Ignition Source 5 of BS 5852 Part 2 , as             cal as the material used. Double skin forms
+                      stated in the Green Guide, para 184.                 (ie. blow moulded) with rounded or smooth
+                        There are plastic products available which         edges are, according to this view, preferable
+                      meet the higher flame retardancy standards           to those with plain edges. Again however,
+                      of Ignition Source 5 of BS 5852 Part 2 and           there is a price to pay. Blow moulded seats
+                      which also have colour stability against UV          are 50-100% more expensive than conven­
+  20                  rays and weather. At present, however, the           tional injection moulded seats.
+10.0 ARE THERE ANY OTHER FACTORS TO CONSIDER?
+So far we have covered the main points           10.6 After sales service and
+which must considered before purchasing          maintenance contracts
+seats for outdoor stadia.
+  Here are some other factors worth taking       Most reputable manufacturers will offer
+into account.                                    these, or will be able to advise groundstaff
+                                                 on seat maintenance. Clubs should also
+10.1 Seat strength                               consider how many extra seats and parts to
+                                                 keep in reserve, especially if non-standard
+There may be a minority of spectators who        colours have been chosen.
+abuse the new seating you install in certain
+parts of the stadium. It is vital, therefore,    10.7 Press box seating
+that you feel confident that your chosen
+seat model has been rigorously tested.           Several ranges of seats available can be
+   It has been learnt from experience that       supplied with integrated writing shelves or
+manufacturers' tests tend to be unrealistic      tablets for use in the press box.
+and do not simulate the heavy usage to              However, before purchasing it would be
+which stadium seats are often subjected.         worth contacting your regular press box
+One standard to look for is that of the          users to determine how much space they
+Furniture Industry Research Association          may need for computers, monitors, tele­
+(FIRA) 8.                                        phones etc.                                     8. FIRA, Maxwell
+  Seats deemed ’suitable for use in a stadi­        It is hoped to deal more fully with media    House, Stevenage,
+um environment’ should have satisfied            facilities in future FSADC publications.        Herts, SGI 2EW.
+FIRA’s test strength requirements, which are        Note that the requirement for a minimum      Tel. 0438 313433
+based on BS 487 5 Part 1 to rating 5,            seatway of 305mm applies in this case to
+                                                 the distance between the rearmost projec­
+10.2 Drainage                                    tion of the shelf and the front of the seat
+                                                 (see Diagram 14 below).
+Fixed seats exposed to the elements will
+collect rain water unless provided with drain      Diagram 14. Press box seating options
+holes or shaped in such a way as to drain
+automatically.                                                                   Seatway must be min. 305mm
+
+10.3 Ease of cleaning
+                                                               Free-standing shelf
+The fewer fixings, the easier it will be to
+clean under the seats. But the finish of the         Integrated
+seat itself is also a factor. Textured sur­               shelf
+faces will be harder to keep clean, while
+smooth surfaces can show scratchmarks.
+
+10.4 Vandal-proof fixings
+                                                                           cr.
+No seat is totally vandal proof, but obviously
+the fewer vulnerable points the better.
+  Self-tipping seats make it harder for the
+seat to be stood upon. A robust frame under
+the seat shell will also minimise damages.
+  It may be a false economy to provide
+cheaper seats in those areas of the stadium      10.8 Comfort and event usage
+where vandalism may occur.
+                                                 Upholstered versions of standard seats are
+10.5 Ability to number seats                     widely available, while some clubs may wish
+                                                 to upgrade their existing standard seating
+In order to qualify for Football Trust grants,   with the addition of back pads and cushions
+individual seats must be identifiable. It is     or full covers.
+therefore important to use a system of             Armrests cannot usually be added to exist­
+numbering which will be easily read and,         ing standard seats.
+being within a recessed disc, will stand up         If the stadium is to be used for events
+to regular wear and tear.                        other than football - for example, pop
+  No painting of numbers should be               concerts, American football, public gather­
+required with a modern seating system.           ings - it may be worth considering higher
+  Check also if the seating system has any       grade seats in sections where customers
+facility for row numbers or letters to be        will sit for a longer period than 90 minutes,
+attached to the end seat, if required.           perhaps at higher admission prices.
+                                                                                                                 21
+10.9 Retractable and demountable                 ceiling of £70 for each individual seat
+seating                                          installed. This includes the cost of the seat
+                                                 and any other approved work required for
+This is unlikely to be an issue for most         installation.
+clubs. However, retractable and demount­           ‘As with all projects related to the imple­
+able seating is widely used in North America     mentation of the Taylor Report, the Trust
+and in indoor arenas, and clubs may find it      expects clubs to take into account the
+worthwhile to investigate their use, for exam­   requirements of the Football Licensing
+ple for placing over athletics tracks, or in     Authority and the advice of the FSADC.’
+front of stands being rebuilt.
+   Note that the addition of temporary seat­     10.12 Schemes for Football League
+ing must not compromise the viewing stan­        clubs
+dards of existing stands or terraces.
+                                                 Football League clubs should already be
+10.10 Costs                                      aware of a plan to bulk-purchase certain
+                                                 items, including seats. For further informa­
+It is impossible for the FSADC to provide a      tion on this scheme contact:
+comprehensive or accurate list of prices for
+different types of seating, but a list of sup­   Football League Services Division,
+pliers of stadium seating is available from      Stadium House,
+the FSADC office. See page 24 for details.       Two Rivers,
+                                                 Station Lane,
+10.11 Football Trust Grants                      Witney,
+                                                 Oxon. 0X8 6BH
+The Football Trust has made the following        Tel. 09 9 3 776633.
+statement on its policy concerning grants for    Fax. 0993 706505
+seating:
+   'The Football Trust offers grant aid on       Help towards the cost of converting terraces
+seating, as with all its grant schemes, on       to seated areas (although not the cost of
+the lowest approved tender received.             the seats themselves) is also available from
+   ‘That does not mean, however, that only       the Jewson Family Enclosure Grant scheme.
+the cheapest solutions should be sought. It      To qualify for aid, the seated area must be
+is for the football club to select appropriate   part of a family enclosure, and the building
+companies from whom to secure quotations.        materials must be purchased from a branch
+   ‘The Trust expects that in making their       of Jewsons. For further details contact:
+choice clubs will have regard to the quality
+and value for money represented by the           Steve Sutherland,
+product.                                         Commercial and Marketing Dept.,
+   'The Trust wishes to see good quality,        Football League,
+comfortable seating installed at football        Winchester House,
+grounds. For this reason it has set its level    259-269 Old Marylebone Road,
+of support for approved expenditure on           London NW1 5RA
+sealing at 75% and, following an investiga­      Tel. 071 224 9944
+tion by its nominated surveyors, fixed a         Fax. 071 723 2792
+                                                                 ‘>1
+
+
+
+11. SUMMARY OF POINTS
+1. Viewing standards                            ease of cleaning, but require risers of
+                                                160mm (wood) and 200mm (concrete).
+• The FSADC recommends these be calcu­          • Tread fixed seats harder to clean and sus­
+lated by experienced professionals. • A 'C'     ceptible to corrosion. • Front tread fixing
+value of 120mm is ideal, with a minimum of      needs riser of up to 400mm or shallow
+90mm for new constructions. • The angle of      understructure.
+rake should not exceed 3 4 “. • Riser heights
+need to be carefully calculated for each row,   7. Materials and finishes
+according to the given formula.
+                                                • Material and finish of seat frame far more
+2. Adapting terraces for seating                important than material of seat. • Most
+                                                common seat material is Polypropylene with
+• Consult Football Trust and local licensing    ultra-violet stabilisers and absorbers. Nylon,
+authority first. • Choose method of reprofil­   PVC and GRP more durable. • Most durable
+ing, taking into account ground conditions      but costliest finish for seat frame is electro­
+and budget. • Expect terrace capacity to be     statically coated nylon powder on grit-blast­
+halved, but don't ignore comfort.               ed, hot-dipped galvanised metal.
+• Vomitories, gangways, turnstiles and exits    • Nylon coating onto steel may be accept­
+may need to be adapted. • Costs are likely      able for seat frames in a dry environment
+to fall between £35-75 per seat.                (not humid or damp) and under cover, away
+                                                from sunlight and rain. • Seat frame fixings
+3. Seat dimensions                              should be stainless steel.
+
+ • Seatway, or clearway, should be minimum      8. Colour
+of 305mm for tip-up seats, 400mm for fixed
+seats. In Scotland these dimensions may         • Colour stability against UV rays and weath­
+need to be increased. • Seating row depth       er extremes is affected by the choice of
+should be at least 760mm for new construc­      colour pigment and the level of additives in
+tions. • Different models of tip-up seats       the moulding. • Colour should be fade-resis-
+have different dimensions, thus affecting       tant to 7 or 8 on the Blue Wool Scale.
+the resultant seatway dimension and useful      • Non-standard colours are more costly.
+seat dimension. • Average male in sitting
+position measures 614mm from front of           9. Flame retardancy standards
+knee to rear of buttocks. BASES recom­
+mends therefore a minimum useful seat           • Minimum ignition source 0 of BS 5852
+dimension of 660mm. • Seat width should         Part 1 should be acceptable, or if uphol­
+be minimum 460mm (or 490mm with arms).          stered ignition source 5 of BS 5852 Part 2.
+                                                • Always check with local Fire Officer first.
+4. Numbers of seats per row
+                                                10. Other factors
+• No more than 14 if gangway at one end
+only, 28 if gangways at both ends.               • Seat should conform to the Furniture
+                                                Industry Research Association (FIRA)
+5. Seat types                                   Strength Test, based on BS 4875 part 1 to
+                                                rating 5 - suitable for use in stadium envi­
+• Tip-up design with counterweighted seat,      ronment. • Seat should drain automatically,
+plastic pivot and nylon pivot bush prefer­      be easy to clean, have vandal-proof fixings
+able. • Bench seats only suitable for cheap­    and a numeral indent. • The range of seat­
+est areas of admission and must have indi­      ing should be adaptable for use in press
+vidual indent to qualify for grant aid.         boxes, and where necessary, to offer com­
+• One piece seats with or without backs         fort for other event usage. • Grants are
+economical, but former take up more room.       available from the Football Trust, and for
+                                                Football League clubs from the Jewson
+6. Seat frames                                  Family Initiative Scheme. • Football League
+                                                clubs may wish to consider the Bulk
+• Linked frames cheaper than individual.        Purchase Scheme being run by the FL
+• Riser fixed seat frames preferable for        Services Division.
+
+
+
+
+                                                                                                  23
+                          FOOTBALL STADIA
+                          ADVISORY DESIGN
+                              COUNCIL
+          '...to provide an authoritative source of knowledge for all those involved in the design
+                                        and construction of stadia...'
+                    Report of th e Technical Working Party for Lord Justice Taylor’s Final Report
+
+     Serving the needs of football
+     In August 1990 the Football Association and the Football League combined to implement
+     Lord Justice Taylor's recommendation that an Advisory Design Council be set up. The
+     Council's aim is to encourage higher standards of stadium design, promote wider
+     knowledge and foster research
+       The Council's Chairman is Gwilym Roberts CBE, F.Eng., Chairman of Acer Group Ltd
+     and a past President of the Institution of Civil Engineers.
+       The five members are: Prof. Leonard Maunder OBE, F.Eng. (Dept, of Mechanical
+     Engineering, University of Newcastle), Dr. Chris Nicholson PhD, C.Eng, MIM (Deputy
+     Director at the Research & Laboratory Services Division, Health and Safety Executive),
+      Geraint John (Chief Architect & Head of Technical Unit for Sport at the Sports Council),
+     Alan Butterfield FRICS, FIHT, ACI Arb (Senior Partner at George Corderoy & Co) and
+     Simon Inglis (journalist, author and member of the Football Licensing Authority).
+       The Council's Executive Officer is Christine Gausden, MCIOB, to whom all enquiries
+     should be made at the address below.
+       The Council is privileged to draw upon the expertise of experienced individuals who
+     form both its Architects Working Party and Engineers Working Party. Both groups will play
+     a leading role in the drawing up of future publications, as will numerous other experts
+     and organisations whose support for the FSADC's aims is greatly appreciated.
+
+     Publications
+     If you would like to receive notice of all FSADC publications, or would like to order
+     further copies of this booklet, please apply in writing to the Executive Officer. Cheques
+     for £1 2 .5 0 (inc. p&p) should be made payable to the FSADC.
+        Forthcoming titles for 1991 include the following topics:
+
+      • Feasibility Studies      • Communication Systems • Toilets       • Roofing • Steelwork
+          • Turf Systems         • Police Facilities • Appointment of Professional Advisors
+           • Stadia Costs        • Planning Regulations and Applications    • Legal Issues
+
+     The FSADC is also drawing up a selective Bibliography, comprising references to major
+     publications, journals, papers, standards and regulations relating to football stadia and
+     their design. Publication is planned for Autumn 1991.
+
+     Register
+     The FSADC is in the process of compiling a register of consultants, manufacturers and
+     suppliers with experience of, or interest in, all stages of stadium design, listed under
+     their areas of specialisation. Extracts from this register will be freely available, on
+     request, to all members of the Football League and Football Association. Outside bodies
+     will be asked to pay a search fee.
+        If you wish your company to be included on the FSADC register and have not yet
+     received registration forms, please contact the Executive Officer at the address below.
+
+                       The Football Stadia Advisory Design Council,
+                    Winchester House,259 - 269 Old Marylebone Road,
+                                     London NW1 5RA
+                                   Tel. 0 7 1 2 2 4 9944
+24                                  Fax. 071 723 2792
+

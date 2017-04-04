@@ -1,0 +1,1202 @@
+CHAPTER 2
+
+
+Video evidence about the disaster
+
+
+1.    At the heart of many of the allegations about the disaster which I have heard
+      over the last few months has been the suggestion that video evidence of what
+      happened has been distorted or concealed. Several different possibilities of
+      this sort have been put to me. Their common theme is that, had the full video
+      evidence been available, the culpability of the police would have been even
+      clearer than it already is. That might have meant inquest verdicts of unlawful
+      killing rather than accidental death, or led to criminal prosecutions of senior
+      police officers, or both. It is said that the police themselves concealed the
+      video evidence to hide the true facts.
+
+2.    I have found that there is considerable confusion and misunderstanding about
+       the video evidence of the disaster. Before moving on to discuss the
+       allegations in detail, I think it is necessary to explain what video cameras were
+       operating on the day and what has happened to the tapes that were made.
+
+3.    The police and Sheffield Wednesday FC were each operating their own
+      separate video systems at the ground. BBC cameras were also present to
+      record the game.
+
+4.    The West Midlands Police team which investigated the disaster used footage
+      from all these sources to create a ‘compilation tape’, lasting about 2 hours,
+      giving an overall picture of the disaster. This tape was shown both to Lord
+      Taylor’s Inquiry and to the jury at the Inquests.
+
+
+The Club CCTV System
+
+5.     Sheffield Wednesday had 19 fixed closed circuit (CCTV) cameras which were
+       trained onto the various turnstiles around the ground. There were 19 CCTV
+       monitor screens in the club’s Control Room showing what these cameras
+       photographed - the club’s Control Room was inside the South Stand, just off
+       the players’ tunnel (and had no direct view of the pitch). The club recorded
+       the output of all these cameras. One of the club’s CCTV cameras showed the
+       Leppings Lane turnstiles, in particular the turnstiles A to G through which
+       spectators going to the Leppings Lane standing terrace would normally come.
+       It also showed the exit gate, Gate C, which the police opened to relieve the
+       pressure outside these turnstiles.
+
+6.     The pictures from this camera were recorded on tape JH2. The West
+        Midlands police officers investigating the disaster took custody of this tape
+        and used footage from it in the compilation tape.
+7.     As well as the 19 screens linked to their own CCTV system, Sheffield
+       Wednesday’s Control Room also contained a further screen, linked to the
+       police CCTV system. This allowed people in the club Control Room to see
+       what was being shown by any of the five police CCTV cameras. But they
+       could not record these police pictures.
+
+8.     The club also had a mechanism which automatically monitored the number of
+        spectators passing through the turnstiles.
+
+9.     There were three people in the Sheffield Wednesday Control Room as the
+        disaster took place. One was Mr Lock, the club’s security officer. Mr Lock, a
+        former policeman, gave evidence both at Lord Taylor’s Inquiry and at the
+        inquests. He left the Control Room at about 2.45 p.m., at about the time when
+        Gate C at Leppings Lane was opened briefly so that police could eject
+        somebody. He returned just after the kick-off.
+
+10.    The second person in the Control Room was PC Guest, who has since died.
+        He was police liaison officer with the club, and gave evidence at Lord Taylor’s
+        Inquiry. The third was Mr Houldsworth, the club’s video technician.
+
+
+The Police CCTV System
+
+11.    The police had five fixed CCTV cameras situated around the ground. The
+       police Control Box contained one screen for each of these five cameras.
+       The screens are shown in photograph 48 in Appendix 2 (48 was the number
+       this photograph was allocated when it was used as an exhibit at Lord
+       Taylor’s Inquiry). I need only be concerned with cameras 1, 2, 3 and 5.
+       Police camera 4 was situated outside the ground, on Penistone Road, at the
+       far end of the ground from Leppings Lane where the tragedy occurred.
+
+12.    Police camera 1 was mounted on the rear of the West Stand. It looked out
+       from the ground towards the Leppings Lane turnstiles, in particular
+       turnstiles A-G through which the standing spectators would come. It could
+       also show Leppings Lane itself, part of the area outside the turnstiles, and
+       part of the concourse between the turnstiles and the West Stand. Its
+       pictures were in black and white.
+
+ 13.   Police camera 2 was mounted on the South Stand and it commanded views
+        all round the ground. It was in colour. Police camera 3 was also mounted
+        on the South Stand, but was nearer the Penistone Road (Kop) end, where the
+        Nottingham Forest supporters were standing. It was in black and white.
+
+ 14.   Police camera 5 is the important one from the point of view of my scrutiny.
+        It was mounted near the scoreboard at the south east comer of the West
+        Stand and was the closest one to the police control box. It provided views
+        of the West Stand and the West Terraces. It was in black and white.
+15.   A plan which formed Appendix 1 of Lord Taylor’s interim report showing
+      the five police cameras with their numbers forms part of Appendix 2 to this
+      Report. All five police cameras were operating continuously from about 12
+      noon to 17.20 on the 15 April. They were under the control of PC Trevor
+      Bichard. All five could zoom and pan. (PC Bichard in fact referred to
+      camera 2 as camera 3, and to 3 as 2. I have adopted Mr Houldsworth’s
+      numbering of the cameras).
+
+16.   Additionally in the police Control Box were two video recorders, each
+      linked to a monitor screen showing what it was recording. The recorders
+      could be operated in one of two ways. They could operate on ‘auto­
+      sequence’, in which mode the recording would move around the five police
+      CCTV cameras at pre-set intervals. Alternatively, the operator could
+      override this and record output from whichever of the five cameras he
+      wanted, for as long as he wanted. The monitor screens can be seen without
+      numbers on the right in photograph 48, Appendix 2, one above the other.
+
+17.   Both of these tape recording machines could record in two ways, either in
+      continuous or normal play, or in ‘time-lapse’, recording a new still frame
+      every half second. ‘Time-lapse’ is jerky when played back, but it allowed
+      tapes to be used for longer. Police made four tapes from these two
+      recorders in the course of the day. One (TB1 - TB for Trevor Bichard) ran
+      from 12 noon to 15.04, the second (TB2) from 12 noon to 15.34. These are
+      the tapes with which we are primarily concerned. TB3 continued on from
+      TB2, and TB4 from TB1 but with a 30-minute gap. TB3 and TB4 both ran
+      up to 17.20. The reason why there was a half-hour gap between TB1 and
+      TB4 is that PC Bichard forgot, in the anxiety of the moment, to replace the
+      tape when it expired at 15.04. TB2 lasted longer than TB1 because of
+      greater use of ‘time-lapse’.
+
+18.   PC Bichard sealed the four tapes at the end of the day and handed them to
+      other South Yorkshire police officers for safe custody. South Yorkshire
+      police later gave them to the West Midlands police investigating team. I
+      have inspected the originals of tapes TB1, 2, 3 and 4. They are intact.
+      Each of the four tapes is timed throughout and there are no gaps in these
+      times. The four tapes were all made available in their entirety to Lord
+       Taylor’s Inquiry and the Coroner.
+
+
+Other video cameras operating on the day
+
+19.   The police had a hand held video camera operating from time to time
+       between 11.45 and 17.30. The tapes from this are identified as VRM1 and
+       VRM2.
+
+20.   The BBC had a number of cameras, both mounted and hand held operating
+      during the day. Tapes from these are identified as MAPI to MAP9.
+Theft of two videotapes
+
+21.    Between 4.30 p.m. on the afternoon of the disaster and 9 a.m. the next
+       morning two tapes were stolen from the club’s Control Room, which was
+       locked. One of these tapes was entirely blank (the club camera concerned was
+       wrongly placed and pointing at a wall). The other showed turnstiles 9 to 16 at
+       the Leppings Lane end of the ground, which were next to turnstiles A to G.
+
+22.    The theft of these tapes was investigated by the West Midlands Police but
+       remains unsolved. There is no proof of who was responsible for their
+       disappearance. During the course of my scrutiny I have heard allegations that
+       they were taken by South Yorkshire police officers as part of a ‘cover-up’.
+       There is no evidence for this suggestion. The loss of these tapes could not
+       have hindered Lord Taylor’s Inquiry, the Inquests, or any of the other
+       proceedings. They would not have shown anything relevant.
+
+
+The Compilation Tape
+
+23.    This tape, which lasts about 2 hours was made by the West Midlands Police
+       in conjunction with the Treasury Solicitor. It was designed to ‘show what
+       was felt to be the most important scenes and sequence of events’ (Inspector
+       Layton, inquest transcript, Day 1 page 64).
+
+24.    It consists of extracts from tapes TB1, TB2, and RJH2, together with BBC
+        footage. The tape shows scenes in Leppings Lane and at the turnstiles there
+        prior to about 15.00, and then scenes inside the stadium up to 16.44. It
+        begins with some footage of the layout of the ground which West Midlands
+        Police shot specially later on. The compilation tape was shown at the
+        Taylor Inquiry and the Inquest. It includes no scenes taken by police
+        Camera 5.
+
+
+The evidence of Roger Houldsworth
+
+25.     Mr Houldsworth was the technician responsible to the club for the working
+        of the club and police CCTV systems. The Family Support Group have
+        presented him to me as having evidence that what the police said about the
+        capacity of their CCTV system and what it showed on the day was false.
+        During my scrutiny I have considered a number of written statements from
+        Mr Houldsworth and oral evidence which he gave me at an interview with
+        him.
+
+ 26.    First there is a statement in writing which Mr Houldsworth made on 16 May
+        1989 to Sheffield Wednesday’s solicitors, which appears in Appendix 3, Part
+        1. In this he described the police and club CCTV systems. He said that
+        on the day of the disaster he had been called to deal with a fault on police
+camera 5. He says he rectified the fault and the camera then worked OK.
+He then described his experiences in the club Control Room on the day, in
+particular what could be seen on the club screen showing turnstiles A-G
+(recorded on tape RJH2) and the monitor screen from the police system,
+which was showing output from police camera 1, including the influx of
+supporters through Gate C at 14.52. He continues
+
+       “A t that point in time I realised, from the numbers already displayed
+       on the monitor as having entered from the Leppings Lane turnstiles,
+       that a dangerous situation was being created. I left the room and
+       went down the players ’ tunnel to the pitch and ju st as I did so the
+       Referee stopped the match as I recall I looked over to the West
+       Stand area and I saw fans climbing over the fence and my first
+       thought at that time was that it was a pitch invasion, and the match
+       had been stopped fo r that reason. ”
+
+Finally in this statement Mr Houldsworth deals with the two tapes missing
+from the Club Control Room. I have found an exact transcription of this
+statement by Mr Houldsworth in the West Midlands Police computer records
+(HOLMES) of their investigation. It is dated 27 May 1989.
+
+There are two written statements by Mr Houldsworth dated 28 April and 5
+December 1989 to West Midlands Police. These statements are concerned
+with the tapes which went missing from the club Control Room. They are
+not material. Thirdly there is a transcript of an interview which Mr
+Houldsworth gave for a Yorkshire Television ‘First Tuesday’ programme
+about the disaster, broadcast on 6 February 1990. This is at Appendix 3,
+Part 2. It adds very little to his 27 May 1989 statement. But he makes it
+clear that it was the scenes from the club camera pointed at turnstiles A to G
+and police camera 1 of supporters coming through Gate C that caused him
+concern, together with the numbers of spectators shown on the clubs
+monitors as having already come into the ground.
+
+Fourth, in an affidavit sworn on 25 November 1996 Mr Houldsworth
+exhibits, as ‘GH2’ certain comments on the evidence which PC Bichard and
+PS Goddard gave to Lord Taylor’s Inquiry and the Inquest, and the evidence
+of PC Ryan given at the Taylor Inquiry. I set out the material parts of this
+document in Appendix 3, Part 3. The most important statement here is
+numbered 1, where Mr Houldsworth says
+
+        7 was able to see what the police could see on their monitors and I
+        specifically remember checking to see the state o f Pens 3 and 4 when
+        the order was given to open the gate. I could see very clearly that
+        the pens were fu ll to the point o f overcrowding. ”
+
+Mr Houldsworth says in this affidavit that he disagrees with the police
+evidence that the pictures from their Camera 5 were less than perfect or that
+      the zoom capacity on cameras 2 and 5 were not sufficient for clear
+      identification of spectators.
+
+31.   Finally, I interviewed Mr Houldsworth on 14 October 1997. He repeated
+      the points I have just mentioned. The transcript of his evidence is at
+      Appendix 3, Part 4.
+
+
+The submissions and allegations made by the Hillsborough FamilY Sunport
+Group.
+
+32.   Two of the most important issues both at Lord Taylor’s Inquiry and the
+      Inquest were
+
+      a) whether the police in the control box, and particularly the two senior
+      officers Mr Duckenfield and Mr Murray, realised that pens 3 and 4 were
+      already full when the order was given to open Gate C so that a dangerous
+      situation would arise in them if a large number of supporters were to enter
+      them through the tunnel in a short space of time; and
+
+      b)   if they did not realise this, whether they should have done so.
+
+33.   In the light of this, Mr Alun Jones QC, Counsel for the Family Support
+      Group made a number of submissions to me. These were
+
+       1.      that the police blamed their failure to see the overcrowding in pens 3
+       and 4 on the fact that Camera 5 was defective (paras 12 and 23 of Counsel’s
+       written submissions of 27 September 1997). Their argument is that what
+       the police said about this was deliberately false, and that this is shown both
+       by Mr Houldsworth’s evidence that Camera 5 was working perfectly and by
+       the ‘discovery’ that the police tapes show footage taken by camera 5, which
+       demonstrated that it was working (written submissions para 46(viii); oral
+       submissions page 12 lines 15 to 22);
+
+       2.      that the evidence from the video tapes of what was filmed by Camera
+       5 was deliberately suppressed and concealed, presumably by the South
+       Yorkshire and/or West Midlands Police, because it would have revealed the
+       falsity of the police claim in submission 1. This would, prima facie, be a
+       perversion of the course of justice (written submissions paras 52 and 55 and
+       56);
+
+       3.     that the Coroner failed properly to pursue the question of the
+       ‘missing footage’. He ought to have summoned West Midlands police
+       officers to explain its disappearance (written submissions para 52);
+
+       4.    that PC Bichard, PC Ryan and PS Goddard all gave deliberately false
+       evidence that camera 5 was not working properly and that cameras 5 and 2
+       were not good enough to show distress on the faces of those in pens 3 and 4
+       (written submission para. 46); and finally
+
+       5.      that Mr Houldsworth in the club Control Room could see and
+       appreciate from the screen monitoring the police cameras (in particular
+       Cameras 5 and 3) that pens 3 and 4 were overcrowded and that a dangerous
+       situation was likely to arise because of the influx through Gate C. The
+       allegation was that this evidence was withheld from the jury, presumably
+       deliberately.
+
+34.    The first and second submissions are particularly serious. If they are made
+       out they might affect the verdict of accidental death and the decision of the
+       DPP not to prosecute for manslaughter. The third submission is a grave
+       allegation against the Coroner even taken on its own. If it is to be taken in
+       conjunction with the first and second submissions it could affect the verdict.
+
+35.    On its own the fourth submission would not affect any of the prior
+       proceedings. But consideration would have to be given to prosecuting the
+       officers concerned (Bichard, Ryan and Goddard). If the last submission is
+       made out, the failure of the police to appreciate that a dangerous situation
+       had arisen because pens 3 and 4 were already full to their safe capacity when
+       gate C was opened could be further criticised if Mr Houldsworth realised
+       this simply from seeing scenes depicted from Cameras 3 and 5.
+
+36.    I must examine these five submissions in detail.
+
+
+Submission 1
+
+37.    The central allegation here is that the police blamed their failure to see the
+       overcrowding in pens 3 and 4 on Camera 5 being defective when in fact it
+       was not. In his oral submissions to me Mr Jones accepted that this was
+       crucial to the Group’s submissions in relation to the video evidence
+       (transcript 30.9.97 page 12). The submission involves the proposition that
+       the police in the Control Box were saying that they could not see with their
+       own eyes through the windows of the control box the state of the terraces,
+       but were dependent on camera 5 which was not working properly.
+
+38.     M r Jones originally put this submission to me with respect to the evidence
+        given by police officers both at the Taylor Inquiry and at the Inquest. As to
+        the former, it was said:
+
+               “[Lord Taylor] accepted the police evidence that they were unable to
+               see the terraces [were overfull by 2.50] because o f the faulty camera”
+               (written submissions para 12).
+
+ 39.    This is not correct. Lord Taylor made the following findings:
+       “ [The police box] has windows commanding views across the pitch
+       and straight along the west perimeter fence ” (Interim Report para
+       49).
+
+       “The cameras [operated in the police control box] have a zoom
+      facility to close in on any point o f interest. Specifically there were
+       good camera views o f the west terracing         ” (para 50 and see also
+       para 170).
+
+        “It should have been clear in the control room where there was a
+       view o f the pens and o f the crowd at the turnstiles that the tunnel had
+       to be closed” (para 231).
+
+       “[Officers in the control room] had a direct view (of pens 3 and 4)
+      from an elevated position through their window.... In the event pens
+       3 and 4 became more and more crowded, surges took place, fans
+       were shouting and signalling distress. None o f this was seen or
+       recognised in the control room” (para 244).
+
+At paragraph 38 of the written submission, after references to the evidence
+of PC Ryan, PC Bichard and PS Goddard, none of whom said that defective
+pictures from Camera 5 was the reason why they failed to realise that there
+was a dangerous situation, Counsel said that
+
+        “Chief Superintendent Duckenfield .... did not refer to any faults with
+       the camera system. On the 25 May 1989 at page 129 he said that he
+       did not use this zoom facility but mainly (my emphasis) looked out o f
+       the window” .
+
+The implication is that Mr Duckenfield was saying that he was partly reliant
+on the cameras. This does not accurately represent his evidence which was:
+
+       Q. “Did you use or was the zoom facility used at all to have a close
+       look at the situation in pens 3 and 4 once it was apparent somebody
+       was climbing over the fence? - A. Not that I am aware o f sir, that
+       may have been the case, but I looked through the window ”.
+
+There was abundant evidence at Lord Taylor’s Inquiry that the police in the
+control box had a good view out of the windows (Inquiry transcript, day 8
+pages 10 and 47, day 9 page 35, day 20 page 13, day 18 pages 76 and 88 -
+references are to evidence by Duckenfield, McRobbie and Goddard). PC
+Ryan said he very rarely looked at the TV monitors because they were over
+his head (day 18 page 59). Superintendent Murray never suggested that he
+was reliant on the TV cameras. He had an excellent view out of the
+window.
+
+In the course of his oral submissions to me Mr Jones accepted that the
+submission was not correct so far as the police evidence at the Taylor
+Inquiry was concerned (page 15). But he submitted that the effect of the
+evidence of those officers at the inquest was quite different and supported
+the submission that they had lied about Camera 5 being faulty.
+
+In my judgement this submission is equally ill-founded. So far as Mr
+Duckenfield is concerned, he never said anything about a faulty camera 5,
+still less that that was the reason he failed to appreciate the overcrowding.
+Although he pointed out that he was standing behind the officers seated at
+the front of the Control Box and did not have quite such a good view
+through the windows (inquest day 68, page 59) he never suggested he could
+not see the terraces sufficiently to form a judgement. On the contrary at
+(Day 69 page 23C-E) he said:
+
+        Q. “You had the vision from the Control Box, which we have all
+       been to, through the windows? - A. Yes.
+
+       Q. You also were able to see the video cameras, the cameras which
+       were showing the terrace? - A. Yes.
+
+       Q. They have a zoom facility, do they not, as fa r as the Leppings
+       Lane terrace goes? - A. Yes, they do.
+
+       Q. You still say that in that period between 2.52 and 3 o ’clock you
+       never noticed even this huge surge into the terrace? - A. Let me ju st
+       direct you to where I was and what I was doing. Yes, I was in the
+        Control Box and I was standing towards the back o f that Control Box
+       and when you stand in the back o f that Control Box and look across
+       you have a view. As you rightly say you have the other facilities, but
+       I did not see anything untoward on those terraces from my position,
+       from my viewing position and from the angle at which I was in the
+        Control Box ”.
+
+At page 45 (inquest day 69) he gave substantially the same evidence as he
+gave to Lord Taylor, to which I have already referred. He said specifically
+he was “looking with my eyes at the scene on the terraces” - not at the
+television screen.
+
+So far as Mr Murray was concerned, he was seated in the front row of seats
+in the Control Box, on the left hand side. He would therefore have an
+excellent view out of the window. This is shown in photo 52 (Appendix 2).
+He would not be well placed to see the CCTV monitor screens, which were
+above his head. At Inquest day 67 (page 48F-49B) he said
+
+        Q. “You in the police Control Box had access to the following, didn’t
+        you? First o f all you were able to look out o f the windows to view
+        specifically the state o f the Leppings Lane Terraces? - A. Yes. Q. I
+        think everybody has visited the ground who needs to visit the ground
+        and I need not ask you questions about what you can see because we
+       can observe them, but in addition to that you have access to I think it
+       is five monitors, do you not? - A. Yes, that is correct in the Control
+       Room
+
+He was then asked about the cameras that show the terraces. There is no
+suggestion that they were not working properly; still less that that was the
+reason he failed to realise there was a danger of overcrowding. At page
+50C-D:
+
+       Q. “So you are in a position in the Control Box not only to see that
+       which you can see with your own eyes o f the terrace, but also, if you
+       so choose, to have the cameras so operated that you can look at a
+       particular part o f the terrace if you want to do so? - A. Yes, I can
+       identify, or the operator can identify, a particular part that we should
+       look at. ”
+
+Then at page 78E he says:
+
+       Q. “You were in a position from the Control Box to see the state o f
+       the Leppings Lane terraces and M r Duckenfield was too? - A. I
+       would think we could both have looked at the terraces and seen the
+       state o f them, yes. ”
+
+In further written submissions to me Counsel for the Family Support Group
+stated that Mr Murray told the inquest jury specifically that he could not see
+what was happening on the terraces because of the allegedly faulty cameras.
+They cite an answer he gave at inquest day 67, transcript page 79F.
+
+In my view this answer is taken out of context. The passage when looked at
+as a whole does not support the assertion that is made about it. Mr Murray
+was being asked about photograph C326A. This photograph appears at
+Appendix 5 of Lord Taylor’s interim report. It is a still photograph taken at
+2.59 p.m. from the North Stand looking across the Leppings Lane terraces
+towards the police box and Camera 5. The relevant extract reads in full
+(inquest day 69, page 79 D to G):
+
+        Q. “I f we can move to C326A we get an even better view o f pen 6 at
+        some five minutes later? A. - Yes.
+
+        Q. Going back to the position just before the order was given to
+        order the gates to be opened, because we know gate C was opened at
+        2.52, if one looked at the west terraces it would be clear that pen 6
+        had marked empty spaces in it? - A. From where that photograph is
+        taken, yes.
+
+        Q. Even without the photograph, the position on the photograph, it
+        must have been obvious, must it not, from your use o f the cameras
+        you had from the Control Box that pen 6 was markedly empty? That
+       was not difficult to see, was it? - A. From the views that we were
+       getting from the cameras, from the views that I could see from the
+       Control Room, it wasn’t obvious.
+
+       Q. A t the end o f the day that will be a matter o f evidence. You are
+       saying that from the Control Box with your use o f the videos, the
+       cameras, and you had the ability to look along as we have already
+       described? - A. I think you have got to look at the individual
+       cameras. I think the colour camera was unfortunately focused on the
+       problem area in the Kop and that is where it stayed until about three
+       o ’clock. The camera on the gantry next to the Control Box was
+       unfortunately not working up to its potential. I do not know how that
+       affected it but I can see from the angle that that photograph is taken,
+       326A, yes, there is a lot o f room on the front o f pen 6 but I didn ’t
+       have that view and if I had had that view it might have affected my
+       decisions
+
+It is true that Mr Murray says that Camera 5 was not working up to its
+potential. But he does not claim this as a reason for his failure to see that
+pen 6 was relatively empty. On the contrary he says that he does not know
+how that affected it. His point is that although one can see from photo 326A
+- taken from the other side of the ground - that there is a lot of room in pen
+6, that is not the view he had from the police control box. But at Day 68
+pages 26D-27B the Coroner specifically raises this question with Mr Murray
+at the instance of the jury. This very important passage runs:
+
+       Q. On the day o f the disaster were you able to monitor the different
+       parts o f the terrace at random? I think what the Jury is asking is
+       with the cameras, not with the eyes. - A. The camera that would be
+       best equipped fo r that was the one that was in the centre o f the South
+       Stand, which would show a slightly oblique picture o f the terraces
+       and the Kop. Unfortunately fo r most o f the event that was trained on
+       the problems that we had in the Kop, particularly after some
+       ejections and arrests had been made from that area. What we
+       normally use the cameras fo r is evidence gathering and you can only
+       gather and preserve the evidence o f what you are actually looking at,
+       at the time. When we foresee problems in a certain part o f the
+        Ground we will record that particular area fo r the whole o f the
+        event, and that gives us the chance to then take still photographs
+       from the video and blow them up later, and utilise them as evidence
+        and identify people who are wrongdoers.
+
+        Q. The next question is a supplemental one on that really. Did you
+        rely more on your own physical view from the Control Box or on the
+        monitors, and I think we must be talking about the terracing still
+        because you could not, o f course, see outside, could you, without
+        looking at the monitors ? A. No. We had a good view o f the
+        terraces from the Control Box. We could see the terraces, had a
+       good view o f the terraces. I probably relied more on what I could
+       see with my own eyes than anything else. I f I had seen a particular
+       problem I would have tried to get the video operator to zero in but
+       their capabilities are only as good as the actual lens, and the better
+       the lens the much more expensive they are. They seemed to be all
+       right fo r our purposes. ”
+
+I find it surprising that Counsel did not see fit to draw my attention to this
+passage. Along with Mr Duckenfield, Mr Murray was much the most
+important officer in the Control Box, since they were the decision makers.
+
+There is nothing in the evidence of PC Ryan or PS Goddard which supports
+the submission that the police could not see what was happening because of
+faults on Camera 5. I will come in due course to what these officers said
+about the quality of the pictures from Camera 5.
+
+PC Bichard, of all the officers in the control room, might be expected to be
+watching the screens rather than looking out of the window, since he was the
+video operator. He was asked (inquest day 71 page 82D)
+
+       Q. “D id you see it through a window or did you see it on a monitor?
+       -A . It is very difficult to remember. The view is partially obscured
+       o f what is happening out on the terrace because o f people walking
+       across the front o f my position. I am not sure. ”
+
+I should add that Mr Houldsworth also said, in evidence to me, that the
+police would not rely on the cameras to see what was happening in the pens.
+They had a good view out of the window. (See transcript of my meeting
+with him on 14 October 1997, page 23 line 33 to page 24 line 38).
+
+The Coroner’s jury had a view of the scene. They went to the police control
+box. They could see for themselves the view which each police officer had.
+Mr Houldsworth also demonstrated the CCTV cameras to them during this
+visit, so they could see their capability for themselves.
+
+The evidence of all the police officers in the control room was that they
+could see the west terraces but they did not realise that the central pens were
+becoming dangerously overcrowded. They thought the numbers were
+normal for a big match. The matter was accurately summed up to the jury
+by the Coroner (inquest day 77, page 127 of the transcript of his summing-
+up).
+
+The submission that the police tried to blame their failure to see the
+overcrowding on a fault in Camera 5 seemed to me to be so at variance with
+the evidence given at the Inquest that I asked Mr Timothy King QC about it.
+Mr King was Counsel for the families at the inquest. He said that so far as
+he was concerned it had never been the police case that they could not see
+that pens 3 and 4 were full because their CCTV was not working correctly.
+      The issue was not whether they could see the state of the pens, but whether
+      they appreciated that they were full and what steps they took to deal with the
+      situation once Gate C was opened.
+
+59.   In his further submission put forward on 11 December 1997 Mr Knowles,
+      junior Counsel for the Family Support Group, advanced another argument in
+      support of this submission. He said:
+
+               “In his evidence to Lord Taylor Mr Duckenfield admitted that he was
+               concerned about the disparity in the numbers o f supporters in the
+               centre pens compared with the numbers in the side pens. This caused
+               him to request that a Tannoy announcement be made asking
+               supporters to move forward (Day 8, p9-14)....
+
+               It is significant that the Tannoy announcement ordered by Mr
+               Duckenfield coincides with a shot from Camera 5 at 14.18.07 (shown
+               on the footage supplied by Yorkshire TV), which shows young people
+               standing in space at the front o f the Leppings Lane terraces. It
+               would therefore appear that the Tannoy announcement was made as
+               a result o f what had been observed on the video, and that Mr
+               Duckenfield was, in fact, using the cameras to assess crowd build up
+               inside the ground. ”
+
+60.   In my view this argument is not well founded. The passage referred to at
+      Day 8 p l2 referring to the Tannoy announcement relates to 14.30 (though
+      according to Lord Taylor the announcement was at 14.15 - paragraph 59 of
+      his interim report). It does not relate to 14.18 and has nothing to do with
+      the scene captured by camera 5 at that time. There was never any
+      suggestion from Mr Duckenfield that he depended on Camera 5 to see the
+      state of the Leppings Lane terraces. Indeed the contrary is the case as I have
+      already pointed out. The argument advanced by Counsel is a non-sequitur
+      even if the timing was correct.
+
+61.   In my judgement the submission that police blamed their failure to
+      appreciate the overcrowding onto a faulty CCTV camera is quite untenable.
+
+
+Submission 2
+
+62.   The allegation here is that evidence of the video tapes taken by camera 5 was
+      deliberately suppressed and concealed. It appears to be based on the
+      following propositions:
+
+               1 - that the compilation tape had no footage from Camera 5.
+
+               2 - that footage from Camera 5 had disappeared and was not
+               available at the inquest. This is based on the following exchange
+between PC Bichard and the Coroner, at inquest day 71, page 80A-
+E:
+
+       Q. The film we saw this afternoon o f the Leppings Lane end,
+       which came from what I have called camera 1, I don’t know
+       the camera number. - A. I would know it as camera 5.
+
+       Q. The one beneath or near the Police Box ? - A. Yes, sir.
+
+       Q. That scene began at about 15.02? - A. Yes, sir.
+
+       Q. Where was that camera looking before 15.02 as fa r as
+      you can recollect? - A. My recollections are that the
+      particular camera had been faulty and in fact you saw some o f
+       the problems that occurred. You were getting what is called
+      flare. It is reflection o f light coloured objects and you lose
+       the picture. The camera was not really being used as much as
+       it would normally be because o f the sub-standard picture. It
+       was just left in position. That is why the picture never really
+       moved at all because it was set and left in that position.
+
+       Q. That is what I am coming to. Given that it started at
+       15.02, let us assume I am right on that time, was that the time
+       you moved it and located it and then left it to take that shot? -
+       A. No, that probably would have been done before that.
+
+       Q. Would it have been recording before that? - A. Yes.
+
+       Q. So there ought to be a film o f it, prior to that? - A. I
+       would have thought so, yes.
+
+       Q. O f that same scene? - A. Yes.
+
+       Q. I f I tell you we cannot find it would that make any
+       difference to your answer? - A. I have no idea at all where it
+       could have gone to. It was part o f the tape and the tapes
+       were all sealed up at the end o f the day. ”
+
+       (The film which the Coroner says was seen by the jury that
+       afternoon was not included in the compilation tape. The jury
+       saw it in addition to the compilation tape, in circumstances I
+       shall refer to later).
+
+3 - that between 14.18 and 14.23 there is footage taken from Camera
+5 which shows a number of fans in pen 2 of the Leppings Lane
+terraces. Pen 2 lay between Camera 5 and pen 3. The footage
+clearly shows Camera 5 zooming and panning. Prior to 1400 there
+were other scenes taken by camera 5 and recorded on tape TB2 as the
+       tape flicked from one camera to another. This footage indicates that
+       camera 5 was operating satisfactorily. It was never shown to the
+       jury. It was only discovered when the Family Support Group saw
+       the video material shown to them by Yorkshire Television.
+
+       4 - that the purpose of the ‘concealment’ was to prevent the exposure
+       of the falsity of the claim in submission 1, to the effect that the
+       reason why the police could not see the overcrowding was because
+       camera 5 was faulty.
+
+Since, as I have already pointed out, submission 1 is misconceived, it can be
+said that this submission must also fail. There would have been no point in
+the police suppressing or concealing the video evidence unless they had a
+reason for doing so. But in fact there was never any disappearance or
+concealment of video footage from camera 5.
+
+The facts are these. At the end of the day of the disaster the tapes from the
+police monitors were secured. They were made available to Lord Taylor’s
+Inquiry and appear on its exhibit list as documents 109 (TB1) and 110
+(TB2). Lord Taylor’s Inquiry had a detailed schedule of the contents of
+these two tapes. TB1 has no scenes from camera 5. It ends at 15.04.
+
+Tape TB2 is automatically switching at intervals between the five police
+cameras, including camera 5, until 1400. There is nothing of note.
+Between 14.18 and 14.23 TB2 shows scenes taken by camera 5 of fans on
+the Leppings Lane terrace. The camera zooms and pans. The police trained
+Camera 5 on this small group of people because they thought someone in
+that area had been misbehaving (though there is no sign of that on the tape).
+The schedule for Lord Taylor’s Inquiry described this scene as a ‘view of
+Leppings Lane and terraces, plenty of room in the pen in view, insufficient
+detail to identify which pen’. But it is almost certainly pen 2.
+
+Tape TB2 shows scenes from Camera 5 again from 15.02 until 15.25. This
+sequence shows supporters climbing over the fence from pens 3 and 4 onto
+the pitch. The camera, once focused on this scene, remains static. The
+sequence is in ‘time-lapse’, and is described in the schedule which the West
+Midlands Police provided for Lord Taylor’s Inquiry.
+
+The incident between 14.18 and 14.23 is referred to in PC Bichard’s
+evidence at the Taylor Inquiry (Day 19 page 45) and also in the evidence of
+Chief Inspector McRobbie (Day 20 page 20). Mr McRobbie was asked
+about his statement:
+
+        Q. “You say “Police Constable Bichard operated the camera and I
+        watched him to be able to zoom onto him which I thought was a
+        super facility fo r spotting troublemakers in the crowd. ”
+        A. That is correct sir.
+      Q. No difficulty with the picture at all? - A. Well when you say “no
+      difficulty ” it certainly brought this person closer to us than I think it
+      would have been possible fo r a Police Officer to select the correct
+      person that Control were identifying without any problem
+
+All the exhibits which the West Midlands Police had prepared for the Taylor
+Inquiry - including Tapes TB1 and TB2 - were made available to the legal
+representatives at the Inquest. The evidence required for each day was
+placed in a side room at the hearing. The rest of the unused material
+including tapes TB1 and TB2 and the schedule were kept locally at a police
+station where access was given to any legal representative who required it.
+
+I have tried to find out whether the legal advisers then representing the
+families, namely Mr Hytner QC, Mr Tim King QC, Mr Fraser and Miss Steele,
+can recall whether or not they saw TB1 and TB2. Not surprisingly after this
+lapse of time they cannot. However, I think it very likely that some or all of
+them did so. This is because they were exhibits at Lord Taylor’s Inquiry and
+they were obviously potentially important evidence. I would certainly expect
+the legal advisers to have seen the videotapes relating to the build up to the
+disaster, TB1 and 2. Mr Fraser recalls watching many hours of video footage.
+That being so, he must have looked at those tapes.
+
+I have asked the Hon Mr Justice Collins (then, as Andrew Collins QC,
+Counsel to Lord Taylor’s Inquiry) about this. He cannot recall any specific
+occasions when the families’ lawyers viewed these tapes. He told me that
+since they were exhibits and freely available, he would have expected the
+lawyers to have looked at them. I agree.
+
+None of the camera 5 scenes on tape TB2 were included in the compilation
+tape which the West Midlands Police and the Treasury Solicitors made up for
+Lord Taylor’s Inquiry. It is quite plain that no-one considered the footage
+from pen 2 at 14.18, or any of the earlier views from Camera 5 of the Leppings
+Lane terrace, to be of any help in illustrating the sequence of events leading up
+to the disaster.
+
+The footage from Camera 5 after 1502, showing fans climbing over the
+perimeter fence to get out of the fatally crowded pens 3 and 4, is also not
+particularly helpful from the point of view of illustrating what happened.
+There was much better coverage of this part of the disaster from the BBC
+cameras, so the compilation tape uses that instead.
+
+During the inquest (Day 69, page 53) the Coroner said that the jury had
+twice asked about video evidence of the terraces. He said that the videos
+(clearly a reference to TB1 and TB2) had been looked at and there was
+actually next to nothing on them because not everything was recorded.
+There was a tiny bit showing the terraces on the compilation tape, and
+another bit from 15.03 for a few minutes. He had had that ‘clipped’ and
+      would show it to the jury. He said it was of poor quality and he did not
+      think it would help very much. It became exhibit C539 at the Inquest.
+
+74.   The jury saw exhibit C539 on day 71 (transcript page 61). The footage
+      they saw was the material from 1502 onwards from tape TB2 (though
+      Sergeant Killock of the West Midlands Police incorrectly identified it as
+      coming from tape TB1). It extended only to 15.16, whereas the camera 5
+      footage on TB2 continued to 15.25. The sequence was in time lapse. I
+      have seen the original and I agree with the Coroner’s comment that it is of
+      poor quality and not much help. It is this film that PC Bichard is referring
+      to in the passage which I have cited above.
+
+75.   It is plain in my judgement that PC Bichard was mistaken in thinking that
+      there was tape from camera 5 of the same scene prior to 15.02.
+
+76.   It has been put to me on behalf of the Family Support Group that the vital
+      parts of tape TB2, namely those showing scenes taken by Camera 5, were
+      concealed from Lord Taylor, the Coroner, and the families of victims, but
+      were later on made available to the families by Yorkshire Television.
+       Yorkshire Television have kindly let me have the tapes they have, and which
+      they previously showed to the Family Support Group. They are copies
+       which they made of tapes TB1 and TB2 (also TB3 and TB4). The police
+       had given these to them to help them make their “First Tuesday” programme
+       (transmitted in February 1990). It seems to me to be a bizarre way to
+       conceal or suppress evidence to make it available to a television company.
+
+77.   In my opinion the allegation that police hid videotape evidence is completely
+       unfounded. There was no suppression or disappearance of footage from the
+       vital tapes TB1 or TB2 which were at all times, together with the schedule
+       of their contents, available to be seen by the legal representatives of the
+       families.
+
+78.   It is entirely understandable that the compilation tape contains no footage
+      from Camera 5. It would be surprising if it did, since footage from Camera
+      5 was not helpful or relevant in illustrating the causes of the disaster.
+
+
+Submission 3
+
+79.   The allegation is that the Coroner failed properly to pursue the question of
+      the ‘missing footage’. This submission is unfounded for the reasons I have
+      just explained. There never was any missing footage from the relevant
+      tapes. The two missing club tapes have nothing to do with this. The
+      Coroner dealt perfectly properly with the jury’s request to see the camera
+      footage of the terraces. He was right to regard the incident in pen 2 at 14.18
+      as irrelevant.
+Submission 4
+
+80.   The allegation is that Constables Bichard and Ryan and Sergeant Goddard
+      deliberately gave false evidence that camera 5 was not working correctly.
+      Their evidence to Lord Taylor’s Inquiry was as follows:
+
+               PC Bichard (day 19 page 43)
+
+                      Q. “We have heard that on the day in question there was
+                      something wrong with that one; is that correct? - A. For a
+                      number o f weeks we have had difficulty with the camera and
+                      they have been looking into having the camera replaced or
+                      improvements made. In fact, on the day when I arrived at the
+                      ground M r Roger Houldsworth, who is the Technical Officer
+                     fo r the Club, was in fact working on that camera to try and
+                      upgrade the picture that we were actually getting.
+
+                     Q. What was the trouble? - A. When the system had been
+                     switched on, after an amount o f time, the picture would go
+                     white - you would lose actually what you could see. We
+                     believed initially it was in relation to the lighting inside the
+                     ground but we seem to think that it may be a problem with the
+                     electrical supply to that camera.
+
+                     Q. What was the effect o f that on the day in relation to your
+                     ability to look properly at the terraces, the West terraces ? -
+                     A. On that particular day, the picture had been —the quality
+                     had been improved. It was not up to mark but it was a lot
+                     better than it had been. We were getting pictures, that is the
+                     best way o f describing it.
+
+                     Q. Could you zoom in in the normal way on to the terraces if
+                     you wanted to? - A. The actual control facilities were fully
+                     available. ”
+
+81.   PC Rvan. who was sitting in the front row next to PS Goddard and could
+      therefore not easily see screen 5 (which was overhead) said (day 18 page 53)
+      in relation to camera 5:
+
+                     A. “Roger Houldsworth, yes. He attended and came out and
+                     worked on that camera fo r some time. Quite how long he was
+                      there I do not know. He was certainly there working on it fo r
+                     some considerable time. The picture was never satisfactory as
+                     fa r as I recall that day although that was not my specific duty
+                      to look at that.
+              Q. I follow that. When you say the picture as fa r as you can
+              see was not satisfactory what was wrong with it? - A. It was
+              not as clear as you would hope the picture to be.
+
+              Q. Did that mean the zoom facility was rendered in any way
+              inoperative or less adequate than normal or ... - A. As fa r as
+              I recall the zoom was operative. It was the quality o f the
+              picture that was the problem. ”
+
+Sergeant Goddard did not deal with this point.
+
+None of this evidence from Bichard or Ryan persuaded Lord Taylor that
+there was anything wrong with Camera 5, since he made the specific
+findings to which I referred earlier in this Chapter when I was discussing the
+Support Group’s first submission (paragraph 39).
+
+At the Inquest PC Bichard’s evidence on this point is that to which I have
+already referred (paragraph 66 above). PC Ryan gave no evidence at the
+Inquest and Sergeant Goddard, who did, did not deal with this point. As
+against this Mr Houldsworth, in his statement of 16 May 1989 (Appendix 3,
+Pt 1 page 3) says that after he had made the necessary adjustments the
+camera was working OK. In his later comments (Appendix 3, Pt 3) he says
+it was working perfectly.
+
+I have interviewed PC Bichard. He told me that while he was operating a
+particular camera his concentration would be mainly on the screen relevant
+to that camera and not on the recording monitors. He said that if he was
+operating a camera to film some point of interest, he would record this. He
+also told me that after he had operated a particular camera he would
+normally leave it parked in the position where it was last focused. This is
+what one would expect. He maintained that the quality of what he was
+seeing on screen 5 was not as good as that on the other screens - he
+described it as misty or foggy - though he accepted that the footage recorded
+from camera 5 at 14.18 was perfectly adequate.
+
+An examination of tapes TB1, 2, 3 and 4 does show that Camera 5 was
+being used (in the sense of moved about) less than the other cameras.
+Before 14.00 the scenes recorded from Camera 5 were static, as the
+recording flicks from one camera to another, though the position of the
+camera is moved so that three different views of the West Stand are shown.
+After 14.01 the only time Camera 5 is zoomed, panned, or changes position
+in any other way is between 14.18 and 14.23 and for a few seconds at 15.02
+when it focuses on the perimeter fence at pens 3 and 4 (shown to the
+Coroner’s jury as C539). It stayed there, static, until 15.25.
+
+Although there is a half-hour gap between the end of tape TB1 and its
+replacement tape TB4, it is clear in my view that PC Bichard is operating
+Camera 2 (the colour one) during this time, except when he turns Camera 3
+onto the Leppings Lane terraces and leaves it in the parked position. This
+can be seen on tape TB2 at 15.25. Camera 3 stays in this static position
+until 15.59 (seen on tape TB2 until 15.34 and thereafter on TB3). Moreover
+it is quite clear that PC Bichard’s attention prior to 14.58 (when Camera 2
+swings from the Kop end to the pens at Leppings Lane end) is concentrated
+on Camera 1 and what was happening at the turnstiles. It was not directed
+to Camera 5 and had not been since 14.23. There is a full analysis of the
+movement of the police CCTV cameras between 14.30 and 15.34, as
+recorded on videotape, at Appendix 4.
+
+I have some doubt whether the pictures from Camera 5 appearing on screen
+5 in the police Control Box were substandard to any material extent, though
+there are certainly examples of Camera 5 flaring on tape TB2. But in any
+event this is largely a matter of opinion and degree. No-one other than PC
+Bichard and Mr Houldsworth is likely to have looked at screen 5 in the
+police control box. Mr McRobbie, not surprisingly, could not recall
+whether he saw the incident at 14.18 on screen 5 or the monitor. The
+Coroner’s jury saw the Camera 5 extract from 1502 onwards for themselves,
+though the quality of the copy they saw is not as good as the original.
+
+In my opinion, even if PC Bichard did to some extent exaggerate any defect
+in what Camera 5 was showing, it is of no consequence. As I have already
+said Lord Taylor took no note of it and the only circumstances in which it
+might be relevant, namely if any of the submissions 1-3 above were made
+out, do not arise.
+
+There is a difference of opinion between Mr Houldsworth and PC Bichard as
+to the degree of definition it is possible to get with the zoom on cameras 2
+and 5 for the purpose of identification. I do not regard this as significant.
+The Coroner’s jury had the cameras demonstrated to them and they could
+see for themselves what the situation was. There is a great deal of
+difference between identifying a single person or a small group, each of
+whom stands out individually, and trying to pick out individuals in a large,
+compact crowd where there is almost constant movement and only a partial
+sight of the face and body.
+
+Moreover having seen the original of tape TB2 at 15.02 when Camera 5 is
+focused on pens 3 or 4 I am inclined to agree with PC Bichard on this point.
+
+At 14.58 Camera 2 swings down towards the Leppings Lane terraces. It is
+possible to identify some of the people on the pitch, for example WPC
+Richardson, who has a distinctive pony-tail and is seen ushering people into
+pen 2 via its perimeter gate. However I do not think it would be possible to
+identify a person in the centre pens from their face and it is certainly not
+possible to see their facial expressions. Moreover even if the police had
+focused either of these cameras onto those at the front of pens 3 and 4 at the
+material times, that would not have enabled them to pick out the distress
+which was being experienced.
+93.    The other matters raised by Mr Houldsworth on the evidence of PC Bichard
+      and PC Ryan are in my view of little consequence for the same reason. In
+      my opinion the evidence is wholly insufficient to warrant consideration of
+      criminal proceedings against any police officers.
+
+
+Submission 5
+
+94.   The allegation here is that Mr Houldsworth in the club Control Room could
+      see from pictures on the Control Room monitor from police cameras 3 and 5
+      that pens 3 and 4 were overcrowded at 14.50, and that the influx of extra
+      spectators through gate C would create a dangerous situation. I have no
+      doubt that it is true that there were times when Mr Houldsworth and others
+      in the club control room switched their monitor on to see what the police
+      cameras would show of the Leppings Lane terraces.
+
+95.   This accords with the evidence of PC Guest to the Taylor Inquiry. At Day
+      19 page 121 he said:
+
+               Q. “But it was obvious at twenty to three that the two wing pens
+               were virtually empty, was it not? - A. Yes, sir. As fa r as I am
+               aware, I don’t know, sir, because I wasn’t looking at that particular
+               screen. I was only looking at Leppings Lane on the outside; I was
+               not looking on the inside o f the ground.
+
+               Q. Are you saying you never saw ... ? - A. I did, yes. I did
+               actually look on the inside o f the ground but this was later. This was
+               after the gates was broken - well, either broken or opened, and once
+               the crowd had got in. It was after the crowd had got in, then when I
+               turned to that camera that would cover the West Stand and the
+               Leppings Lane.
+
+               Q. Are you saying that prior to the quarter to three, ten to three,
+               you never saw on the monitor the inside o f the ground at the
+               Leppings Lane end? - A. Yes, I did look at it earlier on, before
+               twenty to three, yes, and at that stage it was quite normal.
+
+               Q. When did you last see the terraces on the monitor? - A. I
+               couldn’t be exact, sir, but I would think it would be something in the
+               region o f probably half past two, probably twenty-five to three.
+
+               Q. At twenty-five to three? - A. Something like that.
+
+               Q. At twenty-five to three the wing pens were virtually empty, were
+               they not? - A. They were, sir. ”
+I do not however accept Mr Houldsworth’s evidence that he realised from
+looking at coverage from police cameras 3 and 5 that pens 3 and 4 were
+overcrowded and that the influx of people through gate C would create a
+dangerous situation. I reject this evidence for the following reasons.
+
+
+1.    It is hard to believe that if this were so Mr Houldsworth would not
+      have said as much before 1996 (see his comments at Appendix 3,
+      Part 3 para numbered 1). I do not accept that he can have been
+       inhibited either in making his statement to the club solicitors or in his
+       interview with Yorkshire Television. I do not find convincing Mr
+      Houldsworth’s explanation as to why it was only in 1996 that he
+      realised this evidence was important, (see transcript of his evidence
+      to me, page 20 lines 18 - page 21 line 17 - Appendix 3 Pt 4). There
+       is no record of any interruption by the police officer until the end of
+      the interview.
+
+2.    What Mr Houldsworth now says is in fact inconsistent with what he
+      said before. In his written statement he attributes his concern to what
+      he could see on the police monitor in relation to Gate C and the club
+      monitors of the numbers. (See Appendix 3, Pt 1 pages 5 and 6). In
+      the television interview the references to the police cameras are
+      throughout to camera 1. It was submitted to me by Counsel that Mr
+      Houldsworth’s references to Camera 1 in the first paragraph of page
+      1 of Appendix 3, part 2 was in fact a mistake for Camera 5. The
+      context shows that this is obviously not correct, and Mr Houldsworth
+      confirmed this to me when I interviewed him. The same reasons are
+      given for his concern, namely what is seen in relation to gate C and
+      club monitors of the numbers (page 1, last para) and an appreciation
+      that people coming through gate C would be likely to go into the
+      centre pens (page 3, last answer).
+
+3.    It was not until 15.05 that Mr Houldsworth got onto the pitch. It
+       took less than half a minute to get there from the control room. Even
+       so, like almost everyone else observing the situation, he thought he
+       was looking at a pitch invasion. He could not have thought this, if
+       what he now says about noticing overcrowding on the Leppings Lane
+       terrace before Gate C was opened at 2.52 p.m. were correct.
+
+4.    The last shots from police Camera 5 which are recorded before 15.02
+       are those at 14.23 when it is focused on pen 2 and does not give a
+       view of the centre pens. It is unlikely in my view that it was changed
+       from this position until 15.02 when the recording shows it trained on
+       the perimeter fence, picking up the fans climbing out. This accords
+       with PC Bichard’s evidence to me. It is also consistent with PC
+       Guest’s evidence which I have quoted above (paragraph 96). If he
+       could see that the wing pen at 2.35 was virtually empty, this strongly
+       suggests that he is seeing the same area that was filmed by Camera 5
+at 14.18 - 14.23. Camera 3 was trained on the Kop end, for which it
+was primarily designed. I think it likely that it remained there till it
+was swung round to show the Leppings Lane terraces at 15.25. Mr
+Houldsworth does not suggest that he saw the state of the pens from
+Camera 2. That too was focused on the Kop end until 14.58, when it
+is focused on the Leppings Lane end (TB1). In my opinion it was
+probably not until Mr Houldsworth saw the scenes from Camera 5 at
+some time after 15.02 that he realised that there was a problem and
+went to investigate. This fits with the timing of his arrival on the
+pitch and his belief that there was a pitch invasion.
+
+At a very late stage of my Scrutiny (11 December 1997) junior
+Counsel for the Family Support Group submitted that Mr
+Houldsworth’s evidence about spotting the overcrowding from the
+monitor of the police CCTV system in the club Control Room was
+supported by that of PC Guest. He referred to PC Guest’s statement
+of 10 May 1989 (which is in identical terms to an earlier one dated
+29 April but on the standard Criminal Justice Act statement form).
+Counsel did not cite the relevant passage. It reads:
+
+       7 then turned to the camera that was inside the ground and
+       covered the area o f the West Stand and it was obvious that the
+       situation was getting out o f hand and people were being
+       pushed up against the fencing on the perimeter o f the ground.
+
+       I could see that all available officers were being sent to this
+       area o f the ground to assist with the injured and dying. ’
+
+This makes it quite plain that what is being shown by the camera
+inside the ground is occurring after 15.00. (This description might
+be thought to describe more accurately what was shown by Camera 2
+(colour) after 14.58. But Mr Houldsworth said what he saw was on
+cameras 5 and 3). What is cited by Counsel (in fact wrongly, the
+incorrect words are in square brackets) is a passage from a later
+undated statement by PC Guest, where an additional passage has been
+inserted between the first and second sentences quoted above from
+the earlier statement.
+
+        ‘At the [this] point where [while] things seemed to be getting
+       out hand outside the turnstiles I tried to use my personal radio
+       in order to contact Police Control that further Police
+       assistance was required urgently at the Leppings Lane end o f
+       the ground, but each time I tried to use the radio I was
+       blocking others already using the radio, so I did not try
+       further to use it.
+
+        I then tried to use the internal telephone system to contact
+        Police Control but again each time I tried the line was
+       engaged and could not get through. A t this point M r Lock
+       then left the video room in order to organise some safety
+       measures with the security personnel.
+
+       Also present during this time in the video room was a Mr
+       Roger Houldsworth, he is the person who installed all the
+       videos and computer system.
+
+       As he could also see what was taking place he also left the
+       room in order to assist in any way he could. ’
+
+This passage was inserted because of comments made by Hammond
+Suddards, solicitors to South Yorkshire Police, when the force sent
+PC Guest’s original statement to them for comment (I shall have
+more to say about this in Chapter 4, Part 2 of this report). In a letter
+dated 25 May 1989, after referring to PC Guests’s statement on page
+2 of the earlier statement that ‘it was obvious that looking at the
+crowd outside trying to get in, that there would not be sufficient
+room for all to be accommodated’, the solicitors said:
+
+        7 wonder why he did not use either Club radio or the internal
+       telephone system to reach the control box, if he did not wish
+       to interrupt transmission by using his personal radio. It may
+       be helpful if PC Guest recalls, as accurately as possible, the
+       actual figures fo r the north stand, west stand and Leppings
+       Lane, when he studied these at, or shortly after, 2.40pm. ’
+
+Unfortunately the inserted passage dealing with this point breaks the
+continuity and chronology of PC Guest’s original statement.
+Moreover the final sentence of the inserted passage makes it clear
+that what was being looked at was after 15.00, because we know that
+Mr Houldsworth did not leave the control room until about 15.05.
+
+Analysis of tapes TB1 and TB2 from 14.30 until they finish shows
+quite clearly which cameras PC Bichard was manipulating and
+concentrating on. In particular from 14.35 to 14.49.02 he is
+operating Camera 1. There is then a brief point at 14.49 when
+Camera 2 is operated on the Kop end before at 14.49.38 he reverts to
+Camera 1 which is more or less continuously used until 14.58.42
+when Camera 2 pans from the Kop down into the West Stand
+Terraces. Thereafter he is operating cameras 1 and 2 until 15.02.53
+when he operates Camera 5, which after a very short while is fixed
+on the perimeter fence (the part shown in C.539). This analysis
+(Appendix 4) supports the conclusions which I have set out in sub-
+paragraph 5 above.
+
+If Mr Houldsworth is correct in what he now says, it is to say the
+least surprising that he did not draw the attention of PC Guest to the
+            reasons for his concern, namely that he could see the serious state of
+            the terraces on the monitor screen. It is clear from PC Guest’s
+            statements and evidence at the Taylor Inquiry that he did not do so.
+            PC Guest has unfortunately since died.
+
+      8.    It was submitted to me at a late stage in my scrutiny by Miss
+            Adlington, Solicitor to the Family Support Group, that a comparison
+            of three photographs showed clearly that Camera 5 had been moved
+            between 14.52 and 14.59 and that this supported Mr Houldsworth’s
+            evidence to this point.
+
+            The photographs in question were taken by supporters in the North
+            Stand. They show the scoreboard on which Camera 5 was mounted,
+            together with the scoreboard clock. The first two, with the
+            scoreboard clock showing respectively 14.52 and 14.54, are taken
+            from about mid-way up the top of the North Stand, about a third of
+            the way along the pitch from the west (Leppings Lane) end of it.
+
+             The third photograph is timed at 14.59 by the scoreboard clock. It is
+             the one which appears at Appendix 5 in Lord Taylor’s Interim
+             Report. It is taken from a position higher up the North Stand and
+             nearer to the Leppings Lane terraces. Both in the copy of this
+             photograph at Appendix 5 of Lord Taylor’s report, and in the copy
+             of it submitted to me by Miss Adlington, it is almost impossible to
+             distinguish Camera 5. However I obtained the negative and enlarged
+             the relevant area.
+
+             Bearing in mind that the photographs are taken from different
+             positions they do not in my opinion show that Camera 5 was moved
+             between 14.52 and 14.59 - still less do they show this, as I was told,
+             ‘clearly’. On the contrary, although I do not attach much weight to
+             the point because it is not sufficiently clear, I am inclined to the view
+             that the three photographs show that Camera 5 was not moved and
+             that it was at 14.59 still trained onto the same comer of pen 2 as it
+             was when it was used to take the shots recorded at 14.18 to 14.23 on
+             tape TB2.
+
+
+Conclusions about the video evidence
+
+97.   In my opinion the importance of Mr Houldsworth’s evidence has been
+      exaggerated out of all proportion. Mr Houldsworth’s existence, and his
+      evidence, were known both to the Taylor Inquiry and to the Coroner.
+
+98.   There is no reason why he should have been called to give evidence, since
+      what he was then saying as to the police and club systems was dealt with by
+      other witnesses, notably PC Bichard and PC Guest.
+4
+
+
+
+
+    99.    The only sense in which Mr Houldsworth’s evidence is new and might have
+           an effect on the previous proceedings is in relation to submission 5. For the
+           reasons I have given I am unable to accept that his recollection of events
+           now is accurate. Even if it was correct it would not have any effect on the
+           previous proceedings.     It would simply have been the evidence of one
+           more person who thought that the central pens were full at 14.52.
+
+    100.   The propositions advanced in submission 1, 2 and 3, which are by far the
+           most serious, are in my view untenable.
+
+    101.   There is nothing in any of the submissions about the video evidence that
+           calls for any further inquiry or consideration by the prosecuting or
+           disciplinary authorities or further resort to the Divisional Court. The
+           evidence is quite insufficient to consider any proceedings against PC
+           Bichard, PC Ryan or PS Goddard.
+

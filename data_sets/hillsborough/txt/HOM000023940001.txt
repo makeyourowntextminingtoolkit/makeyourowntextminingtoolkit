@@ -1,0 +1,130 @@
+Andrew:
+
+
+A few more thoughts on Eastwood.
+
+1.   For barriers of more than two spans, say Nos. 1, 2, 3, 4 the
+test seems to have gone as follows:
+
+     i.     load spans 1 and 2   (three cycles),
+
+     ii.    load spans 2 and 3   (three cycles),
+
+     iii.   load spans 3 and 4   (three cycles).
+
+This is reasonable so far as loading goes, but incomplete as
+regards measurements of deflections. His records show only one
+deflection measured for each two-span loading, which means that
+our span remained unmeasured during the sequence.  If that
+deflection (or recovery) had been unusual, it would not have been
+noticed.
+
+2.   In 1988, barriers 124A, 133, 136, 137 and 144 deflected
+considerably more than the average. No. 133 was a particular
+offender. Curiously, its recovery was perfect - but its
+deflection actually increased in successive cycles of loading, a
+clear danger signal.  In the event, extensive corrosion was
+spotted (presumably visually, so what was the value of the
+test?), and the rail was replaced. The rail on No. 144 was also
+replaced. But nothing seems to have been done about the others.
+
+3.   As regards No. 124A, the 1988 record shows a residual
+deflection of 17mm after the three cycles of loading, compared
+with an initial deflection under load of 29mm. This is a very
+poor recovery.
+
+4.   HSE cannot find the 1983 test record.         They are still
+searching.
+
+
+
+
+                                            Len
+                                            15 June 1989
+NOTE FOR THE INQUIRY
+
+
+1.   Management at the Club
+
+     There is not much evidence so far of a coherent management
+     structure. The Board is responsible for all legal,
+     financial and operational activities, and would be expected,
+     in the normal way, to delegate execution of its policies to
+     designated officers.  It is not clear how this has been
+     done. An organisational chart, extending down to stewards,
+     would be useful. And perhaps the accounts presented to the
+     Annual General meeting would shed some light.
+
+2.   Responsibilities for Safety
+
+     The central body appears to be the Officers Working Party.
+     It is composed of representatives from the City Council,
+     the South Yorkshire Police, the South Yorkshire County Fire
+     Service, the South Yorkshire County Council all taken from
+     Minutes, 1985); sometimes representatives of the Club are
+     present.  It does not seem to have an appointed Chairman,
+     and it is not clear to whom it is accountable.
+
+     Page 27 (Club file) sets out the delegations made bx "Area
+     Officer Working Parties" in 1976. Page 29 records a letter
+     from the Chief Executive, County Council, to the Chief
+     Constable delegating "its responsibilities under the (1975)
+     Act to the Fire Service Committee." There must be a serious
+     question as to the effectiveness of the various
+     relationships involved.
+
+     Procedures for granting Safety Certificates do not seem to
+     work very well, if at all. It is preposterous that there
+     should be a delay of three years (so far) in amending the
+     original after the first notice of inadequacy made by the
+     City on 5 June 1986.
+
+3.   The Ground
+
+     Evidence has identified many deficiencies, including the
+     physical arrangement of turnstiles and their relationship to
+     public roads on the one hand and viewing areas on the other,
+     signposting, communications, emergency equipment of various
+     kinds and, most obviously, emergency evacuation from
+     restricted Pens.
+
+     The lay-out of crush barriers departs from the Green Guide
+     in only a few areas, but they are critical, and the margins
+     of safety in the older barriers are suspect (HSE tests to
+     follow).
+
+4•   Crowd Control
+
+     The principal deficiencies include limited preparation for
+     the management of crowds assembling outside the Leppings
+     Lane turnstiles (particularly inside the boundary fence);
+     virtually no control inside the turnstiles, lack of police-
+steward co-ordination;  inadequate use of CCTV and direct
+surveillance of crowds (influenced not only by conditioning
+for hooliganism but also by the genuine difficulty of
+detecting local disturbances in a large, excited crowd);
+and weak direction from the police Control Box.
+
+Individual efforts by police officers were of the highest
+order. Many fans and stewards also showed great courage.
+
+Supporters1 Behaviour
+
+It is likely that a proportion of supporters behaved
+irresponsibly. But it is virtually impossible to quantify
+this effect. The arrival of large, late influxes - probably
+containing a higher proportion of trouble-makers - should be
+less surprising in the future.
+
+The Combined Effect
+
+If any one of the major sources of the disaster had been
+suppressed, the result would probably have been very
+different. But the combination could not be contained.
+
+
+
+
+                                   LM
+                                   14 June 1989
+

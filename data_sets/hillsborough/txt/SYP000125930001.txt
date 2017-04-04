@@ -1,0 +1,2630 @@
+*** START OF RECORD ***                                  O^/foi
+SURNAME      »
+FORENAMES    »
+AGE          »    16
+SEX          >> M
+ADDRESS      >>
+
+                  LANCERSHIRE
+POSTCODE »        *EMPTY*
+HOME TELE >>      *EMPTY*
+BUSI~TELE »       *EMPTY*
+CONT__TELE »
+WHY_PHONE >>I WAS AT THE MATCH
+ATTENDED »  Y
+SUPPORTER >>L
+HOW_TRAVEL» COACH         NOT KNOWN
+in _OR_°UT »I
+POSITION >> CENTRE OF CENTRETERRACEUNDER WEST    STAND BEHIND    GOAL
+STANCE     »  ST
+INFO       » THERE WAS A BIG PUSH FROM THE BACK. ITHOUGHT     IT WAS A NORMAL
+            PUSH AND EXPECTED IT TO GO BACKWARDS AFTER A WHILE, BUT IT DIDNT.
+            THERE WAS CRUSH AT THE FRONT ANDTHERE WERE YOUNG LADS ABOUT TEN
+            YRS AT THE FRONT WHO GOT CRUSHED.
+MAKE_STATE» Y
+WDAY_AVAIL» E
+WEND_AVAIL» D
+
+«   WHO_WITH      »
+
+TRAVELLED IN COACH. DOES NOT KNOW ANY DETAILS OF OTHER PASSENGERS
+
+« END OF     WHO_WITH »
+CALL__DATE   » 25/04/89
+CALL_TIME    » 20:38:23
+OFFICER      »
+DIVISION     » A
+COLLAR       »
+RANK         » PC
+END__CALL    » 20:45:01
+PBflORITY    » 2
+UWlTE        » 25/04/89
+UPTIME       » 20:48:52
+
+*** END OF RECORD ***
+                                            A( isis
+*** START OF RECORD ***
+
+SURNAME     >>             IsUcgS
+FORENAMES   >>
+AGE         >>   T3
+SEX           » M__
+ADDRESS       >> I
+                   LIVERPOOL
+POSTCODE »
+HOME_TELE » ____________
+BUSI_TELE » *EMPTY*
+CONT__TELE >> *EMPTY*
+WHY_PHONE »        AT     THE MATCH
+ATTENDED »         Y
+SUPPORTER >> L
+HOW_TRAVEL» PRIVATE CAR
+in_o r _o u t »    I
+POSITION » PEN 3 LEPPINGS LANE END
+STANCE        »    ST
+INFO          >> NO       POLICE OR STEWARDS IN TUNNEL TO SAY TERRACES WERE FULL ALSO
+                   SAW BARRIER COLLAPSE WHEN PEOPLE SERGED FORWARD NO CONTROL AT B
+                   TICKET ENTERENCE
+     _STATE>> Y
+WDAY_AVAIL» M
+WEND A V A I L » D
+
+«   WHO WITH     »
+
+                                                         LIVERPOOL
+
+« END OF    WHO_WITH »
+CALL_DATE   » 25/04/89
+CALL_TIME   » 17:44:57
+OFFICER     >> _________
+DIVISION    » J
+COLLAR      »
+RANK        » WPC
+END_CALL    » 17:53:27
+PRIORITY    » 2
+UPDATE      » 25/04/89
+UWME        » 17:53:29
+
+*** END OF RECORD ***
+*** START OF RECORD ***
+                                           •S/O^-0
+SURNAME     »
+FORENAMES   »                              Q s k .W o ~ l
+AGE         >> 31
+SEX         >> ML
+ADDRESS     »
+                                                                            WEST
+                 YORKSHIRE
+POSTCODE »
+HOME_TELE »
+BUSI_TELE »
+CONT_TELE »      ♦EMPTY*
+WHY_PHONE »      I WANT TO HELP WITH ANY INFORMATION I CANJ
+ATTENDED »       Y
+SUPPORTER »      L
+HOW_TRAVEL»      PRIVATE CAR
+IN OR OUT »      I
+POSITION >>      WEST STAND IN PEN 6
+STANCE    >>     ST
+INFO      >>     GOT TO LEPPING LANE ENTRANCE AT ABOUT 2.15PM.THERE WAS A LARGE
+                 CROWD WHICH WAS GETTING LARGER EVERY SECOND.THERE WAS NO
+                 STEWARDS THERE AND I SAW ONLY 3        MOUNTED OFFICERS. I FEL1
+                 THAT THE CROWD WAS STARTING TO GET OUT OF CONTROL AND THAT IF
+                 SOMETHING WASNT DONE PEOPLE WOULD HAVE GOT SERIOUSLY HURT.THE
+                 CROWD     WERE PUSHING AND SHOVING. I THEN MANAGED TO GET TO A
+                 TURNSTILE CONT PG 3
+MAKE_STATE» Y
+WDAY_AVAIL» E
+WEND A V A I L » D
+
+«   WHO_WITH     »
+
+AND ON ENTERING THE GROUND I TURNED TO MY LEFT AND WENT TO PEN 6 IN THE WEST
+STAND. THERE WERE A FEW PEOPLE IN THE TUNNEL. ON REACHING MY PLACE IN PEN 6 I
+COULD SEE THAT PEN 3 AND 4 WERE FULL AND IN MY OPINION NO MORE FANS SHOULD
+HAVE BEEN ALLOWED IN. I COULD SEE PEOPLE PUSHING FORWARD AT THE BACK OF PENS
+3 AND 4 UNTIL PEOPLE WERE BEING CRUSHED UNDER FOOT ETC
+WITH ME AT THIS TIME WAS MY BROTHER
+              3 WEST YORKSHIRE
+
+« END OF    WHO WITH >>
+CALL_DATE   » 25/04/89
+CALL TIME   » 20:37:16
+OFFICER     >>
+DIVISION    >> H
+COLLAR      >>
+RANK        »    WPC
+END_CALL    >>   20:55:31
+PRIORITY    >>   2
+UPDATE      >>   25/04/89
+UPTIME      >>   20:55:33
+
+*** END OF RECORD ***
+*** START OF RECORD ***             SS^\(
+                                        4^
+SURNAME     >>
+FORENAMES   >>
+AGE         »        Z5
+SEX         >> M
+ADDRESS     >>
+
+                 LIVERPOOL
+POSTCODE    >>
+HOME_TELE »
+BUSI_TELE » ♦EMPTY*
+CONT_TELE >> ♦EMPTY*
+WHY PHONE » BECAUSE TURNSTILES WERE NOT WORKING WHEN I GOT THERE AT 2.40PM
+              AND SO WE HAD TO CLIMB OVER. STEWARD SAID THERE WAS NOTHING HE
+              COULD DO
+ATTENDED » Y
+SUPPORTER » L
+HOW_TRAVEL» PRIVATE CAR
+IN_OR_OUT » I
+POSITION » LEPPINGS LANE WEST STAND B
+S’m i C E »   ST
+INTO      >> TURNSTILES NOT WORKING AND STEWARDS NOT TAKING TICKETS. ONCE
+              THROUGH TUNNEL A POLICEMAN WANTED TO KNOW WHY WE WERE RIPPING
+              FENCE DOWN
+MAKE_STATE> > Y
+WDAY_AVAIL» D
+WEND_AVAIL> > X
+
+«   WHO WITH     >>
+
+WENT WITHTWO FRIENDS L           AND ONE OTHER. ADDRESSES UNKNOWN BUT CAN
+OBTAIN THEM IF NEEDED
+
+« END OF    WHO_WITH »
+CALL_DATE   » 25/04/89
+CALL_TIME   >> 15:56:15
+OFFICER     >>
+DIVISION    »    M
+COLLAR      >>
+            »    WPC
+ENB_CALL    »    16:12:23
+PRIORITY    »    2
+UPDATE      » 25/04/89
+UPTIME      >> 16:12:31
+
+*** END OF RECORD ***
+*** START OF RECORD ***
+                                                               Q «Si(c6
+SURNAME     »
+FORENAMES   >>
+AGE         »   20
+SEX         » X
+ADDRESS     »
+
+               LIVERPOOL
+POSTCODE »
+HOME_TELE »
+BUSI_TELE »      ★EMPTY*
+CONTJTELE »      ♦EMPTY*
+WHY_PHONE »      I/D LIKE TO SAY WHAT I SAY AT THE MATCH
+ATTENDED »       Y
+SUPPORTER »      L
+HOW_TRAVEL»      HIRE VEHICLE
+IN_OR_OUT »      I
+POSITION >>      WEST STAND
+STANCE    »      ST
+INFO      »      AT 14.40 HRS IT WAS OVER CROWDED, AND IT WAS QUITE OBVIOUS TO THE
+                 POLICE AT THE FRONT THAT THE PART BEHIND THE GOAL WAS FULL, WHY
+                 DIDN'T THE POLICE GO INTO THE STAND AND START TO DIRECT THE CROWD
+                 OVER INTO THE EMPTY STANDS AT THE SIDES OF THE GOALS.   I THINK
+                 IT HAPPENED DUE TO BAD ORGANISATION
+MAKE_STATE» Y
+WDAY_AVAIL» X
+WEND A V A I L » X
+
+<< WHO_WITH    >>
+
+CALLER WAS WITH 13 OTHER PEOPLE.   WILL INFORM OFFICERS WHO CONTACT HIM OF
+THERE DETAILS
+
+« END OF    WHO WITH >>
+CALL DATE   >> 25/04/89
+CALL TIME   >> 15:29: 54
+OFFICER     >>
+DIVISION    >> M
+COLLAR      >>
+            >> WPC
+END CALL    >> 15:38: 57
+PRIORITY    >> 2
+UPDATE      >> 25/04/89
+UPTIME      >> 15:39: 02
+
+*** END OF RECORD ***
+*** START OF RECORD ***
+
+SURNAME       »
+FORENAMES     »
+AGE           » ^ 23
+SEX           >> M
+ADDRESS       »
+
+                    SHEFFIELD
+POSTCODE      »
+HOME_TELE     »
+BUSI_TELE     »     *SJPTY*
+CONT_TELE     »     *EMPTY*
+WHY PHONE     »     I WAS AT THE MATCH I SAW WHAT HAPPENED THERE WAS MAYHEM OUTSIDE
+                    THE GROUND IT WASNOT ORGANISED.I WAS OUTSIDE THE GROUND AT 2.15.1
+                    GOT IN ABOUT 2.50P.M.
+ATTENDED >>         Y
+SUPPORTER >>        L
+HOW T R A V E L »   ON FOOT
+IN OR OUT >>        I
+POSITION >>         WEST STAND
+SttlCE         >>   ST
+INTO           >>   I WAS IN THE  HOUND I SAW WHAT HAPPENED INSIDE THE GROUND I WAS
+                    AT THE BACK THERE WERE TWO SURGES I FOUND MYSELF NEAR THE FRONT
+MAKE_STATE»         Y
+WDAY_AVAIL»         D
+WEND_AVAIL»         X
+WHO_WITH »          * EMPTY*
+CALL DATE »         25/04/89
+CALL TIME >>        18:25: 56
+OFFICER   >>
+DIVISION >>         A
+COLLAR    >>
+RANK      >>        DC
+END CALL >>         18:36: 02
+PRIORITY >>         2
+UPDATE    >>        25/04/89
+UPTIME    >>        18:36: 20
+
+*jm^ END OF RECORD ***
+
+
+
+
+                                                                              1_i
+                                                               Q16 no)
+*** START OF RECORD ***
+
+SURNAME
+FORENAMES
+             »
+             »
+                            M
+AGE          >> 40
+SEX          » M
+ADDRESS      »
+                 SHEFFIELD
+POSTCODE »
+HOME_TELE »
+BUSI_TELE »
+CONT_TELE » ♦EMPTY*
+WHY_PHONE » I WAS AT THE MATCH IF YOU REQUIRE INFORMATION
+ATTENDED » Y
+SUPPORTER » X
+HOW_TRAVEL» ON FOOT
+IN_OR_OUT » I
+POSITION » WEST STAND THIRD WAY BACK BEHIND GOAL
+STANCE       » SE
+INFO         >> AT ABOUT 9.55AM I WENT PAST THE GROUND AND LIVERPOOL SUPPORTERS
+                 ASKED ME IF I HAD TICKETS. WHEN I WAS ON MY WAY TO THE MATCH AT
+                 ABOUT 2.25PM THERE WERE LIVERPOOL SUPPORTERS WALKING IN THE
+                 OPPOSITE DIRECTION THIS I THOUGHT STRANGE AS IT WAS NEARLY TIME
+                 FOR THE MATCH. I SAW A STREET TRADER ATTACKED BY THE LIVERPOOL
+                 SUPPOERTERS AND HIS PROPERTY WAS STOLEN
+MAKE_STATE» Y
+WDAY_AVAIL» E
+WEND A V A I L » X
+
+«   WHO_WITH     »
+
+AT ABOUT 2.50PM WHAT SEEMED LIKE A DISTURBANCE OCCURRED IN THE STANDING AREA
+PEOPLE WHERE BEING LIFTED UP INTO THE STANDS. SEVERAL SEATS HAD BEEN TAKEN
+BY NON TICKETS HOLDERS BUT THIS DID NOT CAUSE A PROBLEM, WHEN SUPPORTERS WERE
+REQUESTED TO MOVE THEY DID SO. I SAW EVIDENCE OF VIOLENCE BY LIVERPOOL
+SUPPORTERS TOWARD THE POLICE. AT FIRST THE WHOLE SITUATION SEEMED LIKE A
+CROWD DISTURBANCE AND IT WAS NOT TILL A WHILE AFTER THAT BOTH POLICE AND
+PUBLIC REALISED WHAT WAS HAPPENING. THE LIVERPOOL SUPPORTERS I SAW OUTSIDE
+THE GROUND WERE DRINKING AND AT 2.30PM THEY WERE MAKING NO ATTEMPT TO ENTER
+T ^ GROUND.
+
+« END OF    WHO WITH >>
+CALL_DATE   >> 25/04/89
+CALL_TIME   >> 09:58:15
+OFFICER     >>
+DIVISION    >>
+COLLAR      >>
+RANK        >>   PC
+END_CALL    >>   10:24:34
+PRIORITY    >>   2
+            >>
+UPDATE
+UPTIME      >>
+                 25/04/89
+                 10:24:36
+                                                              'C
+*** END OF RECORD ***
+                                         jz &   S   S   '/   d   2 //g   //£   >   &
+*** START OF RECORD ***
+
+SURNAME         >>
+FORENAMES       >>
+AGE             >>   22
+SEX             >> M
+ADDRESS         >>
+                      HAYES
+POSTCODE »
+HOME_TELE »
+BUSIJTELE »      *EMPTY*
+CONT_TELE »      ♦EMPTY*
+WHY_PHONE »      I WAS AT THE MATCH
+ATTENDED »       Y
+SUPPORTER »      L
+HOW_TRAVEL»      PRIVATE CAR
+                 I
+in _ o r _ o u t >>
+POSITION »       WEST STAND PENN4
+STANCE           »
+                 ST
+INFO             I SAW FANS CLIMBING OVER THE TOP OF THE FENCES THE POLICE TRIED
+                 »
+                 TO PUSH THEM BACK BUT IT ALL SPILLED ONTO THE PITCH
+M M K STATE>> Y
+wflr A V A I L » X
+WEND ~AVAIL» X
+
+«   WHO_WITH          »
+
+I WAS WITH FOUR FRIENDS I DO NOT WANT TO GIVE THEIR NAMES YET
+I ARRIVED AT LEPPINGS LANE AT 1300HRS WE HAD NOT GOT TICKETS AT ALL WE TRIED
+TO BUY TICKETS FOR THE LIVERPOOL END BUT WE COULD NOT SO WE BOUGHT TICKETS
+FOR THE SPION KOP END AND WE WERE ALLOWED IN AT THE LEPPINGS LANE END BY
+THE STEWARD
+WE WENT TO THE FAR LEFT END OF PENN4 I SAW NO STEWARDS THE PENN WAS FULL AND
+NOONE WAS CONTROLLING THE FLOW OF PEOPLE INTO THE WEST STAND
+I HAD A LOT OF SPACE
+THE RAIL SEPARATING THE SECTIONS WAS PREVENTING PEOPLE FROM MOVING OUT TO THE
+SIDE THEY ALL HAD TO MOVE FORWARDS TO THE SPACE BEHIND THE GOAL POSTS
+
+« END OF       WHO_WITH »
+CALL_DATE      » 25/04/89
+CjUULi_TIME    » 15:40:41
+oW : cer       »
+DIVISION       » J
+COLLAR         »
+RANK           » WPC
+END_CALL       » 15:54:22
+PRIORITY       » 2
+UPDATE         » 25/04/89
+UPTIME         » 15:54:27
+
+*** END OF RECORD ***
+                                                                              Q-\£> ilo<]
+*** START OF RECORD ***
+                                                                              ^   i   % ””Z»
+SURNAME       » I              N 2.0^0
+FORENAMES     »
+AGE           >> 27
+SEX           »
+ADDRESS       »
+
+                    SHEFFIELD,
+POSTCODE »
+HOME TELE >>
+BUSI~TELE »
+CONT“ TELE »     *EMPTY*
+WHY PHONE »      I WAS AT THE MATCH.
+ATTENDED »       Y                                                     . •
+SUPPORTER »      N
+HOW T R A V E L »OTHER       BUS
+INjOR_OUT »      I
+POSITION »       WEST STAND TERRACES. PEN B
+STANCE        »  ST
+INFO           » I ARRIVED AT THE GROUND AT ABOUT 1350HRS. AS I GOT INTO THE
+                 GROUND THE MATCH HAD JUST STARTED THE CRUSH HADENT HAPPENED THEN.
+                 WHEN I GOT TO THE BOTTOM OF THE TUNNEL I BEGAN TO FEEL THE
+                 PRESSURE BEHIND ME. I MOVED OUT OF THE WAY. AS MATCH PROGRESSED I
+                 COULD SEE PEOPLE CLIMBING OVER THE FRONT FENCE, AS THE GAME WENT
+                 ON PEOPLE WERE GOING TO THE BACK OF THE PEN AND ASKING PEOPLE TO
+                 LIFT THEM OUT.
+MAKE S T A T E » Y
+WDAY~AVAIL>> A
+WEND AVAIL>> D
+
+«   WHO_WITH        »
+
+THE CRUSH EASED A LITTLE AS PEOPLE WERE GOING OUT. I SAW PEOPLE HELPING THE
+INJURED ON THE PITCH. LIVERPOOL FANS SHOUTING TO EVERYONE TO HELP THEN OUT OF
+THE PENS. IT WAS ABOUT 1520HRS BY THIS TIME. I JUST WANTED TO GET OUT AFTER
+SEEING WHAT HAD HAPPENED IN THE PEN SO I WENT BACK TOWARDS THE TUNNEL. I
+ASKED A POLICEMAN WHAT HAD HAPPENED AND HE SAID MOVE UP THE TOP AND OUT OIF
+THE WAY PLEASE. WHEN I GOT TO TOP OF TUNNEL. I SAW 3 OR 4 BODIES LAY ON THE
+FLOOR IN THE RECOVERY POSITION AND I NEVER THOUGHT FOR ONE MINUTE THAT THEY
+WERE DEAD. I WAS IN THE COURTYARD IT WAS REALLY NOISEY. IT WAS DISTRESSING SO
+I JUST NEEDED TO GET OUT OF THERE. I THINK THERE SHOULD HAVE BEEN MORE
+M O W T E D OFFICERS OUTSIDE THE GROUND THEY WERE TRYING THEIR BEST. THERE SHOULD
+HAVE BEEN AT LOT MORE STEWARDS. THE MEMORY OF A LIVERPOOL LAD WHO CAME UP TO
+ME CRYING AND SAYING PEOPLE ARE DYING DOWN THERE WILL STICK IN MY MIND FOR
+THE REST OF MY LIFE. ALSO THE SCENES OF POLICE AND FANS GIVING MOUTH TO MOUTH
+AND HEART MASSAGES TO INJURED AND DYING          FANS.
+
+
+
+                                         HE IS WILLING TO MAKE A STATEMENT.
+
+« END OF      WHO WITH >>
+CALL_DATE     >> 18/04/89
+CALL TIME     >> 14:15:35
+OFFICER       >>
+DIVISION      »
+COLLAR        >>
+RANK          >>    WPC
+END CALL      >>    14:38:10
+PRIORITY      »     1
+UPDATE        >>    28/04/89
+UPTIME        »     14*38*21
+
+*** END OF RECORD
+                                              k m
+♦♦♦ START OF RECORD ♦♦*
+
+SURNAME   »                  3
+FORENAMES >>
+AGE        »   17
+SEX        » M
+ADDRESS   >>                                 QtSk&bz
+                MERSEYSIDE
+POSTCODE »
+HOME_TELE »
+BUSI_TEIiE »     ♦EMPTY*
+CONT_TELE »      ♦EMPTY*
+WHY_PHONE »      I WAS AT THE MATCH
+ATTENDED »       Y
+SUPPORTER »      L
+HOW_TRAVEL»      COACH       NATIONAL EXPRESS
+in_°R_out »      I
+POSITION »       PEN 3 LEPPINGS LANE
+STANCE     >>    ST
+INFO       >>    WE GOT INTO GROUND AT 1.30PM WE WENT TO BEHIND THE GOAL AT ABOUT
+                 2.55PM THERE WAS A SURGE FORWARD AND MY BROTHER WAS PUSHED
+                 AGAINST A CRASH BARRIER A PAST OUT. WE COULDNT GET HIM OUT THERE
+                 WAS ANOTHER SURGE WE FELL TO THE FLOOR.
+MAKE_STATE» Y
+WDAY_AVAIL>> X
+WEND A V A I L » D
+
+«   WHO WITH    »
+
+TRAVELLED WITH BROTHER               17YRS SAME ADDRESS AS CALLER ALSO
+AND                                                 , MERSEYSIDE. NO PHONE.
+
+« END OF    WHO WITH >>
+CALL_DATE   >> 25/04/89
+CALL_TIME   >> 17:47:52
+OFFICER     >>
+DIVISION    >> M
+COLLAR      >>
+            >> WPC
+Ef CALL     >> 18:00:35
+PRIORITY    >> 2
+UPDATE      >> 25/04/89
+UPTIME      >> 18:00:42
+
+♦♦♦ END OF RECORD ♦♦♦
+*** START OF RECORD ***
+                                        ({ikftfc                 QiS mi
+SURNAME       >>
+FORENAMES
+AGE
+              >>
+              >>                        (5s^2i^3
+SEX           >>
+ADDRESS       >>
+                                                                              LANCS
+POSTCODE >>
+HOME TELE >>
+BUSI TELE »      ♦EMPTY*
+CONT TELE >>     ♦EMPTY*
+WHY PHONE >>     I WAS AT      THE   MATCH
+ATTENDED >>      Y
+SUPPORTER >>     L
+HOW TRAVEL>>     PRIVATE CAR
+IN OR OUT >>     I
+POSITION >>      WEST STAND
+STANCE    >>     ST
+INFO      >>     I WAS SUPPOSED TO      BE IN   SECTION B BEHIND THE GOALS, BUT    I
+                 WENT TO THE SIDE       OFTHE STAND.   THERE WERE NO POLICE,
+                 STEWARDS OR SIGNS        TO   DIRECT THE FANS,     SO MOST PEOPLE
+                   WENT INTO THE PENS BEHIND      THE   GOALS I COULD SEE DOWN
+                 THE TUNNEL THAT       THEMIDDLE WAS    ALREADY CROWDED.THE POLICE
+                   SEEMED TO BE DIRECTING FANS DOWN THE TUNNEL,MAKING A REAL
+                 CRUSH
+MAKE_S TATE >> Y
+WDAY_AVAIL» E
+WEND A V A I L » M
+
+«   WHO WITH       »
+
+FATHER,
+                   (35) *
+                       (38)           NR  BLACKBURN *
+                     (38)            NR BLACKBURN   *
+
+* OTHER   SUPPORTERS WHO USUALLY TRAVEL      WITH   THE          FAMILY.    NO
+ADDRESS DETAILS KNOWN BY CALLER
+
+    2ND OF WHO_WITH »
+    jL_DATE» 25/04/89
+CALL_TIME » 14:20 :13
+OFFICER    >> I
+DIVISION » H
+COLLAR     >>
+RANK       » WPC
+END_CALL » 14:42:55
+PRIORITY >> 2
+UPDATE     » 25/04/89
+UPTIME     » 14:42:58
+
+*** END OF RECORD ***
+                                                                    Q-'&WW
+*** START OF RECORD ***
+
+SURNAME      >>
+FORENAMES    >>                               S2(o2
+AGE          >> 32
+SEX          » X
+ADDRESS      >> I
+                                                                                TYNE
+                   AND WIER
+POSTCODE »
+HOME_TELE »
+BUSI_TELE »
+CONT_TELE »        ♦EMPTY*
+WHY_PHONE »        I WAS AT THE MATCH AN I WITNESSED A FEW THINGS
+ATTENDED >>        Y
+SUPPORTER »        X
+HOW_TRAVEL>>       PRIVATE CAR
+IN_OR_OUT »        I
+POSITION »         WEST STAND
+STANCE        »    SE
+INFO          »    SAW EVERYTHING GOING ON
+M«p_STATE»         Y
+WDAY_AVAIL»        D
+WEND A V A I L »   X
+
+«   WHO WITH       »
+
+WAS WITH MY FRIENDS                            ( SAME ADDRESS) AND HER FAMILY
+                                                           CHESTER TEL NO
+
+
+BEFORE WE ACTUALLY GOT INTO THE GROUND I SAW AN AWFUL LOT OF DRUNKEN
+LIVERPOOL FANS CAUSING A NUSIENCE IN THE LEPPINGS LANE AREA. WHEN I
+EVENTAULLY GOT TO THE SEAT WHERE I WAS SITTING IN THE WEST STAND A SAW A LOT
+OF THE FANS CLIMBING OVER THE WALL. THE POLICE ATTEMPTED TO GET THEM DOWN
+BUT THEY LOST CONTROL AND MOST OF THOSE CLIMBING OVER THE WALL APPEARED TO
+HAVE TICKETS AND JUST FLASHED THEM IN FRONT OF THE OFFICERS FACES. THERE
+APPEARED TO BE NO STEWARD CONTROL AT ALL AND PEOPLE WERE STILLING ENTERING
+THE GAME THROUGH THE TURNSTILES AND OVER THE WALL. ONCE INSIDE THE GROUND
+THE WEST STAND SOON BECAME PACKED AND THE CROWD SURGED FORWARD AND THAT IS
+     EVERYTHING HAPPENED. THE POLICE OPENED THE GATES TO THE FENCE AS SOON
+AS THEY COULD BUT NOBODY REALLY SEEMED TO KNOW EXACTLY WHAT WAS GOING ON AND
+SOME OFFICERS EVEN CLIMBED ONTO THE FENCE THEMSELVES AND ASSISTED IN DRAGGING
+SOME OF THE FANS OVER.
+
+THERE HAVE BEEN AN AWFUL LOT OF ALLEGATIONS REGARDING LOOTING BUT I CAN SAY
+THAT I DID NOT WITNESS ANYTHING LIKE THAT.
+
+<< END OF    WHO_WITH »
+CALL_DATE    >> 25/04/89
+CALL_TIME    >> 11:24:20
+OFFICER      >>
+DIVISION     >>
+COLLAR       >>
+RANK         >>    WPC
+END_CALL     >>    11:46:14
+PRIORITY     >>    2
+UPDATE       >>    25/04/89
+UPTIME       >>    11:46:16
+
+*** END OF RECORD ***
+*** START OF RECORD ***
+                                                              Him
+SURNAME   »
+FORENAMES »
+AGE        »   33
+SEX        » M
+ADDRESS   »
+                 CHESTERFIELD   DERBYSHIRE
+POSTCODE »
+HOME_TELE »
+BUSI_TELE »
+CONT_TELE »      ♦ EMPTY*
+WHY_PHONE »      I WAS AT THE MATCH
+ATTENDED >>      Y
+SUPPORTER »      L
+HOW_TRAVEL»      PRIVATE CAR
+IN__OR_OUT »     I
+POSITION »       WEST STAND OFF LEPPINGS LANE
+STANCE     »     SE
+INFO       »     ARRIVED 2.25PM NO QUEUEING. GENERAL MAYHEM. EVENTUALLY GOT
+                 THROUGH THE TURNSTILES AT 2.50PM BUT DUE TO THE HEAVY CRUSHING
+                 AND NOT BEING ABLE TO BREATH OUTSIDE I HAD TO SIT DOWN JUST
+                 INSIDE THE TURNSTILE TO GET MY BREATH.  I HAD BEEN CRUSHED UP
+                 AGAINST A WALL AND FEARED THAT THE WALLS WERE GOING TO COLLAPSE.
+                 THE POLICE HORSE WAS ALSO BEING CRUSHED AND THE RIDER GALLOPED
+                 HIM OUT OF THE CROWD.
+MAKE_S TATE > > Y
+WDAY_AVAIL» E
+WEND A V A I L » X
+
+«   WHO WITH     »
+
+                  ADDRESS NOT KNOWN, CAN BE CONNTACTED THROUGH CALLER.
+AFTER WAITING A FEW MINUTES TO BREATH AGAIN, I SAW THAT THEY WERE OPENING THE
+GATES. THE CRUSH CAME IN AND MY FRIEND AND I WAITED FOR THEM TO GO PASSED.
+I DIDN'T WANT TO GO INTO THE STANDS BECAUSE IT LOOKED SO FULL SO THE STEWARD
+TOOK PITY ON ME AND LET ME GO INTO THE SEATING AREA.     I WAS ABLE TO SIT ABOUT
+4 ROWS BACK FROM THE FRONT IN THE WEST SETAND.     I COULD SEE THE CRUSHING BUT
+THOUGHT IT WOULD SETTLE DOWN WHEN THE MATCH STARTED.    BUT EVENTUALLY REALISED
+THM? IT WAS MORE THAN CROWD TROUBLE.      I DON'T BLAME THE POLICE FOR OPENING
+t H F GATES OUTSIDE, A FEW MINUTES MORE AND THE DISASTER WOULD HAVE HAPPENED
+OUTSIDE.
+
+
+« END OF    WHO__WITH »
+CALL_DATE   » 25/04/89
+CALL_TIME   » 16:17:20
+OFFICER     >>
+DIVISION    >>
+COLLAR      >>
+RANK        >> PC
+END_CALL    » 16:41:46
+PRIORITY    >> 2
+UPDATE      »    25/04/89
+UPTIME      »    16:41:50
+
+*** END OF RECORD ***
+♦♦♦ START OF RECORD ***
+
+SURNAME     »               A   , a   o   p   _   / 2
+FORENAMES   »
+AGE         >> I F
+SEX         » M
+ADDRESS     »
+
+               MERSEYSIDE
+POSTCODE »
+HOME_TELE »
+BUSI_TELE »      ♦EMPTY*
+CONT_TELE »      ♦EMPTY*
+WHY_PHONE »      I WAS AT THE MATCH
+ATTENDED >>      Y
+SUPPORTER »      L
+HOW_TRAVEL»      PRIVATE CAR
+IN_0R_°UT »      I
+POSITION »       PEN 3 LEPPING LANE
+STANCE    »      ST
+INFO      »      AT 2.15PM GOT INTO THE GROUND THERE WERE NO PROBLEMS AT
+                 TURNSTYLES. AT ABOUT 3PM I WENT TO THE TOILETS BUT BEFORE I GOT
+                 TO THEM THERE WERE SO MANY PEOPLE COMING THROUGH THE TUNNEL I GOT
+                 CARRIED BACK WITH THE CROWD THERE WERE NO STEWARDS DIRECTING.
+                 THERE WERE PEOPLE IN TROUBLE BEFORE KICK OFF IN PENS 3 AND 4.
+MAKE_STATE> > Y
+WDAY_AVAIL>> X
+WEND A V A I L » X
+
+«   WHO WITH   >>
+
+TRAVELLED WITH                        17YRS                    \ LIVERPOOL. TEL
+                                       L8YRS                     LIVERPOOL. TEL
+                                        18YRS                    , LIVERPOOL TEL
+                    THE HOUSE NUMBERS  FOR          AND    ARE NOT KNOWN AT THIS
+STAGE.
+
+« END OF    WHO_WITH »
+CALL_DATE   » 25/04/89
+CALL TIME   » 20:30:53
+OMfCER      >>         ~
+DlWtSION    >> M
+COLLAR      »
+RANK        » WPC
+END_CALL    >> 20:41:25
+PRIORITY    » 2
+UPDATE      » 25/04/89
+UPTIME      » 20:41:28
+
+*** END OF RECORD ***
+*** START OF                             (\{b&
+SURNAME      >>
+FORENAMES    >>
+AGE          >> 27
+SEX          >> M
+ADDRESS      >>
+                                                                           YORKSHIRE
+POSTCODE     >>
+HOME TELE    >>    *EMPTY*
+BUSI TELE    >>    *EMPTY*
+CONT TELE    >>    ♦EMPTY*
+WHY_PHONE    >>    BECAUSE I HEARD THE APPEAL FOR PEOPLE TO RING AND I WAS THERE AT
+                   THE MATCH
+ATTENDED >>        Y
+SUPPORTER >>       L
+HOW TR A V E L »   PRIVATE CAR
+IN OR OUT >>       I
+POSITION >>        LEVEL WITH TOUCH LINE WEST STAND
+STANCE        >>   ST
+INFO          >>   WHEN I GOT TO THE GROUND WITH MY FRIEND THERE WAS AN ENORMOUS
+                   CRUSH SO WE STOOD OUT OF THE WAY NEAR THE BRIDGE AND DECIDED TO
+                   MISS THE FIRST 5 MINS RATHER THAN BE CRUSHED. WE HEARD FAINTLY
+                   THROUGH A LOUDSPEAKER THAT THEY WQERE TRYING TO DELAY KICK OFF.
+                   NEXT THING WAS THAT CROWD GOT LESS VERY QUICKLY. AT 3 0 CLOCK I
+                   TRIED TO GET IN I GOT IN NO PROBLEM. I WAS NOT CRUSHED BUT IT WAS
+                   PACKED.
+MAKE_STATE>>       Y
+WDAY_AVAIL»        E
+WEND A V A I L »   X
+
+«   WHO WITH       »
+
+                       28YEARS;                               YORKSHIRE,
+
+« END OF     WHO_WITH »
+CALL_DATE    » 25/04/89
+CALL TIME    >> 08:38:56
+OFFICER      >>
+DIVISION     >> D
+cA   ar      >>
+rH k         >> WPC
+END_CALL     >> 08:52:36
+PRIORITY     >> 2
+UPDATE       >> 25/04/89
+UPTIME       >> 08:52:41
+
+*** END OF RECORD ***
+
+
+
+
+                                                                      ■c
+ *** START OF RECORD ***
+                                             A/kSflr           0 (5 lU(o
+ SURNAME
+ FORENAMES
+              »
+              >>
+                                             f
+ AGE          »    19
+ SEX          » ML                              S 7 !o \\
+ ADDRESS      »
+                  SHEFFIELD
+ POSTCODE »
+ HOME_TELE » NP
+ BUSI_TELE >> NP
+ CONT_TELE » NONE
+ WHY__PHONE » I WAS AT THE MATCH
+ ATTENDED » Y
+ SUPPORTER » N
+ HOW_TRAVEL» OTHER            LOCAL ONMIBUS
+ in _OR_OUT »     I
+ POSITION » LEPPING LANE PEN4
+ STANCE        » ST
+ INFO          » ARRIVED AT 2.35HRS NO ORGANIZATION BIG CROWD A LOT OF PEOPLE
+                  WERE SHOUTING TO THE POLICE TO OPEN THE GATES, THERE WAS NO ONE
+                  INSIDE DIRECTING WHERE TO GO SO EVERYONE WOULD AUTOMATICALLY GO
+                  DOWN THE MIDDLE INTO THE TUNNEL. THERE WAS ACRUSH IN THE MIDDLE
+                  PENS AND PEOPLE WERE TRYING TO CLIMB OUT THE MIDDLE PENS BU THE
+                  POLICE WERE TELLING THEM TO GET BACK IN.
+ MAKE_STATE>> Y
+ WDAY_AVAIL>> X
+ WEND A V A I L » X
+
+  «   WHO WITH    »
+
+                      20YRS                                            /
+ SHEFFIELD.                     19YRS
+              SHEFFIELD.
+
+  « END OF    WHO_WITH »
+  CALL_DATE   » 27/04/89
+\ CALL_TIME   » 12;30;40
+  OFFICER     >>
+  DIVISION    » M
+  CQftM       >> |    |
+ rJ to        » WPC
+ END_CALL     >> 12:38:05
+ PRIORITY     »   2
+ UPDATE       »   27/04/89
+ UPTIME       »   12:38:08
+
+ *** END OF RECORD ***
+*** START OF RECORD ***
+
+SURNAME     >>
+FORENAMES   >>
+AGE         »      28
+SEX         >> M
+ADDRESS     >>
+                                                                        NR
+                 CREWE
+POSTCODE »
+HOME TELE »
+BUSI_TELE »  *EMPTY*
+CONT_TELE »  *EMPTY*
+WHY_PHONE »  TO TRY AND ASSIST IN THIS ENQUIRY
+ATTENDED »   Y
+SUPPORTER »  L
+HOW_TRAVEL»  PRIVATE CAR
+IN_OR_OUT >> I
+POSITION »   WEWEST STAND,TO THE SIDE OF THE GOAL,AT THE SIDE OF THE SEATS
+STANCE    »  ST
+INFO      »  THAT THE POLICE OUTSIDE THE GROUND WERE HOLDING PEOPLE UP, THAT
+ ^          THE QUEUE OUTSIDE THE GROUND AT 1400 HOURS WAS BAD, IF THE POLICE
+ 9          HAD SEARCH AFTER WE HAD GONE INTO THE TURNSTILE THE CROWD OUTSIDE
+             WOULDN'T HAVE BEEN SO BAD
+MAKE__STATE» Y
+WDAY_AVAIL» X
+WEND_AVAIL» X
+
+«   WHO WITH     »
+
+                        (NUMBER NOT KNOWN \               TEL
+                                                  TEL
+                        OTHER DETAILS NOT KNOWN
+
+<< END OF   WHO_WITH >>
+CALL_DATE   » 25/04/89
+CALL TIME   » 17:38:45
+OFFICER     »
+DIVISION    » M
+COLLAR      »
+            » WPC
+EI^FCALL    » 17:51:05
+PRIORITY    » 2
+UPDATE      » 25/04/89
+UPTIME      » 17:51:07
+
+*** END OF RECORD ***
+*** START OF RECORD ***                                   Qi& ikS
+SURNAME   »
+FORENAMES »          Kb-0°(&
+AGE       >> 17
+SEX       » M
+ADDRESS   »
+             WREXHAM
+POSTCODE >>
+HOME_TELE »
+BUSI_TELE » *EMPTY*
+CONT_TELE >> *EMPTY*
+WHY_PHONE » I WAS AT THE MATCH
+ATTENDED >> Y
+SUPPORTER >> L
+HOW_TRAVEL» PRIVATE CAR
+IN_OR_OUT » I
+POSITION » WEST STAND
+STANCE    >> ST
+INFO      » AT 1450 HRS BEFORE FANS WENT ONTO THE PITCH THE CROWD TRIED TO
+             ALERT THE POLICE THAT THERE WAS A PROBLEM AT THE FRONT OF THE
+             WEST STAND BUT THE POLICE WERE SLOW TO REACT TO THE PROBLEM
+    _STATE» Y
+WDAY_AVAIL» E
+WEND_AVAIL>> X
+
+«   WHO WITH   >>
+
+TRAVELLED WITH FRIENDS ALL WHOM LIVE NEARBY BUT ADDRESSES NOT KNOWN. NAMES
+ARE                                    AND
+
+« END OF    WHO_WITH »
+CALL_DATE   » 25/04/89
+CALL_TIME   » 16 141:02
+OFFICER     >>
+DIVISION    >> M
+COLLAR      >>
+RANK        » WPC
+END_CALL    >> 16:50:21
+PRIORITY    >> 2
+u A i|lTE   >> 25/04/89
+UFrh [ME    >> 16:50:24
+
+*** END OF RECORD ***
+*** START OF RECORD ***
+
+SURNAME      >>
+                                               ^(SSZp
+FORENAMES    >>
+AGE
+SEX          » M
+ADDRESS      >>
+                                                                               STOKE
+                   ON TRENT
+POSTCODE >>
+HOME_TELE >>
+BUSI_TELE >>
+CONTJTELE >>        ♦EMPTY*
+WHY_PHONE >>        I WANTED TO TELL YOU WHAT I SAW
+ATTENDED >>        Y
+SUPPORTER >>       L
+HOW_TRAVEL»        PRIVATE CAR
+IN OR OUT »         I
+POSITION >>         TO RIGHT HAND SIDE OF TUNNEL IN WEST STAND.  SECTION 3
+STANCE    >>        ST
+INFO      >>       WE WENT AND STOOD IN FRONT OF THE WIRE BARRIER AT THE FRONT WHERE
+ A                 IT WAS LESS CROWDED. THE PLAYERS CAME OUT ONTO THE PITCH AND
+ 9                 THAT'S WHEN THE CRUSH STARTED. I SAW PEOPLE TRYING TO CLIMB OVER
+                    THE BARRIERS. I WAS JUST STUCK IN BETWEEN PEOPLE. THERE WAS A
+                    SMALL CHILD SCREAMING BUT I COULDN'T MOVE TO PICK HIM UP. A
+                    POLICEMAN OPENED ONE OF THE GATES BUT SHUT IT AGAIN. I CLIMBED
+                    OUT TO THE RIGHT.
+MAKE_STATE»        Y
+WDAY_AVAIL> >       E
+WEND A V A I L »    E
+WHO_WITH >>         ♦EMPTY^
+CALLJDATE >>        25/04/89
+CALL_TIME >>        09:31:50
+OFFICER       >>   _
+DIVISION »         G
+COLLAR        >>
+RANK          >>   WPC
+END_CALL >>        09:41:51
+PRIORITY >>        2
+UPDATE       >>    25/04/89
+IJPiEIME     >>    09:41:53
+
+*♦♦ END OF RECORD ♦♦♦
+*** START OF RECORD * '‘
+                                                               $161120
+SURNAME      »
+                                           S2oT\
+FORENAMES    » ___
+AGE         >> X 8
+SEX         » M
+ADDRESS      »
+
+                 HALIFAX. WEST YORKSHIRE
+POSTCODE      »
+HOME_TELE     »
+BUSI TELE     »
+CONT_TELE     >> *EMPTY*
+WHY_PHONE     » I WAS IN THE LEPPINGS LANE TERRACE BEHIND THE GOAL.I GOT THERE
+                 ABOUT 1400 AND STOOD BEHIND THE GOAL. ABOUT 1445 IT STARTED TO
+                 GET VERY BADLY CRUSHED. A GIRL FELL ON THE FLOOR AND WE COULDNT
+                 GET HER UP. WE SHOUTED TO A NEARBY POLICE MAN FOR HELP BUT HE
+                 APPEARED TO IGNORE US
+ATTENDED » Y
+SUPPORTER » L
+HOW_TRAVEL» PRIVATE CAR
+IHfcDR OUT » I
+P ® S T I O N » WEST STAND TERRACE PEN 3 OR 4
+STANCE        » ST
+INFO          » WE CARRIED ONSCREAMING TO THEPOLICE FOR       HELP AND EVENTUALLY
+                 PEOPLEBEGAN TO CLIMB THEFENCES    , THE POLICE    APPEARED TO BE
+                 PUSHING THE FANS BACK IN.
+MAKE_S TATE > > Y
+WDAY_AVAIL> > E
+WEND A V A I L » D
+
+«   WHO WITH     >>
+
+I WAS WITH SOME FRIENDS           AND               AND            I DONT KNOW
+THEIR ADDRESSES OR SURNAMES
+
+« END OF    WHO_WITH »
+CALLJDATE   » 25/04/89
+CALL_TIME   » 20:02:27
+OFFICER     >>
+DUKSION     »    M
+coK a r     >>
+RANK        »    WPC
+END_CALL    »    20:13:16
+PRIORITY    »    2
+UPDATE      »    25/04/89
+UPTIME      »    20:13:26
+
+*** END OF RECORD ***
+                                                                    I(ZX
+♦♦♦ START OF RECORD ***
+
+SURNAME       >>
+FORENAMES     >>          fslCUOl
+AGE           >> 36
+SEX           >> JYL
+ADDRESS       »
+
+                   LIVERPOOL
+POSTCODE »
+HOME_TELE »
+BUSI_TELE »     ♦EMPTY*
+CONT__TELE »    ♦EMPTY*
+WHYJPHONE »     I WAS AT THE MATCH
+ATTENDED >>     Y
+SUPPORTER »     L
+HOW_TRAVEL»     PRIVATE CAR
+IN_OR_OUT »     I
+POSITION >>     PEN 2 LEPPINGS LANE
+STANCE     »    ST
+INFO       »    2.20PM THERE WERE NO QUEUES.THEY PACKED TOO MANY PEOPLE INTO PEN
+                3. NOBODY DIRECTED THE FANS WHEN THEY GOT TO THE TUNNEL.FROM
+                WHERE WE WERE WE COULD SEE EVERYTHING HAPPENING WHEN THE CRUSH
+                HAPPENED.   I HELPED CARRY PEOPLE OUT.
+MAKE_S TAT E >> Y
+WDAY_AVAIL» D
+WEND AVAIL>> X
+
+«    WHO WITH      »
+
+
+
+<< END OF     WHO WITH >>
+CALL_DATE     >> 25/04/89
+CALL_TIME     >> 18:19:47
+OFFICER       >>
+DIVISION      >> D
+COLLAR        >>
+RANK          >>   WPC
+END_CALL      >>   18:28:33
+PRIORITY      >>   2
+u^   R   te   >>   25/04/89
+UPTIME        >>   18:28:39
+
+*** END OF RECORD ♦♦♦
+*** START OF RECORD ***
+
+               >>
+SURNAME
+FORENAMES      >>             N 3-l03
+AGE            >>       25
+SEX            >>
+ADDRESS        >>
+                    WATFORD
+POSTCODE >>         ♦EMPTY*
+HOME TELE >>        ♦EMPTY*
+BUSI_TELE >>        *EMPTY*
+CONT TELE >>
+WHY_PHONE »         MY HUSBAND WAS AT THE MATCH
+ATTENDED »          N
+SUPPORTER »         L
+HOW_TRAVEL»         NOT APPLIC
+IN_0R_°UT »         X
+POSITION »          ♦EMPTY*
+STANCE        »     NA
+INFO          »     IN THE WEST STAND
+MAKE_STATE> >       Y
+Wgte_AVAIL>>        E
+wS d A V A I L »    X
+
+«    WHO WITH       »
+
+HUSBAND                     SAME ADDRESS
+STANDING NEAR TO SOMEONE WHO WAS INJURED HAS NOT RETURNED SINCE
+STATES HE WAS NEAR TO SOMEONE WHO WAS CRUSHED AGAINST THE FENCE HIS LEG WAS
+TWISTED STATES SHE SAW THIS ON THE TV AND IN THE PAPERS
+STATES SHE WAS RINGING FROM HER FRIENDS HOUSE WHO IS                [
+
+COULD BE A HOAX CALL
+
+« END OF       WHO WITH >>
+CALL_DATE      >> 25/04/89
+CALL_TIME      >> 07:28:23
+OFFICER        >>
+DIVISION       >> G
+COLLAR         >>
+rA             >> PC
+eotT c a l l   >> 08:01:05
+PRIORITY       >> 2
+UPDATE         >> 25/04/89
+UPTIME         >> 08:01:39
+
+*** END OF RECORD ***
+*** START OF RECORD ***
+                                                    A iy^io
+SURNAME            »
+FORENAMES          »    SERGEANT
+AGE                »    ♦EMPTY*
+SEX                »    M
+ADDRESS            »    OPERATIONS
+                        HEADQUARTERS                                                SOUTH
+                        YORKSHIRE POLICE
+POSTCODE           »    ♦EMPTY*
+HOME TELE          »    ♦EMPTY*
+b u s i ~t e l e   »
+CONT TELE          »        ____ |
+                        EXT |
+WHY_PHONE          »    I KNOW SOMEONE WHO WAS AT THE MATCH fit IS WILLING TO MAKE A
+                        STATEMENT.
+ATTENDED »              N
+SUPPORTER »             N
+HOW_TRAVEL>>            NOT APPLIC
+IN__OR_OUT »            X
+POSITION »              ♦EMPTY*
+STANCE     »            NA
+IHfiO
+ :^o       »            A          ~  WAS AT THE MATCH fit HE SAYS THE POLICE OFFICER WAS
+                        RIGHT IN OPENINGTHE GATES OUTSIDE AS IF HE HADNT THERE WOULD HAVE
+                        BEEN SERIOUS INJURY DUE TO THE CRUSH.
+MAKE_STATE»             Y
+WDAY_AVAIL> >           X
+WEND AVAIL>>            X
+
+«    WHO_WITH            >>
+
+                        AGED 21 OR 22YRS
+
+
+
+SHEFFIELD
+
+THE ABOVE IS WILLING TO MAKE A STATEMENT EVEN THOUGH HE IS NOT PRO POLICE fit
+WILL BE AVAILABLE ANYTIME.
+
+<< END OF          WHO__WITH »
+      DATE         » 27/04/89
+     'TIME         » 15:45:15
+OFFICER            >>
+DIVISION           »    A
+COLLAR             >>
+RANK               »  WPC
+END_CALL           »  15:57:07
+PRIORITY           >> 2
+UPDATE             >> 27/04/89
+UPTIME             » 15:57:08
+
+♦♦♦ END OF RECORD ***
+*** START OF
+                                        Ml
+SURNAME       >>                        <Sii 2,2
+FORENAMES     >>
+              »
+AGE
+SEX           >>
+                        23
+                                        $U\
+ADDRESS       >>
+
+
+POSTCODE >>
+HOME TELE >>
+BUSI TELE >>
+CONT~TELE >>     EXT
+WHY PHONE >>     I WAS AT THE MATCH
+ATTENDED >>      Y
+SUPPORTER >>     L
+HOW T R A V E L »PRIVATE CAR
+IN OR OUT >>     I
+POSITION >>      WEST STAND LEFT SIDE TERRACE AS YOU LOOK AT PITCH
+STANCE        >> ST
+INFO          >> I WOULD LIKE TO SAY THAT ALTHOUGH I HAD A TICKET FOR THE
+                 NOTTINGHAM FOREST SIDE, BECAUSE I WAS A LIVERPOOL FAN I ASKED AND
+                 OFFICER ON THE GATE AT LEPPING ROAD, END IF I COULD GO THOUGH, HE
+                 TOLD ME YES HE HAD LKET OTHERS THOUGH, THIS WAS AT ABOUT 1330
+                 HOURS I WENT TO THE LEFT SIDE OF THE STAND BECAUSE EVEN AT THAT
+                 EARILY TIME THE MIDDLE OF THE STANDS WERE NEAR TO FULL.  IT WAS
+                 ONLY AFTER THE KICK
+MAKE_STATE» Y
+WDAY_AVAIL» D
+WEND A V A I L » X
+
+«     WHO_WITH      »
+
+OFF THAT I SAW PEOPLE CLIMBING OVER THE FRONT FENCES TRYING TO GET ONTO THE
+PITCH MY FIRST REACTION WAS THAT IT WAS A AN INVASION ONTO THE PITCH, IT WAS
+ONLY AFTERWOULDS THAT I REALISED THAT PEOPLE WERE GETTING HURT, THAT WAS WHEN
+I SAW POLICE OFFICERS GIVING HEART MASAGE AND AMBULANCE AND FIREOFFICERS
+COMING ON TO THE PITCH. AT 1520HOURS OVER THE P.A. SYSTEM CAME A MESSAGE
+FOR EVERYONE TO CLEAR THE PITCH, THIS WAS THE ONLY MESSAGE OVER THE SYSTEM
+THAT WAS HEARD AND IT SEEMED TO MAKE SOME OF THE FANS ANGRY. SOME FANS WERE
+T A M N G THIS OUT ON THE POLICE WHO FROM WHAT I COULD SEE WERE TRYING THERE
+BWK.
+I WAS WITH MY GIRLFRIEND                                         NOTTINGHAM
+TEL             I
+IF OFFICER WISHES TO SEE ME I AM FLYING OFFICER , AND I LIVE IN           I
+             I
+             . I AM GOING AWAY IN MAY FOR A WEEK BUT APART FROM THAT YOU
+SHOULD BE ABLE TO GET ;
+
+« END OF     WHO WITH >>
+CALL DATE    >> 25/04/89
+CALL TIME    >> 20:42 :13
+OFFICER      >>
+DIVISION     >> J
+COLLAR       >>
+RANK         >> WPC
+END CALL     >> 21:04 :46
+PRIORITY     >> 2
+UPDATE       >> 25/04/89
+UPTIME       >> 21:04 :53
+
+***   END OF RECORD ***
+                                                                        \YVZ
+      START OF RECORD ***
+***
+
+SURNAME         »
+                                               <3S(-i\29
+FORENAMES       »
+AGE             »    24
+SEX             >> F
+ADDRESS         >>
+                                                                                  NR
+                       PETERBOROUGH
+POSTCODE »
+HOME TELE >>
+BUSI_TELE »            *EMPTY*
+CONTJTELE »            *EMPTY*
+WHY_PHONE »            I WAS AT THE MATCH
+ATTENDED >>            Y
+SUPPORTER »            L
+HOW_TRAVEL»            TRAIN
+IN_OR_OUT >>           I
+POSITION »             PEN 6, LEPPINGS LANE END
+STANCE             »   ST
+INFO               »   LACK OF POLICE PRESENCE OUTSIDE COMPARED TO LAST YEAR . TOTALLY
+  jk                   DISORGANISED.
+m 1k e _ s t a t e »   y
+WDAY_AVAIL>>           X
+WEND_AVAIL»            X
+
+«     WHO_WITH         »
+
+WENT WITH A NUMBER OF PEOPLE BUT SHE DOESN'T KNOW THEIR NAMES OR ADDRESSES
+
+« END OF        WHO_WITH »
+CALL_DATE       » 25/04/89
+CALL_TIME       » 13:30:52
+OFFICER         »
+DIVISION        » K
+COLLAR          »
+RANK            >> WPC
+END_CALL        >> 13:40:01
+PRIORITY        » 2
+UPDATE          » 25/04/89
+U^!ME           >> 13:40:04
+
+*** END OF RECORD ***
+*** START OF RECORD ***
+
+SURNAME       >>;             Kj
+FORENAMES     »
+AGE           »    23
+SEX           >> rM_
+ADDRESS       >>
+
+                    HERTEFORDS HIRE
+POSTCODE »
+HOME TELE »
+BUSl“TELE »         ♦EMPTY*
+CONT~TELE »         ♦EMPTY*
+WHYjPHONE »         I WAS AT HILLSBOROUGH
+ATTENDED »          T
+SUPPORTER » L
+HOW T R A V E L »
+            PRIVATE CAR
+IN_OR_OUT » I
+POSITION »  LEPPINGS LANE, ON THE LEFT BEHIND THE GOAL
+STANCE      ST»
+INFO        I ARRIVED AT SHEFFIELD AT 1100 HOURS WHERE I WENT TO THE GROUND
+              »
+            AND BROUGHT A TICKET, I WENT INTO THE GROUND BETWEEN 1300 HOURS &
+            1315 HOURS, AND THERE WERE ONLY A FEW PEOPLE IN, PEOPLE STARTED
+            ENTERING THE GROUND BIT 1400 & 1430 HRS. BY THIS TIME I WOULD SAY
+            IT WAS FULL. ABOUT 10 MINUTES BEFOR KICK OFF THERE WAS A SURGE
+            FROM BEHIND, I HAD STARTED BY THE CRUSH BARRIER NEXT TO THE
+            TUNNELL AND WAS..
+MAKE_STATE» Y
+WDAY_AVAIL» M
+WEND_AVAIL» X
+
+«   WHO WITH        >>
+
+PUSHED SIDE WAYS TO A RAILING.   IT WAS THAT BAD I THOUGHT I WAS NEVER GOING
+TO BE ABLE TO BREATH AGAIN. THERE WAS A SECOND SURGE ABOUT 5 MINUTES BEFORE
+THE MATCH STARTED AS THE PLAYERS CAME ONTO THE PITCH.   I WAS BEING CRUSHED SO
+HARD, THAT 3 OF MY RIBS CRACKED.   I WAS WITH SOMEONE AT THE MATCH AND HE HAS
+HAD MENTAL STRESS FROM THIS EXPERIENCE.
+FRIEND -
+
+« END OF      WHO WITH »
+CAmDATE       » 18/04/89
+caM ttime     » 12 t 06:23
+OFFICER       » '
+DIVISION      >> TXT
+COLLAR        »
+RANK          >> WPC
+END_CALL      >> 12:20:39
+PRIORITY      >> 1
+UPDATE        >> 28/04/89
+UPTIME        » 12:20:41
+
+*** END OF RECORD ***
+*** START OF RECORD ***
+                                                               a\& 11X1
+SURNAME     »
+FORENAMES   »
+AGE         »   45
+SEX         » JL
+ADDRESS     »
+
+                NOTTINGHAM
+POSTCODE »
+HOME_TELE »
+BUSI_TELE »
+CONT_TELE »      *EMPTY*
+WHY_PHONE »      I WENT TO THE MATCH AND SAW WHAT WHAT HAPPENING
+ATTENDED »       Y
+SUPPORTER »      F
+HOW_TRAVEL»      PRIVATE CAR
+IN_OR_OUT »      I
+POSITION »       IN THE SEATS IN THE WEST STAND
+STANCE    »      SE
+INFO      »      NOTTS FANS WERE GIVEN TICKETS FOR THE LIVERPOOL TERRACES. THERE
+                 WAS A GREAT DEAL OF PUSHING OUTSIDE THE GROUND.
+ljft_STATE» Y
+WDAY_AVAIL» E
+WEND A V A I L » X
+
+«   WHO_WITH    »
+
+THE CALLER APPLIED FOR HIS TICKETS FROM THE NOTTS FA HOWEVER ALTHOUGH HE
+APPLIED FOR TICKETS FOR THE NOTTINGHAM FOREST SEATS HE WAS SENT TICKETS FOR
+THE SEATS IN THE WEST STAND. CALLER STATED THERE WAS A GREAT DEAL OF PUSHING
+OUTSIDE THE GROUND AND A LARGE NUMBER OF L IV E R PO O L FANS TRYING TO BY TICKETS
+A THE GATES. HE SAW FEW OFFICERS OUTSIDE THE GROUND TO ASSIST WITH CROWD
+CONTROL.
+LIVERPOOL FANS IN THE SEATS IN THE WEST STAND WERE FIGHTING AMONGST
+THEMSELVES. PEOPLE THEN STARTED CLIMBING OVER THE TERRACES FROM THE STANDS.
+PEOPLE FIRST THOUGHT THAT IT WAS A PITCH INVASION WHEN FANS STARTED RUNNING
+ONTO THE PITCH.
+THERE SEEMED TO BE A GREAT DEAL OF CONFUSION WITH POLICE PUSHING FANS BACK
+INTO THE STAND BUT NO ONE KNEW WHAT WAS GOING ON . BUT ONCE THE POLICE
+R H I S E D WHAT WAS HAPPENING THEY DID A GRAND JOB OF HELPING THE VICTIMS
+
+« END OF    WHO_WITH >>
+CALL_DATE   » 25/04/89
+CALL_TIME   » 10s59s51
+OFFICER     >>
+DIVISION    >>
+COLLAR      >>
+RANK        » WPC
+END_CALL    » 11s17 s58
+PRIORITY    »   2
+UPDATE      » 25/04/89
+UPTIME      >> 11:18$02
+
+*** END OF RECORD    ***
+                                                            f t    1^0)
+*•** START OF RECORD ***
+                                                            5     cDOl^
+SURNAME     »                                               S
+FORENAMES   »
+AGE         »       44
+SEX         »   M
+ADDRESS     »                                              G?Sc_
+                                                            M     (
+                SHEFFIELD
+POSTCODE »                                                         i"sq
+BOMEJTBIiE »
+BUSI TELE »
+CONT TELE »      ♦EMDPTY*
+TOY PHONE »      I WAS AT THE MATCH.
+ATTENDED »       Y
+SUPPORTER »      L
+HOWJTRAVEL»      PRIVATE CAR
+IN_OR_OUT »      I
+POSITION »       NORTHSIDE STAND,NEAR TO LEPPINGS LANE ENTRANCE.
+STANCE     »     SE
+INFO       »     ARRIVED AT GROUND AT APPROX 14.30HRS BUT QUEUES WERE TERRIBLE AND
+                 TOOK HALF AN HOUR TO GET INTO THE GROUND.REACHED MY SEAT SHORTLY
+                 AFTER 15.O0HRS.VERY LITTLE POLICE PRESENCE OUTSIDE THE GROUND
+                 AND NO CO ORDINATION.THE POLICE SHOULD HAVE SORTED OUT THE
+                 TICKET ALLOCATION.INSIDE THE GROUND THERE WAS LARGE GROUPS OF
+                 POLICE WHO DIDN'T KNOW WHAT WAS GOING ON.THE OVERCROWDING WAS
+                 DREADFUL AND WAS
+MAKE_STATE» Y
+WDAY_AVAIL» MA
+WEND A V A I L » X
+
+«   WHO_WITH    »
+
+COMMENTED ON BY EVERYBODY.I HAVE BEEN INFORMED THAT SOUTH YORSHIRE POLICE
+AND MERSEYSIDE POLICE DID NOT LIAISE ABOUT THE MATCH AND I QUESTION THE
+ABILITY OF THE SENIOR OFFICERS QUALIFICATIONS AND ABILITY TO COPE WITH THE
+JOB.HAVE BEEN INFORMED THAT THE SOUTH YORKSHIRE SENIOR OFFICER IN CHARGE HAS
+A VERY LIMITED BACK GROUND OF OPERATIONAL DUTIES AND HAS SPENT MOST OF HIS
+SERVICE AT THE POLICE ACADEMY.A LARGE NUMBER OF POLICEMEN HAD BEEN DRAFTED IN
+FROM OUT OF THE AREA AND HAD A LACK OF LOCAL KNOWLEDGE.ALSO TICKET FORGERIES.
+THE YOUNG BOY IN FRONT OF ME WAS THE LEGITIMATE HOLDER OF A TICKET AND A
+sA  n D PERSON ARRIVED HAVING SPENT 35.00 FOR A TICKET OUTSIDE THE GROUND.THE
+SECOND WAS VERY IRATE BUT ACCEPTED THAT HIS WAS A FORGERY, BUT A VERY GOOD
+ONE.DRINKING WAS EVIDENT BUT NO MORE THAN ANY OTHER LEAGUE MATCH.CRITICISMS
+OF DRINKING DOESN'T REALLY CARRY ANY WEIGHT.WHEN THE DISASTER OCURRED THE
+POLICE INSIDE THE GROUND WEREN'T AWARE WHAT WAS HAPPENING,THEY SEEMED TO
+THINK IT WAS A RIOT SITUATION.EMERGENCY SERVICES SLOW TO ATTEND.LACKED
+DIRECTION INSIDE THE GROUND.                                        ____
+CALLER HAS LIVERPOOL ADDRESS AS WELL:                     LCHESHIREJ
+        tPHONE WILL BE ANSWERED BY WIFE WHO TEACHES IN LIVERPOOL,HENCE THE
+ADDRESS.CALLER PREFERS TO BE INTERVIEWED AT PLACE OF WORK BETWEEN 08.30 AND
+18.00 HOURS DURING WEEKEDAYS.TEACHES.HAS SENT STATEMENT TO INQUIRY.
+
+« END OF    WHO_WITH »
+CALL_DATE   » 27/04/89
+CALL_TIME   >> 16:06:09
+OFFICER     » I
+DIVISION    >> G
+COLLAR      >>
+RANK        >> m e r
+END_CALL    >> 16i47s39
+PRIORITY    » l
+UPDATE      >> 27/04/89
+UPTIME      >> 16 *47 *42
+
+*** END OF RECORD ***
+*** START OF RECORD ***
+                                       $r(7oz
+SURNAME     »                                          I
+FORENAMES   »             nI   ^ U O
+AGE         »        14                A/\ \ Q   k>h
+SEX         »    M
+ADDRESS     »
+                                                                  CUMBRIA
+POSTCODE >>
+HOME_TELE >>*EMPTY*
+BUSI_TELE >>*EMPTY*
+CONT_TELE >>VISIT
+WHY_PHONE >>I WAS AT THE MATCH
+ATTENDED »  Y
+SUPPORTER » L
+HOW_TRAVEL» TRAIN
+            0
+in _°R_° u t »
+POSITION »  OUTSIDE IN LEPPINGS LANE
+STANCE      NA
+             »
+INFO        I SAW A POLICE OFFICER STANDING ON THE WALL LIFTING THE LIVERPOOL
+             »
+            FANS OVER THE WALL. THIS IS JUST BEFORE THEY OPENED THE GATE.I
+            THINK HE WAS TRYING TO STOP THE CRUSH.
+  ?E_STATE» Y
+WDAY_AVAIL» E
+WEND_AVAIL» X
+WHO_WITH » *EMPTY*
+CALL_DATE » 25/04/89
+CALL_TIME » 17:48:01_______
+OFFICER   »
+DIVISION » H
+COLLAR    »
+RANK      » WPC
+END_CALL » 18:01:06
+PRIORITY >> 2
+UPDATE    » 25/04/89
+UPTIME    » 18:01:13
+
+*** END OF RECORD ***
+*** START OF RECORD ***                / ^ / 7 o z
+
+
+SURNAME      »
+FORENAMES    »
+AGE         »   26
+SEX         »_H
+ADDRESS      »
+
+                LIVERPOOL
+POSTCODE »
+HOME_TELE >>
+BUSI_TELE » *EMPTY*
+CONT_TELE >>*EMPTY*
+WHY_PHONE >>I WAS IN THE TERRACING AT LEPPINGS LANE
+ATTENDED >> Y
+SUPPORTER » L
+HOW_TRAVEL» PRIVATE CAR
+IN_0R_0UT >>I
+POSITION >> SECTION 4 LEPPING LANE
+STANCE    » ST
+INFO      >>I WENT TO THE MATCH THIS YEAR AND LAST YEAR THERE WAS THE SAME
+            AMOUNT OF CROWD AT BOTH THE DIFFERENCE I BELIEVE IS THAT WHEN YOU
+            GOT THROUGH THE TURNSTILES LAST YEAR THEY HAD POLICE TELLING YOU
+            TO GO LEFT OR RIGHT TO THE WINGS THIS YEAR THEY WERE NOT THERE
+            AND THE CROWD AUTOMATICALLY WENT STRAIGH ON INTO SECTIONS 3 AND
+            4.
+MAKE_STATE» Y
+WDAY_AVAIL» E
+WEND_AVAIL» D
+
+«   WHO WITH    >>
+
+ALSO TRAVELLING WITH            AND STANDING IN SECTION 4 WITH HIM IS
+                                          LIVERPOOL TEL
+                              THIS IS HIS WORKS NUMBER HIS ADDRESS IS NOT
+KNOWN    ALSO TRAVELLING WITH           BUT WENT INTO THE LEPPING LANE STAND
+TS                                                LIVERPOOL TEL
+
+« END OF    WHO WITH »
+CALL_DATE   » 25/04/89
+CAM, TIME   » 13:59:51
+oA   cer       __
+            >> |
+DIVISION    » M
+COLLAR      >> r
+RANK        »   WPC
+END_CALL    »   14:19:11
+PRIORITY    »   2
+UPDATE      »   25/04/89
+UPTIME      »   14:28:33
+
+*** END OF RECORD ***
+                                                   |C\ I
+ *** START OF RECORD ***
+                                                   <=, n n
+SURNAME          »               NJ   / I 4-
+FORENAMES        »                               Q \< b    't^l
+AGE              »   26
+SEX              » M                                       io   1 3   .
+ADDRESS          >>
+
+                    LIVERPOOL
+POSTCODE »
+HOMEJTELE »
+BUSI TELE »         NO PHONE
+CQNT~TELE »
+WHY PHONE »      I WAS ATE MATCH
+ATTENDED »       Y
+SUPPORTER »      L                                                     ..
+HOW T R A V E L »HIRE VEHICLE
+IN OR__OUT »     I
+POSITION »       PENS 3 AND 4 OF THE WEST STAND TERRACE
+STANCE        »  ST
+INFO          »  I WENT THROUGH THE LEPPINGS LANE TURNSTILE AT 1450HRS HAVING BEEN
+                 THERE SINCE 1430HRS. THERE WAS A LOT OF PUSHING AND THERE WAS NO
+                 POLICE CONTROL/ AND PEOPLE WERE CRYING OUT FOR THE POLICE TO COME
+                 AND CONTROL THE CROWD. I WENT DOWN THE TUNNEL TO THE CENTRE PENS
+                 BECAUSE YOU GET THE BEST VIEW THERE. WHIN INSIDE I WAS IN THE
+                 MIDDLE BIT, BUT WAS GETTING PUSHED TO THE LEFT. I STARTED TO PUSH
+                 BACK
+MAKEJ3TATE» Y
+WDAY_AVAIL» E ■
+WEND A V A I L » D
+
+ «   WHO_WITH       »
+
+TO THE MIDDLE AND GOT SEPARATED FROM MY BROTHER. FROM THEN ON I JUST WAS
+UNABLE TO MOVE. PEOPLE WERE CRYING OUT FOR THE POLICE TO OPEN THE FRONT GATE
+ONTP THE PITCH BUT IT WAS AGES BEFORE THEY DID, AND PEOPLE THEN STARTED TO
+SCREAM. EVENTUALLY I GOT PULLED UP ONTO THE SEATING AREA ABOVE.
+I W ENT WITH MY BROTHERS                                             LONDON,
+AND                                               L KENT, f         1
+
+«     END OF     WHO WITH >>
+ CALL DATE       >> 27/04/89
+ C J ^ F t IME   >> 16s29 1 14
+ of W c e r      >>
+ DIVISION        »
+COLLAR           »
+RANK             » WPC
+ END_CALL        » 16:56:58
+PRIORITY         >> 1
+UPDATE           » 27/04/89
+UPTIME           » 16:57:00
+
+*** END OF RECORD ***
+                                       f t   n o v
+*** START OF RECORD ***
+                                      <2Sk2cP5>
+SURNAME     >>
+FORENAMES
+AGE
+            >>
+            >>                         Mb°C)
+SEX         >>
+ADDRESS     >>
+                                                                      LIVERPOOL
+POSTCODE >>
+HOME TELE >>
+BUSI TELE >>
+CONT TELE >>     *EMPTY*
+WHY PHONE >>     I WAS AT THE MATCH
+ATTENDED >>      Y
+SUPPORTER >>     L
+HOW TRAVEL>>     PRIVATE CAR
+IN OR OUT >>     I
+POSITION >>      WEST STAND PEN 3 OR 4
+STANCE    >>     ST
+INFO      >>     ARRIVED 145PM STARTED OFF AT PEN 3 OR4 WE MOVED BACK UP THE
+                 TUNNEL WENT TO PEN 5 OR 6 WHERE IT WAS EMPTY THE ENTRANCE TO THE
+                 TUNNELS WAS BLOCKED THERE WAS      NOONE WATCHING THE TUNNELS IE
+                 POLICE OFFICIALS.I WAS LATER AWARE OF PEOPLE CLIMBING OVER THE
+                 FRONT FENCE. WE DIDNT KNOW THERE WAS ANYTHING WRONG I DONT THINK
+                   THE POLICE KNEW WHAT WAS GOING ON EITHER
+MAKE_STATE» Y
+WDAY_AVAIL>> X
+WEND A V A I L » X
+
+«   WHO_WITH     »
+
+CANT REMEMBER FRIENDS DETAILS WILL ASK THEM TO PHONE US TONIGHT
+
+« END OF    WHO_WITH »
+CALL_DATE   » 25/04/89
+CALL_TIME   » 12:39:03
+OFFICER     >>
+DIVISION    >> F
+COLLAR      >> I    I
+            >> WPC
+Et^pCALL    » 12:47:59
+PRIORITY    » 2
+UPDATE      » 25/04/89
+UPTIME      » 12:48:01
+
+*** END OF RECORD ***
+*** START OF RECORD ***                     ArfcJZ,              M (IB
+SURNAME     >>
+FORENAMES   >>
+AGE         >>       31
+SEX         >> M
+ADDRESS     >>
+
+                 LIVERPOOL
+POSTCODE »
+HOME_TELE »
+BUSI_TELE »
+CONT_TELE »      *EMPTY*
+WHY_PHONE »      I ATTENDED THE MATCH
+ATTENDED »       Y
+SUPPORTER >>     L
+HOW_TRAVEL»      PRIVATE CAR
+IN_OR_OUT »      I
+POSITION »       SEATED AREA WEST STAND
+STANCE    »      SE
+INFO      »      WE ARRIVED OUTSIDE THE GROUND AT ABOUT 14.40HRS. I WAS WITH MY
+                 GIRLFRIEND. IT WAS CHAOS OUTSIDE AND A POLICEMAN HAD TO HELP MY
+                 GIRLFRIEND GET THROUGH THE CROWD.AT ABOUT 15.02 THERE WAS A SURGE
+                 OF FANS COMING INTO THE STAND. THEY WERE ALL INTHE AISLE AND IF
+                 WE WANTED TO GET OUT WE COULD NOT. THESE HAD COME FROM THE
+                 STAIRWAY. THERE WERE NO STEWARDS OR POLICE IN THE STANDS AT ALL.
+MAKE_STATE» Y
+WDAY_AVAIL» D
+WEND A V A I L » D
+
+«   WHO_WITH     »
+
+I LOOKED INTO THE TERRACE BELOW BEFORE THE GAME AND WE SAW THAT THE TWO WINGS
+WERE EMPTY BUT THE CENTRE SECTIONS WERE PACKED.
+
+ATTENDED WITH                                      WEST DERBY. TEL NO
+     SAME BUSINESS PHONE
+
+<< END OF   WHO_WITH »
+CALL_DATE   » 29/04/89
+CAHLTIME    » 18:22:34
+ofllCER     >>
+DIVISION    >>   K
+COLLAR      >>
+RANK        >> v[pc
+END_CALL    » 18:34:26
+PRIORITY    »    2
+UPDATE      »    29/04/89
+UPTIME      »    18:34:28
+
+*** END OF RECORD ***
+*** START OF RECORD            ***
+
+SURNAME         »                              n
+FORENAMES       »
+AGE             »
+SEX             »      M                      \j[5
+                                              0  {y w
+                                                    1
+ADDRESS         »                                           i
+                       WOLVERHAMPTON                                             WEST
+                       MIDLANDS
+POSTCODE »
+HOME TELE »
+BUSI~TELE »
+c o n t j f e l e >> tg w w »w~
+WHY_PHONE »          I WAS AT THE MATCH
+ATTENDED »           ¥ ■
+SUPPORTER »          L
+HOW_TRAVEL»          PRIVATE CAR
+IN__OR_OUT »          I
+POSITION »           BEHIND THE GOAL AREA, WEST STAND
+STANCE            »  ST
+INFO              »   I LEFT MANCHESTER TOGETHER WITH MY FRIENDS EARLY ON THE MORNING,
+                      INTENDING TO GET TO SHEFFIELD AT 12.30PM AS MEETING FRIENDS, HELD
+                     UP ON THE MOTOR WAY AT        STOCKPORT AND SO DID NOT ARRIVE AT
+                     SHEFFIELD UNTIL LATE. GOT TO LEPPINGS LANE AT
+Jl      _STATE» Y
+WDAY A V A I L » X
+w e n d “a v a i l » 'X
+
+«    WHO_WITH          »
+2.30PM, ALTHOUGH IT WAS BUSY OUTSIDE , TO ME IT DID NOT APPEAR TO BE
+OVERCROWDED BEARING IN MIND IT WAS A SEMI FINAL. I CAN'T REMEMBER HOW I GOT
+INTO THE GROUND, I THINK IT WAS THROUGH A TURNSTILE BUT I STILL HAVE MY
+TICKET.IT WAS ABOUT 2.45PM WHEN WE GOT ONTO THE TERRACING, AGAIN ALTHOUGH IT
+WAS CROWDED, IT WAS NO MORE THAN I EXPECTED FOR A SEMI FINAL. I WAS STANDING
+ABOUT HALF WAY UP THE TERRACING TO THE RIGHT OF THE GOAL POST. FROM THAT
+POINT ON I CAN'T RECALL MUCH, I DON'T REALLY REMEMBER ANY CRUSH. AT SOME
+STAGE THOUGH I DON'T KNOW IF IT WAS AFTER THE MATCH HAD STARTED OR NOT I
+REMEMBER SEEING PEOPLE AT THE FRONT POURING THROUGH A LITTLE FENCE ONTO THE
+PITCH.
+
+
+MY THREE FRIENDS WHO I HAD GIVEN A LIFT TO WERE STANDING BY ME ON THE TERRACE
+
+
+                       21YRS                            LIVERPOOL. TEL NO
+
+BRADY PAUL. DIED IN CRUSH.
+
+MC'CARTHY JOE. DIED IN CRUSH
+« END OF        WHO WITH »
+CALL DATE       » 28/04/89                                                  $
+CALL""TIME      » 10*22*47
+OFFICER         >>
+DIVISION        » F
+COLLAR          >>
+RANK            » WPC
+END__CALL       » 11*33*16
+PRIORITY        » 1
+UPDATE          » 28/04/89
+UPTIME          » 11*33*19
+*** END OF RECORD ***
+*** START OF RECORD ***
+
+SURNAME   »
+FORENAMES >>
+AGE        »    35
+SEX        >> M
+ADDRESS   >>
+
+                DONCASTER
+POSTCODE >>
+HOME_TELE >>
+BUSI_TELE >>     *EMPTY*
+CONT_TELE »      *EMPTY*
+WHY_PHONE »      I WENT TO THE MATCH
+ATTENDED >>      Y
+SUPPORTER »      N
+HOW_TRAVEL> >    PRIVATE CAR
+IN_OR_OUT »      I
+POSITION »       SPION KOP
+STANCE    >>     ST
+INFO      >>     THAT AT 1350 HRS I WAS WALKING DOWN WITH 4 OTHERS TOWARDS THE
+                 MATCH, AND I NOTICED THAT THERE WERE A LARGE AMOUNT OF LIVERPOOL
+                 FANS SITTING AROUND DRINKING BEER FROM CANS, THEY SEEMED TO HAVE
+                 NO URGENCY TO GO TO THE MATCH
+MAKE_STATE> > Y
+WDAY_AVAIL>> X
+WEND A V A I L » X
+
+<< WHO WITH     »
+                                         DONCASTER TEL   j
+                                                ^ TEL
+I                                                        I TEL
+                                   NOTTINGHAM, TEL
+
+« END OF    WHO_WITH >>
+CALL_DATE   » 25/04/89
+CALL_TIME   >> 1Q »0 Q »cm
+OFFICER     > > __________
+DIVISION    >> M_
+c( ® ar     >>
+RANK        » WPC
+END_CALL    » 19:42:48
+PRIORITY    » 2
+UPDATE      » 25/04/89
+UPTIME      » 19:42:50
+
+*** END OF RECORD ***
+*** START OF RECORD ***                 kmjfi
+SURNAME     >>
+FORENAMES   >>                          Si^go
+AGE         >> 40
+SEX         >> M                        6^122'}'
+ADDRESS     >> I
+
+               LIVERPOOL
+POSTCODE »
+HOME_TELE »
+BUSI_TELE >>  *EMPTY*
+CONT_TELE »   *EMPTY*
+WHY_PHONE »   I WAS AT MATCH AND SUSTAINED SLIGHT INJURY
+ATTENDED >>   Y
+SUPPORTER »   L
+HOW_TRAVEL>>  COACH      HELMS EASTHAM WIRRAL LIVERPOOL
+IN_OR_OUT »   I
+POSITION »    PEN 3 LEPPINGS LANE
+STANCE    »   ST
+INFO      »   AT 2.30PM I ARRIVED AND GOT CRUSHED AT TURNSTYLES A POLICEMAN
+              SAID TO ME COME THROUGH HERE AND IT WAS AN EXIT DOOR DOUBLE BLUE
+              DOORS THERE WAS ONLY A FEW OF US GOING THROUGH. IT WAS 3PM THEN
+              AND I WENT THROUGH THE TUNNEL OK A COUPLE OF SECONDS LATER THERE
+              WAS A LARGE SURGE FORWARD AND I WAS CRUSHED.   THERE WAS NO
+              STEWARDS SHOWING THE WAY TO THE WING SECTIONS.
+MAKE_STATE> > Y
+WDAY_AVAIL» X
+WEND AVAIL>> X
+
+<< WHO WITH    >>
+
+                    25YRS                             LIVERPOOL.   TEL NO NK
+
+<< END OF   WHOJWITH »
+CALL_DATE   » 25/04/89
+CALL_TIME   » 18:37:01
+OFFICER     » __________
+DIVISION    » M
+            »
+            » WPC
+END_CALL    >> 18:48:39
+PRIORITY    » 2
+UPDATE      » 25/04/89
+UPTIME      » 18:48:43
+
+*** END OF RECORD ***
+                                         frnio                (3(d ((
+*** START OF RECORD ***
+
+SURNAME   »
+FORENAMES »
+AGE        »   39
+SEX        » M
+ADDRESS   >>
+
+                SHROPSHIRE
+POSTCODE    >>
+HOME_TELE   >>
+BUSI_TELE   »
+CONT_TELE   » *EMPTY*
+WHY_PHONE   »     I WOULD LIKE TO TELL YOU ABOUT EVENTS LEADING UP TO THE INCIDENT
+                  AT THE MATCH
+ATTENDED » Y
+SUPPORTER » L
+HOW_TRAVEL» PRIVATE CAR
+IN_0R_°UT » I
+POSITION » WEST STAND IN THE SEATING AREA
+STANCE      » SE
+                  THE LACK OF POLICE PRESENCE WAS QUITE NOTICEABLE BUT NEITHER WAS
+I!#             THERE ANY       STEWARDS BUT I HAVE HEARD THAT THE STEWARDS WERE
+                ACTUALLY TAKING MONEY FROM PEOPLE ALTHOUGH I HAD A TICKET TO GET
+                IN I DON'T KNOW BUT OUTSIDE THERE WERE VERY FEW POLICE OFFICERS
+                THERE .
+MAKE_S TATE > > Y
+WDAY_AVAIL» E
+WEND_AVAIL> > X
+
+«   WHO WITH     >>
+
+               [ WITH NEPHEW                                      LIVERPOOL
+ALSO           UNCLE
+LIVERPOOL
+
+<< END OF    WHO_WITH »
+CALL_DATE    » 25/04/89
+CALL_TIME    » 13:05:08
+OFFICER      >> C ^ Z Z ^ Z ^
+DMSION       » G^
+c o El a r   >>
+RANK         >> WPC
+END_CALL     » 13:17:10
+PRIORITY     » 2
+UPDATE       » 25/04/89
+UPTIME       » 13:17:12
+
+*** END OF RECORD ***
+    .ft-'-
+ *** START OF RECORD ***
+
+  SURNAME     »
+! FORENAMES   »
+  AGE         »          54
+i SEX ■ '     »      K
+  ADDRESS     »
+                     LIVERPOOL
+ POSTCODE »
+ HOME TELE »
+ BUSl”TELE »      ♦EMPTY*
+ CQNT” TELE »     *T^MPrPY*
+ t o Ih q n e »   I WAS AT THE MATCH
+ ATTENDED >>      Y
+ SUPPORTER »      L
+ HOW T R A V E L »PRIVATE CAR
+ IN OR_OUT »      I
+ POSITION »       WEST STAND RIGHT HAND SIDE OF GOALS
+ STANCE         » ST
+ INFO           » I GOT TO THE GROUND AT 2:30PM. THERE WAS A LARGE CROWD OUTSIDE
+                  THE GROUND , THERE WERE NO QUEUES AND NO - ONE WAS GIVING THEM
+                  DIRECTIONS. THEY LET SO MANY FANS INTO THE GROUND BY THE BLUE
+                  GATES TO GET TO THE TURNSTYLES. THERE WERE A COUPLE OF POLICE AND
+                  A MOUNTED POLICE SERGENT. I HEARD THE SGT. TELL AN INSPECTOR THAT
+                  HE NEEDED MORE MEN. THE CRUSHING WAS GETTING BAD SO ME AND MY SON
+                  WENT TO OVER
+ MAKEJSTATE» Y
+ WDAY_AVAIL» A'
+ WEND A V A I L » X
+
+  << WHO_WITH        »
+
+ CONTD
+ THE BLUE GATE IN THE WALL. MY FRIEND WAS TRODDEN ON BY A POLICE HORSE. I TOOK
+ HIM TO A POLICE MAN WHO WAS STANDING BY THIS GATE AND ASKED HIM TO GET HIM TO
+ THE FIRST AID POST. HE SAID HE WAS UNABLE TO AND TOLD HIM TO GO OUTSIDE AND
+ FIND SOME FIRST ATq THERE. THIS FRIEND IS            I DONT KNOW HIS ADDRESS
+ BUT WILL FIND OUT.
+ WHILE WE WERE STANDING BY THIS GATE, IT WAS 2:50PM , THE GATE IN THE WALL
+ OPENED . THERE WAS A MAD SCRAMBLE THEN TO GET INTO THE GROUND. I WENT INTO
+ TffiL TUNNEL AND GOT JUST INTO THE CROWD. IT WAS JUST TO FULL SO I WENT TO THE
+ R K     HAND SIDE TERRACE WHERE THERE WAS MORE ROOM . IT WAS ONLY A COUPLE OF
+ MINUTES AND I REALLY HAD TO PUSH TO GET OUT.
+ THERE WERE NO STEWARDS OF POLICE TO DIRECT THE CROWD WHEN THEY GOT TO TUNNEL.
+ THE GAME HAD STARTED. THEN I SAW THE CRUSH START . PEOPLE WERE BEING PUSHED
+ OVER THE TOP ONTO THE PITCH. I SAW POLICE PUSHING PEOPLE BACK AND THEN THE
+ GATE IN THE FENCE WAS OPENED AND POLICE WERE HELPING TO GRAB PEOPLE OUT.
+ I DID NOT SEE ANY FIGHTING DRUNKENESS OR HOOLIGANISM.
+ THERE WAS AN ANNOUNCEMENT BUT I COULD NOT HERE IT.
+
+  I WENT TO THE MATCH WITH
+                    SAME ADDRESS
+                 SAME ADDRESS
+          FRIEND OF       I WILL FIND OUT ADDRESS
+
+ ON THE WAY FROM THE GROUND I WAS INVOLVED IN AN INCIDENT WITH A POLICEMAN
+ WHO TOLD ME TO MOVE MY CAR TO ALLOW AMBULANCES TO GET PAST WHICH I DO
+ UNDERSTAND . BUT THIS POLICEMAN BECAME ABUSIVE AND MY SON PASSED A REMARK
+ ABOUT ALL THE DEAD IN THE GROUND WHICH THIS POLICE MAN REPLIED TOUGH LUCK
+ HIS NUMBER IS     AND I HAVE MENTIONED THIS ON RADIO LIVERPOOL AND MADE A
+ COMPLAINT.
+
+  « END OF WHO WITH »
+  CALL DATE » 27/04/89
+  CALL""TIME » 14130:24
+                                                         ■Jr\
+OFFICER » »   ________
+DIVISION »    K '■
+COLLAR    »
+RANK     »    WPC
+END_CALL »    14*55*46
+PRIORITY »    1
+UPDATE    »   27/04/89
+UPTIME    »   14*55*49
+
+*** END OF RECORD ***
+*** START OF RECORD ***
+                                           (\nn                  f t [\ia>
+SURNAME        »
+FORENAMES      »
+AGE            »          21
+SEX            »      M
+ADDRESS        »
+                                                                            CREW
+POSTCODE »
+HOME_TELE »
+BUSI__TELE »     *EMPTY*
+CONT__TELE »     *EMPTY*
+WHY_PHONE »      I WAS AT THE MATCH
+ATTENDED >>      Y
+SUPPORTER »      L
+HOW_TRAVEL»      VAN
+i n _o r _ o u t »
+                 I
+POSITION »       WEST STAND
+STANCE           »
+                 SE
+INFO             I ARRIVED AT THE GROUND AT ABOUT 2.25PM, IT WAS CHAOS OUTSIDE,
+                 >>
+                 PEOPLE WERE PUSH-ING, YOU HAD TO GO WITH THE CROWD. THERE WERE
+                 ABOUT FOUR HORSE BACKED POLICE    IMMEDIATELY OUTSIDE THE GROUND.
+                 THEY WASN'T VERY HELPFUL. MY MATES AND I RECEIVED BRUISES FROM
+                 THE PUSHING AND SHOVING GOING ON FROM OUTSIDE, BUT FROM WHAT I
+                 COULD SEE I WOULD NOT SAY THAT THERE WAS A DANGER OF LOSS OF LIFE
+                 OUTSIDE, BUT
+MAKE_S TATE > > Y
+WDAY_AVAIL» E
+WEND A V A I L » D
+
+«   WHO_WITH          »
+
+I WASN'T BY THE GATE SO I DON';T KNOW WHAT IT WAS LIKE THERE. THE GATE WAS
+OPENED AND I WENT THROUGH, NOBODY ASKED TO SEE MY TICKET AT ALL. I DIDN'T SEE
+ANY POLICE OR STEWARDS INSIDE THE GROUNDS. I WENT AROUND TO THE RIGHT HAND
+SIDE PEN, BY THIS TIME THE PLAYERS WERE ALREADY ON THE PITCH GETTING READY TO
+KICK OFF. I WAS BEING PUSHED AND SHOVED AND AS I'M SMALL WASN'T VERY
+COMFORTABLE. I STOOD ON SOMEBODIES SHOULDERS AND CLIMBED UP INTO THE SEATING
+AREA AND SAT ON THE STEPS. THERE WERE PEOPLE SCREAMING DOWN BELOW, I COULD
+SEE THAT THEY WERE SQUASHED UP THE FRONT RAILINGS. THE GAME STARTED, I SAW
+PEOPLE CLIMBING OVER THE FENCES, THE POLICE THEN OPENED THE GATES, I THOUGHT
+T V THE POLICE WAS GOING TO MOVE THEM INTO A DIFFERENT PEN FROM OUT OF THE
+FRONT, AS PEOPLE COULDN'T GO BACKWARDS. I STARTED TO HELP PEOPLE UP INTOTHE
+SEATS AND FANS WERE HELPING EACH OTHER ON THE PITCH.
+
+WORKS AWAY FROM HOME SO NEEDS AT LEAST ONE WEEKS NOTICE IF SOMEBODY VISITS.
+
+« END OF       WHO. WITH >>
+CALL DATE      >> 29/04/89
+CALL TIME      >> 19:16 :33
+OFFICER        >>
+DIVISION       » K
+COLLAR         >>
+RANK           » WPC
+END CALL       » 19:55 :53
+PRIORITY       >> 2
+UPDATE         >> 29/04/89
+UPTIME         >> 19:55 :56
+
+*** END OF RECORD ***
+                                                                     //y o
+*** START OF RECORD ***
+
+SURNAME      »
+FORENAMES    >>
+AGE          »   27
+SEX          » M
+ADDRESS      >>
+                                                                             ESSEX
+POSTCODE » 1
+HOME_TELE »
+BUSI_TELE »
+CONTJTELE »      *EMPTY*
+WHY_PHONE »      WAS AT THE MATCH
+ATTENDED »       Y
+SUPPORTER >>     L
+HOW_TRAVEL»      PRIVATE CAR
+IN_0R_0UT »      I
+POSITION »       WEST STAND TO THE RIGHT BY THE POLICE CONTROL BOX
+STANCE    >>     ST
+INFO      »      AT 1445HRS THERE WAS A BIG CRUSH OUTSIDE THE GATES, I NOTICED
+                 THAT THE GATES BY THE RIVER HAD BEEN OPENED ON TWO OCCASSIONS, ON
+                 THE SECOND OCCASSION I WENT THROUGH MYSELF, EVERY ONE WAS POURING
+                 INTO THE CENTRE TWO PENS, BUT HAVING BEEN TO THE GROUND I KNEW
+                 NOT TO GO THROUGH, THE TUNNELL. THERE WAS NO STEWARDS OR POLICE
+                 DIERCTING US INSIDE, NO ONE WAS LOOKING AT OUR TICKETS
+MAKE_STATE» Y
+WDAY_AVAIL» X
+WEND A V A I L » X
+
+<< WHO WITH     »
+
+I WAS WITH MY BROTHER                                           } WIRRELL
+MERSEYSIDE, T E L ______
+
+« END OF     WHO_WITH »
+CALL_DATE    » 25/04/89
+CALL_TIME    » 20:27:42
+OFFICER      »
+DIVISION     >> M
+COLLAR       »
+RMj|         »  WPC
+E MWrlE
+      CALL   » 20:38:52
+PRIORITY     » 2
+UPDATE       » 25/04/89
+UPTIME       » 20:38:54
+
+*** END OF RECORD ***
+*** START OF RECORD ***                          a
+
+SURNAME   »                                       s   \ \ u %
+FORENAMES »
+AGE       »         25                                     \ \u -V
+SIX      »
+ADDRESS   »
+
+                          NR MANCHESTER
+POSTCODE »
+HOME_TELE »
+BUSl"*TELE >>
+CONT~TELE »      ♦EMPTY*
+WHYjPHONE »      I WAS AT THE MATCH
+ATTENDED »       Y
+SUPPORTER »      L
+HOW TRAVEL>>     PRIVATE CAR
+INjOR OUT »      I '
+POSITION »       CENTRE PEN. LEPPINGS LANE END.
+STANCE     »     ST
+INFO       »     I GOT TO THE MATCH AT ABOUT 1.30PM AND BEFORE ENTERING THE
+                 TURNSTYLE I WAS SEARCHED. WE GOT INTO THE GROUND AND ON THE
+                 TICKET IT SAID WE HAD TO GO TO ENTRANCE BBUT INSIDE THE GROUND IT
+                 WAS REALLY CONFUSING IT DIDN'T MAKE IT CLEAR WHICH WAY TO GO SO
+                 WE ENDED UP IN THE CENTRE PEN BEHIND THE GOAL. WE WERE BEHIND A
+                 BARRIERAT FIRST AND THEN AT 2.30PM WE MOVED. AT 2.40PM THE FIRST
+                 CRUSH HAPPENED.
+MAKE_STATE» Y
+WDAY_AVAIL» E
+WEND A V A I L » M
+
+«   WHO_WITH    »
+
+ANOTHER CRUSH HAPPENED THEN BUT THIS   TIME NOBODY MOVED BACK AND WE WERE
+TRAPPED. PEOPLE WERE CRUSHED AGAINST    THE BARRIER AND WERE SCREAMING FORHELP.
+PEOPLE STARTED TO CLIMB OUT BUT WERE    PUSHED BACK BY THE POLICE. A MAN BEHIND
+ME PASSED OUT AND DIED LATER. I SAW PEOPLE GOING UNDERNEATH THE BARRIER BUT
+SOME DID NOT COME UP. I REMEMBER STANDING ON SOMEBODYS LEG WHO WAS LYING ON
+THE FLOOR BUT I JUST COULDN'T MOVE AWAY BECAUSE THERE WAS TOO MANY PEOPLE. I
+FINALLY GOT OUT AT 3.40 PM WHEN THE AMBULANCES CAME. I SAW NO LOOTING TAKE
+PLACE.I WAS WITH MY SISTER
+1M                                   f, LIVERPOOL.
+
+« END OF    WHO WITH »
+CALL DATE   » ?7/04/89
+CALL TIME   » 16:59:25
+OFFICER     >>
+DIVISION    >> B
+COLLAR      >>
+RANK
+END CALL
+            >> WPC
+            >> 17:26:44                                              rrv;
+PRIORITY
+UPDATE
+            » 1
+            » 27/04/89
+                                                                     \
+                                                                     \
+                                                                      V  “
+UPTIME      >> 17:26:47
+
+*** END OF RECORD ***
+*** START OF RECORD ***
+
+SURNAME      >>
+                                             SiOlU
+FORENAMES    >>
+AGE          »   28
+SEX          » M
+ADDRESS      »
+
+                   LIVERPOOL
+POSTCODE >>
+HOME_TELE »        *EMPTY*
+BUSI_TELE »               I
+CONT_TELE »    *EMPTY*
+WHY_PHONE »   AT MATCH LEPPINGS LANE END
+ATTENDED »     Y
+SUPPORTER >>   L
+HOW_TRAVEL»    COACH       BARNES TRAVEL COUNTY RD WALTON LIVERPOLL
+in_o r _o u t »I
+POSITION »     WAS FIRST AT TURNSTILL WHEN OPENED
+STANCE        »ST
+INFO          >>
+               OUTSIDE TURNSTILL WAS A CRUSH OF PEOPLE...POLICE HAD NO CHOICE
+               BUT TO OPEN GATES THEN WAVE OF PEOPLE JUST CARRIED HIM THROUGH
+               TUNNEL ENDED UP GETTING OVER FENCE TO RIGHT OF GOALL
+MAKE_STATE» Y
+WDAY_AVAIL» E
+WEND_AVAIL» E
+WHO_WITH » *EMPTY*
+CALL_DATE » 25/04/89
+CALL_TIME » 14:58:32
+OFFICER   > > _________
+DIVISION » J
+COLLAR    »
+RANK      » WPC
+END_CALL » 15:06:02
+PRIORITY » 2
+UPDATE    » 25/04/89
+UPTIME    » 15:06:04
+
+*** END OF RECORD ***
+                                       Prqn
+*** START OF RECORD ***
+
+SURNAME     >>
+FORENAMES   >>
+AGE         >>    ZT
+SEX         >>   ML
+ADDRESS     >>
+
+                 LIVERPOOL
+POSTCODE     >>
+HOME_TELE    »
+BUSI_TELE    »
+CONT_TELE    >> ♦EMPTY*
+WHY_PHONE    » I WAS AT THE MATCH , I ARRIVED AT ABOUT 2PM AND AT THAT TIME
+                 THERE WASN'T5 ANY TROUBLE
+ATTENDED » Y
+SUPPORTER >> L
+HOW_TRAVEL» PRIVATE CAR
+IN_OR_OUT » I
+POSITION » WE WERE INITIALLY BEHIND THE GOAL ON THE LEFT THEN WE WENT OUT
+                 AGAIN BECAUSE IT WAS TOO CROWDED WE WENT BACK INTO THE SECTION
+                 NEARER TO THE GOAL ON THE LEFT SIE
+s«   ce       » ST
+INFO          » I DIDN'T SEE A SINGLE STEWARD OUTSIDE THE GROUND , PEOPLE DIDN/T
+                 KNOW WHERE TO GO THERE WERE POLICE OUTSIDE THE GROUND BUT NOT
+                 NEAR TO THE TURNSTILES
+MAKE_STATE» Y
+WDAY_AVAIL» D
+WEND A V A I L » D
+
+«   WHO WITH     >>
+
+I WAS WITH                 WHO TRAVELLED WITH ME, I DON'T KNOW HIS ADDRESS BUT
+HE WILL BE CALLING YOU
+
+« END OF    WHO_WITH »
+CALL_DATE   » 25/04/89
+CALL_TIME   >> 08:46:52
+OFFICER     >>
+DIVISION    >>
+CQKJ
+   LtAR     >>
+R&m i       » WPC
+END_CALL    » 09:07:41
+PRIORITY    » 2
+UPDATE      » 25/04/89
+UPTIME      >> 09:07:45
+
+*** END OF RECORD ***
+*** START OF RECORD ***
+                                                      £>IQ^2>
+SURNAME »             1^ 2^13-3)
+FORENAMES »
+AGE       »   22
+SEX       » M
+ADDRESS   »
+               CHESTERFIELD    DERBYSHIRE
+POSTCODE »
+HOMEJTELS »
+BUSI TELE »
+CONT~TELE »     *EMPTY*
+WHY PHONE »     I WAS AT THE MATCH
+ATTENDED >>     Y
+SUPPORTER »     L   ■
+HOW TRAVEL>>    PRIVATE CAR
+INjORjOUT »     I
+POSITION »      PEN 3
+STANCE     »    ST
+INFO       »    I WAS IN PEN 3 FROM ABOUT 11.45AM. AT 2.30PM IT BECAME VERY
+                UNCOMFORTABLY CROWDED AND I WAS GETTING JOSTLED AND PUSHED
+                FORWARD. AFTER THE KICK OFF WE WERE SCREAMING AT THE POLICE ON
+                THE TOUCHLINE TO OPEN THE GATE BUT THEY TOOK NO NOTICE. THEY
+                APPEARED MORE INTERESTED IN THE GAME AND DIDN'T REALISE WHAT WAS
+                HAPPENING. AT ABOUT 3.05PM SOMEBODY PULLED ME OUT OVER A SIDE
+                FENCE
+MAKE__STATE» Y
+WDAY__AVAIL » X
+WEND AV A I L » X
+
+«   WHO_WITH   »
+
+WENT WITH                     (22YRS)
+
+
+« END OF     WHO WITH >>
+CALL__DATE   >> 27/04/89
+CALLJTIME    >> 17:50:58
+OFFICER      >>
+DIVISION     »
+COLLAR       »
+             >> WPC
+ENu CALL     » 18:22:51
+PRIORITY     » 1
+UPDATE       >> 27/04/89
+UPTIME       » 18:22:53
+
+*** END OF RECORD ***
+*** START OF RECORD ***
+                                         '7                      //-^ T
+SURNAME      >>
+FORENAMES    >>
+AGE          »    55
+SEX          >> F
+ADDRESS      >>
+
+                LEICESTER
+POSTCODE »
+HOME_TELE »
+BUSI_TELE »
+CONTJTELE » *EMPTY*
+WHY__PHONE »I WAS AT THE MATCH OUTSIDE GATE A AT LEPPINGS LANE END
+ATTENDED >> Y
+SUPPORTER » L
+HOW_TRAVEL» PRIVATE CAR
+IN_OR_OUT » O
+POSITION »  OUTSIDE GATE A LEPPINGS LANE
+STANCE     »NA
+INFO       »AT 14.40 OUTSIDE GROUND IN CRUSH I WAS SO CRUSHED I SCREAMED. HAD
+            TICKET FOR NORTH STAND ENTRANCE TO STAND SITUATE IN LEPPINGS
+            LANE. GOT INSIDE SAW 25 POLICEMAN STANDING IN GROUP. SGT TALKING
+            ON RADIO. TOLD POLICE IN GROUND CRUSH OUTSIDE.WENT TO OUR SEATS.
+            SAW PEOPLE COMING ONTO PITCH ABOUT 15.05. ONLY 5 ENTRANCES TO
+            LIVERPOOL END 11 TO NOTTINGHAM. MOUNTED POLILCE AT PENISTONE RD
+            BEFORE MATCH. CT
+MAKE_STATE» Y
+WDAY_AVAIL» M
+WEND_AVAIL» X
+
+«   WHO_WITH    »
+
+NO MOUNTED POLICE IN LEPPINGS LANE END. I GOT SEPERATED FROM MY HUSBAND WHO
+HAD THE TICKETS I WAS NOT ASKED FOR MY TICKET NEITHER WAS MY HUSBAND. THERE
+NEEDED TO BE MORE POLICE OUTSIDE THE GROUND . WHEN GOT INTO GROUND SAW GROUP
+OF 25 POLICE OFFICERS STANDING AROUND. GOT SEATED IN STAND SAW PEOPLE COMING
+ONTO PITCH BUT NO ONE TOLD US WHAT WAS HAPPENING.
+
+
+< ^ N D OF   WHO_WITH »
+C*_DATE      » 25/04/89
+CALLJTIME    » 15:18:36
+OFFICER      » __________
+DIVISION     » J
+COLLAR       »
+RANK         » WPC
+END_CALL     » 15:36:36
+PRIORITY     » 2
+UPDATE       » 25/04/89
+UPTIME       » 15:36:43
+
+*** END OF RECORD ***
+*** START OP RECORD ***                               O n is
+SURNAME       »             KO                       Qv^iiu£=>
+FORENAMES     »
+AGE           »      31
+SEX           »
+ADDRESS       »
+
+                    LIVERPOOL
+POSTCODE »
+HOMEJTELE »
+BUSI TELE »
+CONT~TELE »      *emp n *
+WHY_fHONE »      I WAS AT THE MATCH
+ATTENDED »       Y
+SUPPORTER »      L
+HOW T R A V E L »PRIVATE CAR
+IN_OR_OUT »      0 -
+POSITION »       WEST STAND SEATING PART.
+STANCE         » NA
+INFO          »  WE ARRIVED OUTSIDE AT ABOUT TWENTY TO THREE, AND THERE WAS NO
+                 POLICE PRESENCE. WE WERE IN AN ORDERLY QUEUE ON THE FAR LEFT HAND
+                 SIDE, TWO POLICEMEN ARRIVED, I STOOD BY THEM BECAUSE A BIT
+                 HECKTIC, WE DIDNT SEEM TO BE MOVINGAT ALL, PEOPLE WERE GETTING
+                 REALLY FRACTIOUS, ASND THEY STYARTED PUSHING....PLEADING FOIR THE
+                 GATES TO BE OP[ENMED. THE POLICEMEN SAID 'I SHOULDNT BE HERE
+                 ANYWAY..............
+MAKE__STATE» Y
+WDAY_AVAIL» D
+WEND A V A I L » D
+
+«   WHO_WITH        »
+
+  ...ITS MY DAY OFF'..HE THEN DISAPPEARED. PEOPLE STYARTED PUSHING.    I GOT
+ PUSHED AGAINST THE WALL, THERE WAS JUST NOWHERE TO GO. ..1 WAS VERY
+ FRIGHTENED. AT ABOUT TEN MINS TO 3 A POLICEMAN CAME AND TOLD USD TO MOVE
+ ASIDE AS THERE WERE SOME HANDICAPPED PEOPLE COMING THROUGH . THEY WENT THE
+ GATE AND NOBODY PUSHED THROUGH, AND THEY CLOSED THE GATES AFTER THEM. THE
+ CROWD WHERE GETTING VERY ABUSIVE AND TRYED TO PULL THER GATERS OPEN. JUST
+ AFTER 3PM WE WHERE STILL OIUTSIDE AND THERE WAS NO WAY WE COULD GET INSIDE.
+ THEN THE BLUE CONSETINA GATES WERE OPENED , THIS WAS AFTER THE KICK OFF. THE
+ 0 9 B R SIDE OF THE GATES THERE WERE ABPOUT 6 POLICEMEN, BUT NOONE TOOK OUR
+ TOTETS. WE THEN WENT TO THE NEAREST ENTRANCE AS THERE WAS NONE TO ASK, IT
+ WAS ENTRANCE /A'     WE WERE PUSHED UP THE STEPS, AND FOUND WE WERE IN THE
+ WRONG PLACED, THERE WAS A STEWARD WHO TOLD US TO GO BACK DOWN.    I SAID I
+ COULDNT. ..SO I WENT DOWN ONTO THE RUNNING TRACK. THERE WAS A POLICWOMAN AND
+ I TOLD HER I COULDNT GET DOWN THE OTHER WAY AND SHE OPENED THE GATE FOR ME TO
+ GET THROUGH. I WALKED ALONG THE TRACK TO WHERE THE CORTNER FLAG IS, AND WE
+ STOOD WITH SOME POLICVE AND FIRST AID PEOPLE THEN A FIRST AID GIRL CAME OVER
+ AND TOLD THE POLICE WHAT WAS HAPPENING AT THE OTHER END.WE WALKED ROUND THE
+ BACK OF THE STAND AND UP TO OUR PROPER SEATS.
+ I WAS WITH MY FRIEND WHO GOT CAUGHT UP IN IT A L L     .1
+              L LIVERPOOL |    | ALSO MY FATHER.
+I
+'' '                  ' ' ... I LIVERPOOL
+
+« END OF      WHO WITH »
+CALL DATE      » 17/04/89
+CALL*’TIME     » 17*03*54
+OFFICER        » l        |
+DIVISION      »
+COLLAR        »
+RANK           » WPC
+END CALL      » 17*22*26
+PRIORITY      » 1
+UPDATE        >> 27/04/89
+UPTIME        » 17*22*28
+                                               A (720
+*** START OF RECORD ***
+                                              2>-73>3                 <&<S (\CQ
+SURNAME      »
+                              ]W2-IZ5
+FORENAMES    »
+AGE          >> 32
+SEX          » M
+ADDRESS      »
+                            YORK
+POSTCODE     »
+HOME_TELE    »
+BUSI_TELE    »     ♦EMPTY*
+CONT_TELE    »     *EMPTY*
+WHY PHONE    »     WAS IN THE CROWD OUTSIDE THE MATCH AND GOT IN JUST BEFORE THE
+                   KICK OFF. MY       BROTHER GOT IN BEFORE ME. HE HAD REMOVED AN
+                   INJURED CHILD OUTSIDE THE GROUND     BEFORE HE GOT IN. THE GATE
+                   WHICH WAS SHOWN ON TV WAS NOT THE ONE THAT WAS        OPENED
+                   CAUSING THE CRUSH
+ATTENDED »         Y
+SUPPORTER »        X
+HOW_TRAVEL> >      PRIVATE CAR
+IN_OR_OUT »        0
+PORTION »          OUTSIDE AND JUST INTO THE AREA IN FRONT OF WEST STAND
+SVCG      »        NA
+INFO      »        OUTSIDE, EVERYONE WAS JUST COMING IN AND PUSHING. THERE WAS NO
+                   COMMUNICATION     WHATSOEVER. IF POLICEMEN HAD BEEN AROUND USING A
+                   LOUD HALER IT WOULD HAVE HELPED
+MAKE_STATE»        Y
+WDAY_AVAIL»        E
+WEND A V A I L »   X
+
+«   WHO WITH       »
+
+                       OF                               , YORK, TEL
+
+« END OF     WHO_WITH »
+CALL_DATE    » 27/04/89
+CALLJTIME    >>
+OFFICER      > > ______________
+DIVISION     >> A
+COLLAR       >>
+R K          » SGT
+e P _CALL
+     c       » 19:04 s35
+PRIORITY     »     2
+UPDATE       »     27/04/89
+UPTIME       »     19:06:01
+
+*** END OF RECORD ***
+*** START OF RECORD ***
+
+SURNAME     »
+FORENAMES   >>                                                        QsLsat
+AGE         »      25
+SEX         >> M                                                         iUjjB.
+ADDRESS     >>
+
+                  LIVERPOOL
+POSTCODE »
+HOME TELE »
+BUSI~TELE »      NIL
+GOUT”TELE »      ♦EMPTY*
+WHY PHONE »      I WAS AT THE MATCH
+ATTENDED »       Y
+SUPPORTER »      L ■'
+HOW_TRAVEL»      OTHER       mini b u s , company w i ll be found o u t .
+IN OR_OUT »      I
+POSITION »       WEST STAND SECTION B IN PENS 3 OR 4
+STANCE    »      ST
+INFO      »      I ARRIVED AT THE GROUMD AT 1430HRS AND THERE WAS A VERT LARGE
+                 CROWD OUTSIDE. I GOT INTO THE GROUD AT 1450 BY WHICH TIME THE
+                 CONCERTINA GATES WERE OPEN. AS THEY WRE OPENED A VERY LARGE GROUP
+                 OF FANS RAN INTO THE GROUND CAUSING ME TO BE PUSHED FORWARD TO
+                 THE FRONT OF THE STAND. I WAS ABLE TO MOVE TO THE RIGHT OF THE
+                 STAND &MANAGED TO CLIMB INTO THE NEXT SECTION (C).
+MAKE_STATE» Y
+WDAY_AVAIL» E
+WEND A V A I L » D
+
+«     WHO_WITH    »
+CONT. AFTER I CLIMBED INTO THE NEXT SECTION I SAW A NUMBER OF PEOPLE LYING ON
+THE PITCH AND OTHERS WERE CLIMBING OVER THE FENCES. I SAW A FRIEND THAT I
+WORK WITH SITTING ON THE PITCH CRYING SO I WENT DOWN TO SEE IF HE WAS O.K AS
+I WAS LEAVING I SAW PEOPLE BEING TENDED TO AT THE BACK OF THE STAND, I DON'T
+THINK THAT THEY WERE BADLY INJURED. I THEN LEFT THE GROUND.
+I WENT TO THE MATCH WITH 27 OTHER PEOPLE BUT I ONLY WENT INTO THE WEST STAND
+
+                             (BROTHER)                BUCKINGHAMSHIRE, TEL
+
+                        (ADDRESS NOT KNOWN)
+34.                     /Annwigfig NOT KNOWN \
+                                                 LIVERPOOL.(NUMBER NOT KNOWN)
+
+« END OF    WHO WITH »
+CALL_DATE   » 27/04/89
+CALL TIME   >> 17*05:58
+OFFICER     >>
+DIVISION     »
+COLLAR       >>
+RANK         »    WPC
+END CALL     »    17*25*16
+PRIORITY     »    1
+UPDATE       »    27/04/89
+UPTIME       »    17:25*19
+
+*** END OF RECORD ***
+*** START OF RECORD ***
+
+SURNAME     »
+                                               QSA-iiUfi
+FORENAMES   » _
+AGE         »   24
+SEX         » M
+ADDRESS     »
+
+                LEICESTER
+POSTCODE    »
+HOME_TELE   »
+BUSI_TELE   »         ♦EMPTY*
+CONT_TELE          >> ♦EMPTY*
+WHY PHONE          » I WAS IN THE PEN BEHIND THE GOALS IN THE WEST STAND, BUT I
+                      CLIMBED INTO ANOTHER PEN BEFORE IT GOT TOO BAD. I DON'T KNOW
+                      WHICH PEN IT WAS, BUT I CLIMBED INTOTHE    PEN ON MY RIGHT.IT WAS
+                       ABOUT 30 MINUTES     BEFORE THE REAL CRUSH BEGAN.I COULD HEAR
+                      PEOPLE ASKING   OTHERS TO MOVE BACK EVEN THEN. I COULD SEE IT
+                      GOT REALLY CROWDED BUT I COULDN'T SEE MUCH IN THE MIDDLE
+                      PENS.
+ATTENDED » Y
+SHORTER » L
+h o W_ t r a v e l >> COACH       LLOYDS OF NUNEATON
+IN_OR_OUT » I
+POSITION » WESTSTAND
+STANCE             » ST
+INFO               »   THEREWERE 2 OR3 CASUALTIES ON MY COACH
+MAKE_STATE» Y
+WDAY_AVAIL» E
+WEND A V A I L » D
+
+«   WHO_WITH    »
+
+I TRAVELLED     ON   MY    OWN ON A   SUPPORTERS   COACH
+
+« END OF    WHO_WITH »
+CALL_DATE   » 25/04/89
+CALL_TIME   » 14:00:56
+OFFICER     >> ____________
+DIVISION    » H       ■
+cA   ar     »   IZZZH
+RANK        »   WPC
+END_CALL    »   14:19:58
+PRIORITY    »   2
+UPDATE      »   25/04/89
+UPTIME      »   14:20:02
+
+♦♦♦ END OF RECORD ♦♦♦
+                                                A   n-asi
+*** START OF RECORD ***
+                                                     ii^ o
+SURNAME       »                  NJ
+FORENAMES     >>                             Osl
+AGE           »   17
+SEX           » JL
+ADDRESS       »
+                    ORMSKIRK
+                    LANCASHIRE
+POSTCODE »
+HOME TELE »
+BUSI~TELE » NOT KNOWN
+CONT*”TELE »♦EMPTY*
+WHY PHONE » I WAS IN THE CRUSH
+ATTENDED »  Y
+SUPPORTER » L
+            TRAIN
+HOW T R A V E L »
+IN_OR_OUT » I
+POSITION »  PENS 3 AND 4 OF THE WEST STAND TERRACE
+STANCE      ST»
+INFO          »
+            I WENT DOWN THE TUNNEL INTO THE MIDDLE PENS AT 1410HRS BEHIND THE
+            GOAL IN THE MIDDLE OF THE PEN.BY 1430HRS IT WAS WELL PACKED AND I
+            GOT SEPARATED FROM MY FRIEND. IT WAS BEARABLE UNTIL 1455HRS WHEN
+            THERE WAS SUDDEN PUSH AND I ENDED UP FACING SIDEWAYS AND WAS
+            UNABLE TO TURN ROUND. I COULDN'T BREATHE AND EVERY BREATH WAS AN
+            EFFORT. PEOPLE WERE PASSING OUT ALL AROUND ME. AT 1515HRS I
+            MANAGED TO CLIMB
+MAKE_STATE» Y '.
+WDAY_AVAIL» E
+WEND_AVAIL» X
+
+«   WHO WITH        »
+
+OVER A SIDE FENCE WHICH LED ONTO THE PITCH. I DID SEE ONE POLICEMAN IN THE
+CENTRE PEN TRYING TO HELP AND HE WAS GETTING ATTACKED AND PEOPLE HAD TO HELP
+HIM.
+I WAS WITH A FRIEND                |0F I                     I LIVERPOOL.
+
+
+« END OF      WHO WITH »
+CALL DATE     >> 27/04/89
+CALL~TIME     » 19:24«OS
+OFgCER        »
+DIWSION       »
+COLLAR        >>
+RANK          »  WPC
+END__CALL     »  19:41:26
+PRIORITY      » 1
+UPDATE        >> 27/04/89
+UPTIME        » 19*41*28
+*** END OF RECORD ***
+

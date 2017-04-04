@@ -1,0 +1,107 @@
+                                                                                         M I R . 15
+              Sheffield Archives Ref. fo ^ j        f j 5%
+OTHEFt DOCUMENT FORM                                 Date and tim e raised   -ft                      i-N u m b e r
+
+
+
+T itle   T o p - v j 7 < ^ < S V v c > n g - Q ^ v h o ^ o u l K ' , — $ : iiB
+(Include source
+             re %
+                ahcf
+                a n a a n y docum
+                            d ocum ent
+                                   ent1numbei
+                                       num ber i f relevant)
+
+
+Receiver's instructions — urgent action — Y e ^ N o
+                                                                                                                          Receiver
+
+
+
+
+                                                                                                                           Indexer
+Document registered/indexed as indicated
+
+No(s) o f actions raised
+                                                                                                                      Statem ent Reader
+Statement reader's instructions
+
+
+
+                                                                                                                           Indexer
+ Indexed as indicated
+
+No(s) o f actions raised
+
+Examined - further action to be taken
+
+
+
+
+                                                                                                                           Indexer
+^Further action No(s)
+
+
+When satisfied all actions raised Office Manager to endorse other Docum ent Master Num ber Form
+                                   APPEND MODE
+ HILLS1        WEST MIDLANDS POLICE                         PAGE 1 OF 3
+                  Hillsborough Enquiry Telephone Questionnaire
+ -DETAILS OF OFFICER TAKING CALL-----------------------------------
+    DATE 24/04/89 TIME 1326   OFFICER: [FRED BLOGGS             ]
+                              DIVs      [#]    COL. NO. [ 9999]   RANK [PC   ]
+
+ (-CALLER DETAILS
+ 0JRNAME :                                ]
+  FORENAMES:                        ][                     ][
+  AGE       :    0]      SEX        [ ]   (M/F/X)
+  ADDRESS :
+
+  POSTCODE :
+
+               Home                 Business             Contact
+  TEL NOS   : [                ][                   ][             ]
+     Answers to questionnaire (Page 2), People with this caller (Page 3)
+Rec 1 of 3:Hillsborough Enquiry:No Index Set
+                    ESC = ABORT record    F3 = SAVE record
+   ^                              APPEND MODE
+ HILLS2          WEST MIDLANDS POLICE                     PAGE 2 OF 3
+                  Hillsborough Enquiry Telephone Questionnaire
+Why have you telephoned ?
+
+
+
+
+D-4^ you attend the match ? [ ] (Y/N) Who do you support ?    [ ] (L/F/N/X)
+How did you travel ? [              ] Were you inside/outside the ground ? [ ]
+Where were you ? [                                                          ]
+If inside the ground, were you standing or were you seated ? [ ] (ST/SE/NA)
+Briefly, what information do you have that you consider is vital to this enquiry
+
+
+
+
+Are you willing to make a formal statement at a later date ? [N] (Y/N)
+When are you available ?     Weekdays [    ]     Weekends [    ]
+  Details of this Caller (Page 1), People who were with this caller (Page 3)
+Rec 1 of 3:Hillsborough Enquiry:No Index Set
+                    ESC - ABORT record    F3 = SAVE record
+   ^                                APPEND MODE
+ HILLS3            WEST MIDLANDS POLICE                     PAGE 3 OF 3
+                    Hillsborough Enquiry Telephone Questionnaire
+
+          ■NAMES,ADDRESSES AND TELEPHONE NUMBERS OF PEOPLE WITH THE CALLER*
+
+
+
+
+                                F5 = View/Edit MEMO"             .........
+            Caller Details on Page 1, Other Questionnaire Details on Page 2
+Rec 1 of 3:Hillsborough Enquiry:No Index Set
+                    ESC - ABORT record    F3 = SAVE record
+
+
+
+
+                                                                              4
+

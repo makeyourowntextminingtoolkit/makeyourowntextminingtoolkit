@@ -1,0 +1,2533 @@
+             INVESTIGATIGN
+
+
+
+
+1     124A/1 + support
+2     124A/2 + top of support
+3     124A/3 + top of support
+4     124A/4 + top of support
+5     125/1 + top of support - rear view
+6     125/1 + top of support - side view
+7     125/2 + top of support
+8     125/3 + top of support
+9     125 passing thrcu~ fence
+i0    125/4 + top of support
+ii    144/1 + top of support
+12    144/2 + top of support
+13    barrier 149 in full
+14    portion of barrier 136 in IHS of central pen
+15    barrier 136A in full
+16    barrler 125 in full
+17    barrler 124A in full (collapsed)
+18    barrler 144 in full
+19    barrier 150 in full
+20    barrler 137 in full
+21    barrier 138 in full
+22    barrler 132 in full
+23    barrier 125 viewed from RH part of pen
+24    136/1 + top of support (viewed from rear)
+25    136/1 close-%~ of gusset area
+26    136/1 showing distortion of rear support leg
+27    136/2 + top of support
+28    136/2 close-up from rear
+29    136/3 + top of support
+30    136/3 showing distortion of support
+31    136A/1 + top of support
+32    136A/2 + top of support
+33    136A/2 showing distortion of rear support leg
+34    136A/3 + top of support
+35    124A/I + top of support
+36    144/2 + support
+37    137/1 + top of support
+38    137/2 + top of support
+39    137/2 showir~ distortion of rear support leg
+40    137/3 + top of support
+41    138/1 + top of support
+42    138/2 + top of support
+43    138/3 welded to railings
+44    127/1 + top of support
+45    127/2 + top of support
+46    128/1 + top of support
+47    128/2 + top of support
+48    128/3 + top of support
+49    128/4 + top of support
+5O)
+51)   deformed tube on barrier in Pen 7
+52    general view - gate 5
+53    general view - central pen
+55)   I/4S of cerrta-al pen from stard
+56    RHS of oentral pen from stand
+57    ground frum rear of west stand
+58    124A/4 showing deformation of support
+59    124A/3 & 4
+6O)
+61)   125/1 close-up showing through wall corrosion
+62    steps at entrance to I/4S of central pen
+64    125/3 close-up
+66)
+67)   views of barrier 124A from north side (RHS)
+68    barrier 124 - fractures protected
+69)
+70)   barrier 136A &
+71    intact part of barrier 124A
+72    ~4A/I + m~port
+73    124A/2 support feet
+74)
+75)   124A/2 close-ups on end
+76)
+77    test rig on barrier 128 + perimeter fence
+78)
+79)   views along barriers 125 & 124 from north side
+80    124A/3 + detached t11be, from s<xlth
+81    124A/4 + support
+82)
+83)   124A/3 + support from west
+84    124A/4 support feet
+85    Barrier 136A in full
+86    124A/4 close-up of front support foot
+87)
+88)   124A/2 + top of support
+89)   from various angles
+90)
+91    ~V3
+92    view of IHS of central pen from north
+93    test rig on barrier 128 from above
+94    view of south stand
+95    I/4S of central pen
+96    barrier 126
+97    test rig on barrier 128 from below
+EXAMINATION OF ITEMS FROM HILLSBOROUGH               GT file ref oth.814
+
+I. BARRIER TUBES       124 A   TUBE 2/3   TUBE 3/4
+
+a. General description
+
+   Tubes bent.
+   Deflection measurements.
+   Deflection coincident with horizontal loading ? BDC can be identified
+   by paint drips.
+
+b. Description of fractures
+   Generally fibrous, some crystalline areas on fracture 3.
+   Piece detached from end 4.
+   Suggestion of two corroded holes approximately 10 and 20 mm in
+   diameter present in end 4 prior to failure.
+   General corrosion/thinning of tubes under straps but elsewhere only
+   light pitting/rusting of internal surface.
+c. Dimensions/thickness measurements
+
+   Thickness at fractures "clock’ positions - see individual diagrams.
+   Outside diameters along tubes at 150 mm intervals paint removed -
+   see individual diagrams.
+   Typical internal dia.       52 mm {gives wall thicknesses of approximately
+   4 mm}.
+   Wall thickness measurements using DM2 - tmderway by EG
+d. Thickness of paint
+   Elcometer and microsection {Fig} - 13 coats of paint/undercoat plus
+   a "zinc’ primer coat - approximately 0.5 mm total. {measured on
+   microsection.)
+e. Microstructure
+
+   Ring microsection tube 3/4 end 3 - wrought iron, longitudinal forged
+   lap weld {Figs}.
+
+f. Tensiles
+   Two from tube 3/4 end 3, stamped T343 1 and T343 2.
+
+   Results:           Elastic limit        RpO.5          Rm           A~
+              T343 1 142 MPa              271MPa         371MPa        17
+                       9.1 tsi            17.5 tsi       24.0 tsi
+              T343 2   159 MPa            269 MPa        358 MPa       17
+                       10.3 tsi           17.4 tsi       23.2 tsi
+~. Hardness
+
+  On ring micro - HV 10 145, 115, 145, 142, 144
+2. SUPPORTS 124A No. 3 and 4
+
+a. General description
+
+   Position of buckling
+   Fracture around rivets
+   Reinforcement of some legs
+
+b. Measurements
+
+   Dimensions of angle - No. 3      49 to 50 mm
+                         No. 4      52 to 52.5 mm
+   Thickness of angle - remote from buckling
+                          No. 3 Front leg     6.2 to 6.4 mm
+                                    Rear leg  6.0 to 6.1 mm
+                          No. 4     Front leg 7.1 to 7.4 mr.
+                                    Rear leg  6.6 to 6.8 mm
+
+   Thickness of angle at buckling - see individual diagrams
+c. Microstructure
+
+   No. 3 Front leg - 100~ ferrite
+          Rear leg - small amount of pearlite in ferrite in central region,
+                     ferrite at edges - rimming steel ?
+
+   No. 4 Front leg - as No. 3 rear
+         Rear leg - as No. 3 rear
+
+
+d. Hardness
+
+   On microsections     HV 10
+   No. 3 Front leg      106, 109, 105, 106
+         Rear leg       123, 113, 123, 125
+   No. 4 Front leg      112, 120, 116, 140
+         Rear leg       135, 141, 134, 121
+
+e. Tensiles
+
+   Two from support No. 3        Front leg - stamped FL3
+                                 Rear leg - stamped RL3
+
+Results:      Upper Y Pt.         Rm   A~
+       FL3     267 MPa          343 MPa   32
+               17.3 tsi         22.2 tsi
+
+        RL3       308 MPa       376 MPa      31
+                  19.9 tsi      24.3 tsi
+3. BARRIER TUBE - 124 A TUBE 1/2
+
+a. General description
+
+    Two circumferential welds ie 3 lengths of tube joined together
+    Smaller dia tube inserted into end 2
+    Corroded hole 35 mm X 15 am under strap 1
+
+b. Dimensions/thickness measurements
+6~o..,,.~_
+                                                                   ~--. ,.~-o~ ~-~
+
+
+
+
+    Tube outside diameter - 60 mm excluding paint
+    Mild steel tube wall thickness - 5 mm
+    Wall thickness at fractured end 2 - 0.4 n~n to 4 mm [see polaroid figs)
+
+c. Tensile tests
+
+    Two tensiles from mild steel length - stamped T 1221 and T 1222
+    Results:          Elastic limit    RpO.5      Rm          A~
+        T 1221         282 MPa        360 MPa    488 MPa      27
+                       18.3 tsi       23.3 tsi   31.6 tsi
+
+             T 1222    301MPa         372 MPa    499 l~a 27
+                       19.5 tsi       24.1 tsi   32.3 tsi
+
+d. Hardness
+
+    Mild steel tube       146 to 152 HV )
+    Weld metal            161 to 171HV ) Micro ABQY
+      14
+
+
+
+
+                                     IG "’~
+
+
+
+
+                                i
+
+                                    ¢s g ,C¢.
+                                      5-t 4~..¢
+
+
+~_) ~a- f~ ca,-i -   H u ’_.2
+
+
+
+
+                                         5"0 - 7~ ~,.,.,..
+
+                                           ,~ S’- ~ 7~".~..-
+Photocopies of these diagrams (6) were given to
+Professor Smith, Sheffield University on I June 1989.
+t~
+
+
+
+
+     !
+
+
+                       ~-y’-~ ~T_,.,,~   c!. e.,:,,.,,~ d
+
+                                         I
+
+
+
+
+         \
+
+
+
+             \,
+              ’\
+
+
+
+
+                   t
+               t
+               /
+              !
+q
+                 imenc ................................................................
+                                                                                           I
+....................................................   , .............................................................   File No.
+
+     _~£_~, ~4 k /~ ~ i :Zi:iiilL ....................
+O,,,o,’,,°r,,:)                          o.,o
+
+                                l
+                               I
+                               I
+                               1
+                               L.-
+
+
+
+
+oD. o~ ,,,,,14 sf*.~..(~ -f-,~l=_~                                                                    |
+
+
+
+
+                                /o0              ~                       ,,,1"~.1- ~ ,~L~.L .
+_
+
+
+
+
+              I
+          I
+
+          !
+         J
+         I.
+
+
+     /
+    ~J
+     !
+
+
+
+
+r"
+l
+
+
+
+
+    /6       -3
+
+
+
+         /
+         5
+
+
+
+
+                       ~.o
+                  3
+                  4
+                       ~+~
+
+                  "7
+                                 ..... ’-I,~<- !,,e
+
+
+
+
+                  -2_
+
+
+~;~t 0,~.% "I"-         t
+                    /
+                            -7
+                             I
+
+
+
+
+                                                 ~. ,2.I>
+                                                 .2 z.5
+                                                 3 2.~
+                                                ~-. (R
+                                                ~. z.r
+                                                (,, 4--5
+                                                ? .2-4-
+                                f
+                    \
+                            t
+
+
+
+
+               Ib
+
+~ ~!~’ ~ ’’J                                     ~r~%~.~t ~
+
+
+
+
+                                         /
+                                    3"
+                        1
+
+                        !
+
+
+
+
+                                               ’..       ~.7
+                                                         ~.~
+                                                         ~f-
+
+
+                                                ..      ~o
+
+
+
+
+                                             r,~ ,,~ ~k, ~.~.
+
+                                                ’ ~*~:/,’~C_
+
+
+
+
+                                                           +__
+
+                                                                 ~,~ . ~.,
+               ?
+
+
+
+
+                                   ,z ,,\
+
+
+                                       o,
+
+
+      7-
+
+-4,
+
+           I
+
+
+.7"].].j"
+
+
+
+
+                     --r/~ck.~.s" ,,~ ,~             ~. P_.
+
+
+                                                               ,.
+               2        ]> . -,)
+                                                              ...__.--=----
+
+
+
+
+               ’4-
+
+
+
+
+               "?      /=(-. S ~,,’,..          ,l
+
+
+
+
+                                            o.~p ~-~          %o. S’-
+                                   i
+
+
+
+                  F
+
+
+
+                      ,/
+
+
+                      i
+
+
+
+
+            \.>
+
+
+
+
+/
+    ¯   \
+
+
+
+
+                  f
+
+\
+                           ,.. c3 ,I
+
+
+
+
+                               N
+                                       }
+          r
+
+
+
+
+j~
+
+
+
+
+     /j   S
+i
+    v
+0
+            \
+
+
+
+
+        ¥
+!               \
+
+
+
+
+    X
+            /   /
+
+
+
+
+        /
+Hi ,,..I
+ \ "\
+                    ^
+                                                                                                         WROUGHT
+
+                                                     Chemical composition                                                     Tensile
+
+B.S. No.                                                                           Ultimate
+                                                      Sulphur   i Phosphorus
+                                                     per teat       per cent     tensile stress              Test piece
+                                                                                tons per sq. in.:
+
+                                                       max.     i     max.
+134 : 1927 , Iron or Steel Tubular Poles for                                         20 rain.
+           , Telegraph and Telephone purpo~.
+           t Wrought Iron
+527 : 1934   ’ Lapwelded Wrought Iron Boiler Tubes     ¯ 03           ~10            20-24          ’ Strips cut from tubes
+             , (for external pressure)                                                                clear of welds
+                                                                                     20-24          i Lengths cut from
+                                                                                                    I finished tubes
+788 : 1938 i Wrought Iron Tubes and Tubulars. Gas      ~03            0-15           18-24          , Strips cut longitudinally
+           ! (light) Water (medium) and Steam                                                       I from tubes
+           i (heavy) qualities
+
+
+
+
+789 : 1938i Wrought Iron Sockets                       0"03         Manganese          --
+                                                                      0"15                          I
+     0
+
+
+
+
+!,
+
+
+
+
+         e.~
+                                      ©
+
+
+
+     ~)
+                                          o
+                                 il
+
+
+
+
+                                              o7 ,~o .~_~/’--
+
+
+f
+
+
+
+
+                   3     i 3-sz~
+                            ~-’o~_~
+    r-4-
+    t ~I~
+
+
+
+
+      9_)_ ~<..~<, o..v~-,.,_~
+J
+©
+
+
+
+
+                             ,..c,,p.~o,,~.
+
+
+
+
+              ,.,,.. c-.,-~,42.o.a ~_
+
+
+                 ~x,.p r_O...,.~ l,"
+    0.. ’/~
+                   (
+
+
+
+
+~-------UY"
+
+
+
+
+                                            I
+
+
+
+              ,~ o ~ ~-~ ~- P~ ~_~ ~/~ ,,
+
+
+
+
+                            -
+                                                                         .’
+
+                                                                          o
+                    ¯ -.. -
+                                                       q¯
+
+
+                                                                              ,°
+
+
+
+                                                            i
+                                          %
+                                                                                     ¯ o
+                                 dL
+
+                                                                                                  r "-
+                                                                                        ¯   o.~
+              i
+                                              °
+
+                             ,        ,   -."       . ~ J 4~.
+                                                                -
+
+~o.      ¯                                                          r,
+
+
+
+                                          /
+                         °
+
+
+                                                                                           o¯
+                                                                                    j, ¯ ,
+                                                                                   -N "" & °l.
+
+                                              -’1                         "        -¯       /]
+             .°, . . ,
+° ~ ..
+
+
+
+
+                                                                                    ~~
+                               (
+
+
+
+
+              .~-       ~ ,~t.~ : 6-#-" I ~ I" "~
+
+
+y.(~,~. ~ L
+
+                           ¯
+                    ’              -I
+    &o-o
+2   ~o-
+             to
+
+             !1   Lo.~-
+    ~0 -9-
+             ~z (oo ¯ ~
+
+    ~,0 "6
+                                      ~o ¯ 3
+ 2
+
+      &o      1                 ~o    ~o. 3
+
+
+
+      L o ¯ ,-,--               ~’L   (..o. ,+
+
+      ~o.Lp                    l’~    /.o. I
+(.,
+
+      ~,<~’ 4"                 i~     ~,o. Z_
+
+
+
+                (p, ~ ~ w~.   ~ ~,I
+                       ~._~ ~,’~ ~ ~,~’~ ~,~L~               ,,.f--
+                            ,J         I   I
+
+
+
+
+                                                     ¯
+
+                                  ~J
+                                                         I
+w                           ,J-                ,.t
+    /+.o --’) ~-~   ,,n,~
+Expcri ment .......
+
+
+                                                   .... File No.
+Observer(s) ............                                    Date .. ~-~.__ ..........
+
+
+                                           U~ r~=~ ~,~_~,~ ~
+                                i
+
+
+
+
+                                                                                    .... i                           :
+
+
+                                                                               ..... j                       _
+
+                            ./,~. A4M ..
+                                                                                             ._         ,r       ,,,i
+                                                                                                        |
+
+
+
+
+                                                                                                       i
+
+                                                                                                       !-
+
+
+                  ,Z-~ ?,                                                                    .... it
+
+
+
+                                                                                                       I"
+                                                                                                                 _
+
+
+
+
+                      151~_~,,,,-’- ....
+           i~ ii ~!i ~
+
+
+                  ! ~ii!~
+               ~’~ii~
+          ~j~ i!!
+J
+                  i
+~i~ ~,
+         i~ i~
+         .... #                                         /~ i¸
+
+
+
+                                                  F~3
+
+
+                            ............ @@ ’/@
+
+
+
+
+                                           ~s B B @
+~C
+  1.../
+                                                                       @
+                                                                  I,
+
+
+              >~
+
+                                                 ,’I’~.+I. @. r
+          a
+
+
+
+                          14,~. a~x ,   t ~o
+                                        l l4G.
+
+
+                                    1
+
+
+
+
+-T;
+
+
+
+
+ t
+                                                 (
+                                                                           "" ’,i
+                   m II    I   ml
+jl
+    _ __
+
+
+
+
+i
+
+
+
+
+           /
+                                        I
+
+
+
+
+                                      ~Ik,[ ~.lht + I-Qe l,.d~
+
+                                     ~I. ÷~.~s ,(.~
+
+~,~ ~’t..~ 1~..~.,.,_~ ’
+
+
+
+
+                           ~.~   =
+                                  Tube 3/4: C/A ?Lace, Fsraccusra caeca
+                                  and apAra ImcarLal
+
+
+                                                           Tuba 3/4: Sa¢cLon
+                                                           LncludLng /raccura
+
+                                                                                                                                        E300                            550
+                             T~0~e ~/~ : TumeLlai
+
+
+                                                                                        %
+                                                                          h- * ,*,7,-,,-,
+
+
+
+
+                                                     T’,~a 3/4: mini Itlcro
+
+
+
+
+                                                        TanlLIa! £rOl
+                                                        front & rear IISS~                                                                               0
+                                                                                                                                                         U3
+                                                                                            ~RAC£                                                        U3
+                                                                                                        s                                                        ]
+/)///2h                 "///;, i//,,’l/z /A "/,, "//I/,/,,., , iX. /, . 1~ ~1/ Y/) , ;. ; ~ , ",,., 7;../; I,//7Y/7/5/’/!/////, 1/ ~/3¢
+                                                                                                    | 510                                                            4BID t
+  MICROSECTIONS
+  ABPU - front leg of support 4                       ABRH - tube 3/4 longitudinal micro                    ABQY - tube 1/2 longitudina! micro        ABTJ - tube 1/2 longitudinal
+                                                             through fracture                                      through tube weld near support 2           micro from free end
+
+  ABPV - rear leg of support 4                        ABQN - tube 3/4 longitudinal micro
+                                                             adjacent to tensiles                           ABPT - paint micro near fracture at
+                                                                                                                   support 2
+
+
+                                                     ABPW - front leg support 3
+
+                                                     ABPX - rear leg support 3
+                                                                                            ’U-----r ....
+                                ~. iii
+
+
+                                                                  iiii ~
+                                                                 ~iillii.
+
+    Iiii
+                                                                  i~ i~ ~
+           iil!~!      i1~ii
+                      iiIi~i
+
+           iiiiii     i!l:i:     ~iiiii"    ~i i~                                       i
+                                i iiIii~      ii i.
+
+                                !~i!ti!i
+:~i :=i                                                                       .... I
+
+           ii!::~                                                                           i~ ~ ~ii
+
+
+                                iiiii:ii              i!ii!iii                              ..... r’--
+           ii!i:~               i ii i
+                                                                 ~ ii1~~
+
+                                                      iiiiliii                              ~ i~~i
+                      i’!ii                           iiiiiiil                              Pi !iil~
+                                            i~!~                    iiii
+
+                                :!ilii~                          !iiili:ii
+                                iiili:i                          :ii:!:!!i
+~ii11::               .,+..
+                                                                 iii~i .i
+
+
+                                                                              ii’iiiii~     i:::l:ii!
+                                                                 i:i!!~i
+                                iiitiii
+                                ii~!iii
+                                                                 iiii’ii
+i!Fiii~                          iitiii
+                      ii!ii
+                                iiii!il    ii:l ii
+                      iI~ii
+
+                      ilIii:
+           .+ ....                                               i:ii~i                     i~i.iiiiii
+                                i!it!i~!              iiiiiii
+                                                      !~ili!:
+                                           ii!,ii~i              :i:lli                     !!itliii
+                                                                              i ii. i       ii~iI iii
+                                ii~!i!ii =i~lliii                             ii!iiiii
+           .+ ....    iiiiii
+.,+ ....
+           ¯ [ ....   1 ....
+                                ~iiiiiii              iii1. i
+                                                                              +~.1!!i!
+                      iIi.il
+.,+ ....
+                                           ii I
+                                                                                             ii’ll ii~
+
+
+
+
+                                                                                            i!
+                                                      ii,iiii     ii~iiii
+
+                                iilliil     i~iii
+                                                                 -..~ ;22.2
+                                                                              i i÷i÷i
+           iIi:i~
+                      iliill               ~iitiii:
+                      .+ ....                ~ii i:
+ii1~iii
+           iti:ii:
+              \
+
+
+
+
+!’ r
+
+
+
+
+ ’ ’i
+
+
+
+
+        i!!
+                           REQUISITION FOR SPECIALIST SERVICE
+          RLSD                        UNIT
+                                      FILM &VIDEO
+                                                              MANAGER
+                                                              MissI
+                                                                                  EXT
+                                                                                  3267
+SPECIALIST SERVICES SECTION           GRAPHICS       *                            3261
+BROAD LANE                            MECHANICAL DESIGN                           3195
+SHEFFIELD $3 7HQ                      PHOTOGRAPHIC STILLS                         3269
+TEL. 0742 768141                                             Bux                 2316t
+                                J           WORKSHOPS        Sheff
+FAX. 0742 755792.                                                                 3027.
+                                                              J
+                                     BOX             * RLSD ONLY      tTel. 0298 6211
+
+
+JOB NAME / TITLE / IDENTITY
+
+
+Description and details.
+                                                                                        uJ
+                                                                                        U~
+                                                                                        <
+                                                                                        MJ
+                                                                                        .J
+
+                                                                                        X
+                                                                                        O
+                                                                                        m
+                                                                                        U~
+                                                                                        1
+
+                                                                                        k-
+                                                                                        Z1
+                                                                                        <
+                                                                                        k-
+                                                                                        <
+                                                                                        n-
+                                                                                        uJ
+
+                                                                                        ,o
+REQUIRED WORK COMPLETION DATE              ~ "7
+
+ORIGINATOR I                                      SIGNATUR!
+BRANCH / DIVISION / SECTION                        DATE .... ~,. ~. :..~., .~..’7..
+ADDRESS
+TELEPHONE NO. ~ ~ p ~- _~f
+
+YOU SHOULD CHECK WITH THE UNIT TO CONFIRM PROGRESS OF YOUR WORK
+
+
+UNIT JOB No.                        NOTES.
+INCIDENT
+NOTIFIED DATE
+START DATE
+COMPLETION DATE
+STAFF
+                        REQUISITION FOR SPECIALIST SERVICE
+          RLSD                          UNIT
+                                        FILM &VIDEO
+                                                              MANAGER
+                                                              Miss
+                                                                                  EXT
+                                                                                  3267
+SPECIALIST SERVICES SECTION             GRAPHICS       *                          3261
+BROAD LANE                              MECHANICAL DESIGN                         3195
+SHEFFIELD $3 7HQ                        PHOTOGRAPHIC STILLS                       3269
+TEL. 0742 768141                                              Bux                2316t
+                                              WORKSHOPS       Sheff
+FAX. 0742 755792.                  V/                                             3027
+
+                                   t/" BOX            * RLSD ONLY     tTel. 0298 6211
+
+
+JOB NAME / TITLE / IDENTITY             PROGRAMME / PROJECT / INCIDENT NO.
+                                              ~C~. aZ., ~-TH ~’Z~-
+Description and details.      ~ ~ ~.,~s" ~. ~ ~. p ~ =~,
+
+                                                                                        u~
+                                                                                        UJ
+                                                                                        Q.
+                                                                                        X
+                                                                                        O
+                                                                                        m
+                                                                                        U~
+                                                                                        n
+                                                                                        -I-
+
+                                                                                        Z
+
+                                                                                        I-
+
+                                                                                        ul
+
+                                                                                        0
+REQUIRED WORK COMPLETION DATE                2 Z ~ ~" °1
+
+ORIGINATOR
+BRANCH-J.-DIVf=3~N / SECTION
+ADDRESS
+TELEPHONE No.       x- ~o~"
+
+YOU SHOULD CHECK WITH THE UNIT TO CONFIRM PROGRESS OF YOUR WORK
+
+
+UNIT JOB NO.                        NOTES.
+INCIDENT
+NOTIFIED DATE
+START DATE
+COMPLETION DATE
+STAFF
+                                                                                    J
+                                                                                                              W
+
+
+
+          L
+
+              ............ ’H                           : .................. ---~
+                                                   Lc .....                                     H ......
+
+
+
+
+                 L~                          b                 ~: 0-o15             ~J   I:/-       capp,o~
+
+                                             OL
+
+                                    ± o.o5   H
+                                             f-   2.S            mi~..
+
+
+
+R ECTANGULI~R
+
+
+
+                                l
+:~
+  i
+
+
+
+
+;H
+
+
+
+::1    T
+::1
+:i1
+
+
+
+
+~t
+
+
+
+
+  t
+::|
+’,:|
+                              REQUISITION FOR SPECIALIST SERVICE
+           RLSD                                 UNIT
+                                                FILM &VIDEO
+                                                                       MANAGER
+                                                                       Miss P PRINCE
+                                                                                     EXT
+                                                                                     3267
+SPECIALIST SERVICES SECTION                     GRAPHICS       *       B STANILAND   3261
+BROAD LANE                                      MECHANICAL DESIGN      G NORTON      3195
+SHEFFIELD S3 7HQ                                PHOTOGRAPHIC STILLS    M EGGENTON    3269
+TEL. 0742 768141                            /                          Bux T MELLOR 2316t
+FAX. 0742 755792.                                   WORKSHOPS
+                                                                                             3027
+                                                                      She~. D MAIN
+                                            BOX               * RLSD ONLY    ¯ fTel. 0298 6211
+
+
+JOB NAME / TITLE / IDENTITY                 PROGRAMME / PROJECT/INCIDENT No.
+                                            %~ o~_ ~,~-~ ~-~
+Description and details.
+
+
+
+
+              -\
+
+
+    ?l /                                                                                         ZI
+
+
+
+
+                                                                                                 ill
+
+
+REQUIRED WORK COMPLETION DATE                                                                    I-
+                                                                                                 U)
+
+ORIGINATOR C__, . -’~T--r~-.~’Pn.. r,                       SIGNATUR
+BRANCH / DIVISION / SECTION       /v] C.-’-;-,              DATE .... ./.~... ~ ...~.~....
+ADDRESS
+TELEPHONE No.         ~- 3 c gS-
+
+YOU SHOULD CHECK WITH THE UNIT TO CONFIRM PROGRESS OF YOUR WORK
+
+
+UNIT JOB NO.                              NOTES.
+INCIDENT
+NOTIFIED DATE
+START DATE
+COMPLETION DATE
+STAFF
+                                                                                                                        1.,J                           L~
+
+
+
+............                  --’-- ........              -    -,_--- - iUL                      -        ¯       -                                 IS’r)
+                                                                                                                                                                                                                   1,112
+
+..........................                                         -_ ....CE AL-rPE, ’ .....                                                                       il’l
+                                                                                                                                                                                                iron" r-- WE-ST - ~
+ -_:_- - ............                                             : +i- .,    --E _|-Y .                                   r       ,       +         t          v_ .
+    ................                                              " :"------- ------~                                                                              -l- -
+                                                                              ..........             _.                                                                                                    -_
+""-- . _-k--~..--: _~--+--: i--- I --!----- +        -;z+-++              _                +s"- .............
+                                                                                                                                                                ..... +_____            _.
+                                                                                                                                                                                                               _.- :-- --.-
+        .-- ~ .L ~_L __L_ - .......
+    .... F----- -t-- + ~,1.                                                      - ........                                /2 7
+                                                                                                                        ~ ....                     I~ ~ .....                  ~___ 1~ ~,,~                        /~.+~
+ ................ : ....                                "  -      ....
+                                                                   =!-- --
+                                                                         - .........-----                             -’=-----~
+                                                                                                                      -P          - ~- "       ,            v     +-      -- IL--~-’~’--P- ---i-’---;~- ---i        i"
+ :. +-_    L .....                                                 .~.-~
+                                                                    ....... ._:
+                                                -’-- ...................                                      . _J~.~ __
+                                                                                                                                                                          _
+
+                                                                                                                                                                    ____+ -
+                        GATE 2.                           GATE 3.                                         +:’~ ’-£ "                                . "-E
+
+
+
+                    (.~ !
+RADIAL FENCE BETWEEN
+      PENS 2 & 3
+
+                                                                 4
+
+
+
+
+                       Fig. 1 - Reconstruction of Barrier 124A
+                                                                                                                                                                                                                                                                                                                                                                                                    NOTES
+
+
+
+
+                                                                                                                                                                                                                                                                                 \
+
+
+
+
+                                                                                                                                                                                 ;i/’-\ lli
+
+
+                                                                                                                                                                                           I
+                                                                                                                                                                                           I
+                                                                                                                                                                                           I
+                                                                                                                                                                                           I
+                                                                                                                                                                                           I
+                                                                                                                                                                                           I
+                                                                                               WEST STAND.
+                                                                                                                                                                                           I
+                                                                                                                                                                                           I
+                                                                                                                                                                                           I
+                                                                                                                                                                                           i
+                                                                                                                                                                                           I
+                                                                                                                                                                                           I
+                                                                                                                                                                                           I
+                                                                                                                                                                                           I                                                                                                         /
+                                                                                                                                                                                                                                                                                                 /
+                                                       A                                                                                                                        I          I                                                                                                 /
+                                               /\ ,                                                     :                                                                       ,hH
+                                                                                                                                                                                I
+                                                                                                                                                                                      ¯
+                                                                                                                                                                                           ,I
+                                                                                                                                                                                                                                                                                     /
+                                                                                                                                                                                                                                                                                         /           --~+
+                                                                                                                                                                                           LI                                " ~-.." r,+.,,+,~,,r+,+d /~86+
+                                                   ~                 remoi’ed A++,:++ I~85 ,    ,   ,                                                                          U
+                                                                                                               ,      ¯       ¯                                                                              I         I   I --~     ’       "       "I
+                                         /.                    ~--~                                     , .....                     ’ ..........                                                   ¯ .....                               ’      " ’’             i   I   I   +
+                                                                                                                                                                            I-------.7/¯
+                                    l/    F                "                                            i                                                   re~’loved   Auj. 1~86                                             ~-
+
+                                                                                                                  ~.~ .                              ,                                         .¯ ,¯   " , .
+                                                                                                                                                                                                       - re’~°lled, ffS~. ". .-, "1,._ ~1;1.¯ .        .
+                                                                                                                                                                                                                                                                : ....... , :                .           ,                   ..
+                                                                                                                                                                                                                                                                                                                             %,,
+                                                                                                                                                                                                                                                                                                                                        %X
+                                                                                                        ,   ~4,7 ~e~;ved 1f85",,,    ,’aJ/" ,e,~oveJ¯ 118        ’
+                                                                                                                                                                                 !¯                                                 ,,f,,d,’*/ f,~<~
+                                                                                                                                                                                                                                                                                                                       !,~
+                                                                                                                                                                                                                                                                                                                                        .,..\
+                                                                                      ..                                                                                    ,-=,7" a,d "
+
+
+
+                                         Z    j.               i,<                                                                  -.+l~,+:i ~i                     +~,J°<i~,,,~,                            "+°’+’’<+
+                                                                                                                                                                                                             ~xd+=f t<s~sJI        " ,-<,,." ,-e..,ov°<~
+                                                                                                                                                                                                                                                     - "+’-
+                                                                                                                                                                                                                                                         ..DO                                ~,--,. ~                              ,
+
+                                                                                                                                                                                                                                                                                                         i:.?.
+                                                                                                                                                                                                                                                                                                          ,: ¯
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                   . ..
+                                                                                                                                                                                                                                                                                                      \
+
+                                                                                                                   1                                                                                                                                                         K’                          i
+                                                                                                                                                                                      ¯                                                                                                                          :                 NORTH STAND.                             REVI           DESCRIPTION              I SIG I DATE
+                   SOUTH STAND.
+                                                                                                                                                                        ¯                                                                                                                                                                    >
+
+
+                                                                                                                                                                                                                                                                                                                                                                                   SHEFFIELD WEDNESDAY EC.PLC
+                                                                                                                                                                                                                                                                                                                                                                                            HILLSBOROUGH.
+                                                                                                                                                                                                                                                                                                                                                 I
+                                                                                                                                                                                                                                         "<..
+                                                                                                                                                                                                                                                                                                                                                                                BARRIER ARRANGEMENT AT
+                                                                                                                                                                                                                                                                                                                                                     Old (.,o...,+ lCZS.J
+                                                                                                                                                                                                                                                                                                                                                                                END OF MARCH 1909.
+                                                                                                                                                                                                                                                                                                                                   I¯
+
+
+
+                                                                                                                                                                                                                 ¯:L
+                                                                                                                                                                                                                                                                                                                 .,1
+
+                                                                                                                                                                                                                                                                                                                                   |
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                EASTWOOD & PARTNERS
+                                                                                                                          1                                                                                                                                                                                                                                                          (CONSULTING ENGINEERS)
+                                                                                                                                                                                                                                                                                                                                                                                         ST. ANDREWS HOUSE
+                                                                                                                                                                                                                                                                                                                                                                                         23 KINGFIELD’ ROAD
+                                                                                                                                                                                                                                                                                                                                                                                          SHEFFIELD Sll 9AS
+                                                                                                                                                                                                                                                                                                                                                                                                         TEL. 07421583871
+
+                                                                                                                                          ~pp,s-,--,,u ’~ ~,r                                                    I
+                                                                                                                                                                                                                                                                                                                                                                            DRAWN ..     I.M.
+                                                                                                                                                                                                                                                                                                                                                                            CHECKE.I~.
+                                                                                                                                                                                                                                                                                                                                                                            APPROVED                        DRAWING No.
+                                                                                                                                                                                                                                                                                                                                                                            DATE         21.6. B3        11/+2/+ / 0
+C.D.S, {YOIIKS) LTD.   REF   2573
+                                                                                                                                                                                                                                                                                                                                                                                                                                   cf
+                                                                                                                                                                                                                                                                                                                                                                                                                                   t
+                                                                                                                                                                                                                                                                                                                                                                                                             / ;[
+                                                          III =
+
+
+
+
+            RADIAL FENCE BETWEEN                                  °~
+                                                                       °.
+
+
+                  PENS 2 & 3
+
+
+                                                                                  4
+                                                      3                      //
+
+
+
+
+\
+
+    PITCH
+
+
+
+\
+
+                                   Fig. 1 - Reconstruction of Barrier 124A
+                                                                                    ................. i ............ ~ ..... l ........ l ........... i " I ....................r ...... ~
+                                                                                    .... : ........................                                                      .:i-:.-~¸ ::::~t: ~.: ::
+                                                                                                                                                                                                                                                        t .....................                                    -]1                    ’ ....            I/
+                                                                                                                                                                                                                                                                                                                                             ~ ......t ~-......
+                                                                                                                                                                                                                                                       /
+                      ~_ _._J ........ ! ............... ’ .................
+                                                                                                                                                                                                                                                       ! .........
+
+
+
+
+                                                                                    ....          -~- .-~- ...........                     -~ ........................
+                                                                                                                         ! .............
+
+
+
+
+                                                                               v/
+
+
+                                                                                                                                                                                , ~I~l,~: . .
+                                       .... I¸       i
+                                ...... -L---_L_-_
+
+
+
+
+             [ _.
+                                ---h, .... L.÷ .....
+33                              -_! .......
+                                ........ i
+                                                 !
+
+                                .... L
+             i~
+                                                                        +
+
+
+
+      .... .....
+                                                                               S                                                                                                                                                                                                                                       ’’ ’ i
+
+
+                                                                                                                                                                                                                                                                                                                                             : .......
+                                                                                                                                                                                                                                                                                                                                                                                       i-
+                    ! t~ .             ~
+                                       .
+
+IkO                         e_~ k.L_. / I i
+                    .......k~_~
+                                                                 itl i--,:                                                                                                                                                                                                                                                                                                  i
+      ---it .....               ~ ........
+        I
+                                                                                                                                                                                                             [ .....
+
+15          /7--                                                                                                                                                                                                                                                           ~i i ~!~ ~ ~i~
+                                                                                                                                                                                                             i
+
+
+
+
+                                                                        i
+
+IO                                                                                                                                                                              --~            ~             J          :                       .              ! :: ~ ! .ill !                        T                i          J         ¸: .....
+                                                                                                                                                                                                             :i ’ ..... : ili"I   i~: .....
+                                                                               [                                                                                                              ii’      iii                          :ii .........: :i .....! ii::;’:::ii iiiI ..:,::::l: : I i!: l,!ili,
+                                                                                                                                                                                                                                                                                                 iii .........
+                                                                                                                                                                                                                                                                                                         i: ....           : tl   i!Li;                  l!ii!! il ii:i!.ii! : if!!’
+                                                                                                                                                                                .--~_.1 ............
+
+                                                                               i
+                                                                                                                                                                                                             ~                    ’ I .....                     :                        ~                         "                        ill .... i
+                                                                        i
+S                                                                                                                                                                                                                                              i:          :   ::           I            ’             i           [         .,   i
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                            ill
+                                                 I
+
+                                                                        L...                                                                                                                                                                    I       :: i                                                           !
+i
+I
+               iiiiiiiii
+                     i
+               .... +: :
+
+
+
+         i:l
+         !:I
+
+
+
+
+L$
+
+
+
+
+IO
+
+
+
+
+     I
+     I
+     I
+
+     I
+
+
+
+     I
+2,,0
+
+
+
+                                    m~
+
+               ~     i              ~ ......i ! ...... !~ ~ .... , ! i ~ i                                                                            ~                            ~ i           ~      i~                    ~: ~ ~ ~ ..... i~ ~ ....~                                                          ~               ~~~~                                ~i
+       ....... _ .... i .......... i .....
+                                      ~ i....
+                                           ....... i ....... ii--~ ~’ - .......--- -~- -- ~                                                                                       + i, ,~ ~i ~ii! !~ ~!i ~ ii!! !~ ~!i~ ~li~i~!!, !:!,!~!!,!!~/,i,ii! i!!!,!i:~]! i,,~ !i I~,!~i,!~i~i~!ii~:i!!i!l!!!i]ii!i
+tS                                                                                                                                                                                                                                                                                                                                                                           i
+
+
+                                                                                                                                                                                                                       i, ’             ~       ,, ~::, ::1:                ~"i           ;
+                                                                         ii:i ........ ................. ....................
+                                                               i                         ;        :                       i                           : ::                                                    :                         ::i ::,           ::           ::: : :: ::            :: .........
+               i                    ;                                                                                         i                                                                                               .             :J:: :        :                       :        :::; : : iil
+                                                                                                                                                                                                                                                                     ::1                                         :
+                                                                                                                                                                                                                                                                                                                                                    j .......
+                                                                                                                                                      :                                          :
+                                                                                                  i ........ :i .....
+                     :              i ..... i .....                                      !:                               :   :                                                     i       i:          I ......         : ::       ]]                    I:: i
+                                                                                                                              I .......               : ....... I                                                                                                                                                                                                        i
+                     i
+                                     .              :
+                                                               ;:            :           I    ’   :
+                                                                                                  I          i
+                                                                                                              :           i
+                                                                                                                          ~   I         ’             I’              :          ,,;
+                                                                                                                                                                                    r
+                                                                                                                                                                                                                                                                                                                     I’
+                                                                                                                                                                                                                                                                                                                                                                i ....       i
+                                                                                                                              :                                                                                               : .....                 :                 ~                         i          :       i:          ~:!           i
+                     :                                         :                                              i                                                       ~            i ....
+                                                                                                                                                      !i
+                                                                                         i        :           i                                  !                     ; .....                                                                                          [             i   :IIL          ".           J~   ....   i : 11I           ::            :           J:
+                                         ..... i .......                     i .......                       ; ........       ; .........        :    :               i            [
+
+                                                           .... : ........                        ~. ......................                           i_._                                                                    " .........................
+                                                                                                                              ! ......                                                      !    ]     i           ]                                      i .....   ::;:~: :                  I
+                                                                                                                                                                                                                                        , ill                                                                :                             ;        i L ......iii ....       i, ,
+
+                                                                                                                                                                                                                                                     _.___
+
+
+
+
+                                                                                                                                                                                            I
+
+                                                                                                                                            ,,
+
+                                                                                                  i .....                                            ......................
+                                                                                                                                                                                                        i~
+                                                                                                                                                                                            I
+
+                                                                                                                                                                      I                     4
+
+
+
+
+ 0                  ...... L ....
+    ¯ ~:i~:~ :: ii       :       ’~1~
+     ~:i!~i~ I~              ~    :1
+                     i   ,        i
+
+
+
+
+I                                       i
+                                                                 !
+                                            ’’   !   i   i
+
+
+                                                             !
+
+
+
+
+           .......
+
+
+
+
+       i                                                             IIv,llm
+ ~i~ ,
+
+           ~iii’iiii~
+
+
+
+
+           ~!iiLii!~l
+           iiii]~iil
+
+
+
+.i ....
+
+
+
+
+             ~ii~ l
+
+
+
+
+                         I
+                i
+
+           i:!i 1
+     i m
+
+
+
+
+           .... i ....
+
+
+
+
+                i        ,
+
+÷
+’I
+
+
+
+
+           .... Z]
+                                                      C’1- 3
+                               CERTIFICATE OF ANALYSIS
+                                                                                  hs~.d by:
+                                               SHEFFIELD UNIVERSrFY METALS ADVISORY CENTRE                                                                  SUMAC
+                                                             Dept. of Metallurgy
+                                                                     University of Sheffield
+                                                                  Mappin Street, Sheffield SI 3JD
+
+
+
+       Date of Issue               5.7.89                       Serial No.               01024                                       Page 1 of Pages 1
+
+
+
+       Customer:                    Health and Safety Executive
+
+       Customer Order No:
+
+       Type of Test:                  Analysis
+
+       Job Number:                    16956
+
+
+
+
+                                                          Analysis of wrought iron sample
+
+
+
+                                                                    Sample $80.02.0TH.814
+
+
+                                Ca rb on                      0.012g                  + o.oo1~                     Leco analysis
+
+
+                                Sulphur                       0.022~                  + o.oo1~                    Leco analysis
+
+
+                               Phosphorus                     0.40%                   + 0.02~                     Chemical analysis
+
+
+                               Silicon                        o.15~                   + 0.02~                     Chemical analysis
+
+
+                               Manganese                      o.o3~                   + 0.02~                     Chemical analysis
+
+
+
+
+   *Certified that: (a) The test retmlt(t) wit (were) obtiined from the umplet, of the material(t) u submitted. Co) The test(t) wu (were) carried out in acc~dance with the Customer’s
+   Contract/Order/Instructions or Approved and Authoriaed ahernstivee. (c) the Quality Control arrangements and procedures for the test(s) have Itocmxied with the conditions of the
+   Centre Quality Control and Procedures & Equipment manuals. The test re*ult(t) obtained appertain to the sample(t) submitted and Shemeld University Metals Advisory Centre does
+   not guarantee or accept any responsibility as to whether they necessarily reflect the ompasition/propenietlconditions of the bulk material(s) of which the submitted sample(t) was
+   (were) reportedly a pan.
+
+
+
+
+                                            Certified by:
+
+                                            Approved by:                                                                                                   ANS~HONE
+                                                                                                                                                              0742 7U186
+     TESTING
+NATLAS REG NO 00,41N
+                                  :--..T.?U-S.- - F ..........
+
+ r :’O;T,: ’-
+
+ Metali’.’r~; and Mazeria!s                                      SUZAC
+ Heal-..-. and Safety Executive                                  Dep: of ~’etaiiur~¢
+ Rroa,z Lane                                                               y of Sheffield.
+ Sheffield $3 7HI                                                Mappin Stree:
+ Tel: ~! D(o~lc.(.%                                              SHEFFIELD S! 3J5
+
+
+
+
+ Se-m.-. --~ -e--~_r£~ti:n                        I ~...’-~ [;umber
+                                                  i
+                                                  J
+      ~’~/~l~,l~S "I- ~),e..~.~
+                                                      ~-~. o~.. o-{-~ -
+
+
+
+
+Analysis Required
+c I S, m,, S’ P
+
+
+
+
+Si£ned:
+                             Broad Lane
+            Health &         Sheffield $3 7HQ
+            Safety           Telephone 0742 78141
+                             Telex 54556
+              ecutive
+            ~
+        U
+
+
+
+
+With the compliments of
+the Head of Library and Information Services
+                                                                                                                                            WROUGHT                         IRON TUBES                                                                                                              TABLE 15
+                                                                                          Chemical composition                                                    Tensile   test
+                           B.S. No.                  ’rifle of specification                                                                                                                                  F_,xpud~g test
+                                                                                           Sulphur   [Phosphorus       Ultnnate                                                                               per cent increase        Hydraulic test                                 Notes
+                                                                                                                                                 Test piec                    Minimum elongation                on diameter
+                                                                                          per cent   I per cent     tons per sq. in.                                               on 8 in.
+
+                                                                                                         max.
+                          134 : 1927      Iron or Steel Tubular Poles for                                  --           20man.                                                                                  See Note ]                               l. A deflection test is specified for tile poles.
+                                          Telegraph and Telephone purposes.
+                                          Wrought Iron
+                          527:1934         Lapwelded Wrought Iron Boiler Tubes                            0.10                          Strips cut from tubes                             IO               Up to 6 S.W.G. 21~2
+                                        i (for external pressure)                                                                       clear of welds                                                                                  Not less than      2. Crushing down test : 2 in. length hammered down
+                                                                                                                                                                                                                             11/.2    lO00 lb. per sq. in. to l ~ in.
+                                                                                                                         20-24            Lengths cut from                                                       See Note 2
+                                                                                                                                                                                          12t~
+                                                                                                                                       [ finished tubes
+                          ’/88 : 1938   i W(light)
+                                              rought Iron Tubes and Tubulars. Gas
+                                                   Water (medium) and Steam
+                                                                                                          0"15                          Strips cut longitudinally
+                                                                                                                                        from tubes                                                              See Note 3            500 lb. for Gas 3. A bend test is specified for tubes 2 in. dia. and less.
+                                         [ (heavy) qualities                                                                                                                                                                          pipes.            A flattening test is specified for tubes over 2 in. dia.
+                                                                                                                                                                                                                                      600 lb. for
+                                                                                                                                                                                                                                      Water pipes.
+                                                                                                                                                                                                                                      700 lb. for
+                                                                                                                                                                                                                                      Steam pipes 2 in.
+                                                                                                                                                                                                                                      dia. and below.
+                                                                                                                                                                                                                                      i000 lb. for
+                                                                                                                                                                                                                                      Steam pipes over
+                                                                                                                                                                                                                                      2 in. dia.
+                          789 : 1938 I ’ Wrought Iron Sockets                                        I Manganese                                     i
+                                                                                                         0"15
+
+
+
+
+                                                                                                                      MALLEABLE IRON                                        CASTINGS                                                             TABLE 16
+                                        7z 07$-
+                                        - s7L                                                                                                                     Tensile                                                            Bend teat
+                                                                               B.S. No.                  Title of specification
+                                                                                                                                                  Minimum ultimate                               M~um
+                                                                                                                                                    tensile stress            Gauge length       elongatlea          Test piec            Radius of     An~e of
+                                                                                                                                                   tons per sq. ia.                               per cent                                  b~d          bend
+
+                                                                                                                                                                                                                                                         through
+                                   F-                                                                                                                        20                    2in.              5         8in. x~in. x lin.             lin.          45°
+
+
+
+
+                      (                                                                                                                                      20                    2in               71~       8in. x s/.in, x lin.         lin.
+                                                                                                                                                                                                                                                         through
+                                                                                                                                                                                                                                                           90°
+
+
+
+
+                 58
+                                                                                                                                                                                                                                                                                                                   59
+
+
+
+
+" i,, "" . ,i.
+CODE 18-78
+HTT,T~qBORK~GH IN~DVA?T ~ AT SEL - 24 MAY 1989
+
+
+PRESENT:     Mr J M Jones, ACC West Midlands
+             Professor L Maunder
+             Mr R Whalley
+             Mr A Collins, QC
+             Superintendent R Taylor, West Midlands
+             Superintendent SteVenson
+             Dr C E Nicholson
+             Mr
+             Mr
+
+Pre-mee__tinq ~ts from Mr Jones
+Oral hearings will probably be concluded by 30 June 89.
+Interim report will be produced and then further evidence will be considered in
+closed session. Tnis may last until Jan/Feb 90. Inquest will be held before
+Christmas if possible. He anticipates the final report of the Inquiry may not
+be available until April 1990.
+Meetinq notes
+Mr Collins stated that the barriers were the main priority and the wall was now
+irrelevant.
+Dr Nicholson distrikxrted copies of a document ~ising HSE work so far. Tne
+subjects referred to in this document were ~.
+Barriers
+It was agreed that a barrier test would be useful for establishing the sequence
+of events and it was accepted that the loads obtained may not be applicable to
+the failure of barrier 124A. Mr Jones asked Dr Nicholson to supply a list of
+questions to be put to Eastwoods. Mr Collins read Annex C of the ~Green Guide’
+and initially stated that there was only one interpretation of the load test
+procedure. However, following discussion he agreed that "re-zeroing" was a
+contentious point. Professor Maunder suggested that HSE should consult other
+ccmpanies which carry out crush barrier testing. He also asked what Professor
+Smith’s role would be. Dr Nicholson explained that Professor Smith would carry
+out calculations relating to the collapse of barrier 124A. Professor Maunder
+said that a view of the importanoe of the amount of bend on the tubes with
+respect to the failure load would be useful. Dr Nicholson suggested that a
+report on the condition of other barriers in the central pen could be produced.
+
+After the meeting, the barriers were viewed and Mr ~inted out the
+significant features.
+Turnstiles
+
+Mr ~ explained how the tests on turnstiles A-G had been carried out and
+also how the number of people passing through these turnstiles had been counted
+by HSE. He em~hasised that the only discrepancy with respect to the ccmputer
+figures was on turnstile G. Mr Collin@, concluded that it was reasonable
+therefore to rely on the computer figures for turnstiles A-F. He also stated
+the importance of an explanation of the malfunction of turnstile G. Mr
+said this was due to a badly positioned microswitd%. Mr Collins mentioned that
+at some stage before the match a PC was required to re-position ’ loose wood’ in
+one of the turnstiles. He stressed that hourly rate figures for turnsile
+thr~ w~uld be most helpful to the Inquiry. Professor Maunder suggested
+that an assessment of the egress routes might be useful. H~wever, Mr Collins
+did not oonsider that this was necessary.
+Perimeter qates
+Mr Collins asked whether the perimeter gate in pen 3 cculd be opened by
+pressure. He stated that there was some witness testimony suggesting that this
+had occurred. Dr Ni~holson said that HSE would be able to carry out load tests
+on this gate, although he suspected that Eastwoods had already performed some
+tests without authorisation. It was therefore necessary to obtain Eastwoods’
+results before proceeding with further tests.
+Cc~mmications
+Professor Maunder asked whether the public address system in the ground would
+have been audible above the noise of the crowd. Dr Nicholson suggested that
+Noise & Vibration Section could carry out tests to ascertain this.
+Crowd density
+Dr Ni~holson explained how the crowd density ~ were being carried
+out by HSE. Mr Collins said that statements on the method and the results would
+be required with the highest accuracy possible.
+Dr Nicholson emphasised that counting of spectators entering the ground during
+the opening of gate C was prQblematic. HSE need to see the polioe video
+recorded from the south stand to ascertain whether the accuracy of counting may
+be improved.
+Human factors
+Mr Collins did not think a psychologist would be mu~h use at this stage.
+Mr Whalley informed the meeting that a book by Professor Canter on crowd
+psychology was available at the Town Hall. Mr Collins said that oonsideration
+of human factors was a lower priority.
+’Green Guide’
+Mr Collins said that breaches of the ’~ Guide’, in oonnection with barrier
+height and spacing etc, shc~id be mentioned in HSE’s initial report. Mr Taylor
+stated that there were two versions of the guide (1973 and 1986) and he
+believed that Professor Eastwood had been consulted in the preparation of the
+ist version. Mr Collins drew the meeting’s attention to para 206 dealing with
+radial fences.
+Slmmary of immediate actions on HSE
+Tne following actions are required withinthenexttwoweeks:
+1 A list of questions for Eastwoods to be supplied.
+2 Professor Smithto be instructedto carry out calculations.
+3   A ~ report, covering in particular barriers, crowd density
+    r~sur~ents and turnstiles, to be written by Dr Ni~holson.
+4   Noise ~ to be performed and effectiveness of the PA system to be
+    assessed.
+Su~ry of lonq-term actions on HSE
+1   A barrier test to be carried out in order to establish the sequence of
+    failure events.
+    A load test to be carried out on the perimeter gate in pen 3 (pending
+    results frum Eastwoods).
+3   Possible oonsultation with other barrier testers.
+4   Consideration of deficiencies in the ’Green Guide’.
+                                  =~.~,~ ~ --~’- ~’~?~7
+                                 ~’Z).~ ~go~ ~-~ ~T~ I
+
+
+             i ~ ~ ~] ~..-~.-_
+
+
+                                                     t+,
+
+
+
+
+CODE 18-78
+                                                   Rcl’crcm;c ......................................
+
+
+
+
+               ,J.~t,- ~ ,.Tdo~ ou 4,~ ~.,v o’r" o 4,C4D,v..t"
+
+
+
+
+                ~’;~’~’x J "~ ov - ,.7/,,, o-.~
+               ,e~ os’- oJ~/,z <-~..~...~)
+
+         cw~
+
+
+
+
+CODE 18-78
+             Co r~c~L
+
+                        o~
+
+
+
+
+CODE 18-78
+Room circulation
+
+HILLSBOROUGH DISASTER FUND
+As from the morning of Wednesday 19 April 1989 a
+collection will be made for the families of the
+victims of the tragedy at Hillsborough last
+Saturday.
+
+The collection point will be situated at Reception
+in Stage II. This facility will be available until
+lunchtime on Friday 28 April 1989.
+
+Please give as generously as you can.
+
+
+
+
+Site Services
+18 April 1989
+                                   Reference .......................................
+
+
+
+           ~m Circulation
+
+
+
+
+           Re~tives of the television oumpanies and
+           the press may seek information on our activities
+           relating to the above tragedy.
+           Staff are reminded not to pass on any information
+           themselves but to refer enquiries to the
+           laboratory Director.
+
+
+
+
+           ALAN JONES
+           18 April 1989
+
+
+
+
+CODEI~?t
+                                                                Reference ..................................
+
+                                                                             SMR/343/235/01
+
+
+
+
+                                                                    cc DrAJcnes
+
+
+
+
+             Mr Hammer has instructed that HSE will bear its own internal costs of the above
+             investigation but the costs of any extra-muz-al work is to be carried by the
+             Inquiry (preferably by direct contract).
+             Following discussion with Assistant Chief Constable Jones, I have agreed that
+             all papers for such costs will be forwarded by me to him. Can you, therefore,
+             ensure that all papers are passed to me for processing? TO date the only
+             contracts which have been initiated are:
+             i Sloan & Roebuck, Building Contractors of 36 Queen Street, Mosborough
+                - to r~e broken barriers.
+             2 D Drill (possibly under contract to Sloan & Roebuck)
+
+                - to r~ve concrete core samples.
+             3 Ralph Brade & Associates, Consulting Engineers of 3 Sharrow lane, Sheffield
+                - to prepare drawings of the Hillsborough ground.
+             4 Engineering Design & M~dels (Manchester Ltd) [EDM] of Baxter Street,
+               Hollinwood, Oldham, Lancs
+                - to prepare a model of the ground.
+
+
+
+
+             C E NIC4OISON
+             ~/SEm
+             i0 May 1989
+
+
+
+
+CODE 18-77
+VISIT TO HILLSBOROUGH GROUND 24 APRIL 1989
+
+The following people visited Hillsborough Ground on 24 April 1989 in
+order to remove parts of barrier 124A:
+
+
+Mr                 RLSD
+
+
+               )
+Mr             ) Sloane & Roebuck
+               )
+Mr                 Diamond Drill
+
+Mr                 TD was present during core sampling
+
+The locations from which the concrete cores were to be taken were
+marked by MrS. The cores were identified as P,Q and U, and their
+positions are given in the items list below. After cutting, core P was
+found to contain a piece of the front foot of 124A/4 and core U
+contained a piece of the rear foot of 124A/3.
+
+Excavation of 124A/4 front foot
+
+It was apparent that the foot had been made by flattening and shaping the
+steel angle at the base of the leg. Thus the leg had been bent forward
+to form a foot which was roughly perpendicular to the barrier tube. The
+foot had been held in position by two studs. Part of the foot had
+been removed during core drilling and this weakened the support further,
+particularly at the bend between the leg and foot. One side of the angle
+was very thin in this region and there appeared to be a fracture which
+extended across at least 50% of this side of the angle. This fracture
+was accidentally extended across the full width of this side of the
+angle during excavation/extraction. The extent of the "new" fracture was
+marked with black ink.
+
+Part of the foot on the uphill side was in contact with a reinforcing
+wire in the surrounding concrete. A length of this wire, containing the
+contact region, was cut out for examination. The nuts on the two studs
+were unscrewed and retained.
+
+Excavation of 124A/4 rear foot
+
+This foot was shaped in a similar manner to the front foot, except that
+it had been bent backwards. The angle reinforcement was found to extend
+down to the bend. The nuts were removed and the support was lifted out of
+the ground.
+
+Excavation of 124A/3
+
+Both feet were shaped and bolted in a similar manner to 124A/4. In this
+case the nuts had to be cut off using an angle-grinder.
+
+During excavation/removal the tube which had been between joints 3 and 4
+slipped out of the strap on support 3. It appeared to have been held in
+position by rust and debris only. The mating positions of tube and strap
+were marked with parallel yellow paint marks.
+Items taken to SEL
+
+A list of items was left with PC            The items removed on 24 April
+were items (3) to (ii) inclusive, as detailed in my letter to DC
+dated 27 APril 1989.
+
+
+
+
+28 April 1989
+                             Health &           Research and LaboratoryH ~ C~ ~ ~ ~1~
+                                                Services Division
+                                                Broad Lane
+                             Safety             Sheffield $3 7HQ
+
+                             Executive          Telephone 0742 768141
+                                                ext
+                                                Telex 54556 (HSE RLS G)
+                                                Facsimile 0742 755792
+
+
+
+
+Detective Constable
+                                               Your reference
+West Midlands Constabulary
+                                               Ou, reference
+                                                                        SI’R13431235101
+                                               Date
+                                                                    27 April 1989
+
+
+
+Dear Sir.
+
+HILI3BOROUGH INVESTIGATION - EXHIBITS
+During my visit to the Hillsborough Ground on 24 April 1989 i removed a
+number of additional item~ for examination at HSE’s Sheffield Laboratory.
+i gave details of these items to PC[          Iwho was on duty at the
+Ground at the time. For your information the complete lis~ of items
+taken from Pen 3 on the West Terrace, and now in my possession, is as
+follows:
+1} A piece of steel tube found by Dr Nichoison near the foot of support 4
+barrier 124A in the central pen.
+
+2) A piece of steel tube found by Dr Nichoison on the terracing of the
+central pen between supports 2 and 3 on barrier 124A.
+
+3) A piece of steel tube which had been located at one end in the strap
+on support 3 on barrier 124A.
+
+4) Support 4 from barrier 124A.
+
+5) Support 3 from barrier 124A.
+
+6) Items from the front foot of ~upport 4 on barrier 124A, recovered
+during excavation and comprising: two nuts: a slice from the foot
+itself (detached during core drilling]; a piece of reinforcing w~re.
+
+7] Two nuts from the rear foot of support 4 of barrier 124A, recovered
+during excavation.
+
+8) Two pieces of concrete iound by Hr ~riear the fron~ ioot of
+support 4 on barrier 124A before excavation.
+9) A concrete core, identified as "P". cut from the terracing near the
+front foot of support 4 on barrier 124A.
+
+i0) A concrete core, identified as "Q", cut from the terracing between
+the front and rear feet of support 4 on barrier 124A.
+
+
+
+                                  -i-
+11~ A concrete core, identified as "U". cut from the terracing near the
+rear leg of support 3 on barrier 124A.
+
+If you require further information, or you need to see the above items,
+please contact me at the above address, or via Dr Nichoison.
+
+
+Yours sincerely.
+
+
+
+
+Section Head
+Metallurgy & Materials
+
+
+
+
+                                    -2-
+            Ih~EST~UM ~O EUIL~~ nn~s~
+
+            Please erasure that all work on this investigation
+            is booked to SSO.02.0]x~.814. Also erasure that all
+            capital, cunmmoble or extramural contract
+            exper~es which are required for the work are dealt
+            with through my office. Please send all papers to
+            Miss ~.
+
+
+
+
+            C E NICSDLSGN
+            DD/SE~
+            28 ~ ~89
+
+
+
+
+CODE18-78
+        /~
+    t~ ~_.~....~. ’l -
+
+
+
+
+2
+                                       .
+
+
+
+
+                     IZ ~ /t
+     /
+
+
+
+
+/~.~-~.~,~~ ,.o~ ~ ~ s ~ _,.v~"?K ,-
+v
+NEA..qUR~IENTS TAKEN AT HILLSBOROU~’H 24 APRIL 1989
+
+Paint Thickness Tests On l~rrier Poles Using
+Elcometer.
+
+136A/3 area   0.410 to 0.963 mm
+
+136/3 area    0.136 to 0.198 mm
+
+149 general   0.098 to 0.146 mm
+
+124A/1 area   0.102 to 0.191 mm
+
+125 general   0.209 to 0.287 mm
+
+
+Netal Thicknesses using Cygnus Instrument.
+
+149 Pole      5.0 mm
+149 Strap     5.0 mm
+
+136 Pole      5.0 mm
+136/3 Strap   7.7 to 7.8 mm
+VISIT TO HILLSBOROUGH GROUND 17 APRIL 1989
+
+At the request of Mr                Sheffield Environmental Health
+Department, the following HSE staff visited Hillsborough Football Ground
+in order to examine the crush barriers in the central pen at the
+southern end of the ground:
+
+Mr               ) TD
+Mr               )
+Dr C Nicholson   )
+Mr               ) RLSD
+Mr               )
+Mr               )
+Mr               )
+I examined the failed barrier, 124A, including the detached tube, and
+sprayed all fractures with a clear aerosol laquer. All fracture locations
+were covered with plastic bags. A small piece of steel tube was
+recovered from the debris by Dr Nicholson and this was placed in a
+plastic packet and removed for safe-keeping.
+
+A survey of each joint on each barrier in the central pen was carried
+out and I noted the following:
+
+Barrier 149
+
+This was a relatively new barrier fabricated by welding four RHS uprights
+(4"x 2"on ends and 5"x 3"in the middle) to a 2.25" OD steel tube. There
+was no significant corrosion.
+
+Barrier 136
+
+Joint i (east end) - some corrosion at feet, evidence of yielding having
+occurred on support leg near junction of gusset plate and third rivet.
+
+Joint 2    Strap welded at both sides to tube - evidence of cracking in
+strap material near junction with support strap.
+
+Joint 3    Strap welded at one side only - a 5" long tube had been
+inserted    support not vertical.
+
+Barrier 136A
+
+Joint i - an usually wide strap which overlapped the end of the tube
+no welding
+
+Joint 2 - slightly bent rear leg - gusset deformed by rust jacking -
+strap welded on LHS (east) side only. There was a double-welded joint to
+RHS of the strap.
+
+Joint 3    tube insert welded - insert visible on LHS of joint where a
+piece of the original tube had been removed, the insert had been welded
+to the two cut ends of the original tube - strap deformed and rear bolt
+not tight.
+Barrier 124A
+
+Joint I - new strap with welded joint 2" to RHS     lower edge of gusset
+plate curved
+
+Joint 2 - failed - new strap, welded on LHS - tube insert protruding.
+The tube insert was 6" long but there was a weld 8" from the end (?)
+on LHS
+
+The length of tube which had been between joints 2 and 3 had been
+detached found on the playing field.
+
+Joint 3     fractured and bent to the ground
+
+Joint 4    fractured - front part of leg pushed out of concrete but not
+bent - detached pieces of concrete lay nearby.
+
+Barrier 125
+
+Joint i    overhanging tube, new strap not welded - new gusset plate - tube
+perforated by corrosion
+
+Joint 2 - strap not welded, new gusset plate
+
+Joint 3 - strap itself not welded but welded joint on RHS of strap - old
+gusset plate
+
+The tube passed through the railings into the RHS of the central pen
+(4). A reinforcing outer tube (tack welded to the fence) was present at
+the junction with the fence.
+
+Joint 4 mottled surface, old gusset plate, rust jacking - strap not
+welded, some tube overhang.
+
+Barrier 144
+
+Joints i & 2    Tube with blanked ends, -i" overhang, straps not welded
+Rear support legs just touching a step. Rear leg of joint 2 braced.
+
+Barrier 137
+
+This barrier had been tested on 16/4/89 and the tube was bent
+Max deflection between joints i & 2 - i"
+Max deflection between joints 2 & 3 - 1.5"
+
+Joint i - tube overhang, strap not welded
+
+Joint 2 - rear support leg bent possibly cracked
+
+Joint 3 -
+
+Barrier 138
+
+Joints i & 2     tube overhang, rust jacking at gusset plates
+
+Joint 3    end of tube covered with a reinforcing outer tube, the latter
+welded to a plate in turn welded to the railings.
+    Barrier 128
+
+    This barrier also had been tested on 16/4/89
+
+    Joint i       tube perforated by corrosion, small amount of overhang
+
+    Joint 2 - paint cracked around strap
+
+    Joint 3 - strap welded on RHS only
+
+    Joint 4 - very near fence - appeared to have a tube insert
+
+    Barrier 127
+
+    Joints i & 2    3" OD tube with blanking plates welded on the ends
+    - some rust jacking. Rear leg of joint 2 braced.
+
+    Barrier 132
+
+    Relatively new with three RHS uprights to which tube welded
+
+    Barrier 150
+
+    Relatively new (RHS uprights) with thre joints and north end welded to a
+    plate on the railings.
+
+    Barrier 126
+
+    Relatively near - two RHS uprights and welded tube
+
+    In addition the barriers in Pen 6 and 7 were given a cursory inspection.
+    There were many different designs and numerous modifications had been
+    carried out. In Pen 6 one support was severely deformed and the attached
+    tube was bent. Several (3 or 4) tubes had been perforated by corrosion.
+    In Pen 7 one tube was severely bent with maximum deflection of 4.5" and
+    another had been bent by 1-2" at mid-span. Also in this pen several
+    barriers had had the feet of the supports renewed (evidenced by welded
+    joints and re-concreting).
+
+/   In the ~ Kop many of the barrier had been severely corroded and tube
+    perforation was apparent in several cases.
+
+
+
+
+    19 April 1989
+                                                                                                                                                                                   ¯       . .’r,g"                                    ¯                   , .,.
+                                                                                                                                                                        ¯,
+                                                                                                                                                                                   ¯ ¯ .. ’ t’;         ~~
+                                                                                                                                                                                                         . .:.-7
+                                                                                                                                                                                                               ..’ : ....
+                                                                                                                                                                                                                   ¯ ":-   : ’,
+
+ .9
+                                                                                                                                                                                                              ’F
+                                                                                                                                                                                                                            -
+               ~°.,
+                                                                                                                                                                ¯ ’~                           * ">" ~’.’~"~i’               "":’ ";       "~: ’       ¯
+                                                                                                                                                                                             ’ .;"~" r.’ ’ ’.
+                                                                                                                                                                        ’, "   ...’ : .: ’. ’~’-’;’l-~’.
+                                                                                                                                                                                                     ~ ’!~.’~ :.:,. ’ .~"¯ " ¯
+                                                                                                                                                                                                                     ~ ..~ -.’.                                                                                       :" "---’---" ":.:,--.Z ’
+                                                                                                                                                                ¯ .": ~        .        "~.%:::I. fi~:,:," ..... " I i .: "
+j ...:¢.                                                                                                                                                                                 ; -..,.~,~:.:~,-.:?.: .. : .’                         -.. .
+                                                                                                                                                                                              ....,,:;-~ ..~ .~.. -. ,
+                                                                                                                                                                                                         .o
+
+
+
+
+                                                                !                                                                                                                                                                                                                                    o~
+
+                                                   t--          I
+                                                                I
+                                                                                                                                                                                                                                                                                                                                      if2
+                                               I   W            I
+                                               I    ,           I      I
+                                                                                                                                                                                                                                                                                                                                      b-.
+                                                                                                                                                                  ff ....
+                                                                                                                                                                                                                                                                                     ..... K.._- .....
+
+                [_    |.
+                                  149 c8~7
+                                       ! ¯                                                                                                                                                                15! ~ _.! 152:~83                                                           ...... 153,~7                                  [i
+                                                                                                                                                   ..! . l                                        :                  I   I
+                                         I                          7 _ t .. -..~, 1                                                                 ~2 ~3 ....... .... 2:-1- _ 3                                                                                            1         ’3 ~                       :-1 !
+                                                                                                                                                                                                                                                                                                                      f-
+                           ..dL
+                                                                       t3 7~:~_ !~d3-8?--                                                                                                                                                                                                                                            I
+........... C,,_ ®1                                            13.2r~’7 "~-- 2 ~- : i-,"2                                                                                                                                                                                                                         r
+                :"- --":- i
+           -                                 -1-25~                                        r .....
+                                                                                                                                                                                   =~t28%-~-                                                                        ]2   g:~:~{--:--- ....~;-
+                                                                                                                                                         ’ --
+                                                         " i , -- -i                                                                       ~----         i                                                                                                                                                                  ;f
+
+
+
+
+                                   \
+                                                             126~r, ....
+                                                                       ¯
+                                                                                                                                                                                       ’2;1 i~ 6 I .....
+                                                                                                                                                                                         " ..........                                                              t ......
+                                                                                                                                                                                                                                                                         i       ;     t il .... ~        "
+                                                                                                                                                                                                                                                                                                                       --~:~
+                                                                                                                                                                                                                                                                                                                      ji J~ : t ;            J
+
+
+
+
+                                                                                                                                                                                       "-’..’-7.......~ "---2".’:: " . ....................                                                    l
+
+
+
+
+,ons                              C E NTRAL PEN= 2200 p~rsons                                                                                                                                                                              PEN= 1600 persons
+                      -
+
+
+
+
+                                                                                                                                                                                                                                                                                                              I
+                                                                           Q ...........................................................
+                                                                                                                                   Main Police Access
+
+     Sheffield Wednesday F. C.                                                                            (
+                                                                                                                      \
+                                                                                                                          Police
+                                                                                                              \           Room
+                   Hillsborough Ground                                                         First-Aid Room
+                                                                                                                  \
+
+
+
+
+                                                                                                                                                %
+                                                                                                  Gymnealum                                         %
+               \
+
+                                                                                                                                                                 3-76          ~,, ~"
+                                                                                                                                                                 55-72     ÷""~L~- ,,--~
+                   I                                                                         NORTH STAND                                                \   \              I                       ¯
+                       I
+                                      l
+                           t
+                                          \                                                                                                                      %%
+
+                                              !
+                                               I                                                                                          I
+                                                                                                                                                                \#
+                       I                                                                                                                                        ~J
+                                                                                                                                   !6     D                           \’\ \ -49-54
+                                                                                                                                   16
+                                                                                                                                                                                 43-4[
+                                                    1-16
+                                                                                                                                          f~
+                                                                                                                                   14                                          \
+                                                                                                                                          o                                                    \
+
+   Ii t
+  It t
+l~l #el    I
+                                                           =.                                                                       3     0
+                                                                                                                                                                               \\ \
+                                                                                                                                                                                \\
+                                                                                                                                                                                 \\
+                                                                                                                                                                                   \
+                                                                                                                                                                                     \\
+           !
+          I                                                                                   Player’s                              12                                                    \\
+
+                                                                                              Tunnel                                                                                           \
+   Away Fans Entrance                                                                                                                                                                                  \\
+                                                                                                                                                                                                            \
+                                                                                                                                                                                                                \\
+     and Enclosures                                                                                      -~- ,-- ......                                                                                              \
+
+
+
+
+                                IPolice Control                 19-22                        SOUTH STAND
+
+                                                                                                                                               37-42
+                                                                        Official   23-2                               I
+                                                                                                                      I
+                                                                                                                          29-32 33-36
+                                                                                                                      I    Car
+                                                                                                                             1
+
+                               KEt’
+                                                                                   Directors Entrance
+                               TURN$1"ILES .... rT’)77t
+

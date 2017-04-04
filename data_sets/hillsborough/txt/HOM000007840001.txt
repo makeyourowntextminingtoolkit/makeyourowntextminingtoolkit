@@ -1,0 +1,310 @@
+          »
+
+
+
+
+                                              Covering
+                                              covering
+                                             RESTRIC*
+                                             RESTRICTED
+    * •
+              MR GINMAN                                     cc4*r
+                                                            cc^Mr    Wasserman *
+                                                               Mr    Aitken
+                                                               Mr    Finlayson *
+                                     *                    >    Mr    Tomlinson
+
+                                         ^                     (*with copy of
+                                                                 attachments)
+                                                                    a1
+
+
+
+
+              HILLSBOROUGH
+
+
+
+              that   radio                         feature     i the         :        The
+
+
+
+
+              repeated his request at 2.48 pm for gates to be opened but
+              received no acknowledgement over his radio. There appeared to be
+              some problems with police radio communication at that crucial
+              stage".
+
+              2.   We shall need to keep a watch on the inquiry as it develops,
+              to see whether we need to commission further work. There is one
+              area, where I remain uneasy, and this is the follow-up to the
+              Popplewell Inquiry. Can I have a rather fuller note of what work
+              was done by Swansea University and Racal, to what extent the
+              police service were kept informed of the outcome, and how
+              decisions were reached not to undertake further work in this
+              area.
+
+
+
+
+                                                                         L <-M
+
+
+                                                            G E GUY
+              17 May, 1989
+
+              DIRECTORATE OF TELECOMMUNICATIONS
+              Horseferry House
+
+
+
+                                              Covering
+                                             RESTRICTED                            (hills)
+
+
+
+
+.
+                                            cc.   Mr Guy ^
+                                                  Mr Tomlinson
+
+
+
+
+Mr Ginman
+
+HILLSBOROUGH
+
+I refer to Mr Tomlinson's report of 27 April regarding the radio
+communications in use at Hillsborough.
+On a point of accuracy, Mr Tomlinson states that the W15Us used
+by the force for such occasions is not covered by the Depot for
+maintenance under the MOU. This is incorrect. Kippax depot have
+researched this matter further and now confirm that the W15 units
+are covered by the MOU.
+Kippax depot were recently asked by the force, on behalf of the
+enquiry team, to check the W15U used at Hillsborough. Their
+report, attached, indicates that there are no apparent faults
+with the equipment.
+
+
+
+
+                                        I Aitken
+                                        Deputy Director
+
+
+
+
+10 May 1989
+                                               -C * £ u
+                                                    -=M
+                                                          VO\S
+
+
+
+HILLSBOROUGH FOOTBALL GROUND
+
+
+On 5 May 1989 a series of tests were carried out on the radio equipment
+installed at Hillsborough Football Ground by Home Office Technicians
+         and             PC I      I (South Yorkshire Police) was in
+attendance.
+
+1.     MAIN W15U CONTROL STATION
+
+       This was checked using a Marconi 2955 test set and all
+       parameters were found to be within the specified limits.
+
+2.     COVERAGE TESTS
+
+       Tests were then carried out between the Control Station and
+       personal radios to check the coverage in and around Hillsborough
+       Football Ground particular attention was paid to the Leppings Lane
+       end of the ground, particularly the areas in and around Gangways
+       2, 3 and 4. These tests were conducted both with and without the
+       "talk through" mode in use. No problems were experienced at any
+       time.
+
+3.     STANDBY W15U
+
+       This was tested as in 1. and identical coverage checks done as in 2.
+       Again no problems were encountered.
+
+4.     (a)    Further tests were then carried out to show that with the
+              Control Station on "talk through" any transmissions by a
+              personal radio will over-ride the Controller should he be
+              trying to transmit via the hand-held microphone.
+
+       (b)    In the course of these tests it was noticed that the quality
+              of signal from the older BE470 personal radio was noticeably
+              better than from the motorola being used by PC
+              Possibly just a one off, but worth checking.
+
+CONCLUSIONS
+
+The radioequipment checks and the subsequent coverage tests didnot show up
+any apparent problems with the radio scheme.
+
+
+
+
+                                             J COTTjER
+                                             8 May 1989
+If'
+
+
+
+
+                                  RESTRICTED
+
+
+
+                                                                   - 5 MAY 1989
+
+      Mr R Ginman
+                                                                 Copy to:-
+                                                                   G E Guy
+                                                                Mr I Aitken
+
+
+
+      HILLSBOROUGH
+
+
+
+      In reply     to Mr Guy’s request      for information  on    the   radio
+      communications in use at the Hillsborough football stadium I have
+      investigated the situation and from the informal information available to
+      date can report:-
+
+      1.   There were too many radios in use on a single channel           given
+           the situation that was likely to develop.
+
+      2.   Only one of the four emergency channels was deployed.
+
+      3.   The scheme was used on automatic talk trough.           (Talk through
+           is only suitable for very lightly loaded channels)
+
+      4.   It needs to be questioned if an experienced police        radio
+            operator was deployed to control the radio channel and prevent
+            the channel becoming blocked as the incident developed.
+
+      5-   No effective solution can be devised to prevent excess use of
+           radio communications crashing the channels in the absence of a
+           radio controller.     U nder adverse conditions more than one
+           person on a radio channel can block the use of the channel if
+           normal discipline breaks down.
+
+      Field Services - Equipment Aspects
+
+      I have spoken to              1 Kippax Depot, and ascertained that the
+      U HF scheme for the football ground uses an elderly W15U with a fixed
+      aerial. The equipment is owned by the force and is not covered by the
+      Depot for maintenance under the MOU.       There have been no known
+      complaints about the coverage provided by this scheme when using the
+      fixed aerial.  The hand held radios used by the force are Motorola
+      HT600E with remote heads.     In addition some 100 Burndept 470 were
+      loaned by the Depot fitted with in ear loudspeakers.   The base station
+      W15U was changed at circa 14:10 hrs by the force. The force have their
+      own trained personnel in attendance for this type of fixture and do not
+
+                                  RESTRICTED
+                           RESTRICTED
+
+use the Depot technical support.         It is evident that the police personnel
+were under the impression that ti e channel was breaking up and a change
+of base station would clear the problem.         There can be little doubt that
+what was happening was that the channel was becoming overloaded which
+to the uninitiated could be mistaken for an equipment malfunction.
+
+The scheme was operated on one of the four emergency U HF channels
+and only one channel was used. All the pointers are to the scheme being
+used on talk through.         In which case the scheme is arranged that the
+controller can not talk on the scheme whilst any hand held set is
+transmitting.      Under these circumstances the controller loses use of the
+channel and this is almost certainly what happened as the incident
+developed.        The talk through should have been deselected as the channel
+started to     break up due to overloading - not as happened try changing
+the base station.
+
+There has     been some play made by Sheffield University in a        television
+broadcast on channel 4 that the use of UHF is not satisfactory.       This can
+be discounted according to the Depot as the aerial well sited         and the
+coverage is good in the immediate vicinity.    The feeling being        that the
+University expert is confusing local communication on UHF with         the VHF
+wide area cover.
+
+The control room that was in use along with all of the radio equipment
+has been sealed pending inspection by the investigating team.
+
+Poppelwell - Inquiry Submission
+
+The Directorate in their submission on the Bradford football ground fire
+stated that the U HF hand held radios used were old (Burndept singfc piece
+sets) and that the crowd noise was too high for them to be effective.
+Promises were made that subsequent purchases would be better in this
+respect. Two special studies were commissioned with a view to improving
+the performance of the Burndept radio.        Swansea University producing a
+rubber guard for the microphone loudspeaker to shield the set from the
+high level of crowd noise.        Racal were commissioned to study what
+improvements could be made to the circuitry including the addition of a
+noise cancelling microphone.    The findings of the Racal work proved too
+difficult to implement.    Mr Owen briefed the inquiry that to the effect
+that    replacement   setswould    have     a  better  noisy   environment
+performance.     This has been achieved with better overload limiting and
+remote microphone / loudspeaker accessories.
+
+The Kings Cross submission echoed the Bradford submission.
+
+Radio Communications Problems - Observations
+
+The use of the radio channels for this type of public order incident is
+problematical.    A half duplex arrangement is used on which many
+officers listen to control on one frequency and each is free to transmit
+
+                           RESTRICTED
+                           RESTRICTED
+
+on the another frequency back to the controller.                 This gives good
+communication whilst disciplined use of the channel is maintained and is
+adequate under normal circumstances.           As an incident starts to develop
+more radio messages are sent by the officers to control.              The message
+density increases until messages are in contention and clash with each
+other.    When this happens no messages are received and unless those
+wishing to speak resist the temptation to try and crash into control over
+the top of their colleagues the channel becomes unusable.            Control would
+then tell everyone to wait and solicit information from individual officers
+in an      orderly fashion.     This effect is compounded if talk through is
+selected as the automatic repeating of the incoming calls so that every
+one is aware of what is going on inhibits the controllers microphone
+effectively preventing the request to stop transmitting.
+Because of the very real risk of loosing control of the radio channel the
+use of talk through is only recommended by the Directorate for lightly
+loaded     channels when they are quiet          ie in rural areas at night.   To
+permit     the channel to remain on talk through for a football match would
+not be recommended under any circumstances.
+
+
+I am of the opinion that the use of the radio requires better deployment
+planning and that this will be a sensitive issue to discuss with the force.
+There is clearly a need for the force to exercise direct control of the
+radio communications by designating a seasoned police operator to control
+and co-ordinate the radio communications.      This entails either operating
+the radio scheme from the normal force control room or from a
+temporary control point at or near the football ground.    It could be said
+that there is need for formal instructions for the deployment of radio
+communications under conditions where channel overloading is likely to
+lead to problems.
+
+
+
+
+P M Tomlinson
+27 April 1989
+
+
+
+
+                           RESTRICTED                                                3
+

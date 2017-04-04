@@ -1,0 +1,2573 @@
+ FOOTBALL LICENSING AUTHORITY
+
+
+
+
+         CONSULTATION PAPER NO 2
+
+
+
+
+              DRAFT GUIDANCE ON
+             SAFETY CERTIFICATES
+
+
+
+
+Football Licensing Authority
+27 Harcourt House
+19 Cavendish Square
+LONDON
+W 1M 9AD
+
+
+November 1991
+                    FOOTBALL LICENSING AUTHORITY
+
+                DRAFT GUIDANCE ON SAFETY CERTIFICATES
+
+
+
+                           C O N T E N T S
+                                                        Paragraph
+
+i.   Introduction
+
+1.   Certifying authority procedures
+     Responsibilities of certifying authorities           1.1
+     The certification process                            1.6
+
+2.   The safety certificate
+     Format of the certificate                            2.1
+     Amendments to the certificate                        2.5
+
+3.   Responsibility for safety
+     The person responsible                               3.1
+     Contingency plans                                    3.3
+     Control and communications                           3.5
+
+4.   Spectators
+     Numbers and disposition                              4.1
+     Entry of spectators                                  4.6
+
+5.   stewarding
+     Provision of stewards                                5.1
+     Tasks of stewards                                    5.5
+     Qualifications of stewards                           5.9
+
+6.   Policing
+     Division of responsibility                           6.1
+     Public order                                         6.5
+     Command and control facilities                       6.10
+
+
+
+
+                                  1
+         *
+    •s
+
+
+4
+
+i
+
+
+             7.    Exit routes and gates
+                   General requirements                      7.1
+                   Exit gates                                7.3
+                   Gangways and passageways                  7.7
+
+             8.    Perimeter and radial fences
+                   General principles                        8.1
+                   Safety precautions                        8.4
+
+             9.    Structural safety
+                   Maintenance and repairs                   9.1
+                   Standing and seating                      9.8
+                   Temporary structures                      9.10
+
+             10.   Electrical and mechanical safety
+                   General safety requirements              10.1
+                   Lighting and ventilation                 10.7
+
+             11.   Fire safety
+                   Responsibilities of certificate holder   11.1
+                   Structures and fittings                  11.4
+                   Hazardous products                       11.8
+                   Alarms and equipment                     11.11
+                   Procedures                               11.14
+
+             12.   First aid and medical matters
+                   Introduction                             12.1
+                   First aid facilities                     12.3
+                   Personnel                                12.7
+
+             13.   Amenities for spectators
+                   General principles                       13.1
+                   Lavatories                               13.4
+                   Catering                                 13.7
+
+             14.   Inspections and tests
+                   The need for inspections and tests       14.1
+                   Match-related checks                     14.5
+                   Professional inspections                 14.8
+
+
+
+                                              2
+*
+
+
+
+
+    15.   Records to be kept
+          The need for records                            15.1
+          Internal records                                15.4
+          Submissions to the certifying   authority       15.6
+
+    A.    Suggested structure of the safety certificate
+
+
+
+
+                                    3
+               DRAFT GUIDANCE ON SAFETY CERTIFICATES
+
+Introduction
+
+(i)       This guidance note is designed to assist local
+        authorities    ("certifying   authorities")   which    are
+        responsible for the issue of safety certificates to
+        designated football grounds under the Safety of Sports
+        Grounds Act 1975 ("the 1975 Act") as amended by the Fire
+        Safety and Safety of Places of Sport Act 1987.         The
+        Football Licensing Authority ("the FLA") is aware of
+        considerable variations between safety certificates issued
+        by certifying authorities.    Its aim is to bring about
+        greater consistency and to promote best practice.
+
+(ii)      This document covers both the format and contents of
+        safety certificates and also the procedures for issuing and
+        revising them.     The guidelines supplement but do not
+        replace Home Office Circulars, the Home Office Guide to
+        Safety at Sports Grounds ("The Green Guide") and the
+        various information booklets issued by the Football Stadia
+        Advisory Design Council (FSADC) to which reference should
+        continue to be made for technical guidance. They should be
+        read with the recommendations of the Hillsborough Stadium
+        Disaster Final Report ("the Taylor Report") and those of
+        the Committee of Inquiry into Crowd Safety and Control at
+        Sports Grounds ("the Popplewell Report").
+
+(iii)     These guidelines should not be regarded as statutory
+        requirements to be imposed rigidly, irrespective of the
+        circumstances at particular grounds.   They do not remove
+        the discretion of certifying authorities to include such
+        terms and conditions as they consider necessary or
+        expedient to secure reasonable safety at the ground to
+        which the safety certificate applies. However, certifying
+
+
+                                  4
+       authorities should satisfy themselves that they can justify
+       each departure from these guidelines on its individual
+       merits, for example because of the smallness of the ground,
+       and should record their reasons for doing so.       In such
+       cases,   the   local FLA Inspector is available         for
+       consultation.
+
+(iv)     It will be noted that, in referring to the requirements
+       to be included in safety certificates, these guidelines use
+       either the word "may" or "should" or "must". "May" means
+       that the FLA considers the matter to be for the informed
+       discretion of the certifying authority in the light of
+       local needs. "Should" is to be understood as prescriptive
+       but not mandatory; variations will be acceptable if they
+       are shown to be justified.    "Must" should be regarded as
+       mandatory save in the most exceptional circumstances.
+       Certifying authorities should be aware that the FLA
+       reserves   the   right   to   exercise   its  power   under
+       Section 13(2) of the Football Spectators Act 1989 to
+       require a certifying authority to include in a safety
+       certificate such terms and conditions as the FLA may
+       specify should it consider this necessary.
+
+
+
+
+                                 5
+    *
+
+
+V
+
+
+
+
+        1.    CERTIFYING AUTHORITY PROCEDURES
+
+        Responsibilities of certifying authorities
+
+        1.1    Under the 1975 Act, the responsibility for determining
+               what terms and conditions should be included in a safety
+               certificate rests with the certifying authority.       In
+               exercising this responsibility, the certifying authority
+               should be guided as appropriate by the Police, Fire
+               Service, Ambulance Service and the Building Authority, as
+               well as other bodies or individuals (including voluntary
+               first aid organisations) with relevant skills or
+               experience.   The certifying authority should take into
+               account the views of the football club and, where this
+               can be determined, of representative supporters.
+
+        1.2    The FLA supports the recommendation in the Taylor Report
+                (recommendation 31) that each certifying authority should
+               maintain and chair a Safety Advisory Group which should
+                include representatives of the Police, Fire Service,
+               Ambulance Service and Building Authority.         The FLA
+               recommends that the football club should participate in
+                the discussions of the Safety Advisory Group before any
+               decision affecting it is taken by the certifying
+                authority. Where possible, representatives of supporters
+                should be consulted.
+
+        1.3    In most circumstances the certifying authority should
+               maintain a separate Advisory Group in respect of each
+               designated football ground for which it is responsible.
+               However, where there could be a substantial overlap of
+               membership, it may be appropriate for one Advisory
+               Committee to cover more than one ground provided that the
+               attendance is adjusted according to which ground is under
+               consideration,   and provided that each ground is
+               considered on its individual merits.
+
+
+
+                                        6
+1.4   In accordance with its standing orders, a certifying
+      authority may delegate decisions relating to safety
+      certificates to a committee or to particular officers of
+      the authority.     It should not delegate its decision
+      taking functions to any outside body or authority. While
+       it may be acceptable for such functions to be vested in
+       the officer who acts as chairman of the Safety Advisory
+       Group, the group as such cannot exercise the certifying
+       authority's decision making powers. (These points do not
+       apply to operational policing matters which are the
+       responsibility of the Chief Officer of Police - see
+       paragraph 6.5 below.)
+
+1.5   Given that the administrative structure varies from one
+       certifying authority to another, the FLA takes no view as
+       to which should be the most appropriate Department for
+       safety certification provided that this can be shown to
+       have related responsibilities.    This Department should
+       work closely with others with an interest.
+
+The certification process
+
+1.6   The safety certificate should be issued to the club as a
+       whole rather than to a named individual within the club.
+       In the event that any entity other than the club is
+       responsible for the safety and repair of the structure of
+       the ground, it may be necessary to issue the safety
+       certificate jointly to such entity together with the
+       club.
+
+1.7   The task of the certifying authority does not end with
+       the issue of the safety certificate.      As required by
+       Section 10B of the 1975 Act, every safety certificate
+       should be reviewed at least once a year. In order that
+       this may be undertaken satisfactorily, the certifying
+       authority must monitor the club's observance of the terms
+       and conditions of the safety certificate, in particular
+V
+
+
+
+
+          on match days. The certifying authority must ensure, by
+          means of periodic inspections, that the terms and
+          conditions remain appropriate in the light of any
+          developments at the football ground. While the Police,
+          Fire Service, Ambulance Service and Building Authority
+          will need to monitor the club's performance on matters
+          which concern them, the overall responsibility remains
+          with the certifying authority. This task is not part of
+          the functions of the FLA.
+
+    1.8   While changes in the safety certificate should be
+          determined by the certifying authority, in many cases
+          these will be in response to improvements or alterations
+          to structures or procedures proposed by the certificate
+          holder. Paragraph 2.1.d below requires any changes of
+          circumstance to be notified to the certifying authority
+           in writing within a given period.   It follows that the
+          certifying authority must respond to any application in
+           a reasonable time.
+
+    1.9   The FLA considers that a safety certificate should be
+          replaced, with such amendments as may be necessary, every
+           12 months, preferably not during the football season.
+          Accordingly, any safety certificate more than 12 months
+          old should be replaced at the next annual review or
+          during the next close season.         (The form of the
+          certificate is discussed further in paragraphs 2.1-2.5
+          below.)
+
+
+
+
+                                  8
+2.    THE SAFETY CERTIFICATE
+
+Format of the certificate
+
+2.1     The FLA recommends that all safety certificates should be
+        issued in modular form. It advises that a modular safety
+        certificate should comprise a short covering document
+        stating that this is a safety certificate issued by the
+        certifying authority concerned under the Safety of Sports
+        Grounds Act 1975. This cover sheet should:
+
+           a.   identify the holder of the safety certificate who
+                 is responsible for complying with it;
+
+           b.   specify in general terms the activities (for
+                 example sport, concerts and public meetings)
+                 covered by the safety certificate;
+
+           c.   require compliance with the terms and conditions
+                 of the safety certificate;
+
+           d.   require the holder to notify any change of
+                 circumstances to the certifying authority in
+                 writing within a specified period (see also
+                 paragraph 9.6 below); and
+
+           e.   state that the safety certificate does not
+                 invalidate any statutory obligation upon the
+                 holder.
+
+2.2     It is recommended that this covering document should be
+        backed by the core section of the safety certificate
+        which should comprise a general statement of the duties
+        laid upon the certificate holder.   These duties should
+        then be spelt out in such detail as is necessary in a
+        series of schedules, each schedule relating to a
+        particular topic.    Sections 3-15 of these guidelines
+      cover the various matters which the FLA considers should
+      each be the subject of a general duty supplemented by a
+      separate schedule.   These proposals are summarised in
+      Annex A .
+
+2.3   Certifying authorities may consider it appropriate to
+      include two further schedules: one of definitions, the
+      other specifying what ancillary activities, for example
+      the   sale   of tickets,    programmes,   souvenirs  and
+      refreshments, the provision of incidental entertainment,
+      the provision of news or comment or other unspecified
+      activities notified to and approved by the certifying
+      authority are covered by the certificate.
+
+2.4    It is essential that a safety certificate is both easy to
+       follow and complete within itself.     Thus the detailed
+       requirements of the safety certificate should be set out
+       in the certificate itself and not in other documents.
+       Except on operational policing matters (see paragraph
+       6.5), general provisions to the effect that tasks must be
+       undertaken to the satisfaction of the certifying
+       authority, the Chief Officer of Police, the Chief Fire
+       Officer or any other person,        should be avoided.
+       Statements of intent or any other documents referred to
+       in the safety certificate should be kept with it at all
+       times.
+
+Amendments to the certificate
+
+2.5    It is inappropriate for a safety certificate to be
+       amended by means of the minutes of a Safety Advisory
+       Group or any other meeting.    All amendments should be
+       notified formally to the certificate holder by the
+       certifying authority in writing. With a modular safety
+       certificate, it should be possible to attach to the
+       written notice a suitably amended replacement page or
+       schedule.   Using modern word processing equipment it
+
+
+                                10
+    Nt
+
+
+
+♦
+
+
+               should not be difficult to store the text of a safety
+               certificate in such a manner that it can be retrieved,
+               amended and reissued.
+
+         2.6   One of the main advantages of a modular safety
+               certificate arises when it is due for replacement. At
+               this stage, it should be sufficient for the certifying
+               authority to issue a new covering document, a replacement
+               schedule of work to be done (see paragraph 9.7V and
+               replacements for any schedules being amended.       These
+               could be integrated with the unamended schedules to the
+               earlier safety certificate in a loose leaf folder.     To
+               avoid confusion, pages should be numbered and each
+               amendment page should be suitably identified.
+
+
+
+
+                                      11
+3.    RESPONSIBILITY FOR SAFETY
+
+The person responsible
+
+3.1     The safety certificate should       make it   clear that
+        responsibility for the safety of spectators lies with the
+        certificate holder (ie the club) and not with the police
+        or certifying authority.      The core section of the
+        certificate must require the club to designate an
+        individual in a position of authority who will be
+        responsible for its safety policy and its implementation.
+        This person must be required to appoint and set out in
+        writing the duties of a safety officer (who may be him or
+        herself) to take day to day responsibility for safety
+        matters.
+
+3.2     The core section of the safetycertificate should lay
+        upon the holder a general duty to take such precautions
+        as might be necessary for the reasonable safety of
+        spectators. This should include an obligation to produce
+        a written statement of safety policy.            Further
+        requirements (see below) should be set out in a schedule
+        to the safety certificate.   (For the responsibility of
+        the safety certificate holder for tests and records see
+        Sections 14 and 15 below.)
+
+Contingency plans
+
+3.3     The safety certificate holder    should be charged with
+        producing    contingency  plans   for   emergencies,   in
+        conjunction with the Police, Fire Service, Ambulance
+        Service, local authorities and others as necessary.
+        These    should    cover  all   reasonably    foreseeable
+        contingencies up to and including the need for a total or
+        partial evacuation of the ground. In such plans specific
+        tasks should be assigned to named individuals or their
+        nominated deputies. Copies of contingency plans should
+
+
+                                  12
+      be required to be kept readily available.    Appropriate
+      extracts from plans and/or emergency instructions should
+      be provided to those assigned tasks under the plans.
+      Certifying authorities may wish to prescribe what safety
+      instructions and/or ground rules should be kept
+      prominently displayed     and where.       (For  various
+      requirements on the contents of contingency plans see
+      paragraphs 3.7. 5.11. 8.9. 10.5. 11,14. 12«4, 12.6.
+      and 13.2 below.)
+
+3.4    The safety certificate should spell out the criteria for
+      the club to inform the Police, Fire Service, Ambulance
+      Service and certifying authority of forthcoming events,
+      in particular the period of notice that should be given
+      for various types of event.      It should lay upon the
+      certificate holder a requirement to consult the police
+      and other emergency services about the arrangements for
+      individual events, in particular about whether they
+      should be made all ticket (see also paragraph 4.7 below).
+
+Control and communications
+
+3.5   The safety certificate should lay down how the safety
+      officer is to be identified and contacted while
+      spectators are in the ground (when he or she should have
+      no other duties) and his or her post in an emergency
+      which should normally be in the control room (see
+      paragraph 6.10 below).
+
+3.6   The certificate should specify the location of emergency
+      telephones (including any direct lines to the emergency
+      services).   This should be either a room permanently
+      staffed by the club and in direct communication with the
+      control room or the control room itself.      Where the
+      control and enunciator panel for automatic and manual
+      fire alarm systems is located in an area that is not
+      staffed during a match, the certificate should require
+
+
+                             13
+#
+          there to be a repeater board in the same location as the
+          emergency telephones.
+
+    3.7   The club should be required to provide and maintain a
+          public address system to a prescribed specification (set
+          out in an appendix to the safety certificate) capable of
+          being heard in all parts of the ground, including when
+          necessary the playing area. This should be capable of
+          being overridden from the police control room (see
+          paragraph 6.10 below).        The certificate holder's
+          contingency plans should cover the eventuality of a power
+          failure affecting the public address system.
+
+    3.8   The certifying authority may wish to prescribe standard
+          emergency announcements to staff and/or stewards and the
+          public in the safety certificate. The wording of these,
+          and the circumstances in which they should be used should
+          be set out in an appendix to the safety certificate.
+          Where appropriate it may wish to specify means of
+          communication between the safety officer and others
+          having a safety role during the match.              Where
+          appropriate, this could be supplemented by a requirement
+          to provide loud hailers for senior stewards.
+
+
+
+
+                                 14
+4.    SPECTATORS
+
+Numbers and disposition
+
+4.1    The safety     certificate must prescribe the maximum
+       capacity of the football ground and of each of its
+       constituent parts.      The core section of the safety
+       certificate should impose two general duties upon the
+        certificate holder, namely:
+
+           a.      to ensure that the capacities specified in the
+                   related schedule are not exceeded; and
+
+           b.      to   ensure that the various measures         for
+                   controlling crowds prescribed in the schedule are
+                   observed.
+
+4.2     This schedule should record the maximum permitted total
+        capacity of the ground.      It should contain a table
+        setting out the maximum permitted capacity of each stand
+        or enclosure within the ground.        These should be
+        calculated in accordance with the requirements of the
+        Green Guide and then be reduced if necessary to reflect
+        local circumstances.     These calculations should be
+        recorded in writing as should any departure from the
+        Green Guide.     Reasons for reduced capacities could
+        include the number and capacity of exit routes and gates
+        (see paragraph 7.2 below), structural or design defects
+        (see paragraph 9.8 below), inadequate maintenance or a
+        lack of suitable procedures for handling spectators but
+        not a policy decision by the certifying authority to
+        require the conversion of standing accommodation to
+        seating.   (This is for the FLA to implement through the
+        licensing scheme.)
+
+4.3     Where appropriate, the table should indicate the
+        categories  of spectators to be accommodated in a
+
+
+                                  15
+      particular area.   Any accommodation set aside for the
+      disabled should be identified.    These allocations of
+      accommodation should be set out in the general
+      description of the ground attached to the safety
+      certificate (see paragraph 9.5 below).
+
+4.4   The FLA considers it desirable that the segregation of
+      home and away fans should be phased out wherever
+      possible. It is accepted, however, that this cannot yet
+      be achieved for all matches at all football grounds.
+      Accordingly, the certificate holder should be required to
+      provide, where necessary, for the segregation of home and
+      away supporters. These arrangements should be set down
+      in writing after having been agreed with the police (see
+      paragraph 6.7 below).
+
+4.5   The safety certificate should specify the location of any
+      press and media facilities other than reporters' seats in
+      the stand. Such facilities might include television and
+      radio commentary points, camera gantries and the location
+      of outside broadcast vans.      It should lay down, if
+      appropriate, means for identifying journalists and others
+      authorised by the club to have access to the public or
+      playing areas of the ground.
+
+Entry of spectators
+
+4.6   The certificate holder should be placed under a duty to
+      issue no more tickets (including season tickets) for, and
+      admit no more spectators to, any area than is specified
+      in the table.      This should be supplemented by a
+      requirement to monitor the number of spectators entering
+      each section of the ground.     The formulation of this
+      requirement may depend upon the capacity of the ground
+      and the number of entrances.         Where this can be
+      justified, certifying authorities may wish to require the
+
+
+
+                              16
+*
+
+
+
+
+           installation, and prescribe the method of operation, of
+           an electronic spectator counting system.
+
+    4.7    Where a match has been made all ticket (see paragraph 3.4
+            above), the safety certificate may require the holder not
+           to admit spectators who have not bought tickets before
+           the day.
+
+    4.8    The safety certificate should record, by reference to an
+            attached plan (see paragraph 9.5 below), the location of
+            each turnstile or entrance point and the area to which it
+            gives access.    (For the parallel requirement for exit
+            points see paragraph 7.2 below.) Each turnstile should
+            be required to be clearly identified.
+
+    4.9    It should be specified in the safety certificate that all
+            tickets should indicate which entrance is to be used. In
+            the case of larger grounds, the certifying authority may
+            wish to require tickets for different areas to be of
+            different colours - to match coloured signs displayed at
+            the appropriate entrances. A requirement that the ticket
+            bear an outline plan of the ground may be appropriate.
+            The safety certificate should provide for the retained
+            ticket stub to contain sufficient information to guide
+            spectators to their places once inside the ground.
+
+    4.10   All entrances both to the ground and to each seated or
+           standing area and any routes to them should be marked in
+           a manner that can be understood by spectators who are
+           unfamiliar with the ground.        Where necessary the
+           certifying   authority    should   lay   down   detailed
+           requirements in the safety certificate. (For exit signs
+           see paragraph 7.6 below.)
+
+
+
+
+                                    17
+5.    STEWARDING
+
+Provision of stewards
+
+5.1    In the core section of the safety certificate the holder
+        should be placed under a duty to provide stewards in the
+        number, to the specifications, and for the purposes
+        detailed in the related schedule. These stewards could
+        either be directly employed by the club or provided by a
+        specialist undertaking or a combination of the two.
+        Whatever their source, the club will remain responsible
+        for their performance and conduct.
+
+5.2    The certificate holder should be required to designate a
+        chief steward.   He or she should appoint a deputy and
+        senior stewards as necessary to supervise groups of
+        stewards in particular parts of the ground.          The
+        certificate holder should be required to maintain a
+        register of stewards in which should be recorded their
+        attendance and post as well as their training and
+        qualifications   (see paragraphs 5.11-5.12 and 15.4
+        below).
+
+5.3    The certifying authority may specify the number of
+        stewards to be provided and where they should be
+        stationed in as much detail as, in consultation with the
+        club and the police, it considers necessary.     In doing
+        so, certifying authorities should be alert to the need to
+        encourage clubs to maximise the number and effectiveness
+        of their stewards in order that the police presence may
+        be reduced to a minimum.     Thus where a club has yet
+        sufficiently to develop its stewarding, it may be
+        necessary to specify the number of posts to be filled
+        either by stewards or police officers without specifying
+        the number of stewards (see also paragraph 6.2 below).
+
+
+
+
+                               18
+5.4   Once a club is capable of providing all its own stewards
+       and relies on the police merely for public order
+       functions,   it should be possible for the safety
+       certificate to list both the posts to be staffed and the
+      number or, more likely, the minimum number of stewards to
+       be provided.   Except in the case of stewards staffing
+       turnstiles, exit gates or other fixed posts, the number
+       required could be related to the anticipated crowd size
+       and/or the category of match as determined by the police
+       in consultation with the club (see paragraph 6.7 below).
+
+Tasks of stewards
+
+5.5   The safety certificate should prescribe in general terms
+       the tasks of stewards.    While these may vary slightly
+       from ground to ground, the basic duties of stewards
+       should be to enforce the club's safety policy and ground
+       regulations. Specific duties would include:
+
+          a.   controlling or directing spectators who are
+               entering or leaving the ground to help achieve an
+               even flow of people in, to and from the viewing
+               areas;
+
+          b.   monitoring crowd conditions so as to ensure the
+               safe dispersal of spectators on terraces or
+               viewing    slopes   and   the   prevention   of
+               overcrowding;
+
+          c.   patrolling  the   ground to   deal with   any
+               emergencies, raising the alarm and taking the
+               necessary immediate action;
+
+          d.   staffing entrances, exits and other strategic
+               points, especially exit gates and doors which are
+               not continuously open while the ground is in use;
+
+
+
+                               19
+         e.   searching spectators (under ground regulations
+              properly drawn to their attention);
+
+         f.   assisting the police as appropriate to ensure the
+              safety and control of members of the public,
+              before, during and after an event; and
+
+         g.   undertaking specific duties in the event of an
+              emergency or as directed by the safety officer.
+
+5.6   The safety certificate should require the deployment of
+      a steward on the perimeter track in front of each self-
+      contained standing enclosure or area. His or her sole
+      duty should be to check crowd conditions in that area for
+      possible overcrowding or distress throughout the period
+      that the area is occupied by spectators.             This
+      requirement need not apply to any enclosure or standing
+      area where the spectators present, or reasonably expected
+      to be present, during a particular match do not exceed
+      one-third of the area's permitted maximum capacity or
+      2,000, whichever is the lower.
+
+5.7   The safety certificate must state explicitly that every
+       exit from the ground and every gate in any pitch
+       perimeter fence or any radial fence, unless secured in
+       the open position (see paragraph 7.3 below), must be
+       permanently staffed by a steward while spectators are in
+       the ground (see also paragraph 8.8 below). The steward
+       should be charged with watching the gate and spectators
+       near it at all times.   A steward in charge of a pitch
+       perimeter gate is not there to watch the match.
+
+5.8   Stewards staffing exits or gates must remain by them at
+       all times unless relieved by a colleague or a police
+       officer. Stewards manning other posts may not leave them
+       without the prior permission of the appropriate senior
+
+
+
+                              20
+       steward, except in accordance with established emergency
+       procedures.
+
+Qualifications of stewards
+
+5.9    The safety certificate should specify that all stewards
+       should be fit, active and robust and capable of carrying
+       out their duties. They should be aged at least 18 and
+       normally be no older than 55, though a higher age limit
+       could be acceptable for particular posts at the
+       discretion of the certifying authority.
+
+5.10   Stewards should be required to be neatly dressed with a
+       clearly visible means of identification, such as a
+       brightly coloured surcoat or tabard.       This should
+       identify the function performed by its wearer, for
+       example by the use of different colours or designs for
+       senior stewards and stewards performing different
+       functions. For turnstile operators, a suitable badge or
+       identification label might be sufficient.
+
+5.11   It should be a requirement of the safety certificate that
+       no steward, whether directly employed or supplied by an
+       agency, should be deployed unaccompanied without a
+       preliminary period of training both in his or her duties
+       and in safety procedures, including fire safety (see
+       paragraph 11.3 below). All crowd control stewards should
+       be given training in basic first aid. Refresher training
+       should be provided at regular intervals to be determined
+       by the certifying authority having regard to local
+       circumstances.    In addition, in consultation with the
+       emergency services, the certifying authority may require
+       the carrying out of evacuation exercises or other
+       emergency drills (see paragraph 3.3 above).           Where
+       schemes for stewards to obtain formal qualifications are
+       available or in force, certifying authorities may require
+       all stewards to be duly qualified before they take up post.
+
+
+                               21
+5.12   The certificate holder should be required to ensure that
+       every steward is briefed about his or her duties before
+       every match.   This briefing should cover both general
+       responsibilities and duties in the event of an emergency.
+       Each steward should be issued with, should be familiar
+       with, and should carry at all times a copy of the safety
+       instructions applicable to his or her post. This should
+       include an outline plan of the football ground
+       identifying the various areas.    Instructions should be
+       laid down governing assistance to, or the evacuation of,
+       disabled spectators.
+
+
+
+
+                               22
+6.    POLICING
+
+Division of responsibility
+
+6.1     The core section of the safety certificate should impose
+        upon the certificate holder a general obligation to
+        comply with the requirements on policing set out in the
+        related schedule. This should supplement the statement
+        in the core document that the certificate holder is
+        responsible   for   the   safety   of   spectators   (see
+        paragraph 3.1 above). The task of the police should be
+        to maintain public order and to prevent the commission of
+        offences.
+
+6.2    The schedule to the certificate should require the club
+        to discuss with the police the division of responsibility
+        between club and police.      Among the matters covered
+        should be whether particular posts are to be staffed by
+        stewards or police officers (see paragraph 5.3 above).
+
+6.3    The safety certificate should require the outcome of
+        these discussions, including any areas of disagreement,
+        to be recorded in a statement of intent; this should be
+        held with the safety certificate (see paragraph 2.4).
+        This statement of intent should be a management statement
+        not a legal document.
+
+6.4    Also for discussion should be any circumstances under
+        which the police, because of their greater experience or
+        better communications, should be able to take over
+        operational control, for example of a major incident,
+        even if no public order considerations arise.      There
+        should be an agreed procedure, written into the
+        contingency plans, for the senior police officer to
+        notify the safety officer that the police are assuming
+        control and that all club staff and stewards should act
+        as directed by the police.
+4
+    Public order
+
+    6.5    The schedule to the safety certificate should lay upon
+           the holder a duty to comply with the requirements of the
+           Chief Officer of Police or his representative in respect
+           of the attendance and deployment of however many police
+           officers he or she considers necessary for ensuring the
+           orderly behaviour of spectators.         This being an
+           operational police matter, the decision as to the number
+           of officers used should be entirely for the police and
+           not for the certifying authority (see paragraph 1.4
+           above).
+
+    6.6   For the same reasons the certificate holder should be
+          required to comply with any operational instruction from
+          the senior police officer present that may be necessary
+          for the preservation of public order or, after notice has
+          been given as set out in paragraph 6.3 above, for any
+          other reason. Such instructions could include delaying
+          the start of the match, halting play or evacuating part
+           or all of the ground.
+
+    6.7   As indicated above, the certificate holder should be
+          required to discuss with the police, recording the
+          outcome in writing, arrangements for:
+
+              a.     the ticketing and other arrangements         for
+                     particular events (paragraph 3.4);
+
+              b.     the   arrangements   for   the   segregation   of
+                     spectators at particular matches fparagraph 4.4);
+
+              c.     the categorisation of matches as high, medium or
+                     low risk (paragraph 5.4); and also
+
+              d.     the operational control of any perimeter       or
+                      radial fences (see paragraph 8.6 below).
+
+
+                                    24
+6.8    The safety certificate should impose requirements that
+       drinks or other refreshments should be sold in soft
+       materials such as paper or soft plastics.    Exceptions
+       could be made, where appropriate, in the light of local
+       circumstances, for example for restaurants or private
+       boxes.      Restrictions on bringing glass or metal
+       containers into the ground could be imposed where
+        appropriate.
+
+6.9    Certifying authorities may, • where necessary, after
+        consulting the emergency services and the football club,
+        impose restrictions on parking on club premises in order
+        to provide unimpeded access or for other reasonable
+        purposes.   Any restrictions should be spelt out in as
+        much detail as practicable in the safety certificate.
+
+Command and control facilities
+
+6.10   The certificate holder should be required in the
+        certificate to provide a control room which should:
+
+          a.   have a good view of the whole pitch and of the
+               spectator area surrounding it;
+
+          b.   accommodate    the   necessary    communications
+               equipment and CCTV monitors and the staff
+               required for their operation or supervision; and
+
+          c.   be able to serve as a command post in the event
+               of an emergency.
+
+6.11   The certifying authority may lay down requirements as to
+       the appointment of the control room, for instance sound
+       proofing, heating and furnishing.        The certifying
+       authority should ensure that all such requirements are
+       reasonably    necessary   and    proper    given   local
+       circumstances.
+
+
+                                 25
+6.12   Unless this can be shown to be unnecessary in view of the
+       layout and capacity of the football ground, the safety
+       certificate   should   require   the   installation   and
+       maintenance of CCTV (together with an emergency power
+       supply - see paragraph 10.8 below) to monitor crowd
+       densities and the safety of spectators both in viewing
+       areas and in passageways and exits.      The requirement
+       should be set out in detail in an appendix to the safety
+       certificate. Responsibility for determining the level of
+       provision for spectator safety, and for ensuring that
+       this is reasonable and necessary, rests with the
+       certifying authority which should take into account the
+       views of the police, expressed through the Safety
+       Advisory Group, and guidance issued by the Home Office.
+
+
+
+
+                               26
+7.    EXIT ROUTES AND GATES
+
+General requirements
+
+7.1    The core section of the safety certificate must lay upon
+       the certificate holder a general duty to ensure that all
+       means of ingress and egress are maintained in good repair
+       and condition and unobstructed.         Further detailed
+       requirements should be set out in a related schedule.
+
+7.2    This schedule should record the location of each exit
+        point, including emergency exits, by reference to an
+        attached plan (see paragraph 9.5 below). It should be
+        made clear which areas are served by which exit points.
+        (This requirement parallels that for entrance points -
+        see paragraph 4.8 above.) The certificate should specify
+        the required width of each exit gate and, where
+        appropriate, that of gangways or passageways. The number
+        and capacity of exit routes and gates is one of the
+        factors that must be taken into account in determining
+        the permitted capacity of the football ground and its
+        various enclosures (see paragraph 4.2 above).
+
+Exit gates
+
+7.3    The certificate should require that every exit point
+        listed should be available for use in an emergency at any
+        time when the part of the ground which it serves (or from
+        which spectators may gain access to it) is in use.     If
+        not secured in the open position, every such exit point
+        should be continually staffed by a steward at all times
+        when spectators are in the ground.      (This requirement
+        could be relaxed, at the discretion of the certifying
+        authority, in respect of doors opened by means of push
+        bars provided that these are otherwise unlocked.)     The
+        steward should be responsible for opening the gate
+
+
+
+                               27
+*
+
+
+
+
+          immediately in an emergency.      A record of any such
+          occurrences should be kept.
+
+    7.4   Notwithstanding this, while spectators are in the ground
+           any door or gate forming part of an exit route must be
+           prohibited from being locked or fastened unless it can
+           easily and immediately be opened in an outwards direction
+           without the use of a key in an emergency. Electronically
+           controlled gates should not be kept in the fully locked
+           position while spectators are in the ground. Sliding or
+           inward opening doors or gates are not acceptable.
+
+    7.5   The safety certificate should require all exit doors and
+           gates to be secured in the fully open position at a given
+           time shortly before the end of the match. There should
+           be arrangements for spectators who wish to leave before
+           this time to be directed to appropriate exit points which
+           can be controlled so as to prevent other spectators
+           gaining unauthorised entry. Such exit points should be
+           clearly marked on the ground plan (see paragraph 7.2
+           above).
+
+    7.6    As with entrances (see paragraph 4.10 above) all exits
+           and exit routes should be marked in a manner that can be
+           understood by spectators who are unfamiliar with the
+           ground.    The certifying authority should prescribe
+           whatever signs it considers necessary for this purpose.
+           These should be placed so that they are visible without
+           causing any obstruction. The certifying authority should
+           require the removal of any misleading signs.
+
+    Gangways and passageways
+
+    7.7    In addition to the general duty set out in paragraph 7.1
+           above, a requirement should be laid upon the certificate
+           holder in the schedule to ensure that all exit routes,
+           gangways, stairways and access points for emergency
+
+
+                                   28
+      vehicles are kept free of obstructions, including stores,
+      litter, ice and snow, at all times when the ground is in
+      use by spectators. Furthermore, no temporary structures
+      should be permitted in such areas. (For further detailed
+      requirements as to litter see paragraph 11.10 below.)
+
+7.8   The certificate should require all gangways and stairways
+      to be kept clear of spectators.     Gangways on terraces
+      should be painted in a conspicuous colour; stepped
+      gangways in seating areas should have conspicuous
+      nosings.
+
+7.9   All steps and stairways should be required to be
+      maintained with even and non slip surfaces and should be
+      adequately drained.     Any stair coverings should be
+      secured and maintained so as not to cause any hazard to
+      people using the stairs.       Every enclosed or partly
+      enclosed staircase or corridor should be of fire
+      resistant construction.    (For further fire precautions
+      see paragraphs 11.4- 11.10 below.)
+
+
+
+
+                              29
+8.    PERIMETER AND RADIAL FENCES
+
+General principles
+
+8.1    The FLA regards perimeter and radial fencing to segregate
+        spectators as undesirable in principle.      It accepts,
+        however, that such fences may have to be maintained as a
+        necessary evil in some parts of some grounds, in
+        particular those with large standing areas and/or poor
+        stewarding, for the time being.       Fencing should be
+        installed or retained only where a positive need for it
+        can be shown.
+
+8.2    Final responsibility for determining whether fencing
+        should be required at a ground should rest with the
+        certifying authority, acting upon the advice of the
+        Safety Advisory Group (see paragraph 1.2 above). The
+        need for fencing (in particular in front of or around
+        seated areas and family enclosures) should be kept under
+        regular review.
+
+8.3    Where fencing is installed, it is preferable that it
+        should be of such a design that it can be removed
+        whenever it is not required. The maximum height of any
+        fence and the minimum width of any gate or opening should
+        be as specified in the Green Guide.             Under no
+        circumstances should any fence have an overhang or be
+        topped with spikes or barbed wire.
+
+Safety precautions
+
+8.4    The core section of the safety certificate covering a
+        ground where there is perimeter and/or radial fencing
+        should lay upon the certificate holder a general duty to
+        maintain it and supervise its use in such a way that
+        spectators are not put at risk. Certifying authorities
+        could combine this general requirement with those on
+
+
+                               30
+      entry and exit routes (see paragraph 7.1 above), on
+      structural safety (see paragraph 9.1 below) and on
+      electrical and mechanical safety (see paragraph 10.1
+      below) into two general requirements.        First, the
+      certificate holder should ensure that all the buildings,
+      structures and installations referred to in the
+      certificate are maintained in such condition that they
+      fulfil safely their required functions.    Secondly, the
+      certificate holder should control their use in such a
+      manner that spectators are not put at risk. Each set of
+      detailed requirements should be set out in the
+      appropriate schedule.
+
+8.5   As with entrances and exits (see paragraphs 4.8 and 7.2
+      above), the location of all perimeter and radial fences
+      and of every gate in each fence should be shown on the
+      attached plan.
+
+8.6   As indicated in paragraph 6.7 above, the certificate
+       holder should be required to discuss with the police the
+       arrangements for the control of perimeter and radial
+       fences while spectators are in the ground because of the
+       public order implications.     The conclusions of these
+       discussions should be set down in the statement of intent
+       to be kept with the safety certificate (see paragraph 6.3
+       above). These conclusions should not override the safety
+       requirements which remain the responsibility of the
+       safety certificate holder (see paragraph 3.1 above) and
+       not of the police.
+
+8.7   The safety certificate should require every gate in a
+      perimeter or radial fence to be painted in a distinctive
+       colour and to be identified as an emergency exit. Under
+       no circumstances should exit through these gates be
+       impeded by advertising boards or other obstruction. Each
+       gate should be marked with its number, to a specified
+       size and design, which should correspond with the number
+
+
+                              31
+      marked on the plan. This number should be visible from
+      both sides of the gate whether it be open or closed.
+
+8.8   All pitch perimeter gates should be required to be kept
+      unlocked whenever the area of the ground behind them is
+      occupied by spectators.      Unless the police direct
+      otherwise on public order grounds, they should be left
+      open. The same requirement should apply to gates in all
+      radial fences.   As indicated in paragraph 5.7 above,
+      every gate in a perimeter or radial fence must be
+      permanently staffed by a steward while spectators are in
+      the ground.
+
+8.9   The safety certificate should specify what cutting
+      equipment should be provided by the certificate holder to
+      permit the immediate removal of perimeter fencing in
+      order to release any trapped spectators. The location of
+      this equipment, the identity and location of the staff
+      trained to use it and the procedures for directing them
+      to the right place when needed should be required to be
+      included in the certificate holder's contingency plans
+      (see paragraph 3.3 above).
+
+
+
+
+                              32
+«
+    9.    STRUCTURAL SAFETY
+
+    Maintenance and repairs
+
+    9.1    The certificate holder should be placed under a general
+            duty (set out in the core section of the safety
+            certificate) to ensure that all the buildings and
+            structures in the ground are maintained in such condition
+            that they safely fulfil their required function.       As
+            indicated in paragraph 8.4 above, this core requirement
+            could be combined with those on entry and exit routes,
+            perimeter and lateral fencing and electrical and
+            mechanical safety (see paragraphs 7.1.__8 ^.4 and 10.1
+            respectively).
+
+    9.2    The related schedule on structural safety should list the
+            various buildings and structures covered by the safety
+            certificate for example stands, terraces, structural
+            staircases and walkways, floodlight towers, external
+            walls and gates, internal walls, perimeter or radial
+            fences, crush barriers and hand rails on staircases. The
+            certificate holder should be required to ensure that
+            these are provided and maintained in accordance with
+            current British Standards and/or codes of practice and in
+            accordance with any test certificate or other proof of
+            adequacy supplied to the certifying authority prior to
+            the issue of the safety certificate.
+
+    9.3    These provisions should be supplemented by the testing
+            and certification requirements set out in Sections 14 and
+            15 of these guidelines. The certificate holder should be
+            required to ensure that all glass in doors, windows,
+            partitions and fittings in areas accessible to spectators
+            should be maintained in a sound and proper condition.
+            Other requirements in like vein may be inserted by
+            certifying authorities as required.
+
+
+
+                                    33
+9.4   The certificate should require the holder to take all
+      reasonable precautions to prevent litter,         debris,
+      building    materials   and   potential missiles     from
+      accumulating in the ground. Any such materials should be
+      required   to be removed as soon as possible.         (For
+      detailed requirements in respect of gangways and
+      passageways, machine and plant rooms, and store rooms see
+      paragraphs 7.7. 10.6 and 11.10 respectively.)
+
+9.5   The buildings and structures listed in the safety
+      certificate should be shown in the attached plan or plans
+      (see paragraphs 4.8 and 7.2 above). (For requirements to
+      show fire detection and fire fighting equipment see
+      paragraph 11.13 below.)    Such plan or plans should be
+      architects' drawings of sufficient scale for all the
+      features   listed to be identifiable. They should be
+      accompanied by a brief general description of the
+      structures of the football ground. This should include,
+      where appropriate, the categories of spectator for which
+      particular areas are set aside (see paragraph 4.3 above).
+
+9.6   Paragraph 2.1.d above indicated that the covering note to
+      the safety certificate should lay upon the holder a
+      general duty to notify any changes of circumstance to the
+      certifying authority in writing within a specified
+      period.   This should be supplemented by a requirement
+      that no alteration or addition should be made to the
+      structure or fittings of the football ground, whether
+      temporarily or permanently, without the prior consent in
+      writing of the certifying       authority. Since    this
+      provision should apply       to heating,  lighting   and
+      ventilation as well      as to buildings and other
+      installations, it should be cross-referenced in the
+      schedule on electrical      and mechanical safety   (see
+      paragraph   10.3 below).      Notice of any proposed
+      alterations, accompanied     by full details and, where
+      appropriate, plans or drawings, should be given to the
+
+
+                              34
+      certifying authority in writing.       As indicated in
+      paragraph 1.8 above, the certifying authority should
+      respond in a reasonable time. Certifying authorities may
+      wish to make it clear that these requirements are
+      additional to, and not a substitute for, requirements
+      under building or planning legislation.
+
+9.7   The schedule to the safety certificate should lay a duty
+      upon the certificate holder to carry out to the required
+      standard any repairs or maintenance deemed necessary by
+      the certifying authority to ensure the safety of
+      spectators. This should apply both to requirements set
+      out in a separate schedule to the replacement safety
+      certificate (see paragraph 2.6 above) and to any
+      necessary and proper requirements notified to the holder
+      in writing by the certifying authority at any other time.
+      The holder should be required to comply with any written
+      requirement from the certifying authority as to time
+      scale or any written instruction to close the appropriate
+      area of the ground pending completion of the work
+      specified.     In attaching any such requirements,
+      certifying authorities, save in cases of imminent danger,
+      should consult the Safety Advisory Group, give as much
+      notice as possible and prescribe reasonable time scales
+      and restrictions.
+
+Standing and seating
+
+9.8   As indicated in paragraph 4.2 above, the certifying
+      authority should take structural or design defects into
+      account in determining the capacity of any standing area.
+      If it considers spectator safety to be at risk it may
+      require particular areas to be closed unless or until the
+      necessary remedial work has been undertaken.           In
+      determining the adequacy of a design, the certifying
+      authority should be guided by the Green Guide and other
+      published standards, including those produced by the
+
+
+                              35
+       Football Stadia Advisory Design Council, but should apply
+       these with discretion.   Thus small departures from the
+       dimensions recommended in the Green Guide (for example in
+       the height of crush barriers) can be tolerated in
+       existing structures if they do not imperil spectator
+       safety. Each departure from the standards laid down in
+       the Green Guide should be capable of being justified on
+       its individual merit with the reasons being recorded in
+       writing.
+
+9.9    The same general principles should apply to seating as to
+       standing areas.     Thus the safety certificate should
+       charge the holder with ensuring that all seating is
+       securely fixed, that seats are suitably numbered and that
+       damaged seats are promptly repaired or replaced. While
+       the design and layout of the seating is primarily for the
+       certificate holder, the certifying authority may require
+       such remedial work as it considers necessary to ensure
+       spectator safety. It may direct the certificate holder
+       to take out of use any seat or area of seating which, in
+       its opinion, constitutes a hazard, unless or until the
+       necessary improvements are effected.
+
+Temporary structures
+
+9.10   No distinction should be drawn on safety grounds between
+       permanent and temporary structures or fittings.       The
+       requirement laid upon the certificate holder to seek the
+       consent of the certifying authority for any proposed
+       alteration or addition to the structures or fittings of
+       the ground (see paragraph 9.6 above) should be echoed by
+       a similar requirement in respect of the erection or
+       installation of any temporary structures or fittings.
+       These could range from temporary stands to portacabins,
+       sales kiosks or stalls,       marquees or substantial
+       decorative arrangements. The requirements should cover
+       advertising boards which should not impede exit on to the
+
+
+                               36
+       pitch in an emergency (see paragraph 8.7 above); nor
+       should they restrict spectators' view.
+
+9.11   The safety certificate should require that all temporary
+       structures should be designed and constructed in
+       accordance with current British Standards and Codes of
+       Practice.     They should not present a danger to
+       spectators, should not obstruct any entry or exit route
+       and should, as far as practicable, be protected against
+       misuse by spectators.    An authorised competent person
+       should be responsible for their erection, safe use and
+       eventual removal. Certifying authorities may prescribe
+       additional fire precautions in respect of such structures
+       (see paragraph 11.5 below).
+
+
+
+
+                               37
+10.    ELECTRICAL AND MECHANICAL SAFETY
+
+General safety requirements
+
+10.1     The core section of the safety certificate should place
+         the certificate holder under a duty to maintain and
+         operate all electrical and mechanical installations to
+         such standards and in such a manner that they safely
+         fulfil their required functions.       As indicated in
+         paragraph 8.4 above, this core requirement could be
+         combined with those on entry and exit routes, perimeter
+         and   radial   fencing  and   structural   safety   (see
+         paragraphs 7.1. 8.4 and 9.1 above respectively).
+
+
+10.2     The schedule on electrical and mechanical safety should
+         elaborate this general duty by requiring that (as
+         specified   in   the   Green   Guide)    all   electrical
+         installations, including temporary installations, should
+         be maintained     in accordance with      all   statutory
+         Regulations and with the Regulations for Electrical
+         Installations published by the Institution of Electrical
+         Engineers.     In like manner, all lifts, boilers,
+         generators and other plant should be maintained in
+         accordance with the appropriate published standards
+         and/or manufacturers' instructions. These requirements
+         should be further supplemented by the detailed provisions
+         set out below.
+
+10.3     As indicated in paragraph 9.6 above, no alteration should
+         be made, whether temporarily or 'permanently, to the
+         heating, lighting or ventilation of any part of the
+         ground to which spectators have access without the prior
+         consent of the certifying authority.    The location and
+         protection of cabling for temporary installations
+         (including television cameras) should require the prior
+         agreement of the certifying authority.      The erection,
+         use, disconnection and dismantling of all temporary
+
+
+                                 38
+       installations must be supervised by a competent person
+       approved by the certifying authority.
+
+10.4   The certificate holder should be required to ensure that,
+       so far as is practicable, all electric cables and
+       conductors should be inaccessible to spectators and
+       enclosed in a suitable protective covering.      Wherever
+       possible, all controls, including light switches, should
+       be in areas to which spectators do not have access.
+
+10.5   The safety certificate should require the certificate
+        holder to take the necessary precautions against a
+       mechanical or electrical failure when spectators are in
+        the ground. The requirements should be tailored to local
+        circumstances; for example, a qualified electrician may
+        be required to be present whenever floodlights are in use
+        or whenever exit routes are illuminated by artificial
+        lighting (see paragraph' 10.7 below). The certificate
+        should require that this electrician should have ready
+        access to the necessary circuit diagrams, which should be
+        required to be kept or displayed in a prescribed suitable
+        location.    The identity of the staff concerned and a
+        description of their functions should be required to be
+        included in the certificate holder's contingency plans
+         (see paragraph 3.3 above).
+
+10.6   The certificate holder should be required to ensure that
+       there is unimpeded access to all boiler, generator, plant
+       and lift motor rooms and all other areas with electrical
+       or mechanical installations, both for routine maintenance
+       and in emergencies.   All such rooms or areas, together
+       with all electrical intakes, should be required to be
+       kept free of stores, goods, litter or other obstructions.
+       (For restrictions on the storage of combustible,
+       flammable or corrosive materials see paragraphs 11.8-
+       11.10 below.)
+
+
+
+                               39
+#
+    Lighting and ventilation
+
+    10.7   The certificate holder should be required to ensure that
+            artificial lighting of a sufficient standard is provided
+            in every stairway, gangway, passageway and corridor or
+            any area to which spectators or staff have access to
+            enable them to leave the football ground safely. This
+            should be switched on in any place and at any time where
+            the level of day light is inadequate save when the ground
+            or the area concerned is empty.
+
+    10.8   There should be a requirement to provide and maintain, to
+            the appropriate British Standard, emergency lighting for
+            use in the event of a failure of either the normal
+            artificial lighting or the main electricity supply
+            (including the floodlights illuminating the playing
+            area). The specifications for this emergency lighting
+            and its power source should be laid down in an appendix
+            in as much detail as reasonably practicable.        (This
+            emergency power source should also be sufficient to power
+            the public address system (see paragraph 3.7 above), the
+            CCTV (see paragraph 6.12 above), the fire alarms, the
+            turnstile monitors, and the facilities in the control
+            room and the first aid room.
+
+    10.9   In addition, the certificate holder should be required to
+           ensure that any mechanical ventilation should be kept
+           running whenever the area concerned is occupied by
+           spectators or (during a match) by staff.
+
+    10.10 Any gas fittings should be required to be provided and
+           maintained in accordance with current legislation and
+           industry requirements.
+
+
+
+
+                                    40
+*
+
+
+
+
+    11.    FIRE SAFETY
+
+    Responsibilities of certificate holder
+
+    11.1     The core section of the safety certificate must lay upon
+             the certificate holder an explicit duty to take all
+             practicable precautions to prevent the outbreak and
+             spread of fire while spectators are in the football
+             ground. Alongside this should be a duty to take whatever
+             measures are practicable to ensure the safety of
+             spectators should a fire break out.         Requirements
+             amplifying these general duties should be laid down by
+             the certifying authority, acting on the advice of the
+             Safety Advisory Group, in particular the Chief Fire
+             Officer, in one or more schedules to the safety
+             certificate. Since any fire certificate issued by a Fire
+             Authority held by a club does not apply to parts of the
+             ground when they are being occupied by spectators, the
+             certifying authority may need to repeat some of the fire
+             certificate requirements in the safety certificate.
+
+    11.2     While the general scope of these detailed requirements
+             should be common to all safety certificates, there may
+             need to be considerable variation in points of detail.
+             Specific requirements should be tied to the needs, in
+             particular the physical structure, of the individual
+             football ground. However, such requirements should not
+             be regarded as the limit of the obligation placed upon
+             the certificate holder.    It is impossible to prescribe
+             requirements for every possible eventuality without
+             excessive rigidity. Accordingly, the certificate should
+             make it explicit that the general duty on the certificate
+             holder includes and is not limited by the specific.
+
+    11.3     At grounds with a higher than average fire risk, for
+             example those with wooden stands, the safety certificate
+
+
+
+                                     41
+       may require the holder to deploy additional stewards with
+       fire safety responsibilities (see paragraph 5.10 above).
+
+Structures and fittings
+
+11.4   The safety certificate or the attached plan(s) (see
+       paragraph 9.5 above) should indicate clearly what fire
+       resistance requirements are laid down by the certifying
+       authority.  For example, as indicated in paragraph 7.9
+       above, every enclosed or partly enclosed staircase or
+       corridor that may have to be used by staff or spectators
+       in an emergency should be required to be of fire
+       resistant construction.    Allwall, floor and ceiling
+       materials in such areas should be of a type approved by
+       the certifying authority and should not be changed
+       without its prior consent in writing.       Similarly no
+       curtains, hangings, carpets, upholstery, decorations or
+       artificial foliage should be installed in areas to which
+       spectators have access     during a match unless the
+       materials concerned are of a type approved by the
+       certifying authority.
+
+11.5   The certifying authority may prescribe in the safety
+        certificate such requirements as it considers necessary
+        to increase the fire resistance of existing structures,
+        including wooden stands.        Where appropriate, the
+        certifying authority may require the installation of fire
+        doors which must be self closing at all times. Such fire
+        doors should be shown on the plan attached to the safety
+        certificate.   As indicated in paragraph 9.10 above, no
+        distinction should be drawn between permanent and
+        temporary structures.
+
+11.6   In areas that are particularly vulnerable to fire, in
+        particular wooden stands,      enclosed staircases or
+        corridors and temporary structures such as marquees, the
+        certifying authority may require smoking to be prohibited
+
+
+                               42
+       on safety grounds. In such cases the safety certificate
+       should require the display of prominent "no smoking"
+       signs to an approved design, possibly supplemented by
+       public address announcements.      Stewards should be
+       required to refuse to admit or to eject spectators who
+       are smoking.
+
+11.7   In appropriate cases, the certifying authority may lay
+       down requirements in respect of the design, materials and
+       maintenance of kitchens or food preparation areas. These
+       could include requirements to ensure that extract duct
+       work, cookers and heated cabinets shall be kept clean and
+       that all electrical items shall be maintained in a safe
+       condition.   (For requirements as to hazardous products
+       and fire extinguishers see below.)
+
+Hazardous products
+
+11.8   The safety certificate must provide that no explosive,
+       highly flammable or highly combustible materials may be
+       stored at the ground without the written consent of the
+       certifying authority and in accordance with statutory
+       requirements.      This restriction should apply in
+       particular to cylinders for the storage of compressed
+       air, oxygen, hydrogen or other gases or liquids under
+       pressure and to any petroleum products.     All hazardous
+       materials,   including fertilizers, weed killers and
+       paints, should be stored in a suitable fire resistant
+       room or storage area approved by the certifying
+       authority.   The location of all such stores should be
+       shown on the plan attached to the safety certificate (see
+       paragraph 9.5 above).
+
+11.9   The safety certificate may lay down detailed requirements
+       governing the use of liquified petroleum gas (LP6) and
+       carbon dioxide (C02) in accordance with statutory
+       requirements and local need.        These could include
+
+
+                               43
+        requirements limiting the number of spare cylinders that
+        may be held locally and specifying how these shall be
+        protected. Requirements for any tubing or hosing to be
+        suitably armoured may be imposed.
+
+11.10   The safety certificate should require that all store
+        rooms should be maintained in a clean and tidy condition
+        and free of litter and unauthorised combustible material.
+        Doors to all such store rooms should be kept locked shut
+        while spectators are in the ground.         (For similar
+        requirements in respect of gangways and passageways and
+        of machine and plant rooms see paragraphs 7.7 and 10.6
+        above respectively.)     A specific provision should be
+        inserted where the ground has a wooden stand with a void
+        underneath; this should be required to be kept free of
+        litter and debris. Collected litter and waste material
+        should be stored, pending disposal, in a location
+        approved by the certifying authority. Where appropriate,
+        the safety certificate should require litter to be
+        removed as soon as possible during an event.
+
+Alarms and equipment
+
+11.11   The safety certificate should set out, in precise detail,
+        the specifications and location of all manually operated
+        fire alarm points or automatic fire detectors and any
+        emergency telephones.   The required level of provision
+        should be determined by the certifying authority in
+        consultation with the Fire Authority and in the light of
+        any statutory requirements.    Where it is necessary to
+        have a zoned automatic fire detection system, each zone
+        should be small enough to be searched in a very short
+        time.  As indicated in paragraph 3.6 above, the safety
+        certificate should specify the location of control panels
+        for all alarms and detectors.
+
+
+
+
+                               44
+11.12   The safety certificate should prescribe the type and
+        location of all first aid fire fighting equipment and
+        fixed fire fighting installations. All extinguishers and
+        hose reels must comply with and be maintained in
+        accordance with current British Standards. Extinguishers
+        should be required to be sited in conspicuous positions
+        at an appropriate height.       They must not cause an
+        obstruction. Instructions for using fire extinguishers
+        and hose reels should be displayed on or adjacent to the
+        equipment in a form prescribed in the safety certificate.
+
+11.13   The location of all fire fighting equipment, together
+        with that of fire alarms, smoke detectors and emergency
+        telephones, should be recorded on one or more detailed
+        plans   attached  to   the   safety   certificate   (see
+        paragraph 9.5 above).   These plans should incorporate
+        standard symbols for features extinguishers and other
+        devices. A key to the symbols used should be attached to
+        the plans.
+
+Procedures
+
+11.14   As indicated in paragraphs 3.3 a M — 5^11 above,
+        responsibility for procedures and for the training of
+        stewards and staff to observe them rests with the holder
+        of the safety certificate. Procedures for sounding the
+        alarm and for tackling fires must be set down in writing
+        in the contingency plans (see p a r a g r a p h a b o v e ) after
+        having been approved by the certifying authority.
+
+11.15   These procedures, which stewards and staff should be
+        trained to observe, should include:
+
+             a.   the action to be taken on discovering a fire;
+
+             b.   the method of calling the fire brigade;
+
+
+
+                                   45
+4
+
+
+
+
+              c.    the method of operating fire alarms and the
+                    procedures to be followed;
+
+              d.    operation of the internal emergency telephones;
+
+              e.    the correct use of fire fighting equipment;
+
+               f.   the marshalling of spectators and evacuation of
+                    the ground; and
+
+              g.    the maintenance      of   escape   routes   free   of
+                    obstruction.
+
+    11.16   Where the ground has an automatic fire detector system
+            and it has been agreed by the certifying authority that,
+            in the event of an alarm being sounded, a check of the
+            area will be made before deciding whether it should be
+            evacuated, the procedures and time scales permitted for
+            any search should be defined in the certificate and a
+            record of all alarms required to be kept.
+
+    11.17   The safety certificate should require all stewards and
+            staff to be familiar with the positions of emergency
+            telephones, fire alarm call points, fire fighting
+            equipment, assembly points, escape routes and fire doors.
+            Appropriate extracts from emergency instructions should
+            be required to be carried by all stewards; copies should
+            be required to be displayed in locations, not normally
+            visible by spectators, determined by the certifying
+            authority.
+
+
+
+
+                                    46
+12.    FIRST AID AND MEDICAL MATTERS
+
+Introduction
+
+12.1    The core section of the safety certificate should lay
+        upon the certificate holder a general duty to provide
+        first aid and medical staff, equipment, facilities and
+        accommodation as specified in the related schedule.
+        While the topics covered by this schedule should be
+        common to all safety certificates, the precise level of
+        provision will be determined by the capacity and likely
+        crowd size at the ground concerned.
+
+12.2     In laying down its detailed requirements, the certifying
+         authority should consult the Ambulance Service in the
+         context of the Safety Advisory Group (see paragraph 1.2
+         above).
+
+First aid facilities
+
+12.3     The safety certificate should require the certificate
+         holder to provide a first aid room of a suitable size (to
+         be determined by the certifying authority). This should
+         be readily accessible to staff and spectators (including
+         stretcher-borne casualties) from all parts of the ground
+         as well as to ambulances. Its location should be clearly
+         signposted as specified by the certifying authority.
+
+12.4     At larger football grounds, depending on the size and
+         location of the first aid room, one or more further or
+         auxiliary first aid rooms or posts might appropriately be
+         required.   In   addition,   the   certificate   holder's
+         contingency plans (see paragraph 3^3 above) should
+         identify one or more areas which can promptly be made
+         available for the treatment of casualties in the event of
+         a large scale incident, together with procedures for
+         bringing this area into use.
+
+
+                                47
+12.5   All first aid rooms should be required to be adequately
+       furnished, lit, ventilated, heated and disinfected in
+       accordance with requirements laid down by the certifying
+       authority. All surfaces should be capable of being kept
+       clean and the certificate holder should be required to
+       ensure that appropriate standards of hygiene are
+       maintained. Suitable facilities for washing and for the
+       disposal of waste should be required.     All first aid
+       facilities should be designated as no smoking areas.
+       They should be equipped with a first aid pack, the
+       contents of which should be laid down as an appendix to
+       the schedule by the certifying authority. Similarly the
+       safety certificate should prescribe what equipment and
+       drugs should be held by, or on behalf of, the crowd
+       doctor (see paragraph 12.8 below).
+
+12.6   First aid rooms should have direct communications with
+       the club safety officer and the control room (see
+       paragraph 3.6 above).    Procedures for contacting the
+       emergency services and details of local hospitals with
+       accident and emergency departments should be included in
+       the certificate holder's contingency plans and displayed
+       in the first aid room (see paragraph 3.3 above).
+
+
+Personnel
+
+12.7   The safety certificate should require the certificate
+       holder to provide a specified number of suitably trained
+       first aid personnel for each event covered by the safety
+       certificate.   This number should be determined by the
+       certifying authority according to local need but should
+       be minimum of one per 1,000 anticipated spectators or
+       three, whichever is the greater.     These first aiders
+       should have no other function to perform. Their number
+       should not include stewards trained in basic first aid
+       (see paragraph 5.11 above).     For the purpose of the
+       safety certificate, suitably trained should be defined as
+
+
+                              48
+        holding the   St John Ambulance   or British Red   Cross
+        Society Standard Certificate in First Aid.
+
+12.8    The safety certificate should require the certificate
+        holder to arrange the presence from one hour before the
+        match until half an hour after it of a doctor trained in
+        accident and emergency care (the "crowd doctor") to
+        provide medical care to spectators. The location of "the
+        crowd doctor should be known at all times to the senior
+        first aid and ambulance staff, the club safety officer
+        and the senior police officer present, in order that they
+        may contact him or her at any time.     The crowd doctor
+        should be provided with an identifying surcoat or tabard.
+
+12.9    When the number of spectators expected to be present is
+        small (say under 2,000) the certificate holder may be
+        permitted to have a doctor trained in accident and
+ XT     emergency care on call. This doctor must be capable of
+        being on t k e scene within a maximum of ten minutes. This
+        doctor, at the discretion of the certifying authority,
+        may be the football club's team doctor, provided that he
+        or she is suitably qualified.        The arrangements for
+        calling in the crowd doctor should be set out in the
+        certificate holder's contingency plans (see paragraph 3.3,
+        above); copies of the appropriate extract should be
+        provided to senior first aid and ambulance staff and be
+        kept to hand in the control room (see paragraph U S
+        above).
+
+12.10   The safety certificate should prescribe the number of
+        ambulances which should be present at the football
+        ground, depending upon the size of the anticipated crowd.
+        Ambulances may be provided either by the statutory
+        ambulance service or, with the approval of the Ambulance
+        Authority,   by   a   voluntary    body   or   commercial
+         organisation.
+
+
+
+                                49
+12.11   The detailed requirements of the safety certificate
+        should encompass not merely the number of ambulances but
+        where they should be stationed, where the ambulance staff
+        should be deployed (ie with their vehicles) and the means
+        of communicating between the ambulances and the club
+        safety officer, control room, crowd doctor and first aid
+        room.
+
+
+
+
+                               50
+*
+
+
+
+
+    13.    AMENITIES FOR SPECTATORS
+
+    General principles
+
+    13.1     Issues relating to the provision of amenities for
+             spectators have not been seen as having a safety
+             dimension and have not tended to feature in safety
+             certificates. This Section distinguishes between amenity
+             issues which are safety related and which may properly be
+             covered in safety certificates and those which fall to
+             the FLA to tackle in its licences under the provisions of
+             the Football Spectators Act 1989.
+
+    13.2     As indicated in paragraph 1*2 above,           certifying
+             authorities may restrict standing capacity on safety
+             grounds but should not do so solely m           order to
+             accelerate the introduction of seating in the area
+             concerned. Somewhat similar considerations apply to the
+             provision of facilities for disabled spectators.      The
+             safety certificate should not be used to require the
+             provision of such facilities except on safety grounds
+              (though they may be required under other provisions).
+             However,   when such facilities are provided,         the
+             certifying authority should use the safety certificate to
+             require them to be so designed and maintained that they
+             are suitable and safe for their designated purpose. This
+             requirement   should   extend   beyond   the   facilities
+             themselves to encompass suitably located toilets for the
+             disabled, entrance and exit routes and arrangements for
+             the safe evacuation of the disabled.     These should be
+             covered in the certificate holder's contingency plans
+              (see paragraph 3.3 above).
+
+    13.3     Issues relating to the provision of facilities for
+             visiting supporters should be dealt with in like manner.
+             While it is wrong for there to be discrimination against
+             visiting supporters, this is a matter for the FLA and not
+
+
+                                      51
+*
+
+
+
+
+           the safety certificate, except in so far as safety issues
+           may arise.
+
+    Lavatories
+
+    13.4   The FLA is satisfied that issues relating to the number
+           and condition of lavatories at football grounds have a
+           sufficient safety dimension to warrant inclusion in
+           safety certificates.    A lack of adequate facilities
+           encourages spectators to urinate in inappropriate places
+           which can be both a safety and a public health hazard.
+           Furthermore, inadequate or insufficient facilities,
+           particularly if badly sited, can lead to congestion or
+           blocking of exits, gangways or passageways.
+
+    13.5   Certifying authorities should lay down two sets of
+           requirements in safety certificates, either in a separate
+           schedule or in that on structural safety (see Section 9
+           above). First, the certificate holder should be required
+           to maintain all lavatories and urinals, together with the
+           associated washing facilities which should be provided,
+           in a clean and hygienic condition (in accordance with
+           general public health requirements). All such facilities
+           should be required to be adequately drained, lit and
+           ventilated.
+
+    13.6   Secondly, certificate holders should be required to
+           provide inside the ground a sufficient number of
+           lavatories and/or urinals in locations readily accessible
+           to spectators. Given that use of the lavatories will be
+           concentrated during certain limited periods, the number
+           required should be determined on the same basis as for
+           theatres or other such places of entertainment.         A
+           sufficient number of lavatories should be included for
+           female spectators. Each distinct section of the ground,
+            including any area set aside for visiting supporters,
+           should have unimpeded access to sufficient male and
+
+
+                                   52
+    «
+
+
+I
+
+
+
+
+               female lavatories. These should be sited so that any
+               queues will not block entrances, exits, gangways or
+               passageways.
+
+        Catering
+
+        13.7   On catering, the issues that fall within the scope of the
+               safety certificate arise mainly in relation to the
+               surroundings rather than to the product.         Thus, as
+                indicated in paragraphs 6.8. 7.7. 9 .10 and 11.7 above
+               respectively,    certifying   authorities    may    impose
+               requirements on drinks containers, on keeping gangways
+                clear and litter free, on the safety of structures and
+                fittings, and on fire safety.    There is also a safety
+                dimension of a kind to food preparation and service but
+                this is probably more appropriately tackled under normal
+                environmental   health   legislation   and   procedures.
+                Similarly, any bars serving alcohol would be covered by
+                the general licensing law.
+
+        13.8   Decisions as to the quantity, range       and quality of
+                refreshments to be provided are essentially a matter for
+                the football clubs concerned.    While   these may have
+                significant impact on spectators' enjoyment, and hence
+                their mood, the link with safety is too tenuous for them
+                to fall within the purview of the safety certificate.
+                The same is true of the commercial arrangements for
+                providing refreshments (whether by the football club
+                itself, by contract or by franchise).
+
+
+
+
+                                       53
+14.     INSPECTIONS AND TESTS
+
+The need for inspections and tests
+
+14. l     Inspections and tests, along with the keeping of records
+          (see section 15 below), are an essential part of the
+          safety certification process.     They ensure that the
+          safety requirements of the certifying authority (as set
+          out in Sections 3-13 above) are not merely stated but are
+          complied with continuously. The FLA considers that these
+          mechanisms are so important that they should be
+          prescribed in detail in separate sections of the safety
+          certificate so that there is no danger of their being
+          lost to sight among other details.
+
+14.2      The core section of the safety certificate should lay
+          upon the certificate holder a duty to carry out and
+          record the results of the inspections and tests
+          prescribed in the related schedule.    All the required
+          inspections and tests, even if referred to elsewhere in
+          the safety certificate, should be set out in this
+          schedule. If necessary, they should be cross referenced
+          to other parts of the safety certificate.
+
+14.3      The core section should require inspections and tests to
+          be carried out at least as frequently as specified by the
+          certifying authority in the schedule.     All such tests
+          should be carried out by a suitably qualified or
+          competent person.
+
+14.4      The inspections and tests required will vary to some
+          extent between football grounds, depending upon their
+          design and structure.     The lists in the following
+          paragraphs should not be regarded as either exact or
+          comprehensive. Broadly speaking, every matter covered by
+          the safety certificate should be subject to inspection
+           and testing.  Where British Standards, manufacturers'
+
+
+                                  54
+w
+
+           instructions or comparable trade standards for testing
+           exist, these should be followed.
+
+    Match-related checks
+
+    14.5   The following should be required to be inspected or
+           tested (and any necessary remedial action taken) before
+           every event to which spectators are admitted:
+
+              a.   the general fabric of the ground, in particular
+                   terraces, seats and crush barriers, for signs of
+                   damage,    corrosion    or   deformation    (see
+                   paragraphs 7.9. 9.2 and 9.8-9.9);
+
+              b.   all gangways, passageways and exit routes, for
+                   obstructions, damaged or malfunctioning fire
+                   doors, hazards under foot, missing or damaged
+                   signs or other impediments to their safe use (see
+                   paragraphs 7.7-7.8 and 11.5);
+
+              c.   all exit doors and gates (including those in
+                   perimeter or radial fences) whether manually or
+                   electronically operated and the equipment for
+                   cutting the perimeter fence in an emergency (see
+                   paragraphs 7.1. 7.3. 8.4 and 8.9);
+
+              d.   all turnstiles and entry monitoring devices (see
+                   paragraphs 4 . 6 a n d 7.1);
+
+              e.   all areas to which spectators have access, for
+                   litter, debris, building materials or potential
+                   missiles (see paragraph 9.4);
+
+              f.   all voids beneath wooden stands, all kitchens and
+                   food preparation areas and all other areas
+                   particularly vulnerable to fire, for combustible
+                   materials or other hazards (see paragraph 11.10);
+
+
+                                     55
+         g.    all machine and plant rooms and all store rooms,
+               for litter, waste or unauthorised hazardous
+               products (see paragraphs 10.6 and 11.8-11.10);
+
+         h.    each generator, all artificial lighting expected
+               to be used during the event, all emergency
+               lighting and any mechanical ventilation (see
+               paragraphs 10.7-10.9);
+
+          j.   all communication systems, including emergency
+               telephones, public address systems, portable
+               radios and loud hailers and all CCTV equipment
+                (see paragraphs 3.6-3.8 and 6.12);
+
+         k.    the   operation     of   all   fire   alarms   (see
+               paragraph 11.11);
+
+          1.   that the required fire fighting equipment is in
+                position   and   available    for   use    (see
+               paragraph 11.12);
+
+          m.   first aid rooms and the equipment and supplies
+                held there (see paragraphs 12.5-12.6); and
+
+          n.   all toilets and urinals for damage, blockages and
+                lack of paper etc (see paragraph 13.5).
+
+14.6   In addition the certificate holder should be required to
+       check that stewards are briefed, equipped, dressed and
+       deployed as specified in the safety certificate and that
+       the necessary first aiders and crowd doctor are present
+       and in post (see paragraphs 5.3. 5.10,__ 5,*12 and
+       12.7-12.3).
+
+14.7   The various checks for damage, debris and litter (see
+       paragraphs 14.5a. b. e. f and n) should be required to be
+
+
+
+                                 56
+       repeated as soon as practicable after each occasion on
+       which spectators have been admitted to the ground.
+
+Professional inspections
+
+14.8   In addition to the inspections and tests set out above,
+       which should be carried out by the certificate holder's
+       staff, various other inspections need to be carried out,
+       albeit at less frequent intervals, by suitably qualified
+       professionals or technicians in accordance with British
+       Standards or equivalent trade standards.           These
+       inspections and tests should cover, among other things:
+
+          a.   all generators (to the frequency required in the
+               appropriate British Standard);
+
+          b.   all fire extinguishers and hose           reels    (in
+               accordance with British Standards);
+
+          c.   any passenger lifts or escalators (every three
+               months);
+
+          d.   all emergency    lighting generators and           any
+               lighting batteries (every six months);
+
+          e.   any electronic        locking   systems   (every   six
+               months);
+
+          f.   any perimeteror    radial  fences   and            all
+               balustrades and handrails (annually);
+
+          g.   the detailed condition of all standing surfaces,
+               seats, stairs, ramps, doors and gates (including
+               their posts)    and boundary or other walls
+               accessible to the public (annually);
+
+
+
+
+                                57
+           h.   all boilers, calorifiers and related plant or
+                 machinery (annually);
+
+           j.   all fire alarms and fire detection equipment
+                 (annually - not be confused with the test
+                 mentioned in paragraph 14.51 above);
+
+           k.   all public address and CCTV systems (annually);
+
+           1.   a 25% representative sample of crush barriers and
+                 other structural crowd control barriers in
+                 accordance with the procedures and requirements
+                 laid down in the Green Guide, which it may be
+                 appropriate to repeat in an appendix to the
+                 schedule (annually); and
+
+           m.   all electrical installations (every five years).
+
+14.9    In addition, the safety certificate should require the
+        carrying out of a structural appraisal of the fabric of
+        the ground every 12 months.
+
+14.10    The certifying authority may also, on the advice of the
+         Safety Advisory Group, require the certificate holder to
+        •test his or her contingency plans, including a partial or
+         total evacuation of the ground as appropriate (see
+         paragraph 5.11 above).
+
+
+
+
+                                58
+f
+
+
+
+
+    15.    RECORDS TO BE KEPT
+
+    The need for records
+
+    15.1     As stated in paragraph 14.1 above, the maintenance of
+             full records is an essential part of the safety
+             certification process. The quality of a club's records
+             is, along with that of its written statement of safety
+             policy (see paragraph 3.2 above), a strong indication of
+             the importance that safety is given within the club's
+             culture. The core section of the safety certificate must
+             require the certificate holder to maintain, and to make
+             available for inspection as required, the records
+             specified in the related schedule. As with inspections
+             and tests, it is important that all the requirements to
+             maintain records should be drawn together into a single
+             schedule for ease of reference.
+
+    15.2     These records fall into two groups:
+
+                a.   those maintained by the club on a continuing
+                     basis; and
+
+                b.   records or certificates      submitted to     the
+                     certifying authority at periodic intervals.
+
+    15.3     As with the lists in Section 14. the lists in the
+             following paragraphs of records to be kept should not be
+             regarded as exact or comprehensive.           Certifying
+             authorities will need to add to them or (more rarely)
+             make   deletions   from   them    according   to   local
+             circumstances.
+
+    Internal records
+
+    15.4     Full records should be required to be kept for six years
+             of   all   the   inspections   and   tests   listed   in
+
+
+                                     59
+9
+
+
+
+
+    paragraphs 14.5. 14.7 and 14.8a-c above (which are
+    accordingly not repeated here). In addition, the safety
+    certificate should require the certificate holder to
+    maintain records of the following:
+
+       a.   the number of spectators admitted to the football
+            ground and to each area of the ground on each
+            occasion (see paragraph 4.2);
+
+       b.   any accident or incident causing injury (other
+             than a play injury) while spectators are in the
+            ground;
+
+       c.   all first aid or medical treatment provided
+             during, or in connection with, any event to which
+             the public are admitted;
+
+       d.   the names, posts and duties of each steward on
+             duty on each occasion (see paragraph 5.2);
+
+       e.   the pre-match briefings and all training given to
+             stewards (see paragraphs 5.2 and 5.12);
+
+       f.   the numbers and posts of all first aiders present
+             on each occasion and the attendance of the crowd
+             doctor (see paragraphs 12.7-12.8);
+
+       g.   all emergency drills or evacuation exercises (see
+            paragraphs 5.11 and 14.10);
+
+       h.   any non-routine opening of any exit door or gate
+             (see paragraph 7.3);
+
+       j.   any assumption of overall control by the police
+             (see paragraph 6.4);
+
+
+
+
+                            60
+         k.    any defects relating to the safety of the
+               football ground, whether coming to light during
+               testing or inspection or at any other time,
+               together with the remedial action taken;
+
+          1.   all maintenance work and improvements carried out
+               at the football ground (except work relating
+               solely to the playing surface); and
+
+         m.    all alarms sounded by the automatic          fire
+               detection system (see paragraph 11.16).
+
+15.5   All these records should be required to be kept fully up
+       to date in a tamper-proof form. They should be kept in
+       specified places at the club's offices or ground,
+       normally all together, along with a copy of the safety
+       certificate and its related documentation. They should
+       be readily available for inspection by representatives of
+       the certifying authority or the FLA.
+
+submissions to the certifying authorifag
+
+15.6   The safety certificate holder should be required to
+       submit to the certifying authority such documentary
+       evidence as that authority deems necessary to demonstrate
+       that the ground is in a safe condition, that the required
+       major inspections have been carried out and that any
+       defects have been remedied.     The various reports and
+       certificates should be prepared or agreed by the
+       qualified professional or technician who has undertaken
+       the inspection concerned.    Unless otherwise specified,
+       these certificates should normally be required to be
+       submitted every 12 months.
+
+15.7   Subject to the caveats in paragraph 3-5,3 above, the
+       following returns to the certifying authority should be
+       required under the terms of the safety certificate:
+
+
+                               61
+a certificate showing the design, loading      and
+factors of safety in respect of all            the
+structures listed in the safety certificate   (see
+paragraph 9.2 above) to certify that they      are
+capable of fulfilling their function;
+
+a   certificate   stating   that   the   required
+structural appraisal of the fabric of the
+football ground (see paragraph 14.9 above) has
+been carried out); this should be accompanied by
+a report showing what maintenance and/or remedial
+work is required and/or planned; and
+
+certificates of inspection relating to the lifts;
+electronic locking systems; emergency lighting
+generators   and   escape   lighting   batteries;
+boilers,   calorifiers and related plant or
+machinery; fire extinguishers and hose reel
+equipment; public address and CCTV systems; fire
+alarms and fire detection equipment; crush
+barriers; and electrical installations (this last
+every five years).
+                                                     ANNEX A
+SUGGESTED STRUCTURE OP THE SAFETY CERTIFICATE
+
+This Annex summarises in tabular form the proposals set out in
+the preceding pages.   Certifying authorities should note that
+this is not intended as a rigid structure. The FLA is primarily
+concerned with the contents of the safety certificate.      The
+following paragraphs illustrate how these might be presented in
+a coherent form.
+
+I.    Cover sheet
+      See text at paragraph 2.1 above.
+
+
+
+II.   Core section (see paragraph 2.2)
+
+      The safety certificate holder should:
+
+        1. designate an individual in a position of authority who
+           shall be responsible for safety policy and its
+           implementation and for the appointment of a safety
+           officer (paragraph 3.1);
+
+        2. take such precautions as may be necessary for the
+           reasonable safety of spectators (paragraph 3,2);
+
+        3. ensure that the spectator capacities set out in the
+           schedule are not exceeded (paragraph 4.1);
+
+        4. ensure that the measures for controlling crowds set
+           out in the schedule are observed (paragraph 4.1);
+
+        5. provide stewards in the number, to the specifications
+           and for the purposes detailed in the schedule
+           (paragraph 5,1);
+6. comply with the requirements on policing set out in
+   the schedule fparagraph 6.1);
+
+7. ensure that all means of ingress and egress are
+   maintained  in good condition and unobstructed
+   t paragraph 7.1);
+
+8. maintain and supervise any perimeter and/or radial
+   fencing in such a way that spectators are not put at
+   risk (paragraph 8.4);
+
+9. maintain all buildings and structures in such
+   condition that they safely fulfil their required
+   function (paragraph 9.1);
+
+10. maintain and operate all electrical and mechanical
+    installations in such a manner that they safely fulfil
+    their required function (paragraph 1CU1);
+
+11. take all practicable precautions to prevent          the
+    outbreak and spread of fire t paragraph 11 ».l) }
+
+12. take what measures are practicable to ensure the
+    safety  of  spectators  should   fire break  out
+    (paragraph 11.1) ,*
+
+13. provide first aid and medical staff, equipment,
+    facilities and accommodation as specified in the
+    schedule (paragraph 12.1);
+
+14. carry out and record the results of the inspections
+    and tests prescribed in the schedule (paragraph 3-41.2) J
+    and
+
+15. maintain,   and    make available for inspection as
+    required,   the    records specified in the schedule
+    (paragraph 15.1).
+
+                           64
+III. schedules
+     The safety   certificate   should   include   the   following
+    schedules:
+
+      1. definitions (paragraph 2.3);
+
+      2. ancillary activities covered by the safety certificate
+         (paragraph 2.3);
+
+      3. work   required    by   the      certifying     authority
+         (paragraphs 2.6 and 9.7);
+
+      4. requirements on safety officers, statements of safety
+         policy, consultation, control and communications
+         (Section 3 and core reguirements 1 and 2);
+
+      5. numbers and disposition of spectators, entrances and
+         access    routes,   ticketing    (Section    4   and
+         core reguirements 3 and 4);
+
+      6. stewarding (Section 5 and core reguirement 5);
+
+      7. division of responsibility between club and police,
+         police requirements, police facilities (Section 6 and
+         core reguirement 6);
+
+      8. location, safety and control of exit routes and gates
+         (Section 7 and core reguirement 7);
+
+      9. location, safety and control of perimeter and radial
+         fences and gates in them (Section 8 and core
+         reguirement 8);
+
+
+
+
+                                65
+      10. permanent and temporary buildings and structures,
+          alterations and additions, repairs and maintenance,
+          seating, facilities for the disabled (Section 9 .
+          paragraph 13.2 and core reguirement 9);
+
+      11. electrical installations, cables and conductors,
+          emergency power supplies, lighting, ventilation, gas
+          fittings (Section 10 and core reguirement 10);
+
+       12. fire precautions, fire resistant structures and
+           materials, hazardous products, litter and stores
+           (paragraphs 11.1-11.10 and core reguirement 11);
+
+       13. fire    alarms     and    equipment,     procedures
+           (paragraphs 11.11-11.17 and core reguirement 12);
+
+       14. first   aid  facilities   and   personnel,   doctors,
+           ambulances (Section 12 and core reguirement 13);
+
+       15. number and maintenance of lavatories (paragraphs 13.4-
+           13.6 and core reguirement 9);
+
+       16. match-related   checks,   professional    inspections
+           (Section 14 and core reguirement 14); and
+
+       17. internal records, submissions to the certifying
+           authority (Section 15 and core reguirement 15).
+
+
+
+IV.   Appendices
+      The following documents should be appended to the safety
+      certificate:
+
+        1. specifications     of     public   address     system
+           (paragraph 3.7);
+
+        2. emergency announcements (paragraph 3.8);
+
+
+                                66
+ 3. plans or drawings of the ground (paragraphs 4.8. 7.2.
+    8.5. 9.5 and 11.131;
+
+ 4. requirements for CCTV (paragraph 6.12);
+
+ 5. description of structures (paragraph 9.5);
+
+ 6. emergency lighting specifications (paragraph 10.8):
+
+ 7. contents of first aid pack (paragraph 12.5): and
+
+ 8. procedures     for    testing      crush      barriers
+    (paragraph 14.8).
+
+
+
+noeuments to be attached
+The following documents, while not part of the safety
+certificate, should be held with it:
+
+ 1. certificate      holder's       contingency     plans
+    (paragraph 3.3);
+
+ 2. statement of intent (paragraph 6.3); and
+
+ 3. records of inspections and tests (paragraph 15.5).
+    * %
+
+4
+      /
+            VI.     Summary
+% '
+
+
+
+
+            Subject                           Core   Schedule   Appendix   Attachment
+
+           1.   Definitions                    —         1         —
+
+
+           2.   Ancillary activities           -         2         -            —
+
+
+           3.   Work to be done                -         3         -            —
+
+
+           4.   Overall responsibility        1/2        4        1/2           1
+           5.   Spectators’ numbers/ingress   3/4        5         3            —
+
+
+           6.   Stewarding                     5         6         —            —
+
+
+           7.   Policing                       6         7         4             2
+           8.   Exits                          7         8         3             —
+           9.   Fencing                        8         9         3             -
+          10.   Structure                      9        10        3/5            —
+
+
+          11    Electrical/mechanical         10        11         6             -
+          12.   Fire precautions              11        12         —             —
+          13.   Fire fighting                 12        13         3             —
+          14.   Medical                       13        14         7             —
+
+
+          15.   Lavatories                     9        15         -             -
+          16.   Inspections/tests             14        16         8             -
+
+
+          17.   Records                       15        17         -             3
+
+
+
+
+                                              68
+

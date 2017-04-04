@@ -1,0 +1,115 @@
+                                                                              <5
+                                                  2 8 S F ^ 1.983   ' 0ia3>
+
+Mr D J Mould
+G2 Division                                        cc Mr R Ginman
+                                                   Ch Supt J Gauke
+
+
+
+re:-     HILLSBOROUGH INQUIRY - Home Office evidence
+            (Directorate of Telecommunications)
+
+The Hillsborough incident whilst having many similarities with
+the Bradford (Popplewell inquiry)    from a communications view
+point there are differences which are important. At the time of
+the Bradford fire the police were using Burndept BE470 radios.
+These sets have now been superseded by ones that have superior
+performance.
+
+POPPLEWELL
+As a result of the Bradford Football ground fire the Directorate
+undertook work on two aspects of UHF hand held radios:-
+       1.   The University of South Wales was sponsored to
+       investigate acoustic shrouding of the microphone and
+       loudspeaker of the Burndept BE470 hand held radio.
+       The aim being to reduce the amount of crowd noise
+       reaching the microphone by close coupling the speakers
+       voice tract with a soft rubber moulded extension to
+       the radio. The device performed a similar role when
+       held to the ear in shutting out the crowd noise.
+       The device was not well received by those police
+       officers asked to evaluate it due to the risk of
+       injury to the user if jostled by the crowd. This type
+       of approach would not be practical for the more modern
+       types of set which have remote microphone/loudspeakers
+       usually mounted on the lapel of the uniform jacket.
+
+
+       2.    Racal were contracted to investigate the design
+       of the Burndept set with a view to improving its
+       performance. A number of minor changes were proposed
+       but these were not implemented as the decision had
+       been taken to replace the Burndept BE470 sets with
+       more modern designs which already incorporated the
+       improvements   identified by Racal.       Racal also
+       suggested the use of a noise cancelling microphone.
+       A noise cancelling microphone has been made available
+       but the ergonomics are not compatible with police
+       usage at football matches.
+It is evident that the use of talk-through contributed to the
+poor quality of the radio communications and that whilst the
+high levels of background noise may have degraded the
+intelligibility of the messages crowd noise may not be the prime
+cause of the potential problem.
+               <x
+
+
+
+
+HILLSBOROUGH
+Without access to the interim report, voice tapes and transcript
+of their contents the following comment can only be based on
+conjecture.
+The communications at the Hillsborough football ground appear to
+have been on talk-through right from the outset. It is probable
+that it was overloading of the channel with several officers
+trying to transmit their calls at the same time that caused what
+would appear as an equipment malfunction        leading to the
+replacement of the base station.    Removal of the talk-through
+facility would have gone some way to easing the problem in so
+far as the control room would at least have had use of the out
+going communications.
+     TALK-THROUGH ON HALF DUPLEX RADIO SCHEMES
+
+     The radio scheme at Hillsborough used separate radio
+     frequencies for transmitting and receiving messages to
+     and from the UHF hand held sets.     Only one pair of
+     frequencies were in use for the local control of the
+     policing effort in and around the ground. This means
+     that all messages would have to share the channel and
+     that it is essential that those waiting to use the
+     system   can   hear when    the   last  caller   stops
+     transmitting. With the talk-through facility in use
+     all the calls from the hand held sets as well as being
+     presented in the control room are rebroadcast to all
+     the hand held sets.         In theory provided the
+     rebroadcast signals can be heard then individual
+     officers are able to judge if they are free to speak
+     or if they will only destroy a call that is taking
+     place and it is this feature that is the danger of
+     talk-through.   The reason for not using talk-through
+     is because of the likelihood that with increasing
+     crowd noise some officers will be unable to hear if
+     the channel is busy and will try to use their radios.
+     Should another call be taking place then they will
+     almost certainly destroy the other message as well as
+     fail to capture the scheme.    The destruction of one
+     call by another would lead other officers to try the
+     channel in the mistaken belief that the channel were
+     not busy.      This situation would then be self
+     perpetuating until officers gave up trying to use the
+     channel.   High levels of crowd noise would make it
+     very difficult for officers to tell if the channel
+     were in use which is why the controller is normally
+     able to remove talk-through to gain control of the
+     scheme by ordering all officers to cease trying to
+     transmit and thereby requesting messages from each
+     officer in turn.
+
+
+P M Tomlinson
+Directorate of Telecommunications
+Horseferry House
+London                                        27 September 1989
+

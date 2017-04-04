@@ -1,0 +1,578 @@
+J MERVYN JONES MSc                                   FURNIVAL HOUSE
+ASSISTANT CHIEF CONSTABLE                            Furnival Gate
+ HILLSBOROUGH INQUIRY TEAM                           Sheffield S1 4QN
+                                                     Telephone: 074 2 727599
+WEST M IDLANDS POLICE HQ                             SM ITHDOW N LANE POLICE STATION
+PO Box 52, Lloyd House                               Liverpool L7 3PR
+Colmore Circus Queensway                             Telephone: 051-709 7190/7231
+Birmingham B4 6NQ
+Telephone: 021 -2 36 5000, extn. 2025                Your Ref:
+NECHELLS GREEN POLICE STATION
+Fowler Street                                        Our Ref:       JMJ/DH
+Birmingham B7 5DA
+Telephone: 0 21 -3 59 3332                           Date:
+                                                                     15 June 1989
+
+
+Mr P Whitehurst
+Treasury Solicitors
+c/o Town Hall
+Sheffield
+
+
+
+
+CRUSH BARRIER INSPECTION AND TESTING
+
+I forward herewith another response which has been made by consultants in
+this field of activity. In this instance Ross Materials Technology Limited
+have responded with a useful summary of their approach to the requirements
+of the 'Green Guide'. I have written separately to them to thank them for
+their contribution.
+
+I trust this is of some assistance to you. I have sent copies of this
+correspondence to Mr R. M. Whalley, Professor Maunder and Dr Nicholson.
+
+
+
+
+   PLEASE REPLY TO THE OFFICE A T       Sheffield
+FROM    flERON    ENGINEERING                                            6.15.1989      13:57                               P.   1
+
+
+
+
+                                                                                                METALLURGISTS
+                                                                                                     ANALYSTS
+
+       MATERIALS TECHNOLOGY Ltd                                                                 S   rrosS    nd
+       incorporatins W. H. Herdsman                                     . J 5 S2™                       WELDING
+         40 Wilson Place • East Kilbride • Glasgow • G74 4CH>- Telephone (03552) 25488/9 • Telex 777582
+
+
+       RBR/SCB
+
+
+
+       15   June      1989
+
+
+
+       J M e r v y n Jones MSc       '>                       cc   Mr P Howatt
+       A s ^ | t a n t Chief Constable                             Stracthclyde           Regional        Council
+       W e ^ ^ M i d l a n d s Police                              India Street
+       Furnival House                                              GLASGOW
+       Furnival Gate
+       Sheffield
+       SI     4QN
+
+
+       R e p o r t No. G 1 2 5
+       H i l l s b o r o u g h Inquiry ILAM
+       Comments on Crush Barrier                   Inspection        and    Testing
+
+
+       Dear      Mr   Jones
+
+       W i t h r e f e r e n c e to y o u r l e t t e r J M J / D H / 1 6 / 6 / 8 9 , o n the s u b j e c t of the
+       H i l l s b o r o u g h D i s a s t e r Ir-.uiry, I w o u l d s t a t e t h a t f i r s t l y I h a v e
+       been involved with my company on inspecting and testing crush
+       b a r r i e r s o n f o o t b a l l g r o u n d s si nce s h o r t l y a f t e r the Ibrox
+       Disaster.
+
+       I n i t i a l l y t h e r e q u i r e m e n t s in S c o t l a n d a t l e a s t w e r e to e n s u r e t h at
+       t h e b a r r i e r s w e r e in a s a f e s t a t e to c o m p l y w i t h i n s u r a n c e
+       requirements.               The W h e a t l e y report f o l l o w i n g the Ibrox disas t e r
+       r e c o m m e n d e d t h a t c r u s h b a r r i e r s s h o u l d h a v e s o m e f o r m of i n s p e c t i o n
+       a n d t e s t i n g a p p l i e d a n d w e w e r e i n v o l v e d in t h e v e r y e a r l y d a y s w i t h
+       d i s c u s s i o n s w i t h t he c l u b s , t he i n s u r a n c e c o m p a n i e s a n d t h e n the
+       Local Authorities.
+
+       W e p r o d u c e d o u r s p e c i f i c a t i o n i d e n t i f i e d as S t a n d i n g I n s t r u c t i o n
+       N u m b e r 30, t h e s e c o n d i s s u e d a t e d J a n u a r y 1 9 8 6 is e n c l o s e d w i t h t h i s
+       report.
+
+       We w e r e t h e r e f o r e i n s p e c t i n g and    testing      c r u s h b a r r i e r s and
+       a s s o c i a t e d equipment on football               grounds      b e f o r e the i s s u e of      the
+       f i r s t G r e e n B o o k in 19 7 3.
+
+       W e h a v e a l w a y s m a d e t h e a s s u m p t i o n t h a t t h i s is a g u i d e to         safety     at
+       s p o r t s g r o u n d s a n d s h o u l d n o t be t a k e n a s a s p e c i f i c a t i o n .
+
+
+
+
+                                            Directors: R. B. Rosa (Managing) S. McVicar
+FROM     flERON   ENGINEERING
+                                                                                  6 . 15. 1 9 89    13: 57                                  P.   2
+
+
+
+
+       Report        No.       G125
+
+       J.M J o n a s    M S c . W e st M i d l a n d s           Pol ir.a
+
+
+
+
+       e x t e n t ^ 0 rf^S r y + S t a r t     u*                   t h e r ® h a s b e e n d i s c u s s i o n a n d to s o m e
+       s h o u l d ’b ^ r ^           r               i n t e r p r e t a t i o n of t h e s t a t e m e n t t h a t th e l o a d
+       per    metre             Thil'    V     “                    f i s t r i b u t e d load e i t h e r per foot                  or
+                           i        u           my    ° P inion     is u n e c o n o m i c a l a n d c o m p l e t e l y
+
+       start      o f Co u r ftt f s U n K . S t R t 0 m e n t      ^       b “Cn made        ^     “ySelf          f r o m    the   very
+
+
+   S c o t l a n H ? * “ ?*,*"* h a v e c a r r i e d o u t th e t e s t i n g o f m a n y g r o u n d s in
+   S c o U a n d i n c l u d i n g b o t h the i n t e r n a t i o n a l g r o u n d s a n d the m a j o r i t y
+   o f ^ x e p r emier division and first d i vision grounds.
+
+                               is1ca^ ri«d           out    after       discussion         with      either          the
+   and       v«(.van f ? V           n i.             ® a n a * e m e n t o r d i r e c t o r s of       the        football         club
+             very often             with       the    Local Aut h o r i t y officials.
+
+   As y o u will see fr om                      our S t a n d i n g I n s t r u c t i o n , our          technique              is
+   f i r s t l y to c a r r y o u t             a detailed visual examination                            u s i n g o ur
+   fence/wall                       Sl“ n       t0    ®v a l u a t e    *ach    barrier , handrail                   or       perimeter
+
+
+   I am c e r t a i n           that         this    part    of    our      inspection         is   by       f ar    the m o s t
+   important.
+
+
+   T h e m e c h a n i c a l t es t is a p p l i e d to t h e b a r r i e r s b y l o a d i n g the
+   u p r i g h t w h i c h is the s u p p o r t f o r the h o r i z o n t a l .       T h i s l o a d is
+   c a l c u l a t e d ----
+                     d ,a c c o r d i n « to     d i s t a n c e b e t w e e n t he u p r i g h t s , a n d th«
+   f u l l l o a d is a p p l i e d to a n y u p r i g h t w h i c h is s u p p o r t e d o n e i t h e r
+   side.
+
+
+  W e t h e n a p p l y a l o a d to the c e n t r e o f the h o r i z o n t a l .             T h i s l o a d is
+  a p p l i e d at 2 p o i n t s . 2 f e e t a p a r t a n d a f t e r c o n s i d e r a b l e d i s c u s s i o n ,
+  c a l c u l a t i o n a n d in m a n y c a s e s , d i s p u t e w i t h e n g i n e e r s , a r c h i t e c t s
+  a n d L o c a l A u t h o r i t y o f f i c i a l s , it is g e n e r a l l y a g r e e d t h a t the l o a d
+  a p p l i e d to t h e c e n t r e o f t h e h o r i z o n t a l is 0 . 7 x t h e l o a d a p p l i e d to
+  the uprig ht .
+
+  As      the      load        is   applied          we   measure        the   deflection.
+
+                                  l o « d is a p p l i e d w i t h l e s s t h a n o n e i n c h (25om)
+  d e f l e c t i o n , e i t h e r to t h e u p r i g h t or to t h e h o r i z o n t a l , t h e n the
+  b a r r i e r wi ll be a c c e pt ed .
+
+                         r e s u l *= ln      ‘h»» °ne inch defle ct io n      th.n
+  1          <t<    } S’* ^ ? ord,d 1,nd ‘astin* »ill be co ntinued until either the
+  specified             load        is       achieved       or    2 inch       (50mm)     deflection                is    reached.
+FROM       HERON   E N G IH E E R IH Q                                      6. 15. 1 9 3 9   13: 5 3
+
+
+
+
+       3
+
+       Report        No.      G125
+
+       JM     Jonas       MSc.       West   Midlands      Polica
+
+
+
+
+              specified                  load has not be e n a p p l i e d w i t h           2 inches       (50mm)
+       derleotion, then                  the b a r r i e r will b e _ r e j e c t e d .
+
+       O n c e the        s p e c i f i e d l o a d h a s b e e n a p p l i e d a n d h e l d for the time
+       required           in t h e G r e e n B o o k , t h a t is 5“ m i n u t e s , t h e n the l o a d is
+       released           a n d t h e r e c o v e r y is m e a s u r e d .
+
+       If m o r e      than       0 . 2 5 i n c h e s (8mm)   permanent        deflection              remains   then   the
+       barH.er         will       be re j ec te d.
+
+   F r ^ o t h i s y o u w i l l s e e t h a t w e d o n o t a g r e e w i t h p a r a g r a p h 5 of
+   A n n e x C i n t h a t a s a m e t a l l u r g i s t , i n m y o p i n i o n , a n y f a i l u r e of               a
+   b a r r i e r to f u l l y r e c o v e r o n c e th e l o a d h a s b e e n a p p l i e d is a
+       failure.
+
+   W e w o u l d i n v e s t i g a t e t h e r e a s o n f or f a i l u r e a n d g i v e a r e p o r t o n
+   w h a t i n o u r o p i n i o n is t h e c a u s e of t h e p r o b l e m .           T h i s c a n be e i t h e r
+   t h a t t h e s t e e l o r m e t a l u p r i g h t o r h o r i z o n t a l d e f l e c t s b e c a u s e it is
+   t a k e n a b o v e the y i e l d s t r e n g t h a n d t h us for all p r a c t i c a l p u r p o s e s
+   is a f a i l u r e .      It c a n v e r y o f t e n h o w e v e r , be t h a t t h e f o u n d a t i o n is
+   w e a k an d the b a r r i e r wi ll t h e r e f o r e fail by a c a n t i l e v e r action.
+   With r e inforced concrete barriers, failure will often occur because
+   t h e r e i n f o r c e d s t e e l h a s c o r r o d e d r e d u c i n g t h e d u c t i l i t y of the
+   barrier.
+
+   W e h a v e n o d o u b t t h a t t h j c r u s h b a r r i e r s of              football grounds have
+   e v o l v e d o v e r t h e y e a r s w i t h , in m a n y c a s e s ,            a m i n i m u m of t e c h n o l o g y
+   a n d it is m y o p i n i o n t h a t t h e G r e e n B o o k is                  a g u i d e to s a f e t y a n d
+   c a n n o t be a c c e p t e d as a s p e c i f i c a t i o n .
+
+   It w o u l d b e d i f f i c u l t , if n o t i m p o s s i b l e ,     to p r o d u c e a d o c u m e n t           in
+   t h e f o r m of a B r i t i s h S t a n d a r d w h i c h w o u l d s p e c i f i c y    the t e s t i n g          to
+   b e c a r r i e d o u t to e x i s t i n g g r o u n d s w h i c h v a r y c o n s i d e r a b l y in
+   de si gn , c o n s t r u c t i o n m a t e r i a l and type of fo un da t i o n.
+
+   I b e l i e v e that we               h a v e th e c a p a b i l i t y of i n t e r p r e t i n g the G r e e n B o o k
+   a n d in d i s c u s s i o n          w i t h the o f f i c i a l s of the cl ub s a n d the Local
+   Authorities, have                     achieved a satisfactory                 c o m p r o m i s e a n d to d a t e we
+   have considerable                     h i s t o r y of success.
+
+   W i t h r e f e r e n c e to y o u r s e c o n d q u e s t i o n , w e h a v e n o e x p e r t i s e o n the
+   c a p a c i t y of g r o u n d s b u t b e l i e v e t h a t if y o u d i s c u s s t h e s i t u a t i o n
+   w i t h Mr P e t e r Howatt, S t r a t h c l y d e R e g i o n a l Council, India Street,
+   G l a s g o w ( t e l e p h o n e 0 4 1 - 2 0 4 - 2 9 0 0 ) , h e w i l l b e a b l e to h e l p .  He h a s a
+   c o p y of the r e p o r t .
+          c fi'J i iic t r,i iia
+
+
+
+
+ Report      No.        0125
+
+ JM   Jones        MSc.            West    Midlands   Polim
+
+
+
+
+ T h e r e is n o d o u b t t h at
+                                   o n e o f t h e p r o b l e m s w i t h c a r r y i n g o u t the
+.testing and evalu a t i n g
+                                   o f t h e e q u i p m e n t at f o o t b a l l g r o u n d s is t h at
+ Under many circumstance
+                                   s t h e r e is a n e m m o t i v e e l e m e n t p r e s e n t w h i c h
+ does not n o r m a l l y exist
+                                     with normal engin e e r i n g practice.
+
+I n s p e c t i o n and testing
+                                         of e q u i p m e n t o n s p o r t s g r o u n d s is u n i q u e in
+t h a t it r e q u i r e s a s p e c
+                                         i f i c e x p e r t i s e w h i c h in g e n e r a l , c a n o n l y be
+gained by experience,
+                                         It is t h u s d i f f i c u l t , if n o t i m p o s s i b l e , to
+p r o d u c e a s p e c i f i c a t i o n to d e t a i l t h e r e q u i r e m e n t s f o r b a r r i e r
+tes^^ng and inspection.
+
+I h o p e y o u t h e f i n d th e
+                                               above   of   interest   and   I look      forward      to a n y
+c o m m e n t s y o u m a y have.
+
+Yours     sincerely
+for   and     on      behalf          of    ROSS   Materials   Technology      Ltd
+
+
+
+
+Robert B Ross
+Managing Director
+
+
+
+
+Enc
+F ft 0 M fi E ft 0 N   engineering
+                                                                                   6.15.1939       13:59
+
+
+
+
+                                                          A P P E N D I X
+
+
+
+
+                                Grounds       Which       H » v-e B e e n   In s p e c t e d    and   Tested
+
+
+       Football              Clubs
+                                                                      Football        Grounds
+
+       Rangers              Football    Club
+                                                                      Ibrox      Stadium
+
+       Dui^©            United       Football       Club             Dens      Park
+
+       Dundee           Football       Club
+                                                                     Tannadice          Park
+
+       Scottish              Rugby    Union
+                                                                     Murrayfield               Stadi um
+      Qu « ® n s P a r k FC
+                                                                     Hampden        Park
+      (I n t e r n a t i o n a l s )
+
+      St      Mirren          Football       Club                    Love     Street
+
+      Dunfermline                  Football       Club               East     End     Park
+
+      Hamilton               Academicals                             Douglas        Park
+
+      Greenock               Morton    FC                            Cappielow         Park
+
+      Ayr       United         Football       Club                   Somerset         Park
+
+      Kilmarnock               Football       Club                   Rugby      Park
+
+      Partick               Thistle     FC                           Firhill        Stadium
+
+      Stenhousemuir                  Football       Club             Ochilview         Park
+
+      Queen            of    the    South    FC                      Palmerston          Park
+
+      Arbroath               Football       Club                    Gayfield         Park
+
+      Hearts            Football       Club                         Tynecastle           Park
+
+     Motherwell                Football       Club                  Fir     Park
+
+      Stirling              Albion     FC                           Annfield         Park
+
+     Raith             Rovers       Football       Club             Starks        Park
+
+     Dumbarton                Football       Club                   Boghead         Park
+
+     Cowdenbeath                   Football       Club
+FROM   A E R.0 N   ENGINEERING
+                                                                           6. 15. 1 9 3 ?   14!02                             1
+
+
+
+
+  I a a u « No.        2
+  Date 1/86
+
+
+
+               S T A N D I N G                 I N S T R U C T I O N S                       N O         30
+
+
+
+                                Method      for   Testing       Crush. B a r r i e r s
+
+
+
+
+                     T h i s S t a n d i n g I n s t r u c t i o n is t h e c o p y r i g h t of
+                     R O S S M a t e r i a l s T e c h n o l o g y Ltd, a n d m u s t n o t b e
+                     r e p r o d u c e d in a n y f o r m w i t h o u t w r i t t e n p e r m i s s i o n
+                     f r o m the c o m p a n y .
+
+
+  1       IN T R O D U C T I O N
+
+             T h e p u r p o s e of t h i s S t a n d i n g I n s t r u c t i o n is to d e t a i l t h e m e t h o d
+             u s e d by R O S S M a t e r i a l s T e c h n o l o g y for the e x a m i n a t i o n and
+             t e s t i n g of c r u s h b a r r i e r s , p e r i m e t e r w a l l s a n d f e n c e s , a n d
+             a s s o c i a t e d h a n d r a i l s in S p o r t s G r o u n d s .   This Standing
+             I n s t r u c t i o n s h o u l d be r e a d in c o n j u n c t i o n w i t h t h e
+             R e c o m m e n d a t i o n s l a i d d o w n in the c u r r e n t G r e e n B o o k " S t a n d a r d on
+             S a f e t y in S p r o t s G r o u n d s " .
+
+
+  2          Marking        &    Identification
+
+              It is of v i t a l i m p o r t a n c e t h a t to a v o i d c o n f u s i o n a n d to r a p i d l y
+              i d e n t i f y t h e b a r r i e r s , t h e s a m e s y s t e m of b a r r i e r m a r k i n g is
+              a d o p t e d on all grounds.               It m a y be t h a t p r i o r d r a w i n g s h a v e
+              a l r e a d y b e e n p r o d u c e d w i t h n u m b e r s a n d t h a t w e m a y in s o m e c a s e s
+              b e r e q u i r e d to e x a m i n e a n d to te s t t h e s e .
+
+              If n o n u m b e r i n g s y s t e m h a s     been     arranged         then      the    following
+              s y s t e m s h o u l d be a d o p t e d .
+
+
+   2:1        Ground
+
+              T h e a r e a s o n t h e g r o u n d s h o u l d be c l e a r l y i d e n t i f i e d . T h a t is,
+              a l w a y s s t a n d i n g in t h e c e n t r e of t he p i t c h a n d f a c i n g o n e of t h e
+              S t a n d s , the a r e a s s h o u l d t h e n be n o m i n a t e d as the f o l l o w i n g :
+
+
+
+              Area      (1)           The   left     h a n d side.
+              Area      (2)           The   area     behind.
+              Area      (3)           The   area     to t h e r i g h t    hand
+
+
+               In c e r t a i n c i r c u m s t a n c e s s o m e n a t u r a l d i v i s i o n s e x i s t w h i c h m a y
+               t h e n a l l o w some d e v i a t i o n from this p r o c edure.                    T h a t is, a
+               d i v i d i n g r a i l i n g b e h i n d m a y n e c e s s i t a t e t h a t i n s t e a d of A r e a (2)
+               that this          a r e a is n o m i n a t e d as A r e a s (2 a n d        3) a n d       the right
+               hand side          t h e n b e c o m e s A r e a {4).
+
+               No m atter          h o w it is c l a s s i f i e d it m u s t     be c l e a r         o n the   report
+               the a r e a s       identified.
+FR0H   A E R-0 N   E N G IH E E R IN 6
+                                                                               6.15.1989     14: 03
+
+
+
+
+  2:2        Barriers
+
+            T h e r e is h o w e v e r , n o d e v i a t i o n           from the t e c h n i q u e     of   numbering
+            the b a r r iers.        T h i s w i l l be as               f o^ ' F o W s :
+
+            S t a n d i n g in t h e d e s i g n a t e d          area    an d f a c i n g the pitch, the
+            b a r r i e r at the b o t t o m left                 hand    s i d e w i l l be d e s i g n a t e d as
+            B a r r i e r 1,
+
+            C o n s e c u t i v e n u m b e r s w i l l t h e n be a p p l i e d to th e b a r r i e r s a l o n g
+            to t h e e n d o f t h i s r o w c o m i n g b a c k to b e h i n d B a r r i e r 1 a n d
+            n u m b e r i n g in a s i m i l a r f a s h i o n .   A "sna ke " type n u m b e r i n g sys te m
+            w il l not be a l l o w a b l e .
+
+         ( ^ h e r e b a r r i e r s are not c l e a r l y p r e v i o u s l y identifie d, then they
+           w i l l b e i d e n t i f i e d u s i n g an i n d e l i b l e m a r k e r at 2 p o s i t i o n s o n
+            t h e b a r r i e r , p r e f e r a b l y at a n a r e a w h e r e c o n t a c t w i l l n o t t ak e
+           place.
+
+
+
+  3          Visual           Inspection
+
+            The        procedure           fo r    the    visual     examination         will   be     as    follows:
+
+             A l l b a r r i e r s to be c l o s e l y v i s u a l l y e x a m i n e d p a y i n g p a r t i c u l a r
+             a t t e n t i o n to the b a s e of th e u p r i g h t , to the g e n e r a l s t a t e of
+             th e u p r i g h t a n d the h o r i z o n t a l m e m b e r .     A n y we ld joints,
+             c o r r o s i o n , b o r k e n c o n c r e t e , c r a c k s etc.   a r e to b e r e p o r t e d w i t h
+             comments.           A n y l o o s e n e s s e i t h e r of t h e u p r i g h t o r h o r i z o n t a l are
+             to b e r e p o r t e d .
+
+             B a r r i e r s a r e to b e c l a s s i f i e d i n t o t y p e s .          For example, barrers
+             w i t h c o n c r e t e w i t h r e l a t i v e d i m e n s i o n a l i n f o r m a t i o n , or b a r r i e r s
+             s t e e l w i t h r e l e v a n t d i m e n s i o n a l i n f o r m a t i o n , a n d t he q u a n t i t y
+             a n d t h e n u m b e r of e a c h t y p e of b a r i e r t o b e r e c o r d e d .
+
+             R e l e v a n t i n f o r m a t i o n on         specific barriers regarding any problems
+             identified and remedial                          a c t i o n r e q u i r e d w i l l b e r e c o r d e d in the
+             report.
+
+
+
+  4          Mechanical                  Testing
+
+              T h e c u r r e n t r e c o m m e n d a t i o n in the G r e e n B o o k          S t a n d a r d is   that
+              1 0 % of t h e b a r r i e r s w i l l be t e s t e d p e r a n n u m             so t h a t the       whole
+              g r o u n d is c o v e r e d i n a 10 y e a r p e r i o d .
+
+              It is R M T p o l i c y to u s e d i s c r e t i o n in t h i s a r e a b u t the m i n i m u m
+              n u m b e r wi l l a l w a y s be tested.        T h e d i s c r e t i o n a l e l e m e n t is t h at
+              if t h e b a r r i e r t y p e s v a r y t h e n a h i g h e r p r o p o r t i o n of o n e t y p e
+              m a y b e t e s t e d if t h e r e is s o m e o b v i o u s r e a s o n for this.
+
+              The barriers tested                        w i l l be r e c o r d e d to   ensure       that   duplictaion
+              does not take place                        the f o l l o w i n g year.
+r r.     Mtaun     tnoihttr.imj
+                                                                            Kf • 1O . 1?(5?
+
+
+
+
+ 4:1         Barrier s
+
+              T h e t e s t is c a r r i e d o u t b y a p p l y i n g " a h o r i z o n t a l f o r c e in the
+              d i r e c t i o n in w h i c h t h e c r o w d s wouLcF~push.             T h i s f o r c e w i l l be
+              a p p l i e d t o t h e u p r i g h t a n d to a h o r i z o n t a l m e m b e r .        T h e r e m a y be
+              a v e r t i c a l f o r c e a c t i n g in a n u p w a r d d i r e c t i o n b u t t h i s w i l l
+              a l w a y s be l e s s t h a n 5 % of th e h o r i z o n t a l f o r c e .          T he force will
+              b e a p p l i e d g r a d u a l l y to t h e l o a d of 6 K i l o N e w t o n s p e r l i n e a r
+              m e t r e { 4 0 0 p o u n d s p e r l i n e a r foo t) o r 4 . 3 K i l o N e w t o n s pe r
+               l i n e a r m e t r e (290 p o u n d s per linea r foot).                  The distance between
+               t h e u p r i g h t s is u s e d f o r c a l c u l a t i n g t h e load.         Th e b a si c load
+              u s e d w i l l b e a g r e e d b e f o r e t e s t i n g c o m m e n c e s b u t it s h o u l d
+               a l w a y s be R M T ’s a i m to t e s t to e n s u r e t h a t t h e b a r r i e r s c o m p l y
+             ^ ^ . t h t he h i g h t e r of t h e 2 l oa d s .
+
+              T h e s p e c i f i e d f o r c e w i l l be a p p l i e d to t h e h o r i z o n t a l m e m b e r of
+              t h e b a r r i e r t h r o u g h 2 p o i n t s 6 0 0 m m (2f t ) a p a r t at a p p r o x i m a t e l y
+              m i d p o in t of the barrie r.               T h e l o a d w i l l b e c a l c u l a t e d by
+              m e a s u r i n g the d i s t a n c e b e t w e e n the u p r ig ht s , m u l t i p l y i n g this
+              b y t h e r e q u i r e d l o a d i n g a n d t h e n b y a f a c t o r of 0.7.
+
+              T h e f o r c e a p p l i e d to the v e r t i c a l m e m b e r w i l l be t h e f u l l l o a d
+              c a l c u l a t e d f r o m t he u n i t f o r c e m u l t i p l i e d b y t h e d i s t a n c e
+              b e t w e e n the u p r i g h t s .    F o r v e r t i c a l m e m b e r at t he e n d of t h e
+              l e n g t h of a b a r r i e r the l o a d w i l l b e h a l f of the a b o v e .
+
+               In e a c h c a s e t h e f o r c e w i l l be m a i n t a i n e d for s u f f i c i e n t t i m e to
+               e n s u r e t h a t a l l m o v e m e n t c e a s e s a n d t h e d e f l e c t i o n f r o m the
+               v e r t i c a l or h o r i z o n t a l n o t e d .   A n y d e f l e c t i o n gre a t e r than 25mm
+               ( o n e i n c h ) w i l l be i d e n t i f i e d .     A n y d e f l e c t i o n g r e a t e r t h a n 50mra
+               (2 i n c h e s ) w i l l b e r e j e c t e d a n d t h e b a r r i e r c l a s s i f i e d as h a v i n g
+               f a i l e d , e v e n if t h e m e m b e r r e t u r n s to n o r m a l a f t e r l o a d is
+               reduced.
+
+               T h e f o r c e w i l l t h e n b e r e m o v e d a n d t h e r e c o v e r y of the
+               d e f l e c t i o n noted.       An y d e f l e c t i o n g r e a t e r t h a n 6 m m ( 0 . 2 5 inches;
+               r e m a i n i n g a f t e r o n e m i n u t e w i l l r e s u l t in t h e b a r r i e r b e i n g
+                rejected.
+
+
+
+       4:2      HandraiIs
+
+                W h e r e t e s t i n g of h a n d r a i l s is r e q u i r e d t h e n t h e l o a d w i l l b e
+                a p p l i e d i n a s i m i l a r m a n n e r to t h a t of t h e c r u s
+                a solid back support where possible.                           If   t h i s is n o    p
+                                                                                                        handraiIs,
+                t h e n t h e l o a d w i l l b e a p p l i e d a n d t h e d e f l e c t i o n of 2
+                                                                                                                 If
+                o n e in f r o n t a n d o n e b e h i n d , n o t e d at th e s p e c i f i e d load,
+                                                                                                               the
+                t h e t o t a l d e f l e c t i o n is g r e a t e r t h a n 5 0 m m (2 i n c h e s ) t h e n
+                 handrail       will     be   rejected.
+
+                 Where     necessary          the   technique       for    loadin*            handrails   will    be
+                 agreed      after     discussion.
+FROM   PERON   ENGINEERING                                             6.15.1989      14*04                                P . 4
+
+
+
+
+  4:3     Perimeter         Walls
+
+          T h e P e r i m e t e r w a l l w i l l b e t e s t e d ~ U s i n g the h i g h e r of the 2
+          l o a d s , t h a t is 6 K i l o N e w t o n s p e r l i n e a r m e t r e ( 4 0 0 p o u n d s p e r
+          l inear foot).            T h e l o a d w i l l be c a l c u l a t e d as if t he w a l l w a s a
+          v e r t i c a l , t h a t is t h e f u l l l o a d w i l l b e a p p l i e d .
+
+           I n t he a b s e n c e of r e g u l a r p i l l i s t e r s t h e n t h e l o a d w i l l be
+           a p p l i e d b a s e d o n a d i s t a n c e of 6 f e e t a n d t h i s l o a d w i l l be
+           a p p l i e d t h r o u g h the h e a d of the t e s t i n g m a c h i n e v i a a t u b u l a r
+           6 f o o t p o l e b r a c e d a c r o s s t h e w a l l a n d t he l o d a p p l i e d as n e a r
+           t h e t o p a s p o s s i b l e a n d at l e a s t w i t h i n 1 0 0 m m o f t h e t o p c o u r s e
+        ^ p f brick.
+
+          C a r e s h o u l d be t a k e n     to a p p l y the      load    evenly      by    inserting
+          spacers no more than                 10 0mm apart.
+
+
+  5       Report
+
+          A r e p o r t w i l l t h e n be i s s u e d d e t a i l i n g t h e t y p e of c r u s h b a r r i e r s
+          u s e d , the g e n e r a l s t a t e of the b a r r i e r s , a n y b a r r i e r s w i t h a n
+          i d e n t i f i c a t i o n n u m b e r w h i c h in o u r o p i n i o n , s h o u l d be r e j e c t e d
+          f o r u n d u e l o o s e n e s s , e x c e s s i v e c o r r o s i o n , c r a c k i n g or d a m a g e .
+
+          N o n e of the       b a r r i e r s i d e n t i f i e d as h a v i n g p r o b l e m s at   the    visual
+          examination          w i l l be s u b j e c t e d to m e c h a n i c a l t e s t i n g .
+
+           D e t a i l s , w i t h i d e n t i f i c a t i o n n u m b e r s , of a n y b a r r i e r s w h i c h fa i l
+           t h e m e c h a n i c a l t e s t u n d e r l o a d w i l l be n o t e d .         Any barriers with
+           i d e n t i f i c a t i o n n u m b e r w h i c h d e f l e c t e d m o r e t h a n 2 5 m m (one in c h)
+           u n d e r l o a d w i l l be i d e n t i f i e d .        A n y o t her relevant comme nt will
+           be made.
+
+           It is o u r a i m t h a t t h e r e p o r t at a l l t i m e s s h o u l d be p o s i t i v e a n d
+           h e l p f u l in t h a t if a n y p r o b l e m s a r e i d e n t i f i e d , if a s o l u t i o n c a n
+           be r e a d i l y se e n , t h e n r e m e d i a l a c t i o n s h o u l d be d e t a i l e d in t h e
+           report.
+
+           W h e r e o n a s e c o n d v i s i t t he f o l l o w i n g y e a r t h e s a m e p r o b l e m t a
+           p r o b l e m i d e n t i f i e d a n d n o t r e m e d i e d f r o m t he p r e v i o u s y e a r ,
+           t h e n t h i s s h o u l d b e r e p o r t e d i m m e d i a t e l y to a r e s p o n i b l e
+           i n d i v i d u a l a n d c e r t a i n l y h i g h l i g h t e d in t h e r e p o r t .
+

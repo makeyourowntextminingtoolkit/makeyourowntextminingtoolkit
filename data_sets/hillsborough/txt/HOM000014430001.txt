@@ -1,0 +1,301 @@
+                                                                            tyj»
+ il             A       0                                                   - "} Mkru*M                             (/*■'''*'•'
+ ^                                                                                                           ^             fc W ,
+
+             C^os               i ^          o /       /f-/^ c_S,j^>c^ / Z o o (N— /-/                                      ^ <*
+
+
+
+
+I       £ pcrfc-e                     U      f'Lv      l~\r\yf M ~ & Y                      [Aj&Qf             Atiol^^
+
+
+
+                    c?              A mJ /U^V\|^<Pvl>c>vJb                                             C j o ^Io     B^j
+
+
+
+    I/lvft_              / ^ ( J ^ J l C < y J A A ^                                               ^         ^UZlVu*t.I 1
+
+
+                                           J/v     J/Uji                                          <yj/jiQQ_            }    k v
+
+
+      ^yo    J      ^       ^   c a   / v \ v. 5                                                        °J
+
+
+      c^\y          e-A               C i P r f t                                            cjl ^         «
+
+
+    £   ,           f^i               t - W l f |V\£_-/          ^ c x \ c l        U a                            / W a^
+
+
+
+lAA         V{ ^ 0
+        ' T1 T-                       C-O&VS           ovX~ < r^ v ^ X                        A: I ' "7 f^i JUlZcs^
+
+^JZ^C             /vv. ^ v a A / V ^ x                         cA       ^      ^          ^ 0 \   c— ^       o O (Tl^
+
+
+                    (           »                          f t                 ^            £r ^                                   ,
+
+
+    ^V» a, ^                                                         ^y\Jc?vo             \JNs=^A^j
+
+
+
+    ovVf            ^VvvO                                  ^
+
+
+
+
+        ^   x           Tv-V                 ^aVv'A.                *yKDo^o                        ^
+
+
+
+                                                               c jx            /i                                   A i
+                                                                                                                                                                                                                             APPENDIX 'A'
+
+
+
+
+                                        MANAGEMENT INFORMATION SYSTEM
+:i>ORTS A V A I L A B L E
+:P O R T                                                                                                                BRIEF DESCRIPTION
+  CP 1 T                    THIS P R O G R A M WILL RUN A U T O M A T I C A L L Y AT APPROX.
+                            0 8 : 0 0 H R S . I T IS P R I N T E D O N T H E T E L E P R I N T E R S . I T P R C D U ,
+                            A L I S T O F A L L T H E F A L S E A L A R M S ( - C L A S S I F I C A T I O N C O D E 3'
+                            F O R T H E L A S T - 2 4 H O U R S . I F T H E C O M P U T E R IS D O W N W H E N
+                            P R I N T - O U T S S H O U L D 3 E P R O D U C E D IT C A N B E R U N M A N U A L L Y
+                            W H E N S Y S T E M IS B A C K UP
+
+  CR1                       CRIME                               R EPOR T(BY                                                    CRIME                             C O D E S , S U 8 - D I V . A N D R I A ).
+
+  CR 2                      CRIME                               REPORT                                     (BY C R I M E                                                  CODES                  AND              DIVISION).
+
+  CR 3                      VEHICLES                                                   STOLEN-AND                                                   RECOVERED.
+
+  CR 5                      MANPOWER                                                   DEPLOYMENT                                                   TO F A L E S                                 ALARMS                 (DIVISION)
+
+  HQ1                       INCIDENT REPORT                                                                                    ( 3Y C L A S S                                            AND              DIVISION).
+
+  HQ 2                      CRIME                               REPORT                                     (BY C R I M E                                                  CODES                  AND              DIVISION).
+
+  HQ3                       LIST                            OF G E N U I N E                                                   ALARM                             CALLS                          (BY           DIVISION).
+
+  HQ4                       MANPOWER                                                   DEPLOYMENT                                                   TO                    FALSE                  ALARMS                 (FORCE).
+
+  HQ5                       ALARMS                                       EXCEEDING                                                      PERMITTED                                        NO.              (FALSE).
+
+  HQ6                       INCIDENTS                                                          ATTENDED OUTSIDE                                                                          FORCE                    AREA.
+
+  HQ 7                      TRAFFIC                                                ACTIVITY                                             ANALYSIS.
+
+  HQ 8                      MOTOR1
+   IN C P R IN T                                                                                                                                                                                T r rs-             i
+
+
+
+
+  M A J P R INT
+
+
+
+  MS 7
+                            7I                              i- 9 ,                             A .3 I U , F I R E                                                 T: .
+
+                            G IV L s                                               PRINTOUT                                             OF          INC IDE N
+
+  MS 9                      .J• ir . C                                         ' i\
+                                                                                       ii .tu* ti U 0t;T 'J
+                                                                                                         mC I 1T.»* ’‘•.. :«
+                                                                                                                          ’! 'i Tt U"i TU(
+                            A    •> (                               *»
+                                i t     L .‘         l.-‘   .   M        .
+
+
+
+
+  M S 10                    OFFLINE RECALL WHICH PRINTS                                                                                                                                         T*E
+                            T O O F F L I N E R E C A L L 1 Y r r. + U K                                                                                                                        0N V
+
+  M S 11                    I U 1/ U ^Z 3 -r.L - \ Z
+                                               p .      1' r-                ' C           i           £   ■'       T    C     ’■ ' >
+                                                                                                                                             ; t IJ l.sii .v. 4f\•_J
+                                                                                                                                             '               T            ~   ‘ 1   "T   ;' \     T   •   >   N     V
+                                                                                                                                                                                                                        ■      ION
+                            SUB                                          T
+                                                                         »         ^ : v ii
+                                                                                   C   r       r-S M       A    M       r* ,
+                                                                                                                                        j
+                                                                                                                                        C   C P
+                                                                                                                                            w. \,
+                                                                                                                                                    T
+                                                                                                                                                     .   i
+                                                                                                                                                         T       ;* * ;
+                                                                                                                                                                 v .1
+                 -S'                                       J ^ \A)/y                   k\                                           v XZj c                 V-                                      C ^                 u ^<dk ^
+
+                     ^               j-vaV                   lA y ^               3 ^ y i , cj?                                                     /2> j Y A ^ | ^ i <H v ^                                                ^
+
+
+                     sd                  oA4                      ©^          7: C£?>VO                           ‘                     ^=cWl/Ujv/ C^v i Ks S^cl^
+
+
+             -G ^                             AaJL           ^   x   . A/ '
+
+
+
+     j c J L ^ U ^ ,                                          s-o             a a ^ £ I v >                                 i ^ 0                                                          £ t - -7 ~ c J U x ^
+
+
+             M^-p                            b^                  Y'lAA^K*'                                   ^                  / V o W ^ J                                            '•'1                             ^       ^       ~
+
+
+A            t V * c ^ . ^ c                                     ^ A / i K - J                               C U 3 ^                                ^ l e ^ c ^ U -
+
+
+     j       u       .       1 « S v i - i                                    — t                           C X ^ J                         c ~ . < w « ,                                           ^                       •-**■*>
+
+
+             ^           W           j           l               - -          b            -        H                 » f                   <                ^               '
+
+                 ■           •                                                                               *-0 - p - W ^ J ~ « p -
+
+
+              *                                      l—           f/\                      n <a^C/V^ A                                  «=H^\5 c>^ * y
+         SrCA/VlC^                                               ‘A / ^ -                  P                                                         ^                                                                                  ^
+
+                                                                                   ,                    .    j              (4 ^                    n                    ^             ^                                            p
+         ^                   l/L.,'f V Y / i A M                                                                                                        ,        .               i -            1       /                   t c
+                                                                                       „       /!                           j       _       ,       I/'              tA      A ( M          ° ^ ^ 1
+
+
+
+                                     -J               ^                       ^                                    ^                                                  /                                                                 ,_
+                                                                                                                  ilU                                       a -u A ^ <7^ D
+             C . A A K                                                                                                                          *                                           .                   I
+
+
+                         ✓UX                                                                                                                                         d                                      y       U
+
+
+     n           .,                          \            5 “ ^ C<• A j-               ^/ lU, « ^ A                                                                                    .
+                                                                                                                                                                                           rV^                  P
+    J^V      w     V     u       '                                                                                                          |               /—           -VVD
+                                                                                           h            A         *                             jVa                  (ASLQcJ^                                       ^
+                                   r w . ^                            ^           n J               tn      r v   i c           ^       v       ^       i
+     <_, - 4 _ !                 j / u ^                                      -                                                                     J                                           ^ j .                           y
+
+
+                 ^                       v           A       —                    'M                ^                 '-I                                             ■                                                         '
+(j)   The regular giving of lectures to probationer and
+      development courses at all stages,   and the issue of a
+      crime prevention booklet for the guidance of all
+      members of the force.
+
+
+(k)   To prepare articles for inclusion in local publications
+      and newspapers in collaboration with the force public
+      relations officer.
+
+
+(1)   To give advice on security to builders and architects
+      in the planning stage of buildings and if necessary
+      survey buildings from plans; to maintain liaison with
+      architects and local authority planning departments.
+
+
+(m)   Explosives - liaise with Health and Safety Executive
+      and other agencies in connection with explosive stores
+      and registered premises, keeping of records and
+      involvement in lost/found and stolen explosives.
+
+
+
+
+                                                          5
+                                                                                                                                 '                                                        ;
+                                   cH                                              -<nj2 \_ \                       t\                           >i 1/         ^                                                       ^
+                                                                                                       J                                                                                                       x_y
+            <?n_            ^ o^ i^0^i/{ (Ox^                              -           cA^-e                    l v>-v((?I                       v\.j V~                              t>* <tc^-
+
+
+        W        ncu-cH t      v^                      c   ^ A - i^)         cK-y
+
+
+
+    5   "   .           I      s   -   c   -       l       ^         I         c   -   c   v       j   c    l            ia^ q-J a j '                         w   ^   ' - c   £   <? v   1   o   c   A        ^   ^       ^   c ; f c o
+
+
+
+
+        U               5
+                       <^              ^ jkP c.a.*=-$                                      jj) <z^yj-\%kC^\.'\_1/ to <^,1/                                                                    <a,a^q
+
+
+            L^                                         /v.« eJLe                   &                   <S-—-^v4/\ ^c3                                                                                              ^                   '■"
+
+                |/L^                                                     f         ZTl^lhjZ J                                                t                     A                              pdXtXQ-*.
+
+
+                       / \ / \ vvt'Xj*-                        P ^ ^ A ^ p /V ^ l-^ V v fe                                       C/VA                          iAAQA a JlS? ^ ^                                f/t-^ -A
+
+
+
+            b M i c^^JJ ^                                                                                                  <*•*                                         c&vw* ^                                            A
+
+
+t.                     k _                     ^                                           « & o                     < ~ k J )
+
+
+        ru,                 t . y W y                                        »f ^                               v        W           ,                ■ f                      A-
+
+    ^                   u.J,                                                                           K ^                   e~tMh'M -
+                                                       ,         „           .t-^-J                             4 J f t < c^                          Jtie$‘                   •
+        V\A-S               % o ^ y J                                                      Q                                 *
+
+
+                                                                                               .  r j                      kj
+n   v                       Uv-'                       K < ^ / a ^                             5>«-^                       ^
+                                                                                                                                                                                                          '—           j
+                 ;     £           ,       -                   •*-.                                                       " /            W        &                                                       .
+                                                                       _           ^                       (/Vj 5 CHX) cM                         ^        1
+                 U ,
+
+
+                                                                                                                    °j               ^                r '
+
+                                                                                                                                                           /°evt~                    ^ ' 1
+                                                                                                                                                                          o_ > 6                      N ^ °(
+#
+
+
+    (n)   To prepare articles for inclusion in local publications
+          and newspapers- in collaboration with the force public
+          relations officer.
+
+
+    (o)   Administrative responsibility for recording of intruder
+          alarm systems and maintaining these records.
+
+
+    (p)   To maintain and collate information on bleeper alarms.
+
+
+    (q)   Where applications are made for a firearms certificate
+          or for the change of address of a certificate holder
+          the crime prevention officer must visit the premises
+          where the weapons and/or ammunition are to be stored,
+          and advise and report on security arrangements.
+
+
+    (r)   To study local crime generally and liaise with local
+          officers in the consideration and application of crime
+          prevention methods to deal with it.
+
+
+
+
+                                                             3
+

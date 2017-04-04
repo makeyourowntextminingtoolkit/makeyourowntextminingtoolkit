@@ -1,0 +1,339 @@
+CHAPTER 6
+
+
+Miscellaneous
+
+
+Television programmes
+
+1.    Not unnaturally the Hillsborough disaster has attracted a lot of media coverage over
+      the years. Three television programmes I think are particularly significant, and I
+      think it right to offer brief comments on these.
+
+2.    The first is a ‘First Tuesday’ programme, ‘Disaster at Hillsborough', broadcast by
+      Yorkshire Television in February 1990. It is in my view a fair and balanced
+      account, using much original material, including scenes taken from police camera 5
+      after 15.02 (being part of the clip shown to the jury as C539). The commentary
+      closely corresponds with Lord Taylor’s findings.
+
+3.    The second is an episode of the ‘Cook Report' (Yorkshire Television) shown in June
+      1994. This concentrated on the case of Kevin Williams. A number of statements
+      made in the course of the programme are in my opinion not substantiated, for
+      reasons I set out when discussing the Kevin Williams case earlier. For example -
+
+                Roger Cook ‘Evidence previously disregarded or altered with duress and
+                witnesses previously ignored demonstrate that Kevin and others could be
+                alive today”.
+
+                Sir Malcolm Thornton MP “ The truth seems to have been suppressed    -
+
+
+                policemen and women on the spot were ‘leaned on ’ by their colleagues to
+                change their evidence.”
+
+                 Roger Cook “If evidence that (Kevin) was alive at five to four had been
+                 allowed to stand, events after 3.15 would have had to be investigated” (by
+                 the Inquest).
+
+
+4.    The third is the Granada Television programme ‘Hillsborough ’ shown on 5
+      December 1996. This is a highly emotive and powerful drama based on
+      Hillsborough and the Inquest. It portrays most graphically the appalling grief of the
+      bereaved and their disillusion with the Inquest. It is not always easy for the viewer
+      of this programme to tell what is reconstruction and what is original video footage
+      taken on the day.
+
+ 5.   I do not have much doubt that this programme played a substantial part in the
+       decision to set up my scrutiny. It is not for me to comment on the accuracy of the
+       impressions which it gives as a whole. But in so far as it suggests that police
+      videotapes were suppressed or destroyed, it is not accurate. The programme also
+      relies on Mr Houldsworth’s assertions, made for the first time at about this time,
+      that he could see from police cameras 5 and 3 as relayed in the Club Control Room
+      that pens 3 and 4 were already full before Gate C was opened. For reasons I have
+      set out at length, I do not accept this evidence.
+
+
+Ten unresolved questions?
+
+6.    At the time of the ‘Hillsborough’ television programme in 1996 the programme
+      makers, Granada Television, wrote to Mr David Maclean MP, then a Minister at the
+      Home Office, with a list of what they said were ten unresolved questions about the
+      disaster. Most of these questions were in my view clearly answered by Lord Taylor’s
+      Inquiry. Nevertheless I have looked at them and set out the answers in Appendix 10.
+
+
+The state of the ground
+
+7.    At a late stage of my scrutiny I was invited by the South Yorkshire Police to consider
+      the evidence of Mr Noel Bume, BSc(Eng), ACGI, FICE, FI.StructE., FCIOB, FFB,
+      ACI ACG, FBAE. Mr Bume is a structural engineer who was instructed in July 1989
+      to report on and advise the South Yorkshire Police Authority on the safety and
+      structural aspects of the Hillsborough ground, in particular with a view to the
+      anticipated civil proceedings. He produced a report, dated August 1990, and gave oral
+      evidence in the contribution proceedings heard before the Hon Mr Justice Jowitt
+      which began on 2 October 1990. His evidence was therefore not available at the time
+      of Lord Taylor’s Inquiry and he was not called to give evidence at the Inquest.
+
+
+Mr Burne 's evidence
+
+8.     In his Report Mr Bume dealt with the following matters:
+
+              (a)      Turnstiles - poor labelling and inadequate number
+
+              (b)      Lack of proper direction signs in the concourse
+
+              (c)      Lack of control system for monitoring numbers in each pen
+
+              (d)      Overall capacity of Leppings Lane Terraces overestimated
+
+              (e)      Incorrect slope of the tunnel
+
+              (f)   Exits from the pens not signed and inadequate for emergency
+              evacuation
+
+              (g) Crush barriers - poorly placed, too low, of inadequate strength and
+              insufficient in number
+9.     In Mr Bume’s view there were many breaches of the advice and recommendations
+       contained in the Guide to Safety at Sports Grounds (Green Guide) to such an extent
+       that his overall opinion was:
+
+               “As a whole, the West Terrace was unsafe by reason o f neglect to conform to
+                the primary recommendations and obligations o f the Green Guide, among
+               others. ”
+
+10.    On 5 October 1990 Mr Bume gave evidence before the Hon Mr Justice Jowitt in the
+       contribution proceedings. Before his evidence was completed or tested in cross-
+       examination, the proceedings were settled. It is reasonable to assume that Mr Bume’s
+       opinion was a material factor in persuading the Club and Eastwood and Partners to
+       make a substantial contribution to what was then estimated to be the overall cost of
+       the claims.
+
+11.    For the most part the matters that Mr Bume criticised were fully considered by
+       Lord Taylor’s Inquiry, and Lord Taylor made a number of findings consistent with
+       Mr Bume’s criticisms, some of which I have referred to in Chapter 1 (paragraphs 47
+       and 48). But there are two matters which Mr Bume pointed to which the police
+       suggest were either not considered or not fully considered at Lord Taylor’s Inquiry.
+
+
+Height o f the crush barriers
+
+12.    The first relates to the height of the crush barriers. The recommended height for crush
+       barriers in the Green Guide is between 1,02m and 1.12m with a preferred height of
+        1.1m. This is measured above the nosing of that part of the step immediately behind
+       the barrier. According to Mr Bume, adopting this method of measurement, the .
+       effective height of crush barrier 124A (the one which collapsed in pen 3) was between
+        .865 - .915m, and more importantly the height of the barrier immediately behind,
+       namely 136, was only .745 - .775m; barrier 136A (which was diagonally between
+       barrier 124A and the entrance to the tunnel) was .765 - ,785m.
+
+13.    Mr Bume identified three disadvantages resulting from too low a crush barrier. First,
+       if the barrier is at the level of the upper leg and below the groin it is not anatomically
+       in the best position and the person behind it cannot use his arms to push away from
+       the barrier. This is not particularly relevant in the circumstances of extreme
+       overcrowding. Secondly, the upper part of the body of a person behind the crush
+       barrier is not restrained by it, so that the load is transferred from those behind to those
+       in front, thereby imposing an excessive load on the next barrier. Finally, there will be
+       a downward component in the forces exercised on the barrier in addition to a
+       horizontal one, which tends to make it more vulnerable to collapse under conditions of
+       extreme pressure.
+
+ 14.   There is little doubt that the failure of barrier 124A contributed to the substantially
+        larger number of deaths in pen 3 and in particular in the area between barrier 124A
+        and the perimeter fence. These points could therefore be of some significance.
+15.    Dr Nicholson, who was a Chartered Engineer and Deputy Director of the Research
+       and Laboratory Services Division of the Health and Safety Executive, made a written
+       report to Lord Taylor’s Inquiry. He also gave evidence at the inquest. He did not deal
+       with these specific matters; but in his oral evidence at the inquest he considered that
+       one of the important causes of the collapse of barrier 124A was that there was a gap in
+       the barrier behind, between barriers 136 and 136A, with the result that there was
+       nothing to break the density of the crowd bearing on barrier 124A. and it may well be
+       that this is a more important factor in causing the failure of barrier 124A than those
+       suggested by Mr Bume relating to the height of the barriers.
+
+
+Capacity o f the Leppings Lane terrace
+
+16.    The second matter which Mr Bume pointed to relates to the overall capacity of the
+       Leppings Lane terrace. The overall capacity for the terrace had been calculated by
+       Eastwood and Partners, the consulting engineers to Sheffield Wednesday Football
+       Club, and accepted by the City Council at 10,100. This was divided between 2,900 to
+       the North West Terrace and 7,200 for the remainder, calculated at the rate of 54
+       spectators per 10 sq meters. The size of the area in question was not based on a
+       survey of the ground by Eastwood and Partners, but on a drawing produced by the
+       Club. In December 1989 (after Lord Taylor’s interim report) the area was measured
+       and this revealed that the size of the North West Terrace as shown on the Club’s
+       drawing was too great. Adopting the correct measurement, at the rate of 54 spectators
+       per 10 sq meters the capacity of the North West Terrace was only 2,242. There was
+       therefore an excess of 658 or 22.6% allowed in this area.
+
+17.    In paragraphs 137 to 142 of his Interim Report, Lord Taylor dealt with the correct
+        calculation of the capacity for pens 3 and 4. These had been calculated by Eastwood
+        and Partners at 1,200 for pen 3 and 1,000 for pen 4. These figures would have been
+        too high even if the terraces complied with the Green Guide recommendations. If
+        they had complied with the Green Guide the figures should have been 1,015 and
+         1,036 respectively. But they did not and Lord Taylor calculated that the capacities of
+        pens 3 and 4 should have been 822 and 871 respectively, a total of 507 less than the
+        2,200 allocated.
+
+18.    It is not clear whether the other pens on the Leppings Lane terraces, numbers 1 , 2 , 6
+        and 7 complied as to layout, position and size of crush barriers, means of access and
+        gangways with the Green Guide. It seems unlikely that they did. But even assuming
+        that they did, and that it was appropriate to calculate the capacity of these pens on the
+        basis of 54 spectators per 10 sq meters, it is apparent that the capacity overall was
+        overestimated by 1,165, ie 658 in the North West Terraces and 507 in pens 3 and 4.
+        The result would be that an excessive number of tickets were sold over the safe
+        capacity.
+
+ 19.   The individual pens were not segregated and did not have separate turnstiles, and
+       spectators naturally tended to congregate in the central pens 3 and 4 because these
+       were the ones behind the goal. The overstatement of the capacity of the Leppings
+       Lane terraces is clearly therefore a matter of some importance. Lord Taylor was
+       aware of part of the problem, but it does not seem that he was aware of the
+       overstatement of the size of the North West Terrace and it is not clear whether an
+       adjustment for non-compliance with the Green Guide should have been made in
+       relation to the pens other than 3 and 4.
+
+20.    These matters do not give grounds for re-opening the Judicial Inquiry or any other
+       proceedings. Indeed it is not suggested by the police that they do. Lord Taylor
+       might, if he had known of them, have criticised Sheffield Wednesday Football Club,
+       their consultant engineers, and those responsible for licensing the ground in more
+       stringent terms than he did, but I do not consider that there would have been any
+       question of his changing his central conclusion, borne out as it is by the overwhelming
+       mass of the evidence, that the primary cause of the disaster was a failure of police
+       control. However, if the responsibility of the other parties was somewhat greater than
+       had earlier been appreciated, that might have a bearing on any reconsideration of
+       criminal proceedings against police officers.
+
+
+
+Further complaints about the Inquest
+
+21.    In further very late submissions dated 11 December 1997, Junior Counsel for the
+       Family Support Group raised two further complaints about the Inquest. The first
+       concerns the Coroner’s summing-up. Counsel said that in relation to the state of the
+       central pens at 14.52 he directed the jury to reach ‘a factual conclusion which was
+       in direct conflict with the conclusions reached by Lord Taylor’ and by so doing he
+       distorted the evidence.
+
+22.    This has nothing to do with any fresh evidence and strictly speaking therefore does
+       not call for comment from me. But lest it be given credence it is I think only fair to
+       the Coroner that I say something. Counsel cites three passages. When his
+       summing-up is read as a whole, it seems to me that the Coroner dealt fully and
+       fairly with all the evidence.
+
+23.    He did not direct the jury to make particular findings of fact and he did not usurp he
+       jury’s function. Had he done so, I have no doubt that it would have been
+       challenged in the Divisional Court. Complaint was made there of his directions to
+       the jury on law, but not of his summary of the facts.
+
+24.     Secondly, Junior Counsel for the Family Support Group criticised the Coroner’s
+        ruling about the use of transcripts in cross examination. This again has nothing to
+        do with fresh evidence. It is a point which if there was any substance in it, could
+        and should have been raised in the Divisional Court.
+
+ 25.    Under cover of a letter dated 17 December 1997 the Solicitor for the Family
+        Support Group sent me “an analysis of the major variances between the findings of
+        Lord Justice Taylor and the summing-up of Dr Popper”. The analysis does not
+        contain any fresh evidence. Moreover it appears to confuse the function of Lord
+      Taylor in weighing conflicting evidence and making his findings according to his
+      view of its reliability, and the function of the Coroner who has to sum up the
+      evidence so that the jury can reach their verdict. The two things are quite
+      different.
+
+26.   The fact that there is evidence both consistent and inconsistent with Lord Taylor’s
+      findings is a consequence of having an Inquest which covers much the same ground
+      as the Inquests. I comment on this below.
+
+27.   It is perhaps some indication of the substance of these points that they were raised
+      for the first time on 11 and 17 December 1997.
+
+
+An Inquest following a Judicial InquirY
+
+28.   I do not agree with the criticisms of the Coroner and his conduct of the Inquests
+      advanced by the families (most of them had already been rejected by the Divisional
+      Court) and I have found no fresh evidence to justify reopening them. But I have
+      come to the very firm conclusion that it is unsatisfactory to have an Inquest into the
+      question of how the deceased came to their deaths where there has been a major
+      disaster and an inquiry chaired by a High Court Judge, which will inevitably have
+      covered the same ground and indeed, as in this case, ranged much wider.
+
+29.    I have read the Report of the Home Office Working Group on Disasters and
+       Inquests (published in March 1997) and concur with their recommendation that in
+       such cases the role of the Coroner should be limited by securing the adjournment of
+       the Inquest when a public inquiry is established and limiting the circumstances in
+       which the inquest can be resumed. I also agree with the Working Group’s
+       reasoning for making this recommendation. I would like to make the following
+       points specifically in the case of Hillsborough:
+
+              a)     At the Taylor Inquiry 179 witnesses gave evidence over a period of
+              31 days. Of these over 50 were Liverpool supporters. Their evidence
+              occupied about four days in total. Their evidence was graphic, clear and
+              substantially to the same effect. By contrast at the Inquest over 200
+              witnesses gave evidence over a period of 72 days. Of these over 100 were
+              Liverpool supporters and included only a few of those who gave evidence
+              before Lord Taylor. I estimate that their evidence in total took in excess of
+              15 days. Again their evidence of the critical events was often graphic and
+              substantially to the same effect. But it took much longer because it was not
+              concentrated on the vital points and much of the questioning was repetitive.
+
+              Dr Popper told me that he considered it necessary to call so many supporters
+              so that their side of the case should be fully put. While I understand this
+              desire, it must be open to question whether in considering the question ‘how’
+              a deceased came to his death, it is necessary to call so many witnesses whose
+              evidence is essentially the same.
+      b)      Although the issues at the Inquest are likely to be of far more limited
+      scope than at a judicial inquiry, and in particular questions of civil liability
+      and individual criminal liability are not matters for the Inquest, in practice it
+      is very difficult for the Coroner to draw the line, especially if, as in this
+      case, there are a considerable number of parties legally represented, all of
+      whom have interests to pursue or protect.
+
+      c)     In practice it is the decision of the DPP that it important in
+      determining whether or not there should be a prosecution for manslaughter,
+      though the DPP can reconsider a decision not to bring a charge if further
+      evidence not previously considered emerges at an Inquest and the jury reach
+      a verdict of unlawful killing.
+
+      d)     It is most unlikely that a Coroner will have experience comparable to
+      that of a High Court Judge in controlling an Inquiry of this magnitude. It is
+      an extremely onerous task.
+
+      e)     A tribunal of Inquiry is an inquisitorial body, usually charged with
+      the responsibility of finding out what happened and why and making
+      recommendations to avoid similar disasters in future. The tribunal will
+      make detailed findings of fact and very probably express an opinion as to
+      where responsibility or criticism lies. It seems pointless to go over part of
+      the same ground again, especially having regard to the limited scope of the
+      Inquest and available verdicts. Although as I have already said, the
+      perception is misconceived, there is no doubt that a number of the families
+      have perceived the verdict of accidental death as in some way reversing or
+      negating the findings of Lord Taylor.
+
+      f)      Quite apart from other considerations, a major inquest of this sort
+      involves very considerable expense both in time and money. Witnesses have
+      to attend; local taxpayers have to bear the expense of the Inquest, interested
+      parties the expense of legal representation for which legal aid is not
+      available.
+
+      g)     There is distress and anxiety caused by the delay. In this case it was
+      over two years before the verdict at the Inquest. Not infrequently in this
+      type of case, there is a challenge in the Divisional Court which increases the
+      delay and adds to the uncertainty. If the challenge is mounted by legal
+      advisers who did not appear at the Inquiry or Inquest, points may be taken
+      which could not have been taken by those who had appeared before, possibly
+      giving rise to false hopes of the applicants. It is not only the bereaved who
+      suffer from this long drawn out process. Those whose conduct has been
+      called in question should not have the anxiety hanging over their heads
+      indefinitely.
+
+In the case of Hillsborough the Coroner was confronted with a most formidable
+task. The Divisional Court rejected the criticisms made of him and complimented
+him on his summing up. The undue prolixity of the proceedings flowed in part
+from the difficulties in controlling such an Inquiry with many parties represented
+and in part from the Coroner’s understandable desire that the Liverpool supporters
+side should be fully presented to the jury. It is not the sort of case which a Coroner
+should be asked to undertake where there has already been a full judicial inquiry.
+But as the law now stands he has no option.
+

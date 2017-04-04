@@ -1,0 +1,769 @@
+                                                                              .CD.
+
+
+INQUIRY INTO THE HILLSBOROUGH                 T he Rt H on Lord Ju stice Taylor
+STADIUM DISASTER
+                                              50 Q ueen Anne’s Gate
+                                              London SW1H 9AT
+                                              01-273 2577/3602/2370
+
+Mr Ken Walker MBE
+Chief Executive
+Sound and Communications Industries
+ Federation
+4-B High Street
+Burnham  l
+SLOUGH S?M 7JH                                Date
+                                               10 November 1989
+
+
+
+
+Dear Mr Walker
+
+Thank you for your letter of 24 October with enclosures to Lord
+Justice Taylor about the possibilities for research into the
+technical requirements of sound systems for use at sports
+grounds.  I am sorry that you have not received an earlier reply.
+
+As you may be aware, a technical working group has been
+established by Lord Justice Taylor to examine a wide range of
+issues associated with ground safety, and your proposals have
+been forwarded to its members for consideration.   It is too early
+to say whether they will recommend research along the lines you
+indicate, but we shall certaifily bear your suggestions in mind.
+
+                                           Your sincerely
+
+
+
+
+                                           R M WHALLEY
+                                      Secretary to the Inquiry
+4-B HIGH STREET,   BURNHAM     SLOUGH     SL1 7JH   TEL: 06286 67633
+
+
+The St Hon Lord Justice Taylor
+50 Queen Anne’s Gate
+London
+SWIM 9AT                                                       1%      24 October 1989,
+
+
+IN Q U IR Y IN T O THE HILLSBOROUGH STAD IU M D IS A S T E R
+
+
+Your Lordship,
+
+In our previous com m unications to youj 25 April and 5 September 1989, we
+expressed concern that the "Guide to S a fe ty a t S p o r ts Grounds" was inadequate
+and the hope that the sound and com m unications industries would be invited to
+
+
+Having established    a Working Group      for Safety a t     Sports Grounds (Sounc
+f5 1.  \      7                             MMMKXniMJ 4>        Wv.M.«    MM.«.«■*«!>». 4*tn.«•
+
+were made at that time to both the Home Secretary and the Minister for Sport,
+
+mL-
+The      1    Group now submit it's outline of the desired research for your
+
+
+necessary research.
+
+
+
+anticipation that your Lordship may consider as a possible recommendation,
+
+
+actively preparing.
+
+The a c t i v i t i e s , findings and suggestions of the Working Group are being made
+                 for wider observation and comment, from within the sound and
+communicat
+
+                                                                                from 2-5
+      November
+            attended by all the principal Consultants     ts and Consu       g Engineers
+havinst r e so o n sifo ilitv for snorts stadia i in 'the HI
+
+
+
+Yours sincerely,
+
+
+  /?
+
+Ken Walker MBE.,
+Chief Executive.
+                                                          H ome O ffice
+                                                         Q UEEN A N N E ’S GATE
+                                                          L O N D O N SWIH PAT
+
+
+
+      Our Ref:   FEP/89 35/278/5 (S)
+
+
+                                                        Hi 3 OCT »
+
+
+
+
+      Thank you for your letter of 15 September to the
+      Home Secretary with one from Mr K Walker MBE, Chief Executive
+      of the Sound and Communications Industries Federation about
+      noise levels at sports grounds which a working group of the
+      Federation proposes to investigate.
+
+      In his letter of 27 June to Mr Walker John Patten explained
+      that we felt that it would not then be right to set up a
+...   Home Office study group.  I enclose a copy of his letter for
+      information.
+
+      Following its Interim Report, the Hillsborough Inquiry is now
+      looking into the general questions of safety at sports
+      grounds.  It is for the Inquiry to decide if it wishes to
+      commission research.
+
+      We shall consider carefully the recommendations contained in
+      the Final Report including any recommendations on research.
+
+      I think that we should wait and see what the Inquiry
+      recommends before we decide how to proceed.
+
+
+
+
+                                              FERRERS
+
+
+      Tim Smith Esq MP
+ SOUMf           '        .IIMUNICATIONS .INDUSTRIES fE B E R A T tf
+        1K3H STREET BURNHAM SLOUGH SL1 7JH TEL: 0628 667633 FAX: (                                                                   -
+
+
+
+
+      WORKING GROUP ON SAFETY.IN SPORTS GROUNDS (Sound Systems)
+
+Outline of research required to inform a new "Guide to the design
+and specification of sound systems for safety at sports grounds
+(and other places of public assembly)"
+
+
+Introduct ion
+
+The only practicable method of communicating with any large mass
+of people in an emergency situation is via an effect ive sound
+f.
+syst e m . In o r d e r to be e f f e c t i v e , the
+provide comprehensive
+                                                        s o u n d s y s t e m mu s t
+                             c o v e r a g e of a 1 1 p u b l i c areas, w i t h
+negligible distortion, and at high enough sound levels to overcome
+any compet ing background noises, e i ther due to the c r o w d , or
+arising elsewhere. Given these basic requirements, the system must
+then be operated by competent personnel to give the right messages
+at the right times to control the situation and encourage public
+egress     wi thout    panic or     creating        further      emergencies.
+Unfortunately, there are a number of confIicting                  requirements.
+First, overspecification of the m a x i m u m sound level output
+capabi1ity can dramatically increase the cost, and will therefore
+delay the provision of such systems on a nationwide basis. Second,
+overspecification could lead to u n n e c e s s a r y p u b l i c n ui s a n c e
+outside the confines of      the sports ground           under non-emergency
+circumstances, without considerable care in the s e l ec t i o n and
+siting of loudspeakers, and the specification of ambient noise
+sensing and signal processing for the control of output level.
+Third, the relaying of emergency m e s s a g e s at too high a sound
+level could be counterproductive in controlling panic situations.
+Underspecification will, of course, result in an i n effective
+
+
+T h e r e is
+messages.
+different zones of the public areas. There is a case here for
+digitally pre-recorded messages, with alternative high quality
+microphone inputs to the system to deal wit h the unexpected.
+There are a number of problems e ssociated with special non-speech
+warning sounds and sequences. S1
+or have unexpected effects;
+their t -
+could 1
+have been used to alert staff without alerting the public,
+l i k e l y to i n t e r p r e t t h e m as a fault r a t h e r than b e i n g of
+Importance, if they notice them at all. Effective systems will
+ensure that messages can be heard correctly by the majority of the
+public present, but this does not mean that they w i 1 1 necessarily
+react in the way intended.
+
+
+ SOUND & COMMUNICATIONS MANUFACTURERS ASSOCIATION                          I N S T I T U T E OF S O U N D II C O M M U N IC A T IO N S E N G IN E E R S
+ SOU N D & CO MM UNICATIO NS DISTRIBUTORS A SS O CIA TIO N                ' ASSOCIATION OF PROFESSIONAL ENTERTAINMENT HIRE COMPANIES
+ SOU N D & CO MM UNICATIO NS CONTRACTO RS A SS O CIA TIO N                 CO M M UNICA TIONS MARKET ING & SE RV IC ING A SS O CIA T ION
+
+            CHIEF EXECUTIVE: KEN WALKER MBE    R E S . MO, 1 0 3 3 3 0 0 ENGLAND   4-B HIGH STREET, BURNHAM, SLOUGH S i t 7JH
+The guidelines for the design and specification of sound systems
+must include some means of being able to determine the sound level
+output and coverage requirements of the system, and should also
+provide guidance for the selection and zoning of a p p r o p ri ate
+messages to deal with as many as p o s s i b l e of the potential
+emergency situations that might arise. Since the pr ov i s i o n of
+effective systems could be    a matter of life or death at some
+future emergency, it is considered v i ta lly important that the
+guidelines should be based on the results of a carefully planned
+programme of field research and experimentation, rather than being
+based solely on theoretical considerations, as would have to be
+applied if the research was not carried out.
+
+Research objectives
+
+The objectives of being able to specify the technical requirements
+of the sound system, and to specify appropriate messages can be
+c l e a r l y s e p a r a t e d in terms of the n e c e s s a r y time scales.
+Theoretical estimates of the technical requirements of the system
+could be investigated by a limited study of crowd noise levels at
+a representative selection of sports grounds and similar places in
+the United Kingdom. This work could lead to an e m p i r i c a l l y
+verified crowd noise prediction method within a relatively short
+period, provided that the project was r e so ur ced to allow for
+measurements at a number of sites simultaneously at each venue.
+The parameters which would need to studied would include crowd
+d e n s i t y and level of e x c i t e m e n t , the e f f e c t s of d i f f e r e n t
+structures (such as grandstand roofs) and seating arrangements,
+and the typical variability of noise levels from one meeting to
+the next in different public areas. This prediction method would
+allow precise specification of system technical requirements to
+avoid dangerous underprovision or costly overprovision. A number
+of final checks should be made by operating existing or temporary
+systems in accordance with a provisional specification to ensure
+that system intelligibility re q u i r e m e n t s (as ev al u a t e d both
+subjectively and objectively) can be met within the guidelines as
+proposed at that time. There is little doubt that such a programme
+could be carried out successfully within a few months, depending
+only on the level of resourcing to allow work to be carried out
+either serially, or in parallel.
+
+The objective of being able to specify appropriate messages can
+only be met by a much longer term r e s ea rch project. Effecti ve
+coverage must be the first priority, since there is little point
+in being able to select from a range of specific messages to suit
+different situations if only a proportion of them will be heard.
+There are also a number of research difficulties, as the objective
+is to investigate the effects of different types of message on
+large numbers of the public under emergency situations. It will
+clearly be necessary to devise some form of c o m p l e t e l y non-
+hazardous yet convincing emergency s im ul at io n using c ar efu ll y
+selected and instructed volunteers for any experiments, and to
+overcome any doubts as to the validity of such data to real-life
+emergencies. There is little prospect of significant progress in
+this area within any short timescale. The best way to proceed
+would be to conduct a comprehensive literature review in the first
+instance, leading to a prioritised list of recommendations as to
+possible experimental techniques to overcome these problems.      The
+review should take account of all available reports and evidence
+relating to human behaviour under emergency situations and the
+extent to which it can be modified by the provision of different
+types of message, bearing in mind the effects of training and
+prior experience and the extent to which these factors influence
+the comprehensibility of particular messages.
+RecommendatIons
+
+A purely theoretical assessment of the technical requirements for
+effective sound systems for safety at sports grounds could lead to
+dangerous underspecification,    or e xp e n s i v e and po t e n t i a l l y
+objectionable overspecification of system hardware. We strongly
+recommend that a short term study to deve lo p an e mp ir ic al ly
+validated method of predicting crowd noise levels be put in hand
+as a matter of Immediate priority, on the lines outlined above.
+The results of this study will allow the output level and coverage
+requirements to be precisely determined for all likely situations.
+The working group can provide detailed proposals and costings for
+such a study on request.
+
+The matter of the selection of appropriate messages, and therefore
+the specification of how such systems should optimally be used
+must be left to the o p e r a t o r ' s d i s c r e t i o n on the b a s i s of
+experience for the time being as there is little justification for
+delaying the publication of new guidelines while the necessary
+long-term research is carried out. Nevertheless, we recommend that
+a comprehensive literature review be carried out as a first step,
+with the objective of identifying ex perimental techniques for
+future application that may overcome the difficulties referred to
+above. Any new knowledge gained as a result of that research would
+then be incorporated into updated v er si on s of the gu idelines
+whenever possible.
+
+Depending on the availability of resources, the crowd noise level
+prediction study should take first priority, with the literature
+r e v i e w on m e s s a g e s e l e c t i o n and e f f e c t i v e n e s s as a s e c o n d
+priority, purely because any work resulting from recommendations
+made on the basis of the literature review would be likely to
+require a timescale measured In years rather than months.
+                                                             ^       ^ ) /ju t          ^ \A f              u !W ^       K * ct
+            F A X '0 6 2 8 6 65882                                                                      !    ■   »
+
+^Vz piffljf                 ^ im\i   k t                     k,Vw$•                   <M'
+jp/s
+   k jffr   -c       ifrf   Im U h   0   *)a          m »w
+                                                                                                        I
+            SOUND & COMMUNICATIONS INDUSTRIES FEDERATION
+            4-B H:GH STREET               BURNHAM      SLOUGH        SL1 7JH   TEL 0 6 2 8 6 67633      -."''T       .
+
+
+            The Rt Hon Lord Justice Taylor                                          IV^W
+            50 Queen Anne's Gate                                                       ' .
+            London                                                                   T /> /
+            SWIH 9AT                                                                        ^        24 October 1989.
+
+
+            IN Q U IR Y IN T O           THE H ILLS B O R O U G H S T A D IU M D IS A S T E R
+
+
+            Your Lordship,
+
+            In our previous communications to you; 25 April and 5 September 1989, we
+            expressed concern that the "Guide to S a fe ty a t S p o rts G rounds" was inadequate
+            and the hope that the sound and communications industries would be invited to
+            assist in the preparation of technical specifications.
+
+            Having established a Working Group for Safety at Sports Grounds (Sound
+            Systems), your Lordship's attention was requested to the need to research the
+            "high level of noise" referred to in the Interim Report. Similar observations
+            were made at that time to both the Home Secretary and the Minister for Sport.
+
+            The Working Group now submit it's outline of the desired research for your
+            Lordship's consideration since in a reply given by Lord Ferrers it is indicated
+            that the Home Office awaits your recommendations before initiating any of the
+            necessary research.
+
+            The Working Group continues preparation of it's suggestions for a re-wording
+            of Section 12. Communications, in the "Guide to S a fe ty a t S p o rts G rounds" in
+            anticipation that your Lordship may consider as a possible recommendation.
+            Within this wording reference will be made to a proposed "Guide to Sound
+            Systems for Safety at Sports Grounds" which the Working Group are also
+            actively preparing.
+
+            The activities, findings and suggestions of the Working Group are being made
+            available for wider observation and comment, from within the sound and
+            communications industries. A particular opportunity has been created for a
+            presentation to be given, at a 'prime time',   to the Fifth Annual Residential
+            Conference of the Institute of Acoustics being held at Windermere from 2-5
+            November attended by all the principal Consultants and Consulting Engineers,
+            having responsibility for sports stadia in the UK. Any message which your
+            Lordship might consider appropriate and wish to convey to the industry, at this
+            time would be most welcomed.
+
+            Yours sincerely,
+
+
+                 ^              I              ^                 >                                                           J
+
+
+            Ken Walker MBE.,
+            Chief Executive.
+
+            encs.
+                                                         H ome O ffice
+                                                        QUEEN ANNE'S GATE
+                                                         LO N DO N SWIH PAT
+
+
+
+    Our Ref:   FEP/89 35/278/5 (S)
+
+
+                                                       113 OCT 1989,
+
+
+
+
+^   Thank you for your letter of 15 September to the
+    Home Secretary with one from Mr K Walker MBE, Chief Executive
+
+    •
+    of the Sound and Communications Industries Federation about
+    noise levels at sports grounds which a working group of the
+    Federation proposes to investigate.
+
+    In his letter of 27 June to Mr Walker John Patten explained
+    that we felt that it would not then be right to set up a
+    Home Office study group.  I enclose a copy of his letter for
+    information.
+
+    Following its Interim Report , the Hillsborough Inquiry is now
+    looking into the general questions of safety at sports
+    grounds.  It is for the Inquiry to decide if it wishes to
+    commission research.
+
+    We shall consider carefully the recommendations contained in
+    the Final Report including any recommendations on research.
+
+    I think that we should wait and   see what the Inquiry
+    recommends before we decide how   to proceed.
+
+
+
+
+                                             FERRERS
+
+
+    Tim Smith Esq MP
+       SOUND & COMMUNICATIONS INDUSTRIES FEDERATION
+       4-B HIGH STREET BURNHAM SLOUGH SL1 7JH TEL: 0628 667633 FAX: 0628 665882
+                                                                                                                                                                  K
+              WORKING GROUP ON SAFETY IN SPORTS GROUNDS {Sound Systems)
+
+     Outline of research required to inform a new "Guide to the design
+     and specification of sound systems for safety at sports grounds
+     (and other places of public assembly)"
+
+
+     I n t r o d u c t ion
+
+4P   The only practicable method of communicating with any large mass
+     of people in an emergency situation is via an e f f ec ti ve sound
+     s y st em . In o r d e r to be e f f e c t i v e ,          the s o u n d s y s t e m must
+     p r o v i d e c o m p r e h e n s i v e c o v e r a g e of all p u b l i c areas, w i t h
+     negligible distortion, and at high enough sound levels to overcome
+     any competing background noises, either due to the crowd, or
+     arising elsewhere. Given these basic requirements, the system must
+     then be operated by competent personnel to give the right messages
+     at the right times to control the situation and encourage public
+     egress        without         panic      or      creating    further      emergencies.
+     Unfortunately, there are a number of conflicting requirements.
+     First, overspecification of the m a x i m u m sound level output
+     capability can dramatically increase the cost, and will therefore
+     delay the provision of such systems on a nationwide basis. Second,
+     overspecification could lead to u n n e c e s s a r y publ ic nuisance
+     outside the confines of the sports ground                         under non-emergency
+     circumstances, without considerable care in the s election and
+     siting of loudspeakers, and the specification of ambient noise
+     sensing and signal processing for the control of output level.
+     Third, the relaying of emergency me s s a g e s at too high a sound
+     level could be counterproductive in controlling panic situations.
+     Underspecification will, of course, result in an ineffective
+     system.
+
+     T h e r e is a l s o the p r o b l e m of the s e l e c t i o n of a p p r o p r i a t e
+     messages. In many cases different messages may be appropriate for
+     different zones of the public areas. There is a case here for
+     digitally pre-recorded messages, with alternative high quality
+     microphone inputs to the system to deal wi th the unexpected.
+     There are a number of problems associated with special non-speech
+     warning sounds and sequences.            Such signals can be misinterpreted,
+     or have unexpected effects, unless the public have been trained in
+     their use in advance. Standardisation and pre-event demonstration
+     could be of considerable benefit in this respect. Warning tones
+     have been used to alert staff without alerting the public, who are
+     l i k e l y to i n t e r p r e t th em as a fault r a t h e r than b e i n g of
+     importance, if they notice them at all. Effective systems will
+     ensure that messages can be heard correctly by the majority of the
+     public present, but this does not mean that they will necessarily
+     react in the way intended.
+
+
+     S O U N D & C O M M U N I C A T I O N S M A N U F A C T U R E R S A S S O C IA T IO N             IN S TITU TE OF SO U N D & C O M M U N IC A T IO N S EN G IN EE R S
+     S O U N D & C O M M U N IC A T IO N S D IS T R IB U T O R S A S S O C IA TIO N                    AS S OC I ATI ON O F P RO FE SS I O NA L E NT E RT A I N ME N T HIRE C O MP AN I E S
+     SOUND S C O M M U N IC A T IO N S C O N T R A C T O R S ASSOC IA TION                             C O M M U N IC A T IO N S M A R K E TIN G & S ER VICING AS S OC IA TION
+
+                     CHIEF EXECU TIVE: KEN W A L KE R MBE                  RE G NO. 1 033300 E N G L A N D   4 - B H I G H S T R E E T . B U R N H A M , S L O U G H SL1 7 J H
+The guidelines for the design and specification of sound systems
+must include some means of being able to determine the sound level
+output and coverage requirements of the system, and should also
+provide guidance for the selection and zoning of a p p r o p r i a t e
+messages to deal with as many as p o s s i b l e of the potential
+emergency situations that might arise. Since the p r o v i s i o n of
+effective systems could be    a matter of life or death at some
+future emergency, it is considered v i t a l l y important that the
+guidelines should be based on the results of a carefully planned
+programme of field research and experimentation, rather than being
+based solely on theoretical considerations, as would have to be
+applied if the research was not carried out.
+
+Research objectives
+
+The objectives of being able to specify the technical requirements
+of the sound system, and to specify appropriate messages can be
+c l e a r l y s e p a r a t e d in te r m s of the n e c e s s a r y time scales.
+Theoretical estimates of the technical requirements of the system
+could be investigated by a limited study of crowd noise levels at
+a representative selection of sports grounds and similar places in
+the United Kingdom. This work could lead to an e m p i r i c a l l y
+verified crowd noise prediction method within a relatively short
+period, provided that the project was re so u r c e d to a ll o w for
+measurements at a number of sites simultaneously at each venue.
+The parameters which would need to studied would include crowd
+d e n s i t y a n d level of e x c i t e m e n t , the e f f e c t s of d i f f e r e n t
+structures (such as grandstand roofs) and seating arrangements,
+and the typical variability of noise levels from one meeting to
+the next in different public areas. This prediction method would
+allow precise specification of system technical requirements to
+avoid dangerous underprovision or costly overprovision. A number
+of final checks should be made by operating existing or temporary
+systems in accordance with a provisional specification to ensure
+that system intelligibility req u i r e m e n t s (as evalua ted both
+subjectively and objectively) can be met within the guidelines as
+proposed at that time. There is little doubt that such a programme
+could be carried out successfully within a few months, depending
+only on the level of resourcing to allow work to be carried out
+either serially, or in parallel.
+
+The objective of being able to specify appropriate messages can
+only be met by a much longer term r e s ear ch project. Effective
+coverage must be the first priority, since there is little point
+in being able to select from a range of specific messages to suit
+different situations if only a proportion of them will be heard.
+There are also a number of research difficulties, as the objective
+is to investigate the effects of different types of message on
+large numbers of the public under emergency situations. It will
+clearly be necessary to devise some form of c o m p l e t e l y non-
+hazardous yet convincing emergency s im ul a t i o n using c a ref ul ly
+selected and instructed volunteers for any experiments, and to
+overcome any doubts as to the validity of such data to real-life
+emergencies. There is little prospect of significant progress in
+this area within any short timescale. The best way to proce ed
+would be to conduct a comprehensive literature review in the first
+instance, leading to a prioritised list of recommendations as to
+possible experimental techniques to overcome these problems.        The
+review should take account of all available reports and evidence
+relating to human behaviour under emergency situations and the
+extent to which it can be modified by the provision of different
+types of message, bearing in mind the effects of training and
+prior experience and the extent to which these factors influence
+the comprehensibility of particular messages.
+Recommendat ions
+
+A purely theoretical assessment of the technical requirements for
+effective sound systems for safety at sports grounds could lead to
+dangerous underspecification,    or ex pe n s i v e and p o t e n t i a l l y
+objectionable overspecification of system hardware. We strongly
+recommend that a short term study to d e ve lo p an e mp iri ca ll y
+validated method of predicting crowd noise levels be put in hand
+as a matter of immediate priority, on the lines outlined above.
+The results of this study will allow the output level and coverage
+requirements to be precisely determined for all likely situations.
+The working group can provide detailed proposals and costings for
+such a study on request.
+
+The matter of the selection of appropriate messages, and therefore
+the specification of how such systems should optimally be used
+mu s t be left to the o p e r a t o r ' s d i s c r e t i o n on the b a s i s of
+experience for the time being as there is little justification for
+delaying the publication of new guidelines while the necessary
+long-term research is carried out. Nevertheless, we recommend that
+a comprehensive literature review be carried out as a first step,
+with the objective of identifying e xperimental techniques for
+future application that may overcome the difficulties referred to
+above. Any new knowledge gained as a result of that research would
+then be incorporated into updated v e r s i o n s of the guidelines
+whenever possible.
+
+Depending on the availability of resources, the crowd noise level
+prediction study should take first priority, with the literature
+r e v i e w on m e s s a g e s e l e c t i o n and e f f e c t i v e n e s s as a s e c o n d
+priority, purely because any work resulting from recommendations
+made on the basis of the literature review would be likely to
+require a timescale measured in years rather than months.
+                                                     j\\M. W t                                                                                                                 'ill
+
+: A X : G 6 2 8 6 65882                                                          4i -*-vJ- C - v \
+
+
+
+
+•OUND & COMMUNICATIONS INDUSTRIES FEDERATION
+         —   STREET               :rE .;E N H A 'v1              SLOUGH                SL:   ~’ J H            te l.    '3 6 2 g c      6 7 8 J 2                               '     ■
+
+
+
+
+The Rt Hon Lord Justice Taylor
+For the attention Mr Whalley
+Home Office
+50 Queen Anne's Gate
+London
+SWIH 9AT                                                                                                                                                  5 September 1989
+
+
+
+Your Lordship,
+
+In our letter to you of 25 April 1989 we expressed concern that the "Guide to
+S a fe ty a t S p o rts G rounds" was inadequate and the hope that the sound and
+communications industry be invited to assist in the preparation of technical
+specifications.
+
+The Federation has established a small Working Group in collaboration with a
+representative from the Institute of Safety & Public Protection and an observer
+on behalf of the Noise Council and the Institute of Acoustics.
+
+The Recommendations on Communications within your Interim Report are noted and
+the Working Group particularly welcome Recommendation 33 "....th a t th e re s h o u ld
+be a p u b lic add re ss system                                          ".
+
+Your L o rd s h ip has made a p o s it iv e and s p e c if ic , te c h n ic a l re q u ire m e n t th a t
+"Im p o rta n t announcements s h o u ld be preceded by a lo u d s ig n a l to catch the
+a tt e n tio n o f th e c ro u d d e s p ite a h ig h le v e l o f n o is e in th e g ro u n d ." The
+Working Group, respectfully, suggest that the "high level of noise" is a factor
+which is presently uncatalogued and needs to be investigated, researched and
+recorded, as a matter of urgency so that appropriate equipment can be
+determined. Such an investigation will however require funding. Is it within
+the remit of the Inquiry or is your Lordship able to prevail upon the Home
+Office to fund such a project ?
+
+The Working Group for Safety in Sports Grounds (Sound Systems) is gathering
+material towards definitive specifications or at least more positive guidelines.
+It is also seeking information regarding the responsibility for the approval,
+within the requirements of a Safety Certificate, of public address systems in
+sports grounds as there appears a wide variation in the officers appointed by
+Local Authorities.
+
+
+Yours sincerely,
+
+
+
+
+Ken Walker MBE.,
+Chief Executive.
+
+
+
+
+                                      V - N . ^ 'A C ' o DER 3    A S C O C IA 'iO M         IN S T IT U T E      OF         SOuNO          4       C O M M U N IC A TIO N S        "N G iN E cR S
+                M U -i'i.A r '           C iS T R IB ijT O R S    A SSO C IATIO N            ASSO C IATIO N        OF      P R O FE S S IO N A L   ENTERTAINM ENT        .OEE       CO M P A N IE S
+               M; . N ; 0 A C O N G     CONTRACTORS               ASSO C IATIO N             C - ' ' N i r ' . i ri OMC;                  fM r,     ...           ir *                         r 'M
+ SOUND & COMMUNICATIONS INDUSTRIES FEDERATION
+                                                                                                                                                                M M Li
+ 4-B HIGH STREET                       BURNHAM       SLOUGH                   SL1 7JH           TEL: 0 6 2 8 6 67633
+
+
+
+ Lord Justice Taylor,
+ For the attention Mr Whalley,
+•Home Office,
+ 50 Queen Annes Gate,
+ London,
+ SWIH 9AT                                                                                                                                  25 April 1989.
+
+
+Your Lordship,
+
+Arising from the unfortunate occurrence at Hillsborough on 15 April and the
+setting up of an inquiry under your jurisdiction.
+
+It is noted that the terms of reference include the making of "recommendations
+about the needs of crowd control and safety at sports events".
+
+In the light of, now, four major disasters in football stadia in UK the time has
+come for positive, statutory, requirement rather than guidance, which when
+examined is far far too vague.
+
+Guidelines on measures for improving the safety of spectators at sports grounds
+first became available on a more or less comprehensive scale with the Wheatley
+Report in 1972. Following the fire at Bradford City FC in 1985                and the
+subsequent Mr Justice Popplewell's Inquiry, working parties were established
+which produced further recommendations that were incorporated into the most
+recent edition, 1986, of the "Guide to S a fe ty a t S p o rts Grounds", published by
+HMSO.
+
+The Guide "provides voluntary guidance", "does not attempt to set a minimum
+standard" because of thevariety of type, function and layout of sports grounds
+and openly states."...the criterion to be aimed   for is that of a reasonable
+degree of safety. It would be unreasonable, even if it were practical, to seek
+absolute safety of everyone attending a ground." A damnable admission with the
+ever rising toll in death and injury.
+
+Over two years ago     the Federation appraised the situation following Bradford
+and the Home Secretary's intervention into safety by decreeing that certain
+grounds; all Football League, some lesser Leagues, some Rugby League, Rugby
+Union and Cricket grounds, and Wimbledon became 'designated sports grounds' and
+as such would require safety certificates to continue to be used. The immediate
+observation was the utter vagueness and lack of positive direction or
+requirement. The responsibility for certification is passed down from Government
+to Local Authority each of which determines it's own particular requirements.
+Subsequent responsibilities are passed still further away from any centralised
+or standardised, requirement. The certification of public address systems being,
+in most cases known, ultimately ending in the hands of a member of the local
+Fire Service. Whilst it is appreciated that some Services have deputed very
+knowledgeable Officers to this task, on an almost full-time basis, the doubt
+occurs concerning the ability of a Fire Officer to decide the worthiness of a
+
+
+
+
+ SOUND   & COMMUNICATIONS               MANUFACTURERS    A S S O C IA TIO N      IN S TITU TE       OF       SOUND          &       C O M M U N IC A T IO N S        E N G IN E E R S
+ SOUND   & C O M M U N IC A T IO N S      DISTRIBUTORS   A S S O C IA TIO N      A S S O C IA T IO N O F P R O F E S S I O N A L   E N T E R T A IN M E N T HIRE C O M P A N IE S
+ SOUND   & C O M M U N IC A T IO N S     CONTRACTORS     A S S O C IA TIO N      C O M M U N IC A TIO N S      M A R K E T IN G      &      S E R V IC IN G      A S S O C IA T IO N
+I
+
+
+
+
+                                        -   2 -
+
+    public address system, given that no standards are provided by which he may
+    evaluate.
+
+    The Guide states that automatic fire detection, fire warning, emergency
+    lighting and public address systems should be tested twenty-four hours
+    before an event in accordance with methods laid down in BS 5839: Part 1 and
+    BS 5266: Part 1 respectively, and goes on to point out that there is
+    currently no British Standard for public address systems. Whilst this is
+    not strictly true; the scope of BS 6259 does claim to give guidance on the
+    design, construction, use and maintenance of sound distribution systems for
+    installation   in   buildings   and  outdoor   stadia,   regrettably   further
+    statements on such installations is practically worthless and certainly
+    has no bearing on circumstances to which attention is presently focused. BS
+    6259 is presently being re-written, with strong Federation representation
+    which will press       for more positive standards to be established        in
+    anticipation of the    future requirements for safety in outdoor stadia.
+
+    Communications are vital in any life support situation and systems
+    available today are capable of giving clear pree.iso instructions under
+    almost any adverse conditions. The Guide requires that there should be a
+    "communications system capable of clearly relaying essential messages to
+    all parts of the ground in both normal circumstances and in an emergency"
+    and that "It should be capable of coping with all emergencies." Obviously
+    "all emergencies" now requires to be far more explicitly determined and
+    defined. It has been suggested that the sound emitted by the terrified and
+    suffering crowd at the Lepping Road end of Hillsborough was appalling to
+    such an extreme that any conventional public address system would have been
+    incapable of surmounting. Without being present one cannot judge and it is
+    doubtful in the circumstances anyone had a sound level meter, let alone
+    switched it on. But sound is measureable; it will deflect a needle to a
+    point on a scale which can be registered and noted as a reference. Sound is
+    a science in which, from such references, calculations and predictions are
+    made. It must therefore be possible to determine and specify, a particular
+    point on the scale that the system must be capable of attaining and for
+    future safety such a determination must become statutory.
+
+    Hillsborough, as a     'designated sports ground', has the required safety
+    certificate. Within the requirements of the Local Authority, who are
+    responsible for certification, Hillsborough has a public address system
+    which has obviously met their demands. If those demands were made within
+    the vagaries of the Guide then let it not be said or even suggested, that
+    the Hillsborough public address system was incapable but more to the point,
+    it is the Guide that is inadequate.
+
+    The Guide to Safety at Sports Grounds has to be revised. It must become
+    morfe positive and may require suitable legislation to give it 'teeth'. The
+    sound and communications industries have the ability to not only produce
+    the equipment and provide systems to cope with extreme eventualities but
+    also the expertise to assist those that may be required to re-define,
+    statutory, new regulations.
+
+    Yours sincerely,
+
+
+
+    Ken Walker MBE. ,
+    Chief Executive.
+ft
+
+
+
+
+     ••
+

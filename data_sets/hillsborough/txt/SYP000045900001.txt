@@ -1,0 +1,386 @@
+                                                                                           MIR.15
+
+
+OTHER DOCUMENT FORM                           Date and time raised       i                               Number
+
+
+
+Title
+          (V cJ? cj                            {b e      t=r-7 c p ^ -^ K s r ^ ^ 'i   6 c ^ ^ \ j ^ \ C & >r[<JS£s
+
+{Include source and any document number if relevant)
+
+
+Receiver's instructions - urgent action    i/N o
+                                                                                                                          Receiver
+
+
+
+                                                                                                                       3~?3C
+                                                                                                                           ?
+                                                                                                                             Indexer
+Document registered/indexed as indicated
+
+No(s) of actions raised
+                                                                                                                      Statement Reader
+Statement reader's instructions
+
+                                                                                                                       3 1 3 D
+                                                                                                                             Indexer
+Indexed as indicated
+
+No(s) of actions raised
+                                                                                                                      O /M         SIO
+Examined - further action to be taken
+
+
+
+
+Further action No(s)
+
+When satisfied all actions raised Office Manager to endorse other Document Master Number Form
+—    ----                 VrftS
+
+
+          4 •- t . */*. o   ,           »*■«■•*»«■,-   -■
+
+
+
+
+    6p^)
+
+
+    [jC^A                               /
+
+
+    ■^rtva^vt y                 ^
+      j      — ' ff   -
+    1/t-i ^nw-(/S .
+                          ^         ^     4(K^m
+          cfrtVH*
+0
+
+
+
+                                                                        ACTION
+
+4(xv)   HXLLSBOROOGH FOOTBALL TRAGEDY - COMMUNICATIONS DIFFICULTIES
+
+        Following discussion at the last Ccmnunications Group
+        meeting on the 20th June 1989, and the T.A.R.C meeting
+        held cxi the 13th July, Mpssrs. CROMPTON and GAUKE were
+        requested to oversee a Wbrking Group to examine additional
+        frequency requirements.
+
+        Chief   Superintendent GAUKE   presented    a   paper   (copy
+        attached at Appendix 'G').
+
+        He explained the Working Group recaimended the following        Recommendation'
+        allocation    of emergency channels to meet foreseeable         approved.
+        service requirements.                                           Referred to
+                                                                        TARC
+
+
+           (a)   Four channels for unplanned emergency use.
+                 These would     be two frequency channels for
+                  semi-duplex working.
+
+           (b)   Eight channels for policing planned events and
+                  for in-Force squads as a secondary use. These
+                 also    to   be   two   frequency channels for
+                  semi-duplex working.
+
+           (c)   Eight single frequency (simplex) channels for
+                  use by Force squads utilising the base station
+                  transmit frequencies of the same eight channels
+                  in Recommendation (b) above.
+
+                 These    reccnme notations   included   the   four
+                 channels    already     allocated    as   national
+                 emergency channels.
+
+        It was strongly recommended that the twelve two-frequency
+        channels and the eight single frequency channels should be
+        allocated national channel numbers common to all Forces.
+
+        The Chairman welcomed the paper and said that, in view of
+        the pressing requirement for additional emergency channels
+        Radio Frequency Planning Group (R.F.P.G.) should make the
+        recommended allocation available as soon as possible.
+
+        Mr. POOLEY said that, officially, they did not get the
+        frequency band until the end of this year. Nevertheless,
+        the Secretary had    written asking for the matter to be
+        given   some   urgency   and it was possible that the
+        channels might get earlier release.     He said that, at
+        worst, they    would   be available by the end of the year
+        but he would strive to make it earlier.
+
+        The Chairman then asked for a report on the question of
+        noise interference at football matches and recalled that
+        this aspect had been referred to S.R.D.B. and P.R.S.U.
+USE AND EXPANSION OF POLICE UHF EMERGENCY CHANNELS
+
+
+
+INTRODUCTION
+Four national UHF emergency channels are currently available to
+police forces in England and Wales.  These are two-frequency
+channels operating through fixed or mobile base stations.  It has
+become common practice for these channels to be used not only for
+unplanned emergency police operations but also for planned events
+(eg policing football matches), and for in-group communications by
+various squads within forces.
+Following representation by a number of forces to the Radio
+Frequency Planning Group (RFPG) of the Home Office for additional
+UHF emergency channels the head of the RFPG prepared a paper
+inviting the ACPO Communications Group to identify and recommend a
+service requirement.  This is in the context of the prospect of
+additional UHF channels becoming available to the police in 1990.
+Mr Pooley's paper dated 31 May, 1989 is attached at Annex B.
+
+At its meeting on 20 June, 1989, the ACPO Communications Group
+requested Mr Crompton to form a sub-group to consider the issue
+and make recommendations (item 7 d. of minutes dated 20 June, 1989 _
+refers).  This sub-group met on 25 July, 1989.  Details of members
+are attached at Annex A.
+
+ISSUES ARISING
+The sub-group agreed that Mr Pooley's paper of 31 May, 1989
+accurately reflected the current position and highlighted well the
+major problems.  In particular it was agreed that the requirement
+for emergency channels fell into three broad categories ie:-
+
+     i.    Unplanned emergencies
+
+     ii.   Planned events
+
+      iii. In-group communications by force squads
+
+In reaching its conclusions the sub-group took account of the
+following:-
+      a.   Mr Pooley indicated that the exact number of additional
+           UHF channels likely to become available is not yet
+           known. He believed it may be in      region of thirty
+           six, with twenty becoming available in late 1989 or in
+           1990 and the balance being releasd in about two years
+           time.
+      b.   Mr Pooley also stated that there are numerous demands
+           for expansion of U H F sub-divisional schemes as well as
+           for ad-hoc purposes. These will have to be met from the
+           additional channels which will become available. It is
+           necessary to recognise that channels set aside for
+           emergency use will not be available for, and therefore
+           inhibit, expansion of every day force schemes.
+         t +-
+            is necessary to take into account equipment
+         limitations? ^The ninety-nine channel UHF personal
+         radios in common use will however accommodate h
+         additional channels recommended in this paper. Tn         1
+         mobile/portable base stations also in common use will
+         however accommodate only 10 channels. This is below the
+         totSl number recommended in this paper and some in force
+         prioritising will be required as a .c°?seq“®"°e;he
+                  v... +.v,0 n of Tels representative that the
+         specification for n L ' b a s e stations is for synthesised
+         multi-channel working.
+
+d        The problem of inadequate m m b e r s of                        timeS®13
+
+
+                   of^these*and^til^leave channels l i a b l e                 for
+          un—planned emergencies.
+          With the Hillsborough Enquiry in mind the sub-group
+"        considered that provision must be made ter                            of
+          two dedicated UHF channels for each major event.
+          It will be recognised that by their nature emergency
+          channels will lie dormant for much of the time and in
+          that sense can be considered an Vn“ec°£om^ bU ®® °
+          scarce spectrum. With this in mind, the sub-group
+          considered that separate                      ^j°
+           allocate^for^planne^event^should be S e i s e d for this
+           Duroose   It was the view of the sub-group that use of
+           these channels by squads should be secondary, planned
+           events having first claim.
+    a     All emergency channels should be two-frequency semi
+    g*    duplex working, as is the case now. However    h-. sub--
+           group recognise that force squads, on occasions, have a
+
+            SSilSEfthS; S
+                        it”Pi i ^ o i S
+                                      sei5erSdS?hitW?he eight channels
+            recommended for planned events !3hOUg£.tlon                              —
+            as simplex channels using the base
+            frequency in each «*•«.             ^
+    h      The sub-group explored the possibility of using a UHF
+
+                M                                                              k
+            purpose.
+    i      The sub-group considered the question of an inter
+            service command channel.     H   o   w this requirement is
+                                                     e   v   e   r   ,
+
+
+            aireadv being addressed by Mr M o r n t t in the area of
+            ? « ? 2 h yand Rescue communications - ACp o communications
+            Group minutes of 20 June, item 4.2 d refers.
+
+                                     2
+■/ ■JF .
+/ E.R.
+                     group supported the need for such a channel but this
+                     should be in addition to the recommendations in this
+                     paper.
+
+           RECOMMENDATIONS
+           The Emergency Channel Sub-Group recommends the following
+           allocation of emergency channels to meet foreseeable service
+           requirements while at the same time not impinging excessively on
+           other demands for UHF channels:-
+                                        V
+
+                a.   Four channels for un-planned emergency use. These
+                     should be two-frequency channels for semi duplex
+                     working.
+                b.   Eight channels to be made available for policing planned
+                     events and for in-force squads as a secondary use.
+                     These also to be two-frequency channels for semi duplex
+                     working.
+                c.   Eight single frequency (simplex) channels to be made
+                     available for use by force squads utilising the base
+                     station transmit frequencies of the same eight channels
+                     in recommendation b. above.
+
+           These recommendations include the four channels already allocated
+           as national emergency channels.
+           It is strongly recommended that all twelve two-frequency channels
+           and also the eight single frequency channels are allocated
+           national channel numbers common to all forces.
+           There is a pressing requirement for additional emergency channels
+           and it is recommended that the RFPG is urged to make the
+           recommended allocations as soon as possible.
+
+
+
+
+           J Gajiyke
+           Chief Superintendent
+           Police Requirements
+           Support Unit
+
+           14 September 1989
+
+
+
+
+                                             3
+                  EMERGENCY CHANNEL SUB-GROUP
+
+
+                     TUESDAY 25 JULY, 1989
+
+
+
+
+PRESENT:
+
+
+
+Ch Supt Gauke                    PRSU (Chairman)
+
+Supt Cope                        Greater Manchester Police
+
+Insp Evans                       West Midlands Police
+
+Supt Fairless                    Devon and Cornwall Police
+
+
+
+Supt Hargreaves             )
+                            )    Essex
+Sgt                         )
+
+WPC                              Public Order Forward
+                                 Planning Unit
+
+Insp Inskip                      Metropolitan Police
+
+
+Supt Mitford
+                             )    Northumbria Police
+Mr                           )
+
+Ch Supt Mott                     HMCIC
+
+Mr Pooley               -        RFPG, Home Office
+
+Ch Insp Purdy           -         PRSU
+
+Mr Sharrocks            -         D of Tels
+USE AND EXPANSION OF POLICE UHF EMERGENCY CHANNELS
+       A number of Police forces       ^   v   e   w   r   i   t   t   e   n   to the Home^office^^
+Radio F r e q u e n c y Planning                    UHF Emergency
+to be assigned for tasks tnat                DOlicing of football grounds.
+                  d i v i s i o n a l channels for such occasional use is
+considered^to be inefficient use of spectrum.
+
+     An opportunity arises in                0^ t c e ! ° ? o r cons!d«Ition
+spectrum becomes available     number of Emergency channels
+to be given to increasing                                  ke account of the
+                     place - o n " ^ a v a i l a b i l i t y of channels for
+other purposes.
+                     ,      ,„rrpnn v used for a number of tasks
+     Emergency channels are currently
+that is:
+          Major incidents:    Riots, Major road accidents,
+            J                 A e r o p l a n e crashes etc.
+
+                                       Football matches, Pop festivals,
+         ii. Planned events.                    Royal shows etc.
+
+        •••    M(nnr souads•          Surveillance tasks by CID, Burglary
+        in.    Minor squads.          Squads, Handbag Squads etc.
+
+      A number of problems arising from the above usage need to be
+ addressed these being:
+
+          >■   ~
+               incidents of unforeseen nature.
+               The    limitation   of having only                          four   Emergency channels
+         ii.
+
+
+
+         111
+
+                   of this is questionable.
+
+         in view of the foregoing d i f f i c u l t y » d the ° P P ° f ^ ^ rum
+  afforded to the Home ° “ ^ e ^   AcPO C o m m u n i c a t i o n s Committee ar
+  S E T S advise t h e Radio Frequency Planning Group in regard to
+  1.
+                   To what extent is the present allocation of four
+                   Emergency channels inadequate.
+                   The purpose for which Emergency channels are to be used
+                   for?
+
+                                               - 1 -
+         The operational strategy for the use of Emergency
+         channels?
+         Where it is identified that Emergency channels are
+         being misused for certain tasks what other radio
+         channels should be used instead?
+
+
+
+
+                             D A Pooley
+                             Radio Frequency Planning Group
+
+
+
+
+31 May 1989
+F7 Division
+Horseferry House
+

@@ -1,0 +1,238 @@
+                                          Research and Laboratory
+
+
+
+
+ 0                          Health &
+                            Safety
+                            Executive
+                                          Services Division
+                                          Broad Lane
+                                          Sheffield S3 7HQ
+
+                                          Telephone 0742 78141
+                                          ext
+                                          Telex 54556 (HSE RLS G)
+                                          Facsimile 0742 755792
+
+
+
+      t->    _
+            i-i                           Y o u r reference
+   Mr R Whalley
+   Hillsborough Inquiry                   Our reference
+                                          SMiy343/235/01
+                                          Date
+                                          21 June 1989
+
+
+
+   Dear Bob
+
+   QOESTTCNS FOR DR EASTWOOD
+
+   In J^^onse to your request I have prepared a number of
+   questions for Dr Eastwood, based on his statement.
+   These are enclosed, together with some relevant notes,
+   which may be of use to Mr Collins.
+
+   Yours sincerely
+
+
+
+
+feP C E NICHOLSON
+m   Deputy Director - Safety Engineering Laboratory 1
+HILLSBOROUGH INQUIRY - QUESTIONS TO DR EASTWOOD
+
+Where possible these questions are related to the relevant paragraphs in
+Dr Eastwood's statement.
+
+Para 14:   Were you consulted in the preparation of     the Guide?
+
+           Did you ever use the 1973 version of the Guide?
+
+Para 20: What did you know of the history of the crush barriers on the West
+         Terrace when you took over responsibility?
+
+           Did you know what material the barriers were made from?
+
+Para 27: What account was taken of gaps in the lines of barriers?
+
+           Did these gaps comply with the Guide?
+
+Para 29: Were these gaps in the lines of barriers taken into
+         consideration in calculating the capacity of the West Terrace?
+
+Para 31: How       can you be sure that barriers 128    and 137 werebent during
+& 109    the incident on 15 April 1989?
+
+           Were the barriers inspected for damage after each game?
+
+Para 32: Do you have a written procedure for the testing of barriers?
+
+           How are your operatives trained?
+
+           How is the degree of corrosion assessed?
+
+           What criteria are applied to determine when corrosion is excessive
+
+           Do you apply any acceptance criteria in addition to those in
+           the Guide?
+
+           Do you consider that your test method is suitable for barriers
+           with wrought iron tubes? Have you done any calculations of
+           collapse load?
+
+           Have you had discussions with other companies which test
+           barriers?
+
+Para 33: How is deflection measured?
+
+           What is the accuracy of deflection measurement?
+
+           Is the deflection of each span measured?
+
+Para 36: Why were five yearly tests specified rather than four yearly,
+         as recommended in the Guide?
+Para 40: Was there anything unusual about the test results from barrier
+& 113    124A in 1988?
+
+          In what condition was barrier 124A after the test in 1988?
+
+          Was the horizontal tube permanently deformed?
+
+          Was the degree of corrosion assessed?
+
+          After the 1988 tests you recommended replacement the rails on
+          barriers 144 and 133, why was 124A not recommended for repair?
+
+Para 45: When the radial fences were planned how was the capacity of
+         each individual pen calculated?
+
+.         Were any barriers split   into two e .g by removing one span
+'         at this stage?
+
+          And, if so, why?
+
+Para 109:You also tested barrier 136 on Sunday 16 April, what happened
+         the first time a force of 6kN/m was applied?
+
+          Was there any permanent deformation?
+
+          When a force of 6kN/m was first applied to barrier 128 was
+          there any permanent deformation?
+
+          What did you deduce from these tests about the forces to which
+          these barriers had been subjected prior to your tests on 16th?
+
+Others:   Did you modify your test procedure when the Guide was re-issued
+          in 1986?
+
+          Did you ever measure the heights of the barriers in pens 3 and 4?
+HILLSBOROUGH INQUIRY - NOTES ON QUESTIONS TO DR EASTWOOD
+
+Para 14: There was a suggestion, by Supt Taylor, that Dr Eastwood had
+         been consulted during formulation of the Guide.
+
+         Dr Eastwood does not acknowledge the 1973 Guide in his statement.
+         In this version the crush barrier test calls for one load
+         application only.
+
+Para 20: The design of the "old" barriers suggests that they were
+         considerably more than 20 years old. I would have expected
+         a competent person to consider the materials from which the
+         barriers were made before devising/applying a test procedure.
+
+Para 27: Allowable gaps in the lines of barriers are given in the Guide
+  29     (paras 114 and 115, 1986 version) and, where these gaps exceed
+         the requirements, the capacity should be reduced (para 226, 1986
+         Guide)
+
+Para 31: Barriers 128 and 137 could have been bent during a previous match.
+& 109
+         Barriers should be examined after each event (para 39, 1986 Guide)
+
+Para 32: I would expect a competent person to have a written procedure
+         for carrying out crush barrier tests. Other companies have
+         written procedures in order to ensure consistency and
+         repeatability.
+
+         The Eastwood barrier test reports indicate that barriers
+         are rejected occasionally on the basis of excessive corrosion.
+         This is highly subjective and ought to accompanied by residual
+         thickness measurements and a design appraisal.
+
+         Other companies, being not entirely happy with the barrier test
+         procedure in the Guide, have added additional requirements e.g.
+         a maximum allowable deflection irrespective of recovery. Other
+         companies also test the vertical members in addition to the
+         horizontal tubes.
+
+         The yield stress of wrought iron is so unpredictable that some
+         permanent deformation of the tube could occur during testing.
+         This would reduce the capacity for further plastic deformation and
+         introduce the possibility of strain age embrittlement (brittle
+         failure under impulsive loads).
+
+         Two other companies that test barriers have been contacted
+         during the Inquiry. One appears to carry out tests in accordance
+         with the 1973 version of the Guide (a single application of force)
+         and the other interprets the Guide to mean that one test
+         consists of three applications of force and deflections are
+         measured from the original datum position. The latter is consistent
+         with HSE's understanding of the current procedure but differs
+         from the interpretation apparently adopted by Dr Eastwood. The
+         latter carries out three tests, each consisting of one
+         application of force, and the datum is re-established after the
+         removal of each force. This point is critical since HSE's
+         interpretation of Eastwoods 1988 data indicate that barrier 124A
+         would have failed the first test and a re-test (3 more applications
+         of force) was therefore required.
+                Deflection under load   =   36mm                      *
+
+                Permanent deflection    -    17mm
+                Elastic deflection      -    19mm
+                % recovery              -    53%
+
+Para 33: These questions were put to Dr Eastwood by Mr James (HSE) and the
+         answers were not satisfactory. I would expectthat the deflection
+         of each span would be measured at itsmid-point. It is hard to
+         believe that the Eastwood method is capable of accuracies better
+         than ,±lmm
+
+Para 36: Dr Eastwood's statement does not give a reason why the
+         recommendation of the Guide was not followed.
+
+Para 40: The notes under Para 32 are relevant here also.
+  113    The amount of permanent deflection exhibited by span 1/2
+         on barrier 124A during the test in 1988 was 17mm. Only barrier
+          144 was worse than this and Dr Eastwood recommended that the tube
+         be replaced.
+
+         The tube on barrier 133 was described as "badly corroded" and
+         was replaced, yet no comment was made about the condition of 124A.
+
+         Dr Eastwood's statement that barrier 124A passed the test
+         "very satisfactorily" is highly questionable.
+
+Para 45: The capacity of each individual pen should have been calculated
+         when the radial fences were installed. There is no indication
+         in Dr Eastwood's statement of how this was done.
+
+         The capacities of 1200 and 1000 for pens 3 and 4 respectively,
+         shown on Eastwood's drawings, would have been optimistic even
+         if the gaps in the lines of barriers had complied with the Guide.
+
+         The numbering and position of the barriers suggests that 136 &
+         136A, and 124 & 124A, may originally have been joined.
+         Separation may have been achieved by removal of one span and, if this
+         was the case, then a gap in excess of the guide requirement was
+         created.
+
+Para 109:Eastwood's report on the tests carried out on Sunday 17 April
+         suggests that barriers 136 and 128 deformed permanently the
+         first time they were loaded. This indicates either that some
+         deterioration occurred since the last test or that the tests
+         have poor repeatability.
+

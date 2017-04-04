@@ -1,0 +1,190 @@
+                                             ■<v
+                                                                                       M IR .15
+
+
+
+OTHER DOCUMENT
+    K U U ^ U I V IC IN I FORM
+                          ru i                 Date and time raised   IZ 4   IC> f "33 2 -15>Of   Number    01^03
+
+Title   PsueoAr
+(Include source and any document number i f relevant[
+                                                  id
+
+
+
+Receiver's instructions — urgent action - Yes/No   2s.                                                         Receiver
+
+                                                                                                           3 1 3 0
+                                                                                                               Indexer
+Document registered/indexed as indicated
+
+No(s) of actions raised
+                                                                                                           Statement Reader
+Statement reader's instructions
+
+
+
+                                                                                                               Indexer
+Indexed as indicated      < 3 ( (rU2/3                                           +{<£1
+No(s) of actions raised
+
+Examined - further action to be taken
+
+
+
+
+                                                                                                               Indexer
+Further action No(s)
+
+When satisfied all actions raised Office Manager to endorse other Document Master Number Form
+      STADIUM TECHNOLOGY INTERNATIONAL Ltd.
+                                  Registered in England and Wales No.2014996
+                       Registered office: 1 Intwood Rd. Cringleford, Norwich, Norfolk.
+ U.K. SALES-78 Norwich Road, Watton, Thetford, Norfolk, England.        Telex 9312192323 ’Phone 0953-883882
+
+     Turnstile Monitoring System.                              area’ and with the centre part of the screen showing a
+                                                               greatly enlarged master total (That means easy to read -
+               (A Technical Overview).                         not a higher number!). Further screens are provided
+  Our Turnstile monitoring equipment was first developed       which are available under operator control or at prog­
+in 1980/81 for use at the Aberdeen football club.              rammed intervals, for example a screen showing each
+Although upgraded several times since then the system          individual stile total, and running cash figures allowing for
+concept remains the same. Our specially manufactured           floats if needed. A printer provides hard copy as and
+piece of equipment converts the mains voltage to               when required.
+approximately eighteen volts, and connections are                The display program would normally provide the client
+made via telephone type cables to each turnstile (where        with the following facts. The number of patrons in each
+a switch either makes or breaks a circuit during each          zone and number of spaces remaining before reaching
+entry). Our system then uses opto isolation to produce         preset limits, and the flow per minute into each zone.lt
+logic level signals which are latched into microchips          is also quite popular to display the ‘percentage full’ for
+after electronic smoothing to eradicate any switch             each area In addition your display computer transmits
+bounce which might be present                                  via serial (RS232) interface to other computers every few
+                            Our equipment has a clear          seconds, allowing totally different systems to get the
+    Please see            front, through which banks of        relevant information (for example Police room displays).
+      sketch              red L.E.D. lights Indicate whet­
+     overleaf                                                    In addition to all this the entire system simultaneously
+                          her each circuit is closed or        works backwards if required triggering signals when
+                          open, i.e. each switch status.       certain conditions arise to activate remote devices
+The data from every available input is then transferred        installed via the cable network. The prime use of this is
+by cable into our interface card which plugs into the          to sound alarms when attendance levels approach
+actual computer.We currently use an I.B.M. XT Comp­            safety limits.
+atible systemfor the next stage, although our early
+system used an Apple 2 series computer.                          To see the system in operation interested parties will
+                                                               find the greatest use of the numerous features at the
+ The host computer has two special programs. Firstly a         White Hart Lane stadium of Tottenham Hotspur F.C.,
+Terminate and stay Resident’ (Background) program              where their monitoring system communicates with two
+which operates around eighteen times every second.             other computers to provide information for the Police
+This program checks the status of every switch and             and for the Directors.
+compares this with the previous status. Several internal
+registers are updated - mainly the number of times that          Any such visit obviously needs to be during pre-match
+a switch has cycled completely (Each being one entry),         admission - rather than when the system stands idle!. It
+and the length of time that each switch has been Open          is our experience that Tottenham Hotspur are only too
+or Closed, (Which can indicate that a wiring fault exists,     pleased to demonstrate this and many other state of
+or that a Stile is being kept in a ‘Half Cocked’ position to   the art safety measures installed there. Please contact
+allow fraudulent squeezing past).                              Mr. Peter Bames who is the secretary to arrange any
+                                                               visit. We also have a full system at Aston Villa F.C. where
+  Whilst the above program is transparent to the               the person to contact is Mr. Steven Stride.
+computer operating system it can interface with a
+second program, to manipulate the information to the             It is our policy to continuously upgrade our systems, to
+customer’s requirements. The second (Display) program          include any new features which help our product to
+is specially written for each site. This program starts by     maintain it’s position as the market leader. It is a product
+reading from disk a file containing the parameters for         which accounts for a major part of our company’s
+normal operation. This tells the computer which Zone (if       turnover. At the time of writing this our equipment is
+any) each available input feeds. These parameters can          installed as far afield as Glasgow Rangers, Futebol clube
+be changed while monitoring (under software control)           do Porto, The Maltese national stadium and still in use at
+which gives the system total flexibility. For example,         the first site - Aberdeen F.C. and since the first
+upon receiving a certain signal (via the keyboard or via       installation we have monitored in excess of ten million
+one of the switches) the computer can be programmed            patrons.
+that from that time certain entrances will feed different        For further information please do not hesitate to
+zones!                                                         contact Graham Rubens at the above address or
+ The display program will normally have several user           telephone number or on my car phone - 0836-218152..
+switchable modes 1he man display will be a pictorial
+representation of the actual stadium - with each area
+giving the numerical information associated with the
+           Cables to turnstile / / / /
+           tmulticore)        / / / /
+
+                                                                                  Turnstile
+    jr y    ZS                                                                    Interface Box
+
+
+
+
+                                                                      Cable to Computer
+
+
+
+
+           Screen
+
+
+
+
+                                                                                      Printer
+
+
+
+
+Computer
+
+
+
+
+       r         mm   wmm^m M r mm   mm    M r
+                                           av w   rnmrnm   w   m —r    Keyboard
+                                           r
+                                          i r mm *
+                                          r     m
+                                                   QVS   /
+
+
+
+
+                LORD JUSTICE TAYLOR'S
+                   JUDICIAL INQUIRY
+                       INTO THE
+          HILLSBOROUGH FOOTBALL DISASTER
+                SATURDAY 15 APRIL 1 9 8 9
+
+
+
+
+SURNAME
+
+FORENAME(S)
+
+ADDRESS
+
+
+
+
+AGE               DATE OF BIRTH              SEX
+
+TEL. NO. HOME                     BUSINESS
+                                                                          ic r r r & J f j/ iM         fe c s /u ^
+
+
+■£ * ^ 4^                 Cmm4                 Q A ^a                           4 V        ^ y -           c ^ jo ^ c y
+
+^ m       f       /U J U ^                 ^ 4                       ^              M                                     H ^i
+
+to f^ v r e d u z d                'T u ^ t U h i                   M o J u r J f ^ I c 4 ^ j a)                 A - Q 'V ^ k c / r / o ^
+
+ % ' i £ ~ c4 M :
+
+          M l           (a j 4 4     A ic rr      ’A t                      /& o d o e /4 tf          s g c /r
+
+tye       1444          4-         C e /s r /tt^ c r /c ^                    *7o          aM     ^l       & aj      The
+
+C d M tlU -             tu 4] & s r              o -f                a /* i/ /) // >         s4 f o x y / \
+~ T u J frJ S T 7 H L        /u o a J i T q s &          '^ ^   i                          O & n A a)       £ ) U T / Z ^ c/7 7 o a )
+
+ M T ti           kfsU             SVSTP m A .
+
+                        la                                                      ^       hnJ>Ct                   f ' i/   T ke
+
+                               -fe > t)T 4 A + u ^                    /)*/? >           tJ u tM         *h *          /% 's r~ < # / r
+
+  o j^        If^ u        ( (J/&JA T>HL                 /UL&AJI ~Tos&fiSCf               <Ty.f
+
+ < ^ j)A M i~ 7 T t£          'T o             'T i& L              /£ a J $ U j/^ ? ^
+

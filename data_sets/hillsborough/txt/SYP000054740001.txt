@@ -1,0 +1,505 @@
+                                                                                          M I R . 15
+
+
+
+O THER DO CUM EN T FORM                        Date and tim e raised   \S \\M T\. \^ a o               Number
+                                                                                                                 X l9 2 3
+
+T itle
+(Include source and any document number if relevant)
+
+
+Receiver's instructions - - urgent action                                       (o k                            f ^ Y
+                                                                                                                     Receiver
+^        C/Xs
+
+                                                                                                                      Indexer
+Docum ent registered/indexed as indicated
+
+No(s) o f actions raised                                                                                            Io 4 4
+                                                                                                                 Statem ent Reader
+Statement reader's instructions
+
+                                                                                                                          ■y
+                                                                                                                      Indexer
+Indexed as indicated
+
+No(s) o f actions raised
+                                                                                                                  7333>
+Examined - fu rth er action to be taken
+
+
+
+
+                                                                                                                      Indexer
+Further action No(s)
+
+
+When satisfied all actions raised Office Manager to endorse other D ocum ent Master N um ber Form
+                          N   O   T   E   P   A   D   T E M E > L   A T P :   .
+
+
+This t e m p l a t e is i nt ended to a s s i s t the R e c e i v e r / S t a t e m e n t Reader to
+i d en t i f y t hose d o c u m e n t s w h i c h are to flagged by use of the N O T E P A D
+•UN.
+
+CODING                            INTERPRETATION
+
+***INOUTY***                      INSIDE/OUTSIDE THE GROUND & MATERIAL                           f___ 1
+***INOUTX***                          tt        "         "      "    i NON-MATER IAL            □
+***INY***                         INSIDE THE GROUND <5. MATERIAL                                 cm
+***INX***
+                                      II
+                                               "          " & NON-MATERIAL                       S 3
+                                  OUTSIDE THE GROUND A MATERIAL                                  1 ._l
+***OUTY***                                                                                       1--_l1
+                                     tt        "          " & NON-MATERIAL                       1
+***OUTX***
+*** d e c y ***                   i»r.A.r;Ase;u * hatc. kxal*                                    1
+                                      tt         & NON-MATERIAL                                  L J
+* **DECX***
+                                  INJURED PERSON & MATERIAL                                      n
+                                                                                                 r_i
+***INJY***
+                                      tl       "        & NON-MATERIAL
+***INJX***
+                                  POLICE,      SOUTH  YORKS     & MATERIAL                       i___ i
+* **POLYSY** *
+                                      tt       "          "     & NON-MATERIAL                   □ □
+***POLXSY***                                                                                     i— i
+***POLYMS* * *                    POLICE,      MERSEYSIDE     &  MATERIAL
+                                                                                                 i     i
+***POLXMS***                                   '•        " & NON-MATERIAL
+                                                                                                 L J
+                                  POLICE, NOTTS & MATERIAL
+***POLYNC***
+***POLXNC* **
+                                     ft        •'     & NON-MATERIAL                             cm
+                                                                                                 □
+***POLYOT***                      POLICE, OTHER FORCE & MATERIAL
+                                     tt        "         "      & NON-MATERIAL                   c u
+***POLXOT***                                                                                     i   i
+***POLPRAISE***                   POLICE ACTION PRAISE, APPRECIATION
+                                                                                                 i—  i
+***POLADVERSE***                  POLICE ACTION CRITICISED, ADVERSE COMMENT
+
+
+    THE RE CE I VE R /S TA T EM E NT READER SHOULD TICK THE A PPROPRIATE BOX(ES) TO
+    DIRECT THE INDEXER TO A TTACH THE MARK ED CODING TO THE DOCUMENT
+    BEING INDEXED V I A +IN.
+
+
+
+             \ (\
+  CATEGORY            TEM PLA TE-       (Version XV >   C1705B9)
+
+ Please tick those category boxes which are applicable for indexing.
+ STAMXS                                   MEDICAL
+ Spion Kop                                Doctor
+ North Stand                              Police Surgeon
+ South Stand      Seated                  Surgeon
+                  Standing                Pathologist
+ WEST STAND                               Nurse
+ Pen 1&2                                  St Johns Amb
+ Pen 5-7
+ PEN 3                                   SUPPORTERS
+ PEN 4                                   Li verpool
+                                         Notts Forest
+ POLICE OFFICER ON DUTY.                 Other
+ South Yorkshire
+ Merseyside                              EMERGENCY SERVICES
+ Nottinghamshire                         Fire Brigade
+                                         Ambulance
+ POLICE OFFICER OFF DUTY
+ Merseyside                              RECOGNITION
+ Nottinghamshire                         Bravery Acts
+ South Yorkshire                         Awards
+ Others                                  Appreciation
+                                         Adverse Comments
+MEDIA                                    Complaint
+Press
+TV                                       PUBLIC BODIES
+Radio                                    Local Authority
+                                         Health It Safety
+SROUND STAFF.                            FA
+Steward                                  Football Trust
+Turnstile Operator
+Catering                                 CONSULTANTS fc FIRMS
+Other                                    Safety
+                                         Construction
+LOCAL RESIDENTS                          Other
+House to House
+Shopping                                        IN
+Other                                    Team on Pitch
+                                         Hanson's Name
+PUBLIC                                   Kick Off
+Letter                                   Ball hits X-Bar
+Telephone                                Barrier breaks
+Visit to Police Station
+                                         CROWD SURfiES O/S
+ANY CATEGORY NOT SPECIFIED               Metal Gate forced
+                                         Gate ’ C ’ to eject
+                                         Gate rC' crowd in
+                                         PREVIOUS MATCHES
+                                         Semi Final 1981
+WITNESS CALLED TO INQUIRY                Semi Final 19S6
+                                         Semi Final 1988
+COACHES - Alcohol                        Other States ----
+          Disorder
+          Pol ice                       INVESTIGATION
+          Check                         Forged Tickets
+          Traffic                       Forcing Gates
+          Delay                         Unauthorised access
+
+LETTER REQUIRED    Y/N   □              Alcohol
+                                        Disorder
+                LORD JUSTICE TAYLOR'S
+                   JUDICIAL INQUIRY
+                     INTO THE
+          HILLSBOROUGH FOOTBALL DISASTER
+                SATURDAY 1 5 APRIL 1 9 8 9
+
+
+
+
+SELECTED PERSONS QUESTIONNAIRE
+
+SURNAME
+
+FORENAME(S)
+
+ADDRESS
+
+
+
+
+AGE                DATE OF BIRTH              SEX   i^ \t
+
+
+TEL. NO. HOME                      BUSINESS
+QUESTIONNAIRE
+
+THIS QUESTIONNAIRE IS TO ASSIST LORD JUSTICE TAYLORS'
+JUDICIAL INQUIRY INTO THE HILLSBOROUGH FOOTBALL DISASTER
+ON SATURDAY I 5 APRIL 1989.
+
+
+1    IN WHAT CAPACITY DID YOU ATTEND THE SEMI -FINAL
+      MATCH ON 15 APRIL 1989?
+
+
+       i                   /V (_   CO'-v   i                                  9^
+
+       "•"v\6r   &>sst*    —   LtAtfUt               vj \c_c- -Pd-ir -f< ae-j t
+       <
+       TvVfr-                   Afsocc/9'T>o—
+                                            ->
+
+2,   PLEASE STATE YOUR OCCUPATION.
+
+                                   M62.CA/WT
+
+
+
+      DO YOU HOLD ANY PUBLIC OFFICE?
+
+                     MO
+
+
+
+4,   WHAT IS YOUR RELATIONSHIP WITH SHEFFIELD
+     WEDNESDAY FOOTBALL CLUB?
+       p v./ t ^ T   ~                           t_A'^>0(0 in >    5   ^
+
+       •o tvtrM. Ao\*je.i/ot   c.j— w'b
+
+
+
+
+IF NECESSARY CONTINUE ANSWERS ON REVERSE OF THE PAGE
+AND USE BLANK SHEET PROVIDED AT THE END.
+                                     i-
+5.   HAVE YOU ANY SPECIALIST QUALIFICATIONS OR
+     EXPERIENCE WHICH YOU FEEL CAN ASSIST IN THIS
+     INQUIRY? (BRIEFLY EXPLAIN)
+          ^    A       rv                 aA       'T'-t      ^     ^ fer-
+
+      v   K A -^ 4 ,   < io — -C-   t — 0 « -J< -te .C r e   t> ^            ^   ^
+
+
+
+
+6.   DID YOU ATTEND THIS SAME FIXTURE LAST YEAR?
+
+                 V-3 o .
+
+
+
+
+7.   WHO WAS WITH YOU AT THIS YEARS MATCH?
+
+
+
+
+5.   FROM WHAT POSITION DID YOU VIEW THE MATCH?
+          "bl /UrCTOfc*;              Kvy-
+
+
+
+
+9.   HOW DID YOU TRAVEL TO THE GROUND?
+10.   WERE YOU DELAYED IN ANY WAY? (BRIERY EXPLAIN)
+
+             u O
+
+
+
+
+1!    WHAT TIME DID YOU ARRIVE AT THE GROUND?
+
+          \\ •      fT'   -
+
+
+
+12.   WHICH ENTRANCE DID YOU USE TO GAIN ACCESS?
+                   LS'TOr-i £
+
+
+
+
+13.   DID YOU HAVE ANY PROBLEM GAINING ACCESS?
+      IF YES, BRIEFLY DESCRIBE.
+
+           *—> o
+
+
+
+
+14,   DID YOU WITNESS AROUND THE GROUND ANY
+      (i) DISORDER
+      (ii) CONSUMPTION OF ALCOHOL IN THE STREETS?
+      BRIEFLY EXPLAIN.
+15.   DID YOU WITNESS ANY CROWD BUILD UP OR CRUSHING
+      AT THE LEPPINGS LANE ENTRANCE? (BRIEFLY EXPLAIN)
+
+
+        fot , i c t   Q^lC02-J       -m   -v2^ C ic   /^>vvT   1
+
+
+        ^ .W - r                 A
+
+
+
+
+16.   FROM YOUR EXPERIENCE WOULD YOU SAY THERE WAS
+      EXCESSIVE CROWD BUILD UP AT ANY OTHER GROUND
+      ENTRANCES ON YOUR ARRIVAL?
+
+          vAO.
+
+
+
+
+17.   DID YOU WITNESS ANY UNAUTHORISED ENTRY TO ANY
+      PART OF THE GROUND? (BRIEFLY EXPLAIN)
+18.   DID YOU WITNESS ALCOHOL BEING BROUGHT INTO THE
+      GROUND OR BEING CONSUMED INSIDE THE GROUND?
+      (BRIEFLY EXPLAIN)
+
+        \ - jt )
+
+
+
+
+19.   DID YOU WITNESS ANY SITUATION WHICH YOU THOUGHT
+      AT THE TIME WAS OF A DISORDERLY NATURE?
+      (BRIEFLY EXPLAIN)
+
+
+
+
+20.   COULD YOU SEE CLEARLY THE STANDING AREA IN FRONT
+      OF THE WEST STAND?
+21.   DID YOU SEE ANY INCIDENT IN THAT STANDING AREA
+      WHICH YOU BELIEVE COULD HAVE CONTRIBUTED TO THIS
+      DISASTER?
+
+        r-s-Q   .
+
+
+
+
+22.   DO YOU KNOW IF YOU SAW ANYTHING WHICH YOU
+      BELIEVE WAS DIRECTLY CONCERNED WITH THE BREAKING
+      OF A BARRIER IN PEN 3?
+
+
+        Co-o-vT-olj^ «       KJioui <v=v— s-   t   /L tr S * <- ‘ S 4
+
+                    U 4 -S
+
+
+
+
+23.   WHAT TIME DID YOU TAKE UP YOUR MATCH VIEWING
+      POSITION?
+          Z , 5o
+
+
+
+
+24.   DID YOU SEE ANY UNUSUAL CROWD SURGE IN EITHER
+      PEN 3 OR PEN 4 OR BOTH? IF SO, DO YOU KNOW THE
+      CAUSE AND WHAT TIME DID IT OCCUR?
+
+
+
+
+                                   -6-
+25    AT THE TIME OF THIS INCIDENT, CAN YOU SAY IF YOU
+      WITNESSED THE DEATH OF ANY PERSON?
+
+
+
+
+26.   DID YOU ASSIST ANY OF THE DECEASED? BRIEFLY
+      EXPLAIN.
+
+
+
+
+27.   DID YOU ASSIST ANY OF THE INJURED'? (BRIEFLY
+      EXPLAIN)
+
+         MQ
+
+
+
+
+26-   DID YOU WITNESS ANY ACT BY SUPPORTERS WHICH
+      OBSTRUCTED EITHER POLICE, STEWARDS OR MEDICAL
+      PERSONS AT THE TIME OF THE DISASTER?
+
+
+
+
+                           -7-
+29.   HAVE YOU ANY COMMENT TO MAKE ABOUT THE ACTIONS
+      OF THE POLICE OFFICERS AT THE TIME OF THE DISASTER?
+       \       T v 'V/0'*.6rvCT"                         O              c.o/-cQ
+
+           /V-                     A<J2-oS5     -pi €-   Pirr-ti      r^^~i       ^^j£~
+           Q > (r& r-*    ^           U T V L \ S ^      8         €- 'T©2^j=VC_^^
+
+
+
+
+30.   HAVE YOU ANY COMMENT TO MAKE ABOUT THE ACTIONS
+      OF ANY OF THE MATCH STEWARDS AT THE TIME OF THE
+      DISASTER?
+
+                 Q
+
+
+
+
+31.   HAVE YOU ANY COMMENT TO MAKE ABOUT THE ACTIONS
+      OF ANY OTHER PERSON IN AUTHORITY AT THE TIME OF
+      THE DISASTER?
+             siO
+
+
+
+
+                                          -8-
+32.   WERE YOU SUBJECTED TO ANY THREATS OR VIOLENCE?
+               tvi-O
+
+
+
+
+33.   DID YOU WITNESS ANYTHING THAT YOU CONSIDER TO BE
+      A CRIMINAL ACT BY ANY PERSON?
+
+
+
+
+34.   HAVE YOU BEEN PRESENT AT, OR HAD EXPERIENCE OF ANY
+      OTHER FOOTBALL TRAGEDY? (BRIEFLY EXPLAIN)
+
+      I       to AS*         A x                                      AS      A                      <» ^
+
+      'X V IC —        (A.                   0               lS l '- * 6 r             iT T g rf.
+
+
+
+
+       I        ‘~J A S        A--r                                            c~>K.&—* 'TVV6-        v/2_£
+
+          0 C < L la /1 ^ -^ 5 >   —             I ^   * '■ ''<                          /J - S     l/\C-€~
+
+
+                 fl"b fcs-*.~T-       © /"       'TVLfc.          i^C?oTT- ''f/Vl—V_
+
+
+
+
+                                                            9
+35-   IF YOU ATTENDED LAST YEARS SIMILAR MATCH, WAS
+      THERE ANYTHING SIGNIFICANTLY DIFFERENT WHICH YOU
+      THINK IS A CONTRIBUTORY FACTOR TO THIS DISASTER?
+      (BRIEFLY EXPLAIN)
+
+
+
+
+36.   HAVE YOU ANY COMMENT TO MAKE ON THE DISTRIBUTION
+      OF FANS IN THE STANDING AREA TO THE FRONT OF THE
+      WEST STAND?
+
+         ^   0     .
+
+
+
+
+37.   DO YOU HAVE ANY VIEWS ON THE WAY THIS DISASTER
+      WAS CONTROLLED FOLLOWING THE RECOGNITION OF THE
+      INCIDENT HAPPENING?
+
+             O .
+
+
+
+
+                          -10-
+36.   IS THERE ANYTHING THAT YOU WISH TO ADD WHICH YOU
+      FEEL IS VITAL TO THIS JUDICIAL INQUIRY?
+
+
+
+
+SIGNATURE OF PERSON INTERVIEWED
+
+NAME /RANK /NUMBER OF OFFICER COMPLETING (PRINT IN BLOCK
+CAPITALS)
+
+
+
+
+SIGNATURE OF OFFICER COMPLETING .
+
+
+
+
+QUALITY OF WITNESS                  IMPRESSIVE   □
+(TICK BOX APPLICABLE)
+
+                                    AVERAGE      0 ^
+
+
+                                    POOR         □
+
+
+
+                          11
+

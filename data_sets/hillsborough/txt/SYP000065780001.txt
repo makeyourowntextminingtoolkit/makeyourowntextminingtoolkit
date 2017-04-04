@@ -1,0 +1,392 @@
+                                                                                                   n .»iaw
+
+
+
+                                                                                       Sioa^
+                           W 0 'ri«:E> A. I>                    I .Al'l'.: .
+
+ Th I* lpmpl il <• ! -! int'MvlfMl to 153 l^t f h*» R *><'»» iv«»r /.'>* * •.fm**;'.* R***di»r to
+           thor?n 'Incuments which a r e to fl-iqged by iisp of t.h»* NOTEPAD
+ * IN .
+
+'-'"i’l NO                      INT E RPR E TAT ION
+
+* ** IHOHTY ♦ * *               I N S I D E / O U T S I D E THE GROUND & MATERIAL
+* * * INOtJTX * * *                                                           & MON-MATER IAl.
+*** j^jy***                     INSIDE THE G R O U N D & MATERIAL
+ * ** FNX** *                                                  " S NON - M A T E R I A L
+ * * *OUTY* * *                O U T S I D E THE G R O U N D A MATERIAL
+ * * *OUTX * * *                                                  & N O N - M ATERIAL
+***DECY* * *                   hECFASED S MATERIAL
+***DECX* * *                                      & NON-MATERIAL
+* * * IN.J Y* * *              INJURED PE R S O N & MATERIAL
+* * * INJX * * *                                            & NON-MATERIAL                         CZ)
+* **POLYSY***                  POLICE, SOUTH YORKS & M A T ERIAL
+* * *POLXSY* * *                                              **   & NON - M A T E R I A L
+* * *POLYMS * * *              POLICE, M E R S E Y S I D E * MATERIAL
+***POLXMS*»*                       ••          ••            •*   & NON-MATERIAL
+* * *POLYNC* * *               POLICE, N O T T S & M A T E R I A L
+* * *POLXNC* * *                                           & NON-MATERIAL
+*** P O L Y O T * * *          POLICE, O T H E R F O R C E & M A T E R I A L
+* * *POLXOT* * *                   «           *•            ”     & NON-MATERIAL
+***POLPRAISE***                P O L I C E AC T I O N PRAISE, APP R E C I A T I O N
+***POLADVERSE* **              P O L I C E A C T I O N C R I T I CISED, A D V E R S E COMM E N T
+
+
+    THE RECEIVER/STATEMENT READER SHOULD TICK THE APPROPRIATE BOX(ES) TO
+    DIRECT THE INDEXER TO ATTACH THE MARKED CODING TO THE DOCUMENT
+    BEING INDEXED VIA +IN.
+
+
+
+
+                                                                                     %
+ C A T E G O R Y     T E M P L A T E .   (Version IV )   (170509)
+ Please tick those category boxes which are applicable for indexing.
+
+STAtOS                                    MEDICAL
+Spion Kop                                 Doctor
+North Stand                               Police Surgeon
+South 5tand    Seated                     Surgeon
+               Standing                   Pathologist
+WEST STAND                                Nurse
+Pen 1&2                                   St Johns Amb
+Pen 5-7
+PEN 3                                     SUPPORTERS
+PEN 4                                     Liverpool
+                                          Notts Forest
+POLICE OFFICER ON DUTY.                   Other
+South Yorkshire
+Merseyside                                EMERGENCY SERVICES
+Nottinghamshire                           Fire Brigade
+                                          Ambulance
+POLICE OFFICER OFF DUTY
+Merseyside                               RECOGNITION
+Nottinghamshire                          Bravery Acts
+South Yorkshire                          Awards
+Others                                   Appreciation
+                                         Adverse Comments
+MEDIA                                    Complaint
+Press
+TV                                       PUBLIC BODIES
+Radio                                    Local Authority
+                                         Health & Safety
+W O U N D STAFF.                         FA
+Steward                                  Football Trust
+Turnstile Operator
+Catering                                 CONSULTANTS * FIRMS
+Other                                    Safety
+                                         Construction
+LOCAL RESIDENTS                          Other
+House to House
+Shopping                                 SURGES IN GROUND
+Other                                    Team on Pitch
+                                         Hanson's Name
+PUBLIC                                   Kick Off
+Letter                                   Ball hits X-Bar
+Telephone                                Barrier breaks
+Visit to Police Station
+                                         CROUD SUR6E8 0/S 8R0UM)
+ANY CATEGORY NOT SPECIFIED               Metal Gate forced
+                                         Gate *Cf to eject
+                                         Gate *C* crowd in
+                                         PREVIOUS HATCHES
+                                         Semi Final 1981
+WITNESS CALI-ED TO INQUIRY               Semi Final 1956
+                                         Semi Final 1988
+COACHES - Alcohol                        Other States    ... .
+        - Disorder
+        - Police                         INVESTIGATION
+          Check                          Forged Tickets
+        - Traffic                        Forcing Gates
+          Delay                          Unauthorised acc
+                                         Alcohol
+LETTER REQUIRED    Y/N   □               Disorder
+          nt      IQS   090689 OF 1 0 0 0 7                       NG SERVICE DOCUMENT
+                                                                                                                     CvS
+                                                    O ff          trO T Y          £j£J\&@r&:NT            NUMBER       S 10 0 4
+~T& erurY f t M O N f / g G t                                    o*j c 3 7 7 W D 6 y   c fv.
+T££^rTS t ^ r f ^ N ^ P D e T 3                         ^<ru£j£j> P £ q M  o(<5 ^ U ^ e o & X O I /
+
+
+
+                                                                  bats       ot     ois
+
+
+
+
+ 0 c c u pa t i o n      A M B 0 OF FIC ER M I D D L E W O O D
+
+ Te 1 e pho vie                                                                                        !\i
+ IC
+
+ Ha i r   c o 1o ur
+
+                                                                                                                            n
+                                                                  Co mplsKion
+
+ Fa c xa 1 ha i r
+
+ G 1asses               U se                                      A c c e t"it
+
+ Number of Pages
+ Dated                  0 6G389                                                                                             3 :i. q n e d
+
+
+                            I was      born on
+
+                               I joined S Y M A S a p p r o x i m a t e l y 5 years ago,,                I a in now a
+
+                            q u a l i f i e d a m b u l a n c e m a n w V l h my      base     at M i d d l ewood.     W hen        I
+
+                            joined S Y M A S       1 was     i n i tially an amb u l a n c e           cleaner       for a
+
+                            period      of 6 m o n t h s .        I then foe came a part               t ime a m b u l a n c e man
+
+                           working         30 hrs     per w e e k .         This       lasted    for a period of
+
+                           a p p r o x i m a t e l y 6 months         and        I was    based at                      I th e n
+
+                            returned        to                                      as a full      time a m b u l a n c e     man.
+
+                            I u n d ertook       a 2 week         basic          t r a ining   course at F a i r f i e l d        in
+
+                           R o t h e r h a m and    ther e a f t e r      I a t t e n d e d a 6 week         residential
+
+                            course at flark-Field,                Lei c e s t e r     with a farther          2 week        driving
+
+                            course      for a m b u l a n c e s       also at Ma r kf i e 1 d ,,         After     2 years           on
+
+                            the     road    I became       a q u a l i f i e d a m b u l a n c e man.         It sh o u l d       be
+                                                                                                                                           PAGE            2
+                                                                                                                                           SI 004
+
+             noted        that       the       main        difference              between             a     qualified
+
+             ambulanceman                 and        a    normal        ambulanceman                   is       the        fact        that       one
+
+             is     allowed          to       undertake              emergency              cases          when        q u ali fi ed ,,               I
+
+             was     based       at                            when     I became             qualified,                    and       when     a
+
+             shift        vacancy             became           a v a i l a h 3.e a p p r o x i m a t e l y             6       weeks       ago, I
+
+             t r a ris f s r r g d    t o M i d d l e w o o d ,,
+
+             On    Satut^ay^15th                    Apri1          1989      (1504895             my       duty        was       0600       to
+
+             1400     hr s .         1 finished                 my    shift        at       1415       nrs          arid d r o v e         home,
+*>.0. B- .
+             actually           passing             Leppings            Ln    at    appro?-? i m a t e l y                 1423       hrs.            I
+
+i ^ / W {l   r s e a l l'''dr>* i n g a I o n g L e p p i n g s L n a t                       t h is        t im e f a i r 1 y             e a s i 1y ,
+
+             and    as     I    proceeded                 on    to    Penistone              R d r 1 noticed                     that       at
+
+             W a d s ley       Bridge          (a        railway        station             only       used          fo r       football
+
+             matches           and    appro:-; im a t e ly              400    yrds          ? row         the       ground)           a    train
+
+             was    just        pulling             in     or     just       pulling          out,,             I    remember              thinking
+
+             to    myself        that          if    the        train        was    pulling                in       there        would
+
+             probably           be    a       delay       at      the     semi      Pinal,,
+
+             I arrived           h om e at           a p p r o x im a t e 1y        1300          h rs , had               som e      1 u n t:h ?
+
+             got    changed           and       generally               got    ready          to       go       into           Barnsley          with
+
+             my    wife     to       do       some       shopping,,            1 turned                the          radio        on    when           we
+
+             got    into        the       car       at    approximately                     1530       hrs.            I       intended           to
+
+             listen        to    Radio          Sheffield               to    find          out    the          up    to        date
+
+             football           scores.              I heard            over       the       radio          that           there       was       an
+
+             incident           at    Hillsborough                   and      that          six    people             had        died,,           I
+
+             then    noticed              a   SYMAS        ambulance               driving             by,       and           presumed           that
+
+             the    vehicle           was       going           directly           to       Hillsborough,,                       I
+
+             imil'sediat e 1 y        turned             the      c.ar ar o u n d           and    tele p honed                  co nt r o 3. f r o m
+
+             home.        when        1 eventually                   made      contact             I spoke              to       a    young
+
+
+
+                                                                     X                  '
+             lady    at     control             and       asked         her'""3>£ m y         assistance                       was    required,,
+
+             i was       requested              to       report         sSo m y     own       base,             and        1    immediately
+                                                                                                                 page:              :
+                                                                                                                 SI 0 0 4
+
+  approximately                 1555       hrs.           I arrived       at    Middlewoad           s a me         15
+
+  minutes          later,,           As    I arrived,             I noticed           that    ambulance               woman
+
+                                                                         on
+                                 W i'
+
+
+
+
+                                    ci
+
+  standby          for     some          30/40    rrdns.
+
+^\A     call was         then       r e c eived from 'Control, at a p p r o x i m a t e l y
+
+  1630 hrs and we were                         requested           to asttend a col la use on
+  —I               A:&                                                    \
+                              4 i 11 s bo r oug h ,                               and    1 took          a
+
+  v e h i 1 1e w i t h        c o d e sig n        'S is rra       1 0 4 ’ a nd               drove          d ire c 1 1 y
+
+  to H i 1 1 s b o r o u g h        a 1ong       M i d d l e w o o d Rd a n d       then      on    to
+
+                               We       arrived       at                            some 2 or 3 m i n u t e s
+
+  after        leaving         Mi chdlewood,              and    were     immediately              beckoned              by
+
+  two    poi i ce        o f f i c e r ^ to       attend         the     casualty        who       was       laid      on
+
+  his    side,,          The    casualty             was       also     accompanied           by    two        of    his
+
+  friends.           I asked             the     friends         for     details        of    the    casualty's
+
+  name       a n X ^ U i ^ ^ r e p 1 i e d by         saying          that     they     played       football
+
+  w it h t          ca s u a l t y , a n d        a f t e r s e e x n g h im        i n t r o u h 3.e        :i.n s i d a
+
+  the    ground          r»ad b e en a b l e          to       pull     him    out.      After       walking                for
+
+  a s h e 1 1 d d s ' W n c s , the              casualty          had    collapsed           on
+
+  The    casualty             was       conscious          but     appeared        to    be    in sho c k .                 I
+
+  brought          the    carrying             c h ai r    out     of    the   ambulance            and       put      him
+
+  into       the    c h air     and       then       loaded        him    onto     the       ambulance,              at
+
+  whi eft p o int                                 and      I\transferred              the     casualty              o nto       a
+
+  •»tret che r ,          The       t;as ua 3.ty * s two X f lends                a c c a m pa x ne d hi m .
+                                                                                                   C*T
+                         irovs          straight          to    the s V ' i n s r n     General          Hospital
+
+  and    1    remained          in the           back      of    the     vehicle        attending             the
+
+  casualty..             On    the       way    to   the        Hospital       the      casualty             lost
+
+  c o n s c i o u s n e s s b u t ca r r i e d o n b r e a t h i n g .                H e d id n o t          re s po n d
+                                                                                                   PAGE         4
+                                                                                                   S 1004
+ to verbal        request          tor    details       of his       name?     nor did he
+
+ r es ponid      t o pa 1 si■?'u 1 st imu 1 i , i e s nippi ng his e ar ..                     I
+
+ inserted an ai r w a y and turned him onto                              his   side,         An a i r w a y
+
+ holds     the    tongue          in place.          After     a couple        of minutes,           the
+
+ casualty        r e j ected ttie airway,               regained         c o n s ciousness         and
+
+ beqan to answer             some        qths^tions.          1 recollect        that        his    name
+
+was                          and he to IX rns that               he was        from
+
+He knew       very     little about what                  had happened          inside        the ground
+
+and when         I a s k e d whether           he had been drinking,                  he     replied
+
+ !no ' „
+
+we    rsat h e d the H o s p i t a 3. w 1 11-1 i n a few ini n u tss a n d p u 3.1 e d u p
+
+outs i tie th e\c a s u a l t y          depart ftvent -       W hen    I opened       the      rear
+
+doors , I i ni t iX| iy no t i csd a noinbe r of                        ph o t o g ra phe r s and TV
+
+cameras w i t h i n a Ih^all               crowd.        1 he l p e d offload          the      patient
+
+and    t ook him       i nto      t h & casually         de p a r t m a n t , w hen we we r e
+
+requested        by    a doctor           to take       him    into     the    resuscitation                    |
+
+room where         the      patient        was      transferred         onto a Hospital
+
+trol ley,,
+
+                   a n d I t he n re tur n e d to o ur                 v e hi tie,    ra di o e d
+
+control       and were           advised       to    return     to base.         We a r r i v e d        back
+
+at M i d d l e w o o d at a p p r o x i m a t e l y      1710 hrs,         and wa i t e d at         the
+
+station for           some 30 •••■ 40 inins.               It was       only at this           point
+
+that    I began        to    realise          the    e n o r m i t y of the     incident.,          Whilst
+
+wait i n g at liiddlewood the                    1000    hrs    to     18 0 0 hrs     crew     came
+
+into    tbe    station           is:                     and                               , although
+
+they    very qui c k 1y went               out      to a t t e n d a c o 11apse
+
+           a n d I t h e n received a ca 13. f r o m c o n t r o 1 t o atte n d a n
+
+0 Id P e o p 1e s H o me         f o r t he    pur pos e s o f Irans fsrri ng a pa t i e nt
+
+from    this     home       to    the Royal          Hal lama hi re Hospital,,               After
+
+carryin g out          t hi s t ra n s f s r , we we re          re q ue sted by           co n t r o 1 to
+                                                                                                                               PAGE
+                                                                                                                               SI 004
+
+                            return     to     base y arriving               back   at     approximately. 1830                hr s.
+
+                                                                                          t o r iti e
+
+
+
+
+                                                   t isn't    to-^the                   !*4      sir? hi               a
+                                                  ar           8 T\
+
+                                                  B Li                 an                                                  me wa
+                            approirnately           2025      hrs      w h e n % he     patient           was    off   loaded      at
+
+                            t h s Royal      H a lia m s h i r e .      On o u r      re t u r n t a t,It& v e h i s.:le , we
+
+                            radioed     control           and were          r e q uested      to        return    to base..        On
+
+                            our j o u r n e y   back       to Mi dalewood,              I asked           control      whether       I
+
+                            could go home           because           1 was     on duty at 0 6 0 0               hrs   the   next
+
+                            morning     and my           request was          granted..            Therefore,          after
+
+                            arriving        back at M i d d l e w o o d         I helped           tidy up the a m b u l a n c e
+
+                            v e h i c 1e and    the n s i g n e d o f f »
+
+
+
+
+                                                                                                                               !G N E D
+
+ STATEMENT        TAKEN
+                  PLACE :
+
+                  TIMEs                   DATEis          060589
+
+ WITNESS     TO    SIGNATURE s
+
+ OFFICERS     SIGNATURE:
+
+END   OF   REPORT
+

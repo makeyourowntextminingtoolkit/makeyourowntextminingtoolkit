@@ -1,0 +1,443 @@
+                     Q 2-4%                                                             M IR .15
+
+         Ho SW-
+ OTHER DOCUMENT FORM                               Date and time raised           % V     20       Number
+
+
+ Title
+ (Include source and any document number
+                                    mber i f relevant.
+                                             relevant)                                                *
+
+
+ Receiver's instructions — urgent action,-p
+                                         — duo            ^-e*) at> I IiML fe        ct~*-                            I
+   ? yl C -w ^-T o                        i^-»»             I k’W .         f                                   R ’“ 4 r
+
+
+
+                                                                                                                Indexer
+ Document registered/indexed as indicated                 ^
+
+ No(s) of actions raised                                                                                        /^<b
+                                                                                                            Statement Reader
+ Statement reader's instructions
+
+
+
+                                                                                                                Indexer
+ Indexed as indicated      (             |q   (U c u lk       G M q* ?   +   ^
+
+ No(s) of actions raised                                                                                      4-g l i
+^ ^ a m in e d - further action to be taken                                                                 fOjM  SIO
+
+                                                                                                            <53|
+ Further action No(s)
+
+
+ When satisfied all actions raised Office Manager to endorse other Document Master Number Form
+                                           i       V
+
+
+
+
+                       N O T E E > AE>          T E M P L A T E :            .
+This template is intended to assist the Receiver/Statement Reader to
+identify those documents which are to flagged by use of the NOTEPAD
++IN.
+
+CODING                     INTERPRETATION
+
+***INOUTY***               I N S I D E / O U T S I D E THE G R O U N D & M A T E R I A L                      1
+                               If
+                                           "             "         "     S, N O N - M A T E R I A L           1
+***INOUTX***                                                                                               ---1
+* * * i n y ***            I N S I D E THE G R O U N D 4. M A T E R I A L
+                               If                                                                             I
+** * INX***                                11            ” & NON-MATERIAL                           n
+***OUTY***                 OUTSIDE THE GROUND & MATERIAL                                             \__
+***OUTX***
+                               f*          11            ”     & NON-MATERIAL                              Id
+***DECY***                 DECEASED & MATERIAL
+                               H             & NON-MATERIAL                                                         1
+***DECX***
+                           INJURED PERSON & MATERIAL                                                                1
+***INJY***
+                               ii
+                                           "            & NON-MATERIAL                                     _J
+***INJX***
+***POLYSY***               POLICE, S O U T H Y OR KS & M A T E R I A L                                     H
+                              ii
+                                           ”             11      & NON-MATERIAL                            □
+***POLXSY***                                                                                                —       i
+* * *P OL YM S * * *       PO LICE, M E R S E Y S I D E & M A T E R I A L
+                              ii
+                                                         "         NON-MATERIAL                            □
+***POLXMS***                                                   &
+                                                                                                                  i
+* * *PO LY NC * * *        POLICE,
+                              ii
+                                           N O T T S  &  M A T E R I
+                                                      & NON-MATERIAL
+                                                                     AL                                    ■    .jI
+***POLXNC***                                                                                                      i
+* * *P0LY0T* * *           PO LICE, O T H E R F O R C E & M A T E R I A L
+* * *POLXOT* * *
+                              ii
+                                                                 & NON-MATERIAL
+                           POLICE       A C  T I O N  PR AISE,       APPRECIATION                          Lm b J
+***POLPRAISE***
+***POLADVERSE* * *         P O L I C E A C T I O N C R I T I C I S E D , A D V E R S E COMMENT             l    J
+
+    THE RECEIVER/STATEMENT READER SHOULD TICK THE APPROPRIATE BOX(ES) TO
+    DIRECT THE INDEXER TO ATTACH THE MARKED CODING TO THE DOCUMENT
+    BEING INDEXED VIA +IN.
+                                                                                                               ::
+
+      fe'iase ti c k t h o s e c a t e g o r y b o x e s w h i c h a r e a p p l i c a b l e   for indexing.
+
+                                                                        MEDICAL
+                                                                         D oct o r
+      ...ton K o p .                                                     Police Surgeon
+wJSfifcrth St a n d
+                                                                         Sur geon
+  5 S o u t h S t a n d - S e a te d
+                                                                         Pathologist
+ 5S                       Standing
+                                                                         Nurse
+li^WEST. STAND
+                                                                         St J o h n s Amb
+'||K ;'P e n   l t t '2
+£ W V Pen 5 -7                                                                                                           -                   " : ..¥       "V "   -
+                                                                         SUPPORTERS
+;A":' P E N 3                                                            Live r p o ol
+  > pen 4                                                                N o t t s Fore s t                                  "                  '■
+                                                                         Other
+       POLICE OFFICER ON DUTY.
+       South Yorkshire
+                                                                         EMERGENCY SERVICES
+       Merseyside
+       Nottinghamshire                                                   Fire Brigade
+                                                                         Ambulance                      B
+       POLICE OFFICER OFF DUTY
+                                                                         RECOGNITION
+    Jderseyside
+                                                                         Bravery Acts
+ j ^ A t t in gh a m s h ire
+                                                                         Awards
+   ^ K m t h Yorkshire
+                                                                         Appreciation
+  ; Others                                                               Adverse Comments
+                                                                         Complaint
+       MEDIA
+       Press
+                                                                         PUBLIC BODIES
+       TV
+                                                                         Local A u t h o r i t y
+       Radio
+                                                                         Health & Safety
+                                                                         FA
+        GROUND STAFF.                                                    F oot b a l l Trust
+        Steward
+        T u r n s t i l e Op e r a t o r
+                                                                          CONSULTANTS & FIRMS
+        Catering
+                                                                          Safety
+        Other                                                             Construction
+                                                                          Other
+        LOCAL RESIDENTS
+        House to House
+                                                                          SURGES IN GROUND
+        Shopping
+                                                                          T e a m on Pi t c h
+        Other
+                                                                          H a n s o n 's N a m e
+                                                                          K i c k O ff
+        PUBLIC                                                            Ball h i t s X-Bar
+      . Letter                                                            Barrier breaks
+        Telephone
+        Visit t o P o l i c e S t a t i o n
+                                                                          CROUD SURGES 0/S GROUND
+                                                                          Metal S a t e forced
+        any      CATEGORY NOT SPECIFIED                                                                                          .   .   .
+                                                                          S a t e ' C t o eject
+                                                                          S a t e ' C cr o w d in                                                                 ■■ .
+
+
+                                                                          PREVIOUS MATCHES              |r=j
+                                                                          Semi     Final 1981       |— 1
+
+         WITNESS CALLED TO INQUIRY                                        Semi     Final 1956       M
+                                                                          Semi     Final 1988       ===
+                                                                          O ther   States ------------
+         COACHES - Alcohol
+                 - Disorder
+                          - Police
+                                                                           INVESTIGATION
+                                                                           Forged Tickets
+                            Chec k
+                                                                           Forcing Qates
+                          - Traffic
+                            Delay
+                                                                           Unauthorised access                      ;.                         ,       '      -■
+                                                                           Alcohol
+                                                                           D i s o r de r
+         LETTER REQUIRED                   Y/ N
+
+
+                                                         -                                     , ■
+                                                      QLS
+
+
+
+
+                   LORD JUSTICE TAYLOR'S
+                     JUDICIAL INQUIRY
+                         INTO THE
+           HILLSBOROUGH FOOTBALL DISASTER
+                SATURDAY 15 APRIL 19 89
+
+
+
+           LICENSED PREMISES QUESTIONNAIRE
+
+
+
+                       LICENSEES
+
+SURNAME
+
+FORENAME(S)
+
+ADDRESS
+
+
+
+
+AGE       ^ 2 ^     DATE OF BIRTH               %   SEX   H   .
+
+TEL. NO. HOME                            BUSINESS
+
+NAME OF PREMISES              HOCSE^ -
+QUESTIONNAIRE
+
+THIS QUESTIONNAIRE IS TOASSIST LORD JUSTICE TAYLORS'
+JUDICIAL INQUIRY INTO THE HILLSBOROUGH FOOTBALL DISASTER
+ON SATURDAY 15 APRIL 1989.
+
+
+
+1.   IS YOUR PUB A MANAGED HOUSE OR A TENANCY?
+
+
+
+
+2.   IF MANAGED, THE NAME OF THE BREWERY?
+
+
+
+
+3    WHAT TYPE OF LICENCE DOYOU HAVE?
+
+     Do   ^        jjC-CToCli .
+
+
+
+
+IF NECESSARY CONTINUE ANSWERS ON REVERSE OF THE PAGE
+AND USE BLANK SHEET PROVIDED AT THE END.
+HOW LONG HAVE YOU BEEN A LICENSEE?
+
+
+
+
+HOW LONG HAVE YOU BEEN AT THIS PUBLIC HOUSE?
+
+       I
+    <3
+
+
+
+DID YOU OPEN PRIOR TOKICK-OFF TIME ON 15 APRIL 1989?
+7.   DID ANY FOOTBALL SUPPORTERS FREQUENT YOUR
+     PREMISES?
+
+
+     1           h)f falu,.
+
+
+
+
+8.   WERE THEY LIVERPOOL OR NOTTINGHAM FOREST
+     SUPPORTERS OR BOTH?
+
+     ij   jp ■ Q,
+
+
+
+
+9.   WHAT TIME DID YOU RECEIVE YOUR FIRST SUPPORTER?
+
+          i% D
+
+
+
+
+                              •3-
+10. DESCRIBE THE BUILD UP IN YOUR PREMISES BETWEEN
+    11 AM AND 3PM
+
+    Kl
+
+
+
+
+11. STATE THE TIME THE LAST SUPPORTERS LEFT YOUR
+    PREMISES AND WERE THEY LIVERPOOL, NOTTINGHAM
+    FOREST OR BOTH?
+
+     \2 %o 4    ,   IvOv m
+
+
+
+
+12. HOW LONG WOULD IT TAKE TOWALK FROM YOUR
+    PREMISES TOTHE FOOTBALL GROUND?
+
+     'S b
+
+
+
+
+                             -4-
+    13.   HOW LONG IF A CAR WAS USED?
+
+
+
+
+    14. WAS THERE ANY TROUBLE IN YOUR PREMISES FROM
+        SUPPORTERS BEFORE 3PM? BRIEFLY DESCRIBE.
+
+          A   W Z   ■
+
+
+
+
+    15. IF YES, WHAT TIME AND DID YOU INFORM THE POLICE?
+
+
+#
+
+
+
+
+                            5-
+    DESCRIBE THE SUPPORTERS BEHAVIOUR IN YOUR PUB
+    BRIEFLY.
+     .   fr   ,    r           ,(   /
+
+
+
+
+17. IF YOU WERE AT THIS PUBLIC HOUSE FOR THE SAME MATCH
+    IN 1988, CAN YOU POINT TO ANYTHING THAT MADE THIS
+
+
+
+
+18. FROM YOUR EXPERIENCE OF FOOTBALL MATCH CROWDS,
+    CAN YOU GIVE YOUR VIEW ON THE BEHAVIOUR OF
+    A) LIVERPOOL SUPPORTERS
+    B) NOTTINGHAM FOREST SUPPORTERS
+    COMPARED WITH OTHER FOOTBALL TEAM SUPPORTERS.
+
+
+
+
+                         -6-
+    19. IF SUPPORTERS COACHES STOPPED AT YOUR PREMISES,
+        CAN YOU NAME ANY OF THE COACH COMPANIES AND FOR
+        EACH ONE CAN YOU SAY WHAT TIME THEY ARRIVED AND
+        WHAT TIME THEY LEFT?
+              !
+
+
+
+            K j§ a q   .
+
+
+
+
+    20.           WERE YOU THREATENED OR ASSAULTED BY FOOTBALL
+•         FANS ON SATURDAY 15 APRIL 1989?
+
+           H i.
+
+
+
+
+    21    WERE YOUR PREMISES DAMAGED, OR DID ANY OTHER
+          INCIDENT OCCUR RELATING TOFOOTBALL FANS?
+
+•         At.
+22. WERE ANY OF YOUR STAFF THREATENED OR INJURED BY
+    FOOTBALL FANS ON 15 APRIL 1989?
+
+       a     .
+
+
+
+
+23. DID YOU RECEIVE ANY POLICE ADVISE RELATING TOTHE
+    OPENING OR CLOSING OF YOUR PREMISES ON SATURDAY 15
+    APRIL 1989? BRIEFLY EXPLAIN
+
+     w <?.
+
+
+
+
+24. IF YOU WERE ADVISED TOCLOSE AND DECIDED TOOPEN, WAS
+    THAT YOUR PERSONAL DECISION, BREWERY POLICY,
+    LICENCED VITUALERS ASSOCIATION OR UNION ADVICE?
+    BRIEFLY EXPLAIN.
+
+    t l o . m (SlU!
+25- DID YOU SELL ALCOHOL TOFANS FOR CONSUMPTION OFF
+    THE PREMISES AND CAN YOU ESTIMATE THE QUANTITY?
+
+    & .
+
+
+
+
+26. DID YOU GO TOTHE MATCH (IF YES, COMPLETE A
+    SUPPORTERS QUESTIONNAIRE).
+
+    4 .
+
+
+
+
+27. IS THERE ANYTHING YOU WISH TOADD WHICH YOU FEEL
+    IS VITAL TOTHIS JUDICIAL INQUIRY?
+SIGNATURE OF PERSON INTERVIEWED
+
+
+NAME/RANK/NUMBER OFOFFICER COMPLETING (PRINT IN BLOCK
+CAPITAlS)                           s~\
+
+
+
+
+SIGNATURE OF OFFICER COMPLETING
+
+
+
+QUALITY OFWITNESS                 IMPRESSIVE   . 0 ^
+(TICK BOX APPLICABLE).
+
+                                  AVERAGE      □
+
+                                  POOR         □
+

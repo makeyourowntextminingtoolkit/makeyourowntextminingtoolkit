@@ -1,0 +1,1412 @@
+(
+                                                                                                                                       % ■
+
+
+        The Institution of                                                                 HI V
+        Structural Engineers                                                                                   The Institution of
+                                                                                                               Structural Engineers
+                                                                                                                  Upper Belgrave Street
+                                                                                                                 radon SW1X 8BH
+                                                                                          *                     m . r 4535
+                                                                                                                01-235
+        F rom the P resident                  v
+        P L Campbell   IP D ie CEng FISIniclE FICE FIM arE FIHT FIDE FASCE MConsE                              Fax: 01-235 4294
+         PLC /JW D /M T                                                                                            26 A pril 1989
+
+         R W halley Esq
+         S e c re ta ry to th e T aylor Inquiry
+         Room 662
+         Queen Annes G ate
+         London
+         SW1H 9AT
+
+    #    D ear Mr W halley
+
+         Re:    The Hillsborough tragedy - Saturday, 15 April:
+                Evidence for the Inquiry by Lord Justice Taylor
+
+         The In stitu tio n o f S tru c tu ra l E ngineers has an ad hoc c o m m itte e th a t h as been w orking
+         since D ecem b er 1986 to produce a re p o rt on th e ap p raisa l of sp o rts grounds. The background
+         to th e w ork of th is c o m m itte e is given in th e accom panying p a p e r w ith th e ti tl e 'A ppraisal
+         of sp o rts grounds: Evidence to th e T aylor Inquiry'. The w ork is n o t y e t fully co m p lete
+         b u t has re a c h e d a sta g e w here a co m p lete d r a f t is av ailab le to g e th e r w ith m in u tes of
+         th e c o m m itte e 's discussion o f th e d r a f t. This sta g e was re a c h e d b efo re th e H illsborough
+         tra g e d y so th a t th e view s ex pressed a re n o t in fluen ced by th a t p a rtic u la r e v e n t.
+
+         I believe stro n g ly th a t th e view s developed by th e c o m m itte e a r e im p o rta n t and will be
+         a valuable source o f evidence to Lord J u s tic e Taylor's inquiry. A ccordingly I enclose,
+         to g e th e r w ith th e co v er p ap er, th e th ird d r a f t re p o rt and m in u tes o f th e c o m m itte e m e etin g
+         held on 16 S ep te m b er 1988.
+
+         The f a c t th a t th e In stitu tio n is in th e p ro cess of producing a re p o rt on ap p raisa l o f sp o rts
+         grounds has been re p o rte d in th e te c h n ic a l p ress and th e r e h as been som e sp ecu latio n
+         on its c o n te n ts. H ow ever, it is n o t our in te n tio n to re le a s e th e d r a f t re p o rt to th e p ress
+         or o th e r in te re s te d p a rtie s , a t le a s t a t th is s ta g e . O ur view , w ithin th e In s titu tio n , is
+         th a t th e d r a f t can n o t be se p a ra te d from th e m inuted discussion and, in th e c o n te x t of
+         H illsborough, should be considered w ith a ll th e o th e r ev id en ce th a t is av ailab le to th e
+         Inquiry.
+
+         In ad d itio n to m aking th e fo rm al subm ission, I w rite to o f f e r m y own serv ice s a s a c h a rte re d
+         s tr u c tu r a l en g in eer and P resid en t o f th is In stitu tio n to help w ith th e w ork o f th e Inquiry.
+         In ad d ition m em b ers o f th e In stitu tio n ad hoc c o m m itte e on A ppraisal of S ports grounds
+         w ill be av ailab le to give evid ence in th e ir own rig h t if so req u ire d .
+
+         F inally, m ay I o ffe r my b est wishes fo r th e su ccess o f th e Inquiry w ith th e e x p e c ta tio n
+         th a t th e re su ltin g re p o rt will provide guidance so th a t e v e n ts like th o se of 15 A pril can n o t
+         happen again.
+
+         Yours sincerely
+            1
+
+
+
+
+    •*£ij
+
+
+
+
+            i
+
+
+
+
+i
+The Institution of
+Structural Engineers                                                                                The Institution of
+Founded 1908 Incorporated by Royal C h arter 1934                                                   Structural Engineers
+                                                                                                     11 Upper Belgrave Street
+                                                                                                    London SWlX 8BH
+
+              JW D /C C                                                                             01' 235 4535
+
+                                                                                                    Fax: 01-235 4294
+
+              5 June 1989
+
+
+
+             R M W halley Esq
+             S e c re ta ry to th e Inquiry
+             Inquiry in to th e H illsborough Stadium D isaster
+             50 Q ueen Anne's G ate
+             LONDON SW1H 9AT
+
+
+
+             D ear Mr WJfalley
+
+              HILLSBOROUGH STADIUM DISASTER INQUIRY
+
+             I am replying to your l e t t e r o f 23rd May 1989 ad d ressed to Mr C lark and inviting
+             th e In stitu tio n to subm it w ritte n subm issions to th e Inquiry.
+
+             You will a lre a d y have re c e iv e d our P resid en t's l e t t e r o f 26th A pril to g e th e r w ith
+             one copy o f th e th ird d r a f t re p o rt and m inutes o f th e In stitu tio n 's ad hoc C o m m itte e
+             on th e A ppraisal o f S ports G rounds. I n o te now th a t you would find it h elp fu l if
+             six s e ts o f th e pap ers could be su b m itte d . I will tr y to a rra n g e th a t ad d itio n a l copies
+             re a c h you by 12th June.
+
+             The subm ission which has been m ade re f le c ts th e view o f our C o m m itte e p rio r to
+             th e H illsborough d is a s te r and p rio r to a num ber o f p ra c tic a l stu d ies u n d ertak en by
+             th e C o m m itte e on th e im p le m e n ta tio n o f th e ir reco m m en d a tio n s. Mr M ichael Dickson,
+             th e C h airm an of our C o m m itte e , would be ab le to su m m arise th e se m a tte r s fo r
+             th e b e n e fit o f th e Inquiry.
+
+             I doubt very m uch if Mr D ickson will be able to p rep are a subm ission fo r th e 12th June.
+             I have asked him to w rite to you d ire c tly to advise you when such a subm ission can
+             be m ade av ailab le.
+
+
+             Yours sin ce re ly
+
+
+
+
+             JOHN W DOUGILL
+             D ire c to r of Engineering
+                       THE INSTITUTION            OF STRUCTURAL                ENGINEERS
+
+
+                                APPRAISAL OF SPORTS GROUNDS
+                               EVIDENCE TO THE TAYLOR INQUIRY
+
+C u rre n t position of re co m m en d a tio n s being p re p a re d by an ad hoc c o m m itte e of
+th e In stitu tio n o f S tru c tu ra l E ngineers.
+
+
+Summary
+
+The In s titu tio n of S tru c tu ra l E n g in eers h as an ad hoc c o m m itte e engaged in p rep arin g
+a re p o rt on th e ap p raisa l o f sp o rts grounds.           The w ork w as s ta r te d follow ing th e
+re p o rt o f th e Popplew ell Inquiry.          H ow ever th e w ork has a lre a d y re a c h e d a s ta g e
+w here th e m ain th in k in g and re c o m m e n d a tio n s o f th e ad hoc c o m m itte e a r e e v id en t
+from th e c u rre n t (3rd) d r a f t r e p o r t and th e m in u tes o f th e discussion of th is d r a f t
+(both enclosed).          B ecause of th is, th e In s titu tio n is s u b m ittin g th e 3rd d r a f t re p o rt
+and m in u tes o f th e discussion on 15 S e p te m b e r 1988 a s ev id en ce to th e T aylor Inquiry.
+It m ust be em p hasised th a t th e re p o r t should be re a d in co n ju n ctio n w ith th e m in u tes.
+The copy of th e re p o r t enclo sed h as th e r e f o r e been a n n o ta te d to c ro s s -re fe r to
+th e m inu tes.
+
+
+Background
+As p a r t o f it s w ork th e In s titu tio n s e ts up ad hoc c o m m itte e s to p re p a re re p o rts
+to help s tr u c tu r a l en g in eers and, w h ere a p p ro p ria te , o th e rs in th e ir p ro fessio n al
+a c tiv itie s .    Follow ing th e re p o rt o f th e Popplew ell C o m m itte e , it w as d ecid ed to
+s e t up an ad hoc c o m m itte e to p ro d u ce a re p o rt on a p p ra isa l o f sp o rts grounds w ith
+th e r e m it and m em b ersh ip annexed.
+
+
+T ech n ical re p o rts o f th e In stitu tio n a r e prod u ced by th e v o lu n ta ry e f f o r ts o f m em b ers
+o f th e c o m m itte e .    B ecause o f th e public in te r e s t, an a p p lic a tio n w as m ade in th is
+case to th e D e p a rtm e n t o f th e E n v iro n m en t to fund th e d ra ftin g so t h a t th e
+p re p a ra tio n of th e re p o rt could be speeded up. A lthough no funds w ere fo rth co m in g ,
+help h as been re c e iv e d by th e p re se n c e on th e c o m m itte e o f tw o m em b ers from
+th e DoE and one fro m th e H om e O ffic e . The co m b in atio n of skills and know ledge
+of th is c o m m itte e h as been c a re fu lly p u t to g e th e r to r e f le c t th e in te r a c tiv e sy stem s
+n a tu re of a ll th e com ponent e le m e n ts in assessing th e s a f e ty of any fa c ility , stan d
+or ground.          The c o m m itte e h as am ong its m em b ers tw o building co n tro l o ffic e rs,
+e x p e rts in crow d psychology, p e d e s tria n flow and f ire en g in eerin g , a s w ell a s m e m b ers
+w ith e x p e rie n c e o f design and a p p ra isa l o f g ran d stan d and stad iu m and sp o rts
+s tru c tu re s .
+Report preparation
+The c o m m itte e , w hich f ir s t m e t on 17 D ecem b er 1986, a llo c a te d d ra ftin g o f sectio n s
+o f th e re p o rt to m em b ers o f th e c o m m itte e acc o rd in g to th e ir e x p e rtis e , ex p erien ce
+and background.          The c o m m itte e a s a whole la s t m e t on 15 S ep te m b er 1988, and
+had b efo re it th e 3rd d r a f t.       S ectio n 4 (F ire sa fe ty ) had n o t been brought up to
+th e '3rd d r a f t' s ta n d a rd , b asically b ecau se o f d iffic u ltie s in developing th e fire
+ta b le s fo r p r a c tic a l use.   The l a te s t version of S ectio n 4 is re p re s e n te d by        th e
+d r a f t se n t o u t to c o m m itte e m em b ers in N ovem ber 1988. Since th is d a te th e 3rd
+d r a f t and S ectio n 4 hav e been used to a p p ra ise a n u m b er of ex istin g sp o rts grounds
+as a m eans o f e v alu atin g th e d r a f t and it s ease o f use.
+
+
+D ra fts a re discussed a t c o m m itte e m e etin g s and, w h ere n e c e ssa ry , am end ed in
+lig h t of th e discussion. The 3rd d r a f t w as so discussed, and th e am en d m en ts proposed
+a r e re c o rd e d in th e m inu tes o f th a t m e etin g .     The c o m m itte e would co ntinu e to
+discuss d r a f ts , refin in g th e c o n te n t and th e w ording u n til it w as s a tisfie d th a t th e
+d ocu m ent w as s u ita b le fo r p u b licatio n .   The d r a f t would th e n be su b m itte d to th e
+In stitu tio n 's E n gineering C o m m itte e fo r assessm en t w ith th e reco m m en d a tio n th a t
+th e do cu m en t be published a s an In stitu tio n re p o rt.
+
+
+The tr ia l a p p licatio n s to ex istin g sp o rts grounds and th e 4 th d r a f t of th e re p o r t
+(under p re p a ra tio n ) w ill be co n sid ered a t a m e etin g of th e c o m m itte e on T uesday,
+9 May 1989, th e m e e tin g having been a rra n g e d p rio r to th e H illsborough tra g e d y .
+While th e c o m m itte e w ill no doubt wish to c a rry on w ith its c o n sid e ra tio n of th e
+4 th d r a f t it is a n tic ip a te d th a t th e c o m m itte e would n o t reco m m en d p u b licatio n
+u n til it had had th e o p p o rtu n ity o f considering a t le a s t th e in te rim r e p o r t from
+th e Taylor Inquiry.
+
+
+A ssociated work
+In 1980 th e In stitu tio n produced th e re p o rt A pp raisal o f e x istin g s tr u c tu r e s (copy
+enclosed) and m ore r e c e n tly h a s been involved in th e p re p a ra tio n of a r e p o r t on
+S a fe ty c o n sid e ra tio n s in th e design and e re c tio n o f d em o u n tab le g ran d stan d s which
+is a t page p ro o f s ta g e (un read copy enclosed).
+
+
+Further evidence
+The In stitu tio n w ishes to be a s h elp fu l as possible and should th e T ay lor Inquiry
+so d esire w ill a rra n g e fo r th o se m em bers co n cern ed w ith th is w ork to give ev id en ce
+o r help in an y o th e r w ay w ithin th e In stitu tio n 's pow ers.
+
+
+
+
+RJW M /M T
+                                                                                                               ANNEX
+
+
+                              THE INSTITUTION OF STRUCTURAL ENGINEERS
+
+
+                      AD HOC COMMITTEE ON APPRAISAL OF SPORTS GROUNDS
+
+
+
+The fa ilu re s a t B irm ingham , B radford and B russels fo o tb a ll grounds o f 1985 led d ire c tly
+to th e esta b lish m e n t o f Mr. JustiaeP o pp lew ell's R e p o rt. This R e p o rt hig h lig h ted fu r th e r
+th e p o te n tia l d ificie n cies, so m e tim e s se v e re , w hich e x ist in m any sp o rts sta d ia in th e UK,
+d esp ite th e e x iste n c e o f th e G reen G uide 'Guide to S a fe ty a t S p o rts G rounds - F o o tb all
+(1976)'. This G uide had o rig in ally h ig h lig hted th e n eed fo r th o ro u g h , co m p lete en g in eering
+analysis o f such fa c ilitie s .
+
+
+Such p o te n tia l problem s a re n o t lim ite d to fo o tb a ll grounds b u t can and do n eed to be id e n tifie d
+and solved fo r alm o st ev ery rugby le ag u e, c ric k e t, te n n is o r g o lf s ta n d s w h ere high o ccu p a tio n a l
+d en sities can be ach iev ed .
+
+
+All fa ilu re s th a t hav e o c c u rre d in r e c e n t y e a rs h av e in a sen se been eng in eerin g fa ilu re s
+w hich th e ap p licatio n of en g in eerin g m eth o d and an alysis could h av e p re v e n te d a t litt le
+ad d itio n a l f ir s t co st. A p p raisal is la rg e ly an a n a ly tic a l p ro cess su ita b le fo r ex ec u tio n by
+a person tra in e d a s an e n g in e e r. R ea lly a g uidance d o c u m e n t is re q u ire d to en ab le c o m p e te n t
+en g in eers to c a rry o u t a re a lib le and c o m p le te ap p raisa l o f ex istin g sp o rts s ta d ia and fo r
+th e ev alu atio n o f th e design o f new ones.
+
+
+The e sta b lish m e n t o f an ad hoc C o m m itte e by th e In s titu tio n is th e r e f o r e both a p p ro p ria te
+and would be e f f e c tiv e in th e p ro d u ctio n o f such a g uid ance d o c u m e n t ov er th e n e x t tw o
+to th r e e y e a rs. With good o rg a n iz a tio n a l la y o u t, u p -to -d a te re fe re n c in g and co m pilatio n
+such a d o cu m en t would su p p lem en t th e G reen G uide a s th e s ta n d a rd d o cu m en t w orldw ide
+to esta b lish good p r a c tic e .
+
+
+The r e m it given to th is C o m m itte e should be to prod u ce an in te g ra l d o cu m en t w hich ta c k le s
+th e problem s o f s tr u c tu r a l co n d itio n , tr a f f i c flow , crow d d e n s itie s and f ire s a f e ty in th e
+lig h t o f m odem crow d m a n a g e m e n t te ch n iq u es. It should ad d ress its e lf to th e e v alu atio n
+o f individual e le m e n ts , e a c h sta n d a r e a and th e to t a l com plex.
+                                                                                           ANNEX
+
+Topics fo r its b rie f should include:
+
+
+      C e rtific a tio n re q u ire m e n ts
+
+
+      M anagem ent m ethods and crow d co n tro l and tic k e tin g a rra n g e m e n ts
+      *     e x te rn a l tic k e t and m arshallin g , a u to m a tic co un tin g
+      *     public fa c ilitie s v ersu s in te rn a l zoning
+      *     CCTV and public co n tro l
+
+
+      Crow d flow p a tte r n s - by s ta n d s /a s a w hole com plex
+      *   no rm al s ta te s
+      *   em erg en cy p ressu re s
+      *     m eth o d s o f analysis - r e f e r e n c e s
+      *     g e o m e tric a l design o f b a rrie rs and w alls
+
+
+      L ighting sy stem s and e le c tr ic a l a p p ra isa l
+      *    floods
+      *     em e rg e n c y /sta n d b y c a p a c ity
+
+
+      F ire design
+      *     f ire load (w aste, wood, p la stic s, e tc )
+      *     re s is ta n c e to fla m e sp read and c o m p a rtm e n ta tio n
+      *     sm oke flow and v en tin g
+      *     s tr u c tu r a l re s is ta n c e to fire
+      *     m eans o f e sc a p e - ro u te s, tim e , n um b ers
+      *     a c tiv e f ire fig h tin g m eans
+
+
+      C a p a c ity o f stan d s
+      *     flow r a t e lim ita tio n /a c c e s s to s ta ir s and ram p s
+      *     crash b a rrie rs - m e d ical lim its
+                                    - push and le a n fig u res
+                                    - spacing
+                                    - te s tin g
+
+
+     S tru c tu ra l a p p ra isa l
+      * - : : loadings
+      *     co n d itio n /ag ein g
+      *    f ire re s is ta n c e
+      *    in sp ectio n and te s ts
+      *     re m e d ia l w orks
+
+     All to be re fe re n c e d .
+                                                                                    ANNEX
+
+                 THE INSTITUTION           OF     STRUCTURAL     ENGINEERS
+
+          AD HOC COMMITTEE ON APPRAISAL OF SPORTS GROUNDS
+
+
+M G T D ickson Esq BA MS                                D avid K aye Esq CEng F IS tru ctE
+       CEng M IStructE                                  Ove A rup & P a rtn e rs
+Buro Happold                                            13 F itz ro y S tr e e t
+C am den Mill                                           London        W1P 6BQ
+Low er B ristol R oad
+                                                        Tel: 01-636 1531
+B ath   BA2 3DQ
+                                                        Fax: 01-580 3924
+Tel: 0225 337510
+Fax: 0225 311779
+                                                        J R P a rtin g to n Esq CEng M IStructE
+                                                        c /o D ep t o f P ro p e rty S erv ices
+B K B ardhan-R oy Esq BE CEng                           L a n cash ire C o u n ty Council
+              F IS tru c tE FICE                        P O Box 26
+Ja n Bobrowski & P a r tn e rs                          P re sto n
+G rosvenor House                                        Lancs
+G rosvenor R oad
+                                                        Tel: 0772 54868 x 3191
+Tw ickenham
+                                                        Fax: 0772 263506
+Middx     TW1 4AA
+Tel: 01-892 7627
+                                                        A F K Shaw Esq BSc(Hons) CEng
+Fax:
+                                                                           M IStructE MICE
+                                                        22 B rookfields
+P ro fesso r D V C a n te r PhD FBPsS FBIM              N e th e rto n
+P ro fessor of A pplied Psychology                      W akefield
+U niversity of S urrey                                  W est Y ork sh ire   WF4 4NL
+G uildford
+                                                        T el: 0532 463683
+Surrey       GU2 5XH
+                                                        Fax: 0532 449298
+Tel: 0483 509266 / 571281
+Fax:
+                                                        R J C S ta n to n Esq CEng MICE MIHT
+                                                        G M aunsell & P a rtn e rs
+J F D ickie Esq BSc PhD                                 Y eom an House
+Simon E ng ineering L a b o ra to rie s                 63 C roydon R oad
+U niversity of M an ch este r                           Penge
+O xford Road                                            London      SE20 7TP
+M an ch ester    M13 9PL
+                                                        T el: 01-778 6060
+T el: 061 275 4324 / 4310                               Fax: 01-659 5568
+Fax: 061 275 3844
+                                                        Brian S tic k le y Esq CEng F IS tru ctE
+P ro fessor E H appold RDI BSc FEng                     P rin cip al C iv il/S tru c tu ra l E n gineer
+               F IS tru c tE FICE FCIOB                 Home O ffic e
+School o f A r c h ite c tu r e & Building Engg         HM P rison S erv ice
+U niv ersity o f B ath                                  A bell H ouse
+C la v erto n Down                                      John Islip S tr e e t
+B ath      BA2 7AY                                      London        SW1P 4LH
+Tel: 0225 826826                                        T el: 01-217 5352
+Fax: 0225 62508                                         F ax: 01-217 5732
+
+A J M H eselden Esq F IF ireE                           S T horburn Esq FE ng F IS tru ctE FICE
+F ire R e se a rc h S ta tio n                                               FASCE FIHT FGS
+M elrose A venue                                        T h o rb u m A sso c ia te s
+Boreham wood                                            145 W est R e g e n t S tr e e t
+H e rts      WD6 2BL                                    Glasgow         G2 4SA
+Tel: 01-953 6177                                        Tel: 041 226 3611
+Fax: 01-207 5299                                        F ax: 041 248 3773
+                                                   ANNEX
+L T u rn er Esq OBE ARIBA
+D e p a rtm e n t o f th e E n viro n m ent
+Room 2407
+M illbank Tow er
+21/24 M illbank
+London SW1P 4QU
+T el: 01-211 8781
+F ax: 01-211 6004
+
+
+
+R J W Milne Esq
+A ssista n t D ire c to r o f E ngineering
+The In stitu tio n of S tru c tu ra l E ngineers
+11 U pper B elgrave S tr e e t
+London        SW1P 8BH
+T el: 01-235 4535
+F ax: 01-235 4294
+                                                                                                 A SG /88/26
+
+                              THE INSTITUTION O F STR U CTU R A L ENGINEERS
+
+
+     MINUTES of a m e e tin g o f th e ad hoc C o m m itte e on A PPRA ISA L O F SPORTS GROUNDS
+     SW ?xa8RT$he
+     SW1X  8BH, on I?F rid
+                       - ? aUti0i
+                            y , 16a c°f    StT
+                                    S e p te m b etUral
+                                                  r 1988,En§in e e rs ' 11
+                                                          a t 10.30am   .  UP P ^          B elgrave S tr e e t, London
+
+ PRESENT:                             M r M G T D ickson, C h airm an
+                                      D r J F D ickie
+                                      M r M G G reen
+                                      M r D K aye
+                                      Mr R P a rtin g to n
+                                      M r A F K Shaw
+                                      Mr R J C S tan to n
+                                      M r B S tick ley
+
+                                       Mr R J W M ilne, S e c r e ta r y
+
+
+ 1.      APOLOGIES F O R ABSENCE
+
+         xAP ° loJ;ie s fo r ab sen ce w ere re c e iv e d fro m M r B K B ardhan-R oy, Mr A J M H eselden.
+         Mr S T h o rb u m and M r O L T urner.
+
+
+ 2.      MINUTES
+
+         The m in u tes (A SG /88/20) o f th e m e e tin g held on W ednesday, 15 Ju n e 1988 w ere
+         co n firm ed , and signed by th e C h airm an .
+
+
+3.       MATTERS ARISING
+
+        T h ere w ere no m a tte r s arisin g no co v ere d b y th e ag enda.
+
+
+4.       R E PO R T O F MEETING WITH JA K E PAULS
+
+        The C h airm an re p o r te d th a t Mr J a k e P a u ls h ad given an e x c e lle n t ta lk a b o u t life
+        s a f e ty p ro b le m s in US sp o rts grounds. The g e n e ra l feelin g h ad b een th a t som e
+        o f th e US w ork was n o t d ire c tly a p p licab le to UK co n dition s b eca u se th e public
+        a t m any o f th e sp o rtin g e v e n ts w as m a d e up la rg e ly o f fa m ilie s, and th e e v e n ts
+        w ere no t co n fin ed to , say, 1H hours sp o rtin g e v e n t, b u t included e n te r ta in m e n t
+        as w ell. In som e w ays w ork in th e UK w as m o re ad v an ced th a n th a t in th e US.
+        Mr P au ls h ad m e n tio n e d th e r e c e n t re v isio n o f th e life s a f e ty co d e, a copy o f w hich
+        w as being o b ta in e d .
+
+
+5.      APPRAISAL R E P O R T
+
+        (a)   3rd d r a f t
+              G en eral c o m m en ts on th e 3rd d r a f t (ASG /88/21) w ere:
+
+                  The r e p o r t should include n u m e ric a l an sw ers w h ere a t all possible. P r a c tic a l
+                  ex a m p le s should be included.
+
+                  The r e p o r t should n o t m ake re c o m m e n d a tio n s on w h e th e r o r n o t high s e c u rity
+                  fe n c e s w ere used b u t m ake re c o m m e n d a tio n s fo r th e tw o cases:
+                                                        - 2-
+
+
+            (i)        w hen fe n c e s w ere used
+            (ii)       w hen fe n c e s w ere no t.
+
+            (subsection 2.3.3, p ag e 2/6)
+
+    The fire ta b le s in S ectio n 4, when re v ise d , should n o t be in such a fo rm a s to
+    allow clubs to in c re a s e th e len g th o f tim e o f e v a c u a tio n o f th e sta n d w here
+    th is w as n o t ju s tifie d .
+
+    S ectio n 7 n eed e d en larg in g p a rtic u la rly in th e r e f e r e n c e to o th e r s tr u c tu r e s
+    such as te n ts . The d if f e r e n t desig n philosophy w as n eed ed fo r te m p o ra ry as
+    co m p ared to p e rm a n e n t sta n d s so th a t such th in g s as seaso n al wind sp eed could
+    be ta k e n in to a c c o u n t.
+
+    A ppendix B should n o t be included b e c a u se i t s tra y e d from th e m ain p urpose
+    of th e r e p o r t.
+
+(b) P a r tic u la r ite m s
+
+    (i)            C losure o f e x istin g stan d s
+                   It w as a g re e d to d e b a te su b se ctio n 4.8 w hen th e fire se c tio n h ad b een
+                   re v ise d .
+
+    (ii)           T estin g o f cru sh b a rrie rs
+                   The GLC s p e c ific a tio n (ASG/88/22) w as n o te d . It w as f e lt th a t A ppendix D
+                   could inclu de illu s tra tio n s of a t e s t ta k in g p la c e and an in te r p r e ta tio n
+                   o f th e re s u lts .
+
+    (iii)          A m ended f ire grading ta b le s
+                   The F ire S u b co m m ittee (Mr G reen , M r H eselden and M r Turner) w ere
+                   asked to am en d th e ta b le s in lig h t o f th e discussio n as soon as possib le.
+                   It w as f e lt th a t su b sectio n 4.2 d ealin g w ith new s tr u c tu r e s should b e
+                   p la c e d a t th e end o f S ectio n 4.
+
+    (iv)           Surge loadings
+                   The C h airm an p o in te d out th a t th e D em o u n tab le g ran d stan d s r e p o r t
+                   (not y e t published) rec o m m e n d e d 5% of th e v e r tic a l im posed loading
+                   to b e ap plied as an im posed su rge lo ad , w hile r e c e n tly , D r D ick ie had
+                   su g g ested th a t th e h o riz o n ta l load w as 1 5 0 N /seat w hich, fo r lig h tw eig h t
+                   sta n d s, w as m o re o f th e o rd e r o f 10% o f th e v e r tic a l im posed loading.
+                   A ccordingly, it w as f e lt th a t, as re p h ra s e d in clau se 6 .6 .5 ,^ i e e n g in e e r
+                   had th e o p p o rtu n ity to d ecid e w h at p e r c e n ta g e should be a p p l i e ^ ^ . ——---------—
+
+(c) A ppraisal o f d y n am ic e f f e c ts                                                               v*________           ^
+    The C h airm an p o in te d o u t th a t follow ing th e d iscussion a t th e prev io u s m e e tin g
+    D r C ook and M r T h o rb u m h ad re v ise d th e wind loading s ta te m e n ts and clau se
+    3.6.4 r e f le c te d th is rev isio n . It was a g re e d th a t P ro fe s s o r B olton should be
+    asked to co m m en t on clau se 3.6.4 and th e C h a irm a n u n d e rto o k to w rite to him
+    to th is e f f e c t.
+
+    It was a g re e d th a t som e o f th e r e f e r e n c e s should w ell b e o m itte d , i.e . BRE
+    D ig est 119 and 283, to g e th e r w ith th e D ig e sts n o t y e t issued by th e BRE. The
+    r e f e r e n c e by D r C ook on 'S im u latio n te c h n iq u e s fo r s h o rt t e s t s e c tio n wind
+    tu n nels' should be tr a n s f e r r e d to su b se ctio n 6.8.
+ (d) A pp raisal o f crow d flow r a t e s
+       In lig h t o f th e ta k e by M r J a k e P au ls and th e f a c t th a t th e flow r a t e s given
+       in A ppendix C m igh t be used to c a s t doubt on th e r a t e s used in S ectio n 5 it
+       was a g re e d to o m it A ppendix C.      -                                                    '
+
+ (e)    L ist o f illu s tra tio n s
+        It was a g re e d to inclu de a s e le c tio n o f illu s tra tio n s p ro v id ed by Mr Shaw showing
+        com m on d e f e c ts in sp o rts grounds, to g e th e r w ith illu s tra tio n s o f crush b a r r ie r
+        t e s t rig s and a flow d ia g ram . The C h airm an would c irc u la te th e full list of
+        illu s tra tio n s on r e c e ip t o f co m m en ts fro m C o m m itte e m em b ers.
+
+(f)    N ex t step s
+       It w as a g re e d to aim to p ro d u ce th e 4 th d r a f t in tim e to su b m it th is to th e
+       m e e tin g o f th e E ng in eerin g C o m m itte e on 23 N ov em ber 1988. It w as th e r e f o r e
+       n e c e ss a ry fo r m e m b ers to le t th e S e c re ta ry h av e co m m e n ts on th e ex istin g
+       d r a f t by F rid ay , 30 S e p te m b e r 1988.
+
+
+ANY OTHER BUSINESS
+
+T h ere w as no o th e r business.
+
+
+FU TU RE MEETINGS
+
+It was a g re e d th a t th e n e x t m e e tin g should be held on F rid a y , 11 N ov em ber 1988.
+a t 10.30am .
+The Institution of Structural Engineers
+
+
+FEBRUARY 1989
+
+
+
+
+Safety considerations for
+
+The design and erection of
+demountable grandstands
+
+
+
+
+Published by the Institution of Structural Engineers
+* The Institution of Structural Engineers
+
+
+
+
+ Safety considerations for
+
+ The design and erection of
+ demountable grandstands
+
+
+
+
+ February 1989
+
+
+
+ The Institution of Structural Engineers
+ 11 UPPER BELGRAVE STREET, LONDON SWlX 8BH
+    Constitution of Working Party
+4
+
+
+
+
+ Francis Walley, CB, FEng, Chairman (Ove Arup Partnership)
+ S. W. Brackley (Audience Systems Ltd.)
+ A. J. Breeze, CEng, MIMechE (formerly with GKN Kwikform Ltd.)
+ J. F. Dickie, BSc, PhD, CEng. MIStructE (University of Manchester)
+ David Kaye, CEng, FIStructE (Ove Arup & Partners)
+ D. W. Lovering (GKN Kwikform Ltd.)
+ Ron Smith (Arena Promotional Facilities Ltd.)
+ R. J. W. Milne, BSc, Secretary (The Institution of Structural Engineers)
+
+
+
+
+ © 1989: The Institution of Structural Engineers
+| This publication is copyright under the Berne Convention and the International
+  Copyright Convention. All rights reserved. Apart from any copying under the UK
+  Copyright Act 1956, part 1, section 7, whereby a single copy of an article may be
+i supplied, under certain conditions, for the purposes of research or private study, by
+i a library of a class prescribed by the UK Board of Trade Regulations (Statutory
+I Instruments, 1957 no. 868), no part of this publication may be reproduced, stored in
+1a retrieval system or transmitted in any form or by any means without prior
+| permission of the Institution of Structural Engineers. Permission is not, however,
+j required to copy extracts on condition that a full reference to the source is shown.
+  Multiple copying of the contents of the publication without permission con-
+  travenes the aforementioned Act.
+
+2                                                                                         IStructE report: D em ountable grandstands
+
+
+2_
+Contents
+
+
+
+Scope                                           5
+ 1 Analytical procedures and assumptions
+   adopted during design                        6
+ 2 Design                                      7
+   2.1 General                                 7
+   2.2 Loading                                 7
+   2.3 Ultimate limit states                   7
+   2.4 Design strength                         7
+   2.5 Factored load                           7
+ 3 Proof loading tests                         g
+   3.1 General                                 8
+   3.2 Test conditions                         8
+   3.3 Loading                                 8
+   3.4 Acceptance test                         8
+   3.5 Strength test                           8
+   3.6 Test to failure                         8
+4 Stand occupancy, usage and means of access    9
+  4.1 Stand seating                             9
+  4.2 Sightlines                                9
+  4.3 Ingress considerations                    9
+  4.4 Egress requirements                       9
+  4.5 Exit doors                                9
+  4.6 Stand access and evacuation               9
+  4.7 Balustrading and handrails               10
+  4.8 Stairways and ramps                      10
+  4.9 Voids and additional structures          10
+  4.10 Licensing                               10
+5 Ground conditions — foundation design
+  assumptions                                  11
+  5.1 General                                  11
+  5.2 Permanent bases                          11
+  5.3 Common ground bases                      11
+  5.4 Assessment of ground conditions          11
+  5.5 Allowable bearing pressures              11
+6 Dynamic response                             12
+7 Growth of imperfections because of
+  repeated use                                 13
+  7.1 General                                  13
+  7.2 Scaffolding components                   13
+8 Work on site                                 13
+  8.1 Inspection by contractor                 13
+  8.2 Assembly                                 13
+9 Inspection                                   14
+10 Guardrails and toeboards                    14
+11 Non-slip surfacing of walkways              15
+12 Contractural and insurance considerations   15
+   12.1 Contractural considerations            15
+   12.2 Insurance                              15
+   References                                  16
+
+
+
+IStructE report: D em ountable grandstands
+IStructE report: Demountable grandstands
+ Scope
+
+
+
+
+This document draws together inform ation1,2’3 that a chartered engineer should be
+aware of when designing o r analysing dem ountable spectator stands.
+   In the context of this docum ent, dem ountable stands are considered to be
+structures assembled from suitably connected single and/or part-assembled
+com ponents supporting a level or stepped platform . In general it is expected that they
+will not be in a position for periods longer than one m onth and that after dismantling
+the constituent parts will be reused m any times. It is assumed that they will have to
+conform with Building R egulations A l , 2 and 3 and B1 and B3.4
+   Much of the m aterial is naturally com m on to the design of all stands w hether
+perm anent o r dem ountable. Special emphasis is how ever placed on those items that
+are likely to be of greater im portance in the design of dem ountable stands. It
+concerns:
+   stand occupancy access and egress
+   loading
+   foundation design assumptions
+   analytical procedures and
+   inspection responsibilities
+  It should also prove helpful when assisting his client to draw up the brief before
+going out to tender. A clear brief to the supplier is essential to avoid
+misunderstanding later.
+
+
+
+
+IStructE report: D em ountable grandstands
+     1                   Analytical procedures <md assumptions
+                                         adopted during design
+
+
+     The structures under consideration are generally lattice          principal structure assemblies currently in use. Local and
+     structures and contain large numbers of common                    overall stability should be considered. Individual
+     structural elements. Although a high degree of                    compression member strength depends on the length
+     indeterminancy exists, skeletal frame analysis is eminently   : between points of lateral restraint, end fixity, continuity
+     suited to solution by generally available computer            , and straightness, and the manner in which connections
+     programs. Second-order analysis may be desirable in the           transfer their loads, and few of these are known with
+     absence of proof-loading tests (see subsection 3.1).          : certainty.
+        Care must be exercised in providing the acceptable                Consideration should be given to secondary' stresses
+     mathematical model. Fig. 1 shows the cross-sections of         i arising from the eccentricity of connections, elastic
+                                                                   i deformation of the structure, rigidity of joints and
+                                                                   1slackness of fit. When values can be established for any
+                                                                   i of these characteristics, such values should be used in
+                                                                    i calculations.
+                                                                          Overall stability can be assured by providing adequate
+                                                                    !strength in the structure to resist sway since grandstands
+                                                                   I are subjected to large horizontal forces arising from the
+                                                                       movement of spectators. The structure should therefore
+                                                                    i be designed to accommodate a horizontal force equal to
+                                                                    : 5% of the vertical imposed load in addition to the wind
+                                                                    !load.
+                                    (o )                                  Stability against overturning will depend on the self-
+                                                                    !weight of the structure, together with any additional
+                                                                    : anchorage or restraint that may be provided. Equally, the
+                                                                    i design should be such that locally imposed loading will not
+                                                                       cause any part of the structure to lift. Then, under the
+                                                                    i worst possible loading combination, the righting moment
+                                                                    ; should be not less than 1.5 x the overturning moment.
+                                                                          The designer should check that disproportionate
+                                                                   i   collapse will not occur if a specified number of secondary
+                                                                    : components should be omitted or removed. Similarly, the
+                                                                    i design should provide for a redistribution of load in the
+                                                                    i event of local damage arising from passing vehicular
+                                                                    I traffic unless steps are taken to avoid this possibility.
+I1                                  (b)                              I Periodic forces may arise because of gusting wind,
+                                                                     j installed machinery, and concerted spectator activity
+                                                                    i responding to some external stimulus such as music.
+                                                                     IBecause of the nature of the structural forms adopted, the
+                                                                     I levels of force and power required to cause permanent
+                                                                     i damage would be attainable ar low frequencies. The
+                                                                     Ifundamental frequency of a demountable grandstand
+                                                                     j should be estimated or measured (see Section 6).
+
+
+
+
+                                     (c)
+
+
+
+
+                                      <d)
+
+     Fig. 1 Cross-sections o f structure assemblies
+
+     6                                                                                       IStructE report: D em ountable grandstands
+2                                                                                                              Design
+
+
+
+2.1 General                                                        in the most unfavourable realistic combination for the part
+The design of demountable grandstand elements or                   or effect under consideration. The load capacity of each
+components should take into account the possibility of             member and its connections should be such that the
+erectors or other persons standing or placing their weight         factored loads would not cause failure.
+on elements in order to assemble other components, or                 The factors in Table 1 are applicable to limit-state     ;
+gain unauthorized access. Consequently, all components             design of grandstands constructed from structural
+and their individual elements should be sufficiently robust        steelwork (see BS 5950: Part l 7). Where other materials
+to accept such forces, and their fixings should be                 or working stress methods are used, the use of these
+sufficiently secure to resist displacement in such                 factors may be inappropriate, and the designer should
+conditions.                                                        refer to other codes and standards.
+  Secondary members such as bracings should be
+included in sufficient numbers, so that the absence or             2.3.2 Stability limit state
+removal of up to two adjacent members would not initiate           In considering the overall stability of the structure or part,
+a disproportionate collapse of a grandstand structure.             the loads should be increased by the relevant Yf factors
+                                                                   shown in Table 1. The designer should consider overall
+2.2 Loading                                                        frame stability, which embraces stability against              j
+All relevant loads should be considered separately and in          overturning and sway stability.                                j
+such realistic combinations as to comprise the most critical          The factored loads should not cause the structure or any |
+effects on the elements and the structure as a whole.              part of the structure (including the foundations) to       • I
+Loading conditions during erection should also receive             overturn. The combination of imposed and dead loads j
+attention.                                                         should be such as to have the most severe effects on
+   In addition to the self-weight of the framework and its         overall stability. The structure should be adequately stiff j
+seating, the structure should also be designed to                  against sway in both the transverse and longitudinal
+withstand:                                                         directions.
+(a) imposed loading in accordance with Table 7 of BS               2.4 Design strength
+     6399: Part 1: 1984,5 which ^requires 4.0kN/m2 for the
+     seated areas, and 5.0kN/m2 or a concentrated load of          The design strength is the yield strength of the material, ;
+     4.5kN for corridors, stairs and passageways                   Y%, multiplied by the appropriate safety factor. For steel,,
+(b) wind loads unless otherwise agreed in accordance               the design strength may be taken as 1.0 x y s, but not
+     with CP 3: Chapter V: Part 2: 1972,6 where the                greater than 0.84 Us, where Ys and Us are the minimum ;
+     framework is not housed within an existing building.          yield strength and minimum ultimate tensile strength,
+     It should be noted that a stand and its canopy where          respectively, as specified in BS 43608 (or as agreed with
+     provided that is adequate for city-centre wind speeds         the steelmaker).
+     may be inadequate for exposed sites
+(c) in addition to wind forces, a surge load of 5% of the          2.5 Factored load
+     vertical imposed load (but see Section 6)                   The factored load is the specified load, multiplied by the;
+(d) any load redistribution arising from voids formed for      j relevant Yf factor in Table 1.
+     ancilliary purposes by the omission of members.           I
+   Perimeter guardrails and their fixings should be capable
+of resisting the loads stated in subsection 4.7.
+   The magnitude and frequency of fluctuating loads and        '
+increased forces arising from the dynamic response of the
+structure (see Section 6) should also be considered.           !
+2.3 Ultimate limit states
+2.3.1 Limit state of strength
+In checking the strength and stability of the structure, the
+loads should be multiplied by the relevant Yf factors
+shown in Table 1. The factored loads should be applied
+Table 1 Values of Yf for different loading combinations
+loading                                        factor, y f
+dead load                                          1.4
+dead load restraining uplift or overturning        1.0
+dead load acting with wind and imposed
+  loads combined                                   1.2
+imposed load                                       1.6
+imposed load acting with wind load                 1.2
+wind load                                          1.4
+handrail loads                                see Section 4
+
+IStructE report: Dem ountable grandstands                                                                                       7
+    3                                                                                 Proof loading tests
+
+
+
+     3.1 General                                                           3.6 Test to failure
+     There may be many instances when the contractor                       It is only from a test to failure that the real mode of failure
+     chooses or is requested to offer proof tests to substantiate          and true capacity of a specimen can be determined.
+     the frameworks he is proposing. Such tests may be                     Alternatively, the objective may be to determine the
+     deemed necessary:                                                     allowable design capacity from the ultimate test capacity.
+     (a) when the contractor is unable to produce complete                 In this situation it is still desirable to carry out the load
+         justification calculations or when a framework or                 cycling of the acceptance and strength tests.
+         constituent part is not amenable to reliable calculation             Before a test to failure the specimen should first satisfy
+     (b) when there is doubt as to whether the quality of                  the strength test described. During a test to failure the
+         materials or workmanship is of the required standard              loading should first be applied in increments up to the
+     (c) when meterials or design methods are used other than              strength test load. Consideration of the principal
+         those of the relevant specification or code of practice           deflection plot should then determine subsequent load
+     (d) when design load limits are to be established from a              increments.
+         knowledge of the ultimate capacity of a component or                 Provided that there is a ductile failure the design
+         structure                                                         capacity of a similar assembly may be determined from:
+    ■ (e) for purposes of acceptance.                                        , .         .     „ /        design strength      \
+                                                                            design capacity = Kx I --------- j ■                 t- Jx
+                                                                                                  \ averaged yield strength J
+ 3.2 Test conditions
+                                                                                                                          (ultimate test load)
+:The loading system should adequateliy simulate the
+imagnitude and distribution of the loading and allow the                      For a single test Kt should be taken as 0.9 unless the
+ specimen to behave in a manner representative of service                  resulting capacity falls below the design capacity
+ condtions. Loading should be applied in a number of                       confirmed by the strength test, when the latter should be
+ regular increments at regular intervals. On the attainment                taken. For two or more related tests, Kt may be taken as
+ of maximum load, the load should be maintained for at                     1.0 provided that the lowest of the individual ultimate test
+ileast lh with recordings being taken at the beginning and                 loads is used.
+ end of this period and on removal of the load.                               In the case of a sudden (‘brittle') failure, the averaged
+                                                                           yield strength should be replaced by the averaged UTS of
+  3.3 Loading                                                              the steel, or by 1.2 x the averaged yield strength in the
+:The test load for an acceptance test should be (actual dead               case of a sudden buckling-type failure.
+lload x 1.0) + (imposed load x 1.25). The test load for a
+• strength test should be based on the factored load
+i calculated in accordance with BS 59507 with appropriate
+!factors applied to dead, imposed and wind loads
+:separately or in combination as appropriate.
+  3.4 Acceptance test
+;This test is intended as a non-destructive test for
+i confirming structural performance. The assembly should
+  prove capable of sustaining the test loading given in
+  subsection 3.3.
+ 3.5 Strength test
+ The strength test is used to confirm the calculated capacity
+iof the structure or component. Before carrying out the
+:strength test the specimen should first be submitted to and
+imeet all the requirements of the acceptance test.
+    The capacity of the assembly under test will be
+ dependent on the material properties. The test load
+ (including self-weight) is given by:
+          , .          (averaged yield strength)
+     test load =      ---------    .••-- -------- —s ——x (factored load)
+                             (design strength)
+       The actual yield strength of the material should be
+    determined from coupon tests*, and an average yield
+    strength value taken from such tests.
+       At this load there should be no failure by buckling or
+    ruptlire of any part of the specimen, and on removal of
+    the test load, the recovery should be at least 80%.
+       The design strength and factored load are as defined in
+    subsections 2.4 and 2.5.
+     * tests on material samples from material incorporated in the works
+
+
+    8                                                                                                  IStructE report: D em ountable grandstands
+4                                                  Stand occupancy, usage and
+                                                              means of access
+
+
+
+4.1 Stand seating                                                  flights are necessary, a square landing the width of stair
+The clearance dimensions between the front and back of i           should be incorporated, and if there are more than 12
+empty seats is largely governed by evacuation require- j           risers in each flight then the landing should turn spectators
+ments in case of fire, as are the maximum number of seats      j
+                                                                   through 90° or 180°.
+between gangways. Hence the requirements of subsection                A comprehensive system of signposting that clearly
+4.6 will apply.                                                    indicates fire exists and routes to various parts of the
+                                                                   grandstand or arena should be provided. Directional signs
+4.2 Sightlines                                                     should be placed to encourage crowds in any particular
+                                                                   section to flow in one direction when leaving grandstands
+Guidance on the slope of a stand with respect to achieving j       or the arena proper. Care should be taken in the planning
+satisfactory horizontal and vertical sightlines is outside the j   of exit systems to ensure that crowds have access in an
+intent and scope of this document. With regard to this !           emergency to alternative exit routes in the event of their
+aspect of stand design, chapter 23 of reference 9 should           normal exit route being obstructed.
+be consulted.
+4.3 Ingress considerations                                         4.5 Exit doors
+Where admission into an arena or seated area of an arena           Exit doors are rarely fitted to demountable grandstands
+is controlled by turnstiles, these, by their number and            and should be fitted only where security is an absolute
+location, control not only the rate of admission but, to a 1       necessity. If this is the case, all doors on an exit rou te;
+large extent, the dispersal of spectators to their chosen;         should be capable of opening outwards in order th a t;
+sections of the grandstand. Turnstiles should be of such           crowds can escape in an emergency. This point is of
+numbers as to admit at a rate whereby no unduly large              particular importance in the case of doors within stands ;
+crowds are waiting for admission, and yet at no faster rate        and at the foot of stairways. Where exit doors have to be :
+than the arrangement for distributing spectators within            secured against outside intruders they should be fitted!
+the areas permit.                                                  with panic-type bolts.
+   Dangerous overloading may be be caused if spectators               All doors on an exit route should be secured in the fully
+are able to force their way by scaling into a grandstand           open position before the end of the event.
+already full to capacity. To avoid this danger, fences may            When opening, no door should obstruct any gangway,;
+be necessary.                                                      passage, stairway or landing. There should be no obstruc-;
+                                                                   tion in an exit, e.g. no change in level at exit doors.      j
+4.4 Egress requirements
+It is generally recognized that the period of greatest risk        4.6 Stand access and evacuation                                 j
+to crowd safety is at the time of leaving. Pressures can be        Every stand should be provided with sufficient gangways!
+set up within a departing crowd by impatient people, and           to allow for the orderly and safe evacuation from the stand i
+these incipient pressures can and must be contained by             of all spectators accommodated thereon.
+careful attention to the detailed design of barriers,                 Gangways should be so positioned as to provide ready :
+ stairways, gangways and exists.                                   access to exits, and no person in any part of a stand should 1
+    The aim should be to provide a smooth and unimpeded            have to travel more than 30m to the nearest exit or safe ;
+ passage through an exit route to the outside. This may be         area. Gangways should be a minimum of 1.100m wide and
+ achieved by controlling the crowd flow at the entrance to         be fitted with intermediate step units that create a ;
+ the exit route so that the departing spectators are held          complete access gangway/stair providing steps with a ;
+ back in a relatively safe place, e.g. the flat open areas;        minimum going of 280mm and a maximum rise of 190mm.!
+ close to and around the grandstands.                                 All risers should be of equal height, and all goings m ust:
+    Large numbers of spectators are a source of danger to          be of equal depth (half the seating platform depth). The
+ themselves, particularly from:                                    front edge of each step should be fitted with a light-
+    tripping, slipping and falling                                 coloured non-slip edge (silver, white, bright yellow) that
+    crowd pressure on terraces and exits, and                      can be seen in poor light conditions.
+    fire and hooliganism.                                             The number of access gangways required in a stand is ;
+                                                                   governed by the number of seats in each row. The number
+    Generally, all spectators should be able to leave the          of seats in any one row should not exceed:
+ grandstand and surrounding flat areas within 8 min.
+    The flow through an exit is about 40 persons per minute         (a) (i) 7 seats where there is a gangway at one end only
+ per unit of width of 550 mm. Where there are narrowings                (ii) 11 seats where there is a gangway at one end only.
+ in the exit route there should be reservoir areas to                        provided that the seatway referred to above is
+ accommodate those that are waiting to pass. Any struc­                       increased by 25mm for each additional seat over
+ tures or buildings close to these escape routes or reservoir                 7. Hence, the seatwav where 11 seats are em­
+ areas should have at least l/ih fire resistance. Nowhere                     ployed should be 400mm minimum
+  should an exit or escape route be less than 1. lm wide, with      (b) (i) 14 seats where there is a gangway at each end
+,a minimum headroom of 2.4m. Any stairways incorpo­                      (ii) 22 seats where there is a gangway at each end
+  rated in the escape/exit routes should have steps with a                    provided that the seatway referred to above is
+  minimum going of 280 mm (300 mm preferred), and a                           increased by 25mm for each additional seat over
+  maximum rise of 190 mm (150 mm preferred). No flight                        14. Hence, the seatway where 22 seats are
+  should have less than 3 or more than 16 risers. If two                      employed should be 400mm minimum.
+
+ IStructE report: D em ountable grandstands                                                                                        9
+, Gangways should be 1.100m wide minimum but prefer-              The access requirements of this type of accommodation
+ . ably at least 1.300m.                                      i should be given careful thought in terms of numbers and
+     All seats should be securely fixed in position, and egress through the understructure of the grandstand.
+   individual seats should be fitted with automatic-tipping
+ iseat pans.                                                   4.10 Licensing
+     The minimum area allotted to each seated person Any person or organization intending to erect a tempor­
+   should be 460mm wide and 610 deep.                          ary structure for the accommodation of spectators should
+     There should be a clear seatway or space of at least ensure that the appropriate authorities are given adequate
+   300mm measured between perpendiculars from the back notice of the proposed use of the stand and as to when it
+   of one seat unit to the front of the seat unit immediately will be available for inspection for purposes of licensing.
+   behind. Where seats tip up automatically, the clear
+   seatway should be measured between the back of one seat
+   unit and the maximun projection of the seat unit behind
+~when the seat is in the 'up' position.
+     4.7 Balustrading and handrails
+   Demountable grandstands should be fully protected with
+   front, side and rear safety rails. These rails should comply
+   with the relevant local licensing authority requirements,
+   but the following general rules should be observed:
+ : End safety rails
+      1100mm high of closed- or open-mesh construction such
+     that a 100mm sphere cannot be passed through any part
+        Side rails should resist a horizontal load of 0.75kNm
+     run at their top rail position
+     Rear safety rails
+      1100mm high of closed- or open-mesh construction such
+     that a 100mm sphere cannot be passed through any part
+        Side rails should resist a horizontal load of
+     l.OOkN/m run at their top rail position
+     Front rail
+     Front rails should resist a horizontal load of 1.5kN/m
+     run at their top rail position
+     Front balustrade (in front o f gangway)
+     1100mm high of heavier construction to resist a horizon­
+     tal load of 3.0kN/m run at their top rail position.
+     All access stairways and ramps should be fully protected
+  with safety rails.
+
+     4.8 Stairways and ramps
+ iAll access stairs and ramps, whether internal or external,
+  should be so constructed as to have at least Vih fire
+ ;resistance1011. Stairways need not be closed in or covered,
+ :but steps should be well defined and dimensioned as given
+ ■ in subsection 4.4.
+    With internal stair units (constructed within the grand-
+ !stand main understructure) it is often difficult to restrict
+ Ithe number of risers to 16. Where this occurs, the relevant
+  local licensing authority should be approached for a
+  dispensation. Where poor light conditions exist in an
+  indoor arena, emergency lighting and clear signs should
+  be fitted to all stairways and ramps.
+
+     4.9 Voids and additional structures
+ :By nature of their construction, demountable grandstands
+ ;have large voids underneath the main seated areas. These
+  voids become the resting place for paper, cartons and
+  other combustible materials that can be ignited, un-noted,
+  by a carelessly discarded cigarette end or even by
+  vandalism. These areas should be cleared of litter as
+  regularly as possible but at least after each performance.
+  Litter is a major fire hazard to spectators. In addition, it
+  should not be possible for infants to gain access to them.
+     It is now a common feature to use the voids under very
+  large grandstands to provide space for purpose-built
+  hospitality suites or rooms. Each box or room becomes an
+  integrated part of the grandstand understructure and
+  usually provides a glass-fronted viewing room just below
+  the first level of seating. By nature of their use hospitality
+  boxes present a certain fire hazard, and it is therefore
+  essential that these additional structures are constructed
+_.from materials that have at least Vih. fire resistance.
+
+                                                                                      IStructE report: D em ountable grandstands
+                                             Ground conditions —foundation
+                                                        design assumptions
+
+
+
+5.1 General                                                      consists of immediate and longer-term movements, the
+It is a feature of demountable grandstands that they are         latter can be ignored unless it is known that the structures
+intended for use in a wide variety of situations indoors and     will be in use for several months.
+out. Irrespective of size, it will be necessary at the point        In the absence of scientific site assessment, the bearing
+of contact of the grandstand structure with the ground or        pressures given in Table 2 may be used.
+foundation surface to distribute the loading so th a t:
+differential settlement and overall bearing pressures are        Table 2 Allowable bearing pressures for different types of
+within acceptable limits.                                        soil
+   The only site preparation that can be expected is the i
+removal of loose topsoil. Founding on good, well drained :                                                       allowable
+turf is common.                                              1                                                    bearing
+                                                                                   type o f soil                 pressure
+5.2 Permanent bases                                                                                                kN/m2
+Frequently, grandstands are erected on ground floor slabs non-cohesive          medium dense sand or gravel         200
+of existing buildings, and sometimes on concrete floors or 1 soil
+                                                                                loose sand                          100
+roof slabs. Checks should be made to verify that the slabs
+can accept the loads imposed, and if necessary, a suitable ; cohesive soil      hard clays                          300
+grillage should be provided to spread local column loads.                       firm clays                          100      .
+5.3 Common ground bases                                             For thinner soleplates described in subsection 5.3 it is
+These may include asphalt or gravel paths, pasture, heaths       unlikely that the surface area required will be less that
+or sports fields, etc. In such situations, the loads from the    0.1m2. It is more likely, if soil is the foundation material,
+grandstand structure should be applied to the ground             that areas in excess of 0.2m2 will be necessary, and to be
+through steel baseplates on soleplate spreaders. No              effective these would generally take the form of a simple
+loadbearing members should be founded on ground that             grillage.
+has been excavated locally unless backfilled with suitable
+consolidated material.
+  Soleplate spreaders are most commonly of timber, but
+may sometimes be of precast concrete. Care is required
+to ensure by ‘bedding in’ full and even contact of
+soleplates with the ground. Cavities should be filled, and
+loose materials compacted. Where foundations are not
+level or are uneven, appropriate packing may be em­
+ployed. Care should be taken that this does not promote
+instability.
+   In the case of timber soleplates, which should prefer­
+ably be not less than 35mm thick and 220mm wide, the
+concentrated column loads may be assumed to spread
+down at a slope of 2:1 horizontal to vertical along the
+grain, and 1:1 across the grain.
+   The edges of any excavation should be protected
+against erosion by wind or water.
+   In certain cases where baseplates are larger and stiffer
+than those generally employed, the use of plywood
+soleplates at least 19mm thick is permissible.
+5.4 Assessment of ground conditions
+If part of a permanent structure is to be used, its strength
+may be confirmed by the designer or conservative
+calculations made.
+   All other forms of base must be assessed either by a
+visual examination, which may be assisted with a small pit,
+or by a site survey which could take the form of soil
+analysis, or more probably a direct load site test. When
+making an assessment, consideration should be given to
+existing and possible future weather effects, e.g. frozen or
+parched ground may give false information on bearing
+strengths of soil in more normal conditions.
+5.5 Allowable bearing pressures
+Demountable grandstands are loaded for relatively short
+periods, and while it is well known that settlement usually
+
+IStructE report: D em ountable grandstands                                                                                       11
+                                                                                              Dynamic response
+
+
+
+ Consideration should be given to the effects of continuous                            The total structural effect of a rhythmic activity may
+ vibration and transient vibration. Continuous vibrations                           therefore be represented by the static effect of the load ,
+ may be considerably amplified when periodic forces                                 together with the dynamic contribution paW p.
+ synchronize with a structure frequency. Transient vibra­                              If the fundamental frequency is less than 4Hz analy­
+ tions will be caused by impulsive loading, and the decav                           sis should be carried out to estimate the effects of low
+ is dependent on damping.                                                           forcing frequencies. Should the frequency be between 4
+    Periodic forces that arise from the response of a group,                        and 6Hz, special consideration should be given to the
+ stamping, jumping and swaying are common (see Fig. 2).                             proposed use of the stand. A value above 6Hz would in
+                                                                                    normal circumstances be acceptable.
+
+       D ancing, c o n c e rts                        J u m p i n g exercises
+
+
+ W,
+                                              W,
+
+
+                                              To>
+                                               o
+                                              —I
+
+
+
+
+                   Time                                              Time
+
+
+ Fig. 2 Rhythmic responses
+
+
+ For most rhythmic activities the periodic forces can be
+ approximated by a sinusoidal dynamic load causing
+ vibration at the rhythmic frequency. For rhythmic events
+Iinvolving a group of people. the most applicable range is
+!l'A to 3Hz. In the case of jumping, the periodic forces can
+.also create significant dynamic loading at double the
+ rhythmic frequency up to 6Hz.
+    The dynamic loading may be represented by
+i a W psin277W t
+■ where / is the forcing frequency
+        Wp is the weight of participants
+        a is a dynamic load factor dependent on activity.
+        Wt is the total load.
+    Table 3 gives guidance on the likely range of values of
+ a.
+iTable 3 Forces caused by rhythmic activities
+ activity                                            a                      f, Hz
+dancing                                             0.5                     1Vi-3
+lively audience response                            0.25                    lVi-3
+jumping                                             1.5                     lVi-3
+                                                    0.25                      3-6
+: Note: Normal rate of walking corresponds to a forcing frequency of 2Hz.
+    If the fundamental frequency of the structure, f a, is
+ large compared to the forcing frequency, /, the dynamic
+ load has the same effect as a static load of the same
+•magnitude. If the fundamental frequency of the structure
+ approaches the forcing frequency the dynamic effect
+ increases with each cycle of vibration to a maximum
+ whose ratio to the static effect is given by:
+             P = [ { 1 - W o ? }2 +             ( 2 ( W o ) 2] - *
+where {3 is the damping ratio.
+
+12                                                                                                         IStructE report: D em ountable grandstands
+’7          Growth of 8                                                                 Work on site
+ imperfections because
+       of repeated use
+
+7.1 General                                                    8.1 Inspection by contractor
+Regular and long-term use of demountable grandstands           The contractor should examine all materials on arrival at
+will inevitably lead to weathering and general wear an d ;     site or during unloading. Any damaged or distorted
+tear in addition to damage or distortion arising fromi         components should be rejected, clearly marked and
+handling transportation, assembly and dissassembly. To         removed from the site as soon as possible.
+minimize the effect of such ‘ageing’, all members and;
+components should be regularly inspected, and any              8.2 Assembly
+damage or deterioration corrected if practical. If repair is  8.2.1 Scaffolding rostrum (artificial base)
+not practical or economic, the element should be clearly      The erection of a scaffold substructure to overcome rough !
+marked and removed from the site.
+                                                              terrain should be carried out in accordance with current
+7.2 Scaffolding components                                    standards of workmanship as set out in BS 597313, but the
+                                                              following modified tolerances of assembly should be:         |
+Tube
+Steel scaffold tube that is corroded to the extent of rust (a) verticals should be plumb within 15mm over 2m o f :
+flaking or severe pitting of the surface should be cleaned         height, subject to a maximum displacement from the
+of all loose material. It should then be measured for              vertical of 25mm
+external diameter and checked against the minimum i (b) verticals should not rise above the upper lacing
+requirements of BS 113912. Particular attention should be          members or extend below the lowest lacing member
+paid to the 75mm length at the tube ends as this tends to          more than 300mm unless an alternative figure *is ,
+corrode more than the remainder of the tube.                       specified                                               j
+
+   Tube should be free from cracks, and should have the       (c)  tubes  should  have joints in adjacent members    stag- 1
+ends cut square, smooth and free from burrs. Sections of           gered, and such joints should be made with sleeve
+tube that have been partly sawn, seriously deformed or             couplers
+creased by abuse should be cut out and scrapped. Tubes (d) the centre-lines of tubes at node points should be as i
+that have become thin or split at the ends should be               close together as possible, and not more than 200mm
+shortened by an appropriate amount. Bent tubes should              apart
+be straightened so that in any 2m length they do not          (e)  soleplates should be set horizontal within a tolerance
+deviate more than 5mm from a straight line.                        not exceeding 15mm in a length of 500mm
+                                                              (f) members supporting the demountable grandstand
+Couplers and fittings                                              structure should be level to within ±15mm in 3m,
+Fittings should be inspected, and should not be used if            subject to a maximum total deviation of 50mm.
+they are damaged in such a way that their efficiency is
+reduced. It is necessary to ensure that threads are not 8.2.2. Prefabricated grandstand elements
+damaged so that couplers can be properly secured. Any Instructions for the correct order and method of assembly
+damage should be corrected by repair, or replacement, of a demountable grandstand should be available and
+but if this is not possible, the item should be secured supplied by the company providing the equipment. The
+against re-issue.                                             authority responsible for assembling the structure should
+   Baseplates should be checked to ensure the integrity of appoint a competent person to supervise the work, who
+the welds, the squareness of the base to the stem, and the should inspect the grandstand on completion.
+planeness of the plate.
+Prefabricated components                                      8.2.3 Bracings and connections
+All components should be checked for damage, distortion All necessary bracings and other components should be
+and weld integrity. Faulty or suspect items should be incorporated as assembly progresses. Bracing should be
+repaired, checked dimensionally and, if necessary, offered arranged to ensure stability at all stages of erection. A
+to jigs in order to ensure acceptable fits on future use.     check should be carried out to see that the necessary
+                                                              connections are made and that linking components are not
+Inspections                                                   strained to achieve engagement. Local instability that
+The checks referred to in the previous sections should be could endanger the complete structure when loading
+undertaken continuously, i.e. when equipment is returned occurs could arise through the omission of a bolt or failure
+to the stockyard, issued from the stockyard, arrives at site, to tighten a bolt. Constant emphasis should be made as
+is assembled in structure and as loaded after dissassembly. to the importance of attention to detail.
+Storage
+In order to minimize deterioration and accidental dam­
+age, all elements should be carefully stored to prevent
+distortion and protected to an appropriate extent against
+deterioration.
+
+
+
+
+IStructE report: D em ountable grandstands                                                                              13
+    9                                Inspection 10                                      Guardrails and
+                                                                                            toeboards
+
+
+     On completion of the erection of the grandstand, a joint        Around the perimeter of a demountable grandstand, at
+     inspection should be made by the client and the contrac­        gangways, stairs and ramps, guardrails are essential. The
+     tor. Detailed checking should be preceded by an initial         Guide to safety at sports grounds1 gives details of these.
+     overall inspection from a distance to ascertain the general     Perimeter guardrails and their fixings should be designed
+     condition of the structure. This should be followed by a        to resist the forces specified in subsection 4.7. Toeboards
+     systematic check from section to section. A drawing             or mesh panels should be incorporated wherever neces­
+     should be available for continuous reference. This inspec­      sary to prevent small objects being dropped or dislodged
+     tion should ensure that:                                        from the grandstand deck. If mesh is used it should not
+     • setting out is accurate within the tolerance required         be coarser than 55mm.
+     • the foundations are adequate, that they are not likely
+        to be disturbed and that they and the lower portion of
+        the supporting structure are not liable to damage by
+        interference, accident, traffic scouring, undermining or
+        any other cause
+     • suitable soleplates have been provided, properly
+        levelled and, where necessary, adequately supported.
+        The soleplates should have been properly bedded down,
+        and no unacceptable settlement is to have occurred
+     • upright members are correctly positioned. A necessary
+        number’ of upright members may be checked with
+        suitable measuring devices and the remainder by eye
+     • horizontal members are correctly positioned
+     • bracing members are correctly installed
+     • all required components, pins, bolts, nuts, clips and the
+        like are of the correct type, have been correctly inserted
+        and are secure
+     • the decking, seating and guardrails are secure
+     • services to the stand do not in themselves create a
+        hazard to spectators or impose loadings uncatered for
+        during the design process.
+        The inspection should ensure that the actual construc-
+    :tion is in conformity with the design documents supplied
+    Iby the contractor. Any deviations should be substantiated
+     and supported by additional documentary evidence. The
+     results of the inspection should be recorded in writing and
+     action taken to correct any faults. On completion of a
+    :satisfactory inspection the client should be informed and
+     confirmation made in writing.
+        It should be the responsibility of the user of the
+    [grandstand when completed and inspected to so secure
+    ithe structure that common vandalism is prevented. Addi­
+     tionally, an inspection of the grandstand should be
+    iundertaken by a competent person as near to the time of
+     use as possible.
+        When in use, gangways and walkways should be kept
+     clear at all time, by a sufficient number of stewards who
+     should be thoroughly briefed on safety and fire drills and
+     should be present until the stand is cleared.
+         On isolated sites, fencing or other means should be
+     adopted to prevent climbing of structures to gain un­
+     authorized access.
+
+
+
+
+_   14                                                                                       IStructE report: D em ountable grandstands
+ ll           Non-slip surfacing 12                                                 Contractual and
+                   o f walkways                                                          insurance
+                                                                                     considerations
+
+Consideration needs to be given to the safety aspects of'         12.1 Contractural considerations
+finishes to walkway areas. It should be borne in mind th a t;     This Guide does not set out to deal with forms of contract
+nearly all surfaces have a significantly lower slip resistance;   for the erection, inspection and dismantling of demount­
+when they become wet.                                         j   able grandstands. However, the checklist below includes
+   For factors affecting the slip resistance of a material,!      a number of points that should be considered when the
+reference should be made to tne GLC Technical Bulletin:           contract is drawn up. This list is not necessarily
+no. 4314 (2nd series) March 1971 item no. 5. The slip             exhaustive.
+resistance value of finishes for walkway areas should!
+comply with category (d) of the above mentioned docu­             Checklist
+ment, i.e. classified as excellent with a rating of 75 or
+above. Guidance on typical slip resistance values for both;       Erection
+wet and dry conditions of various materials is given in the        1. The client or his representative to be informed before
+GLC Technical Bulletin no. 43.14                                      erection commences.
+   Values for materials not covered by this list should be:        2. Attention of operatives to be drawn to their responsi-
+obtained by submitting a sample of not less than 150 x                bilities under Health and Safety at Work Act15
+150mm to an appropriate authority in order for the value,             legislation for maintaining a safe manner of working.
+to be determined.                                                  3. The necessity for:
+                                                                       (i) avoidance of obstruction of essential services such j
+                                                                           as hydrants, service manholes and fire exits •
+                                                                      (ii) care be taken to avoid damage to adjacent
+                                                                           electrical cables, which should be assumed to be
+                                                                           ‘live’.
+                                                                   4. Necessary precautions, such as diversionary barriers
+                                                                      and warning notices, to be taken to ensure public
+                                                                      safety during the erection procedure.
+                                                                   5. The client to agree the setting-out points (i.e. comer
+                                                                      locations of proposed stand or stands) on site or the
+                                                                      setting-out points shown on drawing to be agreed with
+                                                                      client.
+                                                                  Completion and inspection
+                                                                   6. A formal inspection on completion of the structure.
+                                                                   7. Contractor and client (or representatives) to be
+                                                                      present during this inspection, and a record made of
+                                                                      relevant findings. On completion of satisfactory in­
+                                                                      spection, a certificate to be issued to the client.
+                                                                   8. Define responsibility of the contractor for any persons
+                                                                      other than his employees using the stand for any
+                                                                      purpose until the inspection has been completed to
+                                                                      the client’s satisfaction.
+                                                                   9. Desirability of periodic inspections at appropriate
+                                                                      intervals (with the results of each inspection recorded
+                                                                      and filed) where the stand is subject to repeated use
+                                                                      at the same location.
+                                                                  10. Responsibility of the client for ensuring that the stand
+                                                                      is used only for the purpose for which it was erected
+                                                                      and responsibility ot client for maintaining the stand
+                                                                      in working order. Agree when this responsibility and
+                                                                      the associated safety of the general public reverts to
+                                                                      the contractor.
+                                                                  Dismantling
+                                                                  11. Responsibility of the contractor for safe dismantling.
+                                                                  12.2 Insurance
+                                                                  The erection, use and dismantling of a grandstand should
+                                                                  be covered by insurance, and the client and contractor
+                                                                  should examine their respective policies accordingly.
+
+
+
+
+IStructE report: D em ountable grandstands
+             f
+
+                                            References
+
+
+
+       1. Guide to safety at sports grounds, 2nd edit., HMSO, London
+           1986
+       2. BS 6180: 1982: Code o f practice fo r protective barriers in and
+          about buildings, British Standards institution, London
+       3. National building code o f Canada, National Research
+          Council, Ottawa, 1985
+       4. The building regulations 1985, HMSO, London, 1985
+       5. BS 6399: Loading for buildings, Part 1: 1984, Code o f
+          practice for dead and imposed loads, British Standards
+          Institution, London
+       6. CP 3: Code o f basic data for the design o f buildings, Chapter
+          V: Loading, Part 2: 1972, Wind loading, British Standards
+          Institution, London
+       7. BS 5950: Structural use o f steelwork in building, Part 1: 1985,
+          Code o f practice for design in simple and continuous
+          construction: hot rolled sections, British Standards Institu­
+          tion, London
+       8. BS 4360: 1986, Specification for weldable structural steels,
+          British Standards Institution, London
+       9. New metric handbook: planning and design data, edit.
+          Patricia Tutt & David Adler, Architectural Press, London
+          1979
+      10. Fire safety and Safety o f places o f sport A ct 1987, chapter 27
+           HMSO, London, 1987
+      11. Guide to fire precautions o f existing places o f entertainment
+           and like premises, HMSO, London 1989
+      12. BS 1139: Metal scaffolding, Part 1: 1982, Specification for
+           tubes for use in scaffolding and Part 2: 1982, Specification
+           fo r couplers and fittings fo r use in tubular scaffolding, British
+         t Standards Institution, London
+      13. BS 5973: 1981, Code of practice for access and working
+           scaffolds and special scaffold structures in steel
+      14. G L C Technical bulletin, no. 43, 2nd series, March 1971
+      15. Health & safety at work Act,
+
+
+
+
+___   16                                                                         IStructE report: D em ountable grandstands
+ECHO PRESS (1983) LTD., LOUGHBOROUGH
+

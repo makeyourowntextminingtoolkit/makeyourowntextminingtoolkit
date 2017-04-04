@@ -1,0 +1,92 @@
+                            Sheffield Archives K et ? o 1.1                                              M IR .15
+              *         \y!:jw         v--.-    -/>               '
+
+
+                                                                                                                                \
+OTHER DOCUMENT FORM                                                     Date and time raised
+                                                                                               u     "   7-30f i j   Number
+                                 /'~N                         .                                f~)
+Title   t t - i .   P            r o     j 'c         c   :   C fe ^cfiC vu O teeAO                      < 2   Ac At ..       »-nK,^'-
+(Include source and any document number i f relevant)
+                                                                               D
+                                                                      /^ST\
+Receiver's instructions — urgent action — Yea/No                          j_
+                                                                                                                                      Receiver
+
+
+
+
+Document registered/indexed as indicated                                                                                              Indexer
+
+                                                                                                                                ? 2 r>{
+No(s) of actions raised                                                                                                                          :>
+Statement reader's instructions                                                                                                Statement Reader
+                                                              tv
+                                                                                                                               S'fL'C
+
+Indexed as indicated                                                                                                                  Indexer
+
+
+No(s) of actions raised
+
+Examined - further action to be taken                                                                                          0 /M         SIO
+
+
+
+
+Further action No(s)                                                                                                                  Indexer
+
+
+When satisfied all actions raised Office Manager to endorse other Document Master Number Form
+                               FORCE OPERATIONS ROOM
+
+
+                              RACAL RECORDER CHANNELS
+
+
+
+
+ SOURCE                                                       CHANNEL
+
+**Emergency Fall-Back                                             1
+       Injection                                              -“ -2-   -
+ Console 1                                                       3
+ Console 2 -                                                     4
+ Console 3                                                        5
+ Console 4                                                        6
+ Console 5                                                        7
+ Console 6                                                        8
+ Console 7                                                        9
+ Console 8                                                       10
+  Console 9        Motorway 1                                    11
+  Console 10       Motorway 2                                    12
+  Console 11       Sergeant                                      13
+  Console 12       Inspector                                     14
+                                            /’
+                                                                 15
+  Console 13       Major Incident Roan      tk
+  Extn 3251        Abnormal Loads                                16
+  Extn 3254    ^                                                 17
+  Extn 3255        Major Incident Room                           18
+  Extn 3253    J                                                 19
+               ■■ Information Line      .
+  Extn 3249        Telex Room                                    21
+  Switchboard 1                                                  22
+
+  Switchboard 2                                                  23
+  Radio            Channel 1                                     24
+  Radio            Channel 2                                     25
+  Radio            Channel 3                                     26
+  Radio            Channel 4                                     27
+
+
+
+
+  ** Should any of the operational channels fail they will automatically
+     divert to channel 1.
+
+
+
+
+                                                                  30 June 1986
+

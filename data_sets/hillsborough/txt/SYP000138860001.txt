@@ -1,0 +1,150 @@
+OTHER DOCUMENT FORM                            Date and time raised   Q?g/<Q f^?(                       Number
+
+
+Title             |t d m      HS,£. Or (a £                      l/if o                                 *icc c^jaqjp
+(Include source and any document number if relevant)
+                                                                                  ~+0 Ua^JJUOAC^S0l£kA^i.
+Receiver's instructions — urgent action — Yes/No
+                                                                                                                     Receiver
+
+
+
+
+Document                                                                                                             Indexer
+       it j e y sfered/ii
+                   red/indexed as indicated
+
+No(s) of actions raised
+                                                                                                                 Statement Reader
+Statement reader's instructions
+
+
+
+                                                                                                                     Indexer
+Indexec        cated
+
+No(s) of actions raised
+
+Examined     further action to be taken                                               F;.i ; a    Epi
+                                                                                                                  0/M      sio
+
+                                                                                      U     S i
+                                                                                                  fea
+                                                                                                  %              c|S£>(
+                                                                                                                  P"
+                                                                                  1   a
+
+Further action No(s)                                                                                                 Indexer
+
+
+When satisfied all actions raised Office Manager to endorse other Document Master Number Form
+                                        HSE
+                               Health & Safety Executive
+                         Research and Laboratory Services Division
+
+
+
+Mr J M Jones
+Deputy Chief Constable
+Coroner's Officer
+Furnival House
+Furnival Gate                                                        SMR/343/23 5/01
+Eyre Street
+SHEFFIELD      SI 4QN                                                14 December 1990
+
+
+
+Dear Mr Jones
+Thank you for your letter of 11 December. The attached draft has
+been prepared for insertion into your letter to Hammond Suddards.
+I hope that this is satisfactory.
+
+Yours sincerely
+
+
+
+
+C E NICHOLSON
+Deputy Director - Safety Engineering Laboratory 1
+
+
+cc   Dr A Jones
+
+
+
+
+                                  Broad Lane, Sheffield S3 7HQ
+                  Tel: 0742 768141 Fax: 0742 755792 Telex: 54556 (HSE RLS G)
+         DRAFT FOR INSERTION INTO LETTER TO HAMMOND SUDDARDS
+
+There are several points where the opinion expressed within the
+reports differ from the findings contained within HSEreports and
+the two major areas are as follows:
+
+1.   Number of people in Pen 3
+
+The Elrond report concludes that 'the balance of probability is
+that the real number of occupants was nearer to 1200 .... than the
+preferred estimate of the HSE at 15767. This conclusion appears to
+be based on the analysis of a photograph that was of significantly
+inferior definition to those analysed by HSE.
+
+The HSE estimate is not a maximum and no allowance was made in the
+estimate for any 'missed7 or 'obscured7 heads. HSE made the
+assumption that the density in the front row (the pitch side of
+Barrier 124A) was 10/sq metre, but the remaining three rows were
+actual counts of observed heads from photographs.   Even if the
+assumption had been made that the density in the front row was the
+same as the HSE counted density of the second row, then an estimate
+of 1478 for the total in Pen 3 is obtained, again with no allowance
+for any obscured heads.   It is worth noting that the Elrond report
+indicates that densities as high as 12.5/sq metre are possible.
+
+2.   Collapse load of Barrier 124A
+
+In the Elrond report there is much technical argument on the merits
+of the 'Eastwood Rig7 and on the measured plastic deformations, at
+loads less than 6 kN/m, that occurred on several barriers tested
+both before and after the disaster.  It is HSE7s opinion, based on
+analysis, that the Eastwood Rig was a reasonably practical solution
+to the provision of a uniformly distributed load, and analysis
+shows that the rig produces bending moments on the top rail that
+are more severe than those from a uniformly distributed load.
+
+HSE7s analysis shows that yielding of the support legs and the top
+rail of a typical 'old type7 barrier will occur at loads less than
+6 kN/m and the analysis is in broad agreement with the Elrond
+report. However, there appears to be a lack of clarity in the
+Elrond criteria for failure. There is a significant difference
+between the load to collapse a barrier and the load that causes
+sufficient yielding so that the barrier fails the Green Guide
+criteria.
+However, in the incident, for the top rail to have become bent to
+the shape in which it was found would require the support legs to
+have provided sufficient reaction to support the rail during the
+time during which the rail was bending. Hence, HSE are of the
+opinion that the collapse sequence for Barrier 124A was that the
+top rail deformed to its present shape before the collapse of the
+support legs. The maximum load that the barrier sustained is
+therefore the load to deform the top rail and not the load to
+collapse a support leg. HSE therefore disagree with the conclusion
+in the Elrond report that Barrier 124A collapsed at a load of
+5.25 kN/m (page 6 para 6), this being the test load that caused
+yielding, but did not collapse the centre support of Barrier 131.
+HSE7s estimate of the collapse load, based on a test of a similar
+
+                                     1
+top rail, was 8.1 kN/m, and the details are given in HSE report
+IR/L/ME/89/36.
+
+The Elrond report states that the 'HSE study concludes that the
+6 kN/m test load is not adequate7 but does not qualify the
+statement. The HSE report actually stated 'Given that the gap in
+the row of barriers behind 124A was greater than that recommended
+in the Green Guide, the test load of 6 kN/m was inadequate.7
+
+
+
+
+                                  2
+

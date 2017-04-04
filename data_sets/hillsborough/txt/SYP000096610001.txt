@@ -1,0 +1,661 @@
+Incident         105         250489 0P2989              ALLOCATE ACTION PRINT
+
+ACTION N UMBER : A 12
+  O R I G I N A T I N G F ROM :
+  I N S T R U C T I O N S OF CHIEF      INSPECTOR B E T T I S O N
+
+                                  N A T U R E OF A CT IO N
+ O B T A I N LIST OF P ER S O N S INJURED
+ I N C L U D I N G D E T A I L S OF W H ER E TAKEN, W H E R E TREATED,        H OW M A N Y S T I L L D E T A I N E D AND
+ THE N AT U R E OF THEIR INJURIES.
+
+25-04-89            1326 '0P29S9 R A I S E D
+    I N S T R U C T IO N S OF CHIEF INSPECTOR B E T T I S O N
+2 5 - 0 4 — S9        1327 0P2 9 8 9 C H A N G E D TO FOR    ALLOCATION 2
+25-04-89              1802 O P 2989 A L L O C A T E D TO (^IEFflNSP^BETXISCWl
+
+O R I G I N A T I N G FROM    :
+A S S OC IA TE D D OCS        :
+- INKED A C T I O N S
+
+
+                R E S U L T OF A C T I O N - P LE AS E W RITE C L E A R L Y
+A CTION A 12
+
+
+
+
+D ET AI LS OF ANY P R O P E R T Y       :
+
+P R O P E R T Y REG IS TE R N UMBER :
+A C TI ON R E T U R N E D   DATE :                            TIME   :
+REPORTING OFFICERS :
+( R A N K ,N UMBER AND NAME)
+REC EI VE RS INSTRU CT IO NS :
+
+
+
+
+                                                                                                             R EC EI VE R
+
+FURTHER A C T I O N N UM B E R S :
+S TATEMENT NUMBER :                                     R E PO R T N UMBER        :'                         INDEXER
+°DF N UMBER             :                               O THER DOC N UM BE R      :
+S T ATEMENT R EA D E R S C O M M E N T S     :
+
+                                                                                                            S T AT R EA D
+JFFICE M A N A G E R S O B S E R V A T I O N S   s
+                                                                                                            OM
+
+                                                                                                            SIO
+incident    103     280489 0P4001             CATEGORY RECORD PRINT
+
+ CATEGORY HEADER              -            CATEGORY NAME
+ HOSPITALS                                  I NJ URED PERSONS RELEASED
+   TO IAL NUMBER I NJ URED        1 4 0 BETWEEN H O S P I T A L S ,
+   S U B - CA T EG O RI E S : -
+
+   CROSS REFERENCES
+
+               LINK
+               LINK
+               LINK
+               LINK
+               LINK
+               LINK
+               LINK
+               LINK
+               LINK
+               LINK
+               LINK
+               LINK
+               LINK
+               LINK
+               LINK
+               LINK
+               LINK
+               LINK
+               LINK
+              LINK
+               LINK
+              LINK
+              LINK
+              L I NK
+              LINK
+              LINK
+              LINK
+              LINK
+              LINK
+              LINK
+              LINK
+              LINK
+              LINK
+              LINK
+              L I NK
+              L I NK
+              LINK
+              LIN K
+              LINK
+              LINK
+              LINK
+              LINK?
+              LINK
+              LINK
+              LINK
+              LINK
+              LINK
+CATEGORY HEADER                CATEGORY NAME
+
+HOSPITALS                      I NJ URED PERSONS RELEASED
+
+  CROSS REFERENCES CONTINUED
+
+             L I NK
+             LINK
+             LINK
+             LINK
+             LINK
+            LINK
+             LINK
+            LINK
+            LINK
+            L I NK
+            LINK
+            LINK
+            LINK
+            LINK
+            L I NK
+            LINK
+            L. i NK
+            LINK
+            LINK
+            LINK
+            LINK
+            LINK
+            LINK
+            LINK
+            LINK
+            LINK
+            LINK
+            LINK
+            LINK
+            LINK
+            LINK
+            LINK
+            LINK
+            LINK
+            LINK
+            LINK
+            LINK
+            LINK
+            LINK
+            LINK
+            LINK
+            LINK
+            LINK
+            LINK
+            LINK
+            LINK
+            LINK
+            LIN K
+            LINK
+CROSS RErERENCES CONTINUED   2
+
+
+          LINK
+         LINK
+          LINK
+         LI NK
+         LINK
+         L iNK
+         LINK
+         LI NK
+         L INK
+         LINK
+         i_INK
+         LINK
+         LINK
+         L iNK
+         LINK
+         LINK
+         LI NK
+         LINK
+         LINK
+         LINK
+         LINK
+         LI NK ?
+         LINK
+        LINK
+        LINK
+        L INK
+        LINK
+        LINK
+        LINK
+        LI NK
+        1-INK
+        LINK
+        LINK
+        LINK
+        LINK
+        LINK
+        LI NK
+        LINK
+
+
+
+
+                         END OF R EPORT
+Incident      102       £80489        OP4001          CATEGORY RECORD PRINT
+
+ CATEGORY HEADER                                 CATEGORY NAME
+ HOSPITALS                                       DETAINED HALLAM3HIRE HOSP
+   TEL N O . S H E F F I E L D 7 6 6 2 2 2   EXT 2 0 9 9 . TOTAL NUMBERED I NJURED   140   ,
+
+   S U B- C AT E G O R I E S g -
+
+    CROSS REFERENCES             s™
+
+                    LINK               BLAND                     AN i HuNY
+                    L I NK ?
+                    LINK
+                    LINK
+                    LINK                                         ANDREW
+                    LINK
+                    TRANSFER
+
+
+
+
+                                              END OF REPORT
+Incident     103      28-U489 OP 4-00 i          CATEGORY RECORD PRINT
+
+ CATEGORY HEADER                            CATEGORY NAME
+ HOSPITALS                                  DETAINED NORTHERN GENERAL
+   TEL N O . SH E F F 4 3 4 3 4 3              I TOTAL NUMBER INJURED 1 4 0 P E R S O N S »
+   S UB -C AT E GO R IE S
+
+    CROSS REFERENCES          s-
+
+                 LINK
+                 LINK
+                 LINK
+                 LINK
+                 TRANSFER
+                 TRANSFER
+                 L I NK
+                 L I NK
+                 TRANSFER
+
+
+
+
+                                          END OF REPORT
+p.ciueni      lULi      2bU48?      0P4001                 v,   *LGORY KtCORL1 PR I NT
+
+ C A i t u G R Y HEADER                             CATEGORY NAME
+ HOSPITALS                                             "A I NED LIVERPOC
+      S I O r tir; cjU;'-■!o i KAi'hS E h . r \ .0 F K0 iv1 SHfc.r 1“ i EL.E-1 I 0   VERPOOL H O S P I T A L S
+   SUB-CATEGORIES : -
+
+   CROSS REFERENCES
+
+                  L I NK
+                  L I NK
+                  LINK
+
+
+
+
+                                               END OF REPORT
+aLis =, NO50 1 5 9 L O C , N O , H A 2 0 1 1    DATE/TIME 2 8 0 4 8 9 / 1 0 ^   0P;H A 2154 TERM;HAM   P A G E : 01
+>RIGINATOR PC                             - UPDATED CASUALTY L I S T                  PRIORITY L
+D ES TI NA TI ON HA1 E l i HP1 TLX
+AUTHORISED; C H I E F I N SPE CTO R EDMUNDSON            OPS ROOM
+
+-ROM C H IE h CONSTABLE SOUTH YORKSHIRE P O L I C E FORCE OP ERATI ONS ROOM
+rO;  C H I E F CONSTABLE MERSEYSI DE P O L I C E      FOR THE ATTENTION OF THE
+     POST I N CI DE NT ROOM AND P R E S S O F F I C E
+     SOUTH YORKS F I SUB D IV AND HQ PR ES S O F F I C E
+
+
+'ITLE:                          UPUATtD L I S T OF PERSONS DETAINED I N H O S PI T AL
+
+T H t FOLLOWING L I S T CONTAINS D E T A I L S OF I NJ UR ED PERSONS S T I L L
+DETAINED I N S H E F F I E L D H O S P I T A L S AS A RESULT OF THE HILLSBOROUGH
+D I S A S T E R , THE L I S T WAS COMPILED AT 1 0 8 0 H R S T O D A Y ; -
+
+JALTON HO S PI T AL
+
+ 1.
+
+
+
+
+?OYAL HALLAMSHIRE HO SP I TA L
+
+
+11»   nAK
+        n I“
+           lF
+            u LvJ;-~
+                   iv'K
+                      ! i'"-J
+                           .    ~
+                                AD.'L
+                                  5 AM. n s sP*
+                                              L 'j   11 O
+                                                        £3 \VCADC
+           t
+     »*.
+
+
+
+
+                                           PAfat s I
+   40R
+
+
+1.
+
+
+enquirtfr      rf?   ris L IS T M A Y Bi
+
+
+
+
+**E N D OF
+incident            105                                            DOCUMENT RECORD PRINT
+
+                                                                                        T I G E R S REPORT NUH3ER                  R3
+
+
+
+surname                      PLESTER
+
+Forenam s
+
+
+A ge                                                                   D a t e c t ,bi r t h
+
+Ad d r e s 3
+
+
+O c cu pa tic n             POL Cl
+
+T e le ph on e
+
+Wamher         of   Pages
+
+Dated                       £6 0 4 8 9                                                                                             S iq n e d
+
+
+                FROM;       C hief    Insp        PI e s t e r ,   Personnel            R aI';
+
+                                                                                        S tatio n ;       He a d q u a r t e r s
+
+                TO;       Incident       R o am                                         D ates     26 A p r i l      1989
+
+
+
+                SUBJECT:        INCIDENT            15 APRIL        1989
+
+
+
+                Wi th r eferenca          to ac ti on m e s s a g © A 153,          I rspo rt the              f a 1 1owi ng
+
+                i n f o rma lion f r o in details              reco r d e d in Personnel,
+
+
+
+               Tw en ty     officers        have       reported being            injured during              the     incident,          oom
+
+               are     thought       to be serious and only one                     remains          off     duty as a result,
+
+
+
+                fhe d et a i 1s are:
+
+
+
+               R ANK                                 SUB       COMPLAINT                                                       DAYS Of- r
+
+               •i NO,         NAME                   D iV                                                                     WORK AS
+
+                                                                                                                              A RESULT
+
+               PC                                             S c r a tc h to    left    f or e a r iti
+
+               DC                                              Injury to        calf,    groin,       back
+     f
+t-
+
+
+
+
+                                                                                                                       PAGE
+                                                                                                                       R3
+
+         Pc                                 C oncussion               b ru ises      tc
+
+         PC                                 S train ad           neck,         sh o u ld er m uscles               -
+
+         DC                                     In ju ry    to     back
+
+         PC                                 S t r -a i T"ie d b a c k
+
+         PC                                 Cut       right,       hand
+
+         PC                                 Sw ollen         rig h t        knee
+
+         PC                                 'B ru isin g         to       left    hand, rig h t     leg
+
+         p                                  I     nj u ry    to       1e f t     ank 1e
+
+         In;                                Back       in ju ry                                                    —
+
+         PC                                 B ruised         arm s         and    back
+
+         PC                                 B ruised         r ib s , strain ed            m uscles    legs
+
+                                                       and       a r rn                                            d~
+
+         PC                         FS      T w isted        rig h t        knee                                   2
+
+         PC                         A3      S train ed           m uscle         rig h tsh oulder                  -
+
+         PC                         81      B ruised         both          legs
+
+         PC                         A1      P u lled        neck       m uscles                               12       cant
+
+         pC                         B1      Ri ght         shoulder            s t rai n
+
+         PC                         F1      Btrar-n         to     back        and   abdomen
+
+
+
+
+         Forw arded   for   a tten tio n   as     requested.
+
+
+
+
+         C hief   Inspector   P laster
+
+         Personnel
+
+
+
+
+ND OF REPORT
+ cident     103              28-04-89                            OP4001                       Screen print for terminal                                      4 - Plus   code +CD
+
+. Jj.   ^   -a- *   -ii- * * ti- ■«■ -S- -H- -K- * -S -it -){• -S- ■«• # -S- -S- -H- -it- -S' # -S- # -8- * * •&* 'if' 'S' # * "> * * *   * * & * * * *   '* *   "*
+
+                              CHANGE DOCUMENT STATES                                   SCREEN 1 1 . 6
+              OTHER DOCUMENTS                   STATE      FOR TYPING
+' = CHANGE TO NO TYPING REQUIRED
+   DOCUMENT NO DAYS         RESUME
+                  a   SO—0 4 —8 9 OFFER OF PSYCHOTHERAPY AS SI STAN CE
+                  8   EG—0 4 —8 9 L I S T OF PASSANGERS ON AMBERLINE COACHES, SPEKE
+                  8   1 9 - 0 4 - 8 9 L I S T OF DRIVERS OF SOME COACHES MENTIONED D1 7
+                  a   1 8 - 0 4 - 8 9 L I S T OF COACHES AND OCCUPANTS FROM LIVERPOOL
+                  8   HO—0 4 - 8 9 ELECTORAL ROLL
+                  8   £ 0 - 0 4 - 8 9 F I L E CONTAINING D E T A I L S —AUTH P R E S S P A S S E S
+                  8   2 0 - 0 4 - 8 9 NOTTS O F F I C E R S AT SCENE - ON & OFF DUTY
+                  7   EG—0 4 —8 9 L I S T PERSONS INTERVIEWED BY P R E S S IN SUSSEX
+                  7   2 0 —0 4 —8 9 LETTER FROM PERSON ATTENDING MATCH
+                  7   2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 1
+                  7   2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 2
+                  7   2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO r>
+                  7   2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO- 4
+                  7   2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 5
+                  7   2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 6
+
+
+
+                                                                                                        # •*# * X* -H-SHi-* * * # «'* # * * * * # * * # # * * * * * * #       **
+;i d a n t    103        28-04-S9            0F4001          Screen print for terminal                         4 - Plus         code +CD
+
+
+                               CHANGE DOCUMENT STATES                                                                 SCREEN 1 1 . 6
+             OTHER DOCUMENTS                    STATE  FOR TYPING
+ = CHANGE TO NO TYPING REQUIRED
+  DOCUMENT NO DAYS           RESUME
+                                                                  "7
+                 7   2 0 - - 0 4 - - S 9 REPORT OF DEATH BODY NO /
+                 7   2 Q - - 0 4 - 8 9 REPORT OF DEATH BODY NO 8
+                     2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 9
+                               ...y
+                 /
+                 7   2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO •10
+                 7   2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 11
+                 7   2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 1 2
+                 7   2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 13
+                 7   2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 14
+                 7   2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 15
+                 7   2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 1 6
+                 7   2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 17
+                 7   2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 1 8
+                 *7  2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 19
+                                T
+
+                 7   2 0 - 0 4 - 8 9 REPORT OF DEATH BODY 2 0
+                 7   2 0 - 0 4 - 8 9 REPORT OF 'DEATH BODY NO 21
+
+
+
+***■*#■!«■•«•■»■##■»■##■»■* * •»•«••*•*#■*#* * •«•# * * *•##*••«•* -** -a-*** * * * * ***** * * * * * # * #** * * * * * * *** * * * * * * * * *
+ ic ident             103         H8-Q4-89                 0r40u1            Screen print for terminal                                        4 - Plus                        coda +CD
+
+ •* *                                        * •» #   •»         ^      *   ii-   -ii   •!{•   -is- * * * * * * • » * -K- * * * * ■£• *       * ■«••«• -ii- * -fi- -it- • *   ■%■*   * # # * « •« •
+
+                                  CHANGE DOCUMENT STATES                                                                                  ‘              SCREEN 11 .'6
+                  OTHER DOCUMENTS                STATE .FOR TYPING
+      = CHANGE TO NO TYPING REQUIRED
+       DOCUMENT NO DAYS         RESUME
+■I
+           —f f - .
+                      "// 2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 2 2
+ }                    7   2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 2 3
+ I                    7   2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 2 4
+ i                    /   2 0 - 0 4 - 3 9 REPORT OF DEATH BODY NO 2 3
+  i                   7   2 0 —0 4 —8 9 REPORT OF DEATH BODY NO 2 6
+ I                    t   2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 2 7
+ I                    —
+                      /?  2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 2 8
+ I                    /   2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 2 9
+4                     7   2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 3 0
+-1                    7   2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 3 1
+ i                    ~y  2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 3 2
+                            ...
+
+ 1                    /                 "7
+                          2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 3 3
+ i                    7   2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 3 4
+i                                       ~7
+                          2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 3 5
+                                        /
+
+ I                    7   2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 3 6
+
+
+
+-* * * *                          * *#*••«• •«•* •«••»•* # # ■»■»* * # * * * * * * * * # * * •*•** -S* -S■»* * *«•*•»• # * tt ■«-* * # *■»*•?!• # # «•«•* # * •*# * * *
+     nciaent    j.03   a8 04 39      OP4001     Screen print for terminal    4 - Plus   code +CD
+!r
+
+
+
+                                       CHANGE DOCUMENT STATE                     SCRtEN   11,6
+                    OTHER DOCUMENTS                     STATE   FOR TYPING
+     Y    CHANGE TO NO TYPING REQUIRED
+         DOCUMENT NO DAYS            RESUME
+N                          /   2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 3 7
+N                        7    2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 3 8
+N                        -:•'
+                          /   2 0 —0 4 —8 9 REPORT OF DEATH BODY NO 3 9
+N                        7    2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 4 0
+N                        7    2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 41
+N                        7    2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 4 2
+N                        7    2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 4 3
+N                       7     2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 4 4
+N                       7     2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 4 5
+N                       7     2 0 - 0 4 - 8 9 R EP OR T OF DEATH BODY 4 6
+N                       -y
+                         /    2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 4 7
+N                       7     2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 4 8
+N                       7     2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 4 9
+N                       ~y
+                              2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 5 0
+N                       /     2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 51
+  ,ci tie nt       102          28-04-89                    OP4001                   Screen print tor terminal                         4 - P 1us code -i-CD
+
+                                      * # * * * •»• * « -is- - a - # * ■ * * * • *                                            * * * * * * •« •■» •* • •« • ■» • *
+
+                                 CHANGE DOCUMENT STATES         '                                                                                  SCREEN           11=6
+                 OTHER DOCUMENTS                STATE  FOR TYPING
+ Y   = CHANGE TO NO TYPING REQUIRED
+      DOCUMENT NO DAYS         RESUME
+ N                   7   SO—0 4 —8 9 REPORT OF DEATH BODY NO 3 2
+ M                   7   2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO S 3
+ N                   7   2 0 - 0 4 - 3 9 REPORT OF DEATH BODY NO 5 4
+ H                   7   2 0 —0 4 —8 9 REPORT OF DEATH BODY NO
+                         £ 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO - . > 0
+                                                                                                                      ■ul’
+ N                   7
+                                      ~ ?
+ N                    /  2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 5 7
+ N                   7   2 0 - 0 4 - 8 9 REPORT OF DEATH 30DY NO 5 8
+ N                   '7  2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 5 9
+ N                   7   2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 6 0
+ N                   7   2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 6 1
+ M                    7  2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 6 2
+ N                   7   2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 6 3
+ N                   7   2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 6 4
+ N                   7   2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 6 5
+ N                   7   2 0 - 0 4 - 8 9 REPORT OF DEATH BODY 6 6
+
+
+
+*# -a-* *      # * * ■»->* ->-a-*** * * * * * ■«•->* ■»-a--s-* * -s--a-* * * # # * -a-#* * * -a-* * -s-•«•* # ■«-* -“•* •»* ■«•* «• * * * * ■*** *             *********
+  ncident           103        28-04-89               0P4GU1            Screen print for tarminal                              4 - Plus           cods +CD
+
+s-* * * * * * * * * -s-# * * * * * * # * # # * * * * * * # * * f t * # * # # * * * * * * # # * * * * # * * * * * * * * * * * * * * * # * * * * # # # # * * * * * #
+                                                       CHANGE DOCUMENT STATES                                                            SCREEN 1 1 . 6
+                               OTHER DOCUMENTS                                   STATE         FOR TYPING
+  Y * CHANGE TO NO TYPING REQUIRED
+        DOCUMENT NO DAYS                             RESUME
+  N                                    7       2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 6 7
+  N                                    7       SO—0 4 —8 9 REPORT OF DEATH BODY NO 6 8
+                                       -v
+  N                                    /       2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 6 9
+  N                                    7       2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 7 0
+  i\i                                  7       2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 7 1
+  N                                    /       2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 7 2
+  N                                    7       2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 7 3
+  N                                    7       2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 7 4
+  N                                    7       2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 7 5
+  N                                    7       2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 7 6
+  N                                    7       2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 7 7
+  N                                    7       2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 7 8
+  N                                    7       2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 7 9
+  N                                    7      2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 8(3
+  N                                    7       2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 81
+
+
+
+** * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * # * * * * * * * * * * * * * * * * * * * * * * * * * * * * * # * * * * * * * * * * * * * * * *
+    /icident                IQ3             28-04-89                      0P4G01                     Screen print for terminal                                                   4 - Plus                 coda -'-CD
+
+    >* * *                                                        * ■»• # * •«• *   & - * H-»   * * « • * * -S- -is- ■ * * * * ■«••»•!$••» * « • *   K- * * -is- •» # * - » * * * -K- * * * *   &*   -> * # * * « • » * * -55-
+
+                                         CHANGE DOCUMENT STATES                                                                                                                            SCREEN              11=6
+                      OTHER DOCUMENTS                    STATE  FOR TYPING
+    Y     = CHANGE TO NO TYPING REQUIRED
+           DOCUMENT NO DAYS            RESUME
+   \|                     7     2 0 - 0 4 - 8 9 REPORT OF DEATH SODY NO 8 2
+                          "7
+   N                       /    2 G - - Q 4 - 3 9 REPORT OF DEATH BODY NO 8 3
+   Y                      7     2 0 - 0 4 - 6 9 BRADY
+                          .....
+   N                       /    2 0 - 0 4 - 8 9 LEWIS
+                          ~y
+   N                       /    2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 8 6
+                          —s
+   N                       /    2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 8 7
+   N                      7     2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 8 8
+   N                      7     £ 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 8 9
+                          —V
+   N                       /    2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 9 0
+   M                      7     2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 9 1
+   N                      7     2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 9 2
+   N                      7     2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 9 3
+   N                      7     2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 9 4
+   N                      7     2 0 - 0 4 - 8 9 REPORT OF DEATH BODY NO 9 5
+                          “7
+                                2 0 - 0 4 - 8 9 LIVERPOOL SOCIAL WORKERS INVOLVED
+
+
+
+■* -:<•■# -> *   * -M--js-* -a--a- * -H-* -;$•-a-* -a-■%-a-■«• * * * #   * * * -s- -m-* -s * -a--a-# ■» ■»* ■» * * * # * *• -a--a-* -a- * -a-* * # # # * * •» * * * * * -a-* •«•* * # * -a-* -a-# -a-•»
+

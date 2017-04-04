@@ -1,0 +1,887 @@
+                                                                 Incident Report
+
+
+                      HEALTH AND SAFETY EXECUTIVE
+
+               RESEARCH AND LABORATORY SERVICES DIVISION
+
+                      Broad Lane, Sheffield $3 7HQ
+
+
+
+            Examination of Crush Barriers from Pens 3 and 4
+
+                                 by
+
+                     P F Heyes and J G Tattersall
+
+                                                IR/L/MM/89/II
+
+
+
+
+Distribution                                        Issue authorised by: Dr A Jones
+
+The Court of Inquiry (5)                            Date: ii December 1989
+ACC M Jones West Midlands Police
+Mr D C T Eves
+Dr J McQuaid
+Dr A Jones
+Mr A Barrell TD
+Mr P G Jones TD
+Mr M S Nattrass FAID Area 14
+Mr J P Giltrow HFS(N)
+Mr M R Stephenson NEFCG
+Mr M Fountain TD3
+Dr J H Foley
+Dr C E Nicholson
+Mr P F Heyes
+Mr I R Price                                        TO RLSD/DIAS STAFF ONLY:
+Mr D Waterhouse                                     NOT TO BE COMMUNICATED OUTSIDE HSE
+Mr G A C Games                                      WITHOUT THE APPROVAL OF THE
+Mr G Norton                                         AUTHORISING OFFICER
+Mr M James TD3
+Mr C J Pertee NEFCG
+Mr J B Hibbs NEFCG
+RPS                                                 SMR/343/235/01
+Library(2)
+Registry File                                       $80.02.OTH.814
+I INTRODUCTION
+
+Following the incident on 15 April 1989, staff of the Health and Safety
+Executive visited Hillsborough Football Ground. The crush barriers in
+Pens 3 and 4 (central pen), at the Leppings Lane end of the ground, were
+examined on 16 and 17 April 1989 and identified with a paint marker in
+accordance with a drawing supplied by Mr Paul Jackson, Sheffield
+Environmental Health Department. On each barrier the support locations
+werenumbered sequentially from left to right when viewed from the pitch.
+
+Barrier 124A appeared to have collapsed and a length of the horizontal
+tube had become detached. This detached length of tube had been found on
+the pitch in front of gate 3 in the perimeter fence at the Leppings Lane
+end on 16 April 1989 by Dr Nicholson. It was kept in a secure place by
+Club Officials and was placed in Pen 3 on 17 April 1989 so that it could
+be examined in conjunction with the rest of the barrier. Subsequently on
+17 April 1989 it was taken to the Sheffield Laboratory of the Health and
+Safety Executive together with another small piece of tube found by Dr
+Nicholson on 17 April 1989 (see 2.1, page 3 below).
+
+On 24 April 1989 the damaged parts of barrier 124A, consisting of two
+lengths of tube and two supports, were removed from Pen 3, under the
+supervision of the authors of this report, and taken to the Sheffield
+Laboratory of the Health and Safety Executive for metallurgical
+assessment. The remainder of barrier 124A was removed by Mr P F Heyes
+and HSE staff on 7 July 1989.
+
+This report contains details of examinations performed both on site and
+in the laboratory. The work was carried out by the authors and by other
+staff of HSE working on their instruction and under their general
+supervision.
+
+2 ON SITE EXAMINATION
+
+2.1 BARRIER 124A
+
+Barrier 124A was located on the seventh, eighth and ninth steps of Pen 3
+adjacent to Pen 2. The overall length of this barrier before collapse
+was estimated to be 7.5m including a tube overhang of 0.6m near the
+radial fence adjacent to Pen 2. The horizontaldistance from this
+barrier to the perimeter fence at the front of Pen 3 was approximately
+3.5m, and the distance of the tube end from the radial fence, separating
+Pens 2 and 3, was 28mm. There were no other barriers between barrier
+124A and the perimeter fence. A sketch of this barrier, showing our
+opinion of its appearance before the incident, is shown in Figure i.
+
+The evidence suggested that, prior to the collapse, barrier 124A had
+consisted of four vertical supports with a horizontal tube between them.
+HSE staff numbered the supports 1,2,3 and 4, beginning at the end nearer
+Pen 2.
+
+
+
+
+                                 -i-
+Each vertical support had consisted of two lengths of 52mm wide metal
+angle, having a thickness of 6mm, inclined at an angle of 20 degrees to
+one another. During manufacture each front support leg had been curved
+near the top to form a horizontal surface and had been joined to the
+rear support leg by a triangular gusset plate. The latter had been
+rivetted to the two lengths of metal angle. The horizontal tube had been
+made from hollow circular section metal with an outside diameter of
+60mm, An inverted U-shaped strap, approximately 50mm wide, had been
+bolted to the top of each support, and this was presumably intended to
+retain the horizontal tube.
+
+Figure 2 shows barrier 124A viewed from the pitch as it appeared on the
+morning of 17 April 1989. The detached length of tube had a transverse
+fracture at either end. One of these fractures matched the fracture on
+the length of tube in contact with support 2 and the other matched the
+fracture on the length of tube in contact with support 3. Hence it was
+possible to locate this detached length of tube in the correct
+position between supports 2 and 3. This detached length of tube had
+been bent symmetrically about its mid-point where the maximum deflection
+was 133mm.
+
+Support 4, shown in the foreground of Figure i, had been moved forward
+and twisted towards the front left-hand corner of Pen 3, viewed from the
+pitch. The lower portion of the front leg had remained straight,
+although by comparison with the front legs of other barriers, it
+appeared to have moved forward through an angle of 25 degrees
+approximately. In so doing the front leg had broken away from the edge
+of the concrete step in which it had been supported. Several pieces of
+detached concrete were observed nearby, two of which matched the
+fracture on the step, shown in Figure 3. The upper portion of the front
+leg had suffered localised bending and it had been twisted inwards with
+respect to the other supports on this barrier.
+
+The rear leg of support 4 had been deformed and kinked at the lower end
+near the junction with a piece of reinforcing steel angle which had been
+bolted on top of the original angle section. The latter had been thinned
+by corrosion in the area where this deformation had occurred. The rear
+leg also exhibited localised deformation and cracking in the vicinity of
+the lowest gusset plate attachment hole. The gusset plate appeared to be
+relatively undeformed but had been moved inwards towards the other
+supports. The tube retaining strap appeared to be intact and still in
+position.
+
+Support 3 had been deformed extensively and flattened so that it was
+almost horizontal. The general direction of deformation was towards the
+front left-hand corner of the pen, viewed from the pitch. At its lower
+end the front leg had been deformed adjacent to a piece of reinforcing
+angle, but both the latter and the surrounding concrete were
+undisturbed. The rear leg had been bent forward and the majority of the
+deformation had occurred at the junction with the concrete step. The
+step itself was intact. The gusset plate was undeformed but it had been
+torn from the upper part of the rear leg and moved forward. The strap
+retaining the tube at support 3 had been straightened partially but the
+tube appeared to be captive at this position. A transverse fracture of
+the tube, in the vicinity of some tube wall corrosion, was visible under
+the strap.
+
+
+                                -2-
+The length of tube in contact with support 3 had been bent by 200ram at
+midspan and it had a ragged fracture in a corroded region near the end
+further from support 3, i.e. the free end. The latter had presumably
+been located under the strap on support 4 before collapse occurred. The
+fracture in the tube corresponding with support 4 was partly transverse
+and partly longitudinal, the original manufactured end being deformed
+but not fractured. At some stage the tube had also been partially
+crushed at this location.
+
+During the visit on 17 April, a small piece of metal, roughly
+semi-circular in section, was found in Pen 3 by Dr C Nicholson amongst
+the debris near gate 3 in the perimeter fence. The fracture on this
+small piece matched that at the end of the tube corresponding to support
+4. This end of the tube had apparently moved a distance of 1.4m in the
+horizontal plane before coming to rest on the steps. In total, the
+collapsed part of barrier 124A occupied an area measuring 4m along the
+terrace and 1.6m down the terrace in Pen 3.
+
+Supports i and 2 were free from damage and the length of tube between
+them had not been deformed significantly. This length of tube contained
+two circumferential welds positioned as follows when viewed from the
+pitch side: one approximately 0.2m left from the strap on support 2; the
+other 0.05m right from the strap on support i. The tube had fractured
+transversely under the strap on support 2 and a smaller diameter tube
+insert was observed protruding a distance of 25mm from this fracture.
+There was evidence of considerable corrosion of the original tube under
+this strap. The tube insert appeared to be approximately 150mm in total
+length. The strap on support 2 had been welded to the tube on the left
+side only. This was the only location on barrier 124A where a strap had
+been welded to the tube.
+
+Support i had a piece of reinforcing angle attached to each foot and the
+rear leg had been braced by an additional piece of angle acting as an
+outrigger. Support 2 had a piece of reinforcing angle attached to the
+front foot only with an outrigger on the rear leg.
+
+2.2 OTHER BARRIERS IN PENS 3 AND 4
+
+The remaining barriers in Pen 3 and those in Pen 4 were examined. The
+layout of all the barriers in Pens 3 and 4 is shown schematically in
+Figure 4. On each barrier the supports were numbered sequentially from
+left to right as viewed from the pitch. Several barriers had been
+fabricated with rectangular hollow section supports and these appeared
+to be somewhat newer than the rest. Most of the old-style barriers had
+been modified in some way, for example by reinforcing of the support
+legs and welding of the horizontal tubes. Corrosion was evident at all
+joints and intersections, and rust njacking" had occurred at many of the
+gusset plate/support leg junctions.
+
+Most of the horizontal tubes on the older barriers were open-ended and
+in two cases (barrier 125 near support i and barrier 128 near support i)
+holes in the tube wall, caused by corrosion under the support strap,
+were clearly visible. An example of this is shown arrowed in Figure 5
+which depicts the end of barrier 125 adjacent to barrier 124A in Pen 3.
+The hole is approximately 25mm in diameter and its centre is 60mm from
+the end of the tube.
+
+
+                                 -3-
+2.3 EXCAVATION OF BARRIER 124A SUPPORTS 3 AND 4 ON 24 APRIL 1989
+
+It was agreed by the Inquiry that supports 3 and 4 on barrier 124A could
+removed for laboratory examination. Three cylindrical cores, measuring
+0.1m in diameter and 0.4m in length, were cut from the concrete steps at
+positions specified by Mr C Pertee, a Principal Specialist Inspector in
+the Technology Division of HSE, before excavation of the supports
+commenced. These cores, from steps 7, 8 and 9, were identified by the
+letters P,Q and U respectively. After cutting, core P was found to
+contain a piece of the front foot from support 4 and core U was found to
+contain a piece of the rear foot of support 3.
+
+It became apparent during excavation that each support leg had been
+flattened and shaped to form a foot which had been positioned
+horizontally in the ground and bolted to a base plate. The supports were
+freed by unscrewing, or grinding off the nuts in contact with the feet
+of the supports. In all cases the boundary between the support and the
+concrete was marked using yellow paint.
+
+When the front foot of support 4 was exposed, considerable thinning and
+loss of metal was observed in the vicinity of the bend between the
+upright and the foot. This area was further weakened during core
+drilling and the remaining ligament of metal, approximately 5mm wide and
+0.Smm in thickness, became detached during removal of the support. Part
+of the front foot was found to be in contact with a reinforcing wire in
+the concrete and a length of this wire was removed for possible future
+examination.
+
+The pieces of reinforcing angle, noted previously on the rear leg of
+support 4 and the front leg of support 3, were observed to extend below
+the surface of the concrete to the bend at the start of the foot.
+
+The length of tube remaining in contact with support 3 slipped out of
+the strap during lifting of the support. It was apparent that this
+length of tube had not been fixed intentionally to the strap and it had
+been held temporarily in position by accumulated rust and debris only.
+
+2.4 REMOVAL OF INTACT PART OF BARRIER 124A ON 7 JULY 1989
+
+The feet of supports i and 2 were excavated to a depth of 50mm
+approximately and subsequently cut using an angle grinder. This
+permitted both supports, and the length of tube between them, to be
+removed in one piece.
+
+3 lABORATORY ASSESSMENT
+
+3.1 ITEMS RECEIVED
+
+The following items were taken from Pen 3 on 17 April 1989 and
+transported to HSE’s Sheffield Laboratory:
+
+Exhibit No                        Description
+
+CEN/I        A piece of metal tube found by Dr Nicholson in Pen 3 near
+             gate 3 in the perimeter fence
+
+
+                                  -4-
+CEN/2        A length of metal tube found by Dr Nicholson on the pitch
+             in front of gate 3 in the perimeter fence
+
+The following items were taken from Pen 3 on 24 April 1989 and
+transported to HSE’s Sheffield Laboratory:
+
+PFH/I        A length of metal tube, one end of which had been located
+             in the strap of support 3 on barrier 124A
+
+PFH/2        Support 4 from barrier 124A
+
+PFH/3        Support 3 from barrier 124A
+
+PFH/4        Items from the front foot of support 4 on barrier 124A
+             comprising: two nuts; a slice of metal from the foot and a
+             piece of reinforcing wire.
+
+PFH/5        Two nuts from the rear foot of support 4 on barrier 124A
+
+PFHI6        Two pieces of concrete found by Mr Heyes near the front
+             foot of support 4 on barrier 124A
+
+PFH/7        A concrete core, identified as "P", cut from step 7 in
+             Pen 3 near the front foot of support 4 on barrier 124A
+
+PFH/8        A concrete core, identified as "Q", cut from step 8 in
+             Pen 3 between the feet of support 4 on barrier 124A
+
+PFH/9        A concrete core, identified as "U", cut from step 9 in
+             Pen 3 near the rear leg of support 3 on barrier 124A
+
+The following item was removed from Pen 3 on 7 July 1989 and transported
+to HSE’s Sheffield Laboratory:
+
+PFH/10       A piece of barrier 124A consisting of supports i and 2 and
+             the length of tube between them.
+
+Exhibits PFH/4,5 and 6 were not included in the present examination.
+
+3.2 CONCRETE CORES
+
+The three cores are shown schematically in Figure 6. They were taken at
+different positions along the terrace but, for convenience, they are
+shown here in the same plane. Core P was extracted in three pieces: a
+cylindrical upper piece, approximately 85mm in length, which was
+composed of an upper layer (27mm in thickness) containing relatively
+fine aggregate, typically a few millimetres in section and a lower layer
+(52mm in thickness) containing coarser aggregate, typically 5-10mm in
+section; an irregular shaped intermediate ~iece, with a maximum length
+of 120mm, which contained the coarsest aggregate, typically 20-30mm in
+section, and bore an impression of a section of barrier support foot; a
+cylindrical lower layer, 180mm in length also containing the coarsest
+aggregate (20-30mm in section)
+
+Core Q was extracted in two cylindrical pieces: an upper piece,
+approximately 138mm in length, which was composed of an upper layer (23mm
+in thickness) containing relatively fine aggregate, typically a few
+
+
+                                 -5-
+millimetres in section, a middle layer (65mm in thickness) containing
+coarser aggregate, typically 5-10mm in section, and lower a layer, 50mm
+in thickness, of loosely bound coarse material; a lower piece, 245mm in
+length containing the coarsest aggregate, typically 20-30mm in section.
+
+Core U was extracted in two cylindrical pieces: an upper piece,
+approximately 141mm in length, which was composed of an upper layer
+(26mm in thickness) containing relatively fine aggregate, typically a
+few millimetres in section and a lower layer (llSmm in thickness)
+containing coarser aggregate, typically 5-10mm in section; a lower
+piece, 200mm in length, containing the coarsest aggregate, typically
+20-30mm in section. The lower layer contained a slice through a barrier
+support foot consisting of, in descending order, a nut, a piece of foot,
+a piece of bolt and a piece of base-plate.
+
+3.3 LENGTHS OF TUBE FROM BARRIER 124A
+
+3.3.1 Visual examination
+
+The two detached lengths of tube (CEN/2 and PFH/I) are shown in Figures
+7 and 8 respectively. The length of tube which had been between supports
+3 and 4 was designated "tube 3/4" by the authors and the length of tube
+which had between supports 2 and 3 was designated "tube 2/3". Each
+length measured 2.3m and had an external diameter of 60mm. The length of
+tube between supports i and 2 was designated "tube 1/2" and its overall
+length was approximately 3m. The outside diameter of this tube was 60mm.
+
+Bottom dead centre of tube 2/3 and 3/4 was located by examination of
+paint runs and an accumulation of dried paint. It was deduced that both
+lengths of tube had been deformed towards the pitch in a horizontal
+plane.
+
+Visual examination of the fractures indicated that in general the
+failure of the tube had occurred in a fibrous, ductile manner. On the
+two matching fractures which had been coincident with support 3 there
+was however a region of bright crystalline fracture, shown arrowed in
+Figure 9, consistent with a more brittle failure mode. This crystalline
+fracture had occurred where the remaining wall thickness of the tube was
+at a maximum.
+
+In general the appearance of the tube fractures was typical of wrought
+iron which had fractured in a single-stage bending/tensile mode.
+Fracture of the tube adjacent to support 3 appeared to have initiated on
+the uphill side of the barrier at a position at right angles to top
+dead centre. The other tube fractures had suffered some post-failure
+damage and the origins were not readily identifiable.
+
+At all the fracture positions much of the wall thickness of the tube had
+been reduced, mainly by external corrosion. The corrosion had occurred
+under the locating straps in areas, approximately 65mm wide, which were
+unpainted. The end of the tube at the position of support 4 had been
+open to the environment and additional corrosion at the internal surface
+of the tube had occurred. This had resulted in the formation of two
+holes through the wall approximately i0 and 20 mm in diameter under the
+strap. One of these holes, shown arrowed in Figure i0, appeared to have
+initiated the fracture and led to the detachment of the small piece of
+tube (arrowed in Figure ii) found on the steps, item CEN/I. These holes
+
+
+                               -6-
+were location at the 4 o’clock and 8 o’clock positions and their centres
+would have been approximately 50mm from the open end of the tube at
+support 4 before failure.
+
+The extent of corrosion of tube 1/2 under the strap at support 2 was
+disclosed when the strap was removed (Figure 12). Tube 1/2 was removed
+subsequently from supports i and 2 to permit closer examination. This
+revealed that two pieces of tube had been joined beneath support 2 by a
+part circumferential weld which also served to join the strap to the
+tube at this support. A 150mm long tubular insert (arrowed in Figure
+12), with an outside diameter of 49mm and a wall thickness of 5mm, was
+located inside the main tube at a position corresponding with support 2.
+This reinforcement was retained by means of a tack weld on the inside of
+the main tube between support 2 and the adjacent circumferential weld in
+the main tube, which had been noted on site. Hence, neglecting the
+insert, the tube between supports i and 2 apparently consisted of three
+pieces joined by: a circumferential near support i; a circumferential
+weld near support 2; a part circumferential weld beneath support 2.
+
+An oval hole, shown in Figure 13 and measuring 35 x 15mm, was revealed
+in the tube under the strap on support i, at the 4 o’clock position when
+viewed from the end nearer support i. This hole had apparently been
+formed by external corrosion of the tube under the strap.
+
+A rolled-up newspaper was found inside tube 2/3. This was part of a copy
+of the "Yorkshire Telegraph & Star", dated Saturday 24 October 1931. A
+piece of another newpaper, "The Star" dated Saturday 26 September 1959,
+was found in tube 1/2. Various other items of debris were found
+elsewhere in the lengths of tube.
+
+3.3.2 Tube wall thickness measurements
+
+The wall thickness of the tube at the fracture positions was measured at
+various locations around the circumference. The thickness range recorded
+at each fracture is shown below:
+
+Support 2      0.4 to 4.4 mm
+
+Support 3      1.6 to 4.5 mm
+
+Support 4      i.i to 4.5 mm (ignoring the edges of the holes)
+
+Measurements taken along the lengths of tube using an ultrasonic
+instrument showed that the wall thickness remote from the fractures was
+in the range 3.2 to 4.9 mm. Corrosion was confined to regions about
+70-75mm wide, centred on the support straps, and there were no areas of
+pronounced thinning elsewhere. The ultrasonic thickness reading was
+5.0mm throughout the length of tube between the circumferential welds on
+tube 1/2.
+
+3.3.3 Microstructural examination
+
+A transverse ring section was cut from tube 3/4 at a distance of 65mm
+from the fracture corresponding to support 3. Microexamination showed
+that the tube had been manufactured from wrought iron and that it
+contained a longitudinal, forged lap weld.
+
+
+                                 -7-
+A microsection of a sample of paint removed from a similar position
+showed that the paint consisted of 13 coats plus an initial metal loaded
+primer coat. The total thickness of these coats was approximately 0.5 mm.
+Various microsections from tube 1/2 indicated that this length of tube
+consisted of both wrought iron and low carbon steel as follows: the
+length between the end nearer Pen 2 and the circumferential weld near
+support i was wrought iron; the length between the circumferential welds
+was low carbon steel; the length between the circumferential weld near
+support 2 and the part circumferential weld beneath the strap on support
+2 was low carbon steel; the length between the part circumferential
+beneath the strap on support 2 and the fracture was wrought iron.
+
+3.3.4 Tensile tests
+
+Two longitudinal tensile test pieces, identified as T343/I and T343/2,
+were machined from tube 3/4 near the end corresponding to support 3. Two
+further longitudinal tensile test pieces, identified as T1221 and T1222,
+were machined from the central portion (low carbon steel) of tube 1/2.
+In order to minimize the effects of previous work hardening, all test
+pieces were taken as near as possible to what would have been the
+neutral axis during bending.
+
+These test pieces were tested in accordance with BS 18:1987 ~Method for
+tensile testing of metals (including aerospace materials)", and the
+following results were obtained:
+
+
+             Elastic Limit     Rp0.2            Rp0.5       Rm         A~
+    (limit of proportionality)
+
+   T343/I      142 MPa       255 MPa           271 MPa      371 MPa    17
+               9.1 tsi       16.6 tsi          17.5 tsi     24.0 tsi
+
+   T343/2      159 MPa       261 MPa           269 MPa      358 MPa    17
+               10.3 tsi      16.9 tsi          17.4 tsi     23.2 tsi
+
+   T1221       282 MPa       342 MPa           360 MPa      488 MPa    27
+               18.3 tsi      22.2 tsi          23.3 tsi     31.6 tsi
+
+   T1222       301 MPa       356 MPa           372 MPa      499 MPa    27
+               19.5 tsi      23.1 tsi          24.1 tsi     32.2 tsi
+
+None of these test pieces exhibited a yield phenomenon.
+
+3.3.5 Hardness testing
+
+Hardness tests were carried out on the ring microsection from tube 3/4
+and on the microsections from tube 1/2 in accordance with BS 427:Part
+1:1961 (1981) ~Method for Vickers hardness test: Testing of metals". The
+following results were obtained:
+
+Tube 3/4, wrought iron                    142 - 145 HV i0
+
+Tube 1/2, low carbon steel                146 - 152 HV i0
+
+Tube 1/2, weld metal at support 2         161 - 171 HV i0
+
+
+                                    -8-
+3.4 SUPPORTS FROM BARRIER 124A
+
+3.4.1 Visual examination
+
+Supports i and 2 had not been deformed. Supports 3 and 4 are shown after
+excavation in Figures 14 and 15 respectively. Although the extent of the
+deformation of supports 3 and 4 was noted on site (see section 2.1 of
+this report), a number of additional features became apparent in the
+laboratory.
+
+The legs of supports 3 and 4 had been corroded, particularly at the
+junctions with the concrete step and/or additional reinforcing angles.
+At these locations the residual thickness was in the range 3.1mm to
+5.9mm, compared with a nominal thickness of 6.3mm elsewhere. A
+considerable amount of metal had been lost by corrosion from the
+sub-surface region of the supports. For example, on the rear leg of
+support 4, a ligament of metal 8mm wide and 2mm in thickness was all
+that remained of the original nominal 50 x 50mm angle section at a
+distance of 150mm below the surface.
+
+The front leg of support 3 and the rear leg of support 4 had been
+reinforced with additional sections of steel angle. Both these
+reinforcements spanned areas of corrosion on the sub-surface region of
+the supports. In general on the collapsed supports, the most severe
+sub-surface corrosion was located at a distance which varied from 50mm
+to 170mm below the surface depending on which step the barrier had been
+located.
+
+3.4.2 Dimensions
+
+In general, the width of the steel angle from which the support legs had
+been made was in the range 49    52mm and the thickness remote from
+corroded regions was in the range 6.0 - 7.4 mm. In some above surface
+regions of supports 3 and 4 the thickness of the angle had been reduced
+by corrosion and buckling had occurred during collapse. This can been
+seen in Figures 14 and 15 in which the thickness of the angle at the
+positions indicated was:
+
+           Support 3       (a)         4.6 to 5.9 mm
+                           (b)         5.9 mm
+           Support 4       (c)         1.5 mm
+                           (d)         5.6 to 5.8 mm
+
+The thickness of the steel angle in the sub-surface regions of supports
+3 and 4 varied from zero, where through-thickness corrosion had
+occurred, to 6.4mm.
+
+3.4.3 Microexamination
+
+Microsections were cut and prepared for examination from each of the
+legs on supports 3 and 4 only. The following microstructures were
+observed:
+
+    Support 3 Front leg - 100P ferrite
+               Rear leg   small amount of pearlite in ferrite in central
+                          region; ferrite at edges.
+
+
+                                 -9-
+     Support 4 Both legs         small amount of pearlite in ferrite in central
+                                 region; ferrite at edges.
+
+These microstructures were typical of low carbon or rimming steel.
+
+ 3.4.4 Tensile tests
+
+ One tensile test piece was machined from each leg of support 3. The test
+¯ pieces were identified FL3 and RL3 and were tested in accordance with BS
+ 18:1987 " Method for tensile testing of metals (including aerospace
+ materials)", and the following results were obtained:
+
+                           ReH            Rm          A%
+
+     FL3                267 MPa         343 MPa      32
+                        17.3 tsi        22.2 tsi
+
+    RL3                 308 MPa         376 MPa      31
+                        19.9 tsi        24.3 tsi
+
+ Both test pieces exhibited yield phenomenon and hence the upper yield
+ stress (ReH) was determined.
+
+ 3.4.5 Hardness tests
+
+Vickers hardness tests were carried out on the microsections taken from
+the support legs. These tests were conducted in accordance with BS 427:
+Part 1:1961 (1981) "Method for Vickers Hardness Test   Testing of
+metals" and the following results were obtained:
+
+
+     Support 3 Front leg         105    109 HV
+                Rear leg         113    125 HV
+
+     Support 4   Front leg       112    140 HV
+                 Rear leg        121    141 HV
+
+These results are typical of low carbon steel.
+
+4 ASSESSMENT
+
+Barrier 124A had consisted originally of a horizontal tube and four
+vertical supports. The barrier had failed apparently by partial collapse
+and fracture of supports 3 and 4, and by fracture of the horizontal tube
+at supports 2, 3 and 4. The length of tube which had been located
+between supports 2 and 3 (tube 2/3) had been bent uniformly to give a
+maximum permanent deflection of 133mm at midspan. The portion of the
+tube whicH~een located between supports 3 and 4 (tube 3/4) had been
+bent uniformly to give a maximum permanent deflection of 200mm at
+midspan. Tubes 2/3 and 3/4 had been deformed in a horizontal plane
+towards the pitch. Tube 1/2 and supports I and 2 had not been deformed.
+
+Laboratory examination showed that most of the tube had been made from
+wrought iron and each support had been made from two lengths of steel
+angle section joined at the top by a steel gusset plate. Part of the
+original wrought iron tube between supports I and 2 had been replaced at
+some time by a 2m length of low carbon steel. In addition, the tube had
+
+
+                                       -I0-
+been strengthened at support 2 by insertion of a internal tubular
+reinforcement. Thus tube 1/2 was probably stronger than the rest of the
+tube and this may, in part, explain the lack of deformation in this
+region. In addition, supports I and 2 had been strengthened by
+reinforcement with angle section at three of the four feet and by
+bracing of the rear legs with outriggers.
+
+The tube fractures had occurred in areas which had been located under
+the metal straps designed, presumably, to retain the tube. The tube wall
+thickness, nominally 4.5mm, had been reduced significantly by external
+corrosion under each strap. In some cases holes had been present in the
+tube at these locations before collapse occurred. Corrosion here
+appeared to be a highly localised phenomenon which was confined to a
+distance of 30mm to 35mm either side of the centreline of the strap.
+
+In general the appearance of the tube fractures was typical of ductile
+failure of wrought iron in a single-stage bending/tensile mode. The
+region of brittle fracture, noted in the tube near support 3, was the
+last part of the tube to fracture at this location. The change in
+fracture mode can be explained in terms of increased constraint as the
+fracture entered thicker material and an increase in strain rate as the
+fracture propagated round the tube. Both these factors would tend to
+promote brittle fracture.
+
+Corrosion at the tube/support junctions was predictable because liquid
+would have been retained in crevices under the strap and the surface of
+the tube under the strap had not been painted. At the open end of the
+tube, near support 4, internal corrosion had also contributed to
+deterioration of the tube since there was access for rainwater. Here the
+tube wall had been perforated by corrosion under the strap at two
+locations producing holes which we estimate would have been
+approximately lOmm and 20mm in diameter before the collapse. The centres
+of these holes would have been located approximately 50mm from the open
+end of the tube at support 4. They would have resembled the hole in the
+tube on barrier 125 (Figure 3) and, in our opinion, they would have been
+readily visible to the naked eye.
+
+The direction of collapse of supports 3 and 4 appeared to be towards the
+front left-hand corner of Pen 3, as viewed from the pitch. For the most
+part the supports had been buckled and bent at locations which had been
+weakened by corrosion. Although there was considerable sub-surface
+corrosion of these supports, this played no part in the collapse. The
+concrete which broke away at the front foot of support 4 did so because
+this support had been positioned along the riser of a step in the
+terrace.
+
+In all cases the most severe sub-surface corrosion on the feet of
+supports 3 and 4 had been located near the lower end of the region of
+concrete containing the coarser aggregate. One possible explanation for
+this could be that the height of the terrace had been raised at some
+stage and the sub-surface corrosion may have occurred at or near the
+original junction between the support feet and the terrace. This would
+have reduced the effective height of the barriers.
+
+
+                               -II-
+The use of wrought iron tube, and the method of tube fabrication,
+suggests that barrier 124A was many years old. British Standards
+governing the use of wrought iron tube were in use in the 1920s and
+1930s but are now obsolescent. The discovery of dated sections of
+newspaper in the tube indicates that parts of barrier 124A were at least
+58 years old, although clearly this barrier had received several
+modifications during its lifetime.
+
+5 CONCLUSIONS
+
+5.1 The tube on the collapsed part of barrier 124A had been made from
+wrought iron.
+
+5.2 The tube on the collapsed part of barrier 124A had fractured at
+supports 2, 3 and 4 in regions where considerable localised corrosion
+had occurred.
+
+5.3 The legs of supports 3 and 4 on barrier 124A had been made from low
+carbon steel angle section which had been corroded in some areas.
+
+5.4 Two other barriers in Pens 3 and 4 contained tubes which had been
+perforated by corrosion at support locations.
+
+In our opinion,
+
+5.5 The general direction of collapse of barrier 124A was towards the
+lower left-hand corner of Pen 3, as viewed from the pitch.
+
+5.6 Two holes, caused by corrosion, had been present in the tube of
+barrier 124A at the junction with support 4 before the collapse
+occurred and these would have been visible to the naked eye.
+
+
+
+
+                                   -12-
+RADIAL FENCE BETWEEN
+     PENS 2 & 3
+
+                                                                 4
+
+                                          3
+
+                  ri
+
+
+
+
+                       Fig. 1 - Reconstruction of Barrier 124A
+                                                   89 04-073/17
+       Fig. 2 - Barrier 124A on 17/4/89.
+
+
+
+
+                                                   8904-073/84
+Fig. 3 - Front leg of support 4 on barrier 124A.
+                              149                                                                                                150
+
+
+
+
+                       136                             136a                                       137
+LU                                                                                                                                            w
+o
+z
+LLI
+            I                IIi                        I          I                        !      I                                          0
+                                                                                                                                              Z
+                                                                                                                                              tll
+LL                                                                                132                                                         LL
+                                                                                            ¯
+
+
+                             2 SECTIONS
+                124a         COLLAPSED                           125                        127                            128
+
+      Iii               iIi                       /           II               III                                    II
+                                                                                _’: 126 _
+      I
+                                                                       PITCH
+                                          PEN 3                                                   PEN 4
+
+
+                                                                         1                              Older type barriers ......... /   I
+                                                                                                        New type barrlers .......... -_
+
+
+
+
+                                                      Fig. 4 - Layout of barriers in pens 3 & 4
+                             !
+
+
+
+
+                        89 04-073/6
+Fig, 5 - Barrier 125.
+                                                                                                Step 9             CORE U
+                                                                                                                    FINE
+                                               Step 8            CORE Q
+                                                                  FINE
+¯ Step 7          CORE P
+                                                                                                         115
+
+
+                               !                          65
+
+                                                         4-
+                                                          50
+                                                                                                                 COARSER
+
+
+
+                                                                           ,--- Loosely bound
+                               Impression of
+                                                           t                    material
+
+           --~~ support foot
+            12o ~/
+             1 !~OARSEST
+                           /
+                                                                                                          1
+                                                                                                         200
+                                                                                                                 COARSEST
+                                                                                                                           r-
+                                                                                                                                  Slice through
+                                                                                                                                  support foot
+
+
+
+
+                                                          24~
+                                                                COARSEST
+           180
+
+
+           ~_    COARSEST
+
+
+
+                                                                                                               Fine ......... Aggregate : 1-2 mm
+                                                                                                               Coarse... Aggregate" 5-10 mm
+                                                                                                               Coarsest Aggregate : 20-30 mm
+
+                                                        Fig.6 - Concrete cores
+                                    89 04-117/25
+    Fig. 7 - Tube 2/3 from 124A.
+
+
+
+
+4
+
+
+
+
+                                   89 04-117126
+    Fig. 8 - Tube 3/4 from 124A,
+                                           89 05-033/2
+Fig. 9 - Fracture of tube at support 3.
+
+
+
+
+                                           89 05-033/5
+Fig. 10 - Fracture of tube at support 4.
+          /
+                                       89 04-117/42
+Fig. 11 - Tube at support 4 + CEN/I.
+
+
+
+
+                             /
+
+
+
+
+                                       89 07-048/13
+    Fig. 12 - Tube on support 2.
+                                       89 07-063/4
+
+Fig. 13 - Hole in tube at support 1,
+        a
+                                                                    d
+                                                /
+
+
+
+
+                       89-O4117/23                          89-O4117/24
+
+Fig. 14 - Support 3.                 Fig. 15 - Support 4.
+

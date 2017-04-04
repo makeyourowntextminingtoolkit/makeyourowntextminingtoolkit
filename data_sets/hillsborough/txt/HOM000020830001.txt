@@ -1,0 +1,4576 @@
+                                                   WP( 8 9 )   1 s t MEETING
+
+
+
+
+TECHNICAL WORKING PARTY ON THE GUIDE TO SAFETY AT SPORTS GROUNDS
+
+
+
+
+                               AGENDA
+
+
+
+1.   To note the Working Party's terms of reference and the
+     introductory paper W P (89)1   (attached).
+
+
+2.   To note the Interim Report (attached).
+
+
+3.   To identify the areas for future consideration by reference
+     to the Green Guide and otherwise.
+
+
+4.   To consider:-   i)    other references
+                     ii)   the method of working
+                     iii) timetable.
+
+
+5.   Any other business.
+
+
+6.   Date and place of next meeting.
+                                                             WP(89)1
+
+
+TECHNICAL WORKING PARTY ON THE GUIDE TO SAFETY AT SPORTS GROUNDS
+
+
+
+Introductory Paper
+
+
+The disaster at Hillsborough on 15 April 1989, which claimed the
+lives of 95 people and injured several hundred more, and the
+subsequent Public Inquiry hearings in Sheffield highlighted a
+number of failures, both human and structural.   Although the
+immediate cause of the disaster was the gross overcrowding in
+Pens 3 and 4 on the Leppings Lane terraces, the Interim Report
+published in August 1989 also acknowledged other elements.       It
+emphasised in particular the existence of a number of serious
+structural weaknesses at the ground.   In some cases, these were a
+result of clear departures from the recommendations set out in
+the Home Office Guide to Safety at Sports Grounds (the "Green
+Guide") which, although it has no statutory or legal force, is
+the only official advice available about safety at sports
+grounds.
+
+
+2.   These departures included the spacing of crush barriers, the
+width of perimeter gates and the gradient in the tunnel leading
+onto the terraces (see para 287 of the Interim Report).     In
+addition, research carried out during the course of the oral
+hearings cast doubt on some of the underlying assumptions behind
+the Green Guide figures themselves.    It is intended therefore
+that the Working Party examine the technical aspects of the
+Guide, identify areas needing amendment or clarification and
+recommend accordingly.
+
+
+3.   The purpose of this introductory paper is thus to set the
+scene.   It highlights those areas of the Guide which emerged from
+Part I of the Inquiry as warranting further, more detailed,
+study, but it is by no means an authoritative statement of the
+Working Party's remit.
+
+
+4.   Comprehensive guidelines on spectator safety at sports
+grounds first appeared as recommendations in the appendix to the
+Wheatley Report on Crowd Safety at Sports Grounds published in
+1972.        Those recommendations formed the basis of the original
+"Green Guide", published in 1973.         A new version was published in
+1976, and a new edition in 1986, the latter taking into account
+the recommendations of a working party established under the
+aegis of Mr Justice Popplewell1s Inquiry into Crowd Safety and
+Control at Sports Grounds following the Bradford City disaster in
+1985.        Most people would probably accept that the Guide has
+developed more as a piecemeal response to particular events than
+as the result of a coherent and cohesive process.
+
+
+5.      Recommendations in the current Guide which Inquiry evidence
+suggests may need critical re-examination include the following:-
+
+
+
+        i.      Packing density.    Paragraphs 221 and 222 recommend a
+                range of maximum packing densities up to 54 persons per
+                10 square metres.   That figure was reached following a
+                series of tests carried out in the early 1970s
+                involving healthy, predominantly male adults as test
+                subjects.    Copies of those papers are attached at Annex
+                A.   Density tests set up by the Health and Safety
+                Executive (HSE) at Sheffield during the course of the
+                hearings, and experienced by Lord Justice Taylor and
+                his Assessors, suggest, in the light of the discomfort
+                experienced, that those figures may need to be re­
+                evaluated.    The Working Party needs therefore to assess
+                whether the method of calculation employed in drawing
+                up the Green Guide figures remains acceptable, whether
+                the tests need to reflect more closely the actual
+                age/sex composition of football crowds and whether, in
+                any event, Paragraphs 221 and 222 need clarification.
+                The Interim Report (para 177 and Recommendation 2)
+                recognises that the figure of 54 per 10 square metres
+                has been regarded not as the upper extreme of a range
+                of maximum figures but as the norm - a feature probably
+                attributable to imprecise drafting;
+ Crush barriers.    Annex C to the Guide specifies the
+ method of testing to be employed in respect of crush
+ barriers and handrails, but is open to different
+ interpretations.    Dr Eastwood's, recorded at Paragraph
+ 238 of the Interim Report, involved recovery in
+ relation to the barrier's position before the third and
+ final application, rather than before the first
+ application of pressure, of each test.    The Report
+ accepts that his interpretation is tenable, but it is
+ almost certain that the Home Office intended recovery
+ to be measured against the barrier's position before
+ the first application.    Indeed, that is the more
+ commonsense approach.    Such an obvious ambiguity in the
+ Guide needs to be addressed, along with a re­
+ examination of the suitability of the relevant forces
+ set out in the Annex.
+
+
+ In addition, in the light of oral evidence already
+ given as to the mechanics of testing individual barrier
+ spans (see for example, Transcript Day 26 pp 112-114),
+ the Working Party might consider the possible need for
+ a more explicit description of the testing process.
+ Certainly, even though the method employed at
+ Hillsborough by Dr Eastwood resulted in the omission of
+ testing results for one span in each barrier,    it did
+ not expressly conflict with the Guide;
+
+
+. Corrosion.   Paragraph 240-242 of the Interim Report
+ indicate the degree, and effect, of corrosion on the
+ barriers at Hillsborough.    Tests carried out by the HSE
+ showed corrosion of the metal at vulnerable points, and
+ paragraph 242 specifically recommends that the question
+ of corrosion be explicitly addressed in any revision of
+ the Guide;
+
+
+ Tunnel gradients.    Evidence given to the Inquiry
+ established that the tunnel gradient into Pens 3 and 4
+ was, in places,    1 in 6 as against the Green Guide
+ maximum of 1 in 10 (Para 88 G Guide).     In addition,
+insufficient thought appears to have been given in the
+past to the impact of tunnel gradients on ingress, as
+opposed to egress.    The problem has always been posited
+in terms of rapid evacuation from terraces, rather than
+of intense pressure directed into the standing areas;
+
+
+Perimeter fences.    Much has already been said during
+the course of the Inquiry about the need to retain or
+to abolish perimeter fencing.    The subject is an
+emotive one and opinions are divided.    In conjunction
+with this debate run parallel questions about the
+height, strength and material involved in construction,
+and of the need for, width of and open/shut state of
+perimeter gates.    The Working Party will need to
+examine all of these issues.
+                   CRUSH BARRIER STRENGTHS AND SPAC DIGS
+
+1.0    INTRODUCTION
+
+Until recently there was little guidance available on the strengths and
+
+spacings suitable for crush barriers used on football terraces.      The only
+
+problem in the design of barriers was often seen as that of ensuring they
+
+did not collapse under crowd pressures.      Uhile it is of paramount importance
+
+that collapse does not occur, it is also important that crowd pressures
+
+cannot be generated so as to caus'e injury particularly to those spectators
+
+pressed against the barrier«
+
+1.1    The supporting evidence for the spacing and strength of crush barriers
+
+recommended in the 'iheatley Report is given below.     In brief, the
+
+determination of the pressure that can be generated on a terrace is explained,
+
+a distinction being made between the levels of pressure that can be
+
+generated in "peak viewing areas" e.g. behind penalty boxes, and in "other
+
+viewing areas"; a figure is obtained for the pressure that can be generated pe;
+
+man (or alternatively per foot width of barrier par foot spacing as a
+
+function of slope);     and measurements of the pressures that can be
+
+tolerated by the human body when pressed against a barrier are described.
+
+Other supporting evidence is also mentioned.
+
+1.2.    It is assumed that only on rare occasions will all the spectators
+
+between 2 consecutive barriere up a slope contribute simultaneously to
+
+crowd pressures.      VJhen this "maximum pressure" does occur it causes grave
+
+discomfort but, owing to its transient nature, is unlikely to cause injury<>
+
+It is assumed that the pressures which occur frequently will be generated
+
+by half of these spectators and, for the purpose of this paper, this
+
+frequently generated pressure is called the "tolerable pressure".       The
+
+recommended barrier spacing is based on it, the actual distance recommended
+
+between barriers being the standing room required by twice the number of
+
+spectators who exert the tolerable pressure.      It is also assumed that each
+
+spectator occupies an area of 2 square feet, standing on a step of 14" depth
+and exerting his pressure over 21" of barrier.      Two series of spacings
+
+are given each of which is based on a different level of tolerance to
+
+crowd pressure:     one level of tolerance is for safety only and the other
+
+for safety plus comfort, these being 300 lbf per person (or 170 lbf per
+
+foot width) and 200 lbf per person (or 115 1bf per foot width)
+
+respectively.
+
+1.3    Since the collapse of a barrier could lead to an incident escalating
+
+in severity, the barriers should withstand the greatest pressure ever
+
+likely to be exerted on them.      Accordingly the recommended barrier
+
+strengths are based on the "maximum pressure" i.e. that pressure which
+
+could be generated by all the spectators who could be involved.      Using
+
+the tolerable pressures quoted in paragraph 1.2, the desired barrier
+
+strengths are 340 lbf per foot width and 230 lbf per foot width for the
+
+2 levels of tolerance.         Should the barrier spacing be less than the
+
+maximum recommended, the barrier strength may be reduced proportionately
+
+provided none is less than 206 lbf per foot width.       (This is the value
+
+quoted in the British Standards Code of Practice for barriers in
+
+buildings).
+
+
+2.0     SOURCES OF INFORMATION
+
+        Research commissioned by Wheatley Inquiry
+
+        (i)   Measurements of required strength of crush barriers on terraces
+
+              Home Office
+
+       (ii)   Tests to determine the forces tolerated by people when against
+
+              crush barriers — Department of Bio mechanics, University of
+
+              Surrey
+
+      (iii)   Measurements of crowd pressures generated at Liverpool Football
+
+              Club ground — Bingham Blades, & Partners, Consulting Structural
+
+              Engineers 1972
+
+       (iv)   Literature search for levels of force/pressure at which injury
+
+              occurs - Home Office.
+
+                                      2
+       Oth^r Research
+
+       (v)     Measurements of required strength of crowd barriers (horizontal
+
+              only) - Ministry of Public Buildings and Work3 1948
+
+      (vi)    Measurements of crowd pressures generated at Everton Football
+
+              Club ground - Bingham Blades & Partners 1971
+
+      (rii)   Strength tests on crush barriers at a football club ground
+
+              Kingston Polytechnic 1971 .
+
+
+3.0    MEASUREMENTS' OF CR0V7D PRESSURES THAT_..CAN BE GENERATED
+
+Measurements were made by the Home Office of the pressure that could be
+
+generated on the terraces during a match,        (reference paragraph 2.0).
+
+Thirty police cadets were used to simulate spectators.        Two levels of
+
+force were defined - (a) 'lean', corresponding to spectators bearing on
+
+one another but exerting no additional force, and (b) 'push', as 'lean'
+
+but with the crowd exerting an additional force in order to see, but not
+
+pushing aggressively.     The cadets in varying numbers of rows were asked to
+
+'push' or 'lean' against a well padded test barrier attached to an existing
+
+crush barrier at a football ground.         The forces were measured using
+
+pressure gauges.     The experiments were carried out on 3 slopes of 0°, 15 »
+
+and 23r°.     It was considered that condition (b) 'push' corresponded
+
+to the state of the crowd in the "peak viewing areas" of the terraces
+
+ and that condition (a) 'lean' corresponded to the other areas.         Pressures
+
+of up to about 300 lbf per person were tolerated with some discomfort
+
+by the cadets for a few seconds.      Signs of considerable discomfort were
+
+shown for longer periods of time or for greater pressures.
+
+3.1    It was assumed that the force propagated down a slope would have
+
+2 components:       (i) the force measured with a slope of 0°, and (ii) a
+
+component proportional to the weight of the spectator and the size of
+
+ the slope angle.     The following relationship was found to hold for the
+
+ force per spectator.
+
+
+
+                                 3
+        slope      =        Po + 84 sin Q
+
+where P slope is force in lbf per spectator
+
+       Q is angle to horizontal of the slope
+                                                               o
+       Po is the force per spectator when Q              =    0
+and    Po (push)       =    40 lbf and       Po (lean)   =■ 21 lbf.
+
+However as the police cadets were above average ifeight, a normalising
+
+factor is needed and the relationship becomes:
+
+       P slepe     =       Po + 73.5*sin Q
+
+where Po (push)        =     35.5 lbf and Po (lean)       =   18.5 lbf.
+
+For example, using this relationship it can be calculated that 9 rows
+
+of spectators all pushing on a 14° terrace will press the foremost
+
+spectator against the barrier with, a force of 480 lbf (or 274 lbf per
+
+foot width of barrier).
+
+3.2    The values for Q = 0° were in agreement with siailar aeasurements
+
+made in 1948 by the Ministry of Public Buildings and Works (reference
+
+paragraph    2.0 (v)).         The force as a function of sl®pe was not
+
+measured on that occasion.
+
+4.0    MEASUREMENTS OF CROWD PRESSURES ACTUALLY GENERATED
+
+Measurements were made at 2 football matches of the forces actually
+
+ezerted on a barrier.           The measurements using calibrated strain gauges
+
+were made at 2 different grounds on barriers situated behind the
+
+ penalty box (reference paragraph 2.0 (iii) and (vi)),
+
+ 4*1   Match A.    Barrier spacing behind the test barrier varied from
+
+13' to 25'         the terrace slope was 14° (1 14).           Forces of 100 to
+
+ 200 lbf per foot width ©f barrier were eeasured with occasional
+
+ peaks to 300 lbf per foot width.               The forces did not exceed 200 lbf per
+
+ foot width for 3 or ®ore seconds.
+
+       Match B     Barrier spacing varied froia 13*5' to 26' and the terrace
+
+ slope was 14°.        Forces of 100 to over 200 lbf per foot width were
+
+ measured with occasional values of 300 lbf per foot width.
+
+
+                                         4
+4.2   Neither match was crucial nor particularly exciting.   At the
+
+second match there were 14 casualties including a man with a
+
+fractured leg and a boy with concussion.    Two experienced plain­
+
+clothes men who were stationed in the crowd stated that apprehension
+
+and fear were generated by crowd movements and pressure, and that seme
+
+spectators stood back and braced themselves against the crowd pressure
+
+with one foot on the barrier.
+
+
+5.0   MEASUREMENTS ON HUMAN TOLERANCE TO CROWD PRESSURES
+
+A series of measurementt; were made on men and women to determine
+
+the maximum pressure which could be tolerated by a person vihen
+
+pressed against a crush barrier.   Each person while standing was
+
+pressed against a steel tube located horizontally against various
+
+positions in turn on his trunk.    The pressure was applied to him by
+
+means of a pack frame on his back with various weights which forced
+
+him on to the barrier.   Three subjective levels of discomfort were
+
+defined and each person was asked to say when they were reached.
+
+In particular the third level of discomfort was defined as that which
+
+became intolerable after a few seconds.
+
+For men (42 subjects) the height of the barrier rail at which maximum
+
+force could be tolerated was found to be 41 y " t which corresponds well
+
+with the usual barrier height of 42".     The mean value of this force
+
+for men when passive was found to be 107 lbf and when they were
+
+allowed to resist by pushing against the barrier was 179 lbf (with
+
+a range of 98 to 233 lbf).   For the passive tests the force tolerated
+
+was increase!by a third to 140 lbf by substituting a 4" wide plank
+
+for the steel tube.   The values in respect of women were considerably
+
+lower.
+5.1   It is felt that although the above results give an order of
+
+aagnitude of the tolerable force, the following comments could be made.
+       (i)   The maximum force tolerated was clearly not at the threshold
+
+             of injury.
+
+      (ii)   Although the force was defined as being intolerable after a
+
+             few seconds, periods of surging and pushing in a crowd on a
+
+             terrace may be more transient, and for these very short
+
+             periods greater forces can apparently be tolerated.
+
+  (iii)      Persons with loiver levels of tolerance may well be protected
+
+             by their stronger companions.
+
+
+6.0    MEASUREMENTS OF BARRIER STRENGTH AT A FOOTBALL GROUND
+
+A nunber of measurements were made of the strength of existing crush
+
+barriers at a London Football Club (reference paragraph 2.0 (vii)).
+
+In particular, tests were made on barriers in the same area and similar
+
+to a barrier which had collapsed during a match.      Three similar
+
+barriers failed at pressures of 260, 290 and J00 lbf per foot width.
+
+The distance to the next barrier above the collapsed barrier varied
+
+from 10' to 22'.
+
+6.1     The consulting engineers i,ecomnended that crush barriers should
+
+be designed and checked to a significantly higher loading than 200 lfcf
+
+per foot width, and that no spacing between barriers should be greater
+
+than 12' and should be less on steep terraces.      They also recommended
+
+that for design purposes there was need to determine the lead which
+
+people can exert on barriers and the maximum pressure which the human
+
+body can bear without injury.
+
+7.0     OTHER MEDICAL EVIDENCE FOR THE LEVEL OF FORCE/PRESSURE AT WHICH
+
+        INJURY OCCURS.
+
+A search in medical papers for evidence ef the level of pressure at
+
+which injury occurs te the human body was undertaken by a Heme
+
+Office doctor (reference paragraph 2.0 (iv)).
+
+7.1     Among the infomation brought to notice by this search were
+
+2 cases of traumatic asphyxia where the pressures (as calculated by the
+weight of the objects causing the pressures)differed to a marked
+
+extent.    In the first case the pressure was 1400 pounds for a period
+
+of 15 seconds, and in the second case 300 pounds for scae 4 to 6
+
+minutes.   The reason for the difference in the pressures reported in
+
+these cases *say be due to the 1400 pounds being far in excess of the
+
+minimum required to cause the fatality.    Certainly the amount and
+
+duration of the pressure in the second case were similar to those
+
+reported at the Bolton Wanderers accident in 1946 where layers of 3 or
+
+4 bodies were sufficient to cause death by traumatic asphyxia.
+
+This evidence does indicate that if a barrier should collapse end people
+
+are piled on top of each other even for only a short time, traumatic
+
+asphyxia is a definite hazard.
+
+7„2   The search disclosed no other information about injury to the
+
+body due to static forces, but did reveal that as far as dynamic forces
+
+are concerned the liver can be injured by impacts of 3-5 mph.    There
+
+was also brought to notice that bone finds increased strength when
+
+subjected to a dynamic as opposed to a static loading:    this may be
+
+the reason why larger forces of a transient nature, can be tolerated.
+
+
+3.    RECOMMENDED BARRIER STRENGTHS AND SPACINGS
+
+Spectators can be safeguarded.against injury from crowd pressures by
+
+the careful positioning of crush barriers of suitable design.    The
+
+barriers should never collapse under pressure and should be spaced
+
+to limit the number of spectators between 2 barriers so that their
+
+combined pressures can never be sufficient to cause injury.     For
+
+financial reasons there is need to determine the minimum adequate
+
+strength and the maximum acceptable spacing of barriers for this
+
+purpose.     The following summary of the information presented earlier
+
+in this paper provides the basis for the recommendations which haTe
+
+been made in this regard.
+8.1    The pressures which can be generated by spectators when they
+
+'lean' or 'push' on a terrace have been measured (see paragraph 3).
+
+For a 14° slope the 'lean' force per person was calculated to be
+
+36 lbf (or 20 lbf per foot width of barrier) and the 'push' to be
+
+53 lbf (or 30 lbf per foot width).
+
+8.2    Pressures measured on 14° slopes during 2 catches (see paragraph 4 }
+
+were of the same order of magnitude, being 200 lbf per foot width as
+
+a regular occurrence for periods longer than 3 seconds, and with
+
+occasional    peaks of 300 lbf per foot width.   Although it was
+
+unlikely that all spectators were involved in exerting these pressures -
+
+the matches were not considered to be exciting - the pressure that
+
+could have been exerted by each ofthe persons in the 12 to    22 rows
+
+behind the barriers ranged from 17    to 9 lbf per foot width(and 27
+
+to 14 lbf during the occasional peaks).     These figures are certainly
+
+of the same order of magnitude as those in paragraph 8.1).
+
+8.3    Further support to these figures is given by the deduced pressure
+
+of 260 to 300 lbf per foot width at which a barrier collapsed (see
+
+paragraph 6).    There were 9 to 19 rows of spectators behind the
+
+barrier and so the 260 represents a pressure per person of 29 to
+
+14 lbf per foot width and the 300 a pressure of 33 to 16 lbf per foot
+
+width.
+
+8 .4   It is felt that the measurements mentioned in paragraph 8.1 are
+
+reasonable for calculating the maximum pressure that could be generated
+
+between 2 consecutive barriers up a terrace slope.     Furthermore, the
+
+'push' values should be U3ed for 'peak viewing* areas and the 'lean'
+
+values for other areas.
+
+8.5    The measurejsents by the University of Surrey of pressures
+
+tolerated by the human body are surprisingly low'(see paragraph 5);
+
+the mean figure for men being 107 lbf when passive and 179 lbf when
+
+resisting by pushing against the barrier.    These figures are lower
+
+
+                              8
+                                                                            tSeki,-
+
+
+
+
+than the pressures of 200 lbf per foot width, with peaks to 300, which
+
+were recorded at a match (see paragraph 4 );   but these pressures may
+
+have been exerted for shorter periods, and they did generate fear (and
+
+some injuries were infact reported on that occasion).     The Surrey
+
+figures are also lower than the pressures of 300 lbf per person
+
+tolerated by police cadets (see paragraph 3 ) but in that case the
+
+barrier was well padded and .the cadet3 may have been prepared to
+
+tolerate more in the company of their colleagues.
+
+8.6.    Given the supporting evidence of paragraph 8.5 > it is reasonable
+
+to use a figure of 200 lbf per person (or 115 lbf per foot width) as
+
+the tolerable pressure for comfort and safety, and a figure of 300 lbf
+
+per person (or 170 lbf per foot width) as the tolerable pressure for
+
+safety only.
+
+8.7    As mentioned in paragraphs 1 .2 and 1.3 the "tolerable pressure" is
+
+half the "maximum pressure" and so the recommended minimum strengths
+
+for barriers are 230 and 340 lbf per foot width when the barriers are
+
+spaced for "comfort and safety" and for "safety only" respectively.
+
+Should the space between 2 barriers be less than the maximum
+
+recommended, the strength of the front barrier may be reduced in
+
+proportion provided that none is less than 206 lbf per foot width.
+
+
+
+
+Hose Office
+
+March 1973.
+
+
+
+
+                            9
+                                                                   A-
+
+
+
+
+ TESTS ON LITE SUBJECTS TO DBTFRMI^B TEE! TOLERABLE FORCES
+
+    THAT MAY BE EXERTED BY GROP'D CONTROL CRUSE BARRIERS
+
+
+
+
+                          by
+
+
+
+
+E. J. Evsms, M«B»f B.Sc. (Lond), L.H.C.P.? M.H.C.S. (Lond)y M«i^c. ^Sux'xsy)
+F. Hayden, B.Sc.(Eng.)(Lond), C.Eng., M.I.Mech.E.
+
+
+
+
+                                            NOVEMBER 1971
+                                       2
+
+
+    INTRODUCTION
+
+            This study deals with experiments, performed on live subjects,
+
+    to determine an individual’s tolerance to static loads applied to the
+
+    thorax and abdomen.     The tests were designed to provide information,
+
+    hitherto non existent, which is necessary to formulate standards in
+
+    connection with crowd control crush barriers.
+
+            Two series of tests were carried out:
+
+            1.     Each subject was pressed against a steel tube located
+
+    horizontally against various positions on the trunk.
+
+            2.     Each subject was pressed against a wooden plank, again
+
+    located horizontally against various positions on the trunk.
+
+    Since the tests involved live subjects there was no question of using
+
+    loads of such a magnitude which might conceivably cause injury.        Con­
+
+    sequently the decision on what was considered tolerable was left
+
+    entirely at the discretion of the individual undergoing the test.
+
+£   APPARATUS
+
+            Figures 1, 2 and 3 show photographs and a line drawing of the
+
+    apparatus used in the tests.
+
+            The basic iron framework is 36 inches long, 28 inches wide and
+
+    25 inches high.     The subject is drawn forward on to the barrier by means
+
+    of a pack frame via four cords which are mounted on an adjustable T-frame
+
+    which is constrained to move in the horizontal direction only.         The
+
+    constraint consists of a precision-machined, one inch diameter steel bar
+
+    which runs freely in a multi-race bearing.      The load is applied to the
+
+    subject by two wires attached to the T-frame end of the steel bar which
+
+    run over pulleys to a weight hanger which can take a dead load.         In order
+
+    to apply the barrier to various positions on the trunk the subject’s height
+
+    above ground level is adjustable by means of wooden boards of various
+
+    thickness.
+
+            Incorporated on the steel bar is an adjustable stop ;/hich limits
+
+    the travel of the T—frame to 0.|> indie .•> at any state of loading.
+         5
+
+
+
+
+FIG. 3
+                                  6
+
+
+
+METHOD
+
+1.       Each subject was asked to confirm that he had no disease or injury
+
+which might "be influenced "by the tests.     In the first series of tests, an
+
+ECG was first taken from each subject.
+
+2.       Immediately before the test the purpose of the experiment and
+
+details of the experimental procedure were explained to the subject and
+
+each was asked to sign a form giving "informed consent” to the procedure.
+
+3.       The age, sex, height and weight of the subject were noted.
+
+4.       The position of the first load application point was identified
+
+on the subject’s body, and the height of the point above the ground was
+
+noted.
+
+5.       The subject stood against the barrier on the appropriate number
+
+of wooden boards.     Subjects wore normal clothing, without jackets, and
+
+any hard objects etc. were removed from their pockets.
+
+6.       Weights were placed on the weight hanger in suitable increments
+
+until the subject stated that he felt the onset of discomfort.       The
+
+load was noted.     Further weights were added until the subject felt the
+
+second level of discomfort and similarly for the third level.       The
+
+subjective levels of discomfort were defined as follows
+
+         Subjective load level A - the first sensation of discomfort
+
+                                      felt by the subject.
+
+         Subjective load level B - discomfort which was estimated by
+
+                                      the subject to be tolerable for
+
+                                      about half an hour,
+
+         subjective load level C - discomfort which was estimated by
+
+                                      the subject to become intolerable
+
+                                      after a few seconds.
+
+7.       Stages 4, 5 and 6 in the method were then repeated for the
+
+remainder of the load application points using the tube or the 4" wide
+
+plank.    In the first series of tests the load application points were as
+
+defined in fig. 4, but it later became apparent that no more useful
+information would be obtained from further tests at points 1 and 2 and
+
+the remainder of the tests were only performed at the application points
+
+3 and 4, and in addition at the conventional barrier height of 42 inches
+
+from the ground.
+
+8.       Using the tube at the height of 42 inches, the subject was loaded
+
+in the usual way to load level C.     He was then asked to adjust his
+
+position by bending or standing on tip-toe in an attempt to improve his
+
+tolerance of the load.   He was then asked to push against the barrier
+
+with his Vian rig in any way that he chose and the load was increased until
+
+the subject again felt discomfort corresponding to load level C.
+
+SAFETY
+
+         Only healthy adults were used as subjects for the tests.       An
+
+electrocardiograph was taken from most of the subjects.     There is
+
+evidence that a blow on the chest over the heart may cause some disturb­
+
+ance of function of the heart even in a normal person.     Although it was
+
+felt highly unlikely that the slowly applied pressure of our experiments
+
+would have any effect on the heart, we thought it prudent to exclude any
+
+subject with any abnormality of the heart.      The subjects were therefore
+
+screened by recording the ECG and blood pressure, and briefly examining
+
+the cardio-vascular function of each subject.      The ECG’s were also
+
+checked by Dr. P. Kidner of the Cardiac Unit, King’s College Hospital.
+
+No abnormalities were detected, although one ECG which was unsatisfactory
+
+on technical grounds could not be repeated as the subject declined to
+
+continue with the experiments.      In the second stage of the tests the
+
+testing procedure did not require pressure over the heart and it was felt
+
+that the ECG screening was no longer necessary.
+
+         Particular care was taken in the design of the apparatus to ensure
+
+the safety of the subjects.      The method of loading by dead-weight was
+
+chosen as a failure could never result in an increase in the load.           Two
+
+experimenters were present during each test so that the load cou? d be
+                               8
+
+
+'rapidly removed by one experimenter pushing against the ram and so
+
+releasing the load from the subject.   An adjustable stop was provided
+
+so that, should the subject become fatigued, the maximum increase in
+
+deflection which could occur was 0.5 inches.
+
+        An alarm bell was provided for the subject in case speech was
+
+impeded by pressure on the chest.
+LOAD APPLICATION POII7TS
+
+
+
+
+ Kanubrio-Stemal Joint
+
+ Stemo-Xiphistemal Joint
+
+ Lower border of costal margin
+
+ Anterior Superior Iliac spine
+
+
+
+
+       FIG 4
+RESULTS
+
+          'itie results are tabulated for each of the 48 subjects and the
+                                                V
+obesity factor calculated from the formulas    — x 1000.     These tables
+                                                W
+are included in Appendix l(pages 27 - 75).
+
+          In the first series of tests 17 male and 12 female subjects
+
+were tested at all four load application points and then a further 15
+
+male subjects were tested at points 3 and 4 * and 42" inches from ground
+
+level only.
+
+          The results obtained are presented in histogram form in Tables
+
+1 to 8 (Pages 13 - 20).
+
+REPRODUCIBILITY
+
+          For a given individual it was found that, if the tests were
+
+repeated after an interval of a few days or mere, the two sets of
+
+results corresponded in all cases to within 20% or less.
+
+CAUSES OF DISCOMFORT
+
+          Subjects reported four main causes of discomfort from the tests.
+
+(a)    Localised pain.     If the tube or plank was at a level where it
+
+rested on a bone immediately beneath the skin, the force was applied only
+
+to a small area and considerable pressure developed in the trapped skin.
+
+This was painful in the area over which the pressure was applied.       The two
+
+sites at which this phenomenon occurred were level 1 (the manubrio-stemal
+
+angle) and in subjects of slim build at level 4 (the anterior superior
+
+iliac spine).
+
+(b)    Restriction of breathing.     When force was applied over the lower
+
+chest or upper abdomen (levels 2 and 3 and 42 inches in short subjects)
+
+many subjects complained that they found difficulty in breathing and asked
+
+for the tests to be stopped.     It is unlikely that this difficulty was
+
+caused by a simple mechanical restriction of the chest.      In most cases
+
+subjects contracted their respiratory muscles (the diaphragm and intercostal
+
+muscles and the muscles of the upper abdominal wall) to support their ribs
+                                 11
+
+
+against the applied force.      The contracted muscles were then unable to
+
+provide respiratory movements.        Some subjects were able to hold their
+
+breath during the time the load was applied and so restriction of breathing
+
+did not constitute a reason for stopping the test.
+
+        High loads which restricted breathing were never applied to any
+
+subject for longer than about 30 seconds.       If loads were to be applied
+
+fora longer period the need to breathe would, in many cases, produce a
+
+considerable reduction in the marimam tolerable force.
+
+(c)     Muscular Fatigue.      Loads applied to the lovrer chest and the
+
+abdomen were resisted by contraction of the underlying muscles, and this
+
+strong muscular contraction was sometimes a source of discomfort.
+
+(d)     Internal Pain.      In some cases tolerance is limited by an
+
+ill-defined "deep" discomfort which is presumably caused by deformation
+
+or displacement of internal organs.
+                                   12
+
+    I
+                      SUBJECTIVE   LOAD   LEVEL
+I
+I
+I       35ie Subjective load levels are defined as follows:-
+
+
+I
+           A   -   the first sensation of discomfort felt
+I                  by the subject.
+
+
+I
+           B   -   discomfort which was estimated by the
+I
+                   subject to be tolerable for about half
+
+I                  an hour.
+
+
+
+
+' •        C   —   discomfort which was est.im=? fced by the
+
+I                  subject to become intolerable after a
+
+                   few seconds.
+
+
+
+
+I
+I
+          .._3 t1E£L J u &E.. L^RUS*                  BARRtEfK._n                Su&jECTS : MA> ~
+            L oad      A p p l / c a t io n      P o in t        /
+
+
+ S U B J E C T IV E                           17      Su bjects       t e s t e s ,>
+
+     £ CAT3— --
+
+    Leveu
+                                                                                                                 ■5--
+                                                                                     MEAN:          9 4 IL j
+                                  n   r ^ n                               H-i         n                            •O--
+
+                                                                                                                   i*
+                                                                                                                h5-|
+                                                                                                                   <0
+                                                          J in                                                               !~n
+
+                                                                                                                             &
+                                                                                                                -)D -
+                                                                                                                          Hi
+           A
+                                                                                                                          l
+                                                                                                                -5-^
+
+
+
+                              ZQ       60          7£        ico     125         150       !7‘5    20C
+                                              .iO A D _
+
+
+      . - L o a d ...A p p l ic a t io n                     2l...
+
+
+
+S u b j e c t /v e .                        17      SUBJECTS T E S 7 Z D
+— i - O A D -------
+
+  Lbve i
+
+          c                             r_r1] ,—          r pT"!
+                                                                       XI
+                                                                                 MEAN:
+                                                                                Q.
+                                                                                                  8 8 /if
+
+
+                                                                                                                         12
+                                                                                                               -5 ■S
+
+                                                                                                                         co
+                                                                                                                        U.
+                                                                                                                         o
+                                                                                                               -/o
+
+      i   A                                                                                                             &
+
+                            Ft                                                                                 -5    .  1     .
+
+
+
+                               L n ^
+                                                                                                               o
+                             25       >50        75        Toe       Us         l$0       /75     200
+
+                                            —L 0 A Z > X -fy )-
+  DTELEL      I USE        K^RusH JDAZR/EK — O O B J £.073 : MiA la 1
+
+ ; L oad      A   r p u c a tio n       P    q /m t    3
+
+
+                                   36    SUBJECTS          TESTED
+
+
+
+
+                                                                    MEAN :   9 0   Mj
+
+
+
+
+                                                                                        ? i 0 3 r9 (7 5 . :^/0
+                                                                                        t/3 '^l'vntsj
+                                                                                        j
+              o       25                75       too       125   >50   175   200
+                                              LOAD     (ib f)
+
+
+
+
+                                                                                        i
+.L o a d   A p p u c a t i q n ... P o i n t .. ..4-
+
+
+
+
+                                                                                        i
+                                                                                        :
+                               3 6 s u q j e c r-5         tested
+
+
+
+
+                                                                                        •
+                                                                                        '
+                                                                                        JO
+                                                                                        'z3 W \ 0 N
+
+
+
+
+                     25       SO        75       10C             /SO   175   200
+               Steel.        Tu s,e.   C rush        B   a r r ie r         42L   in c h e s      fr o m   G round L e v e l ,
+I
+                                       3 Z        M ale.     Subjects             Te s t e d .
+
+I
+
+                         SueJEcnvE
+    COMDUIQN- -~toAD~
+
+                         L e vel
+
+                                                                                                       MEAN : 1 7 9 h f
+        SurZjECT
+                           -G—
+        PuSH/N $
+                                                                       £L                                                 EZL
+    S u b je c t
+                                                                                                       M E A N : 12.0 ilj-
+    A   djustinq
+
+    "cw/v—
+    P o s it/o n                                                                   H
+                                                         _Q
+                                                                 fJinf
+                                                                                        rs n
+
+
+
+
+                                                                                                                                        s u p j e c . rc>
+                                                                                                      k e a w .■ I Q 7 / i f .
+                         - e -                                                                                                   -5
+    SuBJEjCT .
+                                                     i l k
+                                                                 ru
+                                                                       S     n     y    n           rin                          C
+
+
+
+
+                                                                                                                                        or
+    S t a n d /n $
+                     —     a-                                                                                                —    o -
+
+
+
+
+                                                                                                                                          mumper
+    Up r   ig h t                                    L r^
+                                                                   n                                                             o-
+
+
+                           A-                m                                                                                   ■5-
+                                                   Lfl
+                                                         n
+                                             23     SO        IS           'OO    /25       iSQ      ITS    200     225
+
+                                                     TtoATS
+
+
+
+
+                                         T a b le.           3
+          .W ootdslm       P lam<         C rush          & a r r i £:r             —          S u &j & c t s : M a l e ,
+
+          jLoACJ App>U>CAT/QN Pq/NT * 2i
+
+ S u e jE C T 'V E -
+                                            : 17 S u b jec ts              j&stb d
+~~/jJAO----
+  L   e ve l
+
+
+
+          c                                      nn r                           n
+                                                                                            - M EAN l
+                                                                                            :: ,_n n ___________
+                                                                                                                /1 4 - I b f
+                                                                E l
+
+                                                                -
+
+
+          s
+                                                T                  —            ■
+                                                                                    -   -     - —    ■
+
+
+                                      j£_                 n
+
+
+
+      .   A
+
+
+
+                            m
+                                15        50        7-5       /OO        /2 5               /S o     175         200
+
+                                          1— J-OA ZZ.JCM) _
+
+          L oad      A p p l / c a t io n       P o in t               *4-2/nch £S frc^a Grouud Le v e l .
+
+
+
+S u b je c tiv e .                             32l subjects TESTEO
+   tOAJO----
+
+ Le v e l -
+
+          c                                               r-TT— i *~L l T
+                                                                                                             MSAN ! 4 0 t f
+
+                                                                                                             -ELD      n       ■o—
+                                                                                                                                      V)
+                                                                                                                                      K
+                                                                                                                                      U
+          & ■                                                                                                                  •5 -
+
+
+                                  «   n
+                                                f    a
+                                                              _EL
+                                                                                                                                      i
+                                                                                                                                      CO
+                                                                                                                                      u.
+                                                                                                                                      o
+
+
+      IA ;                            I                                                                                        •/o-
+                                                                                                                                      Js
+                                                                                                                               5 -
+                                                                                                                                      k
+                                a J
+                                r~        i ■       i          i          r             "i               1        r
+                              25      SO         75           too        12.5           IS 0        I7S         200
+                                                 -LMD. J i y ) .
+           LQ HT.S— o r . — A P P L t C/1 TJO tl                  / / / TS.
+
+               F   rom      G   round       Level             •
+
+                          JJ6 S u Bj e z -TS
+
+
+
+
+             A p p i/C A T fo ft   P   o i n t   .   3
+
+                                                                        MEAN ;    4 6 iNCHE. S
+
+
+
+
+ 38   39                                                 45                              49
+
+
+
+
+           -A p p l ten riot/... Pb/NT. .4.
+
+                                                                      M e a n : 4~} * 5" jncmzs
+
+
+
+
+38    39      AO                                                                 *46 . *43
+_ST£/zL T u b e . C r u s h 3 a rr/er.                    UEJECTS : . . F e M A L
+
+L .o a o   A p p l ic a t io n     P o in t     /
+
+
+
+
+                              JZ   S u & J E C TS . J T E S T E D
+
+
+
+
+                                                     MEAN .* '3 O / b f
+
+
+
+
+                                                                                SUBJECTS
+                                                                                OF
+                                                                           o
+
+
+
+
+                                                                                NUMBER
+                                                                                    •
+           O     25      oo        75                       150     17 5
+
+  -________           __:___ LoAD-(jbf).
+
+
+
+
+                                                                                    ;
+  L oad .. A p p u c a t / o n ^ P o/n t ..2 .
+
+
+
+
+                                                                                    !
+                                                                                    '
+                             12. SUBJECTS TESTED
+
+                                                                                    !
+                                                                                OF' SUQJE-C.TS
+
+
+
+
+                                                                           O
+                                                                                A/oM&£R:
+
+
+
+
+                 23     50         73     IOO       122    >50      175
+                                 J-QAD..(&f)_______ ;_______
+
+
+
+   t
+                                                           19
+        S   teel.      T   ube.    C    rush         £ > A P S'-/Efz. —    S   ubjects      :      F   e m a l e
+
+
+ L OA.D            A   p p l ic a t io n        P    o in t       3
+
+
+
+
+S u b j e c t /v e .                             12 S U B J E C T S        TESTED
+
+' 'L O A D
+
+  L   ev e l   .
+
+                                                                               mean':      3 9 ibf
+        C
+
+
+
+
+                                                                                                                   svej£cr3
+                                  n —   h   —          i                                   ...            .
+
+
+
+- •      B     ..... -
+
+
+
+
+                                                                                                                   or
+                             f U l — F“]
+
+
+
+
+                                                                                                                   nl'Mzep
+      •A           ...
+
+                            K            ... .....................:................
+                                   25       So             75     /oo      IZ5      .'50    '75
+                                        Load            ( l b f ) ~ ....       —
+
+
+   __Lo /MD            A   P P L / CA T / O f j        P o IN T       4-
+
+
+
+                                                            u& j e    c t s res tejd .
+
+
+
+
+                                                                               MBA N       5 !!t
+                                                                                                                   Subjects
+                                                                                                                   of
+                                                                                                                   nuKlht.
+
+
+
+
+                                                50         75     IOO      125      /SO
+
+                                                . In Ac^JJbf)                  ______
+                                              20
+
+
+W   o o d e n     P   u k n k   C   r u s h        B   a r r i e r   —   S   ubject   's :   F   e m a l e   :
+
+
+
+
+JL o a d        A p p l ic a t io n      P o in t           cL
+
+
+
+
+                                12 subjects              Tssmo
+
+
+
+
+                                                        too      125     fSo    >75
+                                       21
+
+
+ CONCLUSIONS
+
+ 1 .1      S te e l Tube Crush B a rrie r - Subjects passive
+
+           The mean values of the maximum tolerable force as defined
+
+ by subjective load level C (Tables: 1, 2, 3, 6 & 7) were as follows
+
+                                         Male                  Female
+ Application Point 1                        94 lbf             30 lbf
+                       2                    88 lbf             34 lbf
+                       3                    90 lbf             59 lbf
+                   4                    106 lbf                51 lbf
+ 42" from ground level                  107 lbf                Not measured
+
+           Evidently application point 4> at the anterior superior iliac
+
+ spine, enabled most subjects to tolerate a higher load.
+
+           Table 5 indicates that application point 4 was at a mean height
+
+      41*5 inches from ground level.         Since the mean of the mayiTmn tolerable
+
+force at this point is 106 lbf, and that for 42 inches it is 107 lbf, this
+
+shows a remarkable confirmation.            These results therefore indicate that
+
+the present barrier height of 42 inches from ground level is to be preferred.
+
+         The forces taken by the twelve female subjects were so consistently
+
+low that one cannot dismiss them on mere psychological grounds.               However it
+
+would be unrealistic to design crush barriers from these figures alone.               In
+
+a mixed crowd it is likely that the more slight female form would be protected
+
+from the maximum crowd force by the likelihood of there being a male either
+
+side of her at the barrier.
+
+1.2      Steel Tube Crush Barrier - Subjects active
+
+         Table 4 shows the results obtained for male subjscts only when the
+
+subjects were allowed to:
+
+         (i) Adjust their own position for mayi wim comfort
+
+         (ii) To actively push on the barrier to ease the force on the trunk.
+
+         The results indicate that the mean maxirmm tolerable force is increased
+
+by 12% when the subject adjusts his own position, and by           67% when   he is allowed
+to push.
+ 2.     Wooden Plank Crush B a rrie r
+
+        The mean values of the maximum tolerable force as defined by
+
+ subjective load level C (Tables 4 & 8) have been tabulated with the
+
+ previous results for the steel tube and are as follows:
+
+ (i) MALE
+                                          Barrier:
+                                                              Percentage
+                               Steel tube     Wooden Plank       Gain
+
+ Application Point 2             88 Ibf          114 lbf         32%
+ 42" from ground level          107 Ibf         140 lbf          35%
+
+ (ii) FEMALE
+
+
+Application Point 2              30 lbf          40 lbf          33%
+
+
+
+
+       It may be noted that there is a remarkable correlation between
+
+the percentage gains in the three cases.        Clearly the gain of a third
+
+indicates a significant rise in the average tolerance level*
+DISCUSSION
+
+       The highest loads were tolerated when the subject was allowed to
+
+push on the barrier.     The actual values ranged from 98 - 233 lbf with
+
+a mean force of 179 lbf.    In using these figures as design criteria
+
+the questions arise:
+
+(i)    Should the value chosen be the lowest, ensuring that no one in
+
+the crowd is likely to be subjected to severe discomfort?
+
+(ii)   Should some intermediate figure be chosen such that a proportion
+
+of the population is subjected to a degree of discomfort which they would
+
+judge to be intolerable.
+
+       Should it be the highest, based on the surmise that if one man can
+
+tolerate a given load it is unlikely to cause injury to any other person,
+irrespective of what pain or discomfort he might experience?
+
+       This latter argument could be extended by reasoning that, since
+
+the man who tolerated 233 lbf was clearly not likely to be near the
+
+threshold of injury, therefore the design force could be raised to
+
+300 lbf.     However, it must be appreciated that this is mere speculation.
+
+It may well be true, but until subjects are available who are prepared
+
+and willing to be subjected to this force, irrespective of the consequences,
+
+the point cannot be proved.
+
+       The choice of an actual value for design purposes will be influenced
+
+by the conditions for which the crowd control systems are being designed.
+
+If it is felt that the maximum crowd force will only be exerted under rare
+
+and extreme conditions, then it may well be acceptable to choose a vslue
+
+which is considered to be near the threshold of injury.    If however one is
+
+designing for crowd conditions which are expected to occur regularly and
+
+frequently during an event, then it would seem unreasonable to choose a
+
+value above the maximum value of 233 lbf or even the mean value of 179 lbf
+
+and the minimum value of 98 lbf might well be preferred.
+
+       The report by Mr. L. R, Creasey (January 1948) suggests that the
+
+force/foot width of barrier for each row of the crowd when   " the crowd
+
+exerts an additional pressure in its effort to see items of special interest
+
+ahead" is:
+
+
+                       12 x 4 = 16 lbf
+                            5
+
+      Multiplying by the factors for a mixed crowd
+
+of a man (l£) gives:
+
+
+                       Force ■ 16 x | x Ijf ■ 21 lbf
+
+
+This is the strain force produced by each person in the crowd.    Clearly
+
+a crowd of 8 persons would produce a force of 1C8 lbf on the back of an
+                                 24
+
+
+
+individual pinned against the barrier - or nearly the same force ee the
+
+mean of the maximum tolerable force obtained in these tests (viz 179 Ibf).
+
+Consequently the depth of the crowd can be 9 persons or 10 feet.      If the
+
+highest maximum tolerable force of 233 lbf is used instead of 179 Ibf this
+
+will pexmit the depth of the crowd to be raised to
+
+
+
+                   1 + 4 ^ x y or 15 feet
+
+
+
+        These calculations assume that only the strain force and not the
+
+heave force is being developed by the crowd.    However, the heave force
+
+in any crowd would tend to be a transient phenomenon and as such might
+
+be considered to be a dynamic rather than a static force.    Bone itself
+
+exhibits increased strength at the high strain rates associated with
+
+dynamic loading, and if the transient forces are applied through a bony
+
+structure this may well provide the additional safety factor required to
+
+allow for the transient heave force.   In the subjects tested the average
+
+height of the strong bony pelvis is 41.•5 inches, which is sensibly at the
+
+same height as the normal crush barrier.
+
+        In order to ensure that this possible advantage is experienced by
+
+a significant cross section of the population the barrier should have
+
+sufficient depth to make contact with the pelvises of most individuals
+
+in a crowd.   In the subjects tested it was found that a barrier of 4
+
+inches depth, extending from 40 inches to 44 inches above ground level
+
+would have met this requirement for 27 out of the 3° subjects tested.
+
+        The test results also indicated that a four inch deep plank
+
+increases the average tolerance to static load by approximately one third.
+
+Hence the use of a deep top rail would have a distinct advantage as far as
+
+the more static crowd lean force is concerned, and in addition may well help
+
+to reduce the risk of injury which may be caused by the more transient
+
+heave force of the crowd.
+        The results obtained testing female subjects have been ignored
+
+in the foregoing analysis because the values appear to provide design
+
+criteria which would be nearly impossible to comply with in practice.
+
+Whether this is a valid reason for ignoring the results is open to
+
+discussion and the answer would depend on many factors other than those
+
+considered in this report.
+FUTTTRB UT7ESTIGATIQHS
+
+1.      The use of live subjects obviously limits the load which may be
+
+applied, possibly to well below the value which would cause injury -
+
+particulaxy when loading at the level of the pelvis.      An indication of
+
+the load necessary to cause injury might possibly be obtained by the use
+
+of fresh cedavers.      However, although this may be quite feasible where
+
+the rib cage is involved it might well raise serious ethical problems
+
+where the pelvis is to be fractured.
+
+2*      All the previous results relating to crowd forces were obtained on
+
+level ground.      The effect a slope would have upon the results remains to
+
+be investigated.     Since it is to be expected that the crowd forces would
+
+be larger, it is difficult to conceive how such values may be used to
+
+achieve a better ergonomic design of the barrier, although they would
+
+certainly be useful in designing the supporting structure.
+APFEKDIX I
+W eight                00        H eig h t.   ..19%       in (H )           . 1000 = 36.6
+
+
+
+                    Test with Steel Tube (2" Inner Diameter)
+
+
+
+
+                             Height from              Subjective load levels (lbf)
+ Load Application           Ground Level
+      Point                     (in)                                            B     C
+                                                               A
+
+          1                     58                        40               100       170
+
+          2                     52                        42                60       150
+
+          3                     49                        50                80       120
+
+          4                    40                         60               130       150
+
+                                42
+                         (subject standing
+                              upright)                    60       ;        90       140
+                                                                   •
+
+
+    Undefined                  42
+                       (subject adjusting                              -
+                          own position)                                              160
+
+
+                               42                                      -
+                        (subject pushing)                                            220
+
+
+
+
+                     Test with Wooden Plank (4" deep)
+
+
+                             Height from              Subjective load levels (lbf)
+Load Application
+                            Ground Level
+     Point
+                                (in)                       A                B        C
+
+          2                    52                         38               86        137
+    Undefined                    42                   .   50               90        170
+Weight       V!4....lbf (W)        H e ig h t------ 6.8. .........i n ( H )        | 2 . 1000 = 29.0
+
+
+
+                    Test with Steel Tube (2" Inner Diameter)
+
+
+
+
+                               Height from                    Subjective load levels (lbf)
+Load Application
+                              Ground Level
+     Point
+                                  (in)                               A                    B      C
+
+         1                        54                             15                  25         48
+
+         2                        49                             20                  44         68
+
+         3                        45                             10                  22         42
+
+         4                        40                             25                  39         67
+
+                                42
+                         (subject standing
+                              upright)                           30      ;           60         90
+                                                                         •
+
+
+   Undefined
+                                42
+                        (subject adjusting                                    -
+
+                           own position)                                                       100
+
+
+                                42
+                                                                              •-
+                         (subject pushing)                                                    160
+
+
+
+
+                      Test with Wooden Plank (4" deep)
+
+
+                               Height from                   Subjective load leva Is (lbf,>
+Load Application
+                              Ground Level
+     Point
+                                  (in)                            A                   B         C
+
+         2                       49                             34                   56        SB
+   Undefined                      42                         ' 40                    70       115
+                                                                                          M
+Subject No....?....                 Age...f?....                                  Sex
+
+
+Weight       fi5?. ...lbf (W)        Height....®?.... in (H)              “ 2 . 1000 =    34.4
+
+                        »
+
+                     Test with Steel Tube (2" Inner Diameter)
+
+
+
+
+                                 Height frcm        Subjective load levels (lbf)
+Load Application                Ground Level
+     Point                                                                                C
+                                    (in)                  A                ■ B
+
+         1                         53                16                    27            45
+
+         2                         47.5              25                    49            69
+
+         3                         41.5   '          29                    45            71
+
+         4                         39                35                    59            90
+
+                                    42
+                             (subject standing
+                                                     21       ;            46            74
+                                  upright)
+                                                              •
+   Undefined                        42
+                            (subject adjusting                        -
+                                                                                         78
+                               own position)
+
+
+                                   42
+                            (subject pushing)                     0                     150
+
+
+
+
+                       Test with Wooden Plank Ch " deep)
+
+
+                                 Height from        Subjective load levels (lbf)
+Load Application
+                                Ground Level
+     Point                          (in)               A                     B           C
+
+         2                         47.5              38                    66            107
+
+   Undefined                        42              .40                    70            130
+                                            31
+
+
+Subject No . . A .....                 Age..??....                                    Sex....
+
+
+Weight       .1.8.9... .lbf (W)        Height...   7.1.*?... .in     (H)       | 2 .1000 = 36.9
+
+
+
+                       Test with Steel Tube (2" Inner Diameter)
+
+
+
+
+                                   Height from            Subjective load levels (lbf)
+Load Application                  Ground Level
+     Point                            (in)                                                  C
+                                                                 A              - B
+
+         1                           56                     47                  49        156
+
+         2                           50                     38                  62        108
+
+         3                           45                     45                  52        106
+
+         4                           41                     47                  72        141
+
+                                    42
+                             (subject standing              32                  78        166
+                                  upright)
+                                                                     •
+
+
+
+   Undefined                        42
+                            (subject adjusting                             -              173
+                               own position)
+
+
+                                    42                                   -
+                             (subject pushing)                                            224
+
+
+
+
+                         Test with Wooden Plank (4" deep)
+
+
+                                   Height from            Subjective lead levels (lbf)
+Load Application
+                                  Ground Level
+     Point
+                                      (in)                    A                   B        C
+
+         2                           50                    49                   67        169
+   Undefined                          42                   54                   76        214
+W eight       .1.3.5. . . . l b f (W)          H e i g h t . . . ? ? ........... in (K)       ~ 2 . 1000 = 32
+
+
+
+                          Test with Steel Tube (2" Inner Diameter)
+
+
+
+
+                                         Height from                     Subjective load levels (lbf)
+Load Application
+                                        Ground Level
+     Point
+                                            (in)                                 A             - B          C
+
+          1                                50.5                            16                  28         52
+          2                                48                              20                  40         60
+          3                                42                              22                  36         56
+          4                                38.5                            24                  54         76
+
+                                         42
+                                  (subject standing                                           34          61
+                                                                           16
+                                       upright)
+                                                                                     •
+
+
+   Undefined
+                                        42
+                                (subject adjusting                                        -
+
+                                   own position)                                                          61
+
+
+                                         42
+                                                                                         -
+                                  (subject pushing)                                                      134
+
+
+
+
+                            Test with Wooden Plank (4*1 deep)
+
+
+Load Application                     Height from                        Subjective load levels (lbf)
+                                    Ground Level
+     Point
+                                        (in)                                 A                  B         r»
+
+          2                               48                              26                  62         102
+   Undefined                               42                             25                  48          65
+                      a                                        22      "                              c
+Subject N o . . . . .............               Afie ....................
+
+
+Height             '“ ...lbf W                  Height..?....... in CH)                      | 2 .i000 = 29.4
+
+
+
+                              Test with Steel Tube (2fl Inner Diameter)
+
+
+
+
+                                         Height from                        Subjective load levels (lbf)
+ Load Application                       Ground Level
+      Point                                 (in)                                 A                B             C
+
+            1                             56.5                              24               34           92
+
+            2                             49                                24               50           64
+
+            3                             44.5                              22               34           58
+
+            4                             40.5                              22               34           63
+
+                                              42
+                                       (subject standing
+                                                                            36               57           83
+                                            upright)
+                                                                                     •
+
+
+
+      Undefined                               42
+                                      (subject adjusting                                 -
+
+                                         own position)                                                    88
+
+
+                                              42                                         -
+                                       (subject pushing)                                                  138
+
+
+
+
+                                    Test with Wooden Plank (4" deep)
+
+
+                                          Height from                       Subjective Iced levels (lbf)
+ Load Application                        Ground Level
+      Point                                  (in)                                A                E             C
+
+             2                             49                               34               52            78
+
+                                                42                          25               43            06
+      Undefined
+                                        34
+
+
+Subject No.........             Age.
+
+
+Height...... lf?..lbf (W)       Height....T1.... in (H)             — 2 . 1000 = 29.7
+
+
+
+                    Test with Steel Tube (2fl Inner Diameter)
+
+
+
+
+                             Height from       Subjective load levels (lbf)
+ Load Application           Ground Level
+      Point                     (ip)               A                   B         C
+
+        1                       57.5              10                   20         30
+
+        2                       52                20                   34         61
+
+        3                       46.5              20                   38         62
+
+        4                        42.5             32                   50         97
+
+                                42
+                         (subject standing                                        92
+                                                  36 ;                 64
+                              upright)
+                                                        •
+
+
+
+    Undefined                   42
+                        (subject adjusting                  -
+                                                                                 106
+                           own position)
+
+
+                                42                          -
+                         (subject pushing)                                       154
+
+
+
+
+                      Test with Wooden Plank (4" deep)
+
+
+                             Height from        Subjective load levels (lbf)
+ Load Application           Ground Level                        —
+
+
+      Poirt                     (in)               A                    B         C
+
+        2                        52                28                  58         96
+
+    Undefined                    42                36                  90        170
+I                                               35
+
+
+I '   Subject No___ ?.....               A&e--- ----                        Sex....
+
+
+|     Weight.... ,1.3.3....lbf (H)       Height....7.
+                                                    1.....in (H)       . 1000 = 26.3
+
+
+
+1                          Test with Steel Tube (2" Inner Diameter)
+
+
+I
+                                      Height from       Subjective lead levels (lbf)
+I      Load Application
+            Point
+                                     Ground Level
+                                         (in)              A            B        C
+
+
+I              1                         56.5             38           90       173'
+
+               2                         50.5             35           50        96
+
+I              3                         45               26           46        70
+
+               4                         41               32           50        80
+I
+                                        42
+                                 (subject standing
+I                                     upright)            45   .
+                                                               •
+                                                                       72       108
+
+
+
+!•         Undefined                    42
+                                (subject adjusting                 -
+                                                                                127
+                                   own position)
+I
+                                        42                         -
+                                 (subject pushing)                              150
+I
+                              Test with Wooden Plank (4‘* deep)
+
+
+                                      Height from       Subjective load levels (ibf)
+       Load Application              Ground Level
+            Point                        (in)                           E        r*
+                                                           A                     w»
+
+
+
+                2                        50.5             20           58        113
+
+           Undefined                      42              30           60        111
+                      Q                             ,     27                               Cay       M
+Subject N o . . . . ........................             Age........                       frex..........
+
+
+Weight              HI...lbf (W)                   Height....II         in (H)         . 1000 - 26.9
+
+
+
+                                Test with Steel Tube (2M Inner Diarceter)
+
+
+
+
+                                                Height from            Subjective load levels (lbf)
+ Load Application                              Ground Level
+      Point                                        (in)                   A            B             C
+
+             1                                     60                   10            30           87
+
+             2                                    55.5                  21            39           80
+
+             3                                    49.5                  33            65          125
+
+             4                                    45.5                  30            60          121
+
+                                                42
+                                         (subject standing              20            41           80
+                                              upright)
+                                                                              •
+
+
+
+      Undefined                                42
+                                       (subject adjusting                         -
+                                                                                                  160
+                                          own position)
+
+
+                                                42
+                                         (subject pushing)                                        205
+
+
+
+
+                                   Test with Wooden Plank (ti" deep)
+
+
+                                                Height from            Subjective load levels (lbf)
+ Load Application                              Ground Level
+      Point                                        (in)                                             C
+                                                                          A            E
+
+             2                                    55.5                  20            5G           100
+
+      Undefined                                     42                 ' 37           70           125
+              1°
+Subvert Wo.........             *    22‘  *
+                                Age........                          Sex
+                                                                     =>ex ......
+
+
+Height......(K)       Height....!?............ in(H)          ^ . 1000 = 31.7
+
+
+
+                   Test with Steel Tube (2" Inner Diameter)
+
+
+
+
+                            Height from        Subjective load levels (lbf)
+Load Application           Ground Level
+     Point                     (in)                              P         C
+                                                  A
+
+       1                       57.5              10             24        50
+
+       2                       52.5              16             36        54
+
+       3                       47                22             38        62
+
+       4                       43                26             44        62
+
+                                42
+                         (subject standing
+                              upright)           28   ;         61        92
+                                                      •
+
+
+
+   Undefined                    42
+                        (subject adjusting                -
+                           own position)                                  94
+
+
+                                42                        -
+                         (subject pushing)                               138
+
+
+
+
+                      Test with Wooden Plank (4" deep)
+
+
+                            Height from        Subjective load levels (lbf)
+Load Application           Ground Level
+     Point                     (in)                                       <•*
+                                                  A              B
+
+       2                       52.5              28             48        68
+
+   Undefined                    42               34             56       121
+Subject No.. }}.....                Age.??......                        S e x .
+
+
+Height       }?}... .lbf (V)        Height....6.
+                                               7..... in (H)        • 1020 =   35*8
+
+
+
+                     Test with Steel Tube (2" Inner Diameter)
+
+
+
+
+                                Height from        Subjective load levels (lbf)
+Load Application               Ground Level
+     Point                                                                     C
+                                   (in)                A            B
+
+         1                         53.5              14            36          127
+
+         2                         49.5              13            36          102
+
+         3                         45                26            48           96
+
+         4                         40.5              28            56          104
+
+                                 42
+                          (subject standing
+                               upright)              37            69          109
+                                                           •
+
+
+
+   Undefined                     42
+                         (subject adjusting                    -
+                            own position)                                      109
+
+
+                                 42                            -
+                          (subject pushing)                                    150
+
+
+
+
+                       Test with Wooden Plank (4" deep)
+
+
+                                Height from        Subjective load levels (Ibf)
+Load Application
+                               Ground Level
+     Point                         (in)               A             B          C
+
+         2                        49.5               26            54          112
+   Undefined                       42                                          137
+                                                     39            87
+H eig h t       I 8.9. . . . . l b f (W)        H e ig h t ....7.6. .......... i n ( H )       | 2 . 1 0 0 0 = 32.8
+
+
+
+                             Test with Steel Tube (2” Inner Diameter)
+
+
+
+
+                                            Height from                    Subjective load levels (lbf)
+ Lead Application
+                                           Ground Level
+      Point
+                                               (in)                              A                 B           C
+
+            1                                    60                              25                40             69
+            2                                    54.5                            36                54             86
+            3                                    49                             38                 48             56
+            4                                    43                             52                 76             96
+
+                                            42
+                                     (subject standing
+                                          upright)                              44                 72             106
+                                                                                      •
+
+
+
+     Undefined
+                                            42
+                                    (subject adjusting                                     -
+                                       own position)                                                              106
+
+
+                                            42                                             -
+                                     (subject pushing)                                                          176
+
+
+
+
+                                Test with Wooden Plank (4" deep)
+
+
+                                            Height from                   Subjective load levels (lbf)
+Load Application
+                                           VarOUnG Jj6V6X
+     Point
+                                                (in)                           A                  B           C
+
+            2                                   54 .5                          28                 56           96
+    Undefined                                   42                             58                 72          168
+Subjert No... ??.........                Age..?!....*..                       Sex.....
+
+
+Height       .^....lbf 0 0        Height..®?...... in(H)              | 2 . 1000 =   32.7
+
+
+
+                    Test with Steel Tube (2" Inner Diameter)
+
+
+
+
+                              Height froni         Subjective load levels (lbf)
+Load Application             Ground Level
+     Point                       (in)                                                C
+                                                          A               E
+
+         1                        55                   37                46          86
+
+         2                        49                   48                66          135
+
+         3                        44.5                 37                58          ]K<
+
+         4                        40                   40                5G          12G
+
+                                42
+                         (subject standing
+                                                       40 ;              60          140
+                              upright)
+                                                              •
+
+
+
+   Undefined                    42
+                        (subject adjusting                        -
+                           own position)                                             140
+
+
+                                42
+                         (subject pushing)                                           196
+
+
+
+
+                      Test with Wooden Plank (4" deep)
+
+
+                            Height from            Subjective load levels (lbf)
+Load Application
+                         . Ground Level
+     Point                     (in)                    A                 B           C
+
+         2                        49                   40                70          160
+
+   Undefined                      42               •   54                75          140
+W e i g h t . . . . . . 1 ? ? . . . l b f (W)        H eight... T 9     in (H )    | 2 . 1000 = 32.7
+
+
+
+                                  Test'with Steel Tube (211 Inner Diameter)
+
+
+
+
+                                                 Height from          Subjective load levels (lbf)
+ Load Application                               Ground Level
+      Point                                         (in)                   A             B      C
+
+              1                                    57.5                22            38         128
+
+              2                                    51.5                22            44         J.08
+
+              3                                    46.5                30            58         95
+
+              4                                    42                  30            56         92
+
+                                                  42
+                                           (subject standing
+                                                upright)                             -          -
+                                                                               •
+
+
+
+
+       Undefined                                 42
+                                         (subject adjusting                                    -
+                                            own position)
+
+
+                                                  42
+                                           (subject pushing)                                   -
+
+
+
+
+                                     Test with Wooden Plank (4" deep)
+
+
+                                                 Height from          Subjective load levels flbf)
+ Load Application                               Ground Level
+      Point                                                                                     C
+                                                    (in)                   A             D
+
+              2                                    51.5                32            50         173
+       Undefined                                    42                 —             —         -
+W eight       ? ? ? . . . . l b f (W)        H e i g h t . . . . T?.*?... i n (H)       | 2 .1 0 0 0 = 26.8
+
+
+
+                           Test with Steel Tube (2n Inner Diameter)
+
+
+
+
+                                         Height from                Subjective load levels (lbf)
+Load Application                        Ground Level
+     Point
+                                            (in)                           A                  E         C
+
+          1                                 55                         35                 66           96
+
+          2                                 49.5                       28                 60           82
+
+          3                                 45                         28                 48           58
+
+          4                                 43                         38                 60           95
+
+                                          42
+                                   (subject standing
+                                        upright)                                          -            -
+                                                                               •
+
+
+
+    Undefined                            42
+                                 (subject adjusting                                 -
+                                    own position)                                                     -
+
+
+                                         42                                         -
+                                  (subject pushing)                                                   -
+
+
+
+
+                             Test with Wooden Plank (4" dee?)
+
+
+                                         Height from                Subjective load levels (lbf)
+Load Application
+                                        Ground Level
+     Point
+                                            (in)                           A               B           C
+
+          2                                49.5                        34                62           106
+   Undefined                                42                        ••
+Subject No... }?.....                Age.. .
+                                           2.
+                                            3.....                                  Sex..V.
+
+                                                                        W
+Weight       .1.6.1   lbf (W)       Height...7-.2...... in (H)         jL . 1000 = 31.2
+                                                                        H2
+
+
+                      Test with Steel Tube (2" Inner Diameter)
+
+
+
+
+                                 Height from         Subjective load levels (lbf)
+Load Application                Ground Level
+     Point
+                                    (in)                   A                    B               C
+
+         1                          58.5               43                   72                  134
+
+         2                          53                 46                   74              101
+
+         3                          48.5               29                   55              85
+
+         4                          43                 36                   69              126
+
+                                  42
+                           (subject standing
+                                upright)                                    -               -
+
+                                                               •
+
+
+
+   Undefined                      42
+                          (subject adjusting                       -
+                             own position)                                              -
+
+
+                                  42                               -
+                           (subject pushing)                                            -
+
+
+
+
+                        Test with Wooden Plank (4" deep)
+
+
+                                 Height from         Subjective load levels (lbf)
+Load Application
+                                Ground Level
+     Point                          (in)                   A                B               C
+
+         2                         53                  24               48              134
+   Undefined                        42               . -                -               -
+Subject No. ..11.   ***           Age•*      *••••                                Sex.• *V*•••
+
+
+Weight---           lbf (K)       Height....??.... in (H)                     . 1000 = 31.2
+
+
+
+                    Test with Steel Tube (2" Inner Diameter)
+
+
+
+
+                               Height from           Subjective load levels (lbf)
+Load Application              Ground Level
+     Point                        (in)                                - B                     C
+                                                          A
+
+        1                         55                   20                 44                  57
+
+        2                         49                   20                 46                  66
+
+        3                         44.5                26                  44                  64
+
+        4                         39                  27                  48                  70
+
+                                  42
+                           (subject standing
+                                                                          -               -
+                                upright)
+                                                              •
+
+
+
+   Undefined                      42
+                          (subject adjusting                      -
+
+                             own position)
+
+
+                                 42
+                          (subject pushing)                                               -
+
+
+
+
+                      Test with Wooden Plank (4” deep)
+
+
+                               Height from           Subjective load levels (lbf)
+Load Application              Ground Level
+     Point                        (in)                    A                   B               C
+
+        2                        49                   26              42              91
+   Undefined                       42                •-               -               -
+                                                     45
+
+
+    I   Subject No.
+                        18                  Age.     34                                       Sex.   M
+
+
+
+
+    I   Weight....           .lbf (W)       Height...7.
+                                                      4.*.5    in (H)           | 2 . 1000 = 31.5
+
+
+
+I                             Test with Steel Tube (2" Inner Diameter)
+
+
+I
+                                         Height from          Subjective load levels (lbf)                     j
+I        Load Application
+              Point
+                                        Ground Level
+                                            (in)                    A                     B              C
+
+
+I               1                                               —                 -                  -
+
+
+
+                2                                               -                 -                  -
+
+
+
+I               3                           49                  34                68                 99
+
+                4                           43                  27                49                 92
+I
+                                           42
+                                    (subject standing
+I                                        upright)               49      ;
+                                                                        •
+                                                                                  76                 170
+
+
+            Undefined                      42
+                                   (subject adjusting                       -                        170
+                                      own position)
+I
+                                           42                               -
+                                    (subject pushing)
+Ii                                                                                                   220
+
+
+
+I
+t
+                                 Test with Wooden Plank (4" deep)
+
+i                                        Height from          Subjective load levels (lbf)
+         Load Application               Ground Level                  1
+              Fo? .it
+I                                           (in)                 A          B        C
+
+                2                           -                       -                 -                  -
+
+
+
+
+N
+1
+            Undefined                           42              42                    77                 126
+                                                                                                                   i
+
+    1
+
+
+*
+I
+I
+f
+                 10                                    32                                       Sex.         M
+Subject No.....................                 Age.
+
+
+                                                            70
+Weight           A5.4.... lbf      (W)          Height.           .in (H)          | 2 . 1000 = 31.4
+
+
+
+                            Test with Steel Tube (2" Inner Diameter)
+
+
+
+
+                                          Height from            Subjective load levels (lbf)
+ Load Application                        Ground Level
+      Point                                  (in)                                           B                C
+                                                                       A
+
+           1
+
+           2                                                                            _
+
+
+
+           3                                    47                    24                41              92
+
+           4                                    40.5                  26                52              136
+
+                                            42
+                                     (subject standing
+                                          upright)                    18   ;            36              64
+                                                                           •
+
+
+
+     Undefined                              42
+                                    (subject adjusting                         -
+
+                                       own position)                                                   83
+
+
+                                            42                                 -
+                                     (subject pushing)                                                 98
+
+
+
+
+                                  Test with Wooden Plank (4” deep)
+
+
+                                          Height from            Subjective load levels (lbf)
+Load Application
+                                         Ground Level
+     Point                                   (in)                     A                     B           C
+
+           2                                -                     -                 -                  ...
+
+
+
+     Undefined                                  42                28                34                 121
+Subject N o . . . 3 9 ...........             Age.   25    -                                 S e x .. ..H
+
+
+Weight                ... .lbf (K)            Height... .7.3.         in (H)       | 2 . 1000 = 40.7
+
+
+
+                              Test with Steel Tube (2" Inner Diameter)
+
+
+
+
+                                          Height from           Subjective load levels (lbf)
+ Load Application                        Ground Level
+      Point                                  (in)                                        B              C
+                                                                       A
+
+            1                                                     _                 —               -
+
+
+
+            2                                                     _                 —              -
+
+
+
+            3                               49                    36                44              70
+            u                               43                    26                38             76
+
+                                              42
+                                       (subject standing
+                                            upright)              24       :        29             54
+                                                                           •
+
+
+
+     Undefined                                42
+                                      (subject adjusting                       -
+
+                                         own position)                                             74
+
+
+                                              42
+                                       (subject pushing)                                          126
+
+
+
+
+                                    Test with Wooden Plank (4M deep)
+
+
+                                          Height from           Subjective load levels (lbf)
+Load Application
+                                         Ground Level
+     Point                                   (in)                     A                 B              C
+
+            2                                                    _                  —              -
+
+
+
+
+     Undefined                                42                • 23                48             94
+                                           48
+
+
+            21
+Subject No.........                 Age.   26 _   ‘                          S e x .. .M.
+
+
+Weight....}??      lbf 0 0          Height..!?:5.... in (H)        | 2 . 1000 = 38
+
+
+
+                    Test with Steel Tube (2" Inner Diameter)
+
+
+
+
+                              Height from             Subjective load levels (ibf)
+Load Application             Ground Level
+     Point                       (in)                                    B              C
+                                                           A
+
+       1                                               -             -              -
+
+       2                        —                      -             -              -
+
+
+
+
+       3                        46                     44            106            155
+
+       4                        43                     42            88             122
+
+                                42
+                         (subject standing
+                                                       32            54             86
+                              upright)
+                                                               •
+
+
+
+
+   Undefined                    42
+                        (subject adjusting
+                           own position)                                            96
+
+
+                                42
+                         (subject pushing)                                          148
+
+
+
+
+                      Test with Wooden Plank (4" deep)
+
+
+                              Height from             Subjective load levels (lbf)
+Load Application             Ground Level
+     Point                       (in)                                                   C
+                                                           A             B
+
+       2                        -                      -             -              -
+
+
+
+
+   Undefined                        42                 40            62             136
+Subject   N o . .   ..22....               Age...?1....                              Sex..   A1..
+
+Weight              J??...lbf (W)          Height....!?.... in (H)               . 1000 = 28.9
+
+
+
+                          Test with Steel Tube (2" Inner Diameter)
+
+
+
+
+                                     Height from          Subjective load levels (lbf)
+Load Application                    Ground Level
+     Point                                                      «
+                                        (in)                    A                B           C
+
+          1                            -                   -                -            -
+
+
+          2                            -                   -                -            -
+
+
+          o
+          W
+                                       45.5                18               46           80
+
+          4                            42                  26               46           76
+
+                                       42
+                                (subject standing
+                                     upright)              26               46           76
+                                                                    •
+
+
+   Undefined                           42
+                               (subject adjusting                       -
+                                                                                         76
+                                  own position)
+
+
+                                      42
+                               (subject pushing)                                         150
+
+
+
+
+                            Test with Wooden Plank (4” deep)
+
+
+                                     Height from          Subjective loed levels (lbf)
+Load Application
+                                    brouna Levex
+     Point                              (in)                   A                £
+
+          2                            -                   -                -            -
+
+
+
+   Undefined                               42              22               44           64
+                                                          50
+
+
+Subject N o ..? ? .............              A g e . . . 5?..........                               S e x .. . .M.
+
+
+Weight...*!?               lbf (W)           Height...in                           (K)          . 1000 = 37.2
+
+
+
+                            Test with Steel Tube (2" Inner Diameter)
+
+
+
+
+                                      Height from                       Subjective load levels (lbf)
+ Load Application                    Ground Level
+      Point
+                                         (in)                                  A                B              C
+
+           1                                                                                               -
+
+
+
+           2                             —                                —                 -              -
+
+
+
+           3                             43.5                             58                76             126
+
+           4                             38                               53                73             118
+
+                                          42
+                                   (subject standing
+                                        upright)                          46       ;        66             112
+                                                                                   •
+
+
+
+     Undefined                            42
+                                  (subject adjusting                                   -
+                                     own position)                                                         119
+
+
+                                         42
+                                                                                       ■-
+                                  (subject pushing)                                                        220
+
+
+
+
+                              Test with Wooden Plank (4" deep)
+
+
+                                      Height from                       Subjective load levels (Ibf)
+Load Application
+                                     around juevex
+     Point
+                                         (in)                                 A                 B          r
+
+           2                             _
+
+    Undefined                                42                         . 40                60            101
+Subject N o . . ? f .                    A g e ... ? ? '. .. " .                            S e x ...«
+
+
+•t•       161
+Weight.......           l b f (W)        H e i g h t . ..? ? ............in (H)   j 2 . 1000 = 34.9
+
+
+
+                         Test with Steel Tube (2" Inner Diameter)
+
+
+
+
+                                     Height from                   Subjective load levels (lbf)
+ Load Application                   Ground Level
+      Point                             (in)                                            B          C
+                                                                        A
+
+           1                            —,                                          —             —
+
+           2                            —,                                          —             —
+
+           3                            44                           38             58            88
+
+          4                             39                           40             66            106
+
+                                      42
+                               (subject standing
+                                                                     46     ;       64            96
+                                    upright)
+                                                                            •
+
+     Undefined                        42
+                              (subject adjusting
+                                 own position)                                                    96
+
+
+                                      42
+                               (subject pushing)                                                  144
+
+
+
+
+                           Test with Wooden Plank (4" deep)
+
+
+                                     Height from                   Subjective J.oad levels (Ibf)
+ Load Application
+                                    Ground Level
+      Point                             (in)                           A                B         C
+
+           2                                                                                      —
+
+     Undefined                           42                        ■ 52             69            132
+              1 74                               RQ K                     W
+Weight         .......lbf (W)           Height...?...--- in (H)           ~ 2 . 1000 =       37.1
+
+
+
+                       Test with Steel Tube (2" Inner Diameter)
+
+
+
+
+                                 Height from            Subjective load levels (lbf)
+Lead Application                Ground Level
+     Point
+                                    (in)                      A                   B          C
+
+         i                          -                     —                   —          —
+
+
+         n
+         4-                         -                     -                   —          —
+
+
+
+         3                          44                    40                  56         88
+         4                          40                   40                   69         110
+
+                                  42
+                           (subject standing
+                                upright)                 30       ;           48         81
+                                                                  •
+
+
+
+   Undefined                      42
+                          (subject adjusting                          -
+
+                             own position)                                               97
+
+
+                                  42                                  -
+                           (subject pushing)                                             214
+
+
+
+
+                        Test with Wooden Plank (4" deep)
+
+
+                                 Height fxom            Subjective load levels (lbf)
+Load Application
+                                Ground Level
+     Point
+                                    (in)                      A                   £      C
+
+         2
+
+   Undefined                            42               40                66            118
+              26                             23                                          Sex.
+Subject No.                         Age.
+
+                                                  71                         W
+                                    Height              in (H)               ~ 2 . 1000 =       32
+Weight              lbf (W)                                                  ri
+
+
+                     Test with Steel Tube (2" Inner Diameter)
+
+
+
+
+                                Height from            Subjective load levels (Ibf)
+ Load Application              Ground Level
+      Point                        (in)                          A             ■ B              C
+
+                                                         -                     -                -
+         1                         —
+
+
+
+         2                         —                     -                     -                -
+
+
+
+                                                         20                     46              70
+         3                         47
+
+                                                         28                     68              98
+         4                         41
+
+                                 42
+                          (subject standing              34          ;          44              90
+                               upright)
+                                                                     •
+
+
+
+    Undefined                    42
+                         (subject adjusting                                                     90
+                            own position)
+
+
+                                     42                                  ~
+                              (subject pushing)                                                 216
+
+
+
+
+                       Test with Wooden Plank (4M deep)
+
+
+                                 Height from           Subjective load levels (!bi)
+  Load Application              Ground Level
+       Point                        (in)                         A                   B              C
+
+         2                                                   -                   -                  -
+
+     Undefined                         42               - 36                     84                 154
+W e ig h t...} ? ?   lb fW          H e i g h t . ..? ? ............in (H)        | 2 . 1000 =   30.6
+
+
+
+                     Test with Steel Tube (2” Inner Diameter)
+
+
+
+                                                                             ■■       —                 .
+                                Height from                   Subjective load levels (lbf)
+ Load Application              Ground Level
+      Point                        (in)                              A             ■ B           C
+
+            -fc.                                                 -                  -            -
+
+            2                                                    -                  -            -
+
+            3                      44.5                          40                 60           148
+
+            4                      40                            28                  56          143
+
+                                    42
+                             (subject standing                                       50          130
+                                  upright)                       32      ;
+                                                                         •
+
+
+
+      Undefined                      42
+                             (subject adjusting                              -
+                                own position)                                                    140
+
+
+                                     42                                      -
+                              (subject pushing)                                                  160
+
+
+
+
+                        Test with Wooden Plank (4” deep)
+
+
+                                 Height from                   Subjective load levels (Ibf)
+  Load Application              Ground Level
+       Point                        (in)                             A                    B       C
+
+              2                                                                      -            -
+
+       Undefined                      42                       . 42                  68           173
+Subject No..?§.....                 Age... .23 ....                                    Sex...H ..
+
+
+Weight             lbf (W)          Height...13            in(H)         ^2 . 1000 = 34.8
+
+
+
+                   Test with Steel Tube (2" Inner Diameter)
+
+
+
+
+                              Height from             Subjective load levels (Ibf)
+Load Application
+                             Ground Level
+     Point
+                                 (in)                        A                     B            C
+
+         2                                                                                  m
+
+         2                                                                    ..
+
+         3                       47                     38                    70            102
+         4                       45                     60                    90            120
+
+                                42
+                         (subject standing
+                              upright)                  38       .            66           94
+                                                                 •
+
+
+   Undefined
+                                42
+                        (subject adjusting                           -
+
+                           own position)                                                   116
+
+
+                                42
+                         (subject pushing)                                                 233
+
+
+
+
+                      Test with Wooden Plank (4” deep)
+
+
+                              Height from             Subjective load levels (Ibi)
+Load Application
+                             Ground Level
+     Point
+                                 (in)                      A                       B        C
+
+         2                      -                      -                  -                --
+
+
+
+   Undefined                        42                . 42                80               120
+Subject No..??                        A g e .. . .?^
+
+
+Weight....!?!      lbf (W)            Height....!?.... in (H)           ~ 2 . 1000 = 31.5
+
+
+
+                   Test with Steel Tubs (2” Inner Diameter)
+
+
+
+
+                              Height from              Subjective load levels (lbf)
+Load Application             Ground Level
+     Point                       (in)                                         B      C
+                                                            A
+
+       1                          _                                       _         _
+
+       2                                                m                 _
+
+       3                          47                    40                60        80
+
+       4                          43                    40                60        88
+                              '
+                               42
+                        (subject standing
+                             upright)                   30      :         70        120
+                                                                •
+
+
+
+   Undefined                   42
+                       (subject adjusting                           -
+
+                          own position)                                             120
+
+
+                               42
+                        (subject pushing)                                           180
+
+
+
+
+                     Test with Wooden Plank (4” deep)
+
+
+                              Height from              Subjective load levels (Ibf)
+Load Application
+                             Ground Level
+     Point                                                                          n
+                                 (in)                       A                 B
+
+       2                          —                     -                -          -
+
+   Undefined                          42                44               60         100
+                   l b f (;••’)           H e ig h t...® 9. : 5. . . . . i n       (H)       ~ 2 . 1000 = 35.2
+
+
+
+                    Test with Steel Tube (2" Inner Diameter)
+
+
+
+
+                                   Height from                       Subjective load levels (lbf)
+Lead Application                  Ground Level
+     Point                            (in)                                     A                  B          C
+
+       1                                                                 -                    -          -
+
+       2                              _                                  -                    -          -
+
+
+
+       3                              45                                 25                   42         70
+
+       4                              41                                 29                   46         72
+
+                                    42
+                             (subject standing
+                                  upright)                               32        ;          50         120
+                                                                                   •
+
+
+
+   Undefined                       42
+                           (subject adjusting                                            -
+                              own position)                                                              130
+
+
+                                   42                                                    -
+                            (subject pushing)                                                            200
+
+
+
+
+                       Test with Wooden Plank (4" deep)
+
+
+                                   Height from                       Subjective load levels (Ibf)
+Load Application
+                                  Ground Level
+     Poiiit
+                                      (in)                                   A                    B          C
+
+      2                               -                                 -                     -          -
+
+
+
+
+  Undefined                               42                         • 35                     60         112
+■                                                    50
+
+
+I   Subject No.     31                     Age, 33                                      Sex. M
+
+                                                                               W
+I   Weight..A ® 5        lbf (W)           Height...7.5.*.5..... in (H)        ^ . 1000 =       32.5
+
+
+
+I                        Test witli Steel Tube (2" Inner Diameter)
+
+
+I
+                                    height fron.             Subjective load lavels (lbf)
+I   Load Application
+         Point
+                                   Ground Level
+                                       (in)                        A                B           C
+
+            1                          —                       _                —           -
+
+
+
+            2                          —                       _                -           -
+
+
+
+            3                         50.5                     30               50          98
+
+            4                         46                       30               70          140
+
+                                     42
+                              (subject standing
+                                   upright)                    50      ‘        80          180
+                                                                       •
+
+
+
+        Undefined                    42
+                             (subject adjusting                            -
+
+                                own position)                                               180
+
+
+                                     42                                    -
+                              (subject pushing)                                             240
+
+
+
+
+                           Test with Wooden Plank (4" deep)
+
+
+                                    Height from              Subjective load levels (lbr)
+    Load Application
+                                   Ground Level
+         Point                         (in)                                                     c
+                                                                   A                B
+
+            2                          -                       -                -           -
+
+
+
+        Undefined                          42               ■ 44                88          200
+Subject No.. .3.2 .....                 Age.. .2.2.....                             Sex..K ..
+
+
+Weight       \8.2.... .lbf <W)          Height... .7.4.        in (H)           . 1000 = 33.2
+
+
+
+                      Test with Steel Tube (2" Ir.ner Diameter)
+
+
+
+
+                                  Height from             Subjective load levels (lbf)
+Load Application                 Ground Level
+     Point                           (in)                                                    C
+                                                                A               B
+
+         1                          -                      -                -           -
+
+
+
+
+         2                          -                      -                -           -
+
+
+
+
+         3                          49                     22               40          74
+
+         4                          43                     35               60          130
+
+                                   42
+                            (subject standing
+                                 upright)                  26               52          125
+                                                                    •
+
+
+
+   Undefined                       42
+                           (subject adjusting                           -
+                              own position)                                             145
+
+
+                                   42
+                            (subject pushing)                                           215
+
+
+
+
+                        Test with Wooden Plank (4?l deep)
+
+
+                                  Height from             Subjective load levels (Ibf)
+Load Application
+                                 Ground Level
+     Point                           (in)                                                   r>
+                                                               A                B           v»
+
+
+
+         2                          -                      -                -           -
+
+   Undefined                            42                 36               56          190
+   ,          33                           Acre       22        '*                                        S e X ...V .
+Subject No.....................            "Se ....................
+
+
+Weight... -1.
+            6.0.           lbf (W)         Height.... 7?... .in (H)                         ~ 2 . 1000 = 30.9
+
+
+
+                             Test with Steel Tube (2" Inner Diameter)
+
+
+
+
+                                       Height from                    Subjective load levels (lbf)
+ Load Application                     Ground Level
+      Point                               (in)                                  A                     B               C
+
+                                                                        -                     -                   -
+            1                              -
+
+
+
+                                                                        -                     -                   -
+            2                              -
+
+
+
+
+            3                              47.5                         40                    70                  100
+
+            4                             44                            40                    72                  120
+
+
+                                           42
+                                    (subject standing
+                                         upright)                       50          :         92                  120
+                                                                                    •
+
+
+
+
+      Undefined                             42
+                                    (subject adjusting                                  -
+                                       own position)                                                              120
+
+
+                                            42                                          -
+                                     (subject pushing)                                                                172
+
+
+
+
+                                  Test with Wooden Plank (4" deep)
+
+
+                                        Height from                   Subjective load levels (lbf)
+  Load Application                     Ground Level
+       Point                               (in)                                 A                     B               C
+
+             2                                                              —                     -                   -
+
+
+
+
+      Undefined                                42                           42                    107                 175
+                                                       61
+
+                                                                                                          M
+Subject No          -----            A g e ...21. ..........                                      Sex------
+
+
+Weight               l b f (W)           H e ig h t .. . . ™    in (H )             | 2 . 1000 = 35,
+
+
+
+                       Test with Steel Tube (2” Inner Diarcater)
+
+
+
+
+                                  Height from                  Subjective load levels (Ibf)
+ Load Application                Ground Level
+      Point                          (in)                               A            ■ B                       C
+
+         1                                                      -                     -                    -
+
+                                                                                      -                    -
+         2                           _                          -
+
+
+
+
+         3                           45                         30                    56                   110
+
+         4                           42                         40                    72                   100
+
+                                      42
+                               (subject standing
+                                    upright)                     40         -         72                   100
+                                                                            •
+
+
+
+
+    Undefined                         42
+                              (subject adjusting                                -
+                                                                                                               130
+                                 own position)
+
+
+                                      42                                        -
+                               (subject pushing)                                                               190
+
+
+
+
+                            Test with Wooden Plank (4” deep)
+
+
+                                  Height from                  Subjective load levels (Ibr)
+ Load Application                Ground Level
+      Point                          (in)                               A                     B                C
+
+         2                                                          _                     -                    -
+
+
+
+                                                                    56                    88                   167
+    Undefined                            42
+
+
+
+
+                                                                                                       *
+                                                        62
+
+
+Subject N o...3.5.............                 Age. .                                                        S e x ..V ..........
+
+
+Weight         -
+               1.
+                5?        lbf (W)              Height...          in(H)                . 1000 =       30.5
+
+
+
+                           Test with Steel Tube (2" Inner Diameter)
+
+
+
+
+                                       Height from           Subjective load levels (lbf)
+ Load Application                     Ground Level
+      Point                               (in)                                         B               C
+                                                                   A
+
+           1                                  —                                    _                  _
+
+           2                                                                       _                  ..
+
+
+           3                                  46                  34               46                 76
+
+           4                                  41                  32               62                 92
+
+                                           4?
+                                    (subject standing
+                                         upright)                 36   ;           60             80
+                                                                       •
+
+
+     Undefined                             42
+                                   (subject adjusting                      -
+
+                                      own position)                                                   110
+
+
+                                           42                              -
+                                    (subject pushing)                                                 170
+
+
+
+
+                                 Test with Wooden Plank (4'1 deep)
+
+
+                                       Height from           Subjective load levsls (lbf)
+ Load Application                     Ground Level
+      Point                               (in)                     A                   E              C
+
+           2                              -                   -                -                  -
+
+
+
+
+     Undefined                                42             - 50              84.                150
+Subject No. .3.6. .............                   Age. . .2.2. ........                                    Sex------
+
+
+Weight... A3
+           .3.             lbf (W)                Height..,6.6.                in (H)                  . 1000 = 30.5
+
+
+
+                            Test with Steel Tube (2” Inner Diameter)
+
+
+
+
+                                       Height from                        Subjective load levels (lbf)
+ Load Application                     Ground Level
+      Point                               (in)                                     A                   B                 C
+
+            1                                                              -                   -                 -
+
+
+
+
+                                                                                               -                 -
+            2                             _                                -
+
+
+
+
+            3                             42                               30                  50                90
+
+            4                             39                               40                  80                110
+
+                                            42
+                                     (subject standing
+                                          upright)                             30      ;       50                90
+                                                                                       •
+
+
+
+
+      Undefined                             42
+                                    (subject adjusting                                     -
+                                       own position)                                                                 110
+
+
+                                            42                                             -
+                                     (subject pushing)                                                               140
+
+
+
+
+                                  Test with Wooden Plank (4U deep)
+
+
+                                        Height from                       Subjective load levels (lbf)
+ Lead Application                      Ground Level
+      Point                                                                                            B                 C
+                                           (in)                                    A
+                                                                               -                   -                 -
+            2                                 -
+
+
+
+                                                  42                           44                  74                140
+      Undefined
+                                                64
+
+
+a   Subjert Ko..®A     ...               Age...2?....*.                                  Sex.F...
+
+
+i   Weight... A1
+               .9.     lbf (W>        Height...6.5...... in (H)                      . 1000 = 28.2
+
+
+
+i                      Test with Steel Tube (2" Inner Diameter)
+
+
+
+
+                                  Height from                 Subjective load levels (lbf)
+I   Load Application
+         Point
+                                 Ground Level
+                                     (in)                           A                E               C
+
+I           1                        50                           10                20               30
+            2                        46                           12                24               32
+I           3                        43                        12                   22               32
+           u
+I                                    39.5                      14               30               44
+
+                                     42
+
+I                             (subject standing
+                                   upright)
+                                                                        •
+                                                                                -                -
+
+
+
+
+       Undefined
+                                     42
+                             (subject adjusting                             -
+
+                                own position)                                                -
+
+
+
+
+                                    42                                      -
+                             (subject pushing)                                               -
+
+
+
+
+                         Test with Wooden Plank (4M deep)
+
+
+                                  Height from             Subjective load levels (Ibf)
+    Load Application
+                                 Ground Level
+         Poi:it
+                                     (in)                         A                 B        C
+
+           2                        46                         14               24           34
+       Undefined                     42                   .   -                 -            -
+
+
+
+
+I
+                   lb f   (v?)       H e i g h t . . . . 6.6. .......... in (H)       . 1000 = 28.9
+
+
+
+                    Test with Steel Tube (2" Inner Diameter)
+
+
+
+
+                                  Height from                    Subjective load levels (lbf)
+Lead Application                 Ground Level
+     Point                           (in)                                             B            C
+                                                                         A
+
+       JL                           53.5                             4            S            16
+
+       2                            48                               8            14           23
+
+       3                            44                               6            12           20
+
+       4                            40                               10           36           40
+
+                                   42
+                            (subject standing                                     -            -
+
+                                 upright)
+                                                                             •
+
+
+
+   Undefined                       42
+                           (subject adjusting
+                              own position)                                                    -
+
+
+
+
+                                   42
+                            (subject pushing)
+
+
+
+
+                      Test with V?ooden Plank (4** deep)
+
+
+                                  Height from                    Subjective load lev*sis (lbf)
+Load Application
+                                 Ground Level
+     Poiiit                          (in)                                A            B            C
+
+       2                            48                               8            16           28
+
+   Undefined                         42                          .   -            -            -
+Subject No. . .                      A g e . . ? '...................................................... S e x . . / . . .
+
+
+Weight.... U 9 .    lb f    00       H e i g h t . . . . ? ? .......... in (H)           | 2 . 1000 = 27.8
+
+
+
+                     Test with Steel Tube (2" Inner Diameter)
+
+
+
+
+                                  Height from                      Subjective load levels (lbf)
+ Load Application                Ground Level
+      Point                          (in)                                  A                • B                       C
+
+         1                          53                                 6                      14                  31
+
+         2                          46.5                               10                     18                  30
+
+         3                          43.5                               10                     18                  40
+
+         4                           39.5                              18                     34                  54
+
+                                     42
+                              (subject standing                                               -                   -
+
+                                   upright)
+                                                                                •
+
+
+
+
+    Undefined                        42
+                             (subject adjusting                                      -
+
+                                own position)                                                                     -
+
+
+
+
+                                     42
+                              (subject pushing)                                                                   -
+
+
+
+
+                           Test with Wooden Plank (4” deep)
+
+
+                                  Height from                       Subjective load levels (lbf)
+ Load Application                Ground Level
+      Point                          (in)                                  A                          B               C
+
+          2                          45.5                               18                        24                  48
+
+     Undefined                        42                            ■ -                           -                   -
+                                                         67
+
+Subject H o ..? ? ............            A g e ...? ? ..........                               Ser....T..
+
+
+Weight....?.1?             lbf (W)        Height....??.... in (H)                     £ 2 . 1000 = 25.8
+
+
+
+                            Test with Steel Tube (2** Inner Diameter)
+
+
+
+
+                                      Height from                   Subjective load levels (lbf)
+ Load Application                    Ground Level
+      Point                              (in)                             A                 B             C
+
+            1                             53                          IS                36            44
+
+            2                             46.5                        27                32            53
+
+            3                             43.5                        18                36            54
+
+            4                             37.5                        36                42            56
+
+                                           42
+                                    (subject standing
+                                                                                        -             -
+                                         upright)
+                                                                              •
+
+
+
+
+      Undefined                            42
+                                   (subject adjusting                             -
+                                      own position)
+
+
+                                           42                                     -
+                                    (subject pushing)                                                 -
+
+
+
+
+                                 Test with Wooden Plank (4" deep)
+
+
+                                       Height from                  Subjective load levels (Ibf)
+ Load Application                     Ground Level
+      Point                               (in)                            A                 B             C
+
+            2                             46.5                        28                32            48
+
+      Undefined                            42                         -                 -             -
+                                                            63
+
+Subject N o .. ? } ............             A g e ..? .............                               Sex.........
+
+
+Weight...}??               lbl (W)          Height...??..... in (H)                           . 1000 = 35.3
+
+
+
+                             Test with Steel Tube (2" Inner Diameter)
+
+
+
+
+                                        Height rrem                   Subjective load levels (lbf)
+ Load Application                      Ground Level
+      Point                                (in)                                               B               C
+                                                                              A
+
+            1                              53.5                           10              24              55
+            r\
+            4                              47                             8               20              42
+
+            3                              43                             14              35              62
+
+            4                              40                             16              34              63
+
+                                            42
+                                     (subject standing
+                                                                                          -               -
+                                          upright)
+                                                                                  •
+
+
+
+     Undefined                              42
+                                    (subject adjusting                                -
+
+                                       own position)                                                      -
+
+
+
+
+                                            42                                        -
+                                     (subject pushing)                                                    -
+
+
+
+
+                                  Test with Wooden Plank (4** deep)
+
+
+                                        Height from                   Subjective load levels (lbf)
+ Load Application                      Ground Level
+      Foint                                                                                                   C
+                                           (in)                               A               B
+
+            2                              47                             10              20              36
+
+     Undefined                              42                        •   -               -               -
+                                                          69
+
+    Subject N o..??.                    A g e ...? ? ...*..                                       S e x ...? ..
+
+
+    Weight... J??.     l b f (W)        H e ig h t..........? 6 . . . . i n       (H)   | 2 . 1000 =     32.1
+
+
+
+                        Test with Steel Tube (2" Inner Diameter)
+
+
+
+
+                                    Height from                      Subjective load levels (lbf)
+    Load Aoplication               Ground Level
+         Point
+                                       (in)                                   A               B             C
+
+            1                          54                               8                 14             26
+            2                          47.5                             20                34             55
+            3                          44.5                             23                40             58
+            4                          40.5                             18                34             73
+
+                                     42
+                              (subject standing
+                                   upright)                                               -             -
+                                                                                   •
+
+
+
+       Undefined                     42
+                             (subject adjusting
+                                own position)
+
+
+                                     42
+                              (subject pushing)                                                         -
+
+
+
+
+                          Test with Wooden Plank (4" deep)
+
+
+                                    Height from                     Subjective load levels (lbf)
+    Load Application
+                                   Ground Level
+         Poii.t
+                                       (in)                               A                  B           C
+
+            2                         47.5                              10               30             44
+       Undefined                       42                           • -                  -              -
+
+
+
+
+R
+                                            70
+
+            43
+Subject No..7?..........          Am . 21■ ___ -
+                                       Age....'....*..                         Sex.
+                                                                               Sex. A ,
+
+
+Weight....}?}      lbf 0 0       Height...??..... in (H)             | 2 . 1000 = 30.2
+
+
+
+                   Test with Steel Tube (2" Inner Diameter)
+
+
+
+
+                              Height from         Subjective load levels (lbf)
+Load.Application             Ground Level
+     Point                                                            • B               C
+                                 (in)                    A
+
+       1                         53                 4                  8             16
+       r\
+       X
+                                 46.5               6                  10            22
+
+       3                         43.5               4                  10            22
+
+       4                         38                 10                 16            24
+
+                                42
+                         (subject standing
+                                                                       -            -
+                              upright)
+                                                             •
+
+
+
+   Undefined                    42
+                        (subject adjusting                       -
+                           own position)
+
+
+                                42
+                         (subject pushing)                                          -
+
+
+
+
+                     Test with Wooden Plank (4" deep)
+
+
+                              Height from         Subjective load levels (lbf)
+Load Application
+                             Ground Level
+     Point                       (in)                   A                  B         V.
+
+       2                         46.5               4                  10            26
+
+   Undefined                     42               • -                  -            -
+Subjact No..??..........               Age.. *.                              Sex.....
+
+
+Weight       J??   lbf 0 0       Height--- ??.... in (K)           jji2 . 1000 =   32.5
+
+
+
+                   Test with Steel Tube (2" Inner Diameter)
+
+
+
+
+                              Height from         Subjective load levels (lbf)
+Load Application             Ground Level
+     Point                       (in)                                    E             C
+                                                       A
+
+         1                       52                8                 18            30
+
+         2                       45                8                 16            26
+
+         3                      42.5               8                 16            30
+
+         4                       39                 10               20            40
+
+                                42
+                         (subject standing                                         -
+                                                                     -
+                              upright)
+                                                           •
+
+
+
+   Undefined                    42
+                        (subject adjusting                     -
+
+                           own position)                                           -
+
+
+
+
+                                42
+                         (subject pushing)•                                        -
+
+
+
+
+                      Test with Wooden Plank (4;t deep)
+
+
+                              Height from         Subjective load levels (lbf)
+Load Application             Ground Level
+     Poi.it                      (in)                                                  C
+                                                       A                 B
+
+         2                      45                 8                 20            32
+
+   Undefined                     42                -                 -             -
+W eight...1.02.     l b f (W)        H e ig h t...6.3.............. in (H)         | 2 . 1000 =           25.7
+
+
+
+                     Test with Steel Tube (2" Inner Dianeter)
+
+
+
+
+                                 Height from                 Subjective; load levels (Ibf)
+ Load Application
+                                Ground Level
+      Point                         (in)                               A                  B               c
+
+         1                          51                             8                     14               24
+         2                          46                             8                     16               32
+         3                          43                             8                     16               40
+         4                          37                             8                 18                   62
+
+                                  42
+                           (subject standing
+                                                                                     -                -
+                                upright)
+                                                                           •
+
+
+
+    Undefined                     42
+                          (subject adjusting                                   -
+                             own position)
+
+
+                                  42                                           -
+                           (subject pushing)                                                          -
+
+
+
+
+                       Test with Wooden Plank (4" deep)
+
+
+                                 Height from                 Subjective load levels (Ibf)
+Load Application
+                                Ground Level
+     Point
+                                    (in)                           A                     B            C
+
+         2                         46                          8                     it:          42
+
+    Undefined                       42                         -                    -             -
+Subject No.          .                     A g e ....? !..:.                                        S e x ... ? .
+
+
+«    •    132
+Weight......             lbf 0 0       Height...??:?___ in (H)                               . 1000 = 32.8
+
+
+
+                         Test with Steel Tube (2" Inner Diameter)
+
+
+
+
+                                    Height from                    Subjective load levels (lbf)
+    Load. Application
+                                   Ground Level
+          Point
+                                       (in)                                 A                   B              C
+
+             1                         52                               14                  20                34
+             2                        44                                16                  22                43
+             3                        43                                14                  24                48
+             4                        39                                18                  36                58
+
+                                     42
+                              (subject standing
+                                   upright)                                             -                  -
+                                                                                •
+
+
+         Undefined
+                                     42
+                             (subject adjusting                                     -
+                                own position)
+
+
+                                     42
+                                                                                    -
+                              (subject pushing)                                                           -
+
+
+
+
+                           Test with Wooden Plank (4" deep)
+
+
+                                   Height from                 Subjective load levels (lbf)
+Load Application
+     Point
+                                      (in)                              A                   B
+             2                        44                            20                  32                57
+         Undefined                     42                      .    _                   -                 -
+                                                          74
+
+
+        Subject N o . . ? 7 .   ...            A ge..??............                               S e x ..? ...
+    I
+    t
+
+
+
+                      134       lbf (W)        Height___ 95:?...in (H)                        . 1000 = 30.8
+£       Weight
+t
+
+
+to                              Test with Steel Tube (2" Inner Diameter)
+I
+
+
+
+I
+j
+
+
+                                           Height frc-m               Subjective load levels (Ibf)
+        Load Application
+                                          Ground Level
+             Point
+i                                             (in)                           A                B                C
+
+                  1                           53.5                      20                                     32
+1                                                                                            26
+                  2                           48                                             32                42
+                                                                        25
+I                 3                           44.5                      20               30                    42
+                  4                           40
+I                                                                       30               38                    54
+
+                                              42
+                                       (suDject standing
+I                                           upright)
+                                                                                 •
+                                                                                         -                 -
+
+
+
+
+            Undefined
+                                              42
+                                      (subject adjusting                             -
+
+                                         own position)
+I
+                                             42
+                                                                                     -
+                                      (subject pushing)
+I                                                                                                          -
+
+
+
+
+I                                 Test with Wooden Flank (4;t deep)
+
+I       Load Application
+                                           Height from                Subjective load levels (lbf)
+                                          Ground Level
+             Point
+I                                             (in)                          A                B             C
+                 2                           48                         30               38            46
+
+I          Undefined                          42                      . -                -             -
+
+
+
+
+I
+I
+I
+I
+        Subject N o . . t ? ........................              Age... ? ? . . .                           Sex-----
+    ►
+
+f       Weight..1??...... lbf (W)                          Height.... 6I....in (H)                 | 2 . 1000 = 28.9
+
+
+
+C-                                      Test with Steel Tube (2" Inner Diameter)
+
+
+I
+                                                        Height from                  Subjective load levels (Ibf)
+         Load Application                              Ground Level
+              Foint                                        (in)                            A             B            C
+
+                     1                                    54.5                        8              18           26
+
+                     2                                    48.5                        10             18           2G
+
+                     3                                    45.5                        4              10           18
+
+                     4                                    40.5                        14             28           40
+
+                                                        42
+                                                 (subject standing
+                                                      upright)
+
+              Undefined                                42
+                                               (subject adjusting                              -
+
+                                                  own position)
+
+
+                                                        42                                     -
+                                                 (subject pushing)                                                -
+
+
+
+
+                                           Test with Wooden Plank (4" deep)
+
+
+                                                        Height from                  Subjective load levels (lb:)
+         Load Application                              Ground Level
+              Point                                        (in)                                          B            C
+                                                                                           A
+
+                     2                                     48.5                        12            26           r,3
+
+              Undefined                                     42                       . -             -            -
+

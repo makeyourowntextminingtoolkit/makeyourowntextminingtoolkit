@@ -1,0 +1,3128 @@
+DRAFT
+
+
+                        DEALING WITH DISASTER
+                         HOME OFFICE GUIDANCE
+
+
+CHAPTER 1i    INTRODUCTION
+
+
+
+
+1.1     The aim of this guidance is to raise the standard of
+        peacetime disaster preparedness.   Advice on good practice,
+        based on the previous experience of handling disasters, is
+        offered to those who have responsibility for planning the
+        response to, or may be involved in, the handling of
+        disasters as an extension of their day-to-day
+        responsibilities.    Thus the advice is offered to the
+        emergency services - police, fire, HM Coastguard and the
+        NHS (ambulance and emergency medical services) - and local
+        authorities.   But perhaps more importantly, the advice is
+        also offered to those less familiar with disaster
+        management who nevertheless may become involved in the
+        response;   for example, central government departments,
+        units of the armed forces, voluntary organisations,
+        utilities (water, gas, telephone and electricity
+
+        companies) and industrial and transport operators.    The
+        advice is therefore intended to show any who might be
+        involved how they can fit into the overall disaster
+        response.
+
+
+
+1.2     Disasters can take a variety of forms, including:
+
+
+
+
+                                                                    iWv
+Natural           Storms, floods, snowfall, landslides,
+                  forest fires etc.
+
+
+Technological     Damage to structures and buildings;
+                  industrial (eg chemical, nuclear);
+                  transport (air, sea, rail and road).
+
+
+Social            Health emergencies (epidemics),
+                  poisoning of the food chain.
+
+
+Environmental     Air, water and land pollution or
+                  contamination.
+
+
+A disaster is commonly understood by the general public as
+a great misfortune or calamity.    In the context of
+emergency planning, a useful working definition of a
+disaster is any event (happening with or without advance
+warning) causing death or injury, damage to property or
+the environment or disruption to the community, which
+because of the scale of its effects cannot be dealt with
+by the emergency services and local authorities as part of
+their day-to-day responsibilities.
+
+
+This working definition above encompasses the definitions
+used by the emergency services for a 'major incident'.
+(These are included at Annex A to this chapter.)       In
+
+defining a major incident, the emergency services
+recognise that there will be a need for special
+arrangements to be brought into play to respond to such an
+incident.   That the emergency services should use the term
+'major incident' is right because their contingency
+arrangements and operational response must be geared to
+any situation beyond their normal day-to-day activities.
+However, not every major incident will become a disaster.
+The most easily distinguished example is that of a serious
+accident on the motorway involving a large number of
+vehicles.   This may well be classed as a major incident if
+it demands special arrangements on the part of the police,
+fire and the NHS (both ambulance and hospital-based
+services) but unless it has some wider ranging effects on
+the community it will not be classed as a disaster.
+
+
+Disasters have a variety of effects on society and the
+environment.   Accordingly, they demand a combined
+response, linking the expertise and resources of the
+emergency services and local authorities, supplemented
+where necessary by other services and organisations.     It
+would be unrealistic to expect any single organisation to
+be responsible for dealing with disasters in the UK.     In
+1988 the Home Secretary initiated a review of the handling
+of disasters and in 1989 he confirmed the decision of
+successive governments that a national disaster squad
+would not improve the immediate assistance already
+provided by the local emergency services, supplemented
+
+where necessary by local authority, health and other
+services and organisations.
+.6   The purpose of the next chapter is to set out the main
+
+     features of the combined response to disaster.   Subsequent
+     chapters will then address in greater detail specific
+     subjects which those involved in managing the combined
+     response will need to take into account.
+                                                     ANNEX A
+
+
+
+
+DEFINITIONS OF MAJOR INCIDENT
+
+
+
+
+Police Service
+
+
+The following definition is given in the Association of Chief
+
+Police Officers Emergency Procedures Manual.
+
+
+      "A major incident is any emergency that requires the
+      implementation of special arrangements by one or all of
+      the emergency services for:-
+
+
+      a.    The rescue and transport of a large number of
+            casualties;
+
+
+      b.    The involvement either directly or indirectly of
+            large numbers of people;
+
+
+      c.    The handling of a large number of enquiries likely
+            to be generated both from the public and the news
+
+            media usually to the police;
+
+
+      d.    Any incident that requires the large scale combined
+            resources of the 3 emergency services;
+      e.       The mobilisation and organisation of the emergency
+
+               services and supporting organisations, eg local
+               authority, to cater for the threat of death, serious
+               injury or homelessness to a large number of people."
+
+
+Fire Service
+
+
+The following definition is set out in the Fire Service Major
+Incident Emergency Procedures Manual.
+
+
+      "A major incident is any emergency that requires the
+      implementation of special arrangements by one or more of
+      the emergency services for:-
+
+
+      a.       The initial treatment, rescue and transport of a
+               large number of casualties;
+
+
+     b.        The involvement either directly or indirectly of
+           large numbers of people;
+
+
+     c.        The handling of a large number of enquiries likely
+               to be generated both from the public and the news
+           media usually to the police;
+
+
+     d.        The need for the large scale combined resources of
+           the 3 emergency services;
+
+
+     e.        The mobilisation and organisation of the emergency
+           services and supporting organisations, eg local
+            authority, to cater for the threat of death, serious
+            injury or homelessness to a large number of people."
+
+
+National Health Service (including Ambulance Service)
+The following is extracted from Health Circular (90)25
+'Emergency Planning in the NHS: Health Services Arrangements for
+Dealing with Major Incidents' - Department of Health 1990:
+
+
+"There is no standard definition of a "major incident" which
+would satisfy the health service and other agencies likely to be
+involved, as each tends to determine such incidents in the light
+of its own responsibilities.   For the purpose of this guidance
+however, a major incident arises when any occurrence presents a
+serious threat to the health of the community, disruption to the
+service, or causes or is likely to cause such numbers of
+casualties as to require special arrangements by the health
+service."
+
+
+
+
+Local Authority
+
+
+
+The "Local Authorities Civil Emergencies Planning Manual",
+published by the County Emergency Planning Officers' Society,
+contains the following definition which augments that used by
+the police service:
+
+
+      "A serious disruption of life which causes or threatens
+
+
+
+      a.    death or injury to numbers of people;
+b.   extensive damage to property;   or,
+
+
+c.   contamination of the environment;
+
+
+on a scale beyond the capacity of the services for the
+public operating under normal conditions and requiring the
+special mobilisation and organisation of those services."
+DRAFT
+
+
+
+
+                        DEALING WITH DISASTER
+                         HOME OFFICE GUIDANCE
+
+
+
+
+CHAPTER 2:    THE COMBINED RESPONSE
+
+
+
+
+2.1     Paragraph 1.2 of the previous chapter illustrates the many
+        forms in which disaster may strike.     Accordingly, there
+        can be no one "ideal” response to disaster;     the response
+        will vary just as the nature and effects of the disaster
+        will vary.   But any response will be a combined operation,
+        and certain other features will also be common to the
+        response to most disasters.   For example:
+
+
+        a.    The initial response will normally be provided by
+              the emergency services supported by the local
+
+              authority and voluntary organisations,
+
+
+        b.    The basic objectives of the combined response will
+              be similar on each occasion,
+
+
+        c.    The same basic management structure will generally
+
+              be applicable, and
+
+
+
+
+                                                                     I* / *
+      d.    During the response, records should be kept for
+
+            debriefings, formal inquiries and publicising
+            lessons learnt.
+
+
+      In this chapter points a. to d. are addressed in turn.
+      Chapter 8 addresses the combined approach to planning,
+      training and exercising the local response.
+
+
+AGENCIES PROVIDING THE INITIAL RESPONSE
+
+
+2.2   The immediate response to a disaster is usually provided
+      by the emergency services - police, fire, ambulance and
+      emergency medical services and HM Coastguard as
+      appropriate - supported by the local authority.     Annex A
+      lists those guidance documents which have already been
+      issued (or will shortly be issued or re-issued) to the
+      statutory services in England and Wales.    This chapter
+      draws on the existing guidance documents to show how the
+      procedures and operations described in those documents may
+      be combined and coordinated to provide an efficient and
+      effective response to disaster.
+
+
+2.3   Each service or agency working at the scene of a disaster
+      will have its own role and responsibilities, as set out in
+      the relevant guidance documents.    To summarise:
+
+
+      a.    The police coordinate the activities of all those
+
+            responding at and around the scene of a disaster,
+            which must - unless the disaster has been caused by
+severe weather or other natural phenomena - be
+treated as the scene of a crime and preserved
+accordingly.    The police will oversee investigation
+as necessary and will be responsible for gathering
+and processing casualty information.    HM Coroner
+will be responsible for investigating the cause of
+deaths arising from the disaster, and on his behalf
+the police will have responsibility for identifying
+
+and removing the dead.
+
+
+The first concerns of the fire service are to rescue
+people trapped in wreckage or debris and to prevent
+further escalation of the disaster by tackling fires
+and dealing with released chemicals and other
+hazards.    Where appropriate, the fire service
+coordinates the safety of all those working at the
+site.
+
+
+Working with a Medical Incident Officer and medical
+teams, the ambulance service seeks to save life
+
+through effective emergency treatment at the scene
+of a disaster and by transporting the injured in
+order of priority to selected receiving hospitals.
+
+
+The primary responsibility of HM Coastguard is to
+initiate and coordinate civil maritime search and
+rescue within the United Kingdom Search and Rescue
+Region.    This includes mobilising, organising and
+            despatching resources to assist people in distress
+
+            at sea or in danger on the cliffs or shoreline.
+
+
+      e.    In the immediate aftermath of a disaster, local
+            authorities normally support the emergency services
+            by making available the wide range of services and
+            resources at their disposal.   Later, during the
+            subsequent period of restoration and rehabilitation,
+            the appropriate local authority may assume the lead.
+
+
+      f.   Voluntary organisations and individual volunteers
+            have frequently contributed to the response to
+            disaster, and the valuable part which volunteers can
+            play is discussed in Chapter 5.
+
+
+OBJECTIVES FOR A COMBINED RESPONSE
+
+
+2.4   The roles and responsibilities just described must be seen
+      in the context of the objectives of the disaster response.
+
+      All services and agencies responding to the disaster will
+
+      be working - notwithstanding their particular
+      responsibilities - to these common objectives.   They are:
+
+
+      a.   to prevent escalation of the disaster;
+
+
+
+      b.   to save life;
+
+
+      c.   to relieve suffering;
+      d     to protect property;
+
+
+      e.   to restore normality as soon as possible;
+
+
+      f.   to facilitate criminal investigation and judicial,
+            public, technical, or other inquiries as
+            appropriate.
+
+
+BASIC MANAGEMENT STRUCTURE FOR THE DISASTER RESPONSE
+
+
+2.5   In this section, the management principles underlying the
+      combined response are described.    These can most clearly
+      be portrayed using an example of a disaster confined to a
+      single site, but further guidance on widespread disasters
+      can be found in paragraphs 2.20 and 2.21.
+
+
+2.6   If there is warning of an impending disaster, some
+      preparations can be made.    More often, however, disasters
+      strike with little or no warning and an effective response
+      depends on the quick reaction of the statutory services.
+      The emergency services maintain a state of readiness so
+      that they can provide a rapid response;     local authorities
+      and other organisations have arrangements for calling out
+      key personnel to contribute to the response.     It is
+      essential that all services and agencies likely to be
+      called upon to deal with disaster stand ready to do so at
+
+      very short notice.
+2.7   The scene immediately after disaster has struck is likely
+      to be chaotic.   To overcome this, the emergency services
+      will build up command structures within which they will
+      pursue their common objectives.
+
+
+The initial Response
+
+
+2.8   It is generally accepted that the first member of the
+      emergency services to arrive on the scene should:
+
+
+      a.   assess the nature and scale and confirm the location
+            of the incident
+
+
+      b.   decide whether or not to invoke major incident
+            procedures and
+
+
+      c.   relay this and any other relevant information to his
+            control.
+
+
+      On receipt of the initial message, the control room should
+
+      immediately and in accordance with established plans alert
+      the other services* control rooms and the appropriate
+      local authorities.     It is also generally accepted that the
+      first officer on the scene should:
+
+
+      d.    identify routes into and out of the disaster site;
+
+
+
+      e.   establish the risk of further hazards;
+       f.   begin to direct information gathering, life saving
+             and other operations as appropriate;     and
+
+
+       g.   act as the communications link.
+
+
+2.9    These initial tasks are of vital importance and the first
+       member of the emergency services on the scene should
+       complete them - or at least carry them out as far as
+       circumstances permit - before beginning rescue operations.
+       Experience shows that before the emergency services arrive
+       to provide assistance, survivors will already have tried
+       to help each other, and people nearby may also be
+
+       assisting.
+
+
+2.10   Once officers from each emergency service arrive at the
+       scene they should establish a TEMPORARY JOINT COMMAND.
+       The most senior officer of each service should act as
+       temporary incident officer for that service.     The
+       temporary joint command should agree arrangements for
+
+       effective site management, including:
+
+
+       a.   the positioning of control vehicles (which will act
+             as each service’s incident control post);
+
+
+       b.   the posting of safety lookouts;
+
+
+       c.   precautions against the spread of fire and other
+
+             potential hazards;
+                                                                      I
+
+
+
+
+       d.    the location of a marshalling point for survivors
+             being transported to the survivor reception centre,
+             a casualty receiving station where the injured will
+
+             be mustered, and an ambulance loading point from
+             which casualties will be taken to receiving
+             hospitals.     (Chapter 3 considers in more detail the
+             treatment of survivors and casualties);
+
+
+       e.    the location of a MEDIA LIAISON POINT (Chapter 4
+             offers further advice on facilities for the media);
+
+
+       f.    the establishment of an outer cordon around the
+             scene of an incident and an inner cordon around the
+             site itself.
+
+
+       Figure 1 illustrates an example of a management structure.
+
+
+2.11   The decision on whether or not evacuation needs to take
+       place may have to be addressed at this stage.     (Chapter 3
+
+       deals in more detail with evacuation.)
+
+
+2.12   The temporary joint command should arrange for fire
+       appliances to be directed to a marshalling area or
+       straight to the site, and for ambulances to wait nearby
+       until called forward to loading points.    There should be a
+       rendez-vous point for reinforcements, volunteers and other
+
+       non-emergency service personnel, but until this has been
+
+       set up they should report to the police incident control
+                                                                           Figure 1
+
+
+
+      EXAMPLE OF A MANAGEMENT STRUCTURE WHEN DEALING WITH DISASTER
+
+
+RENDEZ-VOUS POINT                                                      MEDIA LIAISON POINT
+       *                                                                           *
+
+
+
+
+                        JOINT INCIDENT COMMAND                        ^ L o c a l authority
+                                                                       ^       and other
+                             LIAISON OFFICERS                           emergency centres
+
+       Ambulance                     Police                                 Fire
+      and Medical                  ("Silver")
+
+
+
+
+                                   Survivors                  Fatalities
+
+
+
+
+Casualty Receiving Station
+     First Aid Post                                         Body Holding
+ Ambulance Loading Point                                        Area
+                                    Survivor
+                                    Reception
+                                     Centre
+
+
+
+
+                                                                                              /
+Receiving                                                                                /
+Hospitals                    FORWARD CONTROL POINTS
+
+
+            \                                                                      /
+                                  Inner Cordon
+                               *******************
+                               *                                  *
+                                                                               /
+                               *        INCIDENT                  *             Outer
+                               *                                  *             Cordon
+                              * * * * * * * * * * * * * * * * * * *
+       post.    In Chapter 5, paragraphs 5.8 to 5.10, the
+
+       arrangements for volunteers are discussed in more detail.
+
+
+Joint incident rnmmana
+
+
+2.13   Once senior officers and communications facilities arrive,
+       a JOINT INCIDENT COMMAND should be established.      Each
+       service should determine in advance the rank of the senior
+       officer who will go to the scene.     The joint incident
+       command should be at a suitable point adjacent to the
+       disaster site and may use the mobile control vehicles of
+       each service and/or a suitable building.     At this stage,
+       the temporary joint command may become the FORWARD CONTROL
+       POINT.   The police incident officer (who may be code-
+       named "SILVER"), in liaison with the senior officer from
+       each service, will take on the overall coordination of the
+       site.
+
+
+2.14   The JOINT INCIDENT COMMAND will obtain resources as
+       necessary to deal with the disaster and is likely, at this
+       stage, to be the central point of contact for the media
+       and others seeking information.     Attached to the JOINT
+
+       INCIDENT COMMAND should be a liaison officer from the
+       local authority, and, depending on the nature of the
+       disaster, from HM Coastguard, industrial and commercial
+       concerns, public utilities such as gas, electricity or
+
+       water companies and/or other organisations.     Liaison
+
+       officers will need to maintain constant contact with their
+       own organisation's emergency or control centre so that
+       they can provide rapid support to the combined response.
+
+
+2.15   If the disaster occurs within the perimeter of an
+       industrial or other establishment, a liaison officer from
+       the company should be nominated, who will then play a
+       crucial part in an effective response.   Not only will the
+       liaison officer be able to supply information derived from
+       local knowledge, he will also provide access to facilities
+       on the site and act as a link to the establishment's
+       senior management and (most importantly) its emergency
+       management structure.
+
+
+2.16   If there are no special arrangements already in place, the
+       response to a maritime disaster will be coordinated by the
+       appropriate Maritime Rescue Coordination Centre.    However,
+       reception of survivors ashore is the responsibility of the
+       land-based authorities.   It is essential that land and
+       maritime authorities liaise at the earliest opportunity to
+       tackle the particular problems caused by maritime
+
+       disasters, including wreckage and pollution.
+
+
+Senior Command Group
+
+
+2.17   Experience of recent disasters has proved the worth of
+
+       establishing a SENIOR COMMAND GROUP to manage the response
+       (illustrated in Figure 2).   Such a group is usually
+       chaired by the police and comprises representatives of:
+                                                         Figure 2
+
+
+
+                       EXAMPLE OF A COMMAND STRUCTURE
+
+
+                             SENIOR COMMAND GROUP
+Local Authority              Chief Constable(Gold)
+Emergency Centre(s)—           Chief Executive(s)
+                          Chief Fire & Rescue Officer          Fire Control
+Ambulance Control —         Chief Ambulance Officer
+                                Medical Officer                Hospitals
+                            Public Relations Manager           Media
+                                                               Briefing
+                                                               Centre
+
+
+
+
+                            JOINT INCIDENT COMMAND
+   Ambulance and                Police Incident           Fire Incident
+   Medical Incident            Officer (Silver)           Officer
+   Officers
+
+
+
+
+                           FORWARD CONTROL POINT(S)
+
+
+
+            Ambulance               Police              Fire
+        + Medical Teams            (Bronze)
+       a.    the local authority (county and district or
+             metropolitan city/borough, as appropriate);
+
+
+       b.   the other emergency services;      and
+
+
+       c.   a representative of local    NHSmanagement.
+
+
+       Representation should include the individual tasked with
+
+       managing the information flow and public relations (from
+       the police or local authority).     Other organisations may
+       be represented, depending on the nature of the disaster.
+       It might, for example, be appropriate to include:
+
+
+       d.   HM Coastguard;
+
+
+       e.   British Transport Police;
+
+
+       f.   commercial organisations, such as British Rail,
+             depending on circumstances;
+
+
+       g.   senior military officer.
+
+
+       In the most serious incidents, representation would
+       normally be at chief officer level or equivalent.
+
+
+2.18   The main function of the Senior Command Group is to
+       coordinate action across the services for the hours or
+       days ahead.   The chairmanship of the group may pass to the
+
+       appropriate local authority chief executive once the
+       priority becomes the longer term recovery of the
+
+       community.
+
+
+2.19   The group should ensure that the following are not
+       overlooked:
+
+
+       a.   arrangements for media liaison (see Chapter 4);
+
+
+       b.   arrangements for the reception and escorting of VIPs
+             (also addressed in Chapter 4); and
+
+
+       c.   liaison with central government (see Chapter 6).
+
+
+summary of Management Principles
+
+
+
+2.20   Paragraphs 2.5-2.19 have outlined a typical management
+       structure based on the experience of dealing with
+       disasters.    There are 4 principles underpinning this
+       structure:
+
+
+       a.   The first officer from the emergency services to
+             arrive on the scene should initiate the combined
+             response;
+
+
+       b.   A JOINT INCIDENT COMMAND, which will manage the
+
+             combined response, should be established by the
+             emergency services as soon as possible;
+       c.   Attached to the JOINT INCIDENT COMMAND should be
+             liaison officers from the local authority and other
+             organisations as appropriate.   Liaison officers
+             should be provided with communication facilities so
+
+             that they may arrange support as necessary;
+
+
+       d.   A SENIOR COMMAND GROUP should be established to
+             oversee the combined response and provide a link to
+             central government through the lead department.
+
+
+Handling Widespread Disasters
+
+
+2.21   Some disasters - for example, oil pollution and other
+       forms of environmental contamination, rabies, severe
+       weather, flooding, satellite accidents - will affect
+       either a large area or a number of separate locations,    in
+       the latter case, each response at each site may be managed
+       along the lines already described, but particular
+       attention will need to be paid to the coordination of the
+       various responses.   A Command Group may be based at county
+       or equivalent level, with similar arrangements in
+       neighbouring areas depending on the circumstances.
+
+
+2.22   When a disaster poses an immediate threat to life it is
+       usual for the police to coordinate the local response.
+       However, in some cases (for example, severe weather,
+       flooding, rabies, or pollution) the responsibility for
+       coordinating the response is likely to rest with the local
+
+       authority whose statutory responsibilities bear most
+       heavily on recovering from the disaster.   Examples of such
+
+       responsibilities are highways, housing and environmental
+       health.
+
+
+DEBRIEFING, INQUIRIES AND LESSONS EMERGING
+
+
+2.23   In order to facilitate debriefing and to provide evidence
+       for inquiries (whether judicial, public, technical,
+       criminal or of some other format), it is essential that
+       all events, decisions and actions taken are recorded.
+       Chief officers and chief executives should consider
+       instituting a formal debriefing system, on both a single-
+       and multi-agency basis.
+
+
+2.24   Experience has shown that video recordings can be useful
+       for historical records purposes, dissemination of lessons
+       learned and possible briefing and debriefing.
+
+
+2.25   Whether or not there is to be a formal public enquiry, it
+       is important that the lessons emerging from the disaster
+       are identified, that they are fully documented for
+       promulgation, and then made widely available.   Thus in due
+       course the lessons learnt can be shared amongst all those
+       who might be called upon to respond to other disasters in
+       the future.
+                                                        ANNEX A
+
+
+              GUIDANCE ADDRESSED TO PARTICULAR STATUTORY SERVICES
+
+
+SERVICE/          TITLE                ISSUED BY                  DATE
+DEPARTMENT
+
+Police            Emergency            Association of             1990
+                  Procedures           Chief Police
+                  Manual               Officers
+
+Fire              Major Incident       Chief and Assistant        1991
+                  Emergency            Chief Fire Officers
+                  Procedures           Association
+                  Manual
+
+NHS               Emergency            Department of Health       1990
+                  Planning in the
+                  NHS: Health Services
+                  Arrangements for
+                  Dealing with Major
+                  Incidents.
+                  Emergency Planning
+                  in the NHS: Health
+                  Services Arrange­
+                  ments for Dealing
+                  with Accidents
+                  Involving
+                  Radioactivity
+
+Ambulance        Ambulance Service     Regional Ambulance         1990
+                 Operational           Officers Group
+                 Arrangements:
+                 Civil Emergencies
+
+HM Coastguard    Instructions and      Department of              1988
+                 Operational           Transport
+                 Notices to
+                 Coastguards
+
+Local           Emergency Planning     Home Office                Under
+Authorities     Guidance to                                       revision
+                Local Authorities
+Local         Local Authorities   County Emergency     1991
+Authorities   Civil Emergencies   Planning Officers’
+Emergency     Planning Manual     Society
+Planning
+Officers
+DRAFT
+
+
+
+
+                        DEALING WITH DISASTER
+                        HOME OFFICE GUIDANCE
+
+
+
+
+CHAPTER 3:    THE IMMEDIATE CARE AND TREATMENT OF DISASTER VICTIMS
+
+
+
+
+3.1     This chapter addresses some aspects of the immediate care
+        and treatment of the victims of a disaster.   Chapter 7
+        refers to their recovery, and that of the wider community,
+        in the longer term.
+
+
+3.2     in the following paragraphs, advice is offered on
+
+
+              casualty clearance
+
+
+             the removal of the dead from the scene
+
+
+             the role of the casualty bureau
+
+
+             arrangements for receiving relatives and friends
+
+
+             shelter and evacuation.
+CASUALTIES
+
+
+
+3.3   Those who have survived the disaster uninjured (or with
+      only minor injuries) may nevertheless be suffering from
+      shock, intense anxiety and grief over the plight of
+      friends, relatives and fellow victims.    They will,
+      therefore, need to be treated with great sensitivity.
+      Survivors will often be able to provide crucial
+      information about what happened, and may be important
+      witnesses at any trial or inquiry.    Some uninjured
+      survivors may want to leave the scene as quickly as
+      possible and may be unwilling to     wait to   givetheir
+      personal details to the police.      This is   unhelpful because
+      potentially useful information could be lost, and to try
+      to prevent this the police seek to record the details of
+      all survivors.   This will usually be done at the survivor
+      reception centre, a secure area to which all uninjured
+      survivors are taken.
+
+
+3.4   Survivors' initial needs are likely to include comfort in
+      their distress, food, drink, and first aid to treat minor
+      injuries.   They may also need welfare   supportin the
+      immediate aftermath of disaster,     such as   helpin finding
+
+      temporary accommodation, transport back home or financial
+      advice or assistance.   The local authority, assisted by
+      voluntary organisations, should therefore plan to make
+      these services and facilities available at the survivor
+
+      reception centre.
+3.5   Injured survivors should be taken to the casualty
+      receiving station (CRS) where medical staff will assess,
+      triage and treat casualties and ensure that those
+      requiring immediate hospital treatment are given priority
+      for removal.     The CRS is usually sited in a building, tent
+      or temporary shelter close to the ambulance loading
+      points.   The Ambulance Incident Officer will be
+      responsible for the provision of ambulances and sitting
+      case vehicles to convey casualties to designated hospitals
+
+      and for arranging for helicopters to be available if
+      appropriate for conveying casualties to distant specialist
+      hospitals.
+
+
+3.6   In a disaster, injured survivors may be thrown some
+      distance away from the site or may even wander away in
+      confusion.     It is therefore important to search the
+      surrounding area for further casualties.
+
+
+FATALITIES
+
+
+3.7   Bodies of those killed in the disaster should not be
+      moved, except to rescue trapped survivors, until a doctor
+      has pronounced life extinct and labelled the body
+
+      accordingly.    The position in law is that the authority of
+      HM Coroner is required before removing those who have been
+      pronounced dead.    Bodies will normally be taken to a
+      temporary mortuary where autopsies can be carried out,
+      although they might first be taken to a temporary body
+      holding area.    The need to preserve evidence at the scene
+
+      of a disaster must be clearly borne in mind.
+CASUALTY BUREAUX
+
+
+
+3.8   In the event of a disaster involving missing persons
+      and/or a number of deaths, the police normally establish a
+      casualty bureau.    The role of the bureau is to provide a
+      central contact point for all those seeking or providing
+      information about persons who might have been involved,
+      and to collect data and collate all records.    The
+      functions of the casualty bureau will include
+
+
+      a.   handling enquiries from the general public about
+            relatives and friends who might have been involved;
+
+
+      b.   collating details of survivors, their condition and
+            their whereabouts;
+
+
+      c.   confirming areas of evacuation and the location of
+            evacuees;
+
+
+      d.   gathering data to assist in the identification of
+            casualties;   and
+
+
+      e.   compiling a list of persons believed to have been
+            involved who are now missing.
+
+
+3.9   Once the casualty bureau has been established, its
+      telephone number(s) will be publicised through the media,
+
+      with the general public being asked to provide information
+      on persons thought to have been involved in the incident
+       who have not been accounted for.   This information assists
+       the police in their task of identifying casualties and the
+       deceased.
+
+
+3.10   In the event of an air crash, the Emergency Procedures
+       Information Centre (EPIC) managed by British Airways at
+       Heathrow may open.    If so, its telephone number will be
+       broadcast.
+
+
+RELATIVES AND FRIENDS
+
+
+3.11   Recent experience of disasters has shown that, if they
+       believe their relatives and friends may have been
+       involved, many people may travel to the scene.    If
+       necessary, a reception centre for relatives and friends
+       will be established by the police, and staffed by them,
+       local authority and voluntary organisations, including
+       representatives of churches and other faith groups.
+       Relatives and friends, who may be feeling intense anxiety,
+       shock or grief, need to be treated with sympathy and
+       understanding and staff should be prepared for the
+       apparently unreasonable behaviour of some of those seeking
+       assistance.   Access to the reception centre should be
+       controlled to prevent those inside being disturbed by the
+       media or onlookers.   The fullest possible information
+       should be given to those seeking news of victims involved
+
+       in the incident.
+SHELTER OR EVACUATION
+
+
+3.12   In some circumstances it may be necessary to advise the
+
+       public on whether they should evacuate a given area or
+       stay put and seek shelter.   Such circumstances include
+       risks to life or health from:
+
+
+       a.    the release or threatened release of radioactive or
+             other hazardous materials;
+
+
+       b.   the spread of fire;
+
+
+       c.   explosion;
+
+
+       d.   severe storms;
+
+
+       e.   flooding;
+
+
+       f.   earthquake;   or
+
+
+       g.   environmental contamination.
+
+
+       In the event of (a), information should immediately be
+       sought, particularly from the manufacturer or operator, on
+
+       the nature of the risk posed by the hazardous material and
+       the possible consequences if it is released.   Additional
+       information on the nature of the risk may be obtained from
+       chemical data systems and other accredited sources.   One
+
+       crucial factor in determining the area to be evacuated
+       will be the forecast speed and direction of the wind
+       which, together with other 'Chemet* advice, can be
+       obtained from the appropriate Regional Weather Centre
+
+
+3.13   Advance notice of severe storms or floods should have been
+       issued by the Meteorological Office and/or Regional
+       Weather Centres in the form of severe weather warnings.
+       In addition, flood warnings may be issued by the National
+
+       Rivers Authority.
+
+
+3.14   on the basis of the advice obtained, it is normally the
+       police who decide whether or not to evacuate and define
+       the area to be evacuated.     The police, however, can only
+       recommend evacuation and have no power to require people
+       to leave their homes.     Past experience has shown that
+       people with domestic pets may be unwilling to evacuate
+       unless arrangements include their pets.     The physical
+       difficulties of large scale evacuation should not be
+       underestimated.     Care must always be taken not to put
+       people at risk by bringing them outdoors during the course
+
+       of evacuation when they might be more effectively
+
+       protected under shelter.
+
+
+3.15   If it is decided to evacuate a given area evacuation
+       assembly points should be set up near the area and, if
+       time permits, signposted.     (There may not be time for this
+
+       to be done in the event of, for example, imminent
+       explosion or flood.)     Those in the affected area should be
+
+       given clear and audible advice to go to their nearest
+       evacuation assembly point.   This can be done by house-to-
+       house call or by using loud-hailers, mobile public address
+       systems or radio announcements.     The police and officers
+       of the local authority should make arrangements for
+       ensuring the security of property left empty after the
+       evacuation.
+
+
+3.16   Local authority officers should coordinate the dispersal
+       of evacuees to reception and rest centres and should
+       maintain a comprehensive index of evacuees and their
+       whereabouts.   This information will be needed by the
+       police for casualty bureau purposes, and later if it is
+       necessary to interview witnesses.     Police liaison officers
+       at reception and rest centres will ensure that all
+       necessary information is sent to the casualty bureau.     In
+       order to account for all people evacuated from the
+       affected area, it is important that those leaving the
+       reception and rest centre and intending to stay with
+       friends or relatives are encouraged to register their
+
+       eventual destination at the centre.
+DRAFT
+
+
+                           DEALING WITH DISASTER
+                           HOME OFFICE GUIDANCE
+
+
+
+
+CHAPTER 4 g   RELATIONS WITH THE MEDIA
+
+
+
+
+INTRODUCTION
+
+
+4.1     The need for consideration to be given at the earliest
+        possible stage of the disaster response to providing
+        facilities for the media has already been mentioned in
+        Chapter 2, paragraph 2.10(e).     It has also been noted (at
+        paragraph 2.16) that the public relations manager should
+        be a member of the senior command group.    This chapter now
+        looks in more detail at the likely nature and scale of the
+        demands which the media will make and how those demands
+
+        can best be met.
+
+
+4.2     Recent years have seen a rapid advance in
+        telecommunication and information technology capabilities.
+        Television channels devoted entirely to news and extended
+        news programmes on other channels are with us to stay.
+        The impact made at the scene of a disaster by those
+        engaged in gathering material for the media can be massive
+        and it is vital to prepare for the flood of media
+
+        representatives, local, national and international.    In
+
+
+
+
+                                                                       ^•/v
+      little more than 12 hours after Pan Am flight 103 crashed
+
+      there were at least 500 media people at Lockerbie,
+      including 17 TV crews and a vast array of equipment -
+      vehicles, cameras, communications and so on.
+
+
+4.3   The purpose of this chapter is therefore to highlight some
+      of the problems which can arise in handling the media's
+      voracious appetite for information in the event of a
+      disaster, and to suggest arrangements for overcoming those
+      problems.
+
+
+4.4   It is worth noting that certain incidents, such as the
+      Hungerford shootings in 1987, may not necessarily be
+      categorised as disasters, but they will nevertheless
+      generate a high level of on-going media interest and pose
+      similar difficulties.
+
+
+COPING WITH THE MEDIA
+
+
+4.5   In the first instance, the load in coping with media
+      pressures usually falls to the police, in their role as
+      coordinators of the response at and around the scene of
+      disaster and with their responsibility for criminal
+
+      investigation.    But there are other aspects of a
+      disaster - temporary accommodation for victims, and
+      perhaps their relatives and friends, safety of damaged
+      buildings, road access and so on - which may call for a
+      quick reaction by local authorities and so they too should
+
+      be involved in the media response at an early stage.
+      Depending on the nature of the disaster, attention may
+      also focus on industrial operators or other organisations;
+      for example, Occidental were in the front line of media
+      attention from the outset of the Piper Alpha disaster,
+
+
+4.6   The guidance in this chapter is offered primarily to the
+      emergency services and in particular to chief police
+      officers in their role as coordinators at the scene and
+      local authority chief executives.     However, it is hoped
+      that some of the material will also be of use to other
+      organisations who may become involved in the disaster
+      response.
+
+
+INITIAL ACTIONS
+
+
+4.7   Media personnel will arrive surprisingly quickly at the
+      scene.     They will often have learnt of the disaster at the
+      same time as the emergency services and when they arrive
+      will expect to have access to all the facilities they will
+      require.    They will also expect an instant response to
+      their requests for information and briefing.     Demands from
+      local and regional media will quickly be added to by
+      demands from national and - depending on the nature of the
+
+      disaster - international media.     If these demands are not
+      anticipated and arrangements made accordingly, media
+      representatives are likely to add to the initial confusion
+      which is usually found when disaster has struck.
+4.8   Experience has shown the value of immediately dealing with
+
+      the following:
+
+
+      a.   Control of access to the disaster site.    This is a
+           police responsibility, put in place whenever
+
+           practical, to allow rescue services to carry out
+           their work unhindered, and to preserve evidence at
+           what may be the scene of a crime.    It must be
+           anticipated that the broadcast media, in particular,
+           may bring large vehicles to the scene.    In addition,
+           helicopters are often deployed and control of the
+           airspace may be an early consideration (see para
+           4.32).
+
+
+      b.   Media liaison point.    Located (if possible) outside
+           the outer cordon around the scene of the disaster,
+           this will provide for the reception of media
+           personnel, initial briefings, accreditation and
+           arrangements for reporting, filming and photography.
+
+
+      c.   Media spokesperson.    The swift attendance at the
+           scene by a spokesperson - likely to be from the
+           police - should ease the pressure from the media.
+
+           Failure to arrange this will prompt the media to
+           approach anybody available, which could give
+           credibility to potentially inaccurate sources.    While
+           the spokesperson takes the load off those coping with
+           the disaster, brief interviews with the senior
+«
+
+
+
+
+               police, fire, ambulance or other officers at the site
+               will add authority to the information being given.
+
+
+          d.   Central Office of Information (COI).     Considering
+               whether to seek reinforcement by one or more
+               experienced COI press officers.     See also para 4.14.
+
+
+    4.9   At the earliest possible stage there should be liaison
+
+          between the spokesperson and others involved in the
+          disaster response.   Lack of coordination and information-
+          sharing is likely to result in different - even
+          contradictory - messages emerging.     In addition, at this
+          most difficult initial stage of the disaster response the
+          following may be found helpful.
+
+
+          a.   Reminders to the media that in the period immediately
+               following a disaster, no-one, no      matter    how well
+               prepared to respond, can know precisely what has
+               happened.   Initial statements focusing on what is
+               being done, what the limitations of knowledge are at
+               present and what is happening to      arrive    at an overall
+
+               appreciation of the situation will indicate a
+               positive response.   If such statements are backed by
+               a commitment to provide accurate information when
+               this is available, the media are more likely to
+
+               attend briefings, and thus accept a measure of
+               control, particularly if the briefings are scheduled
+               in advance at regular intervals.
+       b.   Meanwhile, any factual statements, particularly from
+
+            emergency services eye witnesses, will be avidly
+            welcomed.     Clearly, however, such statements should
+            not include speculation on the cause of the disaster,
+            nor premature estimates of the numbers of casualties.
+
+
+       c.   There will be great pressure on reporters to seek
+            interviews with survivors and relatives.     The first
+            consideration should always be the well-being of the
+            individual:    but it does relieve pressure on all
+            concerned if a willing and able survivor, relative or
+            friend agrees to see reporters at a press conference
+            to characterize the disaster for all.
+
+
+       d.   Legal and evidential limitations on the release of
+            information should be frankly explained, including
+            the time it often takes to identify victims.
+
+
+4.10   The aim should be to develop the best possible
+
+       relationship with media representatives right from the
+       start.   Pressure of competition between media teams and
+       individuals will make them sensitive to any restrictions
+       which appear to them to be unfair or biased.     If they feel
+       they have been treated unreasonably, some representatives
+       of the media will try to make their own arrangements which
+
+       may well obstruct rescue work and compromise evidence for
+       any necessary investigation.    Well managed media relations
+       should alleviate these problems and should also allow
+       positive advantage to be taken of the help which the media
+       can provide.     The media can help by broadcasting
+       messages - for example - asking people to avoid the
+       disaster area, publicising details of any evacuation
+       planned, putting out casualty bureau telephone numbers and
+       asking people to minimise their use of the telephone.
+
+
+4.11   When circumstances permit, police incident officers may
+       wish to consider identification of media personnel and
+
+       whether there should be on-site facilities for issuing
+       passes or verifying bona fides.    Any system adopted should
+       allow rapid identification of those allowed access to
+       certain areas.
+
+
+4.12   The management of large numbers of media representatives
+       can be assisted through pooling arrangements.    For example
+       a pool could comprise one television crew, one newspaper
+       reporter, a stills photographer and a radio reporter.
+       Although a limit can be set on the number of media
+       personnel to be allowed access to the site, it is best to
+       allow the media to decide who their representatives should
+       be.   Additional pooling facilities may be required for
+       overseas media representatives.    It is helpful to identify
+       suitable sites outside any cordon for coverage of the
+
+       disaster by photographers and camera crews who are not, at
+       the time, involved in pooling arrangements.
+MEDIA RESPONSE ORGANISATION
+
+
+
+4.13   In the event of a disaster, particularly one which is
+       going to be of continuing interest to the media, the
+       initial actions just described may be no more than holding
+       arrangements.   As events develop, the need for a
+       comprehensive media response organisation headed by
+       someone who equates to a public relations manager1 will
+       become all too apparent.   A disaster is likely to have
+       required the convening of a senior command group (as
+       described in Chapter 2 paragraph 2.17-2.19).   It is
+       essential for the public relations manager to attend
+       command group meetings so that he is fully in the picture
+       and can plan the media response accordingly.   It is
+       recommended that he oversees all aspects of the media
+       response, including:
+
+
+       a.   activities at the media liaison point;
+
+
+       b.   arrangements for the media to visit the site,
+
+            possibly including transport where the disaster is in
+            a remote area;
+
+
+       c.   identification of media personnel;
+
+
+       d.   management of the media centre where one is
+
+            established;
+
+
+        It is appreciated that not all organisations or agencies
+currently have such a post, but experience has shown this to be
+desirable.
+       e.   appreciation of the possible media activities related
+            to the disaster but at locations remote from the
+            disaster scene (see para 4.19).
+
+
+MEDIA CENTRE
+
+
+4.14   A media centre may be set up by the police or by the local
+
+       authority.     It is convenient for it to be close to the
+       scene of the disaster but this must depend on
+       circumstances.     The centre should provide working
+       accommodation for media personnel, a news
+       conference/briefing area, arrangements for monitoring
+       television, radio and newspapers, and a press office with
+       communications equipment.     It should be staffed by press
+       officers from the major organisations with responsibility
+       for handling the disaster.     In addition to the emergency
+       services this should always include local authorities as
+
+       appropriate;     and public utilities and commercial
+       organisations (eg an airline) according to the
+       circumstances.    Also likely to be included are government
+       press officers (see para 4.22) and those assisting from
+       the Regional Central Office of Information.     It should be
+       noted that the COI has expertise in setting up media
+       centres, and also have resources to help run them.
+
+
+4.15   Chief police officers and local authority chief executives
+       may have identified buildings in their emergency plans
+
+       which could be used as a media centre although experience
+       has shown that facilities can be set up rapidly in a
+
+       suitable building not previously designated.   An initial,
+       back-up option is to use a large and suitably equipped
+       vehicle, for example a converted police command vehicle.
+       This can provide a limited facility, but it will not
+       accommodate the numbers of media personnel associated with
+       disasters.
+
+
+4.16   A media centre offers a number of advantages to all
+       concerned;
+
+
+       a.   it provides the media representatives with a known
+            location for the most accurate and authentic
+            information which the authorities can make available;
+
+
+       b.   once links with the rescuers are in place and one
+
+            spokesman from each of the individual services has
+            been nominated, proper flows of information can be
+            established, compared and coordinated as soon as
+            possible;
+
+
+       c.   there is then a better chance of identifying and
+            dealing with any potential differences in approach
+            long before these might be noticed elsewhere, and
+
+            agreed approaches can be quickly relayed to the
+            emergency services and other control centres;
+       d.   oversight from the media centre should help to
+            control media presence at the site whether this is
+            for photo-opportunities or briefing;
+
+
+       e.   monitoring arrangements may be set up at the centre
+            to enable all concerned to be aware of what the media
+            are broadcasting/publishing;
+
+
+       f.   in the event of a widespread or multi-site disaster,
+            a single media centre could serve as a focus for
+            several media liaison points at differing locations;
+            and
+
+
+       g.   the same media centre may suffice for both life-
+            saving and recovery phases of the disaster response.
+
+
+TRANSFER OF THE MEDIA OPERATION TO LOCAL AUTHORITY CONTROL
+
+
+4.17   As already noted, it is to be expected that the police
+
+       will, at least initially, take the lead in the media
+       response.   However, the local authority is likely to have
+       a media team working from the outset, and there is obvious
+       advantage in their being part of the operation coordinated
+       by the police.   As the disaster response enters the
+       recovery phase, control passes to the relevant local
+       authority, who will then have to take the lead in
+
+       providing any necessary public advice and information and
+
+       in coping with continued media interest.    If the police
+
+       and local authority media operations are run in
+       conjunction, handover between them will be achieved more
+       smoothly.
+
+
+4.18   It is suggested that counties and their constituent
+       districts should agree local arrangements for the media
+       response in close consultation with the relevant police
+       force(s).   Similarly, in the English metropolitan areas,
+       cities, boroughs and metropolitan districts should liaise
+       with the police.
+
+
+REMOTE HANDLING
+
+
+4.19   In some disasters, attention has focused on communities
+       and individuals who may live many miles from the scene of
+
+       the incident and yet become a centre of media activity.
+       Examples are the home town of those killed whilst
+       travelling or the home of a train driver involved in a
+       rail incident.     In the latter example the individual may
+       need to be protected from media harassment.
+
+
+ROLES OF CENTRAL GOVERNMENT
+
+
+4.20   Although the emphasis in disaster planning is based on a
+       locally-managed response, there is a need to recognise the
+       scope of central government's interest and its role.
+
+       Parliament will expect a report from the appropriate
+       Minister as soon as possible and there may be calls for a
+       public inquiry.    A number of government departments may
+
+       have an interest in a disaster but the essence of central
+       government arrangements for handling disasters is for one
+       "lead" department to have overall responsibility.     (The
+       concept of the lead government department is explained in
+       Chapter 6.)
+
+
+4.21   The lead department is responsible, inter alia, for
+       ensuring that the government gives a consistent and
+       properly considered response to public and Parliamentary
+
+       demands for information and action.    Chief officers of
+       police and local authority chief executives should
+       therefore look to the lead department press officers as
+       their main central government contact at the scene on
+       media matters.
+
+
+GOVERNMENT PRESS OFFICERS' ATTENDANCE ON SITE
+
+
+4.22   Government press officers will often wish to quickly be on
+       site in order to:
+
+
+       a.   explain the involvement of government or of the
+            relevant regulatory body in the disaster response;
+
+
+       b.   be involved with any arrangements for VIP visits (see
+            para 4.24 etc);    and
+
+
+       c.   provide direct feedback to central government on
+            media matters.    Where central government
+            investigative agencies have a formal role, their
+
+            representatives are enjoined not to speak to the
+               media about their role except in carefully prepared
+
+               circumstances after taking advice and in the presence
+               of a government press officer,   similarly, government
+               press officers will need to be aware of facilities
+               providing access to a site which may become, or is
+               the subject of, a statutory investigation.
+
+
+4.23   Where specialist accident investigators are involved, the
+       relevant government department press office support may
+       continue far beyond the initial stages of the disaster.
+
+
+VISITS BY VIPS
+
+
+4.24   There is now a general expectation that a minister should
+       quickly visit the scene of a disaster and the injured, not
+       only to be seen to be marking public concern, but also to
+       be able to report to Parliament on the disaster response.
+       The scale of a disaster may also prompt visits by a member
+       of the Royal Family or the Prime Minister.
+
+
+4.25   Visits to the scene of a disaster need to take account of
+       the local situation and the immediate effects of the
+
+       disaster on the local community.     It is recommended that
+       so far as is possible liaison takes place with the Lord
+       Lieutenant, the local MP (see para 4.31), and other local
+       VIPs.
+
+
+4.26   Despite the inevitable disruption, which visitors would
+
+       want minimised, there are dividends to be gained from VIP
+       visits.   Not only can they be seen to boost the morale of
+       all those involved, including the injured and the
+       emergency services, but they also give an opportunity to
+
+       place on record public gratitude for what has been done.
+
+
+4.27   The police are of course experienced at handling VIP
+       visitors in normal circumstances and many of the usual
+       considerations will apply to visits to a disaster site.
+       It may be necessary to restrict media coverage of such
+       visits in which case pool arrangements should be made (see
+       para 4.12).
+
+
+4.28   Visiting ministers will probably require briefing on the
+       situation before visiting the site, which they will
+       doubtless want to see.   They will certainly require
+       briefing before any meetings with the media.      They will
+       want to meet those who have directed operations and be
+       brought up to date by specialists on the spot.     This will
+       help them to put into context the efforts of the emergency
+       services and the difficulties they have been facing.
+
+
+4.29   Ministers are likely also to want to visit those survivors
+       who are well enough to see them and to meet emergency
+       services personnel involved in the rescue.     There will be
+       pressure for photo-opportunities and interviews.
+       Arrangements will need to be flexible, taking into account
+       ministers' views on how and where they wish to respond to
+       what they have seen, and the limited time available.    They
+
+       should be agreed with the government press officer, who
+       will also liaise with the police liaison officer on the
+       appropriate location for photographs.
+
+
+4.30   It will be for the hospital authorities to decide whether
+       media representatives can accompany a minister at any
+       stage when visiting the injured.   If the media cannot have
+       access to wards, for medical or other reasons, the
+       minister can still be interviewed afterwards at the
+       hospital entrance about how patients and medical staff are
+       coping.
+
+
+4.31   The local Member of Parliament may accompany the minister.
+       This would be arranged by the minister's private office,
+       which will also confirm who else will be accompanying the
+       minister.
+
+
+EMERGENCY FLYING RESTRICTIONS
+
+
+4.32   Downwash from any helicopter can disrupt rescue
+       operations, damage property and destroy evidence.     The
+       presence of unauthorised aircraft poses a collision hazard
+       to police and rescue helicopters operating in the area.
+       It may therefore be necessary to regulate flights in the
+       vicinity of the disaster.   A 'Temporary Danger Area'
+
+       should be sought immediately in accordance with standard
+       procedures2 and the media should be informed of this
+       without delay and advised to avoid the area until
+       overflight is authorised.
+
+
+SUSTAINABILITY
+
+
+4.33   Disasters place enormous demands on all involved in the
+       response.   Media interest, particularly if it is
+
+       international and involves different time zones, can
+       create pressure throughout a 24 hour period.   It is
+       recommended that chief officers of police and local
+       authority chief executives take sustainability into
+       account during the response to a major disaster and seek
+       mutual aid accordingly.
+
+
+SUMMARY
+
+
+4.34   This chapter has concentrated on highlighting the
+       pressures that are likely to be faced arising from media
+       interest in a disaster, and the speed with which they
+       build.   Experience has shown that large numbers of media
+       representatives arrive surprisingly quickly.   They expect
+       constant, accurate and authoritative information and to
+       relay this to the public locally, nationally and possibly
+       internationally.
+
+
+     2       Standard procedures are set out in National Air Traffic
+Services (NATS) Instructions for Establishing Emergency Flying
+Restrictions within the United Kingdom Flight Information
+Region. It should be noted that flight in a Temporary Danger
+Area is not legally prohibited. If such prohibition is required
+a Temporary Restriction of Flying Regulations should be imposed,
+in accordance with the NATS instructions.
+4.35   In the immediate aftermath of disaster, arrangements for
+       dealing with the media are usually made by the police.
+       Initial measures include controlling access to the site
+
+       wherever this is practical, establishing a media liaison
+       point and deploying a spokesperson to the scene.
+
+
+4.36   Whenever disaster strikes, a comprehensive media response
+       is likely to be required, involving oversight by a public
+       relations manager who should attend meetings of the senior
+       command group.   It is recommended that under the public
+       relations manager, a media centre should be established,
+       staffed in the first place by press officers from the
+       major organisations with responsibility for handling the
+       disaster.   COI have expertise in setting up and managing
+       such centres.
+
+
+4.37   When the emphasis of the disaster response turns from
+       life-saving to longer-term recovery the local authority
+       may take over control of the response, including the media
+       response, from the police.
+
+
+4.38   Central government departments have statutory and other
+       responsibilities in relation to disasters, for example for
+       investigation.   These duties are performed with a
+
+       framework provided by a nominated lead department whose
+
+       ministers keep parliament and the public informed about
+       the disaster and the response to it.
+4.39   VIPs including ministers will want to visit the scene of a
+       disaster.   Suitable arrangements need to be made,
+       including briefing ministers for media interviews on site
+       or in the media centre.
+DRAFT
+
+
+
+
+                         DEALING WITH DISASTER
+                         HOME OFFICE GUIDANCE
+
+
+CHAPTER 5:    THE VOLUNTARY SECTOR
+
+
+
+
+INTRODUCTION
+
+
+5.1     Disasters can overstretch the resources of the emergency
+        and local authority services, and the value of
+        additional support from the voluntary sector has been
+        demonstrated on many occasions.    These occasions have
+        also shown that support from volunteers can only be used
+        effectively if planned for in advance.    This chapter
+        explains the advantage of planning for the use of the
+        voluntary sector and offers principles to be followed.
+
+
+5.2     The voluntary sector in the United Kingdom is large and
+        often well organised.   Planning should take account of
+        3 kinds of voluntary effort:
+
+
+        a.    established organisations such as the British Red
+
+              Cross Society, St John Ambulance Brigade,
+              Salvation Army and the Women*s Royal Voluntary
+
+              Service;
+
+
+
+
+                                                                   HI?
+      b.    specialist skills offered by groups of doctors,
+
+            radio amateurs and search and rescue organisations
+            etc;   and
+
+
+      c.    individual contributions normally offered - or
+            requested on the day.
+
+
+ACTIVITIES SUPPORTED BY THE VOLUNTARY SECTOR
+
+
+5.3   The voluntary sector can undertake or support a wide
+      range of activities.   Some of the activities with which
+      the voluntary sector is traditionally associated are set
+      out in Annex A to this chapter, but this list is by no
+      means exhaustive.
+
+
+Planning the Voluntary Sector’s Contribution to the Disaster
+Response
+
+
+5.4   General issues of planning are discussed in more depth
+
+      in Chapter 8.   However, in planning specifically how the
+      voluntary sector might contribute to the disaster
+      response, four principles should be borne in mind:
+
+
+      a.    the local statutory services should identify the
+            skills and expertise available from the voluntary
+
+            sector in their area.   These will vary from place
+            to place and it is essential to determine in
+            advance what is and is not available locally;
+b.    the voluntary sector must be able to demonstrate
+      its capabilities to the statutory services.     It is
+      of vital importance that, if disaster strikes, the
+      voluntary sector should be able to make whatever
+      contribution may have been written into local
+      plans, and so voluntary agencies must be able to
+      demonstrate that their support is reliable,
+      consistent and sustainable to the required
+      standard;
+
+
+c.   the statutory and voluntary sectors should be
+      clear about their respective roles in a disaster.
+      Volunteers must appreciate that the statutory
+      services bear the responsibility for the overall
+      disaster response but equally, the statutory
+      services must develop an understanding of the
+      voluntary organisations* own structures and
+      constraints;   and
+
+
+d.   there should be agreement as to how, on the day,
+      voluntary effort will be called out, what it will
+      do and how it will be organised.
+
+
+Planning will be more effective if it is carried out
+with the voluntary sector within a well defined and
+mutually agreed structure.   One possible model (in which
+voluntary organisations are grouped on the basis of
+
+functions and linked to the statutory authority
+
+responsible for those functions) is described at
+      Annex B to this chapter.    But there are many other
+
+      possibilities;    the essential point is that there should
+      be a structure which suits local circumstances and which
+      is understood by all concerned.
+
+
+5.6   Those responsible for organising liaison with the
+      voluntary sector might find it useful to have a register
+      showing what skills and resources are available from the
+      voluntary agencies and how they can be contacted in
+      advance.    This register might embrace both the
+      established organisations and individuals or groups in
+      the area known to have specialist skills.    (There should
+      be a system for keeping these records up to date.)
+
+
+TRAINING AND EXERCISING
+
+
+5.7   General issues of training and exercising are also
+      discussed in Chapter 8.    When considering the particular
+      contribution which the voluntary sector can make to the
+      response to disaster, it should be noted that
+
+      established voluntary organisations and volunteer groups
+      will usually have their own arrangements for training
+      and exercising.   Wherever possible these should be
+      demonstrated to the local statutory services.
+      Additionally, the statutory services and voluntary
+      agencies should aim for joint training and exercising
+      wherever possible so that problems can be identified,
+
+      plans and procedures updated and working relationships
+      fostered.
+ACTION FOLLOWING A DISASTER
+
+
+
+5.8    Plans should include provision for voluntary
+       organisations to be called out by or at the same time as
+       the statutory authorities that they support;     voluntary
+       organisations should not normally attend the scene
+       unbidden.   Where there are a number of voluntary
+       organisations providing support within the same or
+       related functional areas, a "cascade" call-out system
+       may prove useful.
+
+
+5.9    A prolonged disaster may require voluntary organisations
+       to operate a shift system.     This eventuality should be
+       planned for.
+
+
+5.10   Chapter 2 (paragraph 2.12) has described the setting-up
+       of a rendezvous point for volunteers.     It is at this
+       point that members of voluntary agencies called to the
+       scene will assemble before being assigned to tasks or
+       duties.   When disaster strikes, people who are not part
+       of any voluntary organisation will also wish to help and
+       will volunteer their services.    To deal with such
+       approaches, a volunteer bureau should be set up to act
+       as an initial contact point.     If the volunteer bureau
+       wishes to accept the offer of help, the volunteer can
+       then be asked to report to the volunteer rendezvous
+
+       point or police incident control post.
+SUMMARY
+
+
+
+5,11   The voluntary sector offers a wide range of expertise
+       and is anxious to help in a disaster.     To make the best
+       possible use of the voluntary sector's contribution,
+       planning is essential.   This should be carried out
+       within a clearly identified structure best suited to
+       local needs.   Within that structure:
+
+
+       a.   there should be mutual agreement on the roles of
+             the voluntary sector in a disaster;
+
+
+       b.   voluntary agencies should demonstrate their
+             ability to fulfil those roles;     and
+
+
+       c.   joint training and exercises should be used to
+            prove the effectiveness of disaster plans
+             involving the use of volunteers.
+                                                         ANNEX A
+
+
+
+
+ACTIVITIES WHICH HAY BE UNDERTAKEN BY THE VOLUNTARY SECTOR IN
+SUPPORT OF THE STATUTORY SERVICES
+
+
+1.    WELFARE
+
+
+     Working with: Local Authority Social Services Department
+                    Local Authority Education Department
+                    Local Authority Housing Department
+                    and also police
+
+
+     Activities:   Staffing reception and rest centres
+                    Feeding
+                   Provision of clothing
+                   Advice on entitlements, grants, loans,
+                     claims
+                   Resettlement of victims, evacuees etc
+                   Support and comforting
+
+
+2.   SOCIAL AND PSYCHOLOGICAL AFTERCARE
+
+
+     Working with: Local Authority Social Services
+                   Local Authority Educational Psychologists
+                   National Health Service
+
+
+     Activities:   Counselling
+
+                   Providing longer term support
+MEDICAL SUPPORT
+
+
+Working with: NHS Ambulance Service
+
+              NHS Accident and Emergency Departments
+              NHS Health Emergency Planning Officers
+
+
+Activities;   Back-up Ambulance Service
+              First aid posts
+              First aid support in rest centres,
+                  emergency feeding centres etc
+              Auxiliary roles in hospitals
+
+
+SEARCH AND RESCUE
+
+
+Working with: Emergency Services
+              Armed Forces
+
+
+Activities;   Mountain, cave, cliff, moor, coastal
+                  rescue
+              Supervision of other searchers (eg youth
+                  organisations)
+              Loan of equipment
+
+
+TRANSPORT
+
+
+Working with: Local Authority Social Services
+
+              Emergency Services
+Activities:      Transport and escort of homeless,
+                   outpatients, next-of-kin, etc to and
+                   from airports, railway stations,
+                   hospitals, mortuaries, rest centres,
+                   hostels, etc
+
+
+COMMUNICATIONS
+
+
+
+Working with: Emergency Services
+                 Local Authorities
+                 Utilities
+
+
+Activities:     Providing radio communications,
+                  eg shortwave, Citizens1 Band
+                Vehicles
+                Messengers
+
+
+DOCUMENTATION
+
+
+
+Working with: Emergency Services (especially police)
+                Local Authority Social Services
+                NHS
+
+
+Activities:     Tracing
+
+                Assistance at Casualty Bureau
+                Logging/diary procedures
+                Computer support (where available)
+TRAINING AND EXERCISING
+
+
+Working with: Emergency Services
+              Local Authority departments
+              National utilities
+              NHS
+
+
+Activities;   Analysis of training needs and
+                capabilities
+              Devising instructional programmes
+
+              Joint planning and conduct of multi­
+                agency exercises including call out
+                arrangements and debrief
+              Formulation and dissemination of good
+               practice
+                                                   ANNEX B
+
+
+
+CO-ORDINATION OF EFFORT
+
+
+
+In order that the requirements of the statutory services can
+be met by a speedy and efficient voluntary response, it is
+suggested that the voluntary organisations might be grouped on
+the basis of functions and linked with the statutory authority
+responsible for those functions,    in some cases this will be
+one statutory authority and one voluntary organisation linked
+to a specific function, for example HM Coastguard and the
+RNLI; or the ambulance service and the immediate care schemes.
+In other cases where the voluntary organisations are multi­
+functional they would need to be associated with more than one
+statutory authority and be represented on all of the relevant
+functional groups.   Annex A has shown functions which have
+been performed following major disasters, together with
+examples of the activities involved and the statutory
+authorities normally responsible.   It is hoped that this
+functional grouping will clarify the contributions which
+individual voluntary organisations are able to make.    This
+would enable statutory authorities and voluntary organisations
+to maximise - and rationalise - the voluntary contribution.
+
+
+The integration of the voluntary organisations into the local
+plan of the statutory services could be achieved by setting up
+a Voluntary Emergency Steering Committee with functional sub­
+groups as suggested by the sub-headings in Annex A.
+DRAFT
+
+
+
+
+                         DEALING WITH DISASTER
+                          HOME OFFICE GUIDANCE
+
+
+CHAPTER 6!    CENTRAL GOVERNMENT AND LEAD DEPARTMENTS
+
+
+
+
+THE LEAD DEPARTMENT CONCEPT
+
+
+6.1     It is fundamental to the arrangements for dealing with
+        disasters in the UK that the first response is at the
+        local level.     Where local services find that the scale of
+        a disaster puts it beyond the capacity of their own
+        resources, their recourse is usually to mutual aid
+        arrangements with services in adjacent areas.     More often
+
+        than not central government will have a role to play.
+        This may be an active role - where, for example, local
+        services seek specialist advice or assistance from a
+
+        central government department or the main source of
+        information about the disaster lies at central government
+        level, eg overseas nuclear accidents and satellite
+        accidents.     On other occasions the central government role
+        may be limited to dealing with Parliamentary, media and
+
+        public enquiries.
+
+
+6.2     Where central government does become involved, it is
+
+        essential that its response is properly co-ordinated and
+      that information given to Parliament and the public is
+
+      accurate.   This is achieved under the lead department
+      arrangements, supervised by the Cabinet Office.
+
+
+LINKS BETWEEN LOCAL AND CENTRAL GOVERNMENT
+
+
+6.3   It is important to realise that the nomination of a lead
+      department does not affect the underlying principle that
+      wherever possible day to day procedures and links should
+      be used for dealing with disasters.     Local organisations
+      should therefore aim to continue to deal with the
+      appropriate government department direct through the usual
+      channels and not solely through the lead department.
+
+
+6.4   Where, exceptionally, special arrangements need to be put
+      into force to replace these normal day-to-day links, this
+      would be made clear to all concerned.
+
+
+THE ROLE OF THE LEAD DEPARTMENT
+
+
+6.5   A central government lead department is expected to be
+      prepared to undertake some or all of the following tasks:
+
+
+      a.    Co-ordination of the activities of central
+            government departments in the response to a
+            disaster, providing a framework within which
+
+            individual departments can discharge their specific
+            responsibilities.
+      b.   Co-ordination of the collection of information on
+            the disaster and its effects for the purposes of
+
+
+            i.     briefing Ministers,
+
+
+            ii.    informing Parliament, and
+
+
+            iii.   providing information to the public and the
+                   media at the national level.
+
+
+SELECTION OF THE LEAD DEPARTMENT
+
+
+6.6   The nomination of a particular department as the lead
+      department is primarily based on:
+
+
+      a.   The nature of the disaster.     In many cases there is
+
+            a clear link between the nature of a disaster and
+            the normal business of the department.
+
+
+      b.   Access to information.     Ready access to a flow of
+
+            up-to-date and accurate information is essential for
+            central government in general and a lead department
+            in particular.     The chances of achieving this are
+
+            greater if officials of the department, agencies and
+            organisations concerned know each other and have
+            worked together.    The public information division of
+            the lead department has a special responsibility for
+
+            ensuring that information originating from central
+            government is consistent with that being given
+            locally.
+
+
+      c.    The availability of facilities. Where a disaster is
+            large scale, or protracted, it may be necessary to
+            use a dedicated emergency room and communications.
+            Those departments most likely to be called upon to
+            act as lead department have such facilities but it
+            would be unreasonable to expect every central
+            government department to set up such facilities for
+            what may, in their case, be a remote possibility.
+
+
+6.7   Wherever possible a lead department is nominated in
+      advance;   a list of current nominations is set out in the
+      annex to this chapter.   In other cases the Cabinet Office,
+      in consultation with the Prime Minister's Office, will
+      nominate a lead department.
+
+
+CHANGE OF LEAD DEPARTMENT
+
+
+6.8   Circumstances may change as a disaster develops or as the
+      recovery phase is entered, and it may become appropriate
+      for the department originally nominated to lead to hand
+      over the task to another department.   This happened in the
+      aftermath of the storms in October 1987 when the Home
+      Office took the lead initially but handed over to the
+      Department of the Environment at a later stage.
+6.9    Any such change would be agreed inter-departmentally
+       before being implemented and notified to everyone
+       concerned.
+
+
+PERFORMING THE LEAD DEPARTMENT ROLE
+
+
+6.10   The way in which a government department performs its lead
+       department role will depend on the circumstances.      In
+       straightforward cases no special arrangements may be
+
+       necessary, with lead department officials working from
+       their normal offices or, out of normal working hours, from
+       home.
+
+
+6.11   Where circumstances demand, the lead department would
+       activate special procedures, such as opening an emergency
+       room, and may need to organise (either directly or through
+       the Cabinet Office) regular meetings of the relevant
+       departments.
+
+
+6.12   However these activities are organised, it is incumbent
+       upon the lead department to ensure that there is no
+       unjustified duplication in requests for information from
+       those busily engaged at the scene.   Departments are
+       expected first to check whether information they require
+       for their own purposes is already available within the
+       lead department.   Equally, in a great many cases the lead
+
+       department will be able to obtain information collected by
+       other departments for their own use, avoiding the need to
+       trouble people at the scene.
+ROLE OF THE TERRITORIAL DEPARTMENTS
+
+
+6.13   If a disaster affected only Scotland, Wales or Northern
+       Ireland the respective territorial department would, where
+       appropriate, take the lead.     Even if not nominated to
+       lead, the territorial departments would have an important
+       role in those parts of the United Kingdom for which they
+       are responsible, acting in close co-operation with the
+       nominated lead department.    (One example is the crash of
+       Pan Am flight 103 in December 1988, after which the
+       Department of Transport was in the lead.     The Scottish
+       Office played a major role in co-ordinating central
+       government action in Scotland in support of the combined
+       response based at Lockerbie.)
+
+
+REGIONAL EMERGENCY COMMITTEES (RECS)
+
+
+6.14   Contingency arrangements are in place under which
+       ministers may activate what are known as Regional
+       Emergency Committees (RECs) should it be felt that the
+       additional stresses caused by a disaster require support
+
+       to be given to the normal administrative machinery at the
+       local level.   RECs are not an additional level of
+
+       government, they are an integral part of central
+       government standing ready to operate when required.    They
+       have no executive authority other than that delegated to
+       departmental representatives by their parent departments.
+6.15   In England, RECs (which are based for convenience on
+       existing Home Defence regions) are chaired by the Regional
+       Director of the Department of the Environment.    In
+       Scotland, Wales and Northern Ireland a senior official of
+       the respective territorial department chairs an equivalent
+       committee.   Other departments are represented by officials
+       from the appropriate regional office or from headquarters.
+       The emergency services are normally represented as are
+       other relevant organisations such as British Telecom.
+
+
+6.16   The principal functions of the REC are:
+
+
+       a.    to provide an overview of the situation in their
+             region and see that comprehensive and co-ordinated
+             information passes between central government and
+             local authorities and services;     and
+
+
+       b.    to assist in determining priorities for scarce
+             resources and, as far as possible, resolve local
+             problems.
+
+
+INSPECTORATES
+
+
+6.17   There exists a range of inspectorates, each with its own
+       specific duties and responsibilities during normal times -
+       for example, Her Majesty's Inspectorates of Constabulary
+       and of Fire Services, the Nuclear Installations
+
+       Inspectorate (Nil), and the Railway Inspectorate - and
+       many of these have roles in the aftermath of a disaster.
+       Liaison with the inspectorates at central government level
+
+       will be channelled through the parent department.
+       Officials of that department, and often a representative
+       of the appropriate inspectorate, are likely to be present
+       in the lead department emergency room if one is set up.
+SUMMARY
+
+
+6.18   -     A lead department is nominated to ensure that
+             central government activities are properly
+             coordinated.
+
+
+             The choice of a lead department is primarily based
+             on the nature of the disaster, ease of access to
+             information and the availability of facilities.
+
+
+             Lead department arrangements do not necessarily
+             replace existing day to day procedures and links
+             between central government and local authorities and
+             services.
+                                                   A nnex
+
+LEAD GOVERNMENT DEPARTMENTS
+
+
+Departments currently (1991) nominated to lead in the event of
+the natural or man-made disasters mentioned are as follows:
+
+
+1. FLOODING (Coastal or          Miniatrv of Agriculture
+   Riverine)                     Fisheries & Food or
+
+                                 equivalent department of
+                                 Scottish. Welsh or Northern
+                                 Ireland Offices
+
+
+2. MARINE AND COASTAL            Department of Transport
+
+   POLLUTION (oil, chemical      (Marine Pollution Control
+  or gas)                        Unit)
+
+
+3. RADIATION HAZARDS (arising    Department of Energy
+
+  within the United Kingdom)     for civil nuclear
+
+                                 installations in England
+                                and Wales.
+                                         or
+                                Scottish Office
+                                for civil nuclear
+                                installations in Scotland
+                                         or
+                                Ministry of Defence
+
+                                for defence nuclear
+                                installations or nuclear
+
+                                material in transit.
+                                            or
+
+                                 Department of Transport
+
+                                 for civil nuclear material in
+                                 transit.
+
+
+4. RADIATION HAZARDS (arising    Department of the Environment
+   outside the United Kingdom)   (HM Inspectorate of
+                                 Pollution)
+
+
+5. BLOW OUT ON OFF-SHORE         Health and Safety Executive
+   INSTALLATIONS                 (Offshore Safety Division)
+
+
+6. SEARCH & RESCUE               Department of Transport
+                                 (HM Coastguard)
+                                        and/or
+                                 Ministry of Defence
+                                 depending on circumstances
+
+
+7. SEVERE STORMS                 The Home Office initially or
+
+                                 appropriate territorial
+
+                                 department with Department of
+                                 the Environment being
+                                 prepared to assume role if
+                                 appropriate.
+
+
+
+8. OTHER GENERAL WEATHER         The Department of Transport
+  EMERGENCIES                    initially, or the appropriate
+                                 territorial department.
+9. DISASTERS OVERSEAS - in      The Foreign & commonwealth
+
+   which UK assistance is       Office (Overseas Development
+
+   sought                       Administration)
+
+
+10. TRANSPORT ACCIDENTS         Department of Transport
+
+   (including those overseas
+   involving UK registered
+   ships & aircraft)
+
+
+11. ACCIDENTS IN SPORTS         The Home Office or
+    GROUNDS                     appropriate territorial
+                                department (in close
+                                consultation with the
+                                Department of Education and
+                                Science (Minister of Sport).
+
+
+12. MAJOR EXPLOSIONS ARISING
+    FROM LANDFILL GAS
+
+
+13. DAM FAILURES
+
+
+14. MAJOR STRUCTURAL FAILURES
+    IN BUILDINGS (other than
+   those caused by external
+    impact, gas explosion,      Department Of the Environment
+
+   fire or industrial process   or appropriate department of
+
+    (Note.    If a government   the Scottish. Welsh or
+
+   building is involved the     Northern Ireland Offices.
+
+   relevant department would
+
+   lead eg. D.Education &
+    Science for schools in   )
+
+    England                  )
+
+                             )
+
+15. EARTHQUAKES              )
+
+
+
+16. SERIOUS INDUSTRIAL           Depending on circumstances
+   ACCIDENTS
+                             a. The Home Office if activities
+                                 of emergency services are the
+                                 main focus of attention.
+
+
+                             b. Department of the Environment
+                                 if rivers, inland waterways
+                                 (outside Port Authority
+                                 jurisdiction) or water
+                                 services in England are the
+                                 main cause of concern or gas
+                                 clouds of toxic or unknown
+                                 composition are threatening
+
+                                 the environment or public
+                                 safety.
+
+
+                             c. Ministry of Agriculture.
+                                 Fisheries and Food if the
+                                 main focus of attention is
+
+                                 safety of food supplies.
+
+
+                             d. Department of Employment if
+
+                                 the main focus of attention
+                                 is centred on the Secretary
+of State's responsibilities
+for the operations of the
+Health and Safety executive.
+
+
+The Scottish. Welsh or
+Northern Ireland Offices for
+incidents in these parts of
+the UK which come within the
+responsibilities of the
+respective Secretaries of
+State.
+
+
+Other possible, but less
+likely, candidates for the
+lead role could be:
+
+
+Department of Trade and
+
+Industry if main focus is
+on information about the
+industry involved and/or
+the economic implications
+of the disaster.
+
+
+Department of Health if
+
+the main focus is on advice
+to the public on hazards and
+
+their effects or on
+activities of the NHS
+(ambulance and hospital
+
+services).
+DRAFT
+
+
+
+
+DEALING WITH D ISA STERS
+
+HOME OFFICE GUIDANCE
+
+
+
+
+CHAPTER 7:   RECOVERY
+
+
+
+
+7.1   Recent disasters have shown the degree of damage and
+      devastation which can result.    Repair to the fabric of the
+
+      affected area may take a considerable time.    The effects of
+      a disaster reach beyond damage to buildings and the
+      environment, causing shock to victims, the bereaved and the
+      wider community which may still be felt years afterwards.
+      The relevant local authorities will take the lead not only
+      in carrying out structural repairs and restoring the
+      environment but also in providing social and psychological
+
+      aftercare and in rehabilitating the community and
+      facilitating recovery.    Even though recovery is a slow
+      process and may take months or possibly years, local
+      authorities may want to start the process as soon as
+      practicable after disaster has struck.    The recovery
+
+      process may therefore run in parallel with the later stages
+      of the initial life-saving and rescue operation.
+
+
+7.2   This guidance does not address the processes underlying
+      longer-term recovery.    There are various publications which
+explore the issues of recovery and rebuilding the
+
+community, and some of these are listed in Annex A to this
+
+chapter.     This is not an exhaustive list, but these
+publications will be helpful sources of ideas and guidance
+for local authorities and others as they set about
+providing practical assistance and long-term support to the
+community.
+                                                   ANNEX A
+
+
+
+
+Lockerbie:   A Local Authority Response to the Disaster,
+published by Dumfries and Galloway Regional Council,
+
+November 1989.
+
+
+Disasters:   Planning for a Caring Response, published for
+the Disasters Working Party by Her Majesty's Stationery
+
+Office, April 1991.
+
+
+Local Authorities civil Emergencies Planning Manual,
+published by County Emergency Planning Officers' Society
+
+1991.
+
+
+The Bradford Disaster:   The Administration of a Disaster
+Fund, by Roger Suddards, published by Sweet and Maxwell,
+1986.
+
+
+Disaster Appeal Scheme (United Kingdom), to be published by
+the British Red Cross, September 1991.
+DRAFT
+
+
+
+
+                        DEALING WITH DISASTER
+                        HOME OFFICE GUIDANCE
+
+
+CHAPTER 8:    PLANNING. TRAINING AND EXERCISING
+
+
+
+
+INTRODUCTION
+
+
+8.1     Previous chapters have described the combined response to
+        disasters in order that those responding can see their
+        contributions in perspective.   Advice is now offered on a
+        combined approach to 3 aspects of preparedness - planning,
+        training and exercises.
+
+
+8.2     The foundations of the combined response are the
+        preparedness and expertise of each of the local emergency
+        services and of the appropriate departments within the
+        local authorities.   The effectiveness of the response
+        depends to a large extent on these being brought together
+        both in preparing the response and putting it into action.
+
+
+SENIOR COORDINATING GROUP
+
+
+8.3     Based on established good practice, an arrangement which
+        can be recommended is for the chief officers of the
+        emergency services and local authority chief executives to
+
+
+
+
+                                                                 ^   /v
+      meet at intervals to consider such matters as plans,
+      procedures, joint training and exercises.     (This is, of
+
+      course, similar to the senior command group referred to in
+      Chapter 2, paras 2.17-2.19 and is likely to comprise many
+      or all of the same people.)     It is recommended that the
+      senior coordinating group should be assisted by a working
+      level group or groups as necessary.
+
+
+PLANNING
+
+
+8.4   The senior coordinating group will be well placed to
+      harmonise the plans of the services and organisations
+      which make up the combined response, and any joint plans
+      which may have been compiled.     One particular plan which
+      is likely to require attention is that on relations with
+      the media.   Chapter 4 indicates the scale of response
+      which is likely to be required.     It is suggested that the
+      media plan is prepared and updated in conjunction with the
+      Regional COI Office and is integrated into all other plans
+      for the combined response.
+
+
+8.5   Chapter 5 describes the voluntary sector's contribution to
+      the combined response.   Again, the senior coordinating
+      group may want to check periodically on the progress of
+
+      plans covering the voluntary sector.
+
+
+8.6   It is suggested that the senior coordinating group also
+      include cross-boundary planning in their oversight of the
+      combined response.   Disasters may well affect more than
+      one local authority area.    Prior arrangements for mutual
+      aid, and some compatibility with the plans and procedures
+      of neighbours, are certain to be valuable in the event of
+      a widespread disaster which spans boundaries.
+
+
+8.7   Planning should recognise the need to sustain the response
+      at an unusually intensive level.   Reference has already
+      been made in Chapter 4 (para 4.33) to the possible 24 hour
+      nature of media demands.    A round the clock response is
+
+      not necessarily limited to the emergency services'
+      activities at the scene or to the media.   Arrangements
+      should be devised to enable the response to be maintained,
+      whilst at the same time recognising the need to relieve
+      those engaged in it.   Where this involves personnel not
+      normally associated with a 24 hour shift pattern, thought
+      should be given beforehand to shift systems including,
+      when necessary, mutual aid arrangements.
+
+
+JOINT TRAINING AND EXERCISING
+
+
+8.8   Planning should be underpinned by training and exercising
+      and, collectively, the senior coordinating group should
+      oversee the multidisciplinary aspects of these activities.
+      Although they are inter-related they are, for ease of
+
+      presentation, considered in turn in the following
+      paragraphs.
+SUBJECTS WHICH MAY BE INCLUDED IN JO IN T TRAINING
+
+
+
+8.9   For the police and fire services and some of the NHS
+      emergency services, responding to disaster can be
+      considered as part of their day-to-day work.       For others -
+      local authorities, the utilities and industry - the
+      response may be an extension of normal roles.       For some
+      groups such as volunteers and military personnel, the
+      response may be unrelated to normal day-to-day activities.
+      There are, however, key training topics listed which are
+      likely to be relevant to all who may be involved in the
+      combined response.    These are:
+
+
+      a.    Awareness training.    This is a universal requirement
+            for all who might be involved, however remotely, in
+            the disaster response.       Attention should be drawn to
+            the impact of disaster, to the numbers of victims
+            which may result (including anxious or bereaved
+            relatives and friends) and to the potential scale
+            and complexity of the response.       For the emergency
+            services, awareness training will cover in more
+            detail aspects of joint operations at and around the
+            disaster scene.    For local authorities, the emphasis
+            will be on how departments can combine to support
+            the emergency services in the initial stages of the
+
+            response whilst maintaining essential services and
+            preparing to recover from the disaster.       For others
+
+            a general familiarity with the combined response
+
+            will suffice.
+Training in liaison and coordination.     This should
+
+highlight the importance of liaison and coordination
+in the planning and execution of the combined
+response.   Good practice# conveyed through joint
+training, is crucial in improving the combined
+response and removing possible obstacles to an
+efficient and effective joint response.
+
+
+Communications.    These have sometimes proved to be
+inadequate in previous disaster responses and so
+deserve to receive attention during training.
+Subjects for training might include:
+
+
+      compatibility and inter-operability of the
+      various communications systems within the
+      combined response, and the need to avoid
+      mutual interference when transmitters are in
+      close proximity;
+
+
+      familiarisation with other organisations*
+      forms, terminology and call-out arrangements
+      where these are different;   and
+
+
+      information technology and information access.
+
+
+Media relations.   In addition to the training
+
+required for preparation of the media response,
+             practical training in interview and news conference
+
+             techniques is likely to be of considerable benefit.
+
+
+       e.   Recognition of stress.     Social and psychological
+             aftercare following a disaster has already been
+             mentioned in Chapter 7 in relation to recovery.
+             General training should be given in the recognition
+             of stress both in the victims of disaster and in
+             those responding and in appropriate referral of
+             those suffering.
+
+
+       f.   The international dimension.     Included in this are:
+
+
+                    problems arising from disasters in which
+                    casualties include a large number of foreign
+                    nationals;   and
+
+
+                    EC and other directives on issues such as the
+                    transportation of hazardous material.
+
+
+             The need for training in this area is likely to
+             increase with the introduction of the Single
+             European Market in 1992.
+
+
+TYPES OF TRAINING
+
+
+8.10   Some of the ways in which training for the
+
+       interdisciplinary aspects of the combined response may be
+       achieved are listed below:
+On-the-iob training.     Those using this form of
+training include local authorities and also hospital
+staff.     Training may take the form of in-house
+lectures, discussion periods, computer-based
+simulation of disasters, and instruction on how to
+operate emergency centres.
+
+
+Home Office colleges.    The Emergency Planning
+
+College at Easingwold provides a range of
+interdisciplinary training in the form of seminars,
+workshops and courses.    The Police Staff College,
+Bramshill provides a disaster management course
+primarily for police officers.    Details of training
+available at the Home Office colleges may be
+obtained from the addresses in Annex A to this
+chapter.
+
+
+NHS/Medical.    At least one county-based ambulance
+
+service and the British Association of Immediate
+Care Schemes run courses on the command and control
+and the medical aspects of the disaster response.
+
+Further information can be obtained as shown in
+Annex A.
+
+
+Academic institutions tend to run specialised
+courses.    Some of the institutions offering courses
+
+are listed at Annex B to this chapter.
+       e.    Other seminars. A large number of seminars are run
+
+             by many different organisations and address various
+             topics related to the disaster response.    Details
+             are usually advertised by the organisers.
+
+
+JOINT EXERCISING
+
+
+8.11   The need for joint exercising cannot be over-emphasised.
+       Joint exercises test plans and procedures, provide
+       practical training in the combined response and enable
+       working relationships to be formed between those likely to-
+       be involved in the disaster response.   The senior
+       coordinating group may therefore wish to draw up an
+       exercise schedule for the local combined response.
+       Exercises may take a number of forms, for example:
+
+
+       a.    Computer-based simulation. As various forms of
+
+             information technology become established in
+             operations rooms and emergency centres, this type of
+             exercise may be particularly helpful in enabling
+             commanders and operators to practise in their
+             operational environment.
+
+
+       b.   Table-top exercises.    These can be particularly
+             cost-effective.   They can be designed to exercise
+            the command and control of the overall combined
+            response, or any part of it.    It is important in
+
+            table-top exercises to be realistic and not to
+
+             ignore the physical difficulties which, for example,
+             deployments and communications present.   Similarly,
+
+             the need for a media response must not be forgotten
+             even if it is not being included in the exercise.
+
+
+       c.    Live exercises.   These can be resource-intensive and
+             should therefore be planned and prepared carefully.
+             They are, however, the only reliable way (short of
+             responding to a real disaster) in which to test
+             procedures and liaison processes and to incorporate
+
+             lessons learnt into revised plans.   It is
+             recommended that the media response is included in
+             live exercises.
+
+
+FREQUENCY AND COST OF EXERCISING
+
+
+8.12   It is recommended that each local response should be
+       exercised live every other year with a table-top exercise
+       every year.
+
+
+8.13   It may be possible to reduce the cost of exercising by
+       combining with a variety of mandatory exercises which a
+       number of agencies carry out.   Examples include:
+
+
+             exercise emergencies involving nuclear installations
+
+
+             HM Coastguard emergency exercises
+
+
+             airport emergency exercises
+             port/harbour emergency exercises
+
+
+             British Rail emergency exercises.
+
+
+SUMMARY
+
+
+8.14   Plans are more effective if they are prepared on the basis
+       of knowledge of others1 plans and procedures.     Regular
+       meetings between emergency service chief officers and
+       local authority chief executives as well as meetings
+       between those at working level will facilitate this.
+
+
+8.15   Planning is underpinned by training and exercising.     A
+       multidisciplinary approach, when appropriate, will enable
+       those involved to get to know each other and foster a
+       confidence in each other which will enhance the response
+       on the day.
+
+
+8.16   Exercises may take a number of forms.     They are the only
+       validation of plans available, short of a real response,
+       and their importance cannot be over-emphasised.
+                                                        ANNEX A
+
+
+
+
+COLLEGES FUNDED BY THE HOME OFFICE PROVIDING INTERDISCIPLINARY
+TRAINING IN DISASTER MANAGEMENT
+
+
+
+
+Emergency Planning College
+The Hawkhills
+
+Easingwold
+York Y06 3EG
+Tel:   Easingwold (0347) 21406
+
+
+
+
+Police Staff College
+Bramshill House
+Nr Basingstoke
+Hampshire RG27 OJW
+Tel:   Hartley Wintney (025126) 2931
+
+
+
+
+[NB:   Contact address required for BASICS/other health service
+training]
+                                                      ANNEX B
+
+
+
+
+ACADEMIC INSTITUTIONS OFFERING COURSES IN DISASTER MANAGEMENT
+
+
+
+
+Bradford University
+
+
+Cranfield
+
+
+Institute for International Research
+
+
+Oxford Polytechnic
+
+
+Southampton Institute of Higher Education
+
+
+
+
+[NB:   Others to be added?]
+

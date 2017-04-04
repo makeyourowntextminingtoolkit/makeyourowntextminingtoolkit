@@ -1,0 +1,70 @@
+                                                                 H 3 /ia
+
+EXAMINATION OF BARRIER 124A
+
+1. Barrier 124A was examined by RLSD staff at Hillsborough Football
+Ground on 17 April 1989. Various parts of this barrier were taken to the
+Sheffield Laboratory on 24 April 1989 for detailed assessment. The
+following is an interim summary of our findings:
+
+2. It was deduced that barrier 124A had consisted of a continuous
+horizontal tube, made from wrought iron, and four vertical supports each
+made from two lengths of steel angle section joined at the top by a
+steel gusset plate. A reconstruction is shown in Figure 1. The barrier
+had failed apparently by partial collapse and fracture of supports 3 and
+4, and by fracture of the horizontal tube at supports 2, 3 and 4, as
+shown in Figure 2. The portion of the tube which been located between
+supports 2 and 3 had been bent uniformly to give a maximum permanent
+deflection of 133mm at midspan. The portion of the tube which been
+located between supports 3 and 4 had been bent uniformly to give a
+maximum permanent deflection of 200mm at inidspan. Barrier 124A was
+estimated to be approximately 60 years old, although it had received a
+number of modifications during its lifetime.
+
+3. The tensile strength of the wrought iron tube material was measured
+at 365MPa (23.6 tonf/in ) with an estimated elastic limit of 150MPa (9.7
+tonf/in }. The tensile strength of the mild steel angle used for the
+supports was measured at 360MPa (23.3 tonf/in ) with a yield stress of
+288MPa (18.6 tonf/in ).
+
+4. The tube fractures had occurred in areas which had been located under
+the metal straps designed to retain the tube. At these locations the
+tubes had not been painted, and the tube wall thickness, nominally
+4.5mm, had been reduced significantly by corrosion. At the fracture
+surface corresponding to support 2 the residual thickness of the tube
+wall was found to vary from 0.4mm to 4.4mm around the circumference.
+Similarly at the fracture surface corresponding to support 3 the wall
+thickness was in the range 1.6mm to 4.5mm. At support 4, however, there
+was evidence that the tube wall had been perforated by corrosion at two
+locations producing holes which would have been approximately 10mm and
+20mm in diameter before the collapse. Elsewhere, around the fracture
+corresponding to support 4, the wall thickness was in the range 1.1mm to
+4.5mm.
+
+5. In general the appearance of the tube fractures was typical of
+wrought iron which had fractured in a single-stage bending/tensile mode.
+Fracture of the tube adjacent to support 3 appeared to have initiated on
+the uphill side of the barrier at a position approximately 90 from top
+dead centre. The other tube fractures had suffered some post-failure
+damage the origins were not readily identifiable.
+
+6. The failed supports had been corroded, particularly at the junction
+with the concrete steps and/or reinforcement angles. In these regions
+residual thicknesses in the range 3.1mm - 5.9mm were measured compared
+with a nominal thickness of 6.3mm.
+
+7. A relatively large amount of metal had been lost by corrosion from
+supports 3 and 4 near, what would have been, the original junctions
+between the support feet and the terrace. On two of the four feet this
+region had been reinforced by the addition of a length of metal angle
+which had been bolted on top of the original angle from which the
+support had been made. The height of the concrete terrace had been
+raised at some stage and this had concealed the previous corrosion
+damage. The appearance of the concrete cores, extracted from near the
+support feet, was consistent with this observation.
+8. Calculations to establish the force required to cause the collapse of
+barrier 124A, and the collapse, sequence are currently underway.
+
+9. One the remaining barriers in the Central Pen will be tested to
+destruction in the near future in order to validate the calculations.
+

@@ -1,0 +1,533 @@
+Dr C Nicholson
+D/D SELi
+
+
+HILLSBOROUGH INVESTIGATION - BARRIER TEST AT HILLSBOROUG~
+
+
+During yesterday’s meeting with Prof Smith the arguements for and
+against performing a test on a crush barrier at Hillsborough were
+discussed. Points for consideration are set out below"
+
+Points for"
+
+i) The test may be desirable for political reasons i.e. to demomstrate
+to the public that the Inquiry has attempted =o repeat the failure.
+
+2) As a check on calculations, in particular to resolve uncerr, a’inty over
+wrought iron material properties.
+
+3) Feedback from a test could be used to refine the model and c@iculations.
+
+4) In the absence of suitable equipment at’P~L~D, a barrier test consul=ant
+e.g. SGS, could perform the test under RLSD supervision.
+
+5) It might be possible to "reserve" a selected’b~rrier so that the test
+date could be deferred to enable RLSD to procure equipment.
+
+Points against:
+
+i) We have already obtalned a good estlmate of barrler coll:a1~se. ,f~ir~" e,
+in which we have a high degree of confidence. This result (’~’~2~" k~/m)
+has been arrived at independently by RLSD and Prof Smith, and "is
+consistent with Eastwoods’ test results (16/4/89).
+                                                              . "-’T~
+2) The sequence of events (order of collapse) is also known and agreed.
+
+3) A test cannot hope to simulate crowd loading i.e. different~l~a~ngs
+on each span and "angular" loadings.
+
+4) D~namic effects cannot be monitored on site i.e. it wouldnot be
+possible to maintain the strain rate.
+
+5) RLSD does not¯
+              ~.,
+                  have suitable equipment at present ,..
+                                                      and,.
+                                                            t~is’could not
+be ass~mbled wi=hin the probable timescale.
+
+6) The tes=s could be done in more controlled: manner, and mbre accurately,
+at RLSD.
+
+
+
+
+Met &.Mat Section
+4 July 1989
+
+
+
+                                                             f
+ D Nicholson,
+         Hillsborough Disaster
+
+         Telephone call from Mr M J Jones ACC Nest Midlands 30 June 89
+
+ Mr Jones has been asked by SgFC when the Nest Terrace can be released. He is
+ aware of the filming scheduled for July llth and would like to know if a
+ decision has been made on whether or not a barrier will be tested in situ and
+ if so if the test will be filmed. I said we had not made a final decision on
+ whether a barrier would be tested in situ but that we would prefer not to be
+ filmed. I told him of our proposed meeting with Prof Smith on 3rd July and
+ that we were likely to make a final decision on barrier testing on that day.
+
+ My impression is that he would like to release the Terrace very shortly and if
+ possible bring the filming date forward.
+
+ Mr Jones will phone you on Monday 3 July.
+
+
+
+
+ My own view is that no testing should be carried out at Hillsborough but that,
+ if a test is still deemed necessary, a barrier of similar design to the failed
+ barrier should be removed from the Terrace and tested here in the Laboratory.
+ This would enable us to set up a test with sufficient instrumentation to
+ measure all the relevant strains, deflections and forces. If we were to test
+ in situ we would have to borrow the Eastwood Rig and, in the limited timescale
+ available, could only carry out fairly basic measurements. If necessary a new
+ barrier could be fabricated and tested and the results compared.
+
+ The failure load of the collapsed barrier will never be known but we can
+ deduce an approximate value. Ne know that the barrier survived a test force of
+ 6 kNlmetre in July 88 and Dr Eastwoods tests on barriers of similar design gave
+ substantial deformations at about 7 and 9 kNlmetre. From these facts alone
+ an estimate of the failure load of the collapsed barrier is about 8 kNlmetre.
+ If calculations or tests gave values outside a range of 6 kNlmetre to I0
+ kNlmetre I would doubt their value; however calculations and or tests on
+ uncorroded barriers could be useful.
+
+ I would have thought that SNFC are likely to remove all similar barriers in
+ the Nest Terrace and replace them with ones of the latest design positioned so
+’that they conform with the Green Guide. In which case SNFC are unlikely to
+ object to our having one or more of these barriers to test in the laboratory.
+HILL~BOROUGH INVESTIGATION -   BARRIER SURVEY
+
+
+Pens 3 and 4
+
+
+Selection criterion                       Barriers qualifying
+(all apply to 124A)
+                                      2 span                3 span      6 span
+
+Old style                          136A, 137          125, 128           136
+
+No bracing on support legs         136A, 137                             136
+
+No welding of straps                      137         125     -
+
+Perforated by corrosion                               125, 128
+
+Not tested 16/4/89 (Eastwoods)     136A               125     -          136
+
+Not passing through/jolned
+to radial fence                    136A 137                   128
+
+Curved gusset plates (all)
+
+Support feet reinforced                                       128
+
+
+Other pens at Leppings Lane end
+
+The following barriers are not "angled", have open ends and the tubes
+have been perforated by corrosion:
+
+
+                                  134, 123, 128A*                       129
+
+*excessive corrosion of tube end adjacent to radial fence.
+
+These barrier have yet to be checked against all the criteria listed
+above for Pen 3 and 4 barriers.
+CHECK LIST FOR BARRIER EXAMINATION
+
+Location
+
+Barrier number
+
+New or old style
+
+Number of spans
+
+At each joint/support:
+
+           Jolnt/support no.                          4
+
+           Feet reinforced
+
+           Any bracing
+
+           Welding
+
+           Inserts
+
+           Replaced strap
+
+           Tube overhang
+
+           Type of gusset
+
+           Deformation
+
+           Corrosion - tube
+                       gusset
+                       legs
+
+At each span:
+
+           Span no                  1/2   2/3   3/4
+
+           Deformation
+
+           Welding
+
+           Corrosion
+
+Other features:
+
+           Passing through radial fence
+
+           Joined to radial fence
+HILLSBOROUGH INVESTIGATION -   BARRIER SURVEY
+
+
+Pens 3 and 4 only considered so far
+
+
+Selection criterion                       Barriers qualifyin~
+(all apply to 124A)
+                                      2 span               3 span
+
+Old style                          136A, 137         125, 128, 136
+
+No bracing on support legs         136A, 137                        136
+
+No welding of straps                      137        125
+
+Perforated by corrosion                              125. 128
+
+Not tested 16/4/89 (Eastwoods)     136A -            125 -          136
+
+Not passing through/jolned
+to radial fence                    136A   137               128
+Curved gusset plates (all)
+
+Support feet reinforced                                     128
+                            .." ~.~_~ ~~.~
+                                      o,,J..
+                                           I ~_~.
+                                                .............
+                                                  _j..~.                /.t.t. ,/
+          ............................................    ~~.:..~
+                                                           ’?h~,.._e ....
+
+                                   ~. 3   "+ ! .... : .L ~ " . .~ 4                          z   34
+¯_ j;~
+                                                                                                             ./ .
+
+
+     m,
+
+
+
+
+: -,:,,. 6 ~..-.
+
+
+
+
+                                                                                                              o
+
+
+
+                                                                                                           ~.,-~,,.~;,
+                                                                                                                     /
+
+
+                                                                                                       ....., ~#./
+                                                                                                      ¯ ?~. ~" ~.....,
+
+
+
+
+             _/3_~ .......
+                                                                                                              "I
+
+             !.~   ,,,’ u..’ " "
+                                                                                                                  / /
+
+
+
+
+                                                                               ........ ~i,~ "
+-- : ....~ ..........~---: ................":-:~.-:--::~ -:-:--:~:::-:---::.::::~: :.~i:.: ~:i:-- .-~!!=- -!!-~::.! :i~--:.: =--:!-.- =:!: ....
+                                                                                                                                            -: .i!~=- ~-~!! ~.~ .........
+                                                                                                                                                                       !" -! !:! .... .: ....                                                                                                                                               "~===I:: ::-=j .:=- =’~’ -~=
+
+
+
+
+  :     .̄ ...: . . . .. ..... : ................ -..~ .............: ........
+                                                                       .¯....
+                                                                           ........
+                                                                             -._..=~....=_.-~
+                                                                         ~:.:-:::             =--:-:.-~:j:-
+                                                                                                ...............
+                                                                                     .:: :.:-:-:--:~           -~-..-
+                                                                                                                  ......-..-
+                                                                                                      ~ ...... .-:.        ::....
+                                                                                                                         ..............
+                                                                                                                                -::.I. :...L ::.,:
+                                                                                                                                         : ......
+                                                                                                                              .:.=--:--:---.       .... : .......
+                                                                                                                                             ...........
+                                                                                                                                                .=.b._:=~.._-
+                                                                                                                                                   :-_<:-:-~  ...
+                                                                                                                                                                -
+~...~
+  : .....
+     -:....
+        ~.........
+              .~- : ~-~_~:_~ ~-_--.~-.=.:::~                                   .--.-~.~.~.-:.--~:~:_.~:::.:--i-:-:-:-::::                          ....
+
+                                                                                                                                                                                                                                                                        ~’~iL~- :-’~" .......................................                                                                                 ~ ................................
+’        "" " :          " ;-:’: ’; " ’" " " ’ : "                                          ]                        " ~ .....................................                                                                                                                                                                                                               I ...............
+
+
+
+
+    ......
+      :.:    ....
+         L__--..~.     i. ::._~i.._!=6:-:=~;4_7~iki~-                 (~=.-- ~ ~<:_;~:~=~-_:=i..:<:i~-_=~,~i:<~ic~<:      :~ : ......
+                                                                                                                                ~,~-:.~:~>~:~:--~                  :                                                                                                                                                                                       ~ ~:.~::::::!:L~ :~:,:::::; !
+      .:   . : :, t!IM.
+                    . ..... ; . .-:
+                                 : - :.::   ....!.... -..__-
+                                        .: ......         : ¯ :-:..-.-._.:
+                                                                   : .-. : --:-: .... ::-:-:.-:,:-.. :- .: .::::,::::--:-,:::::
+                                                                                                           ! ............           :-::;.::-::-.:.:::.:
+                                                                                                                                                    : --] :-.:
+                                                                                                                                                          ...... -
+                                                                                                                                             -: : "! ::::::: ~       . :---. ........
+                                                                                                                                                                                                                                                                                                                                                                       - .--:- :-:-:i.---=~:--~:
+                                                                                                                                                                                                                                                                                                                                                                                           ~ .......,
+                          ; : ; .......                                                                                                                                                                                                                                                                                                                                                       ~
+         ........ --:
+                  :-:--:-,’~.,~4~
+                      ’     ¯     ~ ::o
+                                     -’. --~---f,,:,#-~)
+                                          ....... :    ~.-!::~: -:~-:_~:--:---!< -°’D:.~!:~: -~..~..:-~
+                                                                     - -~ -.~;L::,,:I,,
+                                                                                                                                                   1 ¯       ~ .....
+                                                                                                                                                       ~ ~.:: ..........
+                                                                                                                    ..- -...-.:="’r,,F/v~..~.:-..-,t’ie_~;---:.:.-::~:
+                                                                                                                                    ..................                                                                                                                                                                                                     ~i~=:=:~t~-:i~-~-<¢/ii.~,          .... . _
+                                    ...........                                ~f9 . "~ .. ¯i : ~/~r-.-:!      ....~-/"::-:-.::
+                                                                                                  ri r ............................         ~                          c.M-:!
+                                                                                                                                                               " ........                                                                    r- .. ¯                " -- -.        ...... ~. - i .... ’                       .. ., ¯     ¯                :/",,~ PJi,..~-.-!-:.:--..:.--~,,.~~.._~:=_.L-:.-!-: :-::-
+                                                                                                                                                                                                                                                                                                                                                            - -.~ . --. ~ ...... :                                    ; .v~r~’~. . ,, --~ :=. .~. T" ~ "                                 ’ ..... ~ ......
+          .........                                    .............                                                                                                                                                                     ! ...... ~ ..... i ..... ; .......         ~ ......................                              ~ ...... :.::: :
+....     ".....
+            ..........                    :: .... 0_ .....     :::-_~’~ .~-
+                                                                        :~_:~.: _ _:_ ~.?, _.                                           :’ i._:i..:-- _2_ ~ _!- : _ -:  :_:  _::~    ::::-::=._. : ._i_:_:~  -, :::!: .:.:. -- -. :--. : ::::::::::::::::::::::::::: .-.-:: ’- .--.:L::_2:     :_.~:__:=.i:~:_:      -L::L::J:_-~::-.: -:’:,:~.~-::::---
+                                                                                                                                                                                                                                                                                                                        ...-’~:--~I::~;~~---
+          ¯         ¯ :" ...... I~
+                                 ..  ....            ¯  . :            :
+                                                                            ._
+                                                                             : ¯ :.,.: :- ~ ’                                            !
+                                                                                                                                              .. -::- - : : .-..
+                                                                                                                                             .!                   : : ,,,
+                                                                                                                                                                       : -,:::-:.--:
+                                                                                                                                                                                 ,.::,,..--:.
+                                                                                                                                                                                        -:-- ~-::--:~::::.
+                                                                                                                                                                                                   -              :-: -::: :.._,- :- -::~::
+                                                                                                                                                                                                        ,..,~-:-:.:.::-..=..~.--:.---.,.-                 ....C,.l~:-.: _~,
+                                                                                                                                                                                                                                                     .= .-v
+                                                                                                                                                                                                                                                . :t-::
+                                                                                                                                                                                                                                                                                . ,: -                    -:~l:.-..i+i~
+                                                                                                                                                                                                                                                                        .r., :.- ---:-- -:. ..: .... l~l~,a~::-~a,’~,~-,l~,:--.i
+                                                                                                                                                                                                                                                                                                                                               :: ::
+                    ........                                                                                                                              : ....................................                                           : % ...... :--~ .... :- -:-;.::I ~:i!:i ~:::-
+                                                                                                                                                                                                                                                                                   .... !~:.!.::-!-~!:I :":i~:~!:!:-i:~
+                                                                                                                                                                                                                                                                                           ..... ’~I .......... ’ "-~ ~ :i-::-!::i:
+                                                                                                                                                                                                                                                                                                                        ..................................
+                                                                                                                                                                                                                                                                                                                                     ’!:: ’ ¯ ! ! .... ! " !::::: -::! -- ::.: :-~ i--::!~::::-:;.~!i~i
+                                    :              --                - ’,- .          : " 1-,. :                                 -:                       :1,0 ~- - :--: : [,," :: -                                                                                                                                                                                                  : ............ ;-
+
+
+
+                                                                : .....
+                                                                    :         ’ ::-:
+                                                                                 .... :--:: :; ........ ..... ..... : .....
+                                                                                      ..........
+                                                                        :; ............
+                                                               ~,             _        ." ................                              : ....... : ..... : .........................                                                                               : ....... : .... :..~ ...... !. .                  .~. :.: .i ..... :._.i_ .i .... :.::: .... :..: ....
+                              l ~r
+
+                               lsg                            o                         3.(,~+                      ~o                                    o-~! ....~’~--s--~’c~                                                                                     4 .:                                                            t9 ~ ~. _. _-~:                                                             ~L:d___ ,..~ ~i ~.’T~-".,..,,.,                                                                  I. II
+
+                                                                                                                                                                                                                                                                                         :                                                                                                                     : m~~ ~-.~,~,r ,-.~.,~.~.
+                                                                                                                                                                                                                                                                    :   ’"    ": .....                                                                                                                                                     :                                                            :"
+                                                                                                                                                                                                       .                                                                                                                                  r.: "~-:--i
+                                                                                                                                                                                                                                                                                                                                                 --:
+                                                                                                                                                                                                                     "                                                                   " .....................                                                                                                                                      ¯ .....    I ..........
+
+
+
+                                                                                                                                                                            ~ ~                 ~:   .........
+                                                                                                                                                                                                       ~      -                                 . ,: ........:-,   .~ ....~.:                                                        ~ i ;~
+                              /~                              ~                         *.~7                        ~o: ....                                  I’~.                                         :                ;                                                                                                                                                                                                                                                                           i
+
+                                                                                                                                                                       _ _, ..........                             ~._i’:..~: .....:.~:_:_- :i   ......:;
+                                                                                                                                                                                                                                                      ......
+                                                                                                                                                                                                                                                          .~~~_.i
+                               ~                              ~                            ~,~.~              _ ~o..._                                        1, o~. :      .~s.:.-
+                                                                                                                                                                              ¯
+                                                                                                                                                                                   ~     : ._.~::~:::__T~:g__:.__i
+                                                                                                                                                                                                  .....            ~.:~__.::                   ~.,.i   ............
+                                                                                                                                                                                                                                                         .~::~.:.~_~__-__..~.
+                                                                                                                                                                                                                                                             "~i...: ....
+                                                                                                                                                                        . :        i ’. i . ::.: i ::.:t .....     ~: ! :    ’ " i " : .......
+
+                         . I~                                 ,,~                          a ’~,~,
+                                                                          .......................... :              ~                                         1,/7....: :&
+                                                                                                                                                               - -...
+                                                                                                                                                                                : " : .... ...::--
+                                                                                                                                                                                      ¯ ................
+                                                                                                                                                                                                                :
+                                                                                                                                                                                                         ..... "I
+                                                                                                                                                                                                                   : ,
+                                                                                                                                                                                                                  -:     .:: .....
+                                                                                                                                                                                                                                    : ~.
+                                                                                                                                                                                                                                    :
+                                                                                                                                                                                                                                                                   ! . ~ ~.....
+                                                                                                                                                                                                                                                                        ""
+                                                                                                                                                                                                                                                                              :......                              - .................................................................
+                                                                                                                                                                          :   .                .i                                                                                                                                                                                                                                                                                                       !
+
+                                                                                                                                                                                       : ¯ .!                            :! : :-:               "       : "’".l         ":T::-L::!~::i".                 ¯         "                ""    ~’ : .’: .’:"..i               .        :                           :.          "                ii !:."-                     !- ::-i . . ’!
+                                                                                        ~’~.W’ .......                                                                     ,.                                                                                                  ,... :~......                            .           :      : ......            ." ::......                                                 ..        :
+                                          .                                                 .          ~        "       " .          ""          ". ."                  . ........                                                           " ......         : :~       : ~:- . .....                                          !         _’. ....                                                                   . ............ :             :         I          ] ::~ ...~ ::
+
+                                  ~ F~,- c,,-~-,,-~,~ ............                                                        , ............. :_-i.=:_-_~_:! ...........
+                                                                                                                          :
+                                                                                                                                                         .......
+                                                                                                                                                            :: ff,:i                                   !-::::! <!-:-::; " i-:’ ::-::<i: :: - _::::: .i_:.::_ .!_:.:-__::_.._ ~..
+                                                                                                                                                                 ........~-,~-F<-~-::--:-;--:i .....: ....                                                 . ....              ,..
+
+
+                                  "~ ~#o,~  ~ r.e~e~." ".....
+                                        " " --
+                                                                                                                          ;_"5.:                                                                      ; ~F__."- I:"o,~ :.’: i:.i..::::i~:.: _---:i-.-:-’..:.  i: ’.:::: :           --.-: _.-:__:_._: ::_ i. 2!_..: _ :::. :_:;" :                                                                                                                                                                    ":: ....
+                                                         ". "                                                           - ~:--: ~-:::-.i . ..................... ": .... :’-".- . 51 ::~=--~-:’-:--’:-!-:-: ....                                        .-::: "-." -:7-. "-:- -: ......--- - :... " :- T .’-’ ..... :- : :
+                                                                                                                :;..-........-  ¯            -            " ....                                                                ~,             II,.,T~-’-.--:/,~./           :- : :: ¯                                              "      :           "           :              :" : . : ......                                          :                :          :            "¯         "’                     ,
+                                                                                                 .._                    ..-             ¯                ..                ; ......                                             Ir.~            ~w’~-~f’a ~,,,’T]~ ~. 7 ....     ~ f~’~.;~":. ._- ::-: " ¯ _-.." ¯ :: " -:~ ..: ! : .u:                              ,                                         .          :               ’"
+                                                       ....................... .                     _L.___=_. . .......... :’... :. _{.... .! ........                                               = .... :_:~_: .d,,._:_~.__J~r~___’_.,._._.:__-._. : ...... :_" .... ::_:=__- .....:_..:; ......... =_.._:__- ...... ~ ...... : ....... : ........... :..:£ ¯ :=~ ..... {.--
+                                                                                                       ....... ¯                 - : .:                ¯             -.                                    ~ : .i,/ ~"/~:-;!~.~::.~:: .::--: : " ~::::: :!.: :. _ ~ .i..i : . -                                           "                                                                                               :- ~:                                        ~:.::i :: !
+                                                                                                                                                                                                                                                                                                                   "                                        "                                                                                                                            ’
+                                                                                                                                                                                                                                                                                                                                                                    : -.:--. -: :-~ _.:
+                                                                                                                                                                                                                                                                                                                                                                                     ’ -:--:   : : :-.:;----::~
+                                                                                                                                                                                                                                                                                                                                                                                                          !: :-! :::-~
+                                                                                                                          " ..... ........ ...........                                                         ,            , #.: " ,                                                   :."              1.             :           ,.     ’:     :                               ; ......
+                                                                                                                     ":          :
+                                                                                                                                 :      "
+                                                                                                                                                          :"                                               :                ’          ~   ....... _ : :~11 ._
+                                                                                                                                                                                                                                               /,l_:.,~..~_l.
+                                                                                                                                                                                                                                                                 ;-.:::~:;:-:. ":-"I "
+                                                                                                                                                                                                                                               ~,,.,,-,--:~=,.-,,<-,..-.,-. : ~ : :
+                                                                                                                                                                                                                                                                      - .. ~.
+                                                                                                                                                                                                                                                                i-; : :__
+                                                                                                                                                                                                                                                              :~1~         ::’I"- :-: "                   .            :: . .....::: ...... ! ..... : ......
+                                                                                                                                                                                                                                                                                                                                                      "      ! " h ...... : ...."        :: . .... i           i   .! ..... .
+
+
+    "" :      "      "                    : -- -i .....i-":: i " 7 i-:_:-:----..--:-~ ........~ : .... : ......... : ......i-: ......:T ......i- -:-:-:~=~::--i p--]:--;~~::<7-~ :::7-i-.::--i:-- ::i:::::i ::-i:i--~-:::::--~:T-:T!-:-:--T-:::::] ::2-.::i:~’<..".: ::YI’-::,: "-
+         "                                                          ":. .. i "                                                                                             ::;._.,~:..-,n :. r .... z . ’:- :! .. ’ .: : ..: : :: .! ¯   : ......   :’ .. : " .    " ~ " ~.
+     ’               "                    ::   .         :.                                 :"   " :" :" .:.
+                                                                                                           : .. :                    " :"          ... :        ".         .: ".       :" ¯ " ’;                     : ::.1-..:
+                                                                                                                                                                                                                       " ~-’~il, ./’IDa:        :
+                                                                                                                                                                                                                                    " l:,i,j~l~--lll~::~_.:,~,
+                                                                                                                                                                                                                                                        -: .... :~:Iir~!’."~" -"!t~
+                                                                                                                                                                                                                                                                                  .....’ : ~-.:                                            :._. _:. .. : .:- ..:..:::’ . : ::.::: : : ’:-::.." .......                                                                                   ,.. :          :    .
+         ’                :               ’.       "     :          ’."           ’.   "    ’.         ’.    ’ .:         :             :    .            ’.            . : : :-       :.       :.         :       :":’" ! ", -: ~" : V.::~.:" ; ::~:::::--:F -:: -~--’::"! -                                                    ": :    : -: :        : .. : :"              "- : ".    :::-" ::-:" :- ’                 ;¯      : ¯ : .... - ; ": :-                           ; :!        ": ¯                 "
+                          .        :          :           ’         .         :         :        :      :       :         " - ~¯               ¯         ’          :I..,-’-r,,,.:.:-*~--~-~-..:- t" - ., . ....; ........ {. :. !.                                                                                                       : .:         ; -.,                 : ’,        ... : .....           ! .-. v. :..! .::..: : I                                         ’ ....                  !
+                                  .i :. ! .... i . i : i ’ ! i .li . i :,. ¯ .: " : { :.-:/’; :~‘~’~’]~.~::.~:.~.::.i::::i::.::.!iI::.:i:::.~.:i.~.;i::i:.:;.:::i:;...~:.i:..:! .... .L.:!:!:F.::-:i ’i i ’{ ":i :-.i.i:!.!:-ii::i!. :i’ :::
+         :                -
+                          :               :
+                                " -: :-"; ..... : ’      : .                :  :: :       ~:
+                                                                    : .... : : : .... :": ......~    .  ~   .  ;:,                    ......
+                                                                                                                             :.:::::.-:::::           ::    ~                              ~ ........
+                                                                                                                                                                                   __ .......
+                                                                                                                ::: .... i ........ ! ........ : ....... + ........ ": ..... ::’::-’:~::~’!itt                      :-::         , ...... I ...... I : ’, .... :-~ ......
+                                                                                                                                                                                               :, ................. i ...... ~ ......
+                                                                                                                                                                                                                            ;~ ........
+                                                                                                                                                                                                                               ::’:
+                                                                                                                                                                                                                                        ~~ ";:.
+                                                                                                                                                                                                                                           .......
+                                                                                                                                                                                                                                                ., : :::!t:-~
+                                                                                                                                                                                                                                                         "’’: : :   :~ :....
+                                                                                                                                                                                                                                                                          ’.                                                                          "~ ": . -     :. "’".      . -. ":     : : :"’ . , .. ......            :: :’:’: ’ . ....                 .::.       ¯ ... ..          .:.: :
+
+                                               :..i ~ .!. :. i : ~: :: i ~..i..:..-.!.: . :::: ..: i. .i .~ :i .:! ..! - : -. t:.:::i:]~.~:~i!:t:.~.:{!:iJ:~:i: !:.~: :-:~:.:i..:!.:i-:::i~..~..:.::~ i: :t::i~:..i::~.~ :i .:i:::~::.i=_-l!::<t;:::i:~:!::~:_-qi~:!.::t::.:<
+                                                                                                                                                                                                                                                                                                                                                                                              1 ..............................
+Barrier 136A                                                                Barrier 125
+Joint I - an~sually wide strap which overlapped the end of the tube -       Joint i - overhanging tube, new strap not welded - new gusset plate - tube
+no welding                                                                  perforated by corrosion
+Joint 2 - slightly bent rear leg - gusset deformed by rust jacking -        Joint 2 - strap not welded, new gusset plate
+strap welded on I!IS (east) side only. There was a double-welded joint to
+RHS of the strap.                                                           Joint 3 - strap itself not welded but welded joint on RHS of strap - old
+                                                                            gusset plate
+Joint 3 - tube insert welded - insert visible on LHS of joint where a
+piece of the original tube had been removed, the insert had been welded     The tube passed through the railings into the RHS of the central pen
+to the two cut ends of the original tube - strap deformed and rear bolt     (4). A reinforcing outer tube (tack welded to the fence) was present at
+not tight.                                                                  the Junction with the fence.
+
+                                                                            Joint 4 - mottled surface, old gusset plate, rust Jacking - strap not
+                                                                            welded, some tube overhang.
+t~
+
+
+
+
+     Barrier 136
+
+     Joint 1 (east end) - some corrosion at feet, evidence of yieldlilg havliig
+     occurred on support leg near Junction of gusset plate and third rivet.
+
+     Joint 2 - Strap welded at both sides to tube - evidence of cracking in
+     strap material near junction with support strap.
+
+     Joint 3 - Strap welded at one side only - a 5" long tube had been
+     inserted - support not vertical.
+Barrier 137
+                                                                /   Barrier 128
+
+This barrier had been tested on 16/4/89 and the tube was bent       This barrier also had been tested on 16/4/89
+Max deflection between Joints I & 2 - i"
+Max deflection between joints 2 & 3 - 1.5"                          Joint i - tube perforated by corrosion, small amount of overhang
+
+Joint 1 - tube overhang, strap not welded                           Joint 2 - paint cracked around strap
+
+Joint 2 - rear support leg bent possibly cracked                    Joint 3 - strap welded on ~{S only
+
+Joint 3 -                                                           Joint 4 - very near fence - appeared to have a tube insert
+Barrier 144
+
+Joints i & 2 - Tube with blanked ends, -i" overhang, straps not welded
+Rear support legs Just touching a step. Rear leg of joint 2 braced.
+                                                                         Barrier 138
+
+                                                                         Joints 1 & 2 - tub6 overhang, rust Jacking at gusset plates
+
+                                                                         Joint 3 - end of tube covered with a reinforcing outer tube, the latter
+                                                                         welded to a plate in turn welded to the railings.
+                                                                    ’~_
+
+Barrier 127
+
+Joints I & 2 - 3" OD tube with blanking plates welded on the ends
+  some rust jacking. Rear leg of joint 2 braced.
+

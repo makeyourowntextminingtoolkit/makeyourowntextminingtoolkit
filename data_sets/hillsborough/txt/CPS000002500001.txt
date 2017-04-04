@@ -1,0 +1,171 @@
+                                                               R E C E IV E D
+
+From:               Chris Enzor
+                                                                07 JAN 2000
+To:                 chrisann                                    DIRECTOR,
+Date:               7 January 2000 4:15pm
+Subject:            Hillsborough                                CASEWORK
+Re counsel's advice.
+I remember a discussion with Dru over counsel's advice. W e were concerned that counsel had used a
+recklessness test rather than gross negilgence. I attach a note I did to Dru - unfortunately I am not sure of the
+date but my best guess is it was December 1998. This tries to analyse counsel's advicein relation to the
+subsequent case law in the shape of Adomako.
+
+CC:                 crostong
+Dru Sharpling
+CCP - Central Casework
+
+
+cc      Robin Booth
+
+
+                                                                     My Ref:
+                                                                     Your Ref:
+
+
+
+
+HILLSBOROUGH
+
+1.   I have been considering the point about whether Adomako should be applied
+     in this case and the extent to which the proper tests were applied by counsel in
+     the 1990 advice when they went on to consider what was the appropriate test
+     for involuntary manslaughter
+
+2.   In his review, George briefly set out the applicable law in chapter 4. I have
+     read and re-read Adomako this morning. The cases of Andrews and Bateman
+     in 1925 and 1937 respectively indicated that gross negligence was then
+     sufficient to found a conviction for manslaughter. The word ‘gross’ was not
+     used on its own but was given as an example of the type of negligence under
+     consideration.
+
+3.   All would have been well had it not been for the case of Seymour in 1983
+     where, in a driving case, the judge directed the jury in terms of recklessness,
+     as defined in Lawrence. The House of Lords agreed that this was the correct
+     approach.
+
+4.   Despite this, Lord Mackay, in Adomako, said that Andrews was ‘the most
+     authoritative statement of the present law’ and further that it was a ‘decision
+     which [had] not been departed from’. I find this a little hard to reconcile, but
+     the conclusion I am driven to is that Adomako clarified the law in that Lord
+     Mackay specifically described Bateman and Andrews as ‘satisfactory as
+     providing a proper basis for describing the crime of involuntary
+     manslaughter’.
+
+5.   I argue that Adomako did not change the law but clarified it.
+
+6.   Thus, in my view, the appropriate test to be applied is the Adomako test, as set
+     out by George in paragraph 4.2 of his review.
+
+7.   The next question is whether counsel applied the correct test in 1990.
+     Interestingly, one of the counsel who advised CPS in 1990 appeared for the
+     appellant in Adomakol
+8.    Counsel’s advice was principally directed to ‘reckless’ manslaughter, ie.
+      where a person causes the death of another intending to do an act which
+      creates an obvious and serious risk of causing personal injury (a) not giving
+      thought to the possibility of such risk or (b) having recognised there was some
+      risk involved, nonetheless going on to take it. Clearly this is not good law
+      now.
+
+9.    Counsel went on to say (paragraph 59 of the joint opinion) ‘it may also be
+      manslaughter if the person causing the death intends to do an act, or omits to
+      do an act where there is a duty to do so, being grossly negligent whether death
+      or serious personal injury results’. In my view this is an adequate enunciation
+      of the principles now set out in Adomako.
+
+10.   Counsel went on to say that the law was uncertain, and made reference to
+      Seymour and also Kong Cheuk Kwan. Counsel particularly noted that in the
+      1986 case of Goodfellow, it was said of Kong Cheuk Kwan that the question
+      was whether the defendant was ‘guilty of recklessness (or gross negligence)’.
+      Counsel then went on to say that they considered that the gross negligence test
+      was sufficient to establish the offence of manslaughter.
+
+11.   Unfortunately, the matter does not stop there. In the 1990 advice, counsel
+      referred to the case of R v West London Coroner’s Court, ex p Gray. The
+      Divisional Court held that a Coroner should direct the jury in the following
+      terms where the death is alleged to have been caused by neglect by the police:
+
+      11.1 That they had to be satisfied of four ingredients, namely (a) that the
+           police were under a duty to have regard to the health and welfare of the
+           deceased, (b) that in the circumstances there was a failure to do what
+           should have been done for the health and welfare of the deceased, (c)
+           that the failure amounted to a substantial cause of death, and (d) that the
+           failure amounted to recklessness.
+
+      11.2 That the test of ‘recklessness’ was whether a police officer, having
+           regard to his duty, was indifferent to an obvious and serious risk to the
+           health and welfare of the deceased or, recognising that the risk to be
+           present, deliberately chose to run it by doing nothing about it
+
+      11.3 That a failure to appreciate that there was such a risk was not itself
+           sufficient to amount to recklessness and
+
+      11.4 That the jury could only return a verdict of unlawful killing if they could
+           attribute the unlawful conduct to a single police officer.
+
+12.   It is clear from the 1990 advice, that counsel felt that these points had a direct
+      bearing on their advice (para 65).
+
+13.   E xp Gray was cited in Adomako. Lord Mackay in approving of the use of the
+      word ‘reckless’ in its ordinary sense in cases of involuntary manslaughter, said
+      that ex p Gray was an example of a case where the word reckless had been
+     used with complete accuracy. On the face of it, this is difficult to reconcile as
+     the reference in paragraph 11.3 to recklessness appears to be something
+     bordering on a Cunningham definition (note the reference to failure to
+     appreciate that there was a risk not being sufficient to amount to recklessness).
+
+14. I found the use of the word ‘indifferent’ difficult to reconcile here. I note,
+     however, that failure to appreciate that there was a risk was specifically ruled
+     out by the court as a sufficient state of mind for recklessness in this context.
+     Accordingly, this only leaves a narrow scope for ‘indifference’ which I think
+     must mean that the officer, bearing in mind his duty, must have deliberately
+     shut his mind to the presence of the risk.
+
+15. In my view, ex p Gray cannot stand against Adomako and it should not be
+     regarded as good law. How then does this leave counsel’s advice, bearing in
+     mind that ex p Gray was in the forefront of their minds?
+
+16. At paragraph 81 of the 1990 opinion, counsel were considering the position of
+    the police as an organisation in relation to a possible charge of corporate
+    manslaughter. The say ‘...there seems to us to be no evidence that in making
+    what were undoubtedly errors of judgment and practice, the police
+    organisation, or any individual within it, acted recklessly or in a grossly
+    negligent manner’. This is highly significant because, even if counsel applied
+    the recklessness test in ex p Gray, they also clearly considered gross
+    negligence as a separate head. It must have been separate as gross negligence
+    does not feature in exp Gray.
+
+17. So far as Mr Duckenfield is concerned, the position is more difficult. The
+     weight of the opinion in paragraphs 83 to 89 is towards recklessness. At
+     paragraph 88, counsel opine that the omissions to act did not create a risk
+     which was obvious at the time.
+
+18. Paragraph 89 says, and I quote in full: ‘We conclude, therefore, that there is
+     insufficient evidence on which to found a charge of recklessness against Mr
+     Duckenfield. Nor is there evidence that he was grossly negligent in failing to
+     act as mentioned above. We bear in mind particularly the judgment of the
+     Divisional Court in the West London Coroner’s Court case, the requirements
+     of which are not in our view satisfied’.
+
+19. Given that gross negligence and recklessness as defined in ex p Gray are
+    substantially different, I am of the view that the reference in paragraph 89 to
+    ex p Gray must be read as referring back to recklessness only and not to gross
+    negligence. I recognise that this is a rather technical interpretation of
+    paragraph 89 but I suggest it is nevertheless correct. After all, counsel quite
+    properly directed themselves in the main to the current case law as understood
+    by most people at the time (ie. recklessness was the test) and only added gross
+     negligence out of a desire for completeness, bearing in mind their own views
+     on the state of the law. It is a tribute to them that they were so accurate.
+20.   If that is right, and I suggest that logically it must be, then counsel’s opinion
+      can be said to have considered gross negligence manslaughter in the terms set
+      out in Adomako.
+
+
+
+Chris Enzor
+Central Casework York Branch
+DX 65204 York 6
+® (
+Fax            _
+ December 1998
+

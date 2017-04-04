@@ -1,0 +1,1343 @@
+                                                                                         M IR .15
+
+
+
+
+OTHER DOCUMENT FORM
+                                                                      _ gi7 It® aoy
+                                                    Date and time raised
+                                                                                                     Number
+
+
+
+Title
+        S .'y . P. Cam rvncuu-t                                    Co>nU&l
+                                                                                             \4     o\
+(Include source and any docum ent number if relevant^          W j^ < T \          C-
+
+
+Receiver's instructions - urgent action - Ves/No                                                                  Receiver
+                                                                                                                       lO,
+
+
+Document registered/indexed as indicated
+                                                                                                                 <0
+No(s) of actions raised                                                                                       Statement Reader
+Statem ent reader's instructions
+
+                                                                                                                  Indexer
+ Indexed as indicated
+
+ No(s) of actions raised
+
+ Examined - further action to be taken
+
+
+
+
+  Further action No(s)
+
+                          ions raised Office Manager to endorse other Document Master Number Form
+  When satisfied all actions
+                                      VFU   UH-H'SMB ! . W W
+SOUTH YORKSHIRE POLICE
+
+COMMAND AND CONTROL SYSTEM
+
+ADDRESSES & RESCOURCE
+GALL—SIG N S HANDBOOK
+                            \:^r s   ^                   *   /   / '“W f        •-»>   /   W ;
+
+
+
+
+I                                        . . . . .:, .       /                 Q(£CZ^'&iL        ,
+
+
+
+
+                        E
+■
+i
+i
+■                   .
+
+
+
+         COMMAND AND CONTROL SYSTEM
+
+
+                        & Resource
+               Call-Signs Handbook
+
+n    .
+
+
+
+
+:v
+
+
+
+
+                                                                           iillliill
+           CONFIDENTIAL - FOR POLICE USE ONLY
+
+
+
+
+     ADDRESSES
+        AND
+RESOURCE CALL-SIGNS
+      HANDBOOK
+
+
+
+
+          COMMUNICATIONS & COMPUTER DEVELOPMENT
+                                   INDEX
+
+
+
+SUBJECT                                                            PAGE
+                                                     ►
+Introduction .............................................           1
+
+Address and Call-Sign       ............................. .   ..     2
+
+Resources with Beat Call-Signs     ..........................        3
+
+Resources with Non-Beat Call-Signs     .......................       3
+
+Duplicate Beat Call-Signs      ..............................       4
+
+Supervisory Call-Signs      ..................................      4
+
+
+A   DIVISION
+
+Divisional Headquarters     ..................................      5
+
+A1 Sub-Division   .........................................         6
+
+A2 Sub-Division   .........................................         7
+
+A3 Sub-Division   .........................................         8
+
+
+B DIVISION
+
+Divisional Headquarters     ..................................      9
+
+B1 Sub-Division.........................................           10
+
+B2 Sub-Division........                                            11
+
+
+C DIVISION
+
+Divisional Headquarters..................................          12
+
+Cl Sub-Division.........................................           13
+
+C2 Sub-Division..............................                      14
+
+C3 Sub-Division   ..   ..                                          15
+
+
+D DIVISION
+
+Divisional Headquarters     ........                               16
+
+D1 Sub-Division..............................                      17
+
+D2 Sub-Division.........................................           18
+E DIVISION
+
+Divisional Headquarters   ..................................      19
+
+El Sub-Division.........................................          20
+
+E2 Sub-Division.........................................          21
+
+
+F DIVISION
+
+Divisional Headquarters..................................         22
+
+FI Sub-Division.........................................          23
+
+F2 Sub-Division.........................................          24
+
+
+H      Headquarters Division ...............................      25
+
+G      Traffic Division (Patrol) ...........................      27
+
+M      Traffic Division (Motorway)    ..              • ..   ..   28
+
+W      Traffic Division (Motorcycle)........    ..                29
+
+O       Operations Division   ..............................      30
+
+P       Operations Division (PublicOrder)   .................     31
+
+X, Y    Operations Division (Special) .......................     32
+
+
+Appendix A   (List of Divisions)............                      33
+
+Appendix B   (Address Tables) ..............................      34
+
+Appendix C   (Control Terminals)..........................        35
+                                                                         1
+
+
+                              INTRODUCTION
+
+
+
+The advent of the South Yorkshire Police Command and Control Computer
+Network has meant that a universal system of beat numbering, address
+codes and call-signs is needed for the whole Force.
+
+This booklet has been compiled to achieve this aim and to provide a
+logical system which relates as far as possible to existing well known
+formats such as PNC, DVLC codes, divisional/sub-divisional letters/
+numbers, and links them as far as possible to well known resourcecodes
+and beat numbers where this is appropriate.
+
+The formats will serve not only our present needs      but willprovide   a
+framework for any future new resources or addresses.
+
+
+
+
+CHIEF Cl     ,E
+                                                                      2
+
+
+                           ADDRESSES AND CALL-SIGNS
+
+
+
+South Yorkshire Police addresses are two characters long and can be
+identified from the tables outlined in Appendix B. Addresses are either
+SUB-DIVISION, ie Al or BRANCH, ie ClD, Scenes of Crime, Drug Squad.
+They are identical throughout the PNC, DVLC, Message Switch and call­
+sign applications operated by South Yorkshire Police.
+
+
+EXAMPLES
+
+SUB-DIVISION ADDRESSES
+
+Division     Sub-Div
+
+
+   A               1         Al Sub-Division
+   B               2         B2 Sub-Division
+   C               3         C3 Sub-Division
+
+BRANCH ADDRESSES
+
+Division    Branch
+
+
+  A            H       A       Division Headquarters
+  B            J            B Division CID
+  G            A            Traffic Division 'A'
+  H            N            Headquarters Division SOC
+  0            M            Operations Division Mounted
+
+South Yorkshire Police call-signs are four characters long.    The first
+two characters are the ADDRESS.     The last two characters   denote the
+type, location and number of the resource.
+                                                                        3
+
+
+                      RESOURCES WITH BEAT CALL-SIGNS
+
+
+Beats are divided into three   categories:   MOBILE beats, COMMUNITY beats
+and FOOT beats.
+                                                    ►
+These are numbered within the ranges shown below:
+
+MOBILE beat               61 - 79
+COMMUNITY beat            41-59
+FOOT beat                 01 - 39
+
+Eacnbeat is preceded by its SUB-DIVISION Address
+
+
+EXAMPLE
+
+
+D109             D1 Sub-Division Foot Beat No 9
+B244             B2 Sub-Division Community Beat No 44
+C363             C3 Sub-Division Mobile Beat No 63
+
+
+
+                    RESOURCES WITH NON BEAT CALL-SIGNS
+
+
+Certain resources, such as Scenes of Crime, Drug Squad, CID, do not have
+beats but are allocated to a DIVISION.
+
+These are numbered within the ranges shown below:
+
+DIVISION                  01 - 09
+SUB-DIVISION 1            11-19
+SUB-DIVISION 2            21-29
+SUB-DIVISION 3            31-39
+
+Each resource is preceded by its BRANCH ADDRESS.
+
+
+EXAMPLE
+
+
+HK01             Headquarters Division Drug Squad/Car No 1
+AJ12             'A' Division CID/Sub-Division 1, Car No 2
+CR31             'C' Division Response Car/Sub-Division 3, Car 1
+GF22             Traffic Division 'F'/Sub-Division 2, Car 2
+                                                                            4
+
+
+                            DUPLICATE BEAT CALL-SIGNS
+
+
+There will be occasions when two resources are allocated the same beat.
+The allocation of identical call-signs will be prevented.     Instead, a
+beat call-sign can be duplicated by using the following formula:
+              ►
+A101      becomes    AA01
+A201      becomes    AB01
+A3 01     becomes    AC01
+
+The operator can enter the appropriate duplicate call-sign if required.
+Only one duplicate is allowed for each original beat call-sign.
+
+
+
+                             SUPERVISORY CALL-SIGNS
+
+
+The method of identifying        supervisory ranks    within South   Yorkshire
+Police is shown below:
+
+CHIEF SUPERINTENDENT             Y
+SUPERINTENDENT                   X
+CHIEF INSPECTOR                  V
+INSPECTOR                        I
+SERGEANT                         S
+
+Supervisory call-signs are      preceded   by a   SUB-DIVISION ADDRESS or   a
+BRANCH ADDRESS.
+
+
+EXAMPLE
+
+
+AHY1                A Division HQ/Chief Superintendent
+B1X1                Bl Sub-Division/Superintendent
+C2V1                C2 Sub-Division/Chief Inspector
+D1I2                Dl Sub-Division/Inspector No 2
+E2S3                E2 Sub-Division/Sergeant No 3
+FJS4                F Division CID/Sergeant No 4 (Ecclesfield)
+GAS1                Traffic Division 'A'/Sergeant No 1
+                          A DIVISION CALL-SIGN LIST
+
+
+
+DIVISIONAL HEADQUARTERS
+
+
+AHY1              CHIEF SUPERINTENDENT
+
+AHX1               SUPERINTENDENT
+
+AHV1               CHIEF INSPECTOR
+
+AJX1               CID SUPERINTENDENT
+AJVl               CID CHIEF INSPECTOR
+
+AK01               DRUG SQUAD
+AK02               DRUG SQUAD
+AKS1               DRUG SQUAD SERGEANT
+
+AL01               SPECIAL BRANCH
+
+AM01              COMMUNITY LIAISON
+
+AN01               SCENES OF CRIME
+AN02               SCENES OF CRIME
+
+AOOl               SHOPLIFTING SQUAD
+AOS1               SHOPLIFTING SQUAD SERGEANT
+
+AP01               PLAIN CLOTHES
+AP02               PLAIN CLOTHES
+APS1               PLAIN CLOTHES SERGEANT
+
+AQ01               STOLEN VEHICLE SQUAD
+
+AW01              WARRANTS
+
+AY01               DIVISIONAL SUPPORT GROUP
+Al SUB-DIVISION
+
+
+A1X1              SUPERINTENDENT
+
+A1V1              CHIEF INSPECTOR
+
+A1I1 - All6       INSPECTOR
+
+A1S1 - A1S9       SERGEANT
+
+A101 - A139       FOOT BEATS
+
+A141 - A159       COMMUNITY BEATS
+
+A161 - A179       MOBILE BEATS
+
+A&ti P.\°\\       DOG VAN
+
+AJI1              CID INSPECTOR
+AJS1 - AJS3       CID SERGEANT
+AJ11 - AJ19       CID
+
+ARll              RESPONSE CAR
+AR12              RESPONSE CAR
+
+AUll              VHF RADIO EQUIPPED VEHICLE
+A2 SUB-DIVISION
+
+
+A2X1              SUPERINTENDENT
+
+A2V1   ►
+                  CHIEF INSPECTOR
+
+A2I1 - A2I6       INSPECTOR
+
+A2S1 - A2S9       SERGEANT
+
+A201 - A239       FOOT BEATS
+
+A241 - A259       COMMUNITY BEATS
+
+A261 - A279       MOBILE BEATS
+
+                  DOG VAN
+
+AJI2              CID INSPECTOR
+AJS4 - AJS6       CID SERGEANT
+AJ21 - AJ29       CID
+
+AR21              RESPONSE CAR
+AR22              RESPONSE CAR
+
+AU21              VHF RADIO EQUIPPED VEHICLE
+A3 SUB-DIVISION
+
+
+A3X1              SUPERINTENDENT
+
+A3VI              CHIEF INSPECTOR
+
+A3I1 - A316       INSPECTOR
+
+A3S1 - A3S9       SERGEANT
+
+A301 - A339       FOOT BEATS
+
+A341 - A359       COMMUNITY BEATS
+
+A361 - A379       MOBILE BEATS
+
+       P\'5F5\\   DOG VAN
+
+AJI3              CID INSPECTOR
+AJS7 - AJS9       CID SERGEANT
+AJ31 - AJ39       CID
+
+AR31              RESPONSE CAR
+AR32              RESPONSE CAR
+
+AU31              VHF RADIO EQUIPPED
+                          B DIVISION CALL-SIGN LIST
+
+
+DIVISIONAL HEADQUARTERS
+
+
+BHYl              CHIEF SUPERINTENDENT
+
+BHX1              SUPERINTENDENT (DEPUTY)
+
+BHV1              CHIEF INSPECTOR
+
+BJX1              CID SUPERINTENDENT
+BJVl              CID CHIEF INSPECTOR
+
+BK01              DRUG SQUAD
+BK02              DRUG SQUAD
+BKS1              DRUG SQUAD SERGEANT
+
+                  SPECIAL BRANCH
+
+BM01              COMMUNITY LIAISON
+
+BN01              SCENES OF CRIME
+BN02              SCENES OF CRIME
+
+BOOl              SHOPLIFTING SQUAD
+BOS1              SHOPLIFTING SQUAD SERGEANT
+
+BP01              PLAIN CLOTHES
+BP02              PLAIN CLOTHES
+BPS1              PLAIN CLOTHES SERGEANT
+
+BQ01              STOLEN VEHICLE SQUAD
+
+BW01              WARRANTS
+
+BY01              DIVISIONAL SUPPORT GROUP
+ Bl SUB-DIVISION
+
+
+B1X1               SUPERINTENDENT
+
+filVl              CHIEF INSPECTOR
+
+ Bill - B1I6       INSPECTOR
+
+B1S1 - B1S9        SERGEANT
+
+B101 - B139        FOOT BEATS
+
+B141 - B159        COMMUNITY BEATS
+
+B161 - B179        MOBILE BEATS
+
+JBGbir             DOG VAN
+
+BJll               CID INSPECTOR
+BJSl - BJS3        CID SERGEANT
+BJll - BJ19        CID
+
+BRll               RESPONSE CAR
+BR12               RESPONSE CAR
+
+BU11               VHF RADIO EQUIPPED
+ B2 SUB-DIVISION
+
+
+ B2X1              SUPERINTENDENT
+
+ B2V1              CHIEF INSPECTOR
+
+ B2I1 - B2I6       INSPECTOR
+
+ B2S1 - B2S9       SERGEANT
+
+ B201 - B239       FOOT BEATS
+
+ B241 - B259       COMMUNITY BEATS
+
+B261 - B279        MOBILE BEATS
+
+JSGS'ir"           DOG VAN
+
+BJI2               CID INSPECTOR
+BJS4 - BJS6        CID SERGEANT
+BJ21 - BJ29        CID
+
+BR21               RESPONSE CAR
+BR22               RESPONSE CAR
+
+BU21               VHF RADIO EQUIPPED VEHICLE
+                           C DIVISION CALL-SIGN LIST
+
+
+
+DIVISIONAL► HEADQUARTERS
+
+
+CHY1              CHIEF SUPERINTENDENT
+
+CHX1              SUPERINTENDENT (DEPUTY)
+
+CHV1              CHIEF INSPECTOR
+
+CJX1              CID SUPERINTENDENT
+CJV1              CID CHIEF INSPECTOR
+
+CK01              DRUG SQUAD
+CKO2              DRUG SQUAD
+CKS1              DRUG SQUAD SERGEANT
+
+                   SPECIAL BRANCH
+
+CM01              COMMUNITY LIAISON
+
+CN01              SCENES OF CRIME
+CN02              SCENES OF CRIME
+
+COOl              SHOPLIFTING SQUAD
+COS1              SHOPLIFTING SQUAD SERGEANT
+
+CP01              PLAIN CLOTHES
+CP02              PLAIN CLOTHES
+CPS1              PLAIN CLOTHES SERGEANT
+
+CQ01              STOLEN VEHICLE SQUAD
+
+CW01              WARRANTS
+
+CY01              DIVISIONAL SUPPORT GROUP
+Ci SUB-DIVISION
+
+
+C1X1              SUPERINTENDENT
+
+C1V1              CHIEF INSPECTOR
+
+c m - cii6        INSPECTOR
+
+C1S1 - C1S9       SERGEANT
+
+C101 - C139       FOOT BEATS
+
+C141 - C159       COMMUNITY BEATS
+
+C161 - C179       MOBILE BEATS
+
+S&krT   Ct<=M     DOG VAN
+
+CJ11              CID INSPECTOR
+CJS1 - CJS3       CID SERGEANT
+CJ11 - CJ19       CID
+
+CR11              RESPONSE CAR
+CR12              RESPONSE CAR
+
+CU11              VHF RADIO EQUIPPED VEHICLE
+C2 SUB-DIVISION
+
+
+C2X1               SUPERINTENDENT
+
+C2V1               CHIEF INSPECTOR
+
+C2I1 - C2I6        INSPECTOR
+
+C2S1 - C2S9        SERGEANT
+
+C201 - C239        FOOT BEATS
+
+C241 - C259        COMMUNITY BEATS
+
+C261 - C279        MOBILE BEATS
+
+       CL'0<=\ \   DOG VAN
+
+CJI1               CID INSPECTOR
+CJS4 - CJS6        CID SERGEANT
+CJ21 - CJ29        CID
+
+CR21               RESPONSE CAR
+CR22               RESPONSE CAR
+
+CU21               VHF RADIO EQUIPPED VEHICLE
+C3 SUB-DIVISION
+
+
+C3X1              SUPERINTENDENT
+
+C3V1              CHIEF INSPECTOR
+
+C3I1 -    C3I6    INSPECTOR
+
+C3S1 -    C3S9    SERGEANT
+
+C301 -    C339    FOOT BEATS
+
+C341 -    C359    COMMUNITY BEATS
+
+C361 -    C379    MOBILE BEATS
+
+J2S3T    C.SP U   DOG VAN
+
+CJI3              CID INSPECTOR
+CJS7 -    CJS9    CID SERGEANT
+CJ31 -    CJ39    CID
+
+CR31              RESPONSE CAR
+CR32              RESPONSE CAR
+
+CU31              VHF RADIO EQUIPPED VEHICLE
+                          D DIVISION CALL-SIGN LIST
+
+
+
+DIVISIONAL HEADQUARTERS
+
+
+DHY1              CHIEF SUPERINTENDENT
+
+DHX1               SUPERINTENDENT (DEPUTY)
+
+DHVl              CHIEF INSPECTOR
+
+DJX1              CID SUPERINTENDENT
+DJV1              CID CHIEF INSPECTOR
+
+DK01              DRUG SQUAD
+DK02              DRUG SQUAD
+DKS1              DRUG SQUAD SERGEANT
+
+                   SPECIAL BRANCH
+
+EM01              COMMUNITY LIAISON
+
+DN01              SCENES OF CRIME
+DN02              SCENES OF CRIME
+
+DOOl              SHOPLIFTING SQUAD
+DOS1              SHOPLIFTING SQUAD SERGEANT
+
+DP01              PLAIN CLOTHES
+DP02              PLAIN CLOTHES
+DPS1              PLAIN CLOTHES SERGEANT
+
+DQ01              STOLEN VEHICLE SQUAD
+
+DW01              WARRANTS
+
+DY01              DIVISIONAL SUPPORT GROUP
+Dl SUB-DIVISION
+
+
+D1X1               SUPERINTENDENT
+
+D1V1               CHIEF INSPECTOR
+
+Dill - Dll6        INSPECTOR
+
+D1S1 - D1S9        SERGEANT
+
+D101 - D139        FOOT BEATS
+
+D141 - D159        COMMUNITY BEATS
+
+D161 - D179        MOBILE EEATS
+
+£Gii   v!C>\cs\\   DOG VAN
+
+DJI1               CID INSPECTOR
+DJS1 - DJS3        CID SERGEANT
+DJ11 - DJ19        CID
+
+DRll               RESPONSE CAR
+DR12               RESPONSE CAR
+
+DU11               VHF RADIO EQUIPPED VEHICLE
+D2 SUB-DIVISION
+
+
+D2X1              SUPERINTENDENT
+
+D2V1              CHIEF INSPECTOR
+
+D2I1 - D2I6       INSPECTOR
+
+D2S1 - D2S9       SERGEANT
+
+D201 - D239       FOOT BEATS
+
+D241 - D259       COMMUNITY BEATS
+
+D261 - D279       MOBILE BEATS
+
+                  DOG VAN
+
+DJI2              CID INSPECTOR
+DJS4 - DJS6       CID SERGEANT
+DJ21 - DJ29       CID
+
+DR21              RESPONSE CAR
+DR22              RESPONSE CAR
+
+DU21              VHF RADIO EQUIPPED VEHICLE
+                          E DIVISION CALL-SI®! LIST
+
+
+
+DIVISIONAL HEADQUARTERS
+
+
+EHY1              CHIEF SUPERINTENDENT
+
+EHX1              SUPERINTENDENT (DEPUTY)
+
+EHVl              CHIEF INSPECTOR
+
+EJX1              CID SUPERINTENDENT
+EJVl              CID CHIEF INSPECTOR
+
+EK01              DRUG SQUAD
+EK02              DRUG SQUAD
+EKS1              DRUG SQUAD SERGEANT
+
+                  SPECIAL BRANCH
+
+EM01              COMMUNITY LIAISON
+
+EN01              SCENES OF CRIME
+EN02              SCENES OF CRIME
+
+EOOl              SHOPLIFTING SQUAD
+EOS1              SHOPLIFTING SQUAD SERGEANT
+
+EP01              PLAIN CLOTHES
+EP02              PLAIN CLOTHES
+EPS1              PLAIN CLOTHES SERGEANT
+
+EQ01              STOLEN VEHICLE SQUAD
+
+EW01              WARRANTS
+
+EY01               DIVISIONAL SUPPORT GROUP
+El SUB-DIVISION
+
+
+E1X1              SUPERINTENDENT
+
+E1V1              CHIEF INSPECTOR
+
+Elll   E1I6       INSPECTOR
+
+E1S1   E1S9       SERGEANT
+
+E101   E139       FOOT BEATS
+
+E141   E159       COMMUNITY BEATS
+
+E161   E179       MOBILE BEATS
+
+       E E \°\\   DOG VAN
+
+EJI1              CID INSPECTOR
+EJS1   EJS3       CID SERGEANT
+EJ11   EJ19       CID
+
+ER11              RESPONSE CAR
+ER12              RESPONSE CAR
+
+EU11              VHF RADIO EQUIPPED VEHICLE
+E2 SUB-DIVISION’
+
+
+E2X1               SUPERINTENDENT
+
+E2V1               CHIEF INSPECTOR
+
+E2I1 - E2I6        INSPECTOR
+
+E2S1 - E2S9        SERGEANT
+
+E201 - E239        FOOT BEATS
+
+E241 - E259        COMMUNITY BEATS
+
+E261 - E279        MOBILE BEATS
+
+       e s ci\     DOG VAN
+
+EJI2               CID INSPECTOR
+EJS4 - EJS6        CID SERGEANT
+EJ21 - EJ29        CID
+
+ER21               RESPONSE CAR
+ER22               RESPONSE CAR
+
+EU21               VHF RADIO EQUIPPED
+                          F DIVISION CALL-SIGN LIST
+
+
+
+DIVISIONAL HEADQUARTERS
+         P
+
+
+
+
+FHY1              CHIEF SUPERINTENDENT
+
+FHX1              SUPERINTENDENT (DEPUTY)
+
+FHV1              CHIEF INSPECTOR
+
+FJX1              CID SUPERINTENDENT
+FJV1              CID CHIEF INSPECTOR
+
+FK01              DRUG SQUAD
+FK02              DRUG SQUAD
+FKS1              DRUG SQUAD SERGEANT
+
+                  SPECIAL BRANCH
+
+FM01              COMMUNITY LIAISON
+
+FN01              SCENES OF CRIME
+FN02              SCENES OF CRIME
+
+FOOl              SHOPLIFTING SQUAD
+FOS1              SHOPLIFTING SQUAD SERGEANT
+
+FP01              PLAIN CLOTHES
+FP02              PLAIN CLOTHES
+FPS1              PLAIN CLOTHES SERGEANT
+
+FQ01              STOLEN VEHICLE SQUAD
+
+FW01              WARRANTS
+
+FYiSjl            DIVISIONAL SUPPORT GROUP
+FI SUB-DIVISION
+
+
+F1X1              SUPERINTENDENT
+
+F1V1              CHIEF INSPECTOR
+
+Fill -    F1I6    INSPECTOR
+
+F1S1 -    F1S9    SERGEANT
+
+F101 -    F139    FOOT BEATS
+
+F141 -    F159    COMMUNITY BEATS
+
+F161 -    F179    MOBILE BEATS
+
+         F\=t\    DOG VAN
+
+FJI1              CID INSPECTOR
+FJS1 - FJS3       CID SERGEANT
+FJ11 - FJ19       CID
+
+FR11              RESPONSE CAR
+FR12              RESPONSE CAR
+
+FU11              VHF EQUIPPED VEHICLE
+ F2 SUB-DIVISION
+
+
+ F2X1               SUPERINTENDENT
+F2V1               CHIEF INSPECTOR
+F2I1 - F2I6         INSPECTOR
+F2S1 - F2S9        SERGEANT
+F201 - F239        FOOT BEATS
+F241 - F259        COMMUNITY BEATS
+F261 - F279        MOBILE BEATS
+
+                   DOG VAN
+FJI2               CID INSPECTOR
+FJS4 - FJS6        CID SERGEANT
+FJ21 - FJ29        CID
+FR21               RESPONSE CAR
+FR22               RESPONSE CAR
+FU21               VHF RADIO EQUIPPED VEHICLE
+                       HEADQUARTERS DIVISION (H)
+                            CALL-SIGN LIST
+
+
+
+HCX1            COMMUNICATIONS & COMPUTERS SUPERINTENDENT
+HCVl            COMMUNICATIONS & COMPUTERS CHIEF INSPECTOR
+HCI1            COMMUNICATIONS & COMPUTERS INSPECTOR
+HCS1            COMMUNICATIONS & COMPUTERS SERGEANT
+HC01            COMMUNICATIONS & COMPUTERS
+HC02            COMMUNICATIONS & COMPUTERS MOBILE POLICE STATION
+                    1STONEFIELD1 COMMUNICATIONS VEHICLE
+HC03            COMMUNICATIONS & COMPUTERS MOBILE POLICE STATION
+                    COMMUNICATIONS CARAVAN
+
+HGXl            TRAFFIC   AEMIN/SUPPORT    DEPARTMENT SUPERINTENDENT
+HGV1            TRAFFIC   AEMIN/SUPPORT    DEPARTMENT CHIEF INSPECTOR
+HGI1            TRAFFIC   AEMIN/SUPPORT    DEPARTMENT INSPECTOR
+HGS1 - HGS3     TRAFFIC   AEMIN/SUPPORT    DEPARTMENT SERGEANT
+HG01            TRAFFIC   AEMIN/SUPPORT   DEPARTMENT
+HG02            TRAFFIC   AEMIN/SUPPORT   DEPARTMENT
+
+HH01            CHIEF CONSTABLE
+HH02            DEPUTY CHIEF CONSTABLE
+HH03            ASSISTANT CHIEF CONSTABLE OPERATIONS
+HH04            ASSISTANT CHIEF CONSTABLE STAFF SERVICES
+HH05            ASSISTANT CHIEF CONSTABLE MANAGEMENT SERVICES
+HH06            CHIEF CONSTABLE'S STAFF
+
+HJY1            CID CHIEF SUPERINTENDENT
+HJX1            CID SUPERINTENDENT
+HJV1            CID CHIEF INSPECTOR
+
+HKI1            DRUG   SQUAD INSPECTOR
+HKS1            DRUG   SQUAD SERGEANT
+HKS2            DRUG   SQUAD SERGEANT
+HK01 - HK09     DRUG   SQUAD
+
+                SPECIAL   BRANCH   CHIEF INSPECTOR
+                SPECIAL   BRANCH   INSPECTOR
+                SPECIAL   BRANCH   SERGEANT
+                SPECIAL   BRANCH   SERGEANT
+              ' SPECIAL   BRANCH
+
+HM01            COMMUNITY LIAISON DEPARTMENT
+HM02            COMMUNITY LIAISON DEPARTMENT
+
+HNI1             SCENES   OF CRIME INSPECTOR
+HNS1             SCENES   OF CRIME SERGEANT
+HNS2             SCENES   OF CRIME SERGEANT
+HN01 - HN09      SCENES   OF CRIME
+Headquarters Division (Cont)
+
+
+H0I1              SERIOUS   CRIMES SQUAD INSPECTOR
+HOS1              SERIOUS   CRIMES SQUAD SERGEANT
+HOS2              SERIOUS   CRIMES SQUAD SERGEANT
+HOOl -   H009     SERIOUS   CRIMES SQUAD
+
+HP01               PRESS LIAISON OFFICE
+
+HQS1              STOLEN VEHICLE SQUAD SERGEANT
+HQ01              STOLEN VEHICLE SQUAD
+HQ02              STOLEN VEHICLE SQUAD
+
+HT01 - HT06       TRAINING
+
+HD&i
+                  TRAFFIC DIVISION (TRAFFIC PATROL G)
+                            CALL-SIGN LIST
+
+
+
+GHX1              TRAFFIC DIVISION SUPERINTENDENT    _ ,
+GHV1              TRAFFIC DIVISION CHIEF INSPECTOR 'c
+                   --- -----    -------------- '•*>’
+GAIl              CARCROFT ROAD GARAGE TRAFFIC INSPECTOR
+GAS1   -   GAS3   CARCROFT ROAD GARAGE TRAFFIC SERGEANT
+GAIl   -   GA15   TRAFFIC CAR A1 SUB-DIVISION
+GA21   -   GA%5   TRAFFIC CAR A2 SUB-DIVISION
+GA31   -   GA35   TRAFFIC CAR A3 SUB-DIVISION
+
+GBI1              BARNSLEY GARAGE TRAFFIC INSPECTOR
+GBS1 - GBS3       BARNSLEY GARAGE TRAFFIC SERGEANT
+GB11 - C$15       TRAFFIC CAR B1 SUB-DIVISION
+C$21 - C$25       TRAFFIC CAR B2 SUB-DIVISION
+
+GCI1              ROTHERHAM GARAGE TRAFFIC INSPECTOR
+GCS1   -   GCS3   ROTHERHAM GARAGE TRAFFIC SERGEANT
+GC11   -   GC15   TRAFFIC CAR Cl SUB-DIVISION
+GC21   -   GC25   TRAFFIC CAR C2 SUB-DIVISION
+GC31   -   GC35   TRAFFIC CAR C3 SUB-DIVISION
+
+GEll — GE15       TRAFFIC CAR El SUB-DIVISION
+GE21 - GE25       TRAFFIC CAR E2 SUB-DIVISION
+
+GFI1              CLAYWHEELS LANE GARAGE (F DIV) TRAFFIC INSPECTOR
+GFS1 - GFS3       CLAYWHEELS LANE GARAGE (F DIV) TRAFFIC SERGEANT
+GF11 - GF15       TRAFFIC CAR FI SUB-DIVISION
+GF21 - GF25       TRAFFIC CAR F2 SUB-DIVISION
+
+GJI1              ACCIDENT         INVESTIGATION      BRANCH INSPECTOR
+GJS1              ACCIDENT         INVESTIGATION      BRANCH SERGEANT
+GJS2              ACCIDENT         INVESTIGATION      BRANCH SERGEANT
+droi - <309       ACCIDENT         INVESTIGATION      BRANCH
+
+GR01              RADAR UNIT.
+
+                  ~ T iZ fif-frC    /Ar?x£c/4fJC/<S
+                                                                 28
+
+
+              TRAFFIC DIVISION (MOTORWAY PATROL M)
+                         CALL-SIGN LIST
+
+
+
+MAll - MA15   MOTORWAY CAR A DIVISION [A1(M)]
+
+MA19          MOTORWAY ACCIDENT UNIT [Al(M), M18, M180]
+
+MA21 - MA25   MOTORWAY CAR A DIVISION [M18, M180]
+MA31 - MA35   MOTORWAY CAR A DIVISION [A1(M), M18, M180]
+
+MBll - MB15   MOTORWAY CAR B DIVISION [Ml]
+MB21 - MB25   MOTORWAY CAR B DIVISION [Ml]
+
+MC11 - MC15   MOTORWAY CAR C DIVISION [Ml, PARKWAY, ROTHERWAY]
+
+MC19          MOTORWAY ACCIDENT UNIT [Ml, M18, PARKWAY, ROTHERWAY]
+
+MC21 - MC25   MOTORWAY CAR C DIVISION [M18]
+MC31 - MC35   MOTORWAY CAR C DIVISION [Ml, M18, PARKWAY, ROTHERWAY]
+                                                          29
+
+
+                 TRAFFIC DIVISION (MOTORCYCLE PATROL W)
+                             CALL-SIGN LIST
+
+
+
+WHI1              MOTORCYCLE DIVISION ROTHERHAM
+                  MOTORCYCLE DIVISION SERGEANT
+ UOQ&i
+ WA11 -   WA15    MOTORCYCLE   Al SUB-DIVISION
+ WA21 -   WA25    MOTORCYCLE   A2 SUB-DIVISION
+ WA31 -   WA35    MOTORCYCLE   A3 SUB-DIVISION
+ wesi             5(rT
+ WBll -   WB15    MOTORCYCLE   Bl SUB-DIVISION
+ WB21 -   WB25    MOTORCYCLE   B2 SUB-DIVISION
+UO S i
+WC11 -    WC15    MOTORCYCLE Cl SUB-DIVISION
+ WC21 -   WC25    MOTORCYCLE C2 SUB-DIVISION
+ WC31 -   WC35    MOTORCYCLE C3 SUB-DIVISION
+Oj OSI
+ WD11 -   WD15    MOTORCYCLE Dl SUB-DIVISION
+ WD21 -   WD25    MOTORCYCLE D2 SUB-DIVISION
+H£$i
+WE11 -    WE15    MOTORCYCLE   El SUB-DIVISION
+WE21 -    WE25    MOTORCYCLE   E2 SUB-DIVISION
+ur Si             S(ff
+WFll -    WF15    MOTORCYCLE   FI SUB-DIVISION
+WF21 -    WF25    MOTORCYCLE   F2 SUB-DIVISION
+                                                                          30
+
+
+                     OPERATIONS DIVISION (O)
+                         CALL-SIGNS LIST
+
+
+
+OHYl                 OPERATIONS     HQ DEPARTMENT CHIEF, SUPERINTENDENT
+OHX1                 OPERATIONS     HQ DEPARTMENT SUPERINTENDENT
+OHVl                 OPERATIONS      HQ DEPARTMENT CHIEF INSPECTOR
+OHI1                 OPERATIONS      HQ DEPARTMENT INSPECTOR
+OHSl                 OPERATIONS      HQ DEPARTMENT SERGEANT
+OHS2                 OPERATIONS      HQ DEPARTMENT SERGEANT
+OH01                 OPERATIONS     HEADQUARTERS DEPARTMENT
+OHO2                 OPERATIONS     HEADQUARTERS DEPARTMENT
+
+OGI1                 DOG   BRANCH   INSPECTOR
+OGSl                 DOG   BRANCH   SERGEANT
+OGS2                 DOG   BRANCH   SERGEANT
+OG01                 DOG   BRANCH   TRANSPORTER
+,C^o5                ixxi fcSPvWCJA .
+OMI1                 MOUNTED   BRANCH INSPECTOR
+OMS1                 MOUNTED   BRANCH SERGEANT
+OMOl                 MOUNTED   BRANCH, NIAGARA
+OM02                 MOUNTED   BRANCH, RING FARM
+
+OR01                 REMOVAL VEHICLE, WEST BAR
+OR02                 REMOVAL VEHICLE, DONCASTER
+
+OTI1                 FIREARMS   SQUAD INSPECTOR
+OTS1                 FIREARMS   SQUAD SERGEANT
+OTS2                 FIREARMS   SQUAD SERGEANT
+OTOl - OT09          FIREARMS   SQUAD
+
+OUOl                 UNDERWATER SEARCH UNIT
+
+OVOl                 PRISON VAN 15 CELL UNIT
+OV02                 PRISON VAN 18 CELL UNIT
+
+OY01                 OPERATIONS DIVISION SUPPORT      UNIT (UNDERWATER)
+OY02 - OY99          OPERATIONS DIVISION SUPPORT      UNIT (COMBINED DSG)
+
+
+
+              OP0I   Ih h -ic -o o r *.                ^       Prv
+                                                             31
+
+
+                OPERATIONS DIVISION (PUBLIC ORDER P)
+                           CALL-SIGN LIST
+
+
+
+PA01 - PA03       ,   A DIVISION POLICE SUPPORT UNIT
+
+PB01 -   PB03         B   DIVISION POLICE SUPPORT UNIT
+
+PC01 -   PC03         C   DIVISION POLICE SUPPORT UNIT
+
+PD01 -   PD03         D   DIVISION POLICE SUPPORT UNIT
+
+PE01 -   PE03         E   DIVISION POLICE SUPPORT UNIT
+
+PF01 -   PF03         F   DIVISION POLICE SUPPORT UNIT
+
+PZ01 - PZ99           PUBLIC ORDER SUPPORT UNITS (FOREIGN)
+                                                   32
+
+
+              OPERATIONS DIVISION (SPECIAL X, Y)
+                        CALL-SIGN LIST
+
+
+
+X100 - X900         SPECIAL OPERATIONS
+                          ►
+
+Y100 - Y900         SPECIAL OPERATIONS
+                                                                                                      APPENDIX A
+
+                                                                                                   LIST OF DIVISIONS
+
+
+
+
+                                                                                'A' Division
+i s i K X S < c : H W ! 5 0 o tn o z s t - , « ( ^ H S c o tn t d D n t t ) >
+
+
+
+
+                                                                                'B' Division
+                                                                                'C' Division
+                                                                                1D ' Divis ion
+                                                                                'E' Division
+                                                                                'F' Division
+                                                                                Traffic Division (Patrol)
+                                                                                Headquarters Division
+
+
+
+
+                                                                                Traffic Division (Motorway)
+
+                                                                                Operations Division
+                                                                                Operations Division (Public Order)
+
+
+
+
+                                                                                Traffic Division (Motorcycles)
+                                                                                Operations (Special)
+                                                                                Operations (Special)
+                                                                               34
+
+
+                                   APPENDIX B
+
+                                  ADDRESS TABLES
+
+
+
+SUB-DIVISION ADDRESSES
+
+                                  SUB-DIVISIONS
+
+DIV                     1                          2                    3
+
+A                  Doncaster               Thome                    Mexborough
+B                  Barnsley                Worribwell
+C                  Rotherham               Rawmarsh                 Maltby
+D                  Sheffield               Attercliffe
+E                  Hackenthorpe            Woodseats
+F                  Hillsborough            Ecclesfield
+
+
+
+
+BRANCH ADDRESSES
+
+                                    DIVISIONS
+
+BRANCH    A/B/C/D/E/F             G/M/W                H            O/P/X/Y
+
+ A        Duplicate           A    Div          HQ Control        A Div
+  B       Duplicate           B    Div          Pers Dept         B Div
+  C       Duplicate           C    Div          Communicat ions   C Div
+  D                           D    Div          Commercial Br     D Div
+  E                           E    Div          Anteced Dept      E Div
+  F                           F    Div          CRO               F Div
+ -e       -Dog Van-                             Traffic Admin     Dog Branch
+  H        Div HQ             Div HQ            CC Office         Div HQ
+  I        Div Intell                           Crime Intell
+  J        CID                Acc Inv           CID
+  K        Drug Squad                           Drug Squad
+  L        Special Br                           Special Br
+  M        Corttn Liaison                       Corttn Liaison    Mounted Br
+  N        S of Crime                           S of Crime
+  0        Shoplift Sqd                         Crime Squad
+  P        Plain Clothes                        Press Liaison     Special Veh
+  Q        Vehicle Squad                        Vehicle Squad     Transport
+  R        Response Car       Radar             Miscellaneous     Removal Veh
+  c
+  o
+  T       Training                              Training          Firearms
+  U       VHF Vehicle                                             U/W Search
+  V       Custody                                                 Prison Van
+  W       W & P Dept                            W & P Dept
+  X                                             Crime Stats
+  Y        DSG                                  Crime Prev        Ops DSG
+  Z                                                               Public Order
+                                                                     35
+
+
+                              APPENDIX C
+
+
+                         DIVISIONS AND CONTROL
+
+
+
+DIVISION                                   ADDRESS OF CONTROL TERMINALS
+
+
+A     DIVISIONAL HQ                                    A1
+      DONCASTER                                        A1
+      THORNE                                           A2
+      ROSSINGTON                                       A2
+      MEXBOROUGH                                       A3
+      ADWICK                                           A3
+
+B     DIVISIONAL HQ                                    B1
+      BARNSLEY                                         B1
+      WOMBWELL                                         B2
+      PENISTONE                                        B2
+
+C      DIVISIONAL HQ                                   Cl
+      ROTHERHAM                                        Cl
+      RAWMARSH                                         C2
+      MALTBY                                           C3
+
+D      DIVISIONAL HQ                                   D1
+      SHEFFIELD                                        D1
+      ATTERCLIFFE                                      D2
+
+E      DIVISIONAL HQ                                   E2
+      HACKENTHORPE                                     El
+      WOODSEATS                                        E2
+
+F      DIVISIONAL HQ                                   FI
+      HAMMERTON ROAD                                   FI
+      ECCLESFIELD                                      F2
+      DEEPCAR                ..                        F2
+
+G     TRAFFIC                                          HA
+H     HEADQUARTERS                                     HA
+M     TRAFFIC (MOTORWAY)                               HA
+O     OPERATIONS                                       HA
+P     OPERATIONS (PUBLIC ORDER)                        HA
+W     TRAFFIC (MOTORCYCLES)                            HA
+X     OPERATIONS (SPECIAL)                           . HA
+Y     OPERATIONS (SPECIAL)                             HA
+

@@ -1,0 +1,133 @@
+              The Checkpoint System for Crowd Control
+
+I n t r o duction: As arranged with the F .A. Office I attended a
+meeting at Braintree, Essex on Friday 30th January, 1987, set
+up by C.P.U. (Holdings) Ltd who with their associated Companies,
+and specifically Springmead Ltd, are involved in the development,
+supply and distribution of Computer based products.
+
+O b j e c t : The object of the meeting, attended by representatives
+of D.O.E., Essex County Council including Police and Fire Service,
+the Football League together with the Secretary of Colchester
+United F.C., was to outline and, subsequently, demonstrate a
+system of control and surveillance at Football grounds developed
+by Springmead Ltd, in co-operation with Colchester United F . C ., so
+as     to eliminate hooliganism at Football.
+
+Local Action:  Some preliminary discussions have already taken
+place with the Local Authority and if the scheme meets with their
+approval it is hoped that it might be operational from the end
+of March 1987.
+
+The System:  It is claimed that Checkpoint will operate (a) by
+controlling the movement of spectators into a Football ground
+and their subsequent movement therein and (b) by monitoring
+and recording such movements.
+
+M e t h o d : All persons who attend will require a Key Card which
+will contain a Machine Readable i.e. a number on a magnetic
+strip similar to a Credit/Bank Card or a Barcode; a number to
+aid identification and the name of the Club.       The latter is
+included so that a lost card can be returned to the Club.
+
+I s s u e : Key Cards will be issued on completion of an   application
+form.      Details of all applicants will be recorded on   the Computer
+as a Data Base.      Such information stored on the Data   Base can be
+used for ancillary purposes e.g. advertising, Credit       Control,
+Mail Shots, etc etc.
+
+A d m i s s i o n : Admission to the ground will be by normal Turnstiles
+which will be so located that access can be gained to the Terraces
+or Seating a c commodation. The Card will be h a nd e d , together with
+the price of admission to the Turnstile operator who will pass
+it through a slot in a metal box (which contains the Code Reader)
+mounted on the operator's side of the Turnstile.
+
+The Turnstile - in effect a modified Ticket Booth - will have
+a C.C.T.V. Camera able to view and record the face of the
+supporter though he will not be aware of this procedure.  By
+this time a Ticket will have appeared from another box on the
+Turnstile - an Entrance Ticket - which in effect is a message
+to the operator to inform the spectator from where he can view
+the match.
+
+
+
+
+                                                     Contd/
+\                                           - 2 -
+
+
+
+
+     9.   M o d i f ic a t i o n s : Modifications to existing Turnstiles - and
+          Colchester have only 14 - to cater for the Checkpoint System
+          will n e c e s s i t a t e :-
+
+          (a)   Notices to inform supporters of the appropriate Turnstiles.
+
+          (b)   Machine Code Reader to read the Key        Card.
+
+          (c)   C.C.T.V. Camera to make visual record.
+
+          (d)   Entrance Ticket Printer.
+
+          (e)   Warning System, i.e. alarm button and warning light   to
+                 alert operator that person concerned is banned, etc.
+
+          (f)   Inter-Coin   System to alert Control Room.
+
+    10.   Control Room:  This will act as the nerve centre to deal with
+          all problems/emergencies and will be a separate entity from
+          Police Control Centre.
+
+    11.   Additional aspects:  Additional sophistication will restrict
+          supporters to zones/areas within the ground by means of further
+          Card Readers positioned at the zone or area entrance.
+
+    12.   Visiting Supporters:   Visitors will need to complete application
+          forms obtainable at the 'Home' or 'Away' ground.   Such applications
+          will be posted to the 'Home' Club together with the appropriate
+          remittance.   The number of tickets will be restricted to five per
+          application.   Liaison between opposing Clubs can sinplify this
+          procedure which, in the case of cup replays, would be impossible
+          to complete in the time available.
+
+    13.   G e n e r a l : There are, as one would expect in a system as complex
+          as this, other aspects to be considered but the foregoing is
+           the broad outline of what is intended.
+
+    14.   What is clear is that the system envisaged will require a heavy
+          manpower commitment to operate.  It will also, I feel, require
+          personnel of a higher calibre than that normally employed on
+          Turnstile duties if it is to work efficiently.
+
+    15.   No mention was made of the likely cost on the grounds that certain
+          refinements remain to be finalised.  I suspect that Colchester F.C.
+          as the guinea-pigs, have struck a deal with Springmead Ltd.
+          However, even if the scheme is installed at Colchester the real
+          test of its merits can hardly be properly assessed at a ground with
+          an attendance, on average, of about 3,000.
+
+    16.   The first hurdle to be negotiated is the Essex County Council.
+          Subject t o their approval and the installation of the scheme
+          there will be an opportunity to examine    it more closely before
+          the end of the season.
+
+
+
+
+                                                                   Contd/
+t
+
+
+
+                                       - 3 -
+
+/
+    17.   On a personal view the acid test for Springmead will be the
+          acceptance of the scheme by a 1st Division Club.  Without that
+          it is likely to be just another hooligan oriented project.
+
+    18.   For information.
+

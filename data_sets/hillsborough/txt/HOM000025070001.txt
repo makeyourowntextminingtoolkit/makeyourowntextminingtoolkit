@@ -1,0 +1,1067 @@
+                                                                  WP90(M)1
+
+TECHNICAL W ORKING PARTY
+
+N OTE OF A M EETING HELD IN R OOM 656 THE HOME OFFICE QUEEN ANNE'S
+GATE ON TUESDAY 23 JANUARY AT 1.00pm
+
+
+Present:     Professor L Maunder (Chairman)
+             Mr N Bush
+             Mr W Carter
+             Mr M Dickson
+             Dr C Nicholson
+             Mr J Sweet (Secretary)
+
+
+                                                                  Action
+
+1.   Apologies for absence had been received from Mr
+Stickley.
+
+
+Hillsborough Inquiry - Final Report
+
+
+2•   Professor Maunder confirmed that the Technical
+Working Party Report had been accepted in full by Lord
+Justice Taylor and would appear in his Final Report.
+Although unable to give details of its contents,       he
+could confirm in confidence,    that that Report had
+itself been completed and presented to the Home
+Secretary.     The Government's response was. awaited,      but
+all indications were that publication would take place
+in the near future.     It was agreed that the Secretary
+would distribute copies of the Final Report, once
+available,    to members.                                         Sweet
+
+
+
+
+Supplementary Notes
+
+
+3.   Imminent publication of the Final Report made
+completion and submission of the Working Party's own
+supplementary notes all the more urgent,      not least
+because the Working Party would have no formal locus
+once the Inquiry's task was complete.     Nor indeed would
+the Inquiry secretariat be able to provide the
+necessary support structure.     Given those and other
+f   »
+
+
+
+
+                                                                             Action
+
+
+        constraints,   it was therefore essential to reach early
+        agreement on the form,     if not the content,       of any
+        notes.
+
+
+        4.    Professor Maunder invited comment from members.
+        At one extreme it would be possible merely to submit
+        the various file papers accrued to date together with a
+        covering index linking them to the respective Chapters
+        of the Green Guide, whilst at the other extreme a
+        comprehensive catalogue of the work undertaken,             the
+        detailed deliberations of the Working Party members and
+        the rationale of their recommendations could be linked
+        with a paragraph by paragraph assessment of the Guide
+        and proposals for change.       The latter approach might
+        risk the charge that the Working Party was exceeding
+        its remit by seeking, de facto,       to rewrite the Guide;
+        the former might not ensure that the worthwhile core of
+        expertise available in the file papers was drawn
+        sufficiently to the attention of those who might in due
+        course be tasked with any such redrafting.
+
+
+        5.   The professional expertise embodied in the
+        Technical Working Party had ensured in-depth critical
+        examination of a wide range of issues.            Such
+        concentration of expertise was unlikely to recur in the
+        foreseeable future and members expressed some concern
+        that detailed issues addressed by them would be
+        overlooked by reliance solely on the Working Party
+        Report.   In any event,    comprehensive redrafting of the
+        Green Guide was likely to be a lengthy process,             and it
+        was therefore important to present advice in a
+        structured way to facilitate future reference to it.
+
+
+        6.   After lengthy discussion,       it was agreed that
+        Professor M a u n d e r /Mr Sweet would draft                        Maunder/
+        supplementary notes on a chapter by chapter basis                    Sweet
+        cross-referencing,    where appropriate,        with such
+                                                                Action
+
+
+documents as the Scicon Report,     and the Institution of
+Structural Engineers 5th draft.      Reference could also
+be made to the index already prepared and circulated.
+Dr Nicholson/Mr Dickson's paper on crush-barrier
+testing was also to be incorporated;      Mr Dickson
+pressed additionally for the inclusion of an expanded
+section on flows.     It was also agreed that Mr Dickson         Dickson
+would supply information for the complete bibliography.
+
+
+7.     A draft would be circulated as early as possible
+for comment then submission.     Working Party members
+recognised that they would no longer be able to
+continue as a formal body once the Inquiry had
+disbanded,    but nonetheless expressed the hope that
+those who subsequently redrafted the Green Guide would
+not feel inhibited about seeking advice from individual
+members.
+
+
+8.     More generally,   there was value in making
+available supplementary notes to assist in the
+improvement of grounds in advance of any revised Green
+Guide.    It was entirely possible that a number,      if not
+all,   of the Working Party's recommendations would be
+accepted by the Government and acted upon immediately.
+Remedial work at grounds did not have to await the
+long-term reissue of the Guide.
+
+
+9.     Dr Nicholson undertook to circulate a translation        Nicholson
+of the QTIS    (Italian) document as soon as it became
+available.
+
+
+10.    The Chairman expressed his gratitude,   to the
+members and Secretary for their dedicated,     professional
+approach to the task entrusted to them.      The whole
+experience had been a valuable and stimulating one.
+                                      AthwHjflk
+
+INSHCT1CW AND TESTING OF                AMENDED CRAFT
+                                            (22.1.90)
+CTDSH BARRTERS AND HANCRATTfi
+
+
+
+(1)   INSPECTION
+
+
+(2)   TESTING
+
+      (a)   Introduction
+
+      (b)   Test Arrangement
+
+      (c)   Bedding-in Cycle
+
+      (d)   Proof Cycle
+
+      (e)   Criteria for Compliance
+
+
+(3)   REFERENCES
+INSPECTION AND TOOTING OF
+
+CRUSH BftRRTERS AND HANnRATTfi
+
+
+
+
+(1)   INSPECTION
+
+
+
+1.0   An important part of the inspection is to determine the physical
+
+      condition of all barriers.    Correct spacing, height and layout together
+
+      with adequate structural condition are all essential if the barrier is to
+
+      function so as to prevent injury.
+
+
+
+2.0   In order that comparison can be made with previous annual inspections, a
+
+      full record of the observations on each barrier should be logged by the
+
+      inspecting engineer on a Standard Record Sheet (Ref 5 Ch 6.3) giving
+
+      location and date of inspection together with all comments on condition.
+
+
+
+3.0   Any visible defect (corrosion, cracks, holes, misalignment, signs of
+
+      distortion, missing bolts) shall be noted and its potential reduction in
+
+      strength assessed in order to determine whether the condition of the
+
+      barrier is satisfactory.     All signs of potential weakness should be
+
+      looked for, such as potential for instability.
+
+
+
+4.0   Members and connections which the engineer considers may contain hidden
+
+      defects (eg corrosion) will need to be investigated further, possibly
+
+      losing nan-destructive examination or by dismantling.    In particular,
+
+      inspection should be made of all areas where water traps or hidden detail
+
+      where corrosion or damage could facilitate corrosion.
+When the inspection establishes the presence of obvious and significantly
+
+deteriorated material, eg holes or perforation caused by corrosion, the
+
+barrier shall be deemed to be defective and should be replaced.    Should
+
+the inspection reveal any component whose condition is deleterious giving
+
+any doubt as to performance, then that barrier should be shewn to have
+
+adequate strength by proof testing, or declared defective and replaced.
+
+
+
+
+TESTING
+
+
+
+(a)   Introduction
+
+
+
+      The purpose of a site test is to assess the adequacy of the barrier
+
+      for service, and to observe and record the behaviour and
+
+      deflections of the barrier, handrails, posts and their foundations
+
+      under test.
+
+
+
+      It is important therefore to record both the results of the test
+
+      and to look for any signs of weakness, particularly at the base of
+
+      the barrier posts, or at structural joints, during the test.
+
+
+
+      The test should be carried out by applying an evenly distributed
+
+      force of 6kN/m to the barrier rail.    The total force applied will
+
+      therefore vary from barrier to barrier.   A test shall consist of a
+
+      bedding-in cycle and a proof cycle.
+
+
+
+      The test schedule should reference the number of the barrier in
+
+      accordance with the 'Barrier Location Plan'. From year to year,
+
+      the barriers to be tested will vary.   The engineer should provide
+to the testing authority a schedule of the 25% of all the barriers
+
+to be tested in that year, together with any additional barriers
+
+which the prior inspection has recorded may be of defective
+
+condition.
+
+
+
+Test Arrangement
+
+
+
+The force shall be applied by jacking against the terrace behind
+
+the barrier, ensuring the test equipment is horizontal as far as
+
+possible generally as diagram.
+
+
+
+The instrumentation shall be designed so as to be able to measure
+
+up to approximately twice the design service load of the barrier
+
+and to record accurately each individual force increment required
+
+during the test.
+
+
+
+Deflections in two directions at right angles shall be measured
+
+immediately adjacent to the point of application of the force on
+
+the handrails and at the tcp of all posts, losing a method of
+
+measurement capable of an accuracy of ±0.5mm.   The deflection
+
+measuring equipment shall be properly fixed to a rigid part of the
+
+terrace.
+
+
+
+The arrangement (), the force (kN) and the deflection (mm) shall be
+
+recorded by the testing authority for each barrier location and
+
+force increment so as to assess linearity of performance of the
+
+barrier under load.   Each barrier to be tested shall be numbered
+
+according to the barrier schedule and shewn diagraramatically on the
+      Test Record, so as to indicate the length of the barrier and
+
+      whether the barrier is single or multiple.
+
+
+
+(c)   The Bedding-in Cycle
+
+
+
+      As an initial cycle, and to allcw for bedding-in of the test
+
+      equipment, the release of any frictional restraints, the barrier is
+
+      to be loaded up to its design service load.   The bedding-in load
+
+      shall be applied in at least three (or six) equal increments, with
+
+      deformations being monitored at each increment of the load cycle.
+
+
+
+      The barrier can be considered to have completed this part of the
+
+      test satisfactorily if recovery to ±10% of its original position is
+
+      achieved.   If the barrier fails to achieve this level of recovery,
+
+      it shall be deemed defective unless a satisfactory explanation is
+
+      obtained for these results.
+
+
+
+(d)   The Proof cycle
+
+
+
+      For barriers the proof cycle is to consist of the application of a
+
+      force which is as nearly as practical equivalent on all components
+
+      of the barriers to the evenly distributed force required to test
+
+      that category of barrier (see Table ... Chapter ...).   As a general
+
+      principle, the barriers shall be proof tested for up to a force of
+
+      1.20 x the Required Design Service Force (Ref 2 Ch 3.8.3).
+
+
+
+      The test force is to be applied on five (or ten) approximately
+
+      equal increments, the increment being maintained for five minutes
+
+      prior to measurement of the deflections.   A record should be kept
+of all deflections at each increment of force.   The force should
+
+then be released and the permanent deformation (ram) calculated
+
+after release of all force.
+
+
+
+Criteria for Compliance
+
+
+
+Provided that the barrier has completed the bedding-in cycle
+
+satisfactorily, it should shew no significant signs of permanent
+
+deformation after the proof cycle.   This may be assumed to have
+
+been demonstrated if the following conditions are met:
+
+
+
+(i)    Bedding-in cycle - the recovery of the deflection is at least
+
+       90% of the maximum deflection recorded under the full proof
+
+       load.
+
+
+
+(ii)   Proof cycle - the recovery of the deflection is at least 95%
+
+       of the maximum deflection recorded under the full proof load.
+
+
+
+Where possible, comparison should be made of the performance of
+
+other similar barriers and with that under any previous similar
+
+tests to establish that there is no significant reduction in
+
+overall performance of that barrier with time.
+
+
+
+In the event of the inspection revealing a structural condition
+
+that is likely to prove unsatisfactory or the barrier failing to
+
+comply with the conditions of the proof testing, it shall be deemed
+
+defective and either replaced in total, or repaired so as to enable
+
+compliance with further proof testing.
+References
+
+
+
+1)   BS5950 Pt 1 (1985) Structural Use of Steelwork in Building: Section 7
+
+     loading Tests
+
+
+
+2)   ISE load Testing of Structures and Structural Components (Revised Draft
+
+      for Approval: Report of ad hoc Ccmmittee January 1989 Eft/89/1)
+
+      Section 2.2     Types of Test    Site Acceptance Test
+
+     Section 3.7      Bedding-in loads
+
+      Section 3.8.3   Test loads
+
+      Section 3.8.4   Measurements and Observations
+
+      Section 3.8.5   Criteria for Compliance
+
+     Appendix l Code Requirements C - Site Acceptance Tests
+
+
+
+3)   ISE Safety Considerations for the Design and Erection of Demountable
+
+      Grandstands
+
+      Chapter 3       Proof loading Tests (p8)
+
+      Chapter 9       Inspection           (pl4)
+
+
+
+4)   ISE Appraisal of Existing Structures 1980
+
+      Section 3.2.6   load Testing
+
+      Section 4.1.5   Condition
+
+      Section 4.2     Testing
+
+     Appendix 6       Methods of Test - T17 Optical     Methods
+
+     Appendix 4       Types of Defect: Structural Steelwork p 47
+
+
+
+5)   ISE Appraisal of Sports Grounds Draft October 1989
+
+     Section 5.6      Crush Barriers
+
+     Section 6.3      Survey of Conditions and Record   of Findings
+
+     Section 6.4      Potentially Dangerous, Degraded   or Substandard Fabric
+1^-12-1969   15:07     FROM   BflE CONSULTflNCV SERVICES.   TO 90 325286132            P. 02
+
+
+
+
+                                                40
+
+
+
+
+  Appendix 1
+
+
+
+  S AN D BA G P E N D U L U M TE S T
+
+
+
+
+ AO cm
+
+
+
+
+                                       DROP.
+
+
+
+
+                                                                              MAX 0,70 m
+
+
+  The impact load with an energy of 0.5 kHta is regarded to be characteristic
+  for a man falling against a railing.
+
+  For the test a canvas bag, filled with sand, is used.             The shape and a cross
+  section of the bag are indicated in the above sketch.
+
+  The bag is filled with river sand, with a grain diameter of 0.5mm and a
+  specific volume weight under dry conditions of 1.55 to 1.60. The sand will
+  be dried as often as necessary to obtain consistent test conditions. The
+  filled bag has a dead weight of 50 kg. A drop of 1m is required to generate
+  an energy of 0.5 kNm.
+
+  The test is performed, as a pendulum movement against the vertically
+  positioned construction. The impact is applied to those parts of the
+  construction, which are to be expected to have the least resistance and at a
+  height above floor level not exceeding 0.70 m.
+            n.-f^C* ° ^___^**S^         VqOSxvA cK                  (Vv^ j\        <^<>0vX ^s^tK^^^ ^j,--«v>-fi-l
+
+
+
+
+          t^ t [t_».                      y^JU^Lv ^           ^ ~ty«__ L S ^X __^
+                                       Cwv^-y^V^.                 , ~V\uu       HJ J                 wvo
+
+_fc»L ___
+                                     Wi^XtAl           (^Y>       #gv^—<SU-Xv^ j— OfwJv^-V^Nva lAfc-— jC/vsa^ W —
+
+_                     a>>sAv^v-~y^>i-^A^\ cl^Ijl>_____________ v/vnj^ - cj&^S-^— Vv*                              S. ^'^'Y^-ft'V^
+
+    ^ yJL Sou           VsJ-V*V'-        KjoT*                                    ----------- <•-------------------
+
+
+                                              wy-      Vvft O      V^.__ o~_*3/^Jurv_^»__^ — cSU^V^tn^a^
+
+                            2-0                     ( 10      , *L*-o          V-O.&A. W_*vs^U             V^>      .._.
+
+
+
+
+    LSo r y v ^ O - w ^        eLa*VVyUvO           < C ^«-*X .          Q-U<-V*.__ !^«s/»V 5v^O '3s^--- Cv&vO“c L o .,
+
+    cw~_«k ovC^A-           $ 0y'*-£      °-^°         «vrrsA._..V^-Js^l^—                               -- \ w
+     Cw^^vv'taSo&s. AJVM-iv>^                       tAJ^VN-                    — V>l_^V*y\ ^ W >              ,— Y&--------
+    ^       u u J ^                                  fcj <Ju N nNv __^ &/y-*                         jW^          joj^-o-----
+
+     t-a^^sO          ^T                       ^t»J6_^>___ v«L           « v W — "to                       tt_c
+
+                                                    O^C_dsL^>Mviw             Sj-^Jk**£SU5           CKvnJL
+
+        s*. vvSlxD      C\j<rv                                                                                       V*SZ
+
+                                                       rid f c a ^ u S   j         u          $y*frtjftkw^          ovi-^
+
+         Vvvw55a-     V a ^ v * -A      w axO           LansJLaaS i          S ^ S k *d b &   t f lA v     & w *-^ & -0 -V
+
+                     ' C -ovvJ^ ^ oU sii        «J>JtoJVvsJ^             C C k ^ X A A ^ i ,—                  its^ u o
+
+          W l C l^ l/ Xuu-           jt c,^    O /v*       C^-5tU^                               ^                            -----
+
+                                                                      d p t x ^                                                —
+
+
+
+
+         1^3 ^t~»-      t^J^f-<-i?~!^ S^tN^^A tl^LO                    -------------------------------------
+
+              1V      ^V->. Q r^-,__ 9#r~b                               ___, K-j. JoVaAj^J^ V > - * -------
+     . 5U«_a^                -s-«-V3>v^-U-b.                                     tj^vv«M^r ...&»/*1p ^ U r y ^n ^            vv-o *-!
+                                       Via        -- ... T_<^/A^ir'<'Vr**J
+      w      ^           Q-.     tSTTT^r^ '^5                    Vi- "L^oO 0__Cft-^-cil^
+
+<3rv~^^^a— ~ v ^ r —                _dJ^        jk*~^5ssJ$L      sV**~«JL'}        L w v      Ch-«-v/Y"--sl.
+AXZ»—     VsjG^vws.            Vzd^_
+
+
+
+                                                                          V^Jkuv*-^               .Wi
+VC-®^        O^Ltn-cSo^ W < -                 V-<-^.           ^ T ^ (w £.__ "^3?»
+
+
+                    ; t
+ d-^vs/yCfc^i_^     V^-w       2> S p           ( 1CH*J~    y u«v ^ Oa. ^ a /r a ^       W v io ^ v a tK A
+
+ ) lZa-^r^ O/V—                         |ov «0W      Vyisft^           X ^ \ —C5l___V/AsJa*,
+
+              y^_<ww -^VS\.W^                > ^ > i^ ^ u * 1 ji1. ._,. .. f^T                     ___ .....
+
+ IruiA^IVv^ O-'vrj^-o ,                \ * ) w ^ __ t^avv>-^ .V' cX/aJ3>^                             i 7"\
+
+                                VC-A                 v<i C*.                    ^_*Aivy\^<vsj
+
+                                                  U>~- \.Llwv                       __
+
+      Vvx.^3?v.\      ^ — ft '^ w 'Sna — O         ^j-     Ovwat«      ^J,
+                                                                         8^yvM_AO            X « _____
+
+      ^>«cKa-N-3^--0>^    <5s>jvvsiyv^0-*-:_.                  \^— ^\_C_ CV^>0~1I^L , J w
+
+  £ ’>-*•»*&•. 0 ->V2-Wrw^»v^cS^ )^                   ^jd_TCii.          «•    V.^         ev&u^
+
+                                                                                          ijw~.SC- __
+
+   .’V<-^-J>s^ - ^ '^"fc^rVx^X— 5r>^ I^VjL^Vi                                                     ^
+
+      U-4^5 ^ v-a 5sKa , J^cSa-*Ss-*5L                         £r»^^___C^lCt3v^/v^-v'•'^>“^ __
+
+
+
+
+  .                      '£jw-~ Osrs-A^jS^           «J^            __C.A^C_c3w—         iiv/i
+
+^V'//v5VvJy(^ —lAJUoO                             *yvvs^-                     «^Vy-CJW        ^
+
+ Vf^\^>*V'r>-OL                 VsJu^._ „oiL_..AlU^jU;. 4V<SA^~ivO^..S^
+
+                  V0^3sa^v>-^           cKsi/vw^Xajla       wsAa.     l/v,    itrvu
+           TECHNICAL WORKING PARTY SUPPLEMENTARY NOTES
+
+
+Introduction
+
+1 .   In the review of the technical aspects of safety, the
+Technical Working Party considered the content and the
+presentation of the Green Guide in detail.   The principal
+conclusions of the review and the consequent recommendations are
+contained in the Working Party Report to the Inquiry, but in view
+of the amount of material gathered in the course of the work
+detailed suggestions for the revision of the Green Guide are
+assembled in this separate document as a contribution to any
+revised edition.
+
+2.   The Final Report may refer to the relationship between the
+Green Guide and the Safety Certificate and to the view that the
+local authority should follow the Green Guide criteria in
+assessing the mandatory requirements for a particular ground.
+Variation from the figures then included in the Safety
+Certificate would only be permitted by formal revision.
+
+3.   Paragraph 3 of the Report of the Technical Working Party
+already records that:
+
+     "3.  It considers that a revised issue of the Green Guide
+     should form the basis on which a designated ground or stand
+     is certified by the certifying authority, and recommends
+     that any departures from the guidance or Technical
+     provisions that may arise from local circumstances should be
+     fully defined and should be subject to approval in writing
+     by the certifying authority".
+
+4.   The Technical Working Party believes that a revised edition
+of the Green Guide should incorporate these recommendations
+prominently in the introduction.  A high degree of definition in
+the guidance offered will be required if ambiguity is to be
+avoided.
+I   '* /
+    2 3 - 0   1 - 6 3        MOM      1 0    : 3 T   RAC   E MC    M- ^ C( =l STl _ E
+
+
+
+
+                        Non-technical Aspects
+
+                        5.   Non-technical aspects of the Green Guide lay outside the
+                        Technical Working Party's terms of reference, but they interact
+                        closely    with    the  physical   characteristics    of    grounds.
+                        Responsibilities    for  the   improvement   of    structures    and
+                        communications at grounds, and for the conduct of inspections and
+                        tests, including those accepted from the Technical Working Party's
+                        Report,  should be made clear in the Green Guide.         Particular
+                        attention should be drawn to the management and training of those
+                        carrying out the work, to the monitoring of procedures, and to the
+                        recording of results.
+
+                        6.   Reference to the required degree of competence of those
+                        responsible for carrying out the technical work should be included
+                        in the Creen Guide. An example from the Pressure Systems code of
+                        Practice is
+
+                              "3.1.      The 'competent person'    (whether a body or an
+                               individual) should have such practical and        theoretical
+                               knowledge and actual experience of the type of system which
+                               is to be examined as will enable defects or weaknesses, which
+                               it is the purpose of the examination to discover,      to be
+                               detected and their importance in relation to the intergrity
+                               and safety of the system to be assessed,"
+
+                             A reference to "the recommending of corrective measures" might
+                        be added to appropriate specifications,
+
+                        7.    Layout (notes only)
+
+                              Observations include:
+
+                              (i)           Coordinate overlaps in Chapters 3,4,9, Annex C,
+                              (ii)          Include   alist or tabulation of all inspections and
+                                             tests,
+                              (iii)         make     separate chapter on temporary stands      or
+                                            structures,
+                              (iv)          includea new chapter on provisions for       disabled
+                                            spectators, and
+                              (v)           provide   a bibliography (at least for use by Home
+                                            Office).
+
+
+                             The remaining sections should include the details that have
+                        been agreed.    Their sequence could be based on either the Green
+                        Guide (starting with Chapter 4 and omitting Chapters 14 and 15), or
+                        on the Technical Working Party recommendations.
+
+
+
+
+                                                              2
+2 3   —0 1 —>S3   MOM   1 0   : 3 S   RAC   E MG   M-^CASTLE
+
+
+
+
+                   As co format, the minimum would appear to be a reference list
+              as in the FAX of 19th January (possibly with the agreed elements
+              marked), and the maximum a selective and re written list.
+
+
+
+                                                                  L. Maunder
+
+              22nd January, 1990
+
+
+
+
+                                              3
+3 — 0 1 — S 3        M O M   I Q   : 3 fc-   F A C   E H G   H ^ C A S T l - E              R   . 0 2
+
+
+
+
+                               Technical Working Party Supplementary Notes
+
+
+                Introduction
+
+                1.    In the review of the technical aspects of safety,          the
+                Technical Working Party considered the content and the presentation
+                of the Green Guide in detail. The principal conclusions of the
+                review and the consequent recommendations are contained in the
+                Final Report of the Inquiry as Appendix 3, but in view of the
+                amount of material gathered in the course of the work detailed
+                suggestions for the revision of the Green Guide are assembled in
+                this separate document as a contribution to the revised edition.
+
+
+                Status of the Green Guide
+
+                2.     The Final Report of the Inquiry recommends that
+
+                      "25,      In assessing the mandatory requirements In        The
+                       Certificate for a particular ground,     the local authority
+                       should follow the Green Guide criteria- Once that is done,
+                       the resultant figures and terms for that ground should be
+                       specified in the Safety Certificate and no variation from them
+                       should be permitted other than by formal revision.
+
+                       26.       Where a local authority incorporates any provision of
+                       the   Green Guide,    other than one within the scope        off
+                       Recommendation 25 above, It should make clear whether the
+                       provision    Is to be complied with absolutely        or   with
+                       discretionary flexibility."
+
+            3.   A related point Is made in paragraph 3 of the Report            of   the
+            Technical Working Party:
+
+                     "3.       It considers that a revised issue of the Green Guide
+                      should form the basis on which a designated ground or stand is
+                      certified by the certifying authority, and recommends that any
+                      departures from the guidance or Technical provisions that may
+                      arise from local circumstances should be fully defined and
+                      should be subject to approval in writing by the certifying
+                      authority",
+
+            4,   The Technical Working Party believes that a revised edition of
+            the   Green   Guide should    incorporate   these   recommendations
+            prominently in the Introduction, A high degree o£ definition in
+            the guidance offered will be required if ambiguity is to be
+            avoided.
+2 3   — 0 1 — & 3        M O N     1 0    : 3 T   F A C   E N G   N--' C A S T L E                       R   . 0 3
+
+
+
+
+                    Non-technical Aspects
+
+                    5.   Non-technical aspects of the Green Guide lay outside the
+                    Technical Working Party's terms of reference, but they interact
+                    closely    with    the  physical   characteristics    of    grounds.
+                    Responsibilities    for  the   improvement   of    structures    and
+                    communications at- grounds, and for the conduct of inspections and
+                    tests, including those accepted from the Technical Working Party's
+                    Report,  should be made clear in Che Green Guide.         Particular
+                    attention should be drawn to the management and training of those
+                    carrying out the work, to the monitoring of procedures, and to the
+                    recording of results.
+
+                    6.   Reference to the required degree of competence of those
+                    responsible for carrying out the technical work should be included
+                    in the Creen Guide. An example from the Pressure Systems code of
+                    Fracticc is
+
+                           "3.1.      The  'competent person'   (whether a body or an
+                            individual) should have such practical and        theoretical
+                            knowledge and actual experience of the type of system which
+                            is to be examined as will enable defects or weaknesses, which
+                            it is the purpose of the examination to discover,      to be
+                            detected and their importance in relation to the intergrity
+                            and safety of the system to be assessed."
+
+                         A reference to "the recommending of corrective measures" might
+                    be added to appropriate specifications,
+
+                    7.     Layout (notes only)
+
+                           Observations include:
+
+                           (i)           Coordinate overlaps in Chapters 3,4,9, Annex C,
+                           (ii)          include a list or tabulation of all inspections and
+                                         tests,
+                           (iii)         make     separate chapter on temporary stands     or
+                                         structures,
+                           (iv)          include    a new chapter on provisions for disabled
+                                         spectators, and
+                           (v)           provide a bibliography (at least for use     by Home
+                                         Office).
+
+
+                       The remaining sections should include the details that have
+                  been agreed.    Their sequence could be based on either the Green
+                  Guide (starting with Chapter 4 and omitting Chapters 14 and 15), or
+                  on the Technical Working Party recommendations.
+
+
+
+
+      22   JAN   '90     10:48                                                       0912610191   PAGE. 0 0 3
+— 0   1 — &          M O N   l e   : 3 s   F A C   N   N   C A S T l_                      R   . 0 4
+
+
+
+
+                     As to format, the minimum would appear to be a reference list
+                as in the FAX of 19th January (possibly with the agreed elements
+                marked), and the maximum a selective and re written list.
+
+
+
+
+                                                                         L. Maunder
+
+                22nd January, 1990
+
+
+
+
+                                                   3
+
+
+
+22    JAN     ’ 90   10:48                                              0912610191    PAGE.004
+                                        19 January 1990
+
+
+
+
+HILLSBOROUGH STADIUM DISASTER INQUIRY - PART II
+TECHNICAL W ORKING PARTY
+
+Given other pressures, I am afraid that I have been unable to
+produce a formal agenda for our meeting on Tuesday 23 January.
+Nevertheless a major topic for debate will clearly be the form of
+the Working Party's Supplementary Notes to the Inquiry, and in
+aid of our discussions I have therefore produced the attached
+index.  It aims to highlight relevant extracts from the minutes
+and relevant other papers relating to each Chapter of the Green
+Guide.  The reference WP89(M)1 indicates the minutes of the first
+Working Party meeting, WP89(M)2 the minutes of the second
+meeting, and so on.  Clearly the minutes will be the first source
+of reference.  I hope this will be helpful.
+
+                                        Yours sincerely
+
+
+
+
+                                        JONATHAN SWEET
+                                        Hillsborough Inquiry
+16.  It is a fundamental requirement of safety that structures at
+grounds should provide spectators with safe accommodation and
+safe means of ingress and egress.    They should also enable police
+and stewards to exert proper control over crowd movements. If a
+conflict should occur between these objectives, a substantial re­
+arrangement may be required;    in no circumstances should safety
+standards be compromised.   The Technical Working Party recommends
+that references to sub-divisions in Chapter 14 of the Green Guide
+be reviewed with these considerations in mind, and that the
+Chapter   as  a  whole   should   reflect   these  principles  more
+positively.
+
+Separation of Viewing Areas and Pitch
+
+17.  The Technical Working Party recognises the importance of
+physical barriers as deterrents to pitch invasions.      It also
+recognises that not all viewing areas present the same risk, and
+recommends that consideration be given to differentiating those
+areas requiring higher levels of security and other areas, such
+as seated accommodation and members' enclosures, where     a lesser
+degree of security might be acceptable.
+
+18.  The  general   principle  of   separation  endorsed  by  the
+Technical Working Party is that the means adopted should provide
+sufficient security against pitch incursions to enable the police
+to take timely and effective action should such incidents occur.
+Clearly a balance has to be struck between crowd control and
+safety.
+
+19.  A configuration recommended for wider consideration consists
+of a perimeter barrier on the pitch-side backed by a parallel and
+continuous crush-barrier on the terrace-side, set back from the
+perimeter barrier so as to provide a clear walk-way between the
+two;   except in emergencies, spectators would not be allowed to
+enter the w a l k - w a y . Such an arrangement would reduce the risks
+associated with a common feature of British grounds, namely that
+the front steps of terraces are substantially lower than the
+level of the pitch:         immediate attention should be given to the
+elimination of this hazard.
+
+20.  The Technical Working Party recommends that the maximum
+height of perimeter fences should be determined in relation to
+the UEFA standard of 2.2m.     It also recommends the removal of
+overhanging sections and spiked or barbed-wire attachments at the
+tops of fences.
+
+21 . A form of separation increasingly adopted in new stadia is
+the dry moat.   To be effective, a dry moat must be sufficiently
+wide and deep, and should be protected by fences on both sides to
+ensure that spectators and players do not fall into it.     Where
+enough space   is available,   a moat may offer an attractive
+solution, but its application to older grounds is likely to be
+restricted by limitations of space.
+16.  It is a fundamental requirement of safety that structures at
+grounds should provide spectators with safe accommodation and
+safe means of ingress and egress.    They should also enable police
+and stewards to exert proper control over crowd movements. If a
+conflict should occur between these objectives, a substantial re­
+arrangement may be required;    in no circumstances should safety
+standards be compromised.   The Technical Working Party recommends
+that references to sub-divisions in Chapter 14 of the Green Guide
+be reviewed with these considerations in mind, and that the
+Chapter   as  a  whole   should   reflect   these  principles  more
+positively.
+
+Separation of Viewing Areas and Pitch
+
+17.  The Technical Working Party recognises the importance of
+physical barriers as deterrents to pitch invasions.      It also
+recognises that not all viewing areas present the same risk, and
+recommends that consideration be given to differentiating those
+areas requiring higher levels of security and other areas, such
+as seated accommodation and members' enclosures, where a lesser
+degree of security might be acceptable.
+
+18.  T he  general  principle  of   separation  endorsed  by  the
+Technical Working Party is that the means adopted should provide
+sufficient security against pitch incursions to enable the police
+to take timely and effective action should such incidents occur.
+Clearly a balance has to be struck between crowd control and
+safety.
+
+19.  A configuration recommended for wider consideration consists
+of a perimeter barrier on the pitch-side backed by a parallel and
+continuous crush-barrier on the terrace-side, set back from the
+perimeter barrier so as to provide a clear walk-way between the
+two;   except in emergencies, spectators would not be allowed to
+enter the w a l k - w a y . Such an arrangement would reduce the risks
+associated with a common feature of British grounds, namely that
+the front steps of terraces are substantially lower than the
+level of the pitch:         immediate attention should be given to the
+elimination of this hazard.
+
+20.  The Technical Working Party recommends that the maximum
+height of perimeter fences should be determined in relation to
+the UEFA standard of 2.2m.     It also recommends the removal of
+overhanging sections and spiked or barbed-wire attachments at the
+tops of fences.
+
+21 . A form of separation increasingly adopted in new stadia is
+the dry moat.   To be effective, a dry moat must be sufficiently
+wide and deep, and should be protected by fences on both sides to
+ensure that spectators and players do not fall into it.     Where
+enough space   is available,   a moat may offer an attractive
+solution, but its application to older grounds is likely to be
+restricted by limitations of space.
+                                             Our Ref:   FEP/90
+                                                        35/48/3
+
+
+
+
+                                             11 January 1990
+
+
+
+
+Dear
+
+HILLSBOROUGH STADIUM DISASTER INQUIRY - PART II
+TECHNICAL W ORKING PARTY ON THE GREEN GUIDE
+
+My letter of 5 January indicated that  Iwould be in touch shortly
+to confirm the arrangements for a Working Party meeting  to
+discuss the submission of detailed supplementary notes to the
+Inquiry.
+
+This is to confirm that the meeting will take place in Room 656
+here at 50 Queen Anne's Gate on the afternoon of Tuesday 23
+January, commencing at 1pm with a buffet lunch.  Any agenda and
+papers will be circulated shortly.
+
+I look forward to seeing you then.
+
+                                             Yours sincerely
+
+
+
+
+                                             JONATHAN C SWEET
+                                             Hillsborough Inquiry
+

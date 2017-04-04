@@ -1,0 +1,962 @@
+DRAFT 22.5.89
+
+
+
+INQUIRY INTO SAFETY AND CONTROL AT SPORTS EVENTS
+
+
+HOME OFFICE EVIDENCE
+
+
+Foreword
+
+
+
+     This constitutes the response of the Home Office to the
+Inquiry's oral request for written evidence. We understand that
+what the Inquiry would find most helpful at this stage is a
+factual account of the provisions and operation of the Safety at
+Sports Grounds Act 197 5 and its relationship to other relevant
+legislation, together with a commentary on the Guide to Safety at
+Sports Grounds (the "Green Guide"). Also included is an account
+of policing and crowd control issues.
+
+     If the Inquiry would like further information on any point
+the Home Office will of course provide it where it can.
+CONTENTS
+                                             Paragraph No.
+
+PAST I - BACKGROUND AND DEVELOPMENT
+Introduction                                     1
+Popplewell Inquiry                               5
+The Legislation                                  7
+
+PART II - THE SCOPE AND OPERATION OF THE SAFETY
+          OF SPORTS GROUNDS ACT 1975 (AS AMENDED)
+General                                           19
+Fire Safety and Safety of Places
+ of Sport Act 1987                                20
+Designation under the 1975 Act                    21
+Safety Certificates                               24
+Appeals                                           33
+Offences                                          36
+Serious risk to spectators                        41
+Duty of enforcement                               44
+Power to modify the 1985 Act                      52
+
+PART III - FIRE AND SAFETY OF PLACES OF SPORT ACT 1987
+General                                           54
+Regulated Stands                                  55
+Statutory Guidance under Part III                 57
+Regulations under Part III                        58
+
+PART IV - THE GUIDE TO SAFETY AT SPORTS GROUNDS (THE GREEN GUIDE)
+Origins                                          59
+Application of the Guide                         62
+Popplewell Inquiry                               64
+Revised Guide                                    65
+Other developments                               67
+
+PART V - CROWD CONTROL AND POLICING
+                                                          PART I.
+
+
+
+BACKGROUND AND DEVELOPMENT
+
+
+
+Introduction
+
+1.   Specific legislation in the form of the Safety of Sports
+Grounds Act 1975 (the 1975 Act) for securing the safety of
+spectators at sports events was introduced to implement the main
+recommendations of the Report of the Inquiry into Crowd Safety at
+Sports Grounds by Lord Wheatley (Cmnd 4952) set up after an
+accident at Ibrox Park, Glasgow, when 66 people died. The terms
+of reference for that Inquiry were:
+
+     "To make an independent appraisal of the effectiveness of
+     existing arrangements for crowd safety at sports grounds in
+     Great Britain, and of the improvements which could be
+     brought about within the (then) present framework of the
+     law: and to consider the nature of any alterations in the
+     law which appear to be needed."
+
+2. The accident had no relation to crowd misbehaviour, but
+resulted simply from an unexpected revived interest in the game
+when a goal was scored after substantial numbers of spectators
+had already begun to leave the stadium, and then turned back.
+Previously the only major soccer stadium disaster since the war
+had been at Burden Park, Bolton, on 9 March 1946 when 33 people
+died and many more were injured. The cause of that incident was
+essentially over-crowding and crowd pressure which caused crush
+barriers to collapse (Report by R Moelwyn Hughes KC Cmnd 6846).
+
+3. The main concern of the Wheatley Report was with crowd
+safety in the context of the hazards of uncontrolled crowd
+movement, with the measures appropriate for mitigating such
+risks, and with a regulatory system to ensure that necessary
+safety measures were taken.
+4.   The statutory framework of the 1975 Act, providing for local
+authority certification of designated stadia, follows broadly the
+pattern outlined in the Wheatley Report; and the specific range
+of detailed safety measures (relating to such matters as
+gradients, crush barriers, gangways and flow-rates) in the
+accompanying Technical Report formed the basis of the (non-
+statutory) guidance subsequently incorporated in the initial
+version of the Guide to Safety at Sports Grounds, the "Green
+Guide" first published in 1973 (see Part IV).
+
+Popplewell Inquiry
+
+5.   The fire at Valley Parade Football Ground, Bradford, on 11
+May 1985 led to an examination of sports groundsafety by the
+Committee of Inquiry into Crowd Safety and Control at Sports
+Grounds led by Mr Justice Popplewell (Interim Report Cmnd 9585,
+Final Report Cmnd 9710).
+
+6.   The Popplewell Inquiry commented that the 1975 Act had been
+operating satisfactorily at designated grounds but recommended
+changes to make the legislation more effective and for the
+extension of safety controls. The Government's response was
+published in a Consultative Document in June 1986 (see Annex A)
+(including proposals for changes to the Fire Precautions Act
+1971), which was subsequently reflected in the changes brought
+about by the Fire Safety and Safety of Places of Sport Act 1987.
+
+The Legislation
+
+7.   The position found by the Wheatley Inquiry is set out in
+detail in paragraphs 13 - 18 of the Report: in essence it was
+that the patchwork of legislation then existing might have
+provided some protection for spectators but was inadequate. The
+procedure set up by the football associations requiring clubs
+with a ground capacity of over 10,000 to submit an annual
+inspection certificate and the voluntary consultations which took
+place with the police over attendance levels were also considered
+by Lord Wheatley to be defective, despite what was acknowledged
+as the generally responsible approach of the clubs and football
+authorities.   The present day position is summarised below.
+
+Outdoor sports events
+
+8.   The main controls for securing safety of spectators at
+outdoor sports grounds are those imposed by the Safety of Sports
+Grounds Act 1975 (the 1975 Act) and the Fire Safety and Safety of
+Places of Sport Act 1987 (the 1987 Act).   Part II of the 1987
+Act amended the 1975 Act with effect from 1 January 1988 (see
+paragraph 20 below).
+
+9.   Part III of the 1987 Act, which came into force on 1 January
+1989, is free standing of the 197 5 Act. It introduces a system
+of safety controls at sports grounds which are not designated
+under section 1 of the 1975 Act (see paragraphs 54-58 below).
+
+10. Both the 1975 Act and Part III of the 1987 Act apply only to
+outdoor sports grounds defined as:
+
+     "any place where sports or other competitive activities take
+     place in the open air and where accommodation has been
+     provided for spectators consisting of artificial structures
+     or natural structures artificially modified for that
+     purpose".
+
+(The Acts apply to England, Wales and Scotland but do not apply
+to Northern Ireland. The 197 5 Act and Part III of the 1987 do
+not apply to the Scilly Isles but may be extendedto do so by
+Order of the Secretary of State.)
+
+Indoor sports events
+
+11. Public entertainments held indoors such as music and
+dancing, have for sometime been the subject of a separate system
+of licensing under the London Government Act 1963 and the Local
+Government (Miscellaneous Provisions) Act 1982 (in Scotland the
+Civic Government (Scotland) Act 1982).
+However, certain specified exceptions apart, the licensing
+regime, administered by District Councils or London Borough
+Councils did not extend to indoor sports.   Part IV of the 1987
+Act changed this with effect from 1 June 1988 by extending the
+licensing requirement to any premises used for sporting events to
+which the public are invited as spectators. Except where sports
+complexes are concerned, a licence is only required if the sports
+event which constitutes the entertainment is the principal
+purpose for which the premises are being used. Licensing
+authorities may attach such terms and conditions as they think
+fit.
+
+Health and Safety at Work etc Act 1974
+
+12. Separate evidence will be submitted by the Health and Safety
+Executive (HSE) on the operation of the Health and Safety at Work
+etc Act 1974 (HSW Act) as applied to spectator safety at sports
+grounds. Briefly, however, section 3 of the HSW Act is wide-
+ranging in that it places a duty on an employer to conduct his
+undertaking in such a way as to ensure, so far as is reasonably
+practicable, that persons not in his employment who may be
+affected thereby are not exposed to risks to their health or
+safety. A sports or other entertainment 'undertaking' would fall
+within this category. It is the stated policy of the Health and
+Safety Commission that, as a general principle, they and the
+Executive wish to avoid duplication with other authorities. The
+HSE would not therefore generally attempt to enforce the
+requirements of section 3 of the 1974 Act when they overlap with
+specific duties imposed by other legislation where other
+authorities have responsibility for policy and enforcement. The
+1975 Act represents more specific legislation and HSE does not
+enforce section 3 of the HSW Act to secure the safety of
+spectators at sports grounds. This arrangement is agreed between
+HSE and the Home Office.
+
+13. In practice HSE are concerned primarily with the health and
+safety of employees at a sports ground (eg players, ground staff,
+contractors) and the protection of spectators from the effects of
+the event taking place in the arena (eg stock car and motor
+racing). HSE also have policy and enforcement responsibilities
+at sports events held elsewhere than at a sports ground defined
+under the 1975 Act (eg motor cycle scrambles).
+
+Building Act 1984
+
+14. Section 71 of the Building Act 1984 makes provision for
+local building authorities (District Councils and London Borough
+Councils) to take action in respect of ingress and egress,
+gangways and passages after consultation with the fire authority.
+As identified by the Wheatley Inquiry (paragraph 13 of the report
+in relation to the provisions of section 59 of the Public Health
+Act 1936) the extent to which these powers can be applied to open
+terracing in sports grounds is open to question. Provision is
+also contained in sections 77 and 78 for a local authority to
+take action to make safe buildings which appear to be in a
+dangerous condition.
+
+15. In practice, whereas Building Act powers may have been used
+occasionally in respect of sports grounds they are in general not
+needed because of the specific powers contained within the 1975
+Act (which provides for the exclusion of sections 24 and 71 of
+the Building Act to a sports ground or stand which is the subject
+of a safety certificate).
+
+Fire Precautions Act 1971
+
+16. The Fire Precautions Act 1971 (1971 Act) (as amended by the
+Health and Safety at Work etc Act 1974 and the Fire Safety and
+Safety of Places of Sport Act 1987), is the main legislative
+instrument for controlling fire safety in occupied buildings in
+Great Britain. It is intended to provide for the protection of
+persons from the risk of fire and its central feature is the
+requirement for occupiers of premises, put to uses designated by
+order of the Secretary of State, to obtain a fire certificate
+from the local fire authority.
+17. Under the Act a use of premises can be designated if it
+falls within at least one of the following classes of use: as, or
+for, any purpose involving the provision of sleeping
+accommodation; as, or as part of, an institution providing
+treatment or care; for purposes of entertainment, recreation or
+instruction or for purposes of any club, society or association;
+for purposes of teaching, training or research; for any purpose
+involving access to the premises by members of the public,
+whether on payment or otherwise; or as a place of work.
+
+18. The provisions of the 1971 Act could therefore be applied to
+buildings, such as stands at sports grounds. However it was
+always recognised that the burden certification would impose on
+fire authorities and those to be certificated meant that a policy
+of selective designation would have to be followed, having regard
+to the classes of occupancy which had given rise to significant
+fire casualties. In the case of sports grounds it has also been
+recognised that fire safety for spectators could be achieved
+through the general provisions for spectator safety contained in
+the 197 5 and 1987 Acts set up specifically for that purposes.
+kh.5.18/green.d
+PART II
+THE SCOPE AND OPERATION OF THE SAFETY OF SPORTS GROUNDS ACT 1975
+(AS AMENDED)
+
+General
+
+19.   The main provisions of the 1975 Act (as amended by Part II
+of the 1987 Act) are -
+
+     a.    A power, exercisable by the Secretary of State by
+order,todesignate sports grounds which in his opinion        have
+accommodation for more than 10,000 spectators.          Once
+designated, a ground will require a general safety
+certificate from the local authority.
+
+      b.   A power for the Secretary of State to vary the
+           threshold figure of 10,000.
+
+      c.   An obligation on the local authority to issue a general
+           safety certificate, and a discretionary power to issue
+           a special safety certificate (see paragraph 25 below).
+
+      d.   A discretion for the local authority to set terms and
+           conditions in the certificate which are necessary or
+           expedient to secure reasonable safety at the ground.
+
+      e.   A right of appeal to the courts, in relation to the
+           issue of safety certificates and their contents, the
+           procedure for which is set out in regulations made
+           under the Act.
+
+      f.   Rights of the police and either fire authorities or
+           building authorities, to consultation, access to
+           grounds and information and to appeal against terms and
+           conditions in safety certificates.
+     g.    A power to local certificating authorities to
+           restrict or prohibit the admission of spectators to a
+           sports ground (or any part of it) if there is a serious
+           risk to spectators.
+
+     h.    Powers of entry and inspection to sports grounds; and
+           prescribed offences.
+
+     i.    A duty on local certificating authorities to enforce
+           the provisions of the Act and arrange annual
+           inspections of designated sports grounds.
+
+Fire Safety and Safety of Places of   Sport Act 1987 (the 1987 Act)
+
+20. Part II of the 1987 Act amended the 197 5 Act in the
+following ways:-
+
+     *(a) The distinction between a sports "stadium" and sports
+          "ground" originally made in the 197 5 Act was abolished
+          (section 19 of the 1987 Act). This resulted in
+          consequential amendment to section 2 of the 1975 Act
+          which no longer provides for mandatory terms and
+          conditions and the insertion of a new section 15A which
+          enables modification of the 1975 Act to be made in
+          respect of different classes of sports ground.
+
+     (b)   A new power was given for the Secretary of State to
+           vary the 10,000 threshold at which a sports ground may
+           be designated (section 20 of the 1987 Act).
+
+     (c)   Where safety certificates contain terms/conditions on
+           police presence at a sports ground specific provision
+           was made for the extent of that presence to be reserved
+            for determination by the relevant Chief Police Officer
+            (section 21 of the 1987 Act).
+
+     (d)   All appeals were re-directed from the Secretary of
+           State to the courts (section 22).
+     *(e) A new power was given to local certificating
+          authorities to issue (subject to a right of appeal to
+          the courts) a notice prohibiting or restricting the
+          admission of spectators to a ground, or part(s) of it,
+          if there is a serious risk to their safety (sections 23
+          and 24 of the 1987 Act). This power replaced the
+          earlier emergency procedure.
+
+     *(f) A duty was placed on local certificating authorities to
+          enforce the 1975 Act's provisions and, for that
+          purpose, to arrange inspections of designated grounds
+          at least once a year in accordance with any guidance by
+          the Secretary of State (section 25 of the 1987 Act).
+
+All these changes came into effect from 1st January 1988. Home
+Office Circular 71/1987 (see Annex B) introduced these provisions
+to local authorities.
+
+Designation under the 1975 Act
+
+21. The power to designate a sports ground with accommodation
+for over 10,000 spectators as requiring a safety certificate is
+exercised by the Secretary of State by order subject to the
+negative resolution procedure of Parliament. For Scotland this
+is done by the Secretary of State for Scotland. For Wales, the
+Secretary of State for Wales has been content that designation of
+Welsh grounds should be covered in the same designation order as
+English grounds. That order is made by the Home Secretary.
+
+22. A summary of the effects of designation of a ground on the
+ground operator is summarised below.
+
+     (a)   The management must apply for a safety certificate and
+           no spectators may be admitted until such an application
+           is made (s. 1(1) and s.12 (1)(a)).
+
+
+
+
+* Denotes a recommendation of the Popplewell Inquiry.
+     (b)   An applicant must furnish the local authority with
+           appropriate information in order for a safety
+           certificate to be issued (s.3 (4)(5) and s.12 (l)(a)).
+
+     (c) The holder of the safety certificate must comply with
+          its terms and conditions (s.12 (l)(d)).
+
+     (d) The holder is required to give access for entry and
+          inspection of the premises and records (s.12 (6)(d)).
+
+     (e) The holder if required to inform the issuing authority
+          of any proposed changes which are likely to affect
+          spectator safety (s.8 (1) and s.12 (6)(c)).
+
+     (f)   If the owner/occupier is aggrieved by the inclusion or
+           omission of a particular clause in a certificate he has
+           the right to appeal within certain time limits
+           (s.5(3)).
+
+A breach of the requirements at (a) to (e) above can lead to the
+commission of an offence under s.12 of the Act.
+
+23. Designation was initially applied in phases, beginning with
+major international stadia (eg Wembley, Twickenham) and grounds
+used by football clubs in Division 1 of the Football League. The
+second phase in 1979 extended designation to grounds used by
+clubs in Division 2 of the Football League. Thereafter, until
+1985 grounds of clubs promoted to Division 2 were designated each
+year. The fire at Valley Parade, Bradford led to the extension
+of designation to all football league and rugby league grounds
+able to accommodate over 10,000 spectators. Designation was
+later extended still further to all football grounds (ie "non­
+league" grounds), rugby union, rugby league and cricket grounds
+identified as having accommodation for over 10,000 spectators
+ (Popplewell Inquiry, Final Report, recommendation 2). A list of
+designated grounds is at Annex C.
+Safety certificates
+
+24. The main instrument of control under the Act is the safety
+certificate issued by the local authority. A general safety
+certificate is needed in respect of every ground which is the
+subject of a designation order. The certificate enables the
+local authority to impose such terms and conditions as are
+necessary to ensure a reasonable standard of safety at the ground
+in question.
+
+25. Safety certificates are of two kinds, general and special.
+A general safety certificate is the main continuing form of
+control and is issued for an indefinite period in respect of a
+specified activity or activities regularly taking place at the
+ground. A special safety certificate may be issued at the
+discretion of the local authority for a special event or other
+circumstances not covered by the general safety certificate.
+Such an event might be an evangelistic rally which might call for
+special arrangements if, for example, seating were provided for
+the congregation on the playing area. A special safety
+certificate can be issued only in respect of a sports ground for
+which a general safety certificate is already in force.
+
+26. Designation of a sports ground by the Secretary of State
+requires the occupier to apply for a general safety certificate
+if spectators are to be admitted to the ground. The local
+authority must then determine if the applicant is a "qualified
+person" (ie someone who is likely to be in a position to prevent
+contravention of the terms and conditions of a safety
+certificate), and if they do so determine they must issue a
+general safety certificate. In this respect the general safety
+certificate is different from a fire certificate issued under the
+Fire Precautions Act 1971: the latter is issued only after
+necessary safety works have been completed, whilst the safety
+certificate under the 1975 Act can be issued almost from the
+outset and is an instrument of continuing control.  (In practice
+local authorities and clubs often discuss arrangements for safety
+and set voluntary crowd 'limits' until remedial work is carried
+out) .
+The issue of a special safety certificate, however, is left to
+the discretion of the local authority because only they can judge
+whether it is appropriate to issue it for the special occasion in
+question.
+
+Local certificating authorities consultation
+
+27. The local authorities in England and Wales responsible for
+the issue of safety certificates were, until April 1986, the
+county, and metropolitan county councils and the GLC. They were
+required to consult the police and the local authority
+responsible for building control (the building authority) about
+the contents of safety certificates. Following local government
+reorganisation in 1986 certificating responsibilities under the
+1975 Act in London and the metropolitan county areas were
+transferred under section 16 and schedule 8 paragraph 7 of the
+Local Government Act 1985 to the London borough councils and the
+metropolitan district councils (who are building authorities).
+As a result the consultation requirement was also changed, so
+that in London and metropolitan county areas the certificating
+authority is required to consult the police and the fire
+authority. Elsewhere the certificating authority, ie the county
+councils, is also the fire authority: the requirement there is
+for the police and building authority to be consulted.
+
+Modification/cancellation/transfer of certificates
+
+28. The local authority has power to amend or replace a safety
+certificate; and, by the same token, the holder can apply to the
+authority for amendment or replacement.
+
+29. The only circumstances in which an authority can cancel a
+safety certificate is if the holder dies or (if the holder is a
+body corporate) is dissolved. But the holder of a safety
+certificate can surrender the certificate to the local authority,
+and then it ceases to have effect.
+30. Similar procedures to those for applications for safety
+certificate apply to the transfer of a safety certificate. An
+application may be made by the existing holder or the prospective
+new holder. The issuing authority has to determine if the new
+holder is qualified and, if so, there is discretion given to the
+authority to transfer the certificate. The authority has to copy
+the transfer application to the appropriate Chief Officer of
+Police and either the building authority or fire authority (see
+paragraph 27 above).
+
+Alterations to certificated stadia
+
+31. The holder of a safety certificate must give notice to the
+local authority of any proposals for alterations or extensions to
+the stadium if such works are likely to affect the safety of
+spectators. This requirement is particularly aimed at
+alterations to exits or entrances including means of escape in
+the event of an emergency.
+
+Procedures and fees
+
+32. The procedures and time limits for applications for general
+and special safety certificates are set out in the Safety of
+Sports Grounds Regulations 1987 (SI No 1987/1941); these include
+provision for the local authority to have discretion to charge
+fees for the issue of safety certificates at a level that covers
+the administrative costs.
+
+Appeals
+
+33. There are four decisions by the local certificating
+authority against which an appeal may lie:-
+
+     (a)   Determination by the local authority that an applicant
+           for a safety certificate is not a "qualified person" -
+           (s.5 (1)).
+
+     (b)   Refusal by the local authority to issue a special
+           safety certificate (s.5 (2)).
+     (c)   Inclusion or omission of anything in or from a safety
+           certificate (s.5 (3)(i)).
+     (d)   Refusal by the local authority to amend or replace a
+           safety certificate (s.5 (3)(ii)).
+
+The procedures and time limits for appeals are laid down in the
+Regulations (SI 1987/1941).
+
+34. The applicant for a safety certificate may appeal against a
+local authority decision under (a) to (d) above. Appeals under
+(c) and (d) above can also be made by the Chief Officer of Police
+and either the building authority or fire authority (see
+paragraph 27).   Anyone else who is or may be concerned in
+ensuring compliance with the terms and conditions of the safety
+certificate may also appeal under (c) and (d) above.
+
+35. If a local authority serves notice that an applicant is not
+a qualified person, he is deemed to have withdrawn the
+application for the safety certificate. An appeal against that
+decision suspends the withdrawal at least until the appeal is
+determined. Similarly, while the outcome of an appeal is
+pending, the condition appealed against does not apply (s.7 (3)).
+
+Offences
+
+36. There are a number of offences in connection with safety
+certification which can be committed by the management of a
+sports ground and/or the holder of a safety certificate. Once a
+designation order comes into force, it is an offence:
+(i) if spectators are admitted
+
+     (a)   at a time when no safety certificate has been applied
+           for (s.12 (1)(a)) or
+
+     (b)   if an application for a certificate has been made but
+           withdrawn or deemed to have been withdrawn (s.12
+     (c)   to an activity at the ground not covered by a safety
+           certificate (s.12 (l)(b).
+
+     (d)   on an occasion following surrender or cancellation of a
+           certificate, when no certificate is in operation (s.12
+           (l)(c).
+
+(ii) to contravene any term or condition of a safety certificate
+     (s.12 (1) (d)).
+
+37. It is also an offence for spectators to be admitted to a
+sports ground in contravention of a prohibition notice issued
+under s.10 (s.12 (l)(e)) - see paragraphs 41-43 below.
+
+38. A person found guilty of an offence under these provisions
+may be fined up to the statutory maximum on summary conviction
+and on conviction on indictment to imprisonment for not more than
+2 years or a fine, or both.
+
+39. There is a defence provision for a defendant to prove that a
+breach took place without his consent and that he took all
+reasonable precautions and exercised due diligence to avoid the
+commission of such an offence by himself or any person under his
+control.
+
+40. The above are penalty provisions bearing upon the management
+of a stadium/holder of a safety certificate. There is also
+provision for (somewhat) lesser offences in relation generally to
+the certification procedures. Thus an offence is committed by
+any person who does not provide information to the Secretary of
+State for the purposes of his estimating the crowd capacity of a
+stadium or who provides to the Secretary of State or a local
+authority false information; or who fails to notify a local
+authority of proposed alterations to a stadium; or intentionally
+obstructs a person authorised to enter and inspect the premises
+or otherwise fails to answer the questions in the exercise of
+these powers (s.12(6)). Offences in this category attract on
+summary conviction a fine of up to statutory maximum (s.l2(6)).
+Provision also exists for any regulations introduced to provide
+that a breach of those regulations constitutes an offence
+(s.12(5)).
+
+Serious risk to spectators
+
+41. The certification procedures described above provide the
+main framework for securing the reasonable safety of spectators
+under the 1975 Act. There is also a general, reserve power under
+section 10 of the Act for local authorities to issue a notice
+prohibiting or restricting the admission of spectators to a
+ground, or any part of it, if the risk to their safety is judged
+to be serious enough to justify doing so.
+
+42. There is a right of appeal to a magistrates court against
+such a notice (which must be copied to the police and building
+authority or fire authority) by an aggrieved person - a defined
+term intended to cover those who would be expected to have
+responsibility for safety at a sports ground. A further right of
+appeal to the Crown Court may be expressed against any order of
+the magistrates court by the aggrieved person, the local
+authority, the police and either the building authority or the
+fire authority. Time limits in which to appeal are laid down in
+the Safety of Sports Grounds Regulations 1987.
+
+43. Paragraphs 13-20 of the Annex to HO Circular 71/1987 (see
+Annex B) contain advice to local authorities on how the section
+10 power might be exercised.
+
+Duty of enforcement
+
+44. New section 10B of the 1975 Act provides for local
+certificating authorities to enforce the Act's provisions and,
+for that purpose, to arrange inspections of designated sports
+grounds at least once every year in accordance with guidance from
+the Secretary of State. Guidance was issued under cover of HOC
+72/1987 (see paragraphs 48 and 53 and also Annex D).
+The 1975 Act contains power for local authorities, police and
+either fire or building authorities (see paragraph 27 above) to
+authorise entry for inspection of a sports ground, and to examine
+and copy records relating to attendances. This power is also
+extended to the Secretary of State (see paragraph 48 below).
+
+Exercise bv local authorities of their powers and duties
+
+45. The Home Office has only limited information on how local
+authorities have exercised their powers under the Act. The local
+authority is informed when an Order is made designating a ground
+in respect of which that authority will be responsible for the
+issue of a general safety certificate; and explanatory background
+information is provided on how the Act works and their
+responsibilities under it. Most local authorities have in the
+past made a practice of furnishing the Home Office with copies of
+safety certificates (and sometimes of special certificates) that
+they have issued (although there is no obligation on them to do
+so). It is not normally the practice for local authorities to
+seek advice of the Home Office about specific conditions attached
+to safety certificates. Technical opinion may be sought by both
+authorities and ground spectators (or their professional
+advisers) from time to time on the interpretation of the Guide to
+Safety at Sports Grounds and how the Guide's principles may be
+applied to the problems at a particular ground. Home Office
+involvement here has, by necessity, to be limited even where it
+can be given because of the lack of knowledge of individual
+grounds and the problems posed by their design and configuration
+when in use.
+
+46.   In general, the approach to certification and inspection
+most favoured by local authorities is understood to be the team
+approach.    This was acknowledged by the Popplewell Inquiry
+(Final Report 3 - 6 9 ) as an effective method notwithstanding the
+inherent difficulty of balancing the views/input of different
+disciplines.    This approach also ensures the consultation
+requirements of the 1975 Act (see paragraph 27) are fulfilled as
+well as bringing different skills to bear on safety problems.
+47.   The organisation of the teams is a matter left to local
+authorities who are best placed to determine the arrangements
+which most suit them.    The lead may vary: for example, in some
+authorities the building control may be the lead department, in
+others the engineering department may assume the lead role.
+The legal or chief executive's office may co-ordinate the
+required action.   Typically, a safety team is likely to consist
+of personnel from building control, engineering, fire, police and
+may also include environmental health and electrical engineering.
+
+Other powers of the Secretary of State
+
+48.   As well as the authorities referred to in paragraph 44
+above, the 1975 Act empowers the Secretary of State to authorise
+entry for inspection of a sports ground and to examine and copy
+records relating to attendances. The reason for this power was
+to ensure the Secretary of State could discharge the functions as
+an appellate authority (now discharged by the courts, see
+paragraph 20d above) and also for designation purposes.
+
+Regulations
+
+49.   In addition to the powers connected with designation of
+grounds, the Secretary of State has powers under Section 6(1) of
+the 1975 Act to make regulations to:-
+
+     (a) prescribe the procedures for the issue, transfer and
+     amendment of safety certificates;
+
+     (b) give authorities discretion to charge fees in respect of
+     applications for issue etc of safety certificates; and
+
+     (c) prescribe the time limits for appeals to the courts.
+
+
+
+50.   Under section 6(2) the Secretary of State may by regulation
+make provision for securing safety at sports grounds, and under
+section 18 (1A) (inserted by section 19 of the 1987 Act) for
+different provision to be made for different classes of sports
+ground.
+
+51.   Regulations have been made covering (a) to (c) in paragraph
+49 above (SI 1987/1941).   The powers under Section 6(2) and
+18(1A) have not been used.
+
+Power to modify the 1985 Act
+
+52. Under section 15A of the 1975 Act (inserted by section 19 of
+the 1987 Act) the Secretary of State may modify the provisions
+of the 1975 Act as applied to different classes of sports ground.
+This power has not been used.    Along with the regulation making
+powers of section 18(1A) , it was intended to allow maximum
+flexibility in the way the Act, and certification measures under
+it, was operated.   In this way, if particular safety
+requirements were applicable only to a particular class of
+designated sports ground, it would be possible to include
+suitable terms and conditions in any safety certificate issued
+for a sports ground of that class without affecting the contents
+of safety certificates for other sorts of sports ground.
+
+Statutory Guidance bv the Secretary of State
+
+53.   Statutory guidance on annual inspection of designated
+sports grounds by local authorities has been issued under cover
+of Home Office Circular 72/1987 (See Annex D). The aims and
+objectives are set out in the supplementary notes to the
+statutory guidance.   The inspections might best be described as
+monitoring inspections which are in addition to, but do not
+replace, the more detailed inspection regimes envisaged by the
+safety certificate requirements, or those already carried out by
+local authorities when amending safety certificates. The
+statutory inspections ensure at least a minimum inspection of
+grounds by local authorities, providing an opportunity to observe
+and require to have remedied any obvious safety deficiencies at
+the ground.
+PART III
+
+FIRE SAFETY AND SAFETY OF PLACES OF SPORT ACT 1987
+
+General
+
+54 As mentioned in paragraph 9 above, Part III of the 1987 Act is
+free standing of the 1975 Act.   It applies to grounds which are
+not designated under the 1975 Act but which have covered stands
+for spectators and as such complements the provisions of the 1975
+Act.
+
+Regulated Stands
+
+55 The 1987 Act provides for stands (as defined) at non­
+designated sports grounds which can accommodate at least 500
+spectators under cover (either seated or standing) to require a
+safety certificate for the stand.    Such stands are termed
+regulated stands.    A summary of the system is described in a
+Home Office publication giving advice to ground managers on the
+effects of Part (III) of the 1987 Act (see Annex E). Local
+authorities determine - subject to a right of appeal, but in
+accordance with statutory guidance from the Secretary of State
+(see paragraph 57) - which stands are regulated stands.     Advice
+to this effect is served on the person who appears to qualify for
+the issue of a general safety certificate.    Thereafter, the
+system operates very much as that under the 1975 Act.
+Application for a safety certificate has to be made if spectators
+are to be admitted to the regulated stand.    The local authority,
+once they have determined who is qualified to hold the safety
+certificate, must issue a certificate containing terms and
+conditions which are necessary or expedient to secure reasonable
+safety when the stand is in use for viewing specified activities
+at the ground.   (Note: the safety certificate does not have
+effect if the stand is used for some other purpose, eg an
+exhibition held within it).    Provision is made for consultation
+as in the 1975 Act, appeals to the courts, offences, powers of
+entry and inspection and a duty of enforcement.
+A detailed account of Part III of the 1987 Act together with
+general advice on certification was sent to local authorities
+under cover of Home Office Circular 96/1988 (see Annex F).
+
+Statutory Guidance under Part III
+
+57.   There have been two sets of statutory guidance issued by
+the Secretary of State
+
+     (a) under section 26(8) of the 1987 Act, on the
+     determination of a regulated stand and
+
+     (b) under section 34 (2) of the 1987 Act, on inspections.
+
+The first of these is intended to set a yardstick for calculating
+the notional occupancy of the stand accommodation to determine
+whether a stand requires a safety certificate.   The second lays
+down guidance on inspections of regulated stands which is similar
+to that in respect of inspections carried out annually of
+designated sports grounds (see paragraph 53).   The frequency of
+inspection is however variable depending upon the size of the
+stand accommodation.   Home Office Circular 97/1988 covers both
+sets of guidance (see Annex G).
+
+Regulations under Part III
+
+58 Regulations on the procedures for applications for and the
+issue of safety certificates, appeals, and authorising local
+authorities to charge to cover costs of work resulting from
+applications were made in October 1988 (The Safety of Places of
+Sport Regulations 1988, SI 1988/1807).   These regulations,
+together with the Part III of the 1987, Act came into force on 1
+January 1989.
+kh.5.18/ssggreen.dm
+
+PART IV
+
+THE GUIDE TO SAFETY AT SPORTS GROUNDS (THE GREEN GUIDE)
+
+Origins
+
+59. In 1973 in the follow-up to the Wheatley Report and while
+the 1975 Act was still in preparation, the first Guide to Safety
+at Sports Grounds was issued by the Home Office and Scottish
+Office. The Guide covered much of the ground originally outlined
+in Appendix A to the Wheatley Report, but also took into account
+further technical work and tests carried out on, for instance,
+strength tests for crush barriers (see paragraphs 71-72 below).
+
+
+
+60. The booklet was published explicitly as a general guide to
+measures for improving safety at any sports grounds, though the
+point was made in the introduction that the recommendations had
+been framed mainly with football in mind.
+
+61. In December 1976 a revised version was introduced in which
+some of the technical material had been updated in the light of
+experience; and an additional section was added at the end
+(section 14 in the present Guide) incorporating the
+recommendations of the Working Party on Crowd Behaviour, under
+the chairmanship of the then Minister for Sport. Reflecting this
+development the Guide was re-titled The Guide to Safety at Sports
+Grounds (Football).
+
+Application of the Guide
+
+62. The Guide was drawn up for (and continues to be aimed at)
+safety in existing sports grounds. The design, configuration,
+location, age, condition and use of these can vary substantially.
+The Guide therefore provides principles, together with some
+technical advice on physical requirements, to achieve reasonable
+safety.
+This acknowledges that absolute safety in circumstances where
+thousands of people are assembled in a (relatively) confined area
+is not attainable - and not in fact required by the 1975 Act. In
+this respect both the Guide and the 1975 Act reflect the
+principles of the Wheatley Inquiry (paragraphs 8-11, 20 and 68 of
+Cmnd 4952) of flexibility in the application of guidelines to
+individual grounds.
+
+63. For the above reasons the Guide is not a statutory code but
+safety certificates issued under the 1975 Act (or Part III of the
+1987 Act in respect of regulated stands) may call up on the
+recommendations in the Guide in their terms and conditions.
+
+Popplewell Inquiry
+
+64. The Guide was further reviewed by a Technical Working Group
+set up in September 1985 by the Popplewell Inquiry. The overall
+conclusion of the group was that the Guide, whilst in need of
+some revision and expansion, had stood up well to close
+examination and justified the high regard in which it was
+generally held (Popplewell Final Report, Appendix E).
+
+Revised Guide
+
+65. A revised edition of the Guide, in line with the Inquiry's
+recommendations, was issued in October 1986. Distribution
+included the main representative sporting bodies, all then
+designated grounds, local certificating authorities, Chief
+Officers of Police and Chief Fire Officers.
+
+66. Changes were made to the format and structure of the Guide
+but it still relied (and continues to rely) heavily on the
+technical material of the earlier Guide. New sections on
+management responsibility and stewarding were added and the
+section on fire safety was substantially expanded. Amendment was
+also made to the crowd control section (now section 14).
+Other developments
+
+67. Shortly before the fire at Bradford City FC, following a
+serious outbreak of violence in the spectators enclosure and
+pitch invasion at the match between Luton and Millwall on
+13 March 1985, the recommendations in the Guide on crowd control
+were subject to review to see if they needed to be strengthened
+and amplified to take account of crowd violence hazards. This
+decision was conveyed to the FA in correspondence from the Prime
+Minister in April 1985 as part of an initial range of anti­
+hooligan initiatives, including effective pitch perimeter
+fencing, that had been agreed between the football authorities
+and the government in the light of the Luton v. Millwall
+incident. Specific reference was subsequently made in the Guide
+to the need for a special police presence (as determined by the
+Chief Officer) inside major football grounds in order for
+management to discharge properly their safety responsibilities
+(paragraph 204 of the Guide).
+
+Pitch Perimeter Fencing
+
+68. The Luton v. Millwall match drew into focus the question of
+pitch perimeter fencing - that is fencing designed specifically
+to prevent access to the pitch - and the disorder witnessed at
+that game. Pitch perimeter fencing is also addressed in the
+Popplewell Report (Interim Report recommendation 24 and Final
+Report Chapter 4. 136). The Bradford fire demonstrated the need
+for sudden access to the pitch in an emergency, whereas the
+absence or inadequacy of the fencing at Luton (and later at
+Birmingham on 11 May 1985) contributed to the disorder which
+could so easily have led to a more serious loss of life - as
+evidenced by the tragedy at Heysel and indeed, albeit to a lesser
+extent, at Birmingham. The present version of the Guide still
+recognises these considerations and in seeking to reflect the
+desire of the Popplewell Inquiry to be more explicit refers to
+the possible need for pitch fencing. At the same time the Guide
+ (paragraphs 214-215) also draws attention to the need to allow
+full access to the playing area in an emergency.
+Crush barriers
+
+69. Crush barriers are intended to combat known, inherent
+dangers which arise from crowd pressure and surging. Such
+barriers are essential to help control any build-up of pressure
+in the crowd.
+
+70. The principles of their strength, spacing and location are
+intended to limit this build-up so that serious injury is not
+caused to those pressed against them. Although uniformity of
+crowd dispersal is unlikely ever to be achieved crush barrier
+construction should be such that at the maximum overall level of
+crowd density recommended in the Guide (54 persons per 10 square
+metres) barriers will not collapse and those pressed against them
+in any crowd surge will not suffer injury - although they may
+experience some discomfort.
+

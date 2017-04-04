@@ -1,0 +1,281 @@
+hs.10.17/hillsbl4.dm
+
+INFORMAL MEETING WITH THE HILLSBOROUGH INQUIRY
+17 OCTOBER 1989 1430 HOURS
+
+
+BACKGROUND BRIEFING MATERIAL
+
+
+
+HOME OFFICE ROLE
+
+
+The perceived role of the Home Office in securing sports grounds
+safety is now two fold:
+
+
+     (a)    to create the legislative framework to secure
+     reasonable safety at sports grounds (ie the Safety of Sports
+     Grounds Act 1975 (the 1975 Act))?
+
+
+     (b) to produce associated guidance to sports grounds and
+     local authorities used by the public in any sizeable
+     numbers.
+
+Up 1.1.88 the Home Office was also the appellate authority
+between local authorities and clubs in disputes over safety
+certificates.   From 1.1.88 the appellant function was moved to
+the courts.   Appeal is now to a Magistrates' Court.     This is
+consistent with the appeal provisions under the Fire Precautions
+Act 1971 (the 1971 Act).
+
+SAFETY OF SPORTS GROUNDS ACT
+
+Safety certification
+
+
+The 1975 Act follow broadly the recommendations of the Wheatley
+Inquiry (Command 4952).     See Home Office written evidence
+paragraph 1.
+
+Safety certification is not identical to the Wheatley idea.   That
+inquiry drew a parallel with licensing,    envisaging an annual
+licence following inspection    and   rectification   of   the   most
+obvious ground defects.
+
+Annual certification was also recommended by the Popplewell
+Inquiry (recommendation 9-1 of the Final Report).
+
+The present system
+
+Safety certification is the means to specify the requirements and
+to control the number of people allowed into a ground
+commensurate with its condition at any given time.            The
+authorised capacity can be adjusted in line with work done and
+the changed conditions.   The 1975 Act is structured accordingly.
+
+In common with fire certification it provides a continuous form
+of control.
+
+
+Unlike a fire certificate, a safety certificate can, in theory,
+be issued from the day of designation. In practice at least some
+remedial work is agreed between club and local authority prior
+to the issue of the safety certificate (paragraph 26 of Home
+Office written evidence).
+
+
+Annual Renewal
+
+In the above circumstances annual renewal is not considered any
+great advantage.   Arguments are summarised in the Home Office
+consultative document paragraphs 2.40 - 2.45.
+
+
+Annual Inspections
+
+Section 10B of the 1975 Act (as amended by section 25(1) of the
+Fire Safety and Safety of Places of Sport Act 1987 places a
+statutory duty upon local authorities to arrange the inspection
+of designated sports grounds at least once a year. Combined with
+the continuous control of the safety certificate itself and the
+emergency powers under section 10 of the 1975 Act (as amended by
+section 23 of the 1987 Act) should provide local authorities with
+enough enforcement powers.
+Enforcement
+
+We have limited information about prosecutions under the 1975
+Act. We know of 3: West Hall, Aston Villa and Wembley.    (ACC
+evidence states that only a handful of prosecutions have taken
+place.)
+
+Similarly we have no detailed knowledge of the number of
+prohibition notices issued under section 10 of the 1975 Act. We
+are aware that some such notices have been issued. The numbers
+appear to be small - which is not surprising given that all
+football league grounds except one are designated as requiring
+safety certificates.
+
+Comment: Reasons for the above may be that football grounds are
+not wilful in their non-compliance with safety requirements and
+that authorities prefer to work together with clubs rather than
+opt for prosecution. The threat of issue of prohibition notices
+may also be an effective way of achieving results. [Possibility
+that Sir Peter Taylor may suggest that absence of action may also
+be an indication that local authorities are not using the powers
+available to them.]
+
+Inconsistency and National Inspectorate
+
+ACC evidence draws attention to different arrangements within
+different counties.     (AMA evidence has not been seen.)
+Metropolitan district councils will probably have a different
+method of approach.
+
+Abolition of the GLC and metropolitan counties meant devolution
+of the 1975 Act's functions to the metropolitan districts in the
+relevant areas.
+
+Some inconsistency is probably inevitable.   But this may to some
+extent be attributed to:
+
+     (a)   different conditions and configuration of grounds?
+     (b) the different uses of the grounds and their authorised
+     capacities ?
+
+     (c)    the nature of the crowd (some grounds attract
+     traditionally a more troublesome crowd than others);
+
+     (d)   the perceived quality of ground management.
+
+National Inspectorate:     The present legislation follows the
+Wheatley principals - delegating responsibility for certification
+to local authorities.       Popplewell judged that it worked
+satisfactorily (Final Report chapter 3-4, 3-23, 3-69).
+
+The Football Spectators Bill makes provision for the new national
+licensing authority (FLA) to take on a supervisory role. This
+provision is contingent upon the inquiry's conclusions in its
+Final Report. The FLA is limited in its scope to those grounds
+at which designated matches (ie designated under the Bill) are
+played.
+
+GREEN GUIDE
+
+Status -
+
+We understand that the inquiry has set up a small working group
+to consider which parts of the guide should be made mandatory (if
+any) and to consider some of the technical advice in the guide.
+
+
+The guide is currently a voluntary code - again following the
+principals of the Wheatley Inquiry (para. 51 of the Wheatley
+report). This approach was endorsed by Popplewell (chapter
+3-48 of the Final Report).
+
+
+Use of the Guide
+
+The guide is not intended to be a design brief for new stadiums.
+It is aimed as securing safety at existing sports stadiums. It
+is still orientated towards football stadiums but has, we
+believe, application to other sports grounds.
+Requirements to secure reasonable safety at an individual ground
+still rest with those assessing the ground.     That is why the
+guide is voluntary and (in our view) should be applied flexibly.
+It attempts to take into account that, perfection cannot be
+achieved within existing grounds many of which are run down and
+poorly located.
+
+
+Planned Changes
+
+Minor adjustments to the guide were under consideration at the
+time of the Hillsborough accident following comments from the
+ACC. We had also agreed to include more guidance on first aid
+provision.   Adjustment to chapter 16 paragraph 226 is also
+necessary:   the example on page 67 needs adjustment because
+barrier spacing cannot be achieved given the terrace dimensions
+quoted. It is also clear that there are other ways in which the
+Guide can be improved to improve presentation and clarity.
+
+Technical Annex - Appendix E of the Popplewell Final Report:
+Defensive Briefing
+
+Considerable effort was made to implement sensibly all of the
+technical recommendations of the working group set up by
+Popplewell. One or two of the recommendations, mainly involving
+further research, have not been put into effect. Mostly these
+were because the research ideal did not stand up to serious
+scrutiny.   The following items are those on which we may be
+vulnerable.
+
+PeGmmnendation 2:   Production of Summary Documents etc
+
+The   Institution   of   Structural  Engineers    is   producing
+supplementary advice to engineers. This was seen as a sufficient
+follow up to the recommendation. Home Office are represented on
+the Institution's sub-committee.
+Recommendation 5:    Self-contained Section on Good Safety Design
+
+The early paragraphs of chapter 1 of the guide makes some attempt
+at this. But the guide is not a new design brief - a point which
+sometimes did not appear to be appreciated by the Popplewell
+technical working group.
+
+Recommendation 14/32: Review of the testing of crush barriers
+with local authorities
+
+In fact Mr Stickley has met and/or spoken to a number of local
+authority representatives as well as engineers employed by
+football clubs. He also serves on the ISE's sub-committee (see
+above) which consists of both private and public sector
+engineers.
+
+Home Office letter of 3.10.86 to local authority associations
+accompanying the revised green guide sought suggestions for an
+on-going consideration of the guide or supplement to it:
+particular emphasis being placed on local authority knowledge of
+crush barriers' strength, test loading etc.      We have had no
+response on this point.
+
+
+Recommendation 23:    Study of Exit Signposting
+
+
+The revised guide, paragraph 5.7 refers more closely to British
+Standards for which, FSI agreed was sufficient.
+
+Recommendation 25/2 6: Relationship between packing density and
+emergency evacuation and possible casualties which might be
+attributable to the former
+
+The first of these recommendations was not implemented because
+the relationship referred to does not, so far as could be
+ascertained, exist. The second recommendation involving further
+study was felt to be of limited value.     We already know the
+consequences of high packing densities; to attempt a worthwhile
+study of casualties which might be attributable to high packing
+densities seemed to have little mileage given the local
+variations in the crowd numbers which could exist at any time.
+•Recommendation 42: Assessment of the Evacuation of a Stand under
+Emergency Conditions
+
+This was an idea put to SRDB whose views were that the earlier
+studies carried out by Scicon remain sufficiently valid and,
+following further enquiries by SRDB of the Medical Research
+Council and the Civil Aviation Authority no additional material
+was unearthed. The point was not therefore pursued.
+
+Recommendation 52:   Standard Guidance covering the use of Public
+Address Systems
+
+
+Separate research on evacuation management (in the case of fire)
+has already been taken up by the Department independently of the
+Popplewell report and forms part of the future research
+programme.
+
+
+Pitch Fences
+
+Two issues arise here:
+
+     (a)  all pitch fences provide some sort of impediment to
+     forward movement onto the playing area in an emergency. All
+     therefore require some form of emergency exit if the pitch
+     is to be used in an emergency. The adequacy of the exits
+     therefore is linked to the numbers of people authorised to
+     occupy the space behind the fence.
+
+     (b)   collapsible fencing can itself be unsafe if spectators
+     can lean on it. In this event, the guide advocates that the
+     fence should be as strong as a crush barrier since it is
+     being used for the same purpose.   Collapsible fencing is
+     only likely to be safe if the crowd are set back from the
+     fence.  Whether grounds have sufficient space to achieve
+     this is not known.
+

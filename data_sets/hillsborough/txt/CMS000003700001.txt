@@ -1,0 +1,246 @@
+                                                                                       m-
+
+             FOOTBALL MEMBERSHIP AUTHORITY SUB-COMMITTEE
+
+
+MINUTES OF A MEETING HELD ON WEDNESDAY, 26TH APRIL 1989, AT THE
+OFFICES OF THE FOOTBALL ASSOCIATION, LANCASTER GATE," LONDON ~W2~
+
+
+
+Present:        l.H. S to tt (Management Committee) - in the Chair
+
+                W.G. McKeag, B.A. (Cantab.) (Management Committee)
+                T.R. Phillips (Commercial Director)
+                G. Kirton (Football Association)
+                D. McDonald (Department of the Environment)
+
+                N. Kinghan (Department of th e Environment)
+                K.P. Stein (Arthur Young)
+                C. Metcalfe (Arthur Young)
+                C.J. Whalley (Football League)
+
+
+
+
+The meeting commenced a t 2.00 pm.
+
+APOLOGIES FOR ABSENCE
+
+Apologies for absence were received from Mr. R.H.G. Kelly (Football Association)
+and from Mr. J.A. Crawford (Football League). The Chairman welcomed Mr. McDonald
+to the meeting.
+
+MINUTES OF LAST MEETING
+
+The Minutes of the last meeting held on 4th April, 1989, were taken as read
+and signed by the Chairman as a correct record, subject to the following amendments:
+
+Page 2 - Selection of Suppliers - line 5
+         "140 companies" should read *121 companies"
+
+Page 4 - item v) - Membership Card
+         "..... th e Government had no view on ..... " should read
+         "..... the Government had no preconceived ideas about ......"
+
+MATTERS ARISING FROM THE MINUTES
+
+a)    Football Spectators Bill
+
+     Mr. Kinghan reported th a t the amendments he had outlined a t the last meeting
+     had gone through a t Report Stage in th e House of Lords. He added th a t
+     the Government had undertaken to look a t a simplified appeals procedure,
+     but it was not looking to take this away from th e FMA. Mr. McKeag requested
+     th a t the Government d ifferen tiate between oral and w ritten evidence.
+     Mr. Kinghan fe lt th a t the Government would take this on board.
+
+      Mr. Kinghan responded to th e queries which Mr. McKeag had raised a t the
+      last meeting:
+
+
+                                                        Continued/2
+lontinued/2
+
+
+     i)       on restriction orders - Mr. Kinghan stated th a t the Home Office
+              view was th a t it would not be right for them to issue guidance to
+              the Courts on the criteria to be adopted on restriction orders.
+
+     ii)      on mandatory disqualifications - Mr. Kinghan stated th a t the view
+               was th a t it was not necessary fo r the Court to make an order of
+              disqualification. The Court would s ta te th a t an offence was relevant
+              and inform the FMA. Mr. McKeag saw no reason why the Court
+               could not tell the offender th a t he was disqualified forthwith and
+               th a t he would be notified in due course; his identity card could be
+              surrendered.
+
+              Mr. Kinghan fe lt th a t th e provision for immediate disqualification
+              could be contained in th e rules of membership. He pointed out th a t
+              the Bill provided for a c e rtific a te of relevance to be sent out by
+              the clerk of the Court. Mr. McKeag’s suggestion would require it
+              to be handed over there and then.
+
+     iii)     on appeals - Mr. Kinghan reported th a t the view was th a t an offender
+               would have to be disqualified whilst his appeal was pending, as the
+              obligation would be for the Court to notify the FMA of such appeal
+               and this would prove difficult to administer. Mr. McKeag wondered
+               if there would be compensation for people wrongly disqualified, particularly
+               for pre-payment supporters such as season tic k e t holders. Mr. Kinghan
+               felt th a t the Home Office would be unlikely to consider this.
+
+b)   Drafting of Scheme
+
+     i)       Membership (D ata Protection Act) - Mr. Kinghan reported th a t
+              there was nothing to stop the police or the FMA holding the names
+              of people who are not members, providing th a t the police and the
+              FMA are registered under the Data Protection Act. It would, therefore,
+              not be a problem for the police o r th e Courts to pass this information
+              on to the FMA.
+
+     ii)      Application for Membership (Investigations) • - Mr. Kinghan confirmed
+      ,       th a t, in the event of an application failing to pass the validation
+               process, the police should carry out the follow-up investigation, but
+               the onus would have to be on the FMA to -check- whether a criminal
+               offence had been committed. Mr. McKeag fe lt th a t the Home Office
+               might have to lay down some guidelines on this issue, as the police
+               would require some indication as to why it was fe lt th a t a criminal
+               offence had been committed. Mr. Kinghan suggested th a t it might
+               be helpful if the police were to attend a meeting of this committee.
+               He also fe lt th a t it would help if the application form asked if the
+               applicant had been convicted of a relevant offence, although he
+               recognised th a t the football authorities' view was th a t this would
+               be another inhibiting fac to r. Mr. Stein wondered to what extent
+               the FMA would be expected to search for multiple applications.
+
+     iii)     Photographs - Mr. Kinghan reported th a t the Home Office had consulted
+               ACPO and the unequivocal advice it had received from ACPO was
+               th a t the absence of a photograph would make the policing of the
+               scheme less effective. The Government shared ACPO’s view. The
+               Chairman expressed his disappointment and fe lt th a t there was a need
+               to consult further on this.
+
+
+                                                           Continued/3
+ tontinued/3
+
+
+     iv)       Invalid Cards - Mr. Kinghan reported th a t he had nothing to add
+                on this point, Mr. M etcalfe wondered what e ffe c t there would be
+                on police charges to football clubs and fe lt th a t further questions
+                needed to be asked of police forces. The Chairman confirmed th a t
+                there was a need to come back on this point a t some stage.
+
+     v)        Model for a scheme - Mr. Kinghan confirmed th a t there was no
+               precedent for a membership scheme of this nature. He had, however,
+               undertaken to provide this committee with a framework and circulated
+               round the table the Rules for the National House-Building Council
+               which was a framework Bill for approval by the S ecretary of State.
+               He confirmed th a t the o ffe r of providing a Government lawyer still
+               stood.
+
+SELECTION OF SUPPLIERS
+
+Mr. Metcalfe reported th a t a shortlist of 11 suppliers had now been drawn up
+and these 11 suppliers could be broadly divided into 3 groups - systems integrators,
+system manufacturers and consortia already formed. The shortlist was as follows:-
+
+Systems Integrators           System Manufacturers             Consortia already formed
+
+CMC                           Siemen Data Systems              Software Sciences
+Logica                        McDonnell-Douglas                  (Thorn EMI/Norton Opax)
+SD-Scicon                     Bull                             ICL (with Synchro)
+                              GEC                              Systems Reliability
+                                                                 (Aquix/Coggon Computers)
+                                                               Check-In Admission Limited
+
+Mr. M etcalfe reported th a t a number of meetings with these suppliers had been
+arranged for week commencing 1st May, 1989. He confirmed th a t a d ra ft report
+of the selection process had been prepared and this would be issued to the committee
+through Mr. Phillips.
+
+Mr. Stein confirmed th a t the prime contractors were major companies. He felt
+th a t the next stage was the technology identification. He was hoping to prepare
+a Statem ent of Requirements by 1st June, 1989, but fe lt th a t there could be a
+problem in meeting this deadline as certain elements such as the exemptions from
+the scheme had not y e t been made clear and also because of the uncertain state
+of play pending the Hillsborough Inquiry.
+
+Mr. Stein also reported th a t Arthur Young were looking a t the financial impact
+of thfe scheme, the taxation angle and potential grants. He understood th a t grants
+might be available from th e Department of the Environment, th e Department of
+Trade and Industry and the European Commission. He would, therefore, need
+to talk to Government officials.
+
+FOOTBALL SPECTATORS BILL
+
+Mr. McDonald reported th a t the trag ic events a t Hillsborough had clearly affected
+the Bill’s course through Parliament, although he fe lt th a t it would still be enacted
+in this session. He confirmed th a t the Bill had completed its Report Stage in
+the House of Lords, but no d a te had y e t been fixed for its Third Reading.
+
+
+                                                            Continued/4
+
+
+
+                                           - 3 -
+Continued/4
+
+
+Mr. McDonald reported further th a t it was hoped to have a t least the Second
+Reading in the House of Commons before the end of July. It was as y e t unresolved
+w hether the Bill would go to Committee Stage before the summer recess, but
+he did feel th a t there was no question of Royal Assent being gained before the
+last week in October 1989.
+
+Mr. McDonald accepted th a t implementation of the scheme could not now be realised
+by Spring 1990 and fe lt th a t the Government was now more likely to be looking
+a t the s ta r t of the 1990/91 season. He added th a t the Prime Minister anticipated
+receiving an interim report from Lord Justice Taylor’s Inquiry into the Hillsborough
+Disaster before October and he felt th a t the delay in the Bill’s parliamentary
+process would enable the Government and the FMA to look a t the interim report
+and take any points on board. Mr. McDonald considered it unlikely th a t the Committee
+Stage on P a rt One of the Bill would take place before the interim report.
+
+The Chairman reported th a t this committee was not able to move forward a t this
+moment on the composition of the FMA and the rules of the scheme as the situation
+post-Hillsborough had not y e t been discussed by e ith er the Football League
+Management Committee or the Football Association Executive Committee. He
+added, however, th a t Mr. Phillips and Arthur Young would press ahead with discussions
+with the shortlisted suppliers.
+
+In response to a question from Mr. Phillips, Mr. Kinghan confirmed th a t the
+Government did not now expect the d ra ft scheme to be ready for 31st August
+1989. It did not expect the FMA to produce a scheme before Royal Assent.
+Mr. Kinghan expected th a t the Government’s o ffer of financial assistance would
+be similarly extended.
+
+ANY OTHER BUSINESS
+
+Mr. McKeag expressed a personal view on his concern for the technology to be
+used. The critical question was th a t of getting people safely through the turnstiles.
+He was not certain th a t he or the football authorities would like to be associated
+with the FMA, if responsibility is to be laid a t the door of the FMA should a
+tragedy occur. Mr. Kinghan re-affirmed th a t the Minister had sta te d th a t the
+scheme would not be implemented unless the technology was satisfactory.
+     9
+
+Again expressing a personal view, Mr. McKeag fe lt th a t, a fte r Hillsborough, the
+Government might like to o ffer football the chance to come forward with its
+own suggestion as there had been a g reat deal of heart-searching. He fe lt th a t
+football might be able to come up with some sort of rapprochement which could
+entail more flexibility.
+
+NEXT MEETING
+
+It was agreed not to fix a d a te for the next meeting a t this moment.
+
+There being no fu rth er business, the Chairman closed the meeting a t 4.25 pm.
+
+
+
+
+                                                Chairman
+
+                                                 Date ......
+

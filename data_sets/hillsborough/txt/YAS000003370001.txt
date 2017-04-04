@@ -1,0 +1,82 @@
+10 / UNIT 7 ; Acute cardiac conditions Extended trainin g in am bulance aid - Background notes
+
+
+
+
+                                                                                         X   s z ju L   ^   u   *-u
+
+                                                           y to ^ tjL o
+
+
+
+
+Cardiac arrest
+If   the patient is unconscious you must decide whether it is:
+•     ventricular fibrillation
+•     asystole
+•     EMD
+•     other arrhythmias.
+
+Ventricular fibrillation (VF)
+The ECG recording reveals absent QRST complexes. These are replaced by
+broad irregular undulations of varying height and shape. The unresponsive,
+unconscious patient has no palpable carotid or other large puises, an
+unrecordable blood pressure, and absent or abnormal gasping breath.
+
+                                                                                                                      KEY DECISION
+Can you be sure the arrest happened in the last two minutes?
+
+YES IF
+» you- saw it happen
+• you have reliable evidence from a witness.
+
+Hf YES
+Deftbriflate immediately (see Protocol below).
+
+H ? K 0
+Perform CPR first to oxygenate the heart, followed by defibrillation if
+appropriate.
+   If there is evidence of electric activity returning on ECG cardiac output
+verify it by feeting for a carotid pulse and making clinical observations.
+   Continue CPR if patient remains pulseless.
+
+
+     Remember
+     Do not move the patient to the ambulance. Only do so in very unusual
+     circumstances (such as rain and uncontrollable crowds). It causes ie la y
+     and Every second c o u n t s .
+     BLUE HEARTS NEVER START; CPR after two minutes.
+
+
+Defibrillation
+The quicker you defibrillate a patient in VF the better the chances of success.
+Start basic life support (CPR) as soon as possible while you prepare the
+equipment.
+   If a patient has no pulse and there is no history or a history o f sudden
+collapse assume primary VF, rapid tachycardia or asystole rather than cardiac
+arrest secondary to left ventricular failure etc.
+
+Preparations
+Steps
+1 Remove clothing.
+2 Apply conducting gel (br pads).
+3 Diagnose ECG rhythm within a minute from chest paddles (with firm
+   pressure). Put electrodes on quickly if necessary.
+               SOUTH YORKSHIRE METROPOLITAN AMBULANCE SERVICE
+
+
+The Physio Control Life Pak 5, currently deployed within the South
+Yorkshire Metropolitan Ambulance Service has the following settings
+
+ 20   Joules
+ 50   Joules
+100   Joules
+200   Joules
+300   Joules
+360   Joules
+
+The protocol used in the management of ventricular fibrillaiton is to
+administer a 200J shock.
+
+In "Layman’s" terms this can be equated to 3,000 volts.
+

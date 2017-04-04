@@ -1,0 +1,304 @@
+OTHER DOCUMENT FORM                           Date and time raised                                Number
+
+
+Title    l^ c d o v c z a                           fCLp.(icAct>rtAC>/~j                  (f\qiios)fc
+fInclude source and any document number i f relevantI
+                                                                                                      19 ( ( ^ r O .
+Receiver's instructions —urgent action —Yes/No
+
+
+
+
+               red/indexed as indicated
+Documentt rey^ere
+
+No(s) of actions raised
+                                                                                                           Statement Raadar
+Statement reader's instructions
+
+
+
+Indexed asijrricKca
+            indicated
+No(s) of actions raised
+Examined - further action to be taken                                                                                sio
+                                                                                                JL.
+
+                                                                                                           (S31
+
+Further action No(s)
+
+When satisfied all actions raised Office Manager to endorse other Document Master Number Form
+Incident   105    280391 Ol(          AMENDMENT TYPING DOCUMENT
+
+                                                    Other Document Number   D315
+
+
+
+      Date             090191
+
+      Description      INDEXERS POLICY FILE RESUMED INQUESTS 191190
+
+
+
+
+           INDEXERS POLICY FILE FOR RESUMED INQUESTS COMMENCING 191190 ONWARDS.
+
+
+
+           090191 PC
+
+
+
+           The Resumed Inquests comnenced at Sheffield Town Hall on the 19th
+
+           November 1990 (191190) with the original jury from the Preliminary
+
+           Inquests which took place in April 1990 (000490) and again presided
+
+           over the the Coroner, DR. S.L. POPPER.     The Coroner has been supported
+
+           ky a small team (roughly a dozen in number) of West Midlands Police
+
+           Officers based in Sheffield with office facilities at Fumival House
+
+           and computer links set up with the West Midlands HOLMES system.
+
+
+
+           Since the end of September 1990 (000990) PC                has been the
+
+           only indexer on the Hillsborough Inquiry, being advised and guided by
+
+           the Systems Manager's Department at Nechells with DC             still
+
+           keeping a watching brief or overview and advising where necessary.
+
+
+
+           There are still three Databases in use:
+
+           Iacident 2: stores the vast majority of information which has come into
+
+           the system from the beginning of the Inquiry. Home incident.
+
+           Incident 6: stores a basic 'skeleton' of information regarding persons
+
+           involved in the Criminal/Disciplinary sides of the investigation with
+
+           any relevant documentation re these matters being registered to
+
+           this database. There will, of course, be other peripheral matters which
+                                                                PAGE     2
+                                                                D315
+
+may be found on Database 2, that being the 'master' index.
+
+Incident 5: stores the majority of information arising out of the
+
+Coronal aspects of the enquiry namely, in the most part, frcm both the
+
+Preliminary Inquest (at the Medico Legal Centre during April 1990
+
+(000490)) and then the Resumed Inquest (at Sheffield Town Hall frcm
+
+191190 onwards). Both took place before Dr. S.L.POPPER and before the
+
+same members of the jury.
+
+
+
+As far as possible information regarding the Inquests has been put on
+
+Database 5, again as with Incident 6 with simply a skeleton nominal
+
+record for each person. So, for example, where a person appears before
+
+the Inquest and has changed his/her address this will be kept updated
+
+on the relevant record on Incident 2. The only exceptions to this are
+
+the rare occasions where a person does not appear for any reason on
+
+Incident 2 and so a completly new nominal record has had to be created
+
+on Incident 5.
+
+
+
+Similarly, where a person appearing before the Resumed Inquest has
+
+changed his/her occupation this will be recorded in the occupation
+
+field on Incident 5 as it appears confusing on Incident 2 and cannot
+
+usually be fitted into the occupation field alongside the old
+
+occupation in any case.
+
+
+
+An. additional confusing aspect is that Incident 5 has been used for
+
+both Preliminary and Resumed Inquests. Therefore, in an effort to try
+
+and seperate some of the information,   where for example there was an
+
+existing address, say for solicitors, which had information from
+
+the Preliminary Inquest then a Catagory was formed for that solicitors
+
+firm and the information from the Resumed Inquest was placed on the
+
+Category, not the address.   I have tried to make use of the one line of
+                                                               PAGE     3
+                                                               D315
+
+text to explain such matters.
+
+
+
+On Incident 5 a subindex of 'Resumed Inquests 191190' was formed to
+
+show where categories have been formed for this part of the enquiry, as
+
+opposed to the Preliminary Inquest, and all categories formed as a
+
+result of the second set of Inquests have been linked to this category.
+
+
+
+D124 was formed to compile a 'file' of basic information for the
+
+Coroner regarding the preparation side of the enquiry, ie so that all
+
+relevant matters could be found together. It amounts to several
+
+documents, seperate in their own right, but all registered as part of
+
+the same document.
+
+
+
+There have been many requests for information during the enquiry and
+
+many policy changes in respect of this matter. During the Inquests in
+
+order that any such requests could be found together all requests were
+
+registered/indexed on Incident 2, notwithstanding that many of them
+
+related to matters concerning Inquest witnesses or families of deceased
+
+persons. A standard format letter was sent to each author of such
+
+requests.
+
+
+
+Transcripts have formed the major part of the Resumed Inquests and each
+
+day have been seperated into parts pertaining to each individual who
+
+gives evidence. Where opening/closing remarks form more than the odd
+
+line or two that part of the transcript is registered/indexed in its
+
+own right: registered to the Category, linked to the day in question
+
+and two lines put on the Category. Individual evidence is registered to
+
+the person giving evidence and similarly linked through to the date
+
+that that evidence was given with the document number. Similarly where
+
+the Jury is dismissed whilst legal submissions /discussion take place
+                                                                    PAGE   4
+                                                                    D315
+
+then the relevant transcript will be also registered to the Transcript
+
+Category.    Shortage of manpower has prevented these transcripts being
+
+typed onto the database with the exception of approximatly the first
+
+four days transcripts which have gone through the system in the normal
+
+way.
+
+
+
+2L0391 PC
+
+
+
+With the Resumed Inquests reaching their conclusion in the next few
+
+days and in order to prepare for the handing over of material to South
+
+Yorkshire Police the current situation on 105 is as follows:
+
+
+
+No error nominals on this database
+
+No error addresses on this database
+
+No error telephone numbers on this database.
+
+
+
+Details for this incident are as follows:
+
+
+
+Nominals:      552       Sequences:     0       Messages:            26
+
+Vehicles:        0       Events:        0       Reports:              0
+
+Streets:        36       Other names:   6       Telexes:              0
+
+Houses:         43       Actions:       10      Other documents:    566
+
+Telephones:     25       Statements:* 12        Questionnaires:       0
+
+Categories:    234       PDF's:         0    (^excludes suffixes)
+
+
+
+Unident Vehicles: 0
+
+Unident Streets:     1
+
+
+
+
+280391: PC
+                                                                        PAGE     5
+                                                                        D315
+
+
+
+         The jury having reached a verdict today the majority of Incident Room
+
+         staff return to the West Midlands tonight to resume other duties.
+
+         The only people left to tidy up the enquiry will be:
+
+         DSU Beechey
+
+         DI Perkins
+
+         PC Lander
+
+                          typist/admin)
+
+
+
+         Policy File now closed.
+
+
+
+
+END OF REPORT
+

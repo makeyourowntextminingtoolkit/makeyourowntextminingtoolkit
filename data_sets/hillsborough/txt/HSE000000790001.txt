@@ -1,0 +1,1904 @@
+    SOUND & COMMUNICATIONS INDUSTRIES FEDERATION
+    4-B HIGH STREET BURNHAM SLOUGH SL! 7JH TEL: 0628 667633 FAX: 0628 665882
+
+
+
+
+                                                                            Date:- August 1990
+       Fax to: ~...&LTN & S~FETY EXECUTIVE
+
+       Health & Safety Executive
+       Research & Laboratory Division
+       Harpur Hill
+       Buxton
+       SKI7 9IN
+
+
+
+            ~irm
+
+       "~he i’eda~’etion Is the representetlve body for Consultant~, Manufacturers and
+       Cor~t,~-acto¢s, within the Sound and Communications Industries and as such have
+       been 8ra’uely concerned at the disasters in stadia over recent ),ears,
+       The submissions made by the Federatlon to Lord 7ustlce Taylor’~ inqulry all
+       appeared as recommendations on publlcatlon of both interim and Final Reports,
+       We have subsequently been requested to advise the Home Office of "what we
+       would llke to be included" in the revlslons they are charged with making,
+       arising from the Final Report, to the ’~u~de to Sa£ety at Spor~s Grounds~
+
+       It is our sugsestlon that the Guide should require that sound systems "must
+       conform to the Code of Practice ~’o~" the Licenslng and Ope~’at~on of $~,ound
+       Systems at Sports Grounds and Stadia", The Code of Pradtlce is now being
+       drafted by an Inter-lnstltutlonal Working Group and is scheduled for
+       completion, as soon as possible but__.¢ert~y_ ..... ~,,~ ¢~h~r. _ ~990.
+
+/     Address Systems at Hlllsborough which I am sure you will appreciate could be )
+               the Workin8 Group in their consideration of the Code o£ Practice, ~/
+
+       Is it possible to obtain a copy as s matter of ursency please,
+
+
+
+
+       v~n Walker MBE.,
+       3hlef Executive.              qt
+
+
+
+
+    CHIEF EXECUTIVE: KEN WALKERMBE REG. NO. 1033300 ENGLAND 4-B HIGH STREET, BL;;:INHAM,~LOUGHSL1 7JH
+             BANK: NATIONAL WESTMINSTER PLC SORT CODE 60-04-53 ACCOUNT No. "0003061 VA~ No. 209 3766 51
+                MIOA M inst SCE
+AMS Acoustics
+
+52 Chase Side
+Southgate
+
+London NI4 5PA
+                                                 25th April 1991
+Dear
+FSADC BOOKLET -     CROWD NOISE LEVEL DATA
+There are obvious difficulties in presenting consistent and meaningful (to
+a lay reader) noise data. I have summarised the crowd noise data which HSE
+presented to the Taylor Enquiry below. I have not attempted to put the
+data in a question and answer format, as requested, since you will probably
+want to incorporate it with other crowd noise data you may have.    You may
+also wish to present your esponse in a common style of question.
+Crowd Noise Data
+Match 1 - ist Division Championship Decider
+3 minute average SPL greater than 100dB(A) for most of the game, greater
+than 105dB(A) for a significant proportion, occasionally II0dB(A).
+L1 = 108-111 dB(A); LI0 = i00-ii0 dB(A); LS0 = 95-104 dB(A);
+L90 = 74-92 dB(A); L99 = 98-106 dB(A).
+
+
+Match 2 - 2nd Division Play-off
+3 minute average SPL greater than 85dB(A) for most of the game, greater
+than 90dB(A) for a significant proportion, occasionally 100dB(A).
+
+
+Match 3 - RuEby LeaEue Cup Final (at Wembley, losinE side end)
+3 minute average SPL greater 85dB(A) for most of the game,         greater than
+90dB(A) for a small proportion, occasionally 95dB(A).
+
+
+If I can be of any further help please let me know.     I would appreciate a
+copy of your submission to the FSDCA.
+Yours sincerely
+
+
+
+
+Head of Noise & Vibration Section
+                                                                                                                               5 JUt 1990 \
+
+: ’tAMMOND SUDDARDS
+                      SOLICITORS
+ALAN I. BOTTOMLEY       PETER C. METCALF             DAVID W. K. ARMITAGE CONSULTANTS:                              EMPiRF. HOUSE
+                        CHR!STOPHER W. JONES         J. PATRICK MITCHELL  ROGER W. SUDDARDS CBE                     10 PICCADILLY
+D TREVOR LEWIS
+                        ANDREW R. JORDAN             CHRISTOPHER MARKS    SIR DESMOND HEAP                          BRADFORD BD1 3LFI
+MICHAEL E GREGSON
+JOHN D DE MAIN          SIMON R. B. STELL            MICHAEL S. HENLEY    IAN W. WHITSON
+                                                                                                                    TELEPHONE (0274) 734700
+MICHAEL L. SHEPHERD     SIMON R. INMAN               ROSAMOND J. MARSHALL SMITH
+PETER N. WlLBRAHAM      RICHARD W. WADE-SMITH        PHILIP W. HARLING                                              TELEX 517201
+J. RICHARD ARCHER       JOHN G. BECKE’FI"            WILLIAM N. DOWNS                                               D.X. NO, 11720
+BARBARA W. FRANCE       G. N. IAN GREENFIELD         LUCCI DAMMONE
+                        STEPHEN GALE                 ANDREW H. McDOUGALL                                            FAX (0274) 737547
+C. NOEL HU’FFON
+JOHN H. G. HELLER       MARK W. HILTON
+IAN R. SHUTTLEWORTH     RICHARD BURNS
+
+
+OUR REE      PCM/PAB                     YOURREE SMR/343/235/OI                                     DATE 4th July, 1990
+
+
+
+Dear S~, ~.~’~’~ O,
+
+Hillsborough                                                                                                             t~ lf4~;~-~- ’
+Thank you for your letter of 13th June with inclosure. Report- ~/~"
+IR/L/ME/MM/89/2 effectively consists of a number of different ~~
+reports on different aspects of the disaster.                    ~p-~/~
+It is highly likely that we shall wish at least some of the evidence~~
+in these reports to be put before the Judge dealing with the civil
+trial, which you may know is due to commence on 2nd October at the ~A~4
+High Court in Manchester with a hearing time of six weeks.
+                                                                                                                                        I
+At this stage, we do not know precisely which reports we shall wish 7°~5~
+to rely on, nor do we know the extent to which the Football Club
+and Messrs. Eastwood & Partners will be prepared to agree the
+evidence contained in the reports.
+
+We are writing at this stage merely to indicate that if and in so
+far as the evidence in the reports is to be relied on, but cannot
+be agreed with the other parties, we shall wish to call makers of
+the reports as witnesses at the hearing.
+
+We appreciate that some of the reports are commissioned from
+outside academics rather than having been prepared by HSE staff,
+but you may think it appropriate to advise the authors of each of
+the reports that they may be required to appear as witnesses at the
+civil trial. Of course, any such appearance would be limited to
+
+
+
+                                                                                                                         /... contd.
+
+
+Dr. C. E. Nicholson,
+Deputy Director Safety
+Engineering Lab.,
+Health & Safety Executive,
+Broad Lane,
+SHEFFIELD $3 7HQ.
+
+LEEDS OFFICES:   BRITANNIA CHAMBERS 415 OXFORD PLACE LEEDS LS1 3AX TELEPHONE (0532) 444921 TELEX 557202 FAX 4447941421199
+                 JOSEPHS WELL HANOVER WALK LEEDS I..$3 lAB TELEPHONE (0532) 450845 TELEX 55365 FAX 426868
+
+                           1]-’llS FI!:~ IS REGULATED BY THE LAW SOCIETY IN 1]-’IE CONDUCT OF INVESTMENT BUSINESS
+HAMMOND SUDDARDS                                        PAGE NO.
+
+
+
+
+the time needed to give evidence and we would anticipate being able
+to arrange dates convenient for the witnesses concerned, if indeed
+there is a requirement to attend at all.
+
+
+Yours fai~,
+Dr C E Nicholson
+SEL 1
+Sheffield
+
+
+PA SYSTEMS IN SPORT STADIA
+
+I It may help the deliberations of the Working Party if I set out
+some of the things which should be considered in any follow-up work
+to establish criteria for PA systems.
+
+2 Information is needed on the range of crowd and activity noise
+levels likely to be encountered in the stadia to which the guidance
+applies. This information should include levels, spectral content,
+and temporal content.
+
+3 A method is needed to establish the clarity of reproduction of
+messages and thus their intelligibility. This does not simply mean
+being able to hear them above a background noise but being able to
+understand them. In some sitautions messages in a quiet stadium
+cannot be understood (eg the infamous BR announcements).
+
+4 In establishing performance criteria consideration will need to be
+given to the form of the message and the character of the voice.
+
+5 I do not think that we (NVS) should take on the task of producing
+a Standard but it might be appropriate for us to oversee its
+production. If HSE wants to take on responsibility for this we
+could commission studies of crowd noise and Chair a working group
+from the industry (suppliers and perhaps users of PA systems) to
+establish the criteria (presumably users would include the police).
+The Audio Engineering Society, no doubt, would help in forming such a
+Group.
+
+
+
+
+                                                 21 December 1989
+Noise and Vibration Section
+Buxton
+f
+    o:z~3 ~zci q-.z!
+
+
+
+
+            ~j
+                            D.P. SDUHD SYSTEMS         LIMITEO
+
+                            SOUND CONSULTANTS AND INSTALLATION CONTRACTORS
+
+
+
+RA/JJD
+
+9th June 1989
+
+Mr
+Noise and Vibration Section
+Health & Safety Executive
+Harpur Hill
+Buxton
+Derbys
+SKI7 9JN
+
+
+
+
+Dear~
+
+Further to our recent meetings, I have pleasure in enclosing the information you
+requested regarding Sheffield Wednesday Football Ground.public address system.
+
+I hope this will help you in your investigation, and I look forward to hearing
+from you at a later date.
+
+Yours sincerely
+
+
+
+
+Contracts Director
+
+
+
+
+              111 Ecclesall Road South ¯ Sheffield $!1 9PH ¯ Telephone: (0742) 351451
+          Director: I.A.RAMSAY   PART OF THE D.P. GROUP OF COMPANIES   Registerered No. 1947081’
+9~h June 1989                                     D.P. SOUND SYSTEMS LTD
+
+
+
+
+                               FOOTBALL GROUNDS
+
+
+
+          Ambient Noise                           77/80 db A
+          Average Noise During Match              85 db A
+          Maximum Noise (Short Bursts)            90/95 db .A
+
+
+
+
+INFORMATION
+
+
+                                       RACING
+
+          30,000 Outdoor                          90 db A (at Finish Line)
+
+                               AMERICAN STADIA
+
+          Average 90 db A                         i0 sec/20 sec loss
+---9th June 1989                                                 D.P. SOUND SYSTEMS LTD
+
+                      SHEFFIELD WEDNESDAY FOOTBALL GROUND - SPEAKERS
+
+  EAST STAND   KOP INSTALLED 1987
+  8 x TZ 201   20 watts
+  5 x TZ 301   30 watts                                          As per separate sheet
+  2 x TZ 401   40 watts
+
+  NORTH STAND INSTALLED   NOVEMBER 1984
+  8 x TZ 301 30 watts      front                              240 watt amplifier
+  8 x TZ 201 20 watts      back                              ~240 watt amplifier
+                           side                              ~    I!   I!    I!
+  1 x TZ 301 30 watts
+
+  SOUTH STAND
+  9 x TZ i01 i0 watts     rear                                   120 watt amplifier
+  8 x TZ 201 20 watts     front                                  240 watt amplifier
+
+  WEST STAND
+  12 x TZ 201 20 watts all                                       240 watt amplifier
+
+  Distance and Noise Levels in West Stand
+  40 ft        back terrace                                      87 db A
+  50 ft        front terrace                                     86 db A
+  60 ft        rear stand                                        84 db A
+
+  WEST STAND EXTERNAL SYSTEM
+  This is driven by a TOA VP 1240 amplifier and the locations and ratings of the
+  speakers you do have. ::i: : ::
+          The speakers are TOA TC 15ML horn speakers.
+
+
+
+  Any information you require on the other 3 zones of the external evacuation
+  system can be made available if it is deemed relevant.
+9th June 1989                                                            D.P. SOUND SYSTEMS LTD
+
+
+
+
+                            SPEAKER SOUND PRESSURE LEVEL
+
+
+                1M    2M    4M             8M              16 M   32 M         64 M
+
+TZ i01          104    98    92             86              80    74            68
+i0 watts
+
+TZ 201          iii   105    99            93               87    81            75
+20 watts
+
+TZ 301          114   108   102             96              90    84            78
+30 watts
+
+TZ 401          117   iii   105             99              93     87           81
+40 watts
+
+
+
+TC 15ML         119   113   107            i01              95     89           83
+15 watts
+    ..... ..--°~   . i!i.\. .........
+                   .                    o
+                                                o
+
+
+
+
+                                            \
+                                                    j1\_j ~.
+
+
+
+
+i
+                       TOA
+
+
+
+
+TOA PUBLIC ADDRESS SYSTEM
+               k.¯
+
+
+
+
+,¯. ¯ ¯         ¯
+
+
+
+
+    ~,, i .- ,i :,. ~ Contents
+
+          , ....     ,.   Microphones ........." .... ..~ .... "I        Mobile MountedSpeakers ........39
+                            Dynamic Microphones ...........       1      ¯ Ultra-High Power Speakers ........ 39
+                            Electret Condenser Microphones... 4          Omnidirectional Horn Speaker .....40
+                            Gooseneck Microphones .........       4      Firedome Speaker .............. 40
+                            Desk-Top Type Microphones .......     5      Straight Horns .................40
+                          V-1000 Series ..................        7      Heat-Resistant Ceiling
+                                                                         Horn Speakers ................40
+                            Amplifiers .................... 7
+                                                                         Explosion-Proof Horn Speakers .... 41
+                            Input Modules .................       9
+                                                                         Wide Range Speakers ........... 41
+                            Remote and Paging Microphones .. 11
+                                                                         Wall-Mounting Box Speakers ......43
+                            BGM Units ...................11
+                                                                         Box Type Splashproof Speaker ..... 44
+                            Rack Mounted Equipment ........ 12
+                                                                         Bi-Directional Box Speakers ....... 45
+                          900 Series .....................      15
+                                                                         Column Speakers .............. 45
+                            Am plifiers ....................    15
+                                                                       Interior Decor Speakers ............47
+                            Plug-In Modules ...............17
+                                                                         Pendent Ball Speakers ........... 47
+                            Associated Equipment ........... 19
+                                                                         Lamp Speakers ................ 47
+                          BGM Systems ..................        21
+                                                                         Pendent Speakers .............. 47
+                          Package Amplifiers ..............     23
+                                                                         FGM Speakers ................ 47
+                            500 Series Mixer Power Am plifiers .. 23
+                                                                         Coaxial 2-Way Ceiling
+                            Cost-Effective Package Amplifiers... 25      Cone Speaker .................48
+                            Local Area Paging Amplifiers ...... 25     Ceiling Speakers .................49
+                          Mobile Amplifiers ...............     26       23cm Baffle Series .............. 49      O
+                          Wireless Microphone Systems .....     29       18cm Baffle Series .............. 50
+                            30- 40MHz Band Wireless                      Large-Size Ceiling Speakers ....... 51
+                            Microphone Systems ............     29
+                                                                         Wall Flush-Mount Speakers ....... 51
+                            VHF High-Band Wireless
+                            Microphone Systems ............ 32           Ceiling Type Splashproof Speaker .. 51
+                            (European Version)
+                                                                       Power Megaphones .............       52
+                            VHF High-Band Wireless
+                            Microphone Systems ............ 33         Open Conference System ........ 55
+                            (USA Version)
+                                                                       Metal Rack Mount Selection
+                          Speakers ......................       35     Chart .........................      57
+                            Reflex Horns ..................35          Index .........................      58
+                            Driver Units ...................36
+                            Reflex Horn Speakers ........... 37
+TOA PA systems make sound reinforcement
+beautifully clear.
+TOA PA system equipment is available in a wide range of designs and capabilities, to
+ meet just about every possible application. And every single piece of TOA PA
+equipment has been designed and constructed with just one ideal in mind: provide
+the clearest, most effective sound communications tobe found in public. Only in that
+ way can we at T.OA be sure our customers can easily choose exactly the equipment
+ or system configuration they want.
+ TOA PA equipment starts with high quality microphones, omnidirectional or
+ unidirectional, stand-mount or desk-mount, just to mention a few possibilities. There is
+ a choice of several series of sound reinforcing components. TOA package amplifiers
+ are the efficient way to deal with most general PA applications, plus specialized local
+ area paging amplifiers. There are 5 models available in the TOA 500 Series, with
+ versatile combinations of power and hook-u ps. The modular V-1000 Series offers
+ perfectly matched units for background music, paging and emergency
+ announcements. The core of the highly flexible TOA 900 Series is made up of mixer
+ power/power amplifiers that can be outfitted with a variety of plug-in modules. Two
+ formats of BGM systems are available, an all-in-one system for smaller locations, or
+ component units for a wider area coverage. Microphones, plaYers, amplifiers and
+ announcing machines are all systematically aligned for more integrated operation.
+ TOA mobile amplifiers take effective announcements on the job or on the road, and
+ wireless microphone systems allow total mobility for indoor events, with new
+ technology included that eliminates external interference. For more efficient meetings,
+ TOA can provide an open conference system that is the ultimate in flexibility and
+ simplicity of use
+  Finally, the TOA speaker lineup is as extensive as all the rest of the PA equipment
+  range, and includes a variety of reflex, straight and ultra-high power horns with a
+  number of matching di’ivers, box and wall-mounted speakers, and several decorative
+¯ indoor-use models including pendent and decor-enhancing wall-mount units. And for
+ the ultimate in PA power and portability, TOA provides the portable convenience of
+  megaphone u nits.
+  There is so much TOA PA equipment to choose from. All of it will serve you well and
+  what you choose of it will meet your PA needs perfectly.
+                                                                                                                                                                                   l        !:i
+
+
+
+ Microphones
+TOA offers a wide range of high-                              microphones. Omnidirectional dy-                            switches, cardioid pick up patterns,
+quality microphones for perfect satis-                        namic microphone units come in                              extremely low hand noise and con-
+faction in practically every situation                        both hand-held and stand-mount                              temporary styling. The built-in elec-
+where talking would be appropriate.                           types, some with low or dual im-                            tronic unit on the TOA chime micro-
+Unidirectional dynamic microphones                            pedance. Desk-top microphones in-                           phone generates two series of four
+include hand-held types with swivel                           clude remote units with preamplifiers,                      notes before an announcement, and
+mount "adaptors, flexible gooseneck                           with a unidirectional condenser de-                         vice versa afterwards. There is also a
+types, professional mics with cardioid                        sign less affected by ambient noise.                        range of convenient stand-mount and
+patterns, mics with noise suppression                         Versatile unidirectional, dynamic pag-                      cable accessories.
+or for constant output levels with dis-                       ing microphones feature true fidelity
+tant talking, and electret condenser                          voice reproduction, push-to-talk
+
+
+
+
+                                                              DM-603                                                        DM-605
+                                                                                                                                                                                       O~
+                                                              Unidirectional Microphone                                     Unidirectional Microphone
+DM-803/803D
+Unidirectional
+Microphone
+
+
+
+
+                                                                                                                            ¯ Cardioid professional hand-held type with
+¯ Hand-held type with swivel mount adaptor.                                                                                   swivel mount adaptor.
+¯ Built-in on/off talk switch.                                ¯ Hand-held type with swivel mount adaptor.                   ¯ Built-in on/off talk switch.
+¯ 600 ohms impedance                                          ¯ Built-in on/off talk switch.                                ¯ 250 ohms impedance.
+¯ Background noise and feedback                               ¯ 600 ohms impedance.                                         ¯ Highly resistant to shock, noise and fumes.
+  suppressed.                                                 ¯ Built-in wind/pop screen.                                   ¯ Built-in wind/pop screen.
+¯ Built-in wind screen.                                       ¯ Cable with phone plug.
+¯ DM-803: Cable with phone plug.                                                                                            ¯ Type: Dynamic microphone ¯ Polar Pattern:
+                                                              ¯ Type: Dynamic microphone ¯ Polar Pattern: Cardioid          Unidirectional ¯ Output Impedance at lkl-lz: 260 ohms,
+  DM-803D: Cable with 5-pin DIN plug.                         (Unidirectional) ¯ Output Impedance at lkHz: 600 ohms,        balanced ¯ Frequency Range: 100 ~ 14,060Hz ¯ Output
+                                                              unbalanced ¯ Frequency Range: ~100- 8,000Hz ¯ Output          Level at lkl-lz (0dB=lV//=bar): -79dB (0,12mV) +3dB
+¯ Type: Dynamic microphone ¯ Polar Pattern: Cardioid          Level at lkHz (0dB=lV/#bar): -72dB (0,25mV) + 3dB             ¯ Switch: Short.off type ¯ Mounting: W 5/16" 18-thread
+(Unidirectional) ¯ Output Impedance at lkHz: 600 ohms         ¯ Cables: Single-core shielded cable with phone plug; 10m     swivel adaptor for stand mounting ¯ Dimensions: 54¢ x .
+(DM-803: Unbalanced/DM-803D: Balanced) ¯ Frequency            ¯ Switch: Short-off type ¯ Mounting: W 5/16" 18-thread        162mm ¯ Weight: 260g ¯ Built-in Connector: 3-pin
+Range: 100-10,000Hz ¯ Output Level at lkHz                    swivel adaptor for stand mounting ¯ Dimensions:               cannon type (Equivalent to XLR-3-50S) ¯ Required Mating
+(0dB=lV//=bar): DM-803: -76dBIDM-803D: -76dB                  32¢ x 170ram ¯ Weight: 395g                                   Connector: Equivalent to XLR-3-11C (A3F)
+(0.16mV) +3dB ¯ Cables: DM.803: 10m single-core
+shielded cable with phone pluglDM-803D: 10m twin-core                                                                                                                                  O~
+shielded cable with 5-pin DIN plug ¯ Switch: Short.off type
+¯ Mounting: W 5/16" 18-thread swivel adaptor for stand
+mounting ¯ Dimensions: 40¢ x 178mm ¯ Weight: DM-803:          DM-604                                                        DM-503
+470g/DM-803D; 480g                                            Unidirectional Microphone                                     Unidirectional Microphone
+
+DM-703/703D
+Unidirectional
+Microphone
+
+
+
+                                                              ¯ Cardioid professional hand-held type with                   ¯ Hand-held type with swivel mount adaptor.
+                                                                swivel mount adaptor.                                       ¯ Built-in on/off talk switch.
+¯ Hand-held type with swivel mount adaptor.                   ¯ Built-in on/off talk switch.                                ¯ 600 ohms impedance.
+¯ Built-in on/off talk switch.                                ¯ 250 ohms impedance.                                         ¯ Background noise and feedback
+¯ 600 ohms impedance                                          ¯ Highly resistant to shock, noise and fumes.                   suppressed.
+¯ DM-703: Cable with phone plug.                              ¯ Built-in wind/pop screen.                                   ¯ Built-in wind/pop screen.
+  DM-703D: Cable with 5-pin DIN plug.                         ¯ Cable with phone plug.                                      ¯ Cable with phone plug.
+ ¯ Type: Dynamic microphone ¯ Polar Pattern: Cardioid          ¯ Type: Dynamic microphone ¯ Polar Pattern:                   ¯ Type: Dynamic microphone ¯ Polar Pattern: Cardioud
+(Unidirectional) ¯ Output Impedance at lkHz: 600 ohms,         unidirectional ¯ Output Impedance at lkHz: 250 ohms,         (Un~irectional) ¯ Output Impedance at lld-lz: 600 ohms.
+ (DM-703; Unbalanced/DM-703D; Balanced) ¯ Frequency            unbalanced ¯ Frequency Range: 100-14,600Hz ¯ Output          unbalanced ¯ Frequency Range: 100-8.000Hz ¯ Output
+Range: 100-8,000Hz ¯ Output Level at lkHz (0dB=                Level at lld-lz (0dB=lV//=bar): -79dB (0.12mV) +3dB          Level at lkHz (0dB=lV//=bar): -72dB (0.25mV) + 3dB
+ lV/#bar): - 72dB (0,25mV) + 3dB ¯ Cables: DM-703; 10m         ¯ Cables: Shielded cable with single pole phone plug, 6m     ¯ Cables: Single-core shielded cable with phone plug, 5m
+single-core shielded cable with phone plug/DM-703D; 5m         long ¯ Switch: Short-off type ¯ Mounting: W 5/16" 18-        ¯ Switch: Short-off type ¯ Mounting: W 5/16" 18-thread
+long. 4-conductor (Twin-core shielded and extra two-          thread swivel adaptor for stand mounting ¯ Dimensions:        swivel adaptor for stand mounting ¯ Dimensions:
+conductor) ¯ Switch: Short-off type ¯ Mounting: W 5/16"       50.8 x 192mm ¯ Weight: 540g                                   44¢ x 175mm ¯ Weight: 260g
+ 18-thread swivel adaptor for stand mounting ¯ Dimensions:
+42¢ x 156.5mm ¯ Weight: 410g
+"DM-703D has built-in extra s~tch (PIN No. 4 and 5 open-
+  off switch).
+GM-304/304S                                                      DM-403
+Unidirectional Microphone                                        Omnidirectional Microphone
+
+
+
+
+¯ Hand-held type with wind screen.
+¯ 600 ohms impedance                                             ¯ Hand-held low impedance microphone.
+¯ Handling noise suppressed.                                     ¯ Built-in on/off talk switch.
+¯ Directivity for minimizing howling.                            ¯ 600 ohms impedance
+¯ Built-in on/off talk switch (GM-304S).                         ¯ Low handling nois~
+¯ Type: Dynamic microphone * Polar Pattern:                      ¯ Stand-mount available.
+Unidirectional ¯ Output Impedance at lkHz: 600 ohms,             ¯ Cable with phone plug.
+balanced ¯ Frequency Range: 100-12.000Hz * Output
+Level at lkHz (OdB=lV/#bar): -76dB (0.16mV) ¯ Switch:            ¯ Type: Dynamic microphone * Polar Pattern:
+Short-offtype ¯ Mounting: W 5/16" 18-thread * Dimensions         Omnidirectional ¯ Output Impedance at lkHz: 600 ohms.
+(W x H x D): 42 x 52 x 175mm ¯ Weight: GM-304; 205g/             unbalanced ¯ Frequency Range: 100-10.000Hz ¯ Output
+GM-304S; 210g * Built-in Connector: 3-pin cannon type
+(Equivalent to XLR-3.50S) ¯ Required Mating Connector:
+Equivalent to XLR-3-1 lC (A3F)
+
+                                                                 32~ x 166.5mm ¯ Weight: 215g
+
+GM-305
+Unidirectional Microphone                                        DM-410
+                                                                 Omnidirectional Microphone
+
+
+
+
+¯ stand-mount type mic fitted with
+   wind-screen.                                                  ¯ Stand-mount mic with adaptor.
+¯ Designed to get high output level even for                     ¯ Built-in on/off talk switch.
+   distant miking.                                               ¯ Dual 50k ohms or 600 ohms impedance
+ ¯ 600 ohms impedance.                                             with cable connection.
+ ¯ Type: Dynamic microphone ¯ Polar Pattern:                     ¯ Built-in wind/pop screen.
+                                                                 ¯ Cable with phone plug.
+ Level at lkHz (OdB=lV/#bar): -73dB (0.22mV)
+ ¯ Mounting: W 5/16" 18-thread ¯ Dimensions:                                                                600 ohms
+                                                                 or 50k ohms. unbalanced (Selectable by plug-in position of
+ 324 x 185mm ¯ Weight: 220g ¯ Built-in Connector: 3-pin
+ ~annonct~orP~: (EEClu~aleentttotOX&R33.;5~S~3FRequired Mating              ;0% 0%.0. z I .000?
+                                                                 #bar): 600 ohms; -78dB (0.13mV) + 3dB/50k ohms:
+                                                                   - 58dB (1,26mV) + 3dB ° Cables: 10m single-core shielded
+                                                                  cable with phone plug ¯ Switch: Short-off type ¯ Mounting:
+                                                                  W 5/16" 18-thread swivel adaptor for stand mounting
+                                                                  ¯ Dimensions: ,504 x 188ram ¯ Weight: 220g (without
+                                                                  cable)/540g (with cable)
+DM-531H                                                    PM-306D                                                         DM-100H/100L
+Unidirectional Hi-Z Microphone                             Omnidirectional Paging                                          Omnidirectional Paging
+                                                           Microphone                                                      Microphone
+
+
+                                                                                                                                                                                             I
+
+
+
+                                                           ¯ Hand-held type~
+¯ Hand-held type with swivel mount adaptor.                ¯ Built-in push-to-talk switch.                                 ¯ Hand-held type with mounting thread
+¯ Built-in on/off talk switch.                             ¯ 500 ohms impedance.                                             included.                                                           4
+¯ 50k ohms impedance.                                      ¯ Heavy-duty metallic body.                                     ¯ Built-in onloff talk switch,
+¯ Background noise and feedback                            ¯ Background and handling noise                                 ¯ 50k ohms (DM-100L: 600 ohms} impedance, el
+                                                             suppressed for high intelligibility.                                                                                            i~
+  suppressed.                                                                                                              ¯ Cable with phone plug.
+¯ Cable with phone plug.                                   ¯ Coiled cable with 5-pin DIN plug.
+                                                                                                                           ¯ lye: Dynamic microphone ¯ Polar Pattern:
+¯ l~/pe: Dynamic microphone ¯ Polar Pattern: Cardioid       ¯ Type: Dynamic microphone ¯ Polar Pattern:                    Dmnidirectional ¯ Output Impedance at lkHz: DM-100H;
+(Unidirectional) ¯ Output Impedance at tkHz: 50k ohms,     Omnidirectional ¯ Output Impedance at lkHz: 500 ohms,           50k ohms/DM-100L; 600 ohms, unbalanced ¯ Frequency
+unbalanced ¯ Frequency Range: 100 ~ 8,000Hz ¯ Output       unbalanced ¯ Frequency Range: 30-16,000Hz ¯ Output              Range: DM.100H: 150-7,000Hz/DM-100L; 150-8,000Hz
+Level at lkHz (0dB=lVI/~ar): -60dB (lmV) +3dB              Level at lkHz (0dB=lVl/~bar): -70dB (032mV) ¯ Cables-           ¯ Output Level at lkHz (0dB=lVI/zbar): DM-100H; -57dB
+¯ Cables: 5m s~ngle-core shielded cable with phone plug    Coiled cable 6~mm x 2m (at a max. extended length)              (1.4mV) +3dB/DM-100L; -76dB (0.16mV) +3dB
+¯ Switch: Short-off type ¯ Mounting: W 5/16" 18-thread/    ¯ Switch: Short-off type talk-switch with open-off type extra   ¯ Switch: Short-off type ¯ Cables: 2m single-core shielded
+W 5/8" 27-thread swivel adaptor for stand mounting         switch contact cable with 5.pin DIN plug ¯ Dimensions:          cable with phone plug ¯ Mounting: W 5/16" 18-thread for
+¯ Dimensions: 29.5~ x 3gram ¯ Weight: 260g                 40~ x 133.5mm ¯ Weight: 350g                                    stand mounting ¯ Dimensions (W x H x D): 48 x85 x
+                                                                                                                           25ram ¯ Weight: 170g
+
+
+PM-120                                                                                                                     PM-100
+UnidirecUona! Paging Microphone                                                                                            Omnidirectional Paging
+                                                                                                                           Microphone
+
+
+
+
+¯ Hand-held type.
+¯ Built-in push-to-talk switch.
+¯ 250 ohms impedance
+a Background noise and feedback
+  suppressed.
+¯ Coiled cable with phone plug.
+                                                                                                                           ¯
+                                                                                                                           ¯
+                                                                                                                           ¯
+                                                                                                                               Dynamic vocal microphon~
+                                                                                                                               Hand-held type with coiled cable.
+                                                                                                                               Built-in push-to-talk switch.
+                                                                                                                                                                                           e>+i
+¯ lype: Dynamic microphone ¯ Polar Pattern:                                                                                ¯   150 ohms impedanc~
+Unidirectional ¯ Output Impedance at lkHz: 250 ohms,
+unbalanced ¯ Frequency Range: 50-12,000Hz ¯ Output                                                                          ¯ Type: Oynamic microphone ¯ Polar Pattern: Omnidirec.
+Level at lkHz (0dB=lVl/zbar): -76dB -+3dB ¯ Cables:                                                                        tional ¯ Frequency Range: 200 -6,000Hz ~Output Level
+Coiled cable 6~ x 25m (at a max. extended length),                                                                         at lkHz: -76dB -+3dB (0dB=lV/#bar)/- 54dB +-3dB
+¯ Switch: Push-to-talk switch ¯ Mounting: Optional mike.                                                                   (0dB=lmWi10#bar) ¯ Impedance: 150 ohms (balanced)
+hanger model 2203 is available ¯ Dimensions (W x H x D):                                                                   ¯ Microphone Cord: 6~mm x 2m (extended) coiled cable
+46 x 157 x 33ram ¯ Weight: 230g                                                                                             ¯ Switch: Open-off type talk-switch with open.off type extra
+                                                                                                                           switch contact ¯ Weight: Approx. 190g ¯ Material: ABS
+                                                                                                                           resin ¯ Finish: Smooth ¯ Color: Dark gray
+
+
+
+
+                                                                                                                                                                                                 g
+                                                                                                                             DM-524B
+                                                                                                                             Stand-Mount Lo-Z Gooseneck
+                                                                DM-5211./521H                                                Microphone
+EM-801                                                          Stand-Mount Lo/Hi-Z Gooseneck
+Unidirectional Lo-Z Microphone                                  Microphone
+
+
+                                                                                                                             aUnidirectional stand-mount type with
+                                                                                                                               flexible gooseneck.
+                                                                                                                             ¯ Built-in on/off talk switch.
+                                                                ¯ Stand-mount type with flexible gooseneck.                  ¯ 600 ohms impedance.
+                                                                ¯ Dual 600 ohms or 50k ohms impedance,                       ¯ Handling noise suppressed.
+                                                                  selected with cable connection.                            ¯ "P/pe: Dynamic microphone ¯ Polar Pattern: Cardloid
+¯ Hand-held electret condenser mic with                         ¯ Background noise and feedback                              (Unidirectional) ¯ Output Impedance at lkHz: 600 ohms,
+  cardioid pickup pattern.                                        suppressed.                                                balanced ¯ Frequency Range: 100 ~ 10,000Hz ¯ Output
+¯ 600 ohms unbalanced output impedance.                         ¯ DM-521H is identical to DM-521L, and                       Level at lkHz (0dB=lVl/~bar): -76dB (0.16mV) _+3dB
+                                                                                                                             ¯ Mounting: Fixed with male connector ¯ Dimensions:
+¯ Swivel adaptor for stand mounting.                              provides impedances of 600 ohms and 50k                    40~ x 532mm ¯ Weight: 465g ¯ Built-in Connector: 21
+¯ Cable with phone plug.                                          ohms at the connector.                                     3-pin connector (Equivalent to 21P3B) ¯ Required Mating
+                                                                                                                             Connector: 21~ 3-pin connector (Equivalent to 21R3A)
+¯ lype: Electret condenser microphone ¯ Polar Pattern:          ¯ lype: Stand mount type dynamic microphone with flexible
+Cardioid (Unidirectionel)e Output Impedance at tkHz:            gooseneck ¯ Polar Pattern: Ueldirect~onel ¯ Output
+600 ohm~ unbalanced ¯ Frequency Range: 100 ~ 13,000Hz           Impedance at lkHz: DM-521H; 50k ohms unbalanced/
+¯ Output Level at tkHz (0dB=tVl#bsr): -71dB (0.28mV)            DM-521L; 600 ohms unbalanced ¯ Frequency Response:
+_+ 3dB ¯ Cables: 5m single-core shielded cable with phone
+plug ¯ Switch: 2 steps ON/OFF switch/Battery; open-off
+                                                                DM-521H; 100-8,000Hz/DM-521L; 100-9,000Hz ¯ Output
+                                                                Level at lkHz (0dB=lVlpbar): DM-521H; -60dB (lmV)
+                                                                                                                             DM-524S
+type/Output; short-off type ¯ Mounting: W 5/16" 18-thread        +3dB/DM-521L; -77dB (0.14mV) +3dB ¯ Cables:                 Stand-Mount Lo-Z Gooseneck
+swivel adaptor for stand mounting ¯ Dimensions: 44~ x           DM-521H; 5m single-core shielded cable with phone plug/
+                                                                DM-521L; 10m single-core shielded cable with phone plug
+                                                                                                                             Microphone with Switch
+207ram ¯ Weight: 290g (without battery) ¯ Battery: 1 pc of
+ "AA" (R6 or UM.3) size flashlight batterylBattery life; More   ¯ Mounting: W 5/16" 18-thread for stand mounting
+
+
+
+
+                                                                                                                             ,,--......
+than 4,000h                                                     ¯ Dimensions: 27~ x 387mm ¯ Weight: DM.521H;
+                                                                550g/DM-521L; 700g
+
+
+EM-802                                                          DM-521B
+Unidirectional Lo-Z Microphone                                                                                               ¯ Unidirectional stand-mount type with
+                                                                Fixed Lo/Hi-Z Gooseneck                                        flexible gooseneck.
+                                                                Microphone                                                   ¯ 600 ohms impedance
+                                                                                                                             ¯ Handling noise suppressed.
+                                                                                                                             ¯ Type: Dynamic microphone ¯ Polar Pattern: Cardioid
+                                                                                                                             (Unidirectional) ¯ Output Impedance at lkHz: 600 ohms,
+                                                                                                                             balanced ¯ Frequency Range: 100-10,000Hz ¯ Output
+                                                                                                                             Level at lkHz (0dB=lVlpbar): -76dB (0.16mV) +3dB
+                                                                                                                             ¯ Switch: Short-off type ¯ Mounting: Fixed with male con-
+¯ Hand-held electret condenser mic with                                                                                      nector ¯ Dimensions: 40~ x 557mm ¯ Weight: 475g
+                                                                ¯ Fixed installation type with flexible                      ¯ Built-in Connector: 21~ 3-pin connector (Equivalent to
+  cardioid pickup pattern.                                        gooseneck.                                                 21P3B) ¯ Required Mating Connector: 21~ 3-p~n
+¯ 600 ohms unbalanced output impedance                          ¯ Dual 600 ohms or 50k ohms impedance,                       connector (Equivalent to 21R3A)
+¯ Swivel adaptor for stand mounting.                              selected with cable connection.
+¯ Wind/pop screen.                                              ¯ Background noise and feedback
+¯ Cable with phone plug.                                          suppressed.
+¯ Type: Electret condenser microphone * Polar Pattern:          ¯ lype: Dynamic microphone ¯ Polar Pattern:
+Cardioid (Unidirectional) ¯ Outpat Impedance at lkHz:           Unidirectional ¯ Output Impedance at lkHz: 600 ohms,
+600 ohms, unbalanced ¯ Frequency Range: 100-13,000Hz            50k ohms, unbalanced (Selectabla by cabling on male
+¯ Output Level at lld-lz (0dB=lVl#bar): -73dB (0.22mV)          connector) ¯ Frequency Range: 600 ohms; 100-
+ _+3dB ° Cables: 5m single-core shielded cable with phone       10,000Hz, 50k 6hms; 100-10,000Hz ¯ Output Level at
+ plug ¯ Switch: 2 steps ONIOFF switch/Battery; open-off         lkHz (0dB=lV/Fbar): 600 ohms; -77dB (0.14mV)
+type/Output; short-off type ° Mounting: W 5/16~ 18-thread        +_3dB/50k ohms; -60dB (lmV) +-3dB ¯ Mounting: Fixed
+ swivel adaptor for stand mounting ° Dimensions: 20q~ x         with mate connector ¯ Dimensions: 27q~ x 501.5mm
+ 175mm ¯ Weight: 160g (without battery) ¯ Battery: 1 pc of       ¯ Weight: 380g ¯ Built-in Connector: 21q~ 3-pin connector
+ "AA" (R6 or UM-3) size flashlight battery/Battery life; More   (BTS 21P3B) ¯ Required Mating Connector: 21q~ 3-pin
+ than 5,000h                                                     receptable (BST 21R3A)
+                                                          RM-120C                                                      PM-600
+                                                          Remote Microphone with 2-Tone                                Paging Microphone
+RM-100                                                    Chime and Preamplifier
+Remote Microphone with
+Preamplifier
+
+
+
+                                                                                                                       ¯ Desk-top type dynamic microphone with
+                                                          ¯ Electret condenser microphone.                               cardioid polar pattern.
+                                                                                                                       ¯ Short-off press-to-talk switch with locking
+                                                          ¯ Cardioid pickup pattern.
+                                                          ¯ Balanced 600 ohms preamp output                              lever.                                                      ~ 1~)!" (
+¯ Electret condenser microphone                                                                                        ¯ Low handling noise.                                               ~-
+¯ Cardioid pickup pattern.                                  impedance.                                                 ¯ 600 ohms unbalanced output impedance.
+¯ Balanced 600 ohms preamp output                         ¯ 1 output on/off switch with extra remote
+                                                            control contact.                                           ¯ 2m single-core shielded cable with phone
+  impedance.                                                                                                              plug,
+¯ 1 output on/off switch with extra remote                ¯ 2 chime remote control switches for internal                                                                                   i~
+  control contact.                                          chimes.                                                    ¯ l~pe: Deak-top Type Dynamic Microphone ¯ Polar
+                                                                                                                       Pattern: Cardioid (unidirectional) ¯ Output Impedance at .
+¯ 1 chime remote control switch for external              ¯ Type." Remote microphone With 2-tone chime and             lkHz: 600 ohms, unbalanced ¯ Frequency Range:                      ii~,,
+  chime                                                   preamplifier * Microphone lyge: Electret condenser           200-10,000Hz ¯ Output Level at lkHz (0dB=lV//~bar):
+                                                          microphone ¯ Microphone Polar Pattern: Cardioid               -76dB (0.16mV) + 3dB ¯ Cables: 2m single-core shielded
+ ¯ lype: Remote microphone with preamplifier              (unidirectional) ¯ Microphone Sensitivity: -74dR SPL         cable with phone plug ¯ Switch: Short-off type switch with
+ ¯ Microphone l~pe: Electret condenser microphone         (0dB=0.0002,cbar) for 1V output ¯ Proamp. Output             locking lever ¯ Dimensions ON x H x D): 210 x 80 x 140ram
+ ¯ Microphone Polar Pattern: Cardioid (unidirectional)    Impedance: 600 ohms, balanced ¯ Proamp. Output               ¯ Weight: 530g
+ ¯ Microphone Sensitivity: -74dR SPL (0dB=0.0002#bar)     Level: 0dR (1V) at no toad ¯ Proamp. Distortion: 2%
+for lV output ¯ Pmamp. Output Impedance: 600 ohms.        50- 20,000Hz at a 0.2v output and 600 ohms load
+ balanced * Pmamp. Output Level: 0dR (1V) at no 1oad      ¯ Frequency Response: 30- 6,000H;: -+ 3dR without
+ ¯ Pmamp. Distortion: 20/0 50-20,000Hz at a 0.2V output   microphone/50- 20,000Hz + 10dR with microphone at 5cm
+and 600 ohms load * Frequency Response: 30- 6,000Hz
+ _+3dR without microphone/50-20,000Hz -+ 10dR with
+                                                          ¯ Noise Level’. - 60dR (lmV) at rated output ¯ Chime
+                                                          Tones: 2 independent tones (4ZlOHz and 659Hz -+ 50h)
+                                                                                                                       PM-600D
+ microphone at 5cm ¯ Noise level: -70dR (0.32mV) at       ¯ Switches: 1 Output ONIOFF switch with extra remote         Paging Microphone
+ rated output ¯ Switches: 1 Output ONIOFF switch with     control contact/2 Chime switches for internal chime
+ extra remote control contact/1 Chime remote switch for    4; Output Connection." Screw terminals ¯ Remote
+ external chime ¯ Ontput Connestion: Screw terminals      Control Capacity: 300mA at 30V DC ¯ Power Require-
+ ¯ Remote Control Capacity: Extra remote control; 300mA    ments: AC mains, 50160Hz ¯ Power Consumption: 0.SW
+ at 30V De/Chime remote switch; 100mA at 12V DC ¯ Power    ¯ Dimensions ON x H x D): Microphone Base; 120 x 45 x
+ Requirements: AC mains, 50160Hz ¯ Power Consump-          140mmlGooseneak Length; 230mmlAmplifier Box; 140 x
+ tion: 0.6W ¯ Dimensions ON x H x D): Microphone Base;     50 x 150ram ¯ Weight: 2.0kg
+  "i20 x 45 x 140mmlGooseneck Length; 230mmlAmplifier
+ Box; 140 x 50 x 150mm ¯ Weight: 1.9kg,
+                                                          RM-140C
+                                                          Remote Microphone with 4-Tone                                ¯ Desk-top type dynamic microphone with
+                                                          Chime and Preamplifier                                         cardioid polar pattern.
+                                                                                                                       ¯ Short-off press-to-talk switch witt~ open OFF
+                                                                                                                         type extra switch contact.
+                                                                                                                       ¯ Low handling noise.
+                                                                                                                       ¯ 200 ohms balanced output impedance,
+                                                                                                                       ¯ 2m 4-conductor (included twin-core
+                                                                                                                         shielded) cable with 5-pin DIN plug.
+                                                                                                                       ¯ Can be operated with additional
+                                                                                                                         components such as priority and
+                                                                                                                         transmitting/receiving relays.
+                                                          ¯ Electret condenser microphone.                             ¯ lype: Deck-top Type Dynamic Microphone ¯ Polar
+                                                          ¯ Cardioid pickup pattern.                                   Pattern: Cardioid (unidirectional) ¯ Output Impedance at
+                                                                                                                       lkHz: 200 ohms, balanced ¯ Frequency Range:
+                                                          ¯ Balanced 600 ohms preamp output                            200-10,000Hz ¯ Output Level at lkHz (0dB=lVh~bar):
+                                                            impedance.                                                  - 83dB (0.07mV) _+3dB ¯ Cables: 4-conductor (including
+                                                          ¯ 1 output on/off switch with extra remote                   twin-core shielded) cable with 5-pin DIN plug, 2m long
+                                                                                                                       ¯ Switch: Short-off type press-to-talk switch with open OFF
+                                                            control contact.                                           type extra switch contact ¯ Dimensions ON x H x D):
+                                                          ¯ 1 chime remote control switch for internal                 210 x 80 x 140ram ¯ Weight: 550.q ¯ Extra Contact
+                                                             chime.                                                    Capacity: Max. 150mA at 24V DC (Pin No. 4 and No. 5)
+                                                           ¯ lype: Remote microphone with 4-tone chime and
+                                                           preamplifier ¯ Microphone Type: Electret condenser
+                                                           microphone¯ Microphone Polar Pattern: Cardioid
+                                                           (unidirectional) ¯ Microphone Sensitivity: -74dB SPL
+                                                           (0dB=0.0002/~bar) for 1V output ¯ Preamp. Output
+                                                           Impedance: 600 ohms, balanced ¯ Proamp, Output
+                                                           Level: 0dB (1V) at no load ¯ Pro-amp. Distortion: 20/0
+                                                           50- 20,000Hz at a 0,2V output and 600 ohms load
+                                                            ¯ Frequency Response: 30- 6,000Hz -+ 3dB without
+                                                           microphone/50 - 20,000Hz -+ 10dB with mic:ophone at 5cm
+                                                            ¯ Noise Level: -65dB (0.56mV) at rated output ¯ Chime
+                                                           Tones: 4 continuous tones (440. 554, 659 and 880Hz
+                                                            -+5%) ¯ Switches: 1 Output ONIOFF switch with extra
+                                                            remote control contact/1 Chime switch for internal chime
+                                                            ¯ Output Connection: Screw terminals ¯ Remote
+                                                           Control Capacity: 300mA at 30V DC ¯ Power Require-
+                                                            ments: AC mains, 50160Hz ¯ Power Consumption: 1.1W
+                                                            ¯ Dimensions ON x H x D): Microphone Base; 120 x 45 x
+                                                            140ram/Gooseneck Length; 230mmlAmplifier Box; 140 x
+                                                           50 x 150ram ¯ Weight: 2.1kg
+PM-600U                                                        Gooseneck                                          Cables
+Paging Microphone                                              ST-506                                             YM-101 10m Long
+                                                               ¯ Length 15cm                                      ¯ Balanced type
+                                                               ¯ 5/16" thread (male, female)                        XLR-3-11C to XLR-3-12C
+                                                               ST-507                 I                             microphone cable
+                                                               ¯ Length 30cm                     I~
+                                                               ¯ 5/16" thread (male, female)
+                                                                                                                  YM-102 10m Long
+                                                               YM-121                                             ¯ Unbalanced type single
+                                                               ¯ Length 36.7cm            $T-506 ST-507 YM-121      pole to XLR-3-11C
+                                                               ¯ Flexible shaft for ST-73                           microphone cable
+¯ Desk-top type dynamicmicrophone with                         ¯ Input Receptacle: Equivalent to XLR-3-11C
+  cardioid polar pattern.                                      ¯ Output Receptacle: BTS21P3B (3-pin)
+¯ Short-off press-to-talk switch with open OFF
+  type extra switch contact locking lever.                                                                        YM-103 10m Long
+¯ Low handling noise.                                          Desk Stand                                         ¯ Balanced type double
+¯ 200 ohms balanced output impedance.                          ST-73                                                pole to XLR-3-11C
+¯ 2m 4-conductor (included twin-core                           For DM-524B/524S          0                          microphone cable
+  shielded) cable without plug.                                ¯ Output Receptacle: Equivalent to XLR-3-14
+¯ Can be operated with additional                              ¯ Input Receptacle: BTS21R3A (3-pin)
+  components such as priority and
+  transmitting/receiving relays.                                                                                  YM-104 10m Long
+                                                               ST-62                                              ¯ Unbalanced type single
+¯ Type: Deck-top Type Dynamic Microphone ¯ Polar
+Pattern: Cardioid, unidirectional o Output Impedance at
+lkHz: 200 ohms Balanced ¯ Frequency Range:
+200-10,000Hz ¯ Output Level at l kHz (0dB=lV/#bar):
+                                                               " e%rea
+                                                               ¯ 5/16" ST-63
+                                                                                              /i
+                                                                                                                    pole to jack microphone
+                                                                                                                    cable
+ - 83dB (0.07mV) + 3dB ¯ Cables: 4-conductor cable
+(including twin-core shielded) without plug, 2m long                       Height 14.5cm
+ ¯ Switch: Short-off type press-to-talk switch with open OFF
+type extra switch contact locking lever included                         ¯ 5/16" thread                           MC-105 5m Long
+ ¯ Dimensions (W x H x D): 210 x 80 x 140mm ¯ Weight:                                                             ¯ Unbalanced type single
+ 550g ¯ Extra Contact Capacity: Max. 150mA at 24V DC                             STy64
+                                                                                   Height 22.5- 39cm                pole, to jack microphone
+                                                                                 ¯ 5/16" thread                     cable
+EC-100M                                                        Floor Stand
+Chime Micmp~e
+                                                                        ST-206
+                                                                        ¯ 2 sections
+                                                                        ¯ Height 90-160cm                         RC-11 2m Long
+                                                                        ¯ 5/16" thread                            RC-12 5m Long
+                                                                                   ST-208                         RC-13 10m Long
+                                                                                   ¯ 2 sections                   RC-14 20m Long
+                                                                                   ¯ Height 85 - 150cm
+                                                                                   ¯ 5/16" thread                 ¯ Balanced type cannon plug (XLR-341C) to
+                                                                                                                    cannon plug (XLR-3-12C) connector
+                                                                                            ST-209                  microphone cable.
+                                                                                            ¯ Tripot base
+                                                                                            ¯ Height 96 - 158cm
+¯ Unidirectional dynamzc microphone with                                                    ¯ 5/16" thread
+  built-in electronic chime unit,                                                <ID                              RC-21 2m Long
+¯ Generates 2 series of 4 notes-from low to                                                                       RC-22 5m Long
+  high--before an announcement and vice-                                                                          RC-23 10m Long
+  versa afterwards.                                                                                               RC-24 20m Long
+¯ 2 pushbuttons for easy operation.
+¯ Power Requirement: DC 3V (SUM-2 x 2 pcs.) ¯ Current
+                                                                                    .I’
+Consumption: 2mA in an operation of mike and chime
+10/.~A in no operation o Chime Unit: Series of 4 notes/         Boom Arm                                          ¯ Balanced type double pole phone plug to
+Frequencies; 442, 553, 660 and 883Hz ¯ Microphone:
+Unidirectional dynamic type o Output: Chime Signal:             BM-209                                              cannon connector microphone cable.
+- 45dBv max. 600 ohms (u nbalanced)/Microphone;                 ¯ Length 73cm
+- 73dB 600 ohms (unbalanced) at lkHz, 0dB=lV/#bar               ¯ 5/16" thread
+(phone jack) ¯ Color: Metallic gold (Stand base) ¯ Weight:
+0,77kg ¯ Dimensions (W x H x D): 112 x 293 >~ 150mm
+                                                                Stand Adaptors ~_~                                YM-106
+¯ Accessory: 2m cable with phone to phone plug
+                                                                                                                  Microphone Holder
+                                                                                                                  ¯ 5/16" thread
+                                                                        YM-122
+                                                                        ¯ 3/8" to
+                                                                         5/16 "thread H             5/8 -
+                                                                                            5/16"
+
+                                                                                    YM-123
+                                                                                    ¯ 5/8" to
+                                                                                      5/16" thread      -
+                                                                                          YM-124
+                                                                                          ¯ 5/8" to 3/8" or
+                                                                                            5/16" thread
+                                                                                                                                                                                                                                                                                                                                      L,
+
+
+
+
+     900 Series Plug-In Modules Selection Guide & Specifications
+                                                                                                                                                                                                                                                                                                                                 Connector
+                                                                                                                                                                      Specifications                           ~\,"/~/IO
+
+
+                               Applications                                                                                                                           Max, Before Clip                                     Noise Level                               Compress.            Power         Controls      Weight
+                                                                                 Module        Souse            Input Sensitivity                                   into 10k ohms load        Frequency                                                                Range           Requirement                    (Max .)
+                                                                                                               for Rated Output                  Gain                                         Response                                                                                                [Prseettable]
+                                                                                 Types       Impedance                                                            at less than 0,5% "rHD                                                                            [Threshold]          [24V DC]                                                     5P Screw
+                                                                                                               ( - 20dBv/100mV)                                            (lkHz)                _+ldB
+                                                                                                                                                                                                                                                                                                                                                     Terminal (S)
+                                                                                                                                                                                                                   m                                                                                                   110g
+                    *Low Z                                                                                                                                                                                                                                                                 9mA
+                                                                              M-01 aeriea                                                                                                                                                                                                            1-Lowcut
+                                                                                                                                                                                                                                                                                           14mA      1-High cut        80g
+                    Gain Control           Mute or Mute                       M-11                                                                                                                                                                                                                   1-Gain
+                                                                                                                                                                                                                                                                                                                       90g                              M-21S
+                    Low-cut Filter                                            M-21                                                                                6.3V ( + 16dBv)                                                                                                          30mA
+                                           RemmeVo~umeControHacilities
+                                                                                                             Nominal -60dBv (1.0mV)                                                                                         -126dBm,
+                                                                                            Balanced        Adjustable -72- - 52dBv    Nominal 40dB                                          25- 20,000Hz                  200 ohms
+                    High-cut Filter                                                         200 ohms        (0.25- 2¯5mV)              Adjustable 52 - 32dB                                                                terminated                                                      27mA      1-Sensitivity
+     Microphone     (except for M-51)      Voice Gate                         M-51 series
+     Preamplifier
+                                                                                                                                                                                                                                                                 20dB                                1-Low cut
+                                                                                                                                                                                                                                                                                           33mA      1.High cut         110g
+                    Phantom Power          Compressor                         M-61 series                                                                                                                                                                        Threshold
+                                                                                                                                                                                                                                                                 adjustable 0.5- 5mY                  -Threshold
+
+                                                                                                                                                                                                                                                                                                     1-Low cut
+                    High Z, Gain                                                                             Nominal -50dBv(3¯2mV) Nominal 30dB                                                                                                                           --               9mA        -High cut         60g
+                    Control, Low-cut                                          M-03          Unbalanced      Adjustable -62- -42dBv Adjustable 42- 22dB            6.3V ( + 16dBv)            20- 20,000Hz                  SIN 70dB
+                                                                                            50k ohms                                                                                                                                                                                                  .Gain
+                    and High-cut Filters                                                                    (0.8- 8.0mV)
+     Mag. Phono                                                                             Unbalanced       Nominal -54dBv 2.0mV) Nominal 34dB                                              RIAA                                                                                                    1-Gain             50g
+                    Gain Control                                              R-01                          Ad ustabe -54- -46dBv Adjustable 34- 26dB             6.3V (+ 16dBv)                               [           SIN 70dB
+     Preamplifier                                                                           50k ohms                                                                                         Equalized
+                                                                                                            (2.0- 5.0mV)
+                                                                                                                                                                                                                                                                                           4mA                          75g
+                                                                              U-01 series                                                                                                                                                                                                            1-Gain
+                                                                                                                                                                                                               t                                                                           14mA                         50g
+                                                                                                                                                                                                                                         ;0dB
+                                           Mute                               U-11 series
+                                                                                            Unbalanced      Nominal - 20dBv (100mV)    Nominal 0dB                                           .......... P,<,~’A            SIN 90dB
+     Auxiliary                                                                              220k ohms       Adjustable - 20- + 10dBv   Adjustable 0 ~ - 30dB      6.3V (+16dBv)              20-20,000Hz |/))~,~1~                       kdjustable                                        27mA      1.Mute level       50g
+                    Gain Control           Variable Mute                      U-12                          (100- 3,200mV)                                                                                                                                                                           1.Gain
+     Preamplifier                                                                                                                                                                                                                        ) - 60dB                                                                                                       U-21S
+                                           Remote Volume or Remote                                                                                                                                                                                                                         27mA                         60g
+                                                                              U-21                                                                                                                                                                    I~ -60dB
+                                           Master Volume Control facilities                                                                                                                                                                                                                           .Gain
+                                                                                            Unbalanced Rated output           Nominal 0dB                                                                                                                        20dB                      30mA                         55g
+                                           Compressor                         U-61                                                                                                           20- 20,000Hz                   SIN 90dB                             Threshold 1.0V
+                                                                                            10k ohms 0dBv (1.0V)             Adjustable 0 ~ -30dB
+                                                                                            Unbalanced Nominal   - 20dBv (100mV) Nominal 0dB
+                                                                                                       Adjustable -20~0dBv                                        6.3V (+ 16dBv)             20- 20,000Hz                   SIN 90dB
+                                                                                            220k ohms  (100 ~ 1,000mV)           Adjustable 0 ~ - 20dB
+     Auxiliary                                                                                                                                                                                                                                                                                       l-Input gain       105g                             T-02S
+                    Output Gain Control                                                                                                                                                                                                                                                    38mA       1-0utputgain
+     Input Line     Input Gain Control                                        $02 / LINE                                                Nominal 20dB
+     Output                                                                                                                                                       6¯3V (+ 16dBv)
+                                                                                            l ualanced I    Rated output 0dBv (I.0V)   AI¯0V  output)20 - 4dB
+                                                                                                                                         djustable                4.7V (+ 13.4d Bv)          30 ~ 20,000Hz                  SIN 80dB
+                                                                                            I ~UU oilms I                              (1.0 ~ 158mV out put)      into 600 ohms load
+
+                                                                                                                                                                                                                                                B                                            B                  B       90g
+                                                           B                  S-01 series
+     Bridging                                                                               Balanced        - 18dBv (125mV)            - ldB                                 --              20 ~20,000Hz                                                                                                                                                  B
+     Transformer                                                                            10k ohms                                                                                                                                                                                        5mA                 B       95g
+                                           Mute                               B-11 series                                                                                                                                                60dB
+                                                                                                                                                                                                                                                                                                                B        90g                 L-01S
+                                                                              L-01 series
+                                                                                                            - 18dBv (125mV)                                                                                                                                                                                             95g                  L-11S
+     Line                                  Mute                                                                                                                                                                                          60dB                                               5mA
+     Matching                                                                 L41           Balanced                                   - 2dB                                  --              .>0 ~ 20,000Hz
+     Transformer                                                                            600 ohms                                                                                                                                                                                                                                         L-41S
+                                                                                                            - 18dBv (125mV)                                                                                                                                                                 8,5mA     1.Sensitivity      95g
+                    Sensitivity Control    Signal Activating Mute             L-41                           Min. 15mV to activate
+                                                                                                             mute function
+                                                                                                                                                                                                                                                                                                                         100g                              1-01S
+     Paging Input   Gain Control                                              1-01          Balanced        Nominal 3.2V               Nominal - 30dB                                        500 - 20,000Hz                                                                                 15mA      1.Gain
+                    Mute Delay Control                                                      600 ohms        Adjustable 3.2 ~ 10V       Adjustable - 30 ~ - 40dB              --              L0w-cut 250Hz
+                                                                                                                                       Nominal 20dB                                                                                      ---"                                                                                                T-01S
+                                                                                            , L ,Hl,,HI I                                                         6.3V (+ 16dBv)                                                                                                            35mA       I-Gain             100g
+     Line Output    Gain Control                                              T-01 series   I uaJanced I               B               (1.0V output)              4.7V (+ 13.4dBv)           30 ~20,000Hz
+                                                                                                                                       Adjustable 20- 4dB
+                                                                                            16UU Ohms I                                (1.0V ~ 158mV)             into 600 ohms load
+                                                                                                                                                                                                                                                                                                                                             S-01S
+                                                                                                                       q                                                                                                                                                                    7mA
+                                           lkHz Sine Wave                     S-01                                                                 --             0.5V ( - 6dBv) 0.5% TH D         --                  I
+                                                                                                                                                                                                                                                                                                                          60g                S-01S
+     Tone Signal                           BuzzedYelp                         S-02                                     B                          --              1V peak to peak                  --                                                                                                  l-Output
+                    Gain Control                                                                                                                                                                                             SIN 80dB
+     Generator                                                                                                                                                                                                                                                                                                                               S-03S
+                                           One Tone Chime/                                                                                                                                                                                                                                  16mA                          70g
+                                           Continuous Chime                   S-03                                                                --              1V peak to peak                  --
+                                                                                                                                                                                                                                                                                                                                              *0dBv- 1V- +2dBm.
+                                                                                                                                                                                                                       I                                                                                                                                            18
+17
+                                                                                                                                                                                                                                                                                       /
+    Index
+    A-50M ......................................25    BS-61WT ..................................45     DM-100H ...................................  3
+    A-90M ......................................25    BS-62F .....................................
+                                                                                                44     DM-100L .................................... 3
+    A-503A .....................................23    BS-62FT ...................................
+                                                                                                44     DM-403 ......................................2
+    A-503AH ..................................  24    BS-62S .....................................
+                                                                                                44     DM-410 ......................................2
+    A-503E .....................................23    BS-62ST ..............: ....................44   DM-503 ...................................... 1
+    A-503M .................................... 23    BS-102F ...................................
+                                                                                                44     DM-521B .................................... 4
+    A-503U .....................................24    BS-102 FT .................................
+                                                                                                44     DM-521H ...................................  4
+    A-506A..................................... 23    BS-102S ...................................
+                                                                                                44     DM-521 L ....................................4
+    A-506AH ..................................  24    BS-102ST .................................44     DM-524B .................................... 4
+    A-506E .....................................23    BS-310 .....................................
+                                                                                                43     DM-524S .................................... 4
+    A-506M .................................... 23    BS-310T ...................................
+                                                                                                43     DM-531H ...................................  3
+    A-506U .....................................24    BS-310W ..................................43     DM-603 ...................................... 1
+    A-512A .....................................23    BS-310WT ................................ 43     DM-604 ...................................... 1
+    A-512AH ..................................  24    BS-364 .....................................
+                                                                                                43     DM-605 ...................................... 1
+    A-512E .....................................23    BS-364T ...................................
+                                                                                                43     DM-703 ...................................... 1
+    A-512M .................................... 23    BS-365 .....................................
+                                                                                                43     DM-703D ....................................  1
+    A-512U .....................................24    BS-365T ...................................
+                                                                                                43     DM-803 ...................................... 1
+    A-901A..................................... 15    BS-372 .....................................
+                                                                                                43     DM-803D ....................................  1
+    A-903A .....................................15    BS-372T ...................................
+                                                                                                43     D P-053A ...................................
+                                                                                                                                                  13
+    A-906A..................................... 16    BS-373 .....................................
+                                                                                                43     DT-910 .....................................
+                                                                                                                                                  19
+    A-912A .....................................16    BS-373T ...................................
+                                                                                                43     EC-100M .................................... 6
+    A D-242A .................................. 14    BS-565 .....................................
+                                                                                                43     EM-70 ......................................
+                                                                                                                                                  56
+    AM-820 ............................... 11,21      BS-565T ...................................
+                                                                                                43     EM-801 ......................................4
+    AR-70 .......................................
+                                                56    BS-621 .....................................
+                                                                                                45     EM-802 ......................................4
+    AT-12A .....................................51    BS-672 .....................................
+                                                                                                43     EQ-910A .................................. 19
+    AT-22A..................................... 51    BS-672T ...................................
+                                                                                                43     ER-33 .......................................
+                                                                                                                                                 52
+    AT-32A .....................................51    BS-673 .....................................
+                                                                                                43     ER-66 .......................................
+                                                                                                                                                  52
+    AT-62A..................................... 51    BS-673T ...................................
+                                                                                                43     ER-66F .....................................
+                                                                                                                                                  52
+    AT-312A ................................... 51    BU-411AN ................................ 12     ER-67 .......................................
+                                                                                                                                                  52
+    AT-612A...................................  51    BX-9F .......................................
+                                                                                                20     ER-68 .......................................
+                                                                                                                                                  52
+    ATT-1 .......................................
+                                                51    BX-9S .......................................
+                                                                                                20     ER-309 .....................................
+                                                                                                                                                  52
+    ATT-2 .......................................
+                                                51    BY-10 .......................................
+                                                                                                48     ER-309F ...................................53
+O   ATT-3 .......................................
+    ATT-34A...................................
+                                                51
+                                               50
+                                                      CA-10 .......................................
+                                                                                                26
+                                                      CA-20 .......................................
+                                                                                                26
+                                                                                                       ER-332 .....................................
+                                                                                                       ER-332P ...................................
+                                                                                                                                                  53
+                                                                                                                                                  53
+    ATT-64 .....................................
+                                               50     CA-40 .......................................
+                                                                                                26     ER-332S ...................................
+                                                                                                                                                 53
+    B-01 series ................................17    CA-60 .......................................
+                                                                                                27     ER-332W ..................................53
+    B-1 ...........................................
+                                               39     CA-103 .....................................
+                                                                                                27     ER-332Y ......i ............................
+                                                                                                                                                 53
+    B-2 ...........................................
+                                               39     CA-120 N ..................................
+                                                                                                28     ER-371 .....................................
+                                                                                                                                                 53
+    B-8 ...........................................
+                                               39     CA-203 .....................................
+                                                                                                27     ES-100F ...................................
+                                                                                                                                                 53
+    B-9 ...........................................
+                                               39     CA-240BN ................................ 28     ET-900 ......................................
+                                                                                                                                                 20
+    B-11 series ................................17    CA-240N ..................................28     F-10B .......................................
+                                                                                                                                                 48
+    BA-400 ...............................11,21       CA-403 .....................................
+                                                                                                27     F-10W ......................................
+                                                                                                                                                 48
+    BA-403 ...............................11,21       CA-424C ..................................27     F-150G .....................................
+                                                                                                                                                 47
+    BC-085A ................................... 14    CMB-3 ......................................
+                                                                                                48     F-150R .....................................
+                                                                                                                                                 47
+    BC-700 .....................................
+                                               31     CR-131N ..................................13     F-150W .....................................
+                                                                                                                                                 47
+    BG-10 .......................................
+                                               19     CR-232N ..................................13     F-300G .....................................
+                                                                                                                                                 47
+    BK-013A ...................................13     CR-271N ..................................13     F-300R .....................................
+                                                                                                                                                 47
+    BK-023A ...................................13     CR-392N ..................................13     F-300W .....................................
+                                                                                                                                                 47
+    BK-033A ................................... 13    CR-411N ..................................13     FB-10 .......................................
+                                                                                                                                                 48
+    B K-053A ...................................
+                                               13     CS-31P .....................................
+                                                                                                41     FY-151 B ...................................
+                                                                                                                                                 47
+    BM-209 ......................................6    CS-61P .....................................
+                                                                                                41     FY-151W ..................................47
+    BP-031G .................................. 12     CS-152P ...................................
+                                                                                                41     FY-152P ...................................
+                                                                                                                                                 47
+    BS-5W ......................................
+                                               44     CU-200 .....................................
+                                                                                                28     FY-152W ..................................47
+    BS-31 F .....................................
+                                               44     CU-400 ...............................11,21      FY-153D ...................................
+                                                                                                                                                 47
+    BS-31FT ...................................44     DH-11 ......................................
+                                                                                                40     FY-153N ...................................
+                                                                                                                                                 47
+    BS-31S .....................................
+                                               44     DH-12 ......................................
+                                                                                                40     FY-310 ......................................
+                                                                                                                                                 47
+    BS-31ST ...................................44     DH-13 ......................................
+                                                                                                40     GM-304 ......................................
+                                                                                                                                                   2
+    BS-61W ....................................45     DH-14 ......................................
+                                                                                                40     GM-304S ....................................2     58
+     GM-305 ......................................  2   PC-39F .....................................40    RT-22 .......................................22
+      HM-100 .................................... 53    PC-64RW .................................   49    S-01 ..........................................
+                                                                                                                                                        17
+     1-01 ...........................................
+                                                  17    PC-64SW ..................................  49    S-02 ..........................................
+                                                                                                                                                        17
+     IP-011A .................................... 14    PC-67R .....................................49    S-03 ..........................................
+                                                                                                                                                        17
+     IT-437 .......................................
+                                                 34     PC-67S .....................................50    SC-25L ..................................... 39
+     J-700 ........................................
+                                                 34     PC-129 .....................................40    SC-35L ..................................... 39
+     JB-600A ...................................  14    PC-139 ..................~ ..................40   SC-300A ...................................  39
+     JB-700 ......................................14    PC-201 .....................................
+                                                                                                   48     SC-600A ...................................  39
+     J P-028G ................................... 12    PC-341R ................................... 50    SC-1200A .................................   39
+     L-01 series ................................17     PC-341S ...................................50     SP-105 ..................................... 42
+     L-11 ..........................................
+                                                  17    PC-342R ...................................50     SP-130 ..................................... 42
+     L-41 ..........................................
+     LS-300B ...................................
+                                                  17
+                                                 47
+                                                        PC-342S ...................................50
+                                                        PC-391 .....................................51
+                                                                                                          SP-200 .....................................
+                                                                                                          SP-215 .....................................
+                                                                                                                                                       42
+                                                                                                                                                       42    II
+     LS-300W ..................................  47     PC-391T ...................................51     SP-250 ..................................... 42
+     LS-500B ................................... 47     PC-641R ...................................50     SP-505 ..................................... 42
+     LS-500W ..................................  47     PC-641S ...................................50     SPA-603 ...................................  52
+     M-01 series ...............................17      PC-642R ...................................50     SPA-603W ................................    52
+     M-03 .........................................
+                                                 17     PC-642S ...................................50     SS-011A ...................................  14
+     M-11 .........................................
+                                                 17     PC-671R ...................................51     SS-021A ...................................  14
+     M-21 .........................................
+                                                 17     PC-671RV ................................. 51     ST-20 ......... ................................
+                                                                                                                                                       48
+     M-51 series ...............................17      PC-671S ...................................51     ST-206 .........................................
+                                                                                                                                                         6
+     M-61 series ...............................17      PC-671SV ................................. 51     ST-208 ........................................6
+     M-900A ....................................  15    PE-62B .....................................
+                                                                                                   47     ST-209 .........................................
+                                                                                                                                                         6
+     MA-240 .................................... 31     PE-62W ....................................47     ST-410 ...................................... 14
+     MAB-1 .......................................
+                                                 48     PE-84 .......................................
+                                                                                                   47     ST-480 ......................................53
+     MB-11G2 ............................13.34          PE-122B ...................................47     ST-490 ......................................46
+     MB-11 N2 .................................. 34     PE-122W .................................. 47     ST-506........................................ 6
+     MB-11S2 ..................................  20     PE-164 .....................................
+                                                                                                   47     ST-507 ........................................6
+     MB-12N3 ..................................  34     PF-013A ...................................13     ST-62 ..........................................
+                                                                                                                                                         6
+     MB-13 ......................................34     PF-023A ...................................13     ST-63 ..........................................
+                                                                                                                                                         6
+     MB-21 B2 .................................. 24     PF-511 .....................................
+                                                                                                   24     ST-64..........................................6
+     MB-920 .................................... 20     PF-911 .....................................
+                                                                                                   20     ST-73 ..........................................
+                                                                                                                                                         6
+     MB-921A..................................
+     MB-922 ....................................
+                                                 20
+                                                 20
+                                                        P J-100 ......................................
+                                                                                                   41
+                                                        P J-200 ......................................
+                                                                                                   41
+                                                                                                          STB-3 .......................................
+                                                                                                          SY-10 .......................................
+                                                                                                                                                       48
+                                                                                                                                                       53
+                                                                                                                                                             I1
+     M B-931 A ..................................20     PM-100 ...................................... 3   SY-20 .......................................53
+     MB-DT910 ...........: ....................20       PM-120 ...................................... 3   T-01 series ................................17
+     MC-105 ...................................... 6    PM-306D ....................................  3   1-02 ..........................................
+                                                                                                                                                       17
+     MP-032A ..................................  12     PM-600 ...................................... 5   TA-101 ..................................... 25
+     MP-932 .................................... 20     PM-600D ....................................  5   TA-110A...................................   25
+     P-906A .....................................16     PM-600U ....................................  6   TA-312 ..................................... 25
+     P-912A ............ .........................16    PP-024G.....................................  8   TA-312E ...................................  25
+     P-924A .....................................16     PS-011G ....................................
+                                                                                                   12     TC-10P ..................................... 39
+     PA-031G ....................................  8    PSP-100 ...................................14     TC-15L ......................................38
+     PA-037D ................................. ,.. 8    PSP-101 ...................................14     TC-15ML ..................................   38
+     PA-22 .......................................
+                                                 22     R-01 .........................................
+                                                                                                   17     TC-20L ..................................... 38
+     PA-30 .......................................
+                                                 22     RC-11 .........................................
+                                                                                                      6   TC-20ML ..................................   38
+     PAU-01 ..............: .....................22     RC-12 .........................................
+                                                                                                      6   TC-25L ..................................... 38
+     PAU-02 .................................... 22     RC-13 .........................................
+                                                                                                      6   TC-25ML ..................................   38
+     PC-3W ......................................51     RC-14 .........................................
+                                                                                                      6   TC-35P ..................................... 39
+     PC-34RW .................................   49     RC-15B ....................................40     TC-101A ...................................  37
+     PC-34SW ..................................  49     RC-21 .........................................
+                                                                                                      6   TC-101TA .................................   37
+     PC-35RW .................................   49     RC-22 .........................................
+                                                                                                      6   TC-101TE .................................   37
+     PC-35SW ..................................  49     RC-23 .........................................
+                                                                                                      6   TC-151A ...................................  37
+     PC-36RW .................................   49     RC-24 .........................................
+                                                                                                      6   TC-151TA ..................................  37
+     PC-36SW ..................................  49     RM-100 ...................................... 5   TC-151TE .................................   37
+     PC-37R .....................................49     RM-120C ....................................  5   TC-301A ...................................  37
+     PC-37S .....................................50     RM-140C ....................................  5   TC-301TA.................................    37
+59
+     PC-38RW .................................   49     RM-820 ...............................12, 22      TC-301TE .................................   37
+    TH-40L ..................................... 35      V-1014 ......................................
+                                                                                                     10        WT-840U .................................. 33
+    TH-45L ..................................... 35      V-1015 ......................................
+                                                                                                     10        WTU-740U ...............................   33
+    TH-50L ..................................... 35      V-1022 ........................................
+                                                                                                      9        WTU-840U ...............................   33
+    TH-60L ..................................... 35      V-1032 ......................................
+                                                                                                    10         WU-20 ......................................
+                                                                                                                                                          30
+    TH-100 ..................................... 36      V-1033 ......................................
+                                                                                                    10         YA-401A ...................................31
+    TH-200 .....................................36       V-1051A .....................................9        YA-402 .....................................
+                                                                                                                                                         31
+    TM-1-70 ....................................48       V-1052A .....................................9        YA-406 .....................................
+                                                                                                                                                         31
+    TM-1-100 .................................. 48       V-1053 ......................................
+                                                                                                    10        YA-703 .....................................
+                                                                                                                                                         14
+    TM-3-70 ....................................48       V-1054...: ....................................
+                                                                                                      9       YA-704 .....................................
+                                                                                                                                                         14
+    TM-3-100 .................................. 48       V-1061 ......................................
+                                                                                                    10        YA-705 .....................................
+                                                                                                                                                         14
+    TM-10 .......................................
+                                                48       V-1062 ......................................
+                                                                                                    10        YA-910 .....................................
+                                                                                                                                                         20
+    TM-11 .......................................
+                                                48       V-1071A ...................................10        YA-1000A ................................. 10
+    TM-30T .....................................42      V-1082 ......................................
+                                                                                                    10        YB-120A ...................................13
+   TM-60T ..................................... 42      V-1090 ......................................
+                                                                                                    10        YF-120A ...................................13
+   TM-300 ..................................... 40      V-1151A .....................................9        YJ-120A ...................................13
+   TM-600 ..................................... 40      V-1154 ........................................
+                                                                                                     9        YM-003 ...............................13, 56
+   TMB-1 ...................................... 48      V-1251A .....................................9        YM-06A ....................................13
+   TP-M15D ..................................   41      V-1254 ......................................
+                                                                                                   10         YM-09A ....................................13
+   TP-M15E ..................................  41       V-1351 ........................................
+                                                                                                     9        YM-12A ....................................13
+   TS-70 ........................................
+                                               55       VC-12A .....................................
+                                                                                                   51         YM-101 ......................................6
+   TS-71 ........................................
+                                               55       VM-1030A ..................................  7       YM-102 ...................................... 6
+   TS-72 ........................................
+                                               55       VM-1060A ..................................  7       YM-103 ...................................... 6
+   TS-73 ........................................
+                                              55        VM-1120A ..................................  7       YM-104 ......................................6
+   TS-79 .................... ....................
+                                              56        VP-1030A ...................................8        YM-106 : .....................................
+                                                                                                                                                          6
+   1-F-104 ................................12, 19       VP-1060A ...................................8        YM-121 ......................................6
+  TU-15L .....................................36       VP-1120A ................................... 8        YM-122 ......................................6
+  TU-15ML ..................................  36       VP-1240A ...........~ .......................8        YM-123 ......................................
+                                                                                                                                                         6
+  TU-25L .....................................36       VR-1001 ................................... 11        YM-124 ......................................
+                                                                                                                                                         6
+  TU-25ML ..................................  36       VR-1006 ................................... 11        YR-70 .......................................
+                                                                                                                                                       56
+  TU-35L .....................................36       VR-1012 ...................................11         YR-71 .......................................
+                                                                                                                                                       56
+  TU-35ML ..................................  36       VR-1018 ...................................11         YR-72 .......................................
+                                                                                                                                                       56
+  TU-50 .......................................
+                                              36       W-906A ....................................16         YR-1000 ...................................
+                                                                                                                                                       14
+  TU-50M .................................... 36       W-912A ....................................
+                                                                                                 16          YR-1005 ...................................
+                                                                                                                                                       14
+  TU-50S .....................................
+                                             40        WA-620 ....................................
+                                                                                                 31         YR-1010 ...................................14
+  TZ-101 ......................................
+                                             46        WA-620C ..................................31         YR-1020 ...................................14
+  TZ-111 ......................................
+                                             45        WA-640 ....................................
+                                                                                                 34         YS-11 .......................................
+                                                                                                                                                      51
+  TZ-112.......................................
+                                             45        WA-640C ..................................34         YS-31W ....................................
+                                                                                                                                                      45
+  TZ-150N ...................................46        WB-900 ....................................
+                                                                                                20          YS-32S .....................................
+                                                                                                                                                      44
+ TZ-201 ......................................
+                                             46        WCB-1 ......................................
+                                                                                                48          YS-68W ....................................
+                                                                                                                                                      53
+ TZ-211 ......................................
+                                             45        WCB-3 ......................................
+                                                                                                48          YS-150N ...................................
+                                                                                                                                                      46
+ TZ-212......................................45       WD-700 ....................................
+                                                                                                31          YS-151S ...................................
+                                                                                                                                                      38
+ TZ-300N ................................... 46       WD-740U ................................. 34          YS-163 .....................................
+                                                                                                                                                       47
+ TZ-301 ......................................
+                                             46       WE-2 ........................................
+                                                                                                20          YS-220 .....................................
+                                                                                                                                                      50
+ TZ-311 ......................................
+                                             45       WM-210E ................................. 29          YS-260 .....................................
+                                                                                                                                                     50
+ TZ-312 ......................................
+                                             45       WM-220 ....................................
+                                                                                                29          YS-301 .....................................
+                                                                                                                                                     46
+ TZ.401 ......................................
+                                             46       WM-230 ....................................
+                                                                                                32          YS-302 .....................................
+                                                                                                                                                     46
+ TZ.600N ...................................46        WM-240U ................................. 33         YS-310S ...................................
+                                                                                                                                                     46
+ U-01 series ...............................17        WM-300E ................................. 30         YW-420 ....................................
+                                                                                                                                                     32
+ U-11 series ...............................17        WM-320....................................29         YW-430 ....................................
+                                                                                                                                                     32
+ U-12 .........................................
+                                            17        WM-330 ....................................
+                                                                                                32         YW-440 ....................................
+                                                                                                                                                     32
+U-21 .........................................
+                                            17        WM-340U .................................33          YW-450U ..................................34
+U-51 .........................................
+                                            24        WT-100 ........                          30          YW-451 ....................................
+                                                                                                                                                     34
+U-52 .........................................
+                                            24        WT-700 ......                            30          YW-452 ....................................
+                                                                                                                                                     34
+U-61 .........................................
+                                            17        WT-720 .....................................
+                                                                                               30          YW-460U ..................................34
+V-1000A ..................................... 8       WT-730 ..............                    32          ZM-104 .....................................
+                                                                                                                                                     51
+V-1001 ......................................
+                                            10        WT-740U ......................           33
+V-1002 ......................................
+                                            10        WT-820 ..........                       30
+V-1005 ........................................
+                                             9        WT-830 ...............                   32                                                              6O
+                                                                                                               O
+
+
+
+
+                                                                TOA
+                                                        Toa Electric Co., Ltd.
+                                                               KOBE JAPAN
+
+
+
+
+*Specifications are subject to change wEthout notice.                            Printed in Jal3an 833-61-003-80
+ii
+     The most exiting scenes call for the most fantastic sound.
+     Toa’s professional sound supported the Universiade.                                                                                                                                                    Speaker Location and Sound
+                                                                                                                                                                                                            Pressure Level Simulation Chart
+     Toa’s role in the Universiade was as the supplier of the sound        for large-scale ceremonies, So it was necessary to install a                                                                    The Chart shows the basic plans for dispersed
+                                                                           specially-built independent sound system for those two days                                                                     sound sources for good sound reproductions.
+     system and professional operating engineers for the Opening
+                                                                                                                                                                                                           M - Main speaker system
+     and Closing Ceremonies and for the athletes’ village. Especially      only.                                                                                                                           S Su[>speaker system to fil! in dead soots
+     in the two ceremonies, held in Japan’s second largest stadium         Toa had to solve many problems to obtain ideal sound reproduc-                                                                  tM Monitor speaker system for on*field ~)erfc rmer~s
+      (60,000 capacity), musical programs approaching a scale found        tion, i.e., by making computer simulations of equally spread-out                                                                These basic plans realized a level of more
+     at the Los Angeles Olympics (23 programs at the Opening and           sound pressure levels, by avoiding echoing phenomena, install-                                                                  than 9OdB sound pressure evel
+      16 at the Closing) had to be accommodated.                           ing delaying equipment for improved sound quality, and setting                                                                  at all points in the stadium.
+      What kind of systems were necessary to meet the varying              up devices for authentic live sound from moving sound sources.
+      demands of the stadium sound response, weather conditions,           On the Opening Day, at 4:30 in the afternoon, the fanfare
+     the organizing committee’s requests, widely spread-out sound          sounds. "How’s the performance of the Marching Band?" "OK["
+      sources, and a tight system installation schedule? After careful     We can catch the lifelike and authentic sound coming from the
+      research and discussion, Toa decided to go with an approach           moving sound sources. The spectators take in the scene through
+      based on "keeping it simple." We adopted a "de-centralized           their eyes and their ears, while the loa staff keeps moving to          Microphones for lapanese Drums
+      method" monaural sound reinforcement system.                         ensure ever better sound quality, rhe most advanced equipment                                                        Entrance/Exit
+      ¯ Dispersed Sound Sources                                            and the skills to use it as a team were the ’lba keys to success
+      1) Opening statements from the Royal Box and ceremonies               at the Universiade.
+         excluding attractions.                                             The Director of Ceremonies, Mr, Shigenori Naito said, "The role                                                                                                                       81
+      2) Orchestras in the back stands, marching bands and choral           of the sound system was very important at the opening and
+      3) Marching bands on the field.                                       closing ceremonies because there were many musical functions.
+      Sound systems were available in the stadium for announcements         I’m quite satisfied with the performance of the sound system/’
+      during athletic events. However, these systems are not sufficient
+
+     [] Sound Equipment for Opening/Closing Ceremonies
+           Equipment           Model No. Q’ty              Equipment       Model No.    Q’ty          Equipment          Model No.     Q’ty
+      Mixing Console          TOMU-2888W
+                              RX-7-328
+                                           1
+                                           ]
+                                                      Open Tape Deck
+                                                      15" Woofer
+                                                      Woofer Enclosure
+                                                                           TC-707
+                                                                           HLS-3806
+                                                                                          3
+                                                                                         4O
+                                                                                                 Power Amp,
+                                                                                                 Microphone
+                                                                                                                        P300D
+                                                                                                                        KY
+                                                                                                                        J]
+                                                                                                                                        ?
+                              RX-7-164     5                               LSC-1021      20
+                              800B          ]         Compression Driver   HFD-651       26                             J2
+      Graphic Equalizer       610                     60° x 40° UD Horn    HUD-640       24                             RD-16
+                                          ]~          40° x 20° UD Horn    HUD-420        2                             421             lo
+                              E-131
+      Cross Over              V-141        ]2         Sub Speaker          380SE         10                             441
+      Compressor              160X         S          Monitor Speaker      GS-2           4                             58
+      Digital Delay           SDE-2500    10                               38SDM         10       Gun Microphone         C76
+                              SDE 3000     5                               38SD           4                              CK-9
+      Digital Reverb          SRV-2000      1                              SL-12          2                              817
+                              R-1000       2                               F-150G         2                                                    New FIY Microphones in the ’Declaration Booth’
+
+
+
+
+                                                                                                                                     On-the-road pow2r amp racks
+
+
+
+
+      Main Mixing Booth at the Opening Ceremony (Outdoor)                                                                            Remote Mixing Booth (Outdoor)
+                       98 dB
+                                                                                                                                                                                                                            Cheering. Breath-stopping action.
+                     I OO d B                                                                                                                                                                                                     Excitement turns to sound.
+                :~ 1 102 dB
+                     104 dB
+             i:°~ 106 dB
+                     108 dB
+
+
+
+                      Entrance/Exit
+
+
+                                       New Toa trademarks on the Main Speaker Case in front of a full-capacity audience
+
+
+
+
+                                                      Speakers for boosting lapanese drums (M4 field-side)                Main speaker (M2
+
+
+
+
+    [] FM2
+
+
+
+
+(
+
+
+
+
+                                                      Main mixing booth at closing ceremony (Indoor)                       Sub-speaker ($2,     S3b)                       Sub-speaker (SI, $8)                                            On-field monitor speaker (FM2)
+
+
+
+
+                                                                                                                                                                                                                                                                             i~i~i~iiii’:~i!i
+
+
+                                                                                                                                                                                                                                                                                  ii
+                                                                                                                                                                                                                                                                               ilx~.!
+
+
+
+
+                                         ’Ill Ii Im || I!
+                                Monitor speaker for singer                                              Permanently installed main speaker oh! :i for   Permanently installed sub-speakers        Intercom system built into the stadium   Permanently installed amp racks
+                                                                                                        announcements.
+Making friends has a language all its own.
+Better Communications by Better Sound
+
+
+
+Toa Electric Co., Ltd.
+RO. Box 702 Kobe Port, Japan
+Telephone: 0797-71-2222
+Cable: TOAELECTRIC TAKARAZUKA
+Telex: TOAPA J64150
+Fax: 0797-73-7709
+
+
+
+                                        833-51-004-20 Printed in Japan
+IMPROVE AN
+ACTION   T
+BY     NG
+ ITWOODEN
+Looking for a moving way to present your
+favourite photo? We’ll enlarge it, then
+mount it on an attractive wood base and
+add a protective finish. Available in 8", 12"
+or 20" sizes. The gift everyone would like.
+
+
+                   You take the picture. We’ll take the trouble.
+                           Over 345 Shops Nationwide
+Yeu~o P:~:in~:s
+   ]
+
+
+
+
+~ili’ii!
+!
+/
+\\
+\
+                                                                              i!,÷
+
+Opening New Markets with the                                                       HaruWare and the Most Advanced Software
+ oa oroduc~s cor~ta~n the knowhow’ it takes to get the hardware working to         its; rnaxin~um ~hility Wed like to ~t dd Ice some examples of this Tea t;dftw ~r~
+                                                                              ii
+                                       STI Measuring System                             Sound Pocket
+                                                                              ii
+
+ !he ST! !Soeech Transmission                                                          Going along with the recent
+~naex~ ~s an oejective way to mathe-                                                   emphasis on sound software, lba
+ma~lca ~ measure sound artlcuta-                                                       has created our ’Sound Pocket’
+r~or Tea’s newly developed ST!                                                         service to provide facilities for
+measuring system can measure the                                                       ’sound planning,’ equipment rental
+acousucs of such differing sound                                                       and sebup We started this service
+spaces as halls, gymnasiums, and                                                       in 1984 and the Tokyo area has
+underground garages, and so                                                            already seen our teams deployed
+                                                                                       for al! sorts of events. Why not let      ’Creative Sound’ Events
+come up w~th ways to ensure the                                                                                                  ¯ Tsukuba Scientific Exposition
+optima! sound system.                                                                  Tea take over the sound creation
+                                                                                       for your sound event?                       (KDD Pavilion)
+                                                                                                                                 ¯ Universiade Kobe ’85
+                                                                                                                                 ¯ Industrial Robotics Fair
+                                                                                                                                 ¯ Yokohama H arbor Festival
+                                                                                                                                   (Yokohama Port)
+                                                                                                                                 ¯ Imperial Accession 60th
+                                                                                                                                   Anniversary Tea Ceremony
+                                                                                                                                 ¯ Jingu Park Fireworks Display
+                                                                                                                                   (Jingu Stadium)
+                                                                                                                                 ¯ National Athletics Meet
+                                                                                                                                 ¯ Japan Synchronized
+                                                                                                                                   Swimming ’86 (National
+                                                                                                                                    Yoyogi Olympic Pool)
+                                                                                                                                  ¯ Rythmic Gymnastics Wacoal
+                                                                                                                                    Cup ’86
+                                                                                                                                 ¯ MAHARAJA Christmas Party
+                             SSD (Sound Space Design)                                                                               (Grand Hotel Hamamatsu)
+                                                                                                                                  ¯ Yousuke Yamashita Dinner
+Imagining [ne new concepts inher-                                                                                                   Show
+en[ - futuristic sound spaces is
+~ne purpose of Tea’s SSD Even
+h~ghly elegant spaces such as
+cafe pars and boutiques can have                                                        Acoustic Center
+a n gnly elegant sound space put
+ n~o ~ne~r rn~er~or design.                                                             T he Tea Acoustic Center is one of      to good use for equipment de~
+                                                                                   i    the largest of its kind in Japan. The
+                                                                                        center has the latest equipment
+                                                                                                                                velopment, for all sorts of customer
+                                                                                                                                needs, and for measurement and
+
+                                                                                   i!   a nd comes with separate supeF
+                                                                                        visory center, acoustic chamber,
+                                                                                        anechoic chamber and measure-
+                                                                                                                                research specialists. -[he cenler
+                                                                                                                                truly has a wide rar~ge of appli-
+                                                                                                                                cations.
+                                                                                        ment room. These 4 rooms are put
+
+
+
+
+                                         Fashion Sound
+                                         Highly elegant sound spaces can
+                                         be visually matched to these
+                                         beautifully outfitted sound units.
+                                                                                                                                                                                                   xL
+
+
+
+
+                                                                                                                                                    )mers   all they need in sound.
+Sound for Announcements, Sound for Communications, True-to-Life Sound: TOA
+Wherever there is sound to be heard, Toa is at home. We’d like to show you the sort of ’on location ~ t( ~ti )ns where Toa products are at work.
+
+
+
+
+                                                                                                                                                                                                   Multi-Purpose Hall, Seibi Institute, Yokohama
+                                                                                            Sightseeing Liner, Hamana Lake                                                                         ,,Mixing Consol@~
+                                                                                            Wehicle Radio Equipment
+
+
+
+
+                                                                                                                                                                  Office, Osaka
+                                 Shopping Centers, Takarazuka                                                                                                     <~Simultaneous Multi
+                                 <~Emergency Warning Systems~,                                                                                                    Access Communications
+                                                                                                                                                                  System)~
+
+
+
+
+                                                                                                                     Skating Rink, Aomori
+                                                                                                                     ~,Cfosed Circuit TV System,,
+
+
+
+
+                                                                                                                                                                             Office, Norway
+                                                Sports Stadium, Kobe                                                                                                         <qr~tercem System~,
+                                                <<900 Series Amplifiers>>
+               15 MAY 1989.
+
+
+
+
+\
+                              Ralph Brade & Associates
+                              Consulting Engineers
+    ©                         Midland Bank Chambers
+                              3 Sharrow Lane.
+                              Sheffield Sll 8AE
+                              Tel. 10742) 552255 "
+
+
+
+                              Client
+
+                                        HEALTH & SAFETY
+        "7..                              EXECU TI VE
+
+                              Job I’~
+
+
+                                    CLOSE CIRCUIT
+                                  TELEVISION CAMERAS
+                                        LOCATION PLAN
+                               Oea’~r~ "Fale
+
+
+                                SHEFFIELD WEDNESDAY
+                                  FOOTBALL CLUB
+                                HI L L SBOROUGH
+                              s~ 1:500
+                                                      ~"" RB
+                              °~’°11.5.89             c..~     ~
+                              ~ "° 1340
+                               Org. NO.                            Rev
+
+                                               1340/05A
+                                                                                                                      Main Police
+
+
+         Sheffield Wednesday F. C.                                                                            /
+                                                                                                          /
+                                                                                                                  ¯
+
+
+
+                                                                                      FirsI-Aid Room
+                t Jil!sb_9~’o!l I1 Ground
+                                                                                                                                         \
+                                                                                         GynllliiShllll
+                                                                                                                                             \\
+
+
+
+
+                                                                                    NOnlli SlAND
+                                                                                                                                                  \\
+
+                                         /
+                                  J                                                                                                                    %
+                                                          I
+
+                                                         :iI                                                                                                              -49-54
+                                                                                                                                                                            43-4[
+                  iI
+                                       1-16    121
+                                                                                                                                                                  \           %.
+                                                                                                                                                           \\ \                    \
+                                                                                                                                                                      \                \
+                                                                                                                                                                  \\ \
+                                       /G                                                                                                                          \\ \
+   i1"                 .>
+  II t I
+t;a eI                                                                                                                                                                    \\ \\ 0 \
+    II
+
+!                                                                                                                       2
+            I                                                                                                                   I                                                  \\\ \ \ "~
+                                                                                                                        i                                                                  \\
+                                                                                                                                                                                                \
+         Away Fans I~nlrance                                                                                                                                                                        \\
+                                                                                                                                                                                                         \
+           and I-~tmh]sures
+
+                                                                                     SOIJTII 5 TAtlI)
+
+                  ~ol       i(:e Cotilrol            19-22
+                                                                                                                        33-36
+                                                                                                                                        37-42
+                                                               (~llclal   23-2                                          I
+
+
+
+                                                                                                                                    i
+
+                  !~. l_~ .v_                                             l)h et:lot.~ /~,ltmlco
+                                      ~zzzzl
+                          ii
+
+
+                                                                               to operate in an emergency such as fire or a failure of
+12. COMMUNICATIONS                                                             the mains supply.
+                                                                         iV.   Loud hailers should be available for the use of
+There should be a communications s~Stem capable of ciearly                     stewards and police in directing or instructing
+relaying essential messages to all parts of the ground in both                 spectators.
+normal circumstances and in an emergency.
+                                                                         V.    Any police radio facilities available for the maintenance
+                                                                               of law and order should augment and not supersede
+192. Precise requirements for communications will depend on the
+                                                                               the ground communications system.
+sort of ground and the numbers of people that attend there. In
+general the communications system should be determined after             vi.   Installation of closed circuit television is considered
+consultation with the police and emergency servTces. It should be              likely to be of significant value in assisting em.ergency
+avai!able for use a n’d capable of coping with all emergencies.                evacuation.
+
+193. A central control point, preferably a room, should be set
+aside for the use of the supervising police officer and the ground
+safety officer.
+
+
+194. At larger grounds the following arrangements are likely to
+be needed:
+             There should be inter-communication between the
+             central control and all turnstiles or banks of turnstiles
+             and all entry and exit gates used by the public.
+      ii.    Metering systems to record all admissions should be
+             installed at turnstiles and, to ensure that ground
+             capacities are not exceeded in any section, arrange-
+             ments should be made for centrat, control to be
+             informed immediately, a predetermined number of
+             spectators has been admitted through each turnstile.
+      iii.   Public address equipment should be installed so that
+             broadcast messages can be heard under reasonable
+             conditions (including emergencies) by all persons of
+             normal hearing in any part of the ground to which the
+             public has access. The system should be capable of
+             being controlled from the central control point and
+             should ideally be capable of addressing messages to
+             each major section of the ground. The power supply to
+             the system should be such as to enable it to continue
+
+                               54                                                                      55
+,i’,’
+
+
+
+
+                          i .......
+
+                                      J
+
+
+
+
+                      J
+
+
+
+
+        °,*       .
+        ~                       A
+
+
+
+        (_-~1
+
+
+        If)
+
+
+        ’;.~’ I
+
+
+
+
+        ,7-I
+        ,:Dh
+        l".-
+        b~
+        h’i,
+
+
+
+        r~-
+        G)
+        Q
+
+
+        _J
+        i,l
+
+
+
+
+         _J
+         L,I
+         LI_
+         LI_
+                                          ]
+         Lid
+         "T-
+         £:j,
+         LLI
+         0")
+         -I--
+                                    t~fcrcaa: .......................................
+. °.- .,j.,                                       SMR/343/235/01
+
+
+
+
+              Please fax yuur reply as the tel~ lim~ are
+              eut of acti~.
+
+
+
+              CENI~
+              m)/SELI
+              25 May 1989
+

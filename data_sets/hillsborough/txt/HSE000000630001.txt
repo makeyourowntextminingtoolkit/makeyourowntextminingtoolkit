@@ -1,0 +1,1269 @@
+ANNEXE 3
+    ' TMS
+
+
+4    Wealth and Safety Executive
+     TECHNOLOGY DIVISION
+
+     Summary sheet of                                                  FCG   (block capsj
+
+     FCG inspector's report                                            NORTH EAST
+     Name of firm(s) (block caps)                                  • Area no./PI group no.
+     SHEFFIELD WEDNESDAY FC                                        j Dr C E Nicholson, Deputy
+                                                                   I Director, SEL i RLSD
+    Address                                                        i
+
+                                                                   ! Area (name)
+     Hillsborough                                                  ! South Yorkshire & Humberside
+                                                                   I
+     Sheffield
+                                                                   i   Copies to
+
+                                                                   ! Mr C Pertee PSI NE/FCG
+
+    Subject of report
+                                                                   ! FCG file no.       N E /F C G /1 3 1 /8 9
+     Examination of Crush Barriers
+     Leppings Lane End Central Pen                                     FCG job no.      1 4 /M /1 3 /3 9
+
+                                                                                             a ?r
+                                                                       Date of report        J      M av 1 9 8 9
+
+
+                                                                       Key words (block capsi
+
+                                                                       SPORTS GROUNDS
+                                                                       (BARRIERS)
+
+
+    Initiation                                                         Datefsi of visit(s)
+    Verbal following major incident.   (Initially via
+                                                                       16, 17, 18 April                .389
+    AD Area 14 to assist LA)________________________
+    Visited by                                                         Relevant papers
+    Mr J B Hihbs, SI NE/FCG (All Dates)                                HMSO Code of Practice
+    Yourself (All Dates)                                               'Guide to Safety at Sports
+                                                                       Grounds'.
+    See seoarate list of other H & SE staff involved.
+
+    Persons seen (names and positions)                         \
+    Mr   D   Perchon (Director - Health & Consumer Services) ,| Sheffield MBC 17 4 89
+    Mr   P   Jackson, SEHO,         "        "        "      ! (All Dates)
+    Mr   M   Ford, EHO              "        "        "      | (All Dates)
+    Mr   W   Eastwood, Eastwood & Partners, Sheffield)Club Safety Consultants & Testing
+    Mr   R   Eastwood,    "_________ "_________ "    )Engineers 17/4/89___________________
+    Summary
+
+    Detailed examination of both halves of the central pen, the entrance/exit tunnel and
+    the crush barriers was made.
+
+    Site measurements were obtained and photographs were taken.
+
+    3arrier tests by Mr Eastwood and his team were witnessed which revealed that the
+    barriers tested met the load requirements for type 'A' installations as shown in the
+    relevant Code of Practice.
+
+    Barrier heights and spacings did not fully agree with the recommendations in the
+    *>   Code of Practice ’Guide to Safety at Sports Grounds'.
+
+
+
+
+Author's name        ^ ® HI BBS
+                     Specialist Inspector (Mechanical Engineering)
+Other HSE staff present
+
+
+1.   Mr S Nattrass, Area Director, Area 14 16/4/89
+
+2.   Mr M James, PSI, HQ TD3                17/4/89
+
+3.   Mr C Pertee, PSI Construction NE/FCG   17 and 18/4/89
+
+4.   Mr D Waterhouse, G7 RLSD SKT.i         17/4/89
+
+5.   Mr P Heyes, G7 RLSD SEL 1              17/4/89
+ NE/FCG/131/89                                    TECHNOLOGY DIVISION
+                                                  NE FIELD CONSULTANT GROUP
+ 14/M/13/89                                       HEALTH & SAFETY EXECUTIVE
+                                                  WOODSIDE HOUSE
+                                                  261 LOW LANE
+                                                  HORSFORTH
+                                                  LEEDS
+                                                  LS18 5TW
+
+                                                       May 1989
+
+Dr C E Nicholson
+Deputy Director
+SEL 1
+RLSD
+SHEFFIELD
+
+SUBJECT:       EXAMINATION OF CRUSH BARRIERS
+USER:          SHEFFIELD WEDNESDAY FCG, HILLSBOROUGH, SHEFFIELD
+MAKER:         NOT KNOWN
+TESTED BY:     EAST/ODD & PARTNERS, KINGFIELD ROAD,SHEFFIELD      (LAST TEST JULY 1988)
+
+INTRODUCTION
+
+I visited the Sheffield Wednesday Football Ground on the 16th, l"th and 18th of
+April 1989 at the request of Mr S Nattrass, Area Director, H & SE, South Yorkshire
+& Humberside Area following the tragedy which occurred on the 15th of April 1989.
+
+The initial purpose of my visit was to assist in investigating the incident with
+particular reference to the crush barriers.
+
+Other members of H & SE staff present during the first 3 days of the site
+investigation are shown on the attached list.
+
+During the visits I spoke to Mr D Perchon (Director - Health & Consumer Services,
+Sheffield MBC), Mr P Jackson (SEHO, Sheffield MBC) and Mr M Ford (EHO, Sheffield
+MBC).
+
+Mr W Eastwood and Mr R Eastwood of Messrs Eastwood & Partners, Kingfield Road,
+Sheffield were also present on site on the 17th of April 1989 and conducted a number
+of tests on the crush barriers which were witnessed.
+
+CRUSH BARRIERS
+
+Two types of barrier were seen in the central area, the older type having half 'A'
+frames embedded in the concrete steps were reported to have been installed in 1966.
+
+New types of barrier utilizing steel box section support pillars had been installed
+at several locations and again the pillars were embedded in the concrete steps.
+Both types of barriers carried horizontal tubular type handrails of between 60 and
+75 mm diameter. In general the spacing across each handrail between vertical
+supports was p f the order of 1.23 m (7 ft 6 inches). Barrier heights varied
+between 0.8J and l.l5"m and the corresponding details for each barrier in the
+central pen are given in Table 1 and on Ralph Brade & Associates drawing No.1340/02.
+
+Barrier height recommended by the Code of Practice 'Guide to safety at Sports Grounds'
+should be a minimum of 1.02 metres with a preferred height of 1.1 metres.
+                                        1
+A sits plan and end elevation is shown in Fig. 1 which also indicates spacmcs
+between barriers etc and confirms the position of the two sections which collapsed
+at barrier no. 124A. Similar details are also included in Ralph Brade & Associates
+Drawing No. 1340/02.
+A sectional view of the entry/exit tunnel is shown in Fig. 2 -and in Ralph Brade &
+Associates Drawing No. 1340/03.
+A general view of the collapsed section of barrier 124A is shown in Fig. 3 where
+it can be seen that both of the horizontal tubes had been severely bent prior to
+the bending over and collapse of the leg supports. The bottom ends of the latter
+had remained in position in the ground although the right hand front column at the
+end of the barrier had broken away a small section of the concrete step.
+
+The failure at the top of the central leg of this section of barrier designated
+124A/1 is shown in Figs 4 and 4A where it can be seen that the strap has remained
+in position although distorted and the rear leg has t o m from a point adjacent to
+the lower bolt hole. The horizontal tubes which were badly corroded in the areas
+underneath each strap at the top of the respective pillars appear to have fractured
+after the support pillars have been bent over and although the tube section is
+considerably thinned it appears to have been capable of carrying sufficient shear
+force at the strap positions to enable the vertical pillars to be bent over under
+the pressure generated by the crowd.
+
+An inner view of the top end of the right hand pillar at connection 124A/4 (see
+Fig. 5) indicates the extent of corrosion underneath the strap and underneath the
+pillar head behind the gusset plate and again confirms the tearing mode of failure
+from the inner edge of the rear pillar at the section through the lower bolt hole.
+The metal angles forming the legs were nominally 50 mm x 50 mm x 6 mm thickness
+(2 inch x 2 inch x 0.25 inches).
+
+The fracture of the tube section from connection 124A/4 is shown in Fig. 6 where
+it can be seen that the end of the tube has been bent and approximately half its
+section has broken away at the time it separated from the pillar connecting strap.
+
+The tube which was originally in position between connections 124A/2 and 124A/3 is
+shown lying on the terrace steps in Fig. 7 and the fractures at the corresponding
+ends of this tube are shown in Figs 8 and 9 respectively. The grass at the left
+hand side of the fracture in Fig. 8 confirms that the tube was recovered from the
+pitch after the incident.
+
+The top of pillar 124A/2 is shown in Fig. io where extensive corrosion can again be
+seen, particularly at the gusset plate which has corroded through. This connector
+had been repaired at some time during its life and it can be seen that a section of
+steel tubing had been inserted inside the original tubing. The insert was found
+to be 50 mm OD x 35 mm ID and was approximately 127 mm long (2.0 inches CD x
+1.375 inches ID x 5 inches long).
+
+BARRIER TESTS
+
+During my visit to the football ground on the 16th of April 1989 I was shown a test
+rig used for load testing of the crush barriers under the supervision of
+Mr W Eastwood of Eastwood & Partners, Kingfield Road, Sheffield who were the
+Engineering Consultants to the Club and carried out routine tests annually on
+barriers at the terraces. A general view of the front section of the test rig is
+shewn in Fig. 11. The front pusher arms of the rig are designed with various
+fulcrum points to enable a single load from each of the main pusher arms to be
+distributed to 4 points equally spaced along each section of barrier rail. The
+
+
+
+                                      2
+main pusher arms were driven forward by a pair of hydraulic rams which were
+pressurized from a small hand operated pump unit with calibrated load gauge.
+A copy of a calibration certificate for the test rig is shown at Appendix I.
+
+During testing, the forward load on the barrier was gradually increased to a figure
+of 1.4 tons in each of the main pusher arms and simulated a load of 400 lbs/ft run
+across the barrier as recommended for class A barriers in the Code of Practice
+'Guide to Safety at Sports Grounds' at Annex C paragraph 1. The forward deflection
+of the barrier rail was measured as shown in Fig. 12 and the tests were conducted
+in accordance with the Code of Practice.
+
+The left hand end of barrier 136 in the south west pen adjacent to the central pen
+was found to deflect by approximately 16 mm in the forward direction on application
+of the test load. The barrier recovered fully at the end of the test.
+
+Similar tests were performed on barrier 137 in the central pen area and this was
+found to deflect by 13 nrn on application of the test load (400 lbs/ft ran).
+Barrier 137 recovered fully at the end of the test.
+
+A further load was applied to this barrier to initiate its failure and at
+500 lbs/ft run the deflection was 20 mm which gradually increased to 29 mm. The
+barrier recovered to 11 mm and had undoubtedly failed under this load. The
+condition of the barrier after this overload test is shown in Fig. 13. Initiation
+of fracture/tearing had been produced at the central leg immediately below the
+gusset plate and adjacent to the lower of the 2 rivets in the rear section of the
+leg as shown in Fig. 14. The commencement of twistinc of the leg is shown in
+Fig. 15.
+
+Further tests were also carried out on barrier no. 128 which was seen to have
+already been damaged. One of its tubes was bent outwards by approximately 55 mm
+and was also bent downwards by approximately 25 run close to its centre. These
+tests were again carried out in accordance with the guidance given in the Code of
+Practice and at a load of 1.4 tons (400 lbs/ft run) the rail deflected by a further
+16 nm and returned to approximately 4 nm. These figures indicate a 75% recovery
+as required by the Code of Practice.
+
+The load was then increased to 1.75 tons and later to 2.1 tons where a deflection
+of 40 mm was recorded together with a recovery back to 13 mm. This severe over­
+load was equivalent to approximately 600 lbs/ft run on the barrier but its recovery
+was outside the recommended levels.
+
+CCNCLUSICNS/BARRIER TESTING
+
+The barriers tested were seen to meet the load testing requirements of the Code of
+Practice 'Guide to Safety at Sports Grounds' Appendix C Para 1 for class 'A' type.
+The results of tests carried out in July 1988 on the barriers in the central pen
+also confirm that the units in this area met the load test requirements of the
+Code of Practice at the time of their last test although barrier 124A did not
+recover fully until the third of the 3 tests recommended by the Code of Practice.
+ (See Appendix II).
+
+SITE DATA
+
+As indicated earlier in the report a site plan to scale is shown in Fig. 1 and a
+sectional plan of the entry/exit tunnel is shown in Fig. 2 . These details are also
+shown in Ralph Brade & Associates Drawings Nos. 1340/02 & 1340/03 respectively.
+
+
+                                      3
+ CDW
+
+
+                                            DRAFT
+
+
+ NE/FCG/131/89                                       Technology Division
+ 14/M/13/89                                          NE Field Consultant Group
+                                                      Health & Safety Executive
+                                                      Woodside House
+                                                      261 Low Lane
+                                                      HORSFORTH
+                                                     Leeds LS18 5TW
+
+                                                     J .2   May 1989
+ Dr C E Nicholson
+ Deputy Director
+ SEL 1
+ RLSD
+ SHEFFIELD
+
+
+(For insertion at Page 4 of my report prior to 'Conclusions/Terrace Layout'.)
+
+
+ I also examinee gates 3 and 4 leading from the central terrace area onto the
+
+pitch.   These gates were of similar construction and opened outwards to the
+
+left as viewed from the terrace.
+
+
+
+The effective width of the gate openings were found to be 0.81 - 0.82 m
+
+ (32 inches   approx) for gate 3 and 0.77 - 0.79 m (30.75 inches approx) for qate 4.
+
+Tne gaps in the low wall at the gate positions were found to be 1.0 m wide
+
+ (39.4 inches! and the walls were approximately 1.07 m high (42 inches) from the
+
+lowest terrace step.
+
+
+
+The effective opening heights at the two gates were found to be 2.11 - 2.16 m
+
+(83 - 85 inches).
+
+
+
+It was noted that the step configurations at the two gates were slightly
+
+different.    Both level concreted approach areas (plinths) commenced at the
+
+third terrace step level but at gate 3, two risers of 0.165 m (6.5 inches)
+
+and 0.22 m (8.6 inches) with an intermediate tread of 0.480 m (19 inches)
+                                $4 i <r
+were seen.(See FIGJ16, Negs9W)4 -±06/38).   The approach plinth at gate 3 was
+
+found to be1.185 m (46.75 inches) wide and the step-up      from the lowest terrace step
+
+at each side was 0.340 m (13.5 inches high).
+   At gate 4 the level concreted approach area (plinth) again commenced from
+
+   step 3 of the terrace and extended forwards to the wall by a distance of
+
+   0.86 m (34 inches) to a single step up through the gateway which was 0.340 m
+
+   (13.5 inches) high.   The concreted plinth area to gate 4 was 1.125 m (44.25 inches)
+
+  wide and the step-up from the lowest terrace step at each side was approximately
+
+   0.190 m (7.5 inches). See FIGS 17 - 19 which confirm the step arrangements at
+
+  gate 3 and 4.
+
+
+
+  Further Text Addition on P 4
+
+
+
+  PEN CAPACITY
+
+
+
+  The area of the central pen was approximately 376 square metres and allowing
+
+  54 persons per 10 square metres gives a maximum capacity of 2030 persons.     The
+
+  rated capacity for the pen was stated at 2200 persons on the drawing of the
+
+  site provided by the club.
+
+
+
+  In view of the variations in barrier openings in the central pen, further
+
+  calculations have been made of the pen capacity based on the recommendations        ^ ^
+
+  d i l Para 286 of the Code of Practice.
+
+
+
+
+  The total length of barriers in the left-hand side of the pen behind gate 3
+
+  including the 14.3 metres of the front fence was approximately 45.5 metres,
+
+  giving 45.5 x 3.8 x 5.4 = 934 persons.
+
+
+
+ The total length of barriers in the right-hand side of the pen behind gate 4
+
+  including the 14.4 metres of the front fence was approximately 48.3 metres
+
+ giving 48.3 x 3.8 x 5.4 = 991 persons.
+
+                                              2
+
+•ii,   (U                -tL        < S *b-                          /£   .
+The revised calculated capacity for the central pen was therefore 934 + 991 = 1925
+
+persons.
+
+
+
+DR NICHOLSON
+
+
+
+Note:-      Please amend figures on page 1 of my report to read
+
+
+
+     'Barrier heights varied between 0.83 and 1.15 m         '
+
+
+
+to comply with the revised data in Table 1.
+
+
+
+
+J E HIBBS
+
+Specialist Inspector (Mechanical Engineering)
+
+
+
+
+                                          3
+          The site plan indicates that many of the barrier spacings were outside those
+          recommended by the Code of Practice where it is suggested that gaps between
+          barriers should not exceed 1.4 m width.
+
+          The slope of the terrace was found to be approximately 14 degrees and Table 1 on
+          page 37 of the Code of Practice recommends a horizontal distance between barriers
+          in peak viewing areas for the type 'A' barrier of 3.8 m at a terrace gradient of
+          15 degrees. Examination of the site plan confirms that in general the barriers
+          vere arranged within this figure and consecutive gaps between rows of barriers
+oJ*&C i   were in accordance with Fig. 3 on page 36 of the Code except at the areas immediately
+o 37      in front of the entry/exit tunnel area.
+
+          Steps on the terraces were found to be approximately 75 mm depth with 380mm treads.
+          These were within the limits laid down in the Code of Practice.
+
+          CONCLUSIONS/TERRACE LAYOUT
+
+          The spacing^of the barriers and gaps between barriers did not fully comply with the
+          recommendations laid down in the Code of Practice 'Guide to Safety at Sports
+          Grounds'. The areas giving rise for concern were those directly in front of the
+          entry/exit tunnel which was seen to have a down gradient of approximately 10 degrees
+          for a distance of some 8 - 10 m leading to the terrace doorway openings.
+
+          PEN CAPACITY
+
+          The area of the central pen was approximately 373 square metres and allowing 54
+          persons per 10 square metres gives a maximum capacity of 2015 persons. The rated
+          capacity for the pen was stated at 2200 persons on the drawing of the site provided
+          by the Club.
+
+          RECOMMENDATIONS
+
+          If the area is to be re-used as terracing it is recommended that a full site survey
+          of the whole of this terrace and the other terrace at the opposite end of the
+          football stadium should be made by a competent authority.
+
+          Where necessary, it is recommended that barrier heights should be increased slightly
+          in order to comply with the guidance set out in the Code of Practice 'Guide to
+          Safety at Sports Grounds' and any barriers which are found to be suspect should be
+          either strengthened or replaced with barriers of the new design. The latter should
+          preferably be fitted with flat or box section top rails which should be of the order
+          of 100 mm vertical depth. Barriers heights should be a minimum of 1.02 metres with
+          a preferred height of 1.1 metres.
+          Where necessary the spacing of barriers should be adjusted to suit the
+          recommendations given in the Code of Practice and additional barriers should be
+          provided across the entry/exit tunnel opening area.
+
+          The arrangements for the control of spectators in the area between the turnstiles
+          and the tunnel to ensure that the capacity of the central pen does not exceed the
+          rated capacity should be reviewed and amended accordingly. In my opinion the
+          capacity of this section should be reduced and at least be rounded off to the
+          nearest hundred below the calculated capacity.
+
+
+
+
+                                                4
+FUTURE ACTION
+
+You may wish to arrange confirmation of the above recommendations with the Football
+Club via the H & SE Area Staff and the Local Authority as soon as the official
+enquiry is completed and if the terrace is to remain, most certainly before it is
+
+
+It is anticipated that metallurgical work and an engineering assessment of the
+design and strength of the failed barrier will be undertaken by H & SE RLSD staff
+in due course. This work will be the subject of a separate report.
+
+
+
+
+J B HIBBS
+Specialist Inspector (Mechanical Engineering)
+
+
+
+
+                                      5
+CDW
+
+
+
+
+NE/FCG/131/89                           t A^t .
+                                              f   l
+
+14/M/13/89                    SHEFFIELD WEDNESDAY FC
+                              LEPPINGS LANE TERRACE
+
+                           LIST OF BARRIERS IN CENTRAL PENS
+                                                                              (3
+
+
+
+
+                                                                                 3 D
+       NO.        TYPE56    LENGTH (M)            RAIL DIA (MM)   RAIL HEIGHT M
+
+       149         N            7.0                    60          1.10 - 1.13
+
+       136         0            5.5+                   60          0.83 - 0.86
+
+       136A        0            4.5                    60          0.85 - 0.87
+
+       124A        0            6.8                    60         0.95 - 1.00
+
+       125         0           5.3 +                   60         0.92 - 0.94
+
+       125^        0           1.8                     60         0.92 - 0.96
+
+       144         W           2.4                     60         1.08 - 1.10
+
+       150         N           6.0+                    60         1.12 - 1.14
+
+       137         C           4.5                     60         0.89 - 0.91
+
+       138         0           3.6+                    60         0.89 - 0.91
+
+       132         N           4.6                     60         1.12 - i .iif-
+
+       127         0           2.3                     75         0.95 - 0.98
+
+       128         0           6.9                     60         0.92 - 0.99
+
+       126         N           2.3                     75         1.14 - 1.15
+
+                               © 0 = Old          N = New
+
+                               * To leg centres - overall
+
+                               □ From nose of step behind to top of rail
+
+                               + From      Fence
+
+                                 In RH pen
+
+       Note:    Minimum recommended barrier height 1.02 metres.
+                Preferred height 1.1 metres to top of rail measured
+                from the step behind the barrier. (See Code of Practice
+                'Guide to Safety at Sports Grounds').
+ Fig. 1 - Sheffield Wednesday F.C. - Leppings Lane end.                             Tunnel to central pen
+NEFCG 131/89 14/M /13/89
+
+
+Central pen:- 2200 persons
+
+All dimensions in metres
+Scale 1 : 100       k-----                                                    SLOPE
+                                                                in            DOWN                                                                       LU
+                                                                o
+Drawn by:- J B Hibbs - H&SE
+Date:-19. 4. 89                                                             ENTRY/EXIT
+                                                                             TUNNEL                                                                      X w
+                                                                                                                                                         O =J
+Older type barriers... f                                                        3-65m-----                                                               cr u-
+                                                                                                                                                         Q. O
+                                                                                                                                                         CL CE
+                                                                                                                                                         < Q.
+New type barriers
+
+                                    REAR WALL                                                                          REAR WALL
+
+                                                                            DOORWAY                                                                                 a.
+                         Ip                                                                                                                lO                           o!
+                         CM
+                                                                                                                                           CM
+
+                                 149                                                                       CO
+                                                                                                                              150
+                                                            6*3m                                                                                                               co
+          1'1m
+                                                                                              144
+                                                                                     22 m                                                                                          co
+                   lO                           lO                                                                                              lO
+                                                                                                                                                                                        o-
+                   CO                           CO                                                                                              CO
+
+                                                                                                                                                                 ui .
+            136                                       136a                                            o
+                                                                                                                     137                  138                    u- \
+     LL                                 2‘2m                              2 0m \Z                                                   •7m                 LL
+
+CO
+                                                                                        132                                                                                             CD
+                                                                                                                                                                               ,
+                    lO
+                    CO
+                                                                     lO
+                                                                     CO
+                                                                                                                                                lO                  o\                              o-
+                                                                                                                                                CO                  U- I
+                               2 SECTIONS                                                                                                                           o'
+            124a               COLLAPSED                  125                                         7     127                           128                           U i\
+                                                                                             1*9m                                                                                            ICM
+
+                                                                                                      lio                                                                a- \
+                                                                                              126                                                                         °Y' 1
+                                                                                                                                                                              *                    lO
+                    CD                                               CD                                                                         CD                                                 CM
+                    CO                                               CO                                                                         CO
+
+
+                              3 0m HIGH FENCE                                                         CM        3 0m HIGH FENCE
+                                                                                                                                                                                                        O
+                                                                                                                                                                                                        CO
+
+                                                 GATE 3                                             GATE 4                                 FRONT WALL
+                                                                                                                       144m                                                             Q.
+          PLAN VIEW
+Fig.2 - Sheffield Wednesday F.C.              Leppings Lane end. Tunnel to central pen
+NEFCG 131/89 14/M/13/89
+
+All dimensions in metres
+Scale 1 : 100 .___ ■
+               0   1   2   3
+
+
+Drawn by:- J B Hibbs - H&SE
+Date:-19. 4. 89
+
+
+
+
+     3'65m
+     INSIDE
+
+                                 10"x5" RSJ
+
+  DOORWAY                                TUNNEL ROOF PROFILE
+
+
+                   ENTRY                                                                     DOORWAY
+
+                                     i                              EXIT TO
+                                                                    TERRACE      CENTRAL
+                               TUNNEL FLOOR PROFILE                              DIVIDING
+END VIEW FROM
+TURNSTILES                                                                       FENCE
+
+                                                                                            END VIEW FROM
+                                                                                            TERRACE
+     m
+
+
+
+
+_;*»•a. . ^ V ' fXl};p
+                              =53iii «i
+                                  * ■■■■»
+
+M       n i H L
+        ■ ■ ■ ■ ■ j   .
+                          ■■■■aiiiiiiiii
+                          ■■■■ i i i i i i i i i i
+
+        ffifj
+                M      K
+                          iiiiiiliijijf
+
+                             .
+                                                       ifi
+                                                       Silllll
+                                                     m m n u num m m
+                                                       I
+
+s i i i i p y
+                silif^eiks-3MlSf >■«
+p i l l f M S : 5BC22=gfe5e|r f|
+                               Pt
+                               |=;
+ ssafeif- Iks *
+wb
+i ■■■i
+
+
+                                                                          4 Partners
+
+
+
+         -fiEJvJvsTrri       -
+
+
+
+                                                                              '•■': V ■^iCTSS^sSip i-
+                                                                                -' .            ,ri? •                        .o
+               •c                                                                                                                             :3$3te£'»
+               k /"   y' -
+
+
+
+
+                                                                               CERTIFICATE 0? CALIBRATION
+
+                                                                                           SERIAL NUyjER                N0154
+
+
+
+
+                                                                                                                                       •\l*w
+
+                                 -'
+                                 - /> < •
+                                                            ~-
+                                                       S r.:: -
+                                                ?"*sT5*r'r '.-•
+                                     tt *£>»%       "V1*         "
+                                                                 *                       ':'35;
+                                                                                         L>— “ ' -:-“■            "V■
+                                                    PSr* •» ,-
+                                 •                 3!5'?“,.                               •*•->*;•*
+
+                                                                                                                                   -
+                                                                                                                                       • V^ r Ji-*'.X.
+                                                                                                                                       »— »      >*      .-
+                                                                                                                                                                                                    . t .-r*   « .a c w < <             •
+                                                                                                                              i*?-»^es - "-                                                         -sA 'g!g*£: & £•
+     *  <‘T'*er/                                                                                                          •-!'        Vv?~ -•
+                                                                                                                           •                                         ■/-..
+     -xj^jr:....
+                                                                                                                                                                         -
+                                                                                                                               <' — ^r-.XV - '~
+                                                                                                                                                                                                    '■.-'jf®a05a^?fesL-
+
+
+
+
+                                 -                     -
+
+
+
+
+    .•*feg&Kir.
+
+
+
+
+                                                                                                                                                                              ,.lkv
+
+
+
+ C 1sg& ~ :.:
+                                                                                                                                                                                                                                  V.
+
+
+                                                                            ,• *    ~ r - « r V —!*>» •
+                                                                     .   — * * r^ r                       *   »
+
+
+
+                                                                                                                                                                                           ,;TiN - * : ; •
+                                                                                                                         . .' » *. Tn a i^ y r ■                  «*. <- .                 ..*• JCoV*^
+                                                                                      ■V:*.r\&                                                                                                             r ^ - r ? ; - * .-_/•• - >
+   -r^ '^ r r*'•-                                                                                                         •
+                                                                                                                              .i                    ts» ,
+                                                                                                                                                         .r: , - ...
+                                                                                                                                                              .' ■ . .       • '.■    •
+                                                                                                                                                                                          ■* * ■;                      •    •“
+
+                       V -; •                                               'w
+                                                                                                                         DATE OF            ISSUE
+
+                 CERTIFICATE OF CALIBRATION                                                                                   15th July 1988
+                                                                                                                         SERIAL       NO.
+
+                                                         SHEFFIELD TESTING WORKS LTD.                                             50154
+                                                         N ursery S treet                                                PAGE OF PAGES
+                                                         S h e ffie ld S3 8GP
+                                                                                                                              1             2
+                                                         Telephone (0742) 7 2 6 5 8 1 /2
+                                                         Telex (547676 Chamco G) STW
+
+
+
+
+            ISSUED TO:                             Eastvood 4 Partners
+                                                   23 Kingfield Koad
+                                                   Sheffield.
+                                                   S11
+
+
+
+            OEDEE N o . :                         V e rb a l, K .E .P in h o rn .
+
+
+           MADE BY:                               Enerpac
+
+
+           DESCRIPTION:                           One h y d r a u l i c pump c o m p le t e v i t h t v o h y d r a u l i c c y l i n d e r s .
+                                                  The f o r c e on th e c y l i n d e r s ,         under an a p p l i e d f o r c e i s
+                                                  measured by a p r e s s u r e gau ge mounted on th e pump.
+
+
+           IDENTIFICATION:                        Pump: D94S005
+                                                  Gauge: BG? 166 SR
+                                                  C ylin d e r 1 : 04773             Model EC 53A79K
+                                                  C ly in a e r 2: 04772             Model EC 530J8N
+
+
+           METHOD
+
+           The c a l i b r a t i o n vas c a r r i e d out i n a Grade 0 . 5                  lev er        an     testin g       machine       in
+           teras        of the Technical unit of force the ton force                                     (tonf).   The    uncert ai nt y        of
+           the f o r c e s a p p l i e d during the c a l i b r a t i o n i s + 0 .5 $ *
+
+           Three t e s t s v e r e made on each c y l i n d e r .
+
+           T e s t s v e r e made t o determ ine the r e a d i n g i n d i c a t e d on the gauge a t f i x e d l o a d s .
+
+
+
+
+          DATE OF CALIBRATION: Sth J u ly 1988
+
+
+
+
+TSiia certificate it is u e d on the understanding that ft n a y not be reproduced
+o th e r than In full except w ith the prior w ritten approval of the Iasuiac
+L aboratory. AJQ figures a n a co rrect record oX the measurements m ade and               Certified .
+a n traceable to United Kingdom national standards and to the units of
+m easurem ent realised at the N ational Physical Laboratory.                                                        .Authorised Signatory
+                                                                                           SER IA L NUMBER
+  CERTIFICATE OF CALIBRATION
+                     SHEFFIELD   T E S T IN G WORKS L T D .                                        N0154
+
+
+
+RESULTS
+                                             C y l i n d e r 04773
+
+          ?orce                                  Heading on Gauge i n n e r s c a l e
+
+           Tons                                               Tons
+
+      Conroression                Test 1                    Test 2        Test 3           Average
+
+           -0.5                     0.5                       0.5           0.5             0.5
+
+                 1                      1                       1               1             1
+
+            1 .5                    1.5                       1. 5          1 *5            1 .5
+
+              2                         2                      2             2                2
+
+
+
+
+                                                                           ro
+            2.5                     2.5                       2. 5                          2.5
+
+              3                         3                      3             3               3
+
+            3- 5                   3*5                        3*5          3.45             3- 5
+
+              4                         4                      4          ■ 4                4
+
+
+
+
+                                            C y l i n d e r 04-772
+
+          Force                                 Reading on Gauge i n n e r s c a l e
+
+          Tons                                               Tons
+
+      Compression                T est 1                   Test 2         Test 3           Average
+
+           0.5                     0.5                       0.5           0.5             0 .5
+
+             1                       1                         41           1                4I
+
+            1 .5                   1 .5                      1*5           1 .5             1 *5
+
+             2                      2                         2             2                2
+                                                            VJI
+                                                            ro
+
+
+
+
+           2.5                     2 .5                                    2.5             2.5
+
+             3                      3                         3             3                3
+
+           3*5                     3 .5                      3.5           3 .5            3.5
+
+             4                      4                         4             4                4
+
+
+
+
+                                    !                                             PAGE 2    OF 2     PAGES
+   /     SHEFFIELD WEDNESDAY F C .P L C .
+                                            BARRIER TESTING RECOUP SHEET
+                                                                                                                                              E A S T W O O D A PARTI
+         HILLSBOROUGH                                                                                                                         C O N S U L T IN G EN G II
+                                                             COMPLETED             BY                                                         S T . A ND REW S HOUi            ~x>
+         SH EFF& D                                                                                                                                                             •T>
+                                                                                                                                              2 3 K I N G F I E L D RO.    ^   o
+         S 6 1SW                                                                                                                                                           q. o
+                                                             D ATE     f r'*            1^ ^ ^                                                S H E F F IE L D ,           {1) H"
+                                                                                                                                                                           << <
+                                                                                                                                              S ll 9AS.                    - (B
+                                                                                                                                                                                a
+                                                             JOB MO     1O/.01                                                                                             i\ j
+
+
+
+
+                                      TEST    LOA D                                       ALL    D IM E N SIO N S   ARE    IN   M IL L IM E T R E S
+
+R IE R   B A R R IE R S I Z E
+                                              A P P L IE D       TEST          1                            TEST     2                                TEST    3
+         I N o . OP               K N /M
+                                              LOAD
+         SPANS                                                  RES!           LOAO     U/LOAD    X REE      RESI        lOAO   U/LOAO     "AREC      REST        LOAO
+                                              TONNES
+
+
+                                                                                                   loo                                     IO O        CD
+
+                                                                                          o        Io o       o                            lO O
+
+
+
+
+                                                                  o                                                                o       /oo        o
+
+
+                                                                                                   /o o                  15                 o o        o           I'D
+                      2-3                              I•^ h
+
+
+
+
+181                                                    I                                  o        loo        o                             >co                    I (o
+                                 BARRIER TESTING RECOUP SHEET.,                                                                             EASTWOOD * P A R S E R S ,
+                                                                                                                                            C O N SU L T IN G E N G v w E E R S ,
+SHEFFIELD WEDNESDAY FC .PL C .
+                                                                                                                                            S T . A N DRE W S H O U S E ,
+HILLSBOROUGH                                       COMPLETED             BY        s r . u .e r .iM f i
+                                                                                                                                            2 3 K I N G F I E L D RO*~»,
+SHEFFIELD
+                                                                                                                                            S H E F F IE L D ,
+S 6 1SW                                            DATE       n 'M       :v ^^ ,      Kiftf<                                                S l l 9AS.
+
+                                                   jo
+                                                    ntio
+                                                                                       ALL D IM E N S IO N S       ARE    IN   M IL L IM E T R E S
+                           TEST     LOA D
+                                                                                                                                                     TEST    3
+B A R R IE R S I Z E                                  TEST           1                                      TEST    2
+A N o . OF              K N /M    I * P P L IE D                                                                                                     REST        LOAO   I U/LOAO
+                                                                                                            RESI        LOAO   U/LOAO     ‘AREC
+SPANS                                                 RESI           LOAO      I U/LOAO 1 'k RfC
+                                  I TONNES
+                                                                                                                                           /O O                            O
+                                                                                                   lO O      O
+
+                                                                                        O          lO O
+
+
+
+
+                                                                                                                                  O        /O O        O
+
+
+                                                                                                                                   O       (O O
+                                                                                                                                                        O
+                                                                                                     /O O
+
+
+
+
+                                                                                                                                             /O O
+                                                                                                     IO O     o
+                                                                                                                                                                               O
+                                                                                                              o                       o       (oo
+                                                          o                               o
+
+
+
+
+                                                                                          o           /oo                                      Iool o
+                l-Z
+                                            BARRIER TESTING RECORD SHEET
+            SHEFFIELD WEDNESDAY F.C.PLC.                                                                                                             EASTWOOD A P A R T N E R S ,
+            HILLSBOROUGH                                                                                                                             C O N SU LTIN G E N G I N E E R S .
+            SHEFFtLD                                        COMPLETED          BY   fi C, M .c \o v ^
+                                                                                                                                                     S T . ANDREWS H O U S E ,
+            S 6 1SW                                                                                                                                  2 3 K IN G F IE L D ROAD,
+             '                                              DATE     '‘ I ’"           KK-.ft                                                        S H E F F IE L D ,
+                                                                                                                                                     S ll 9A S.
+
+
+
+                                      TEST   LOAD                                     ALL       D IM E N S IO N S       ARE       IN   M IL L IM E T R E S
+JR R IE R   B A R R IE R S I Z E
+►S T        A N o . OF                       A P P L IE D      TEST      1                                  TES
+                                   K N /M                                                                     TT  2
+                                                                                                                EST           3
+            SPANS                            LOAD
+                                             TONNES           RESI       LOAO       U/LOAO                  RESI            LOAO       U/LOAO                REST     LOAO     U/LOAO
+
+
+                                                                                                 loo                                               /oo
+
+                           2-3                                 o
+
+
+ I2Z                                                                                                                                               lO O       o        n         o         lex
+
+
+
+
+                              -Z                               o                      o                      o                                    t o o                                    lo
+
+
+
+
+                                                                   ci ip Btoue.                                  C   l ./
+
+
+
+
+                           /-z                                                                                                                                                             »oc
+
+
+                                                               o                                                                                  /co
+                                           BARRIER TESTING RECORD SHEET
+         SHEFFIELD WEDNESDAY F C .PL C .                                                                                                          E A ST W O O D ft P A R T N E R S ,
+         HILLSBOROUGH                                                                                                                             C O N SU LTIN G E N G IN E E R S
+         SHEFFIELD                                         COMPLETED              BY   ^
+                                                                                                                                                  S T . A N D R EW S H O U S E ,
+         S 6 1SW                                                                                                                                  2 3 K IN G F IE L D ROAD,
+                                                           D A TE        ' r>'*            n«H                                                    S H E F F IE L D ,
+                                                                                                                                                  S ll 9AS.
+                                                           jo b   no   m ai
+
+
+                                    TEST    LO A D                                         ALL     D IM E N SIO N S   ARE      IN   M IL L IM E T R E S
+R IE R   B A R R IE R S I Z E
+         t N o . OF                         A P P L IE D          TEST        1                               TEST       2                                TEST     3
+                                 K N /M
+         SPANS                              LOAD
+                                            TONNES                                     U /L 0A 0   Xflft
+                                                                                                      REST      1 0 AO       LOAO   U/IOAO                U/LOAO
+                                                                                                                                                           REST        10A0
+
+
+2S                                                                o                        o                    o                     o         /o o       o                   o
+
+
+
+                                                                  o                        o         IO Q       o                               ICO        o
+
+
+
+                                                                                                     loo                                        Io o       o                            lOO
+
+
+
+
+                                                     I M-f-                                o         lo o                                      /o o         o                   o       /o c _
+
+                                                                                           o         lO O                                        loo                           o
+
+
+
+                                                                                                                o                               loo         o                           loo
+                                    BARRIER TESTING RECORD SHEET
+SHEFFIELD WEDNESDAY F C .P L C .
+HILLSBOROUGH                                                                                                                                         E A S T W O O D ft P A R T N E R S ^
+                                                                                                                                                     C O N SU LTIN G E N G IN E E R S ,
+SHEFFIELD                                                 COMPLETED             BY   f 3 C, I h G C , 1* 1.5
+S 6 1SW                                                                                                                                              S T . A N D REW S H O U S E ,
+                                                                                                                                                     2 3 K IN G F IE L D ROAD,
+                                                             DATE
+                                                                                                                                                     S H E F F IE L D ,
+                                                                                                                                                     S II 9AS.
+                                                          JOB NO      10AB1
+
+
+                                 TEST   LO AD
+                                                                                       ALL      D IM E N SIO N S      ARE        IN   M IL L IM E T R E S
+B A R R IE R S I Z E
+* N o . OF                              A P P L IE D            TEST      1
+                           K N /M                                                                              TEST    2                                    TEST    3
+SPANS                                   LOAD
+                                        TONNES                 REST       LOAO                   *A REC        RESI        LOAD       U/LOAO    •AREC       REST        10 AO   U/LOAO      •/.REC
+
+               1-2          G                   J U M-                        2-1     z             n o        O           £5          J          m          O          I0!      O          lo o
+
+
+                             &                  1      t_i-     o                     o            \GCJ>       O            %          O         loo         O           S       0          1O O
+
+
+               3 4
+                 -     -
+                             <o                 I M-f           o         23                        CM         O           22           0        10 0        0          7,1      O          /o o
+
+
+                            (a                  1               o         ZZ          o            luo         O           ZH           O        J o t)      O          2M -     O           lo o
+
+
+               S -(o        (a
+                                                1   1,-1/-      o             n       o             lo o       O           n           O          /o o       O          19       O           lo o
+
+
+
+
+                             (0                 i-4* |          o             IS      O           loo           O          II              O     100         O          2 o      O          lo o
+
+
+
+
+              /-2           Co                  /    4-4-       o             in       O           10 0        O           2J           O         /o o       O          3-Z-     O          /o o
+
+
+
+             1 -z_           Qd              1 Ul f.            o             n       o           100          O           r /         O         10 0        O          /7       O          IO Q
+                             BARRIER TESTING RECORD SHEET
+SHEFFIELD WEDNESDAY FC PLC
+                                                                                                                                            EASTWOOD A P A R T N E R S ,
+HILLSBOROUGH
+                                                     COMPLETED              BY f >                                                          C O N SU L T IN G E N G IN E E R S ,
+SHEFFIELD
+                                                                                                                                            S T . A N DRE W S H O U S E ,
+S 6 1SW
+                                                                                                                                            2 3 K IN G F IE L D ROAD,
+                                                     DATE          •‘ I "   A .,.-,
+                                                                                                                                            S H E F F IE L D ,
+                                                                                                                                            S I1 9 AS.
+                                                     X)R   IK)    lO/.ttl
+
+
+                       TEST   LOA D
+                                                                                      ALL   D IM E N SIO N S   ARE      IN   M IL L IM E T R E S
+BARRIER SIZE
+A No.   OF                    A P P L IE D                 TEST        1                               TEST     2
+                    K N /M                                                                                                                         TEST    3
+SPANS                         LOAD
+                              TONNES                       RESI        LOAD       U/IOAD    X REC      RES!         lOAO     U/LOAD     “/.REC     REST        LOAD   U/LOAO       "/•REC
+
+                                 I                                                           loo         o                               loo                   oo        o         loo
+
+
+
+                                                            o                                lo o        o                     o         lo o                                      loo
+
+
+                                     I                                  ?2            o      lo o       o                                loo        O          30       o          IOO
+
+
+
+
+             /-z                         I LHf-                                                                                                     o                    O          IG O
+
+
+
+                                                                                                         o          Zo                                         2o       CD
+
+
+                                                           o                                            o           m                   Io o                            o           /o o
+
+                                         /   IK f-         CJ                                  Io                                        /oo                                        IO C ,
+
+
+                                                           o                                                                             /C O                                       /cc
+                                              .BARRIER            testing             record           SHEET
+         SHEFFIELD WEDNESDAY FC PLC
+         HILLSBOROUGH
+         SHEFFIELD                                                                                                                                                       EASTWOOD g P A R T N E R S .
+                                                                        COMPLETED                 DY    f> c ,   ,c c „ r ^
+         S6 1SW                                                                                                                                                          C O N SU L T IN G E N G IN E E R S
+                                                                                                                                                                         S T . A N DRE W S H O U S E ,
+                                                                        D A TE                Vj s | t m                                                                 2 3 K IN G F IE L D ROAD,
+                                                                                                                                                                         S H E F F IE L D ,
+                                                                        /M       NO   104B1                                                                              S ll 9AS.
+
+                                          TEST   LOAD
+R IE R
+         b a r r ie r   s iz e                                                                              A LL D IM E N SIO N S         ARE       IN   M II.T .T M R T m ^
+r        * N o.    of                            A P P L IE D
+                                     K N /M                                      TEST    1
+         SPANS                                   LOAD
+                                                                                                                                                                                TEST    3
+                                                 TONNES                      RESI        LOAO          U/LOAO      ‘A REC         NESI      LOAO         U/LOAO    "AREC        REST        LOAO          U/LOAO        7.REC
+                                 J       Co                 / L,q-                           12             CD     io o               o          K ,-        o      lo o            O       1 *4-             CD       /^ o
+
+
+51
+                                                           1.
+                                                                                         32                                       o        3o                ‘h     ?>1     1       O       Z5                o        IOO
+
+3<2>
+                                 1                         / <-/<-(-                    21                          TO            o                          1                      O                     O            /oo
+
+i°l
+                                                           I gif-                       IS
+                                 1   ^
+                                                                                                        O         lo o        o            If5               o     /OO 1 O                  13                °'       /oo
+                                                                                                                                                                                                    ---            I
+
+to                               'G                    /        L flf        o                          Z         « c)        O            n             o        /o o          o       I7                o            /C O
+
+
+t l
+                                     Co               1 • m »-|                         22              e                     O                          o        /oo           O       Zo>               °            /oo
+                                 BARRIER TESTING RECORD SHEET
+SHEFFIELD WEDNESDAY FC .PL C .
+HILLSBOROUGH                                                                                                                        EASTW OOD A P A R T N E R S #
+SHEFFIELD                                           COMPLETED             BY        r.                                              CO N SU LTIN G E N G I N E E R S ,
+S 6 1SW                                                                                                                             S T . ANDREWS H O U S E ,
+                                                                                                                                    2 3 K I N G F I E L D ROAD,
+                                                    DATE         .'V -
+                                                                                                                                    S H E F F IE L D ,
+                                                                                                                                    S ll 9AS.
+                                                    JOB   NO     I0/.61
+
+
+                          TEST    LOAD
+                                                                                 A LL D IM E N SIO N S   ARE     IN   M IL L IM E T R E S
+B A R R IE R S I Z E
+A N o . OF             K N /M     A P P L IE D            TEST      1                             TEST    2                                 TEST   3
+SPANS                             LOAD
+                                  TONNES                  RESI       1 0 AO    U/LOAO             RESI        10A0    U/LOAO                RESI       LOAO   U/LOAD     V.REC
+
+                                                                                O        /Oo       O                    C J                  o                  o
+
+
+
+
+                                                                                o                  o                                        o                  o         io o
+
+
+                                                                                                  o
+
+
+
+                                         I   LH »                                        loo                           o         /oo                                     IOO
+
+
+
+
+                                                                                         lo o     o                    O                    O                  o
+
+
+
+                                                                                                  O
+                                                                                                                                 /CO        o                  o
+

@@ -1,0 +1,611 @@
+ANNEXE 4
+Dr C E Nicholson
+
+
+
+HILLSBOROUGH INQUIRY - CROWD DENSITIES AND PRESSURES
+
+
+1   Further to ray note of the 1 May.         I have been able to make some progress with
+    ray enquiries and discuss these below.
+
+
+A   The capacity of the terraces
+2   In correspondence obtained from Dr Eastwood it appears from his report to the
+    directors of Sheffield Wednesday Football Club Ltd and from the application he
+    made on their behalf for a safety certificate dated 12/1/79 and 17/1/79, he
+    proposed that the numbers of persons using the Leppings Lane terraces should
+    be restricted to 7,200.     This is 10% less than the maximum that could be
+    allowed in the area using the Green Guide figure of 54 persons to 10 sq m.
+    The 10% being deduced because there were no gangways within the terrace area.
+
+
+3   The rough figures used to calculate the area of the terraces to obtain the
+    crowd capacity are also on the file and from these it is possible to plot on
+    drawing 1610/64E the area that was considered in making these proposals.           This
+    is the drawing I have been given as showing the current position of the
+    terrace capacity.   This drawing indicates that the total capacity of the same
+    areas of terraces referred to in the January 1979 correspondence is still
+    7,200.
+
+
+4   From drawing 1610/64E the areas of the pens and the numbers of persons who
+    could use them at 54 persons per 10 sq m less 10%, are shown in the table
+    below together with the capacities given on drawing 1610/64E.
+
+
+                                                                             Numbers given
+                                                                             on drwg 1610/64E
+
+S.W. corner pen               532.6 sq m             x5.4x0.9=     2588             2600
+
+Central pen                    198.8 sq m(190.8)          "      966(927)    )
+                                                                             )total 2200
+Central pen                    201.6 sq m(192.4)          "      979(935)    )
+
+N.W. end pen                   322     sq m               "     1564                1600
+
+N.W. (lower) corner pen       206.7 sq m                  "     1004                 800
+
+Total                         1461.7                            7101(7018)          7200
+5   The difference in the area from that given in the correspondence and that
+    worked out from the drawing in the above table is partly accounted for by the
+    corridor now in place between the central pens and the NW pen.     From drawing
+    1610/64E this has an area of 26.6 sq ra.
+
+
+6 It should also be noted that the calculated areas of the central pens have
+    not been reduced to deduct the areas at the mouth of the tunnel hatched on
+    site in yellow.    Presumably this area is so marked to keep it clear of
+    spectators.    Therefore the figures in brackets in the table would be the
+    areas if this hatched section of terrace was ignored,
+
+
+7 From the table it can be seen that the capacities of the two central pens has
+    been overestimated by nearly 12% on the basis of Dr Eastwood's original
+    figures (or 18% if the hatched area is deducted).     However the basis of these
+    original figures, particularly the 10% arbitrary reduction, is questionable.
+
+
+8 Advice given in the Green Guide and also apparently reinforced at a seminar
+    given by the Home Office when the Guide was launched in 1972, is that those
+    barriers which do not meet the Guide standard should be ignored when
+    calculating the area available for viewing.     Although the Green Guide
+    only mentions spacing and strength in this respect, Mr Stickley says he
+    included references to height in his seminar.
+
+
+9 On terraces which slope at around 15°, as at the Leppings Lane end terraces,
+    and where the barriers have been tested to the 6 KN/m proof load, then an
+    area extending 3.8 m max behind the barrier should be used in the
+    calculation.
+
+
+10 Working from the Ralph Brade and Associates drawing 1340/02, the drawing of
+    their survey of the central terraces, this shows many barriers are far below
+    the Green Guides recommended height of 1.02 - 1.1 m.     If those barriers which
+    are lower than 0.92 m high are ignored i.e. allowing barriers up to 100 mm
+    low by Green Guide standard, the usable terrace are is 119.51 sq m and
+    135.14 sq m which at the full 54 persons/10 sq m would only allow 645 and
+    729 persons respectively to use the terraces.
+
+
+11 Therefore by generously applied criteria, using the Green Guide as a basis,
+    the designated numbers were 60% more than those which could be regarded as
+
+
+
+                                         2
+     acceptable even when considerable latitude had been given.   For instance if
+     only those barriers which meet the Green Guide recommendations were used in
+     this calculation, the allowable numbers of persons able to use the central
+     terraces would drop to 389 and 540.
+
+
+12   A search through the correspondence may throw more light on how the
+     designated numbers were chosen and accepted, and on why other barriers were
+     installed at later dates as shown in the revision notes on drawing 1610/64E.
+
+
+13   It is probable that a member of the Safety Committee attended the Home Office
+     Seminar in 1972 referred to in para 16 and should therefore have been quite
+     clear how the Green Guide was to be applied even though the Guide itself is a
+     little ambiguous.   I hope to obtain the delegate list of those who attended
+     the Seminar.
+
+
+14   It is clear that some barriers have been removed from the central pens over
+     the last 10 years when Dr Eastwood made his original proposals.   If left in
+     place some of these could have increased the area calculated in paras 9, 10
+     and 11, which could be designated for spectators.   Further searches will have
+     to be made to find out their detail and the history of their removal.
+
+
+15 All which I have said above assumes that the barriers are perfectly adequate
+     to carry their loads, and ignores the effect of connecting a downward sloping
+     tunnel, of the length noted at Hillsborough, directly into the terraces.
+
+
+16 From conversations we have had so far with Dr Eastwood I query whether the
+     test procedures used, could categorically guarantee the reliability of the
+     barriers.   That is whether the tests would pick up all the weaknesses in the
+     barrier.
+
+
+17   It appears that the test procedure was only nominally as required by the
+     Green Guide i.e. in loading the barriers three times.   I do not believe at
+     the moment this would be very significant, as the required procedure seems a
+     little excessive.   However as an indication of the state of affairs, it seems
+     that Dr Eastwood and his staff thought they were implicitly following the
+     Guide.
+
+
+
+
+                                         3
+18   The Drocedure as I presently understand it, could have resulted in the end
+      frame in bay 1, not being measured for permanent deflection.   (See the notes
+      of my telephone conversation with Dr Eastwood, 5/6/89 in reply to
+      question 3).
+
+
+B    The recommendations of the Green Guide in respect of the barriers and
+     crowd densities
+19    I have had discussions with Brian Stickley of the Home Office Prison Service.
+      He is the structural Engineer who worked out the structural provisions in the
+      Green Guide and is probably the most informed person about what was intended
+      to be in it and what research or other information was available as a basis
+      for those provisions.
+
+
+20    Mr Stickley clearly believed that both the provisions of the Green Guide were
+      exceeded and had they been complied with, then the number of injuries could
+      have been greatly reduced, if not avoided altogether.   The basis of this
+      comment was not just that the designated crowd densities were too high
+      because of the position, number and height of the barriers, but also that the
+      Guide's recommendations on stewarding were not followed.   Clearly a huge
+      influx of fans down the tunnel, whatever the level of occupancy of the
+      terraces, was potentially hazardous.
+
+
+21    However there are certain inconsistancies with his comments.   Mr Stickley has
+      agreed that many of the provisions of the Guide are vague, almost ambiguous.
+      (This is further discussed in Appendix 'A' giving abstracts from the Guide
+      with comments).   He stated that this was deliberate because there are so many
+      grounds with widely different characteristics that it would be impossible to
+      give definitive clauses without either unnecessarily penalising some and
+      being too lenient with others.   However it was expected in the Guide that the
+      engineer working for the club would use the background philosophies from the
+      Guide and relate these to any particular ground.   Hence when the Guide was
+      launched in 1972 a seminar was organised by the Home Office for members of
+      the safety committees, in which Mr Stickley explained how the engineering
+      provisions of the Guide should be applied, in particular how to work out the
+      safe number of persons who should use the terraces.
+
+
+22    While this may seem reasonable, a problem could have been caused because the
+      Green Guide does not clearly describe the difference between its general
+
+
+
+                                          4
+(
+*x
+
+
+
+
+          philoso^ihj and practical provisions (so much so that those   dealing with the
+          spacing X height of barriers are not stated as being the absolute minimum).
+           It is therefore difficult to see how competent engineers like Dr Eastwood,
+          can be criticised too much for not strictly following the Guide or because
+          they were too liberal in interpreting its recommendations.
+
+
+     23   In addition, Mr Stickley is now giving support to the Institution of
+          Structural Engineers working party which is writing guidance called the
+           'Appraisal of Sports Grounds', expressly to give less ambiguous guidance to
+          engineers.   This suggests some degree of recognition of the Green Guide's
+          shortcomings.
+
+
+     24   The references in the Guide to restraining crowd surges suggests that its
+          authors considered its recommendations would prevent these.    Although the
+          heights of barriers must have a big influence on this, heights are only
+          mentioned in para 110.   However the paragraph only proposes its the
+          recommended height to enable the body to tolerate the crowd pressure.    There
+          are other opportunities to refer to height when discussing crowd safety but
+          only position and strength are mentioned e.g. paras 118, 221, 226, 227 and
+          the preliminary to Chapter 9.
+
+
+     25 From the video pictures it is quite clear that there was a considerable
+          amount of sway or surge in the crowd.   This seemed to be related to the crowd
+          density, layout of the barriers and presumably barrier height.
+
+
+     26 It is also quite clear that at Hillsborough the barriers failed to break up
+          the crowd pressure as recommended in para 21.   However the use of barriers to
+          control the exit from an area as recommended in the Guide could allow surges
+          in the crowd as the two recommendations may not be compatible.    This
+          contradiction also appears in paras 113, and 114, leaving considerable
+          discretion to the licensing authorities.
+
+
+     27   In a similar way the design of a layout to help a crowd to disperse when an
+          event finishes may result in increasing crowd pressures where there is a
+          sudden ingress of people.   The fanning out philosophy for persons moving in
+          one direction can easily form a steadily restricting funnel when they move in
+          the opposite way.   In general, ingress will normally be at a trickle so that
+
+
+
+
+                                              5
+(
+
+        the funnelling effect is of little consequence, while egress will nearly
+       always be in mass when the fanning out effect is highly desirable.
+
+
+    28 The guide is reasonably firm about the height of the barriers although the
+       stress on the idea that it is a "voluntary code" and "should be interpreted"
+       at the beginning of the Guide could weaken the importance of having barriers
+       at the correct height.    The Wheatley Report, from which the Guide was drawn,
+       expresses the height recommendations much more strongly e.g. the height of
+       crush barriers should preferably be 3'-6" above the ground".     In all cases
+       they should be between 3'-4" and 3'-8'".     Clause 23.5 'Report of the Inquiry
+       into Crowd Safety at Sports Grounds' by the Rt Hon Lord Wheatley.
+
+
+    29 The recommendations concerning height appear to have been determined "In order
+       to locate the top rail against that part of the body most able to tolerate
+      pressure" (para 110).     There seems some evidence that depending on the density
+       of the crowd, a low barrier allows a body to bend over the barrier, passing
+       the force it is subjected to, to those in front.     This action could make low
+      barriers largely ineffective.
+
+
+    30 The testing of barriers described in Annex "C" fails to make a recommendation
+      about the maximum deflection.    Strict interpretation could result in barriers
+      that move 1 mm yet fail to recover 0.5 mm being failed, while those that move
+       100 mm and recover 75 mm being passed.     Although the examples given ara
+      extreme they do illustrate that without skilled examination and interpretation
+      of the results, the tests could encourage the acceptance of weakened barriers,
+      while rejecting others that were satisfactory.      Paragraph 6 of the Annex does
+      point out that barriers should be examined if any doubt exists about their
+      strength, but the lack of more positive advice could easily lead to a wide
+      variety in the quality of barriers across the country.
+
+
+    31 Paragraph 6 of Annex "C" says that detailed investigations should be carried
+      out where there was doubt about the safety of the barrier, such as might be
+       indicated by the distortion of connections.     Quite a few of the barriers now
+       show distortion and I question when this occurred.
+
+
+    32 When referring to the packing density on terraces in para 221, little or no
+      guidance is given on the criteria which should be used to govern the variation
+      between 27 and 54 persons per 10 sq metres.
+
+
+
+                                            6
+(
+     33 In the 1946 Hughes Report on the disaster at Bolten Wanderers Football ground
+          a maximum packing density of 6.5 persons per metre was recommended.      This was
+          reduced to 5.4 in the Wheatley Report.   Dr Eastwood has suggested that average
+         densities of around 8.5 were achieved immediately post war,,which is similar
+         to that which must have occurred on the terraces at Hillsborough.
+
+
+    34    Examination of the videos appear to show an increasing variation in density
+         from the back to the front, while those at the centre of the terrace do not
+         appear to be unduly worried by their situation.   Initial estimates from the
+         video suggest the density varied from about 6 to 10 or 11 persons per sq
+         metre, so that those in the centre were at around 8 persons per sq metre.
+
+
+    35 This raises the question of what are suitable densities?       If 6.4 was
+         acceptable in 1946 and 5.4 in 1972, should the Green Guide's criteria be
+         revised again?   It might be that people today are generally larger and more
+         restless, requiring more space, apart from any trend towards the public
+         expecting more comfortable conditions.
+
+
+    Further work
+    36 The maximum crowd densities for various situations should be more adequately
+         researched.   Some work might be possible from the photographs and videos of
+         Hillsborough, counting the number of persons in the situations where they are
+         obviously a) contented, b) overcrowded and c) in distress.    This work could be
+         reinforced by packing people into given areas and counting the number of
+         teenagers, women and mature men that will accept various densities.
+
+
+    37 Work should be undertaken to check out suitable heights and construction of
+         barriers, in particular measuring the most effective height that will stop or
+         suitably reduce a crowd surge.
+
+
+    38 Finally, research should be undertaken into modelling the pressures and
+         densities in the crowd at Hillsborough so that alternative layouts can be
+         tried out and the most suitable layout of barriers and exits can be
+         discovered.   I originally considered that a hydraulic model might be suitable
+
+
+
+
+                                             7
+{
+\
+
+
+       but having seen the videos, which appear to show a variation in density across
+       the terrace, I am now not so sure.   I will try to obtain further advice on
+       this.
+
+
+
+
+    M JAMES
+
+
+    6 June 1989
+
+
+
+
+                                            8
+APPENDIX A
+
+REVIEW OF THE CLAUSES RELEVANT TO CONTROLLING THE DENSITY OF SPECTATORS ON
+TERRACES FROM THE "GUIDE TO SAFETY AT SPORTS GROUNDS" (THE GREEN GUIDE)
+
+I   This booklet provides guidance to ground        The guide continually
+    management, local authorities and technical     stresses its voluntary nature
+    specialists such as engineers on measures for   and that a considerable amount
+    improving spectator safety at existing sports   of interpretation is
+    grounds. It is a voluntary code and has no      permissible or even
+    legal force.                                    desirable.
+
+4   The problem of crowd safety at sports grounds
+    is complex and cannot be solved simply by       Once again great stress is
+    ensuring that each component of a ground,       laid on the need for
+    such as stairways, passages or sections of      intelligent assessment of the
+    terracing, is satisfactory in itself. The       guide's provisions.
+    inter-relation of these and other components
+    is essential: none of them can be considered
+    in isolation without consideration of its
+    effects on the others, and they should all be
+    compatible and combine to form a balanced
+    unit.
+
+6   Deviations from individual guidelines are
+    possible without necessarily detracting from    As above.
+    the overall safety of the ground. The
+    variety of type, function and layout of
+    sports grounds and the inter-relationship of
+    the different parts of them means that a
+    flexible approach should be maintained to
+    take account of the particular circumstances
+    at individual grounds, for these reasons the
+    Guide does not attempt to set a minimum
+    standard which would be acceptable for a
+    well-attended stadium but excessive for a
+    smaller, sparsely-attended ground; or which
+    would be an appropriate standard for the
+    latter but insufficient for the former.
+
+8   It should be borne in mind that, when using
+    the Guide to assess whether existing
+    circumstances provide adequately for the
+    safety of spectators, the criterion to be
+    aimed for is that of a reasonable degree of
+    safety. It would be unreasonable, even if it    Such terms are meaningless,
+    were practical, to seek the absolute safety     how many injuries are
+    of everyone attending a ground.                 acceptable?
+
+II ....... the guide is an aid to, not a
+   substitute form, professional judgement and
+   common sense.
+
+13 It follows thfljfin general in a ground where
+   it is propsed to retain a high spectator
+   capacity, the measures needed to be taken to
+   accommodate safely such large crowds are
+   potentially more extensive.
+16        The second type is far more important and
+          involves crowd pressures. When large crowds
+          are present and densities are high, pressures
+          build up within the crowd either through
+          motion or swaying which make it difficult, or
+          even impossible for individuals to control
+          their wen movements. Under these conditions
+          crowd pressures can escalate to a dangerous
+          level and if a person stumbles or falls the
+          crowd cannot adapt to avoid him or to stop to
+          help. Since this type of danger arises from
+          crowd pressures its remedy lies in their
+          removal or restraint within safe limits.
+          These dangers arise in particular on terraces   To some extent there is a
+          and exit routes, and so careful attention       conflict of interests in
+          must be paid to restraining surges and          "restraining surges" but
+          similar pressures on the terraces and to        "ensuring free movement"
+          ensuring free movement throughout the exit      through the exit systems.
+          systems. Such free movement is dependent        Comments about the height of
+          upon the capacity of all the various sections   barriers would have
+          of the exit systems and interactions between    been particularly useful
+          them.                                           here.
+
+     21         Barriers not only serve to break up       Gaps in barriers which will
+          crowd pressures but also assist in              allow filtered approach to the
+          controlling movement off the terraces by        exits can allow crowd surges
+          regulating the rate of arrival at exits to      to develop.
+          suit their capacity, and encouraging the
+          formation of queues so that spectators arrive
+          at exits in an orderly fashion.
+
+     Prelim, to Ch. 8 - Terraces and Viewing Slopes
+
+          Arrangements should be made to encourage the    It seems quite clear that the
+          even distribution of the crowd on the           layout at the Leppings Lane
+          terraces to provide ease of access and          terraces discouraged an even
+          egress: to control and facilitate movement,     distribution of people,
+          particularly if a local emergency should        encourage is a rather weak
+          arise during the event; and to contain          requirement, this provision is
+          pressures before they reach dangerous           essential.  If the provisions
+          proportions. The provisions set out here        will only assist then
+          will assist in achieving these conditions       additional engineering input
+          (i.e. paras 89-109).                            is required IN ADDITION TO THE
+                                                          GUIDES RECOMMENDATIONS.
+          The aim should be to ensure that every
+          spectator on the terraces is within 12 metres
+          of a gangway or exit, so that spectators can
+          move quickly on to exit routes at the end of
+          an event or in the event of emergency. ...
+
+     99   Where sinking gangways, lateral or radial, is   "advised" by signs is rather a
+          not thought to be practical, their boundaries   weak piece of advice.
+          should be highlighted with paint and
+          spectators advised by signs not to stand
+          there.
+    Each of the major sections should be            To minimise sway etc., the
+    subdivided by such means as gangways and        barriers must be of a suitable
+    crush barriers, arranged so as to minimise      height.
+    the sway and surge of spectators.
+
+Prelim, to Ch. 9 - Crush barriers and handrails
+
+    Many of the hazards arising from crowd
+    pressure on terraces can be eliminated by
+    provision of well constructed, correctly
+    positioned and properly mounted crush
+    barriers (paras 110-119).
+
+110 In order to locate the top rail against that    If this is so then there is no
+    part of the body most able to tolerate          excuse for allowing barriers
+    pressure, the height of crush barriers should   of other heights.
+    be between 1.02 metres and 1.12 metres above
+    the nosing of the step immediately behind the
+    barrier, with a preferred height of
+    1.1 metres.
+
+111 .... Although a barrier with a top rail of
+    50 mm internal diameter tube has been           Again if this is so then a
+    favoured at many sports grounds, research has   programme of modification
+    shown that there would be advantage in the      should be advocated.
+    use of a flat rail of 100 mm vertical depth.
+
+113 Ideally,.crush barriers should be provided      If full length barriers are
+    along the full width of a terrace, with gaps    ideally the best they should
+    only at the radial gangways.                    be forcefully recommended.
+
+114 Where barriers are not continuous between
+    radial gangways, the alignment of gaps in
+    successive rows of barriers on a terrace,
+    should form an angle of less than 60° to the
+    barriers. There should be no more than 2
+    consecutive gaps in any line of gaps.
+
+115 Where there are gaps in the line of crush
+    barriers these should be at least 1.1 metres
+    and not more than 1.4 metres in width.
+
+117 .... The peak viewing areas are particularly
+    associated with football grounds and are
+    typically behind the goal areas.....
+
+118 Existing crush barriers and handrails should
+    be capable of resisting the forces indicated
+    in the existing test load columns of Table 2
+    overleaf when applied in a test as described
+    in Annex C ......
+4
+
+    c
+        :C6   Crcvd movement on terraces should be strictly
+              controlled in order to give the police the
+              fullest opportunity for crowd control. Less
+              problems occur when terraces are subdivided
+              as far as possible into sections by use of
+              both radial and lateral barriers or railings
+              which should comply with the strength
+              requirements set out in Ch. 9 ......
+
+    209       Access to the pitch must be made as difficult
+              as possible in normal circumstances ....
+
+    215             Gates or other access points (minimum
+              width 1.1 metres) should nonetheless be
+              provided for use in an emergency ....
+
+    217                Thissection   suggests a method of
+              calculating the number of people that can be
+              safely accommodated when taking into account
+              interactions between these individual
+              features and where there are deviations from
+              the guidelines. The following paragraphs
+              contain as of necessity generalised guideline
+              in view of the wide variety of types, sizes,
+              configurations of sports grounds, their use
+              and condition.
+
+    221       Where crush barriers meet the strength and
+              spacing guidelines of Ch. 9 the capacity of a
+              terrace or viewing slope should be assessed
+              from the area available for standing by
+              allowing a packing density of between 54 and
+              27 persons per 10 sq metres depending upon
+              the condition of the terrace or slope.....
+
+    222(b) 27 persons per 10 sq metres when it
+           materially deviates from the recommended
+           guidelines, so as to constitute a possible
+           hazard to individuals closely packed.
+
+    223                Whenthepositioning and length of
+              gangways do not meet with the recommendations
+              of Ch. 8, paras 96-100, an appropriate
+              reduction should be made to the area
+              available for standing.
+
+    224       Even distribution of spectators on the
+              terrace may be difficult to overcome
+              notwithstnaidiig the measures in this guide,
+              because spectators may prefer to gather in
+              certain parts or parts of a terrace. Ground
+              management should therefore take such factors
+              into account when assessing safe capacity
+              levels.
+V
+
+
+
+
+r
+    226   When the strength of crush barriers conforms    No reference to the height
+          with the guidelines but the spacing of such     of the barriers.
+          barriers does not, the capacity is calculated
+          from the provision of crush barriers in the
+          area available for standing (as defined in
+          para 221) as follows:
+
+          (a)   Where a terrace contains either "peak
+                viewing areas" only or "other viewing
+                areas", by multiplying the total length
+                of the crush barriers by an appropriate
+                distance between barriers (as given in
+                Ch. 9, paras 116-117) or the existing
+                distance, whichever is the   less, and
+                multiplying by the appropriate
+                packing density.
+
+      227 Crush barriers which do not meet the
+          guidelines on the strength set out in Ch. 9
+          should in...gane-r-al , be discounted for
+          calculation purposes, although where crush
+          barriers are well constructed, consideration
+          may be given to allowing a lower packing
+          density figure for the purpose of the
+          calculation.
+

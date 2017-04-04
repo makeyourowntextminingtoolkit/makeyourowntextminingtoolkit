@@ -1,0 +1,714 @@
+TECHNICAL WORKING PARTY                                    WP 8 9 (M)4
+
+
+NOTE OF A MEETING HELD IN ROOM G21 THE HOME OFFICE ABELL HOUSE ON
+TUESDAY 28 NOVEMBER AT 10.30AM
+
+
+Present:   Professor L Maunder        (Chairman)
+           Mr N Bush
+           Mr W Carter
+           Mr M Dickson
+           Dr C Nicholson
+           Mr B Stickley
+           Mr J Sweet                 (Secretary)
+
+
+                                                          Action
+
+Agenda Item 1 - Minutes of Previous Meeting
+
+
+1.   The minutes of the meeting on Tuesday 7 November
+were agreed.
+
+
+Agenda Item 2 - Matters Arising
+
+
+2.   It was agreed to defer these matters for
+consideration later in the meeting.
+
+
+Agenda Item 3 - Report on Visit to Utrecht
+
+
+3.   Professor Maunder reported that this had been a
+worthwhile and instructive visit, not least because of
+the realisation that the Dutch constructors, Ballast-
+Needam, were now a wholly owned subsidiary of British
+Aerospace, and, with the parent company, were involved
+in discussion about the possible redevelopment/
+construction of a number of stadia in this country.
+The majority would follow the design of Utrecht, which
+accommodated 20,000 spectators,   12000 of whom were
+seated but that proposed at Birmingham would, by
+contrast, accommodate approximately 100,000
+Negotiations with the FA on this project were at a very
+early stage and the information was consequently of a
+commercially sensitive nature.
+4.   The actual stadium at Utrecht was impressively
+laid-out, and incorporated a number of commercial
+ventures which utilised the spacing under the stands.
+Office accommodation occupied the corners of the
+ground, and these projects combined to bring in revenue
+to the club.     The stadium had been financed by the
+municipal authorities, but was now being handed over to
+private ownership.
+
+
+5.   As to ground characteristics, the pitch was
+surrounded by a concrete moat approximately 3 metres
+wide and 2 metres deep, giving a clear walkway round
+the ground, and providing ingress/egress for emergency
+vehicles.    Although possible for fans to descend into
+the moat, few did so since visibility was very
+restricted.
+
+
+6.   Entry to the ground was by way of wide, level
+tunnels which emerged at the bottom of the terraces and
+stands.     There were no turnstiles.   Once through outer
+gates guarding entry to the tunnels, fans could
+purchase tickets at guichets set into the walls or, if
+already in possession of tickets, proceed straight to
+the end of the tunnel where stewards manned double
+gates opened sufficiently wide to allow fans through
+one at a time.     It was here that ticket inspection took
+place.
+
+
+7.   The design features of the stadium had enabled a
+reduced police presence pitch-side, but it was still
+necessary for a heavy police contingent to escort
+visiting fans, especially those from "high-risk" clubs,
+from the railway station to the ground.      Such fans were
+bused in under armed escort and disembarked straight
+into the tunnel leading to their section of terracing.
+A similar process operated in reverse at the end of the
+game, giving little opportunity for rival fans to
+clash.    This system was facilitated by the amount of
+space around the building which allowed coaches to draw
+                                                                Action
+
+up alongside the relevant tunnel.     It would clearly be
+impracticable at many stadia in this country.
+
+
+8.    Moulded, plastic seating had proved resilient and
+difficult to vandalize.
+
+
+9.    The Dutch government had sought recently to
+introduce a national identity card scheme, but the
+pilot project had been sabotaged by fans and the       clubs
+themselves, who    remained opposed to the idea.   Although
+the government was keen to reintroduce the scheme, it
+was clear that this would command little support among
+many in the football fraternity.
+
+
+10.   On advice from Mr Carter, it was agreed that it
+was, at this stage, unnecessary to pursue any
+particular points with BAe representatives in this
+country.     Mr Carter undertook, however, to obtain            Carter
+
+further details of the density, spacing, slope and
+strength specifications required by the Dutch
+authorities for    stadia there.
+
+
+Agenda Item 4 - Report on Meeting with Professor       Canter
+
+
+11.   Professor Canter believed that there was
+insufficient knowledge and information on crowd
+behaviour;     as a result, the figures on which many
+designs and rules were made were suspect.     There was a
+failure to integrate clubs more closely into the local
+community and insufficient dialogue between clubs and
+their supporters.     That lack of informationrecognised
+by the Working Party, was a major handicap in seeking
+to improve both conditions and fans' behaviour, and it
+was accepted that longer-term research might be
+advantageous.     It was not, however, for the Working
+Party to pursue.
+
+
+12.   Some research on crowd behaviour had already been
+carried out.     Mr Dickson referred to a number of
+                                                             Action
+published articles:     once obtained, those would be
+circulated.                                                  Sweet
+
+
+
+Meeting with FA/FL
+
+
+13.     Although not an agenda item, Professor Maunder
+thought Working Party members would wish to be aware of
+a number of details which had emerged at a recent
+meeting with the football authorities.     Important among
+these were a UEFA proposal to increase seating at
+designated grounds by means of a 10% per annum
+reduction in standing, a requirement that, as from
+autumn 1992, all World Cup matches were to be played at
+all-seater grounds, and a stipulation that as from
+January 1993 all "high-risk" events, including domestic
+games, were to follow suit.     Whether UEFA had the
+authority to impose such a regulation on the domestic
+game, was less important than this evidence of the
+attitude and approach they were adopting.
+
+
+14.     Some support had been expressed by the FA/FL to
+the idea of making the Green Guide mandatory.     That
+view was not shared by Working Party members who felt
+that complete enforcement was impractical given the
+enormously wide disparity between grounds and ground
+conditions.     What was preferred was to make consistent
+the process of certification and it was here that an
+overseeing body such as the FLA might play a crucial
+role.     Such a certifying authority would ensure a
+degree of standardisation which many felt lacking under
+the current system.
+
+
+Agenda Item 2 - Matters Arising
+
+
+Crush Barriers and Handrails
+
+
+15.     Dr Nicholson and Mr Dickson tabled their paper on
+the inspection and testing of crush barriers and
+handrails.     It had been drafted following discussion
+                                                              Act ion
+
+and examination of the existing literature on
+structural testing, but was only a draft and open to
+amendment.
+
+
+16.    Its format was welcomed by   other Working Party
+members who appreciated its concise and logical
+structure.     The figure of 75% referred to in 2(c)   (The
+Bedding-in cycle) was based upon criteria set out in
+Institution of Structural Engineers' papers and was
+accepted as a suitable figure.
+
+
+17.    There were a number of minor amendments, which it
+was agreed Messrs Dickson and Nicholson would give            Dickson/
+                                                              Nicholson
+consideration to in advance of the next Working Party
+meeting.     These included a possible refinement of 2(a)
+(The Proof Test) paragraph 3, and a more explicit
+examination of the impact of reverse loading and
+sideways movement.     There was a measure of consensus
+that the actual test needed to be spelt out in greater
+detail.    Similarly reference to foundations and             Dickson/
+                                                              Nicholson
+terrace-cracking might be made more explicit.       It was
+also recognised that reference to a fixed percentage in
+2(d)   (The Test Schedule) might prove counter-productive
+and be regarded as the fixed figure to be tested.        A
+degree of flexibility was required;     if a particular
+type of barrier failed, then all barriers of that type
+would need testing.     Similarly, should there be any
+discrimination within a testing cycle as to the
+proportion of existing to new barriers which were to be
+tested?
+
+
+18.    After discussion, it was agreed that further           All   Members
+
+comments on the paper would be submitted to the
+Secretary as soon as possible for immediate
+circulation.                                                  Sweet
+
+
+Inspection and Tests
+
+
+19.    Mr Sticklev's paper (already circulated) had
+raised a number of important issues, including the
+current unsatisfactory nature of Chapter 4 of the Green
+Guide, which needed considerable expansion.     There was
+clearly a need for detailed pre-event inspection and
+the proposed new paragraph sought to cover the areas
+where inspection ought to take place.     It was accepted
+that any post-event inspection could probably be of a
+less rigorous nature, since such an inspection was a
+safety, rather than detailed maintenance, check.
+
+
+Turnstile Flow Rates
+
+
+20.   Paragraph 6 of the minutes of the previous meeting
+had recorded the Working Party view that a notional
+flow rate of 500 persons per hour was more realistic
+than the existing Green Guide figure of 750.     After
+further discussion,    it was accepted that as a general
+rule the rate of ingress at a ground was to be
+established by the local authority in keeping with the
+provisions of the Safety Certificate, but that the
+figure of 500 was to be regarded as the median for a
+normal turnstile.
+
+
+Reservoir Densities
+
+
+21.   Paragraph 14 of the previous minutes had recorded
+the Working Party view that a lower density was
+required.    Professor Canter had, in his meeting with
+the Inquiry, been unable to illuminate the issue
+further and discussion, therefore, returned to the more
+general principle of whether to allow reservoir areas
+at all.     Some support emerged for recalculating flow
+rates earlier in the exit route so as to obviate any
+need for such areas.    After lengthy discussion,   it was
+agreed that if this could be done, then it should be,
+but that where reservoir areas were still required,
+their density should be in the region of 35-40.     All
+agreed on the benefits of a proper, networked plan for
+each ground, delineating all aspects of ingress/egress.
+                                                              Act ion
+
+Handrails
+
+
+22.   Mr Sticklev tabled a 1952 Fire Grading of
+Buildings document (attached) which laid down the
+figures on which the Green Guide had been drawn up.      It
+was agreed that a similar figure and wording be
+adopted.
+
+
+Terrace Step Widths
+
+
+23.   After discussion, it was accepted that whilst the
+280 - 380mm range specified in paragraph 92 of the
+Green Guide was reasonable, a general form of words
+covering extremes outside that range was also required.
+Working Party members agreed to give thought to a             All   Members
+
+suitable form of words.   It was also agreed to
+substitute the word "excessive" instead of the
+reference to 180mm in the final sentence of paragraph
+93.
+
+
+Division of Spectator Accommodation
+
+
+24.   Both Professor Maunder and Mr Sticklev had looked
+again at the problems associated with terrace divisions
+and sub-divisions, and Mr Carter had sought information
+on the current state of League grounds.    He reported
+that, at the majority of grounds, terrace areas were
+related to their own, specific turnstiles (and
+facilities) and that further sub-division such as had
+occurred at Hillsborough was rare.    This applied
+throughout the League and was not confined solely to
+the larger 1st and 2nd Division clubs.    Such sub­
+divisions as did exist had invariably been introduced
+at the instigation of the police for security/crowd
+control purposes.
+
+
+25.   It was agreed, after detailed discussion,   that the
+Working Party would recommend the objective of a direct
+                                                                 Action
+one-to-one relationship between turnstiles and
+enclosures, wherever practicable.       On the rare
+occasions when further sub-division was required,        it
+was imperative that the totals to each such sub­
+division should be counted separately.       It was
+unnecessary to specify a maximum figure for terrace
+size.
+
+
+Viewing Slope Crush Barriers
+
+
+26.     After discussion,   it was agreed that Mr Sticklev's
+recommendation of "two-thirds that of", replace "the
+same as" in paragraph 107 Green Guide.
+
+
+Auxiliary Lighting
+
+
+27.     Mr Dickson had obtained an invaluable document on
+this subject prepared by North Yorkshire County
+Council.     It was agreed to circulate this to all
+Working Party members (attached).
+
+
+Green Guide Chapter 10 - Roofed Stands with Seated
+Accommodation
+
+
+28.     Messrs Bush and Carter's paper (already
+circulated) was discussed in detail, and their
+recommendations accepted, with one caveat.        The view
+that the strength requirement in paragraph 128 was
+excessive found widespread, but not unanimous,        support.
+It was agreed to record the majority view that a lower
+figure might be acceptable.       There was unanimous
+endorsement of the proposal for a separate Chapter in
+the Guide on temporary stands and structures.         Mr Sweet
+undertook to establish whether the proposed Home
+Office/Scottish Office document referred to in
+paragraph 140 had ever been published.                           Sweet
+
+
+
+Green Guide Chapter 14 - Crowd Control
+                                                               Action
+29.     There was general consensus that, as currently
+drafted, this Chapter was too negative.     Substantial
+redrafting was therefore required.     Two areas were of
+critical importance;     (i) the emphasis on sub-division
+in paragraph 206, the principles of which had already
+been discussed, and (ii) the suggestion in paragraph
+209 that access to the pitch be made as difficult as
+possible in normal circumstances.     A divergence of
+views emerged amongst Working Party members as to the
+emphasis to be placed on access, the majority favouring
+more positive wording on the availability of access to
+the pitch.
+
+
+Agenda Item 5 - Review of Capacities
+
+
+30.     Chapter 16 of the Green Guide was fundamentally
+important to safety, and considerable debate had
+already taken place as to the advisability of retaining
+the density figures currently set out in paragraph 222.
+Whilst some members remained confident that the figure
+of 54 was, if anything, too cautious, Professor Maunder
+reiterated his belief that Lord Justice Taylor would           W
+unlikely to recommend raising density figures.       Indeed,
+given the interim recommendation to reduce terrace
+capacities by 15%, there might be some criticism of a
+return to that figure.     Nonetheless, Working Party
+members felt strongly that, from an engineering
+perspective,    54 was an acceptable, safe figure;    it was
+therefore agreed to recommend retention of that figure
+to the Inquiry.
+
+
+31.     Debate was equally vigorous on whether to retain
+the lower maximum density figure of 27 specified in
+paragraph 222 (b).     After much discussion the Working
+Party agreed to recommend the deletion of that figure,
+such deletion to be accompanied by a careful re-wording
+of paragraph 223 emphasising the need to interpolate
+between the maximum figure of 54 and a minimum figure
+of 0.    Mr Sticklev undertook to consider a suitable          Stickley
+                                                             Act ion
+
+form of words for discussion at the next meeting,
+together with the inclusion of diagrams and examples.
+
+
+32.   In conjunction with the debate on capacity ran a
+parallel debate on the structure of perimeter walls,
+and their use as crush-barriers.   Such walls should not
+be considered as crush barriers unless they conformed
+to crush barrier specifications.   Mr Sticklev agreed to     Stickley
+
+undertake further re-evaluation and drafting of
+paragraphs 225-228.
+
+
+Communications
+
+
+33.   Too little weight had in the past been attached to
+the need for a comprehensive communications system, and
+the amendments suggested in Mr Sticklev's note (already
+distributed and itself based on the earlier paper
+presented by Professor Maunder) were accepted.     Copies
+of relevant documentation on "communications" were to
+be supplied by Mr Dickson to the secretary in due            Dickson
+
+course.
+
+
+Agenda Item 6 - Alternative Designs Submitted to the
+Inguirv
+
+
+34.   Mr Sweet undertook to circulate any designs which      Sweet
+
+were felt to be particularly worthy.   It was recognised
+that a large number of individuals would probably
+produce very similar schemes, many lacking a proper
+engineering basis.
+
+
+Agenda Item 7 - Form of Working Party Submission
+
+
+35.   Lord Justice Taylor had indicated that he hoped to
+present his Final Report to the Home Secretary in
+January.   It was therefore important for the Working
+Party to present its conclusions before Christmas.      It
+should not seek to engage in detailed re-drafting of
+the Green Guide but should address key issues and
+principles, making general recommendations which, where
+appropriate, could be followed up later by Government
+departments.     Those recommendations should include,
+inter alia, the following essential topics:
+
+
+     i)      perimeter fencing.   The Working Party was not
+     qualified to give an assessment on whether,        in
+     principle,    fences should remain or be removed, but
+     where they did remain, would recommend a reduction
+     in height to not more than 2'2metres, the removal
+     of spiked or barbed wire, and the removal of
+     overhangs.     The majority of members also favoured
+     the existence of gaps, rather than gates, within
+     the fencing, such gaps being aligned with, and of
+     the same frequency as, gangways.      Such gaps should
+     be at least as wide as the gangways feeding into
+     them.     Fencing in front of seating was
+     unnecessary, and it might be that a moat around
+     the pitch, where practicable, would be preferable.
+     Physical constraints might, however, cause some
+     terracing to be lost, and this would prove an
+     unduly harsh financial burden on smaller clubs.
+
+
+     ii)     all-seater stadia.   Earlier minutes had
+     recorded the recognition of a general move (not
+     only in England but abroad) towards all-seater
+     stadia, and the impact of UEFA/FIFA regulations.
+     Nonetheless,    there was nothing inherently unsafe
+     about non all-seater stadia;      if standing
+     densities were low, there was little risk of
+     injury;
+
+
+     iii) role of FLA - inspectorate function?        It was
+     agreed that a central repository        knowledge,
+     whether the FLA or another forum, was essential to
+     facilitate information flow between clubs,
+     football bodies and other organisations.        Working
+     Party members saw benefit, too, in having a body
+     with an overview function, ensuring consistency of
+                                                             Action
+
+      approach;   and
+
+
+      iv)   radial fences.     The issues had already been
+      canvassed in depth, but would need to be addressed
+      in the Working Party's report to the Inquiry.
+
+
+36.   It was agreed that Professor Maunder and Mr Sweet      Maunder /
+                                                             Sweet
+would prepare a draft form of report, skeletal in
+nature but encapsulating the issues to be referred to
+Lord Justice Taylor,    for distribution prior to the next
+Working Party meeting.       If agreement as to its
+format/content could be reached at that meeting, the
+report would be presented to the Inquiry by mid-
+December.
+
+
+Agenda Item 8 - Any Other Business
+
+
+37.   There was no other business to report.
+
+
+Agenda Item 9 - Date and Place of Next Meeting
+
+
+38.   The next meeting would take place on Wednesday 13
+December in Queen Anne's Gate commencing at 10.30am.
+Further details and Agenda would be distributed in due
+course.                                                      Sweet
+      H O U SE C O N ST R U C TIO N .                                            ' f >r 45^; bd.      (4$. gd.)                                                                                 G R A D IN G
+ 3- PLA STICS.                                                               •            ■' (Out of print.')                 tillBifp
+ 4-   PLU M B IN G .
+ 5- T H E P A IN T IN G OF B U IL D IN G S.
+ 6 . GAS IN ST A L L A T IO N S.
+                                                                                      25.    6d,
+                                                                                             3/.
+                                                                                                      (2s. 8c?.)
+                                                                                                      (3?. 2rf.)
+                                                                                                    6rf.     (8d.),   ‘:g
+                                                                                                                               * f vX                          fei‘
+                                                                                                                                                                  5''*''i ‘
+                                                                                                                                                                                 BUILDINGS
+                                                                                                                                                                                 \
+
+                                                                                                                                                                          •'r- * :
+                                                                                                                                                                                     *' ‘
+
+
+                                                                                                                                                                                   *V''•
+ 7 - ST EE L ST R U C T U R E S. , : !                                                , (Out of print.)
+ 8 . REINFORCED CONCRETE ST R U C T U R E S.                                                (Out of print.)                                                    S t l ; / • ;:-r                 .. pARtn               4' lj 1989
+ 9 - M ECH AN IC AL IN ST A L L A T IO N S.                                                 (Out of print.)
+                                                                                                                                X&c
+                                                                                                                                                                       'TIRE FIGHTING EQUIPMENT; ;
+10. S O L ID FUEL. IN ST A L L A T IO N S. ■;./                                             (Out of,print.)
+11. ELEC TR IC AL IN ST A L L A T IO N S.                                                    3s.      (3s. 2d.)                                                                                   PA R T III                 ■r?r.
+13. T H E L IG H T IN G OF B U IL D IN G S .                                         2s. 6d.          (zs. gd.)                 i.:
+                                                                                                                                  f•'•-■I
+                                                                                                                                   tl*-'i ""'s'
+13- N O N -FER R O U S M ETALS.                                              [■[;;'\:^-js^<(is:«£dJ):                                                                                       PERSONAL SAFETY,             /
+14. S O U N D IN S U L A T IO N A N D A CO U STIC S.                                 2i. 6d. (zs. Sd.)
+                                                                                                                                                                           ’’                    ' P A R T IV
+*5- W ALLS, FLOORS A N D ROOFS.-                              :                   i s ' g d . ( u . lo id j;                  mm
+16.B U SIN E SS          B U IL D IN G S .                                                   31.      (3 5. 2d.)      |1                                                             CHIMNEYS AND FLUES.
+*7-   FARM B U IL D IN G S .                                  r                              4J.      (45. 4^.)
+18. T H E A RC H ITECTUR A L U SE O F B U IL D IN G
+                                                                                                                      il                                            X     «• 4 r
+                                                                                                                      Sfc
+     M A TER IALS.                                                51. (51. 3d.)                                                                                     V -‘     BY A J O IN T , COMMITTEE,
+19. H E A T IN G A N D V E N T IL A T IO N OF D W E L L IN G S.
+                                                          ; 2»; 6<£ (2 ^ ;joi/.)
+                                                                                                                                                                   i  O F THE B U IL D IN G RESEARCH B O A R D , >
+20   . FIR E       G R A D IN G OF B U IL D IN G S (Part I).                        11. 6d. (is. 9d.) ’.fe.                                                                ’                OF THE DEPARTMENT.
+31. SCHOOL             B U IL D IN G S FOR SC O T L A N D .                             (Out of print.) ' {:                                                        ?OF SCIENTIFIC & IND U ST R IAL RESEARCH.
+22  . FARM B U IL D IN G S FOR SC O T LA N D .                                      35. 6d. (31. gd.)
+                                                                                                                                                                     A N D OF THE FIRE OFFICES’ COMMITTEE.
+* 3 - H O U SE C O N ST R U C T IO N . SECO ND REPORT
+        (see N o. 1 above).                                              ;            is.   6 rf.     (ij.   8d.)
+24 . SCHOOL F U R N IT U R E A N D E Q U IPM EN T .                                   .       ,6d.         (7id .)
+25- H O U SE C O N ST R U C T IO N . T H IR D REPORT
+      (see Nos. 1 and 23 above).             ■': \ - k                               35. 6d. ( y . 8d.)
+                                                                                                                                ■A i a ;                  ’1               i .
+26. D O M E ST IC D R A IN A G E .                                                              6d. (7id .)
+2 7 . H E A T IN G A N D V E N T IL A T IO N OF SCHOOLS.                                        6d. (7 id.)
+28. PR E C A U TIO N S A G A IN S T FIRE A N D EXPLOSIO N                                                                                  A ft* }!]
+     IN U N D E R G R O U N D CAR PARKS.             ‘                                       is.      (w, 2d.)
+30 . L IG H T IN G O F OFFICE B U IL D IN G S .                                     35.      6d. (3s. 8d.)
+
+                               Prices in brackets include postage.
+                                          Obtainable from         '
+
+        H E R M A J E S T Y ’S S T A T I O N E R Y O F F I C E                                                                                                                                 L O N D O N : 1952
+                                                                                                                                  fijp
+                    York House, Kingsway, London, W .C .2 ; )423 Oxford S treet,-                                                   '•’!   uc     ’                 , UBLISHED FOR THE MINISTRY OF WORKS
+                    London, W .l (Post Orders s P.O. Box 669, London, S .E.l) i . .'<■
+           \        13a Castle Street, Edinburgh, 2 } 39 K in g S treet, Manchester* ;.C                                                                            |.E|Y HER M AJESTY’S STATIONERY OFFICE
+                    2 ; 2 Edm und Street, Birmingham, 3 ; 1 St. Andrew's Crescent,
+               .    C ardiff; Tower Lane, Bristol, 1 ; 80 Chichester Street, B elfast;   •
+                                                                                                                                                                                             ; P R I C E R . 6d. NET
+                                       .orthrough any bookseller. ;                        -
+                                                                                                                                   llillli'111
+                                                                                                                                                      I i*‘i
+                                                                                                                                                                       4
+                                                                                                                              ‘'-is         .
+                                                                                  ■M*'
+
+                                                                          S.O, Code N o. 6 7 -1 1 -2 9 t                    lAix>>es.             i
+                                  FIRE       GRADING            OF       BUILDINGS                                                      PRECAUTIONS                 RELATING             TO     PERSONAL             SAFETY
+- the absence o f clear evid en ce from test results, it is necessary to look closely at                                      236. In A m erican codes the m ost co m m o n ly accepted value for the u n it o f w id th
+  the re q u ire m e n ts of existing codes.
+                                                                                                                              is 22 in. T h i s w id th is specified, for instance, in the C a n ad ian , N .F .P .A . an d
+                                                                                                                              N e w York C odes. C e rta in relaxations in the case o f the N .F .P .A . C ode s h o u ld ,
+  232        T h e B .I .N .C . R e p o rt a d o p ts th e p o sitio n , in s tric t co n fo rm ity w ith theory
+                                                                                                                              how ever, be n o te d . I n the case o f doors, 20 in. of n e t o p e n in g is accepted p e r
+  th a t on ly w hole u n its o f ex it w id th are effective, «... th a t increase in w id th to give
+                                                                                                                              u n it, a n d in existing b u ild in g s a stairw ay 40 in. w ide is accep ted as 2 u n its . In
+  increased disch arg e capacity sh o u ld be in in c re m en ts o f a u n i t (x f t o in ) As
+                                                                                                                              e xisting o u ts id e fire-escape stairs 18 in. w id th b etw een h an d rails is accepted as one
+  a h e a d y n o te d , h o w ev er (p a ra g ra p h 225), the a b ru p t tran sitio n in w id th fro m one
+                                                                                                                              u n it. T h e C alifornian C ode m akes 18 in. the u n it o f exit w id th in all cases.
+  exact m im b ei o f u n its to the n e x t h ig h er exact n u m b e r o f u n its is m in im iz e d by
+  a provisio n w h ich is eq u iv a len t to a llow ing a slig h tly increased discharge p e r u n it                         237. I t m a y be n o te d th a t the effect o f the variations in u n it w id th on the discharge
+      the b o u n d a ry value T h e L.C.C. a n d so m e A m e ric a n codes m ake an allowance                               value o f exits is n o t critical. F o r instance, the difference in discharge value betw een
+ inr.-        em e n ts o f w id th less th a n a u n it. In the L .C .C . C ode sta ir w idths are                           a 3 -u n it exit 5 ft. 3 in. w ide a n d o ne 5 ft. o in. w ide w o u ld be a fractional difference
+ mci eased m g ia d a tio n s o f 6 111. to p ro v id e for an increasing total p o p u la tio n . T h is                     o f o n ly     .  I t is reasonable to accept the idea th a t on a w id e sta ir th e re is less
+ m a y be le g a rd e d as a successful practical application o f the prin c ip le o f allow ing                              likelihood th a n on a n arro w one o f the full w id th b ein g occu p ied by p erso n s of
+ fo fractions o f a u n it w id th , the choice o f 6 in. in c re m e n ts avoiding th e com                                  b ro ad b u ild , a n d th a t for w ide stairs the u n it o f w id th can be re d u c e d on that
+ p ications o f sm allei fiactio n s a n d facilitating its use in p ractice. T h e N e w Y ork                               acco u n t. O n the o th e r h an d , it has already b een n o te d (p a ra g ra p h 220) t h a t th e re
+ C o d e allows 3 in. in c re m e n ts in so m e cases. S o m e A m erican codes, in c lu d in g the                          is som e evidence th a t the discharge fro m w ide stairs is p ro p o r tio n a te ly less than
+ C a n ad ia n a n d N .K L .A., a d o p t the. c o m p ro m ise o f allow ing 12 in. in excess o f an                        from n a rr o w stairs, so th a t any excess w id th w h ich m a y be p ro v id e d by m a in ta in in g
+ exact n u m b e r o f u n its to ra n k as h alf a u n it,                                                                   a co n sta n t value for the u n i t w ould help to com p en sate for this. I n this R e p o rt,
+                                                                                                                              the refore, w e have u sed a figure o f 21 in. as a basis for calculation.
+        T hC 2 ~u m t sta ir is o f g e n e r a l u t i l i t y , as i t is a c o n v e n i e n t m i n i m u m w i d t h
+ W ithout e x c e s s w h i c h m a y b e o f d o u b t f u l v a lu e for d isc h a r g e p u r p o s e s , an d a
+
+ hh ow
+    ow ever
+       ever, ‘the    f™ !t/1
+                  he fact                          1
+                           th a t in in d iv id u a l °cases
+                                                        '
+                                                             it^ m apye fr
+                                                                        0 pe kq u w
+                                                                                  e nhtly
+                                                                                       ° USC  k ' T h e r eto rem
+                                                                                          be necessary            ains,
+                                                                                                               provide
+                                                                                                                                    M INIMUM             AND       MAXIMUM              WIDTHS           OF     STAIRCASES
+
+                                                                                                                              238. A lth o u g h it has been re c o m m e n d e d th a t sm all variations in exit w id th
+ for a sm all excess o f p o p u la tio n above th e figure w h ich w ould be catered for by
+                                                                                                                             s h o u ld be a ss u m ed to have a p ro p o rtio n a te value for d ischarge p u rp o s e s, it w ould
+   he n e a re s t w h o le n u m b e r o f u n its , w h e n it w o u ld be ex trav ag an t to a d d a n o th e r
+                                                                                                                             seem desirable to place som e lim it u p o n the ap plication o f this p rin cip le to n a rr o w
+ or ‘ sta,Un      T        I‘u r.l h e r > m, If rge b u ,Id in gs - w hcre fr e q u e n t passing o f people                staircases an d it is re c o m m e n d e d th e refo re th a t staircases a n d exits sh o u ld generally
+ o n stairs m a y be ex p ecte d , a w id th so m e w h a t in excess o f 2 u n its will be d e iir-
+                                                                                                                             be n o t less th a n 2 u n its (3 ft. 6 in.) w ide. W h e re exits o r staircases serve a lim ited
+   ™ n I" V1r V °            ? ,v a n a t l° ’1 111 ex istin g test resu lts and code re q u ire m e n ts, it                n u m b e r o f p erso n s, how ever, this w id th could be red u c e d to a m in im u m of, say,
+ s c o n sid ered le a so n a b le , p e n d i n g th e p r o d u c tio n o f m o re conclusive e x p erim en tal
+                                                                                                                             2 ft. 6 in. for n o t m o re th a n 75 p erso n s, a l th o u g h we co n sid er th a t a p a rt fro m
+o f wi«hl,8f n l P n ° n W l° I f F a C tira I “ " ^ r a t i o n s a n d allow sm all in c rem en ts                         ex cep tio n al circum stances, a m i n im u m w id th o f 3 ft. for staircases w ould be m ore
+of w id th to be c o n sid e re d o f p ro p o r tio n a te value.
+                                                                                                                             d esirable. In flats an d o th e r single-staircase b uildings w ith a sleeping risk we
+234. I t m i g h t b e co n sid ered th a t this pro v isio n inv alidates the idea o f using                                re c o m m e n d th a t th e staircase sh o u ld u n d e r no c ircu m stan ces be less th a n 3 ft.
+u n it w id th s a n d th a t it w ould be m o re co n v e n ie n t to calculate exit w idths in feet                        w id e a n d in sim ilar b u ild in g s over fo u r storeys in h eig h t it sh o u ld be n o t less th a n
+                                                                                                                             3 ft. 6 in. wide.
+rrH i.U1Cl       T eC-' r      1S re ( ro n i m e n d e d , how ever, th a t the use o f u n it w id th s be
+retain ed as a basis fo r calculation w h ich w ill p ro b a b ly be useful in f u tu r e e x p e ri­
+m e n ta l w ork o n th e su b ject.                                                      m i m e experi                     239. P ers o n s passing d o w n th e c en tre of a w id e staircase m a y stu m b le a n d
+                                                                                                                             fall th r o u g h having 110 h an d rail to g rip . In a tw o -u n it staircase a h an d ra il is
+                                                                                                                             available fo r each stream o f traffic, a n d in a th r e e - u n i t staircase, a lth o u g h no h a n d ­
+VAL UE OF U N I T W I D T H                                                                                                  rail is available for the centre stream , any p erso n in this stream w ho sh o u ld stu m b le
+                                                                                                                             could cling to so m eo n e in one o f the tw o side stre a m s, each of w h ich has a h an d rail
+i f  J n i S          ' r 1! ? r fh e . u n itr o f w id th varies slightly in different codes.                              for its use. T h e risk o f persons falling in the c en tre stre a m s o f staircascs m ore
+   the B .I .N .C . R e p o rt the basic v alue for the u n i t o f w id th is 21 in. F o r exits                            th a n th re e u n its w ide w ould, how ever, be m u c h g reater, an d it is re c o m m e n d e d
+m ore tha n 2 u n its w ide, h o w ev er, u n it s after th e seco n d m a y be 18 in w ide su b iect                       th e re fo re th a t no staircase sh o u ld be m o r e th a n th ree u n its w ide u n le ss it is d iv id ed
+                                                                                                                            b y a h an d rail o r h an d rails into sections o f n o t less th a n tw o u n its or m o re th a n
+b) h an d ra ils in to sep arate sta irs each h av in g a iriv iw iu m w id th o f 30 in. In the                            th r e e u n its wide. F o r th e p u rp o s e o f this re c o m m e n d a tio n only, a w id th of 6 ft. 0 in.
+case o f existing b u ild in g s a r e d u c tio n o f 4 in. is allow ed for exits o f m o re than                          sh o u ld be re g a rd e d as n o t m o r e th a n th re e u n its wide.
+one u n it. J he above re q u ire m e n ts can be ta b u la te d th u s :
+                                                                                                                            240. T h e w id th o f staircases sh o u ld be m e asu red betw een th e finished surfaces
+                                                                                                                            o f w alls o r to the o u te r edges o f ste p s. H a n d ra ils sh o u ld n o t p ro ject m o re th a n
+                                                    T able 7                                                                3 ! in. each side into th e m e asu red w id th .
+
+ Number o f units                                    2             3             4              s             6                                      CALCULATION                  OF     EXIT       WIDTH
+ M inim um widlh         r e q uir e d   for a                                                                              241. T h e d e te rm in a tio n o f exit w id th , w h e th e r it applies to d o o r o p en in g s o r to
+   n c w b u ild in g                             42 in.        60 in.
+                                                                               00
+
+
+
+
+                                                                                                 in.
+                                                                              'J
+
+
+
+
+                                                                                                          r r.( in.         stairw ays, involves consideration o f the m o v e m e n t o f n u m b e r s o f people. In
+                                                                                                                            looking at this q u estio n fro m first p rin cip les it is im m ed iate ly annare.nl th a t t u n
+

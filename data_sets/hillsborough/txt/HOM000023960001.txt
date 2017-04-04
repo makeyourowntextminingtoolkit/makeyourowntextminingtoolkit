@@ -1,0 +1,576 @@
+                            PEN 3                                                                                    PEN 4
+                             0 2 2   £ * *3 n rv D
+                                                                                                                     §,■')1 p
+
+
+                  No 143
+                n, 7.005m
+                34 PERSONS                                                                 K No 144 \
+                                                                                           \ H.4S5m \
+(1 . 125m)
+                                                                                           \ ''45       \                505m)/>
+                                                                                           NPERSONS^
+
+
+                                                                                                                     No 137             No i3a
+                                                         4.525m   . x                                            v   4.46m         ,,  3.645m
+        Nj 5.475m                                                                                           //31 PERSONS           /,&a PERSONS V /
+        105 PERSONS                                  34 PERSONS^
+                                325m)                                   03m)
+                                                                                   ea PERSONS
+
+                                                                               ^ 1.S5m                   31 On
+               7.425m
+             144 PERSONS                                                                             /persons^/ y / 7 y \
+                                                                                         RNo 12E
+                                                                                           5.e70m
+                                                                                         \   -3fl
+                                                                                        PERSONS
+                                                                                    /
+                                                                                 .505m)
+                                                                                  ///
+                                                                                 FENCE
+                                                                                 2.455m
+                                                                                          (0.885m)                                                     (0.3m)
+                              CO.3m)
+                            GATE 3                                                       GATE 4                                                       G ATE 5
+
+
+
+
+      SWFC WEST TERRACE - IDEAL DISTRIBUTION OF PERSONS
+
+
+
+
+                                                     t
+                   CRUSH BARRIER STRENGTHS       SPACIKG5
+
+1.0    INTRODUCTION
+
+Until recently there was little guidance available on the strengths and
+
+spacings suitable for crush barriers used on football terraces.         The only-
+
+problem in the design of barriers was often seen as that of ensuring they
+
+did not collapse under crowd pressures.      Uhile it is of paramount importance
+
+that collapse does not occur, it is also important that crowd pressures
+
+cannot be generated so as to caus'e injury particularly to those spectators
+
+pressed against the barrier.
+
+1«1    The supporting evidence for the spacing and strength of crush barriers
+
+recommended in the ’Wheatley Report is given below.     In brief, the
+
+determination of the pressure that can be generated on a terrace is explained,
+ ~ \                          *
+
+
+a distinction being made between the levels of pressure that can be
+
+generated in "peak viewing areas" e.g. behind penalty boxes, and in "other
+
+viewing areas"; a figure is obtained for the pressure that can be generated per
+
+man (or alternatively per foot width of barrier per foot spacing as a
+
+function of slope);      and measurements of the pressures that can be
+
+tolerated by the human body when pressed against a barrier are described.
+
+Other supporting evidence is also mentioned.
+
+1.2.   It is assumed that only on rare occasions will all the spectators
+
+between 2 consecutive barriers up a slope contribute simultaneously to
+
+crowd pressures.      When this "maximum pressure" does occur it causes grave
+
+discomfort but, owing to its transient nature, is unlikely to cause injury.
+
+It is abduced that the pressures which occur frequently will be generated
+
+by half of these spectators and, for the purpose of this paper, this
+
+frequently generated pressure is called the "tolerable pressure".         The
+
+recommended barrier spacing is based on it, the actual distance recommended
+
+between barriers being the standing room required by twice the number of
+
+spectators who exert the tolerable pressure.     It is also assumed that each
+
+spectator occupies an area of 2 square feet, standing on a step of 14" depth
+
+
+                                      1
+
+
+                                                                                    Tf
+and exerting his pressure over 21” of barrier.      Two series of spacings
+
+are given each of which is based on a different level of tolerance to
+
+crowd pressure:       one level of tolerance is for safety only and the other
+
+for safety plus comfort, these being 300 lbf per person (or 170 lbf per
+
+foot width) and 200 lbf per person (or 115 1bf per foot width)
+
+respectively.
+
+1.3    Since the collapse of a barrier could lead to an incident escalating
+
+in severity, the barriers should withstand the greatest pressure ever
+
+likely to be exerted on them.       Accordingly the recommended barrier
+
+strengths are based on the "maximum pressure" i.e. that pressure which
+
+could be generated by all the spectators who could be involved.       Using
+
+the tolerable pressures quoted in paragraph 1.2, the desired barrier
+
+strengths are 340 lbf per foot width and 230 lbf per foot width for the
+
+2 levels of tolerance.         Should the barrier spacing be less than the
+
+maximum recommended, the barrier strength may be reduced proportionately
+
+provided none is less than 206 lbf per foot width.       (This is the value
+
+quoted in the British Standards Code of Practice for barriers in
+
+buildings)•
+
+
+
+2.0    S0UR0ES OF INFORMATION
+
+       Research commissioned by Wheatley Inquiry
+
+       (i)   Measurements of required strength of crush barriers on terraces
+                                     'V
+             Home Office
+
+      (ii)   Tests to determine the forces tolerated by people when against
+
+             crush barriers — Department of Bio mechanics, University of
+
+             Surrey
+
+   (iii)     Measurements of crowd pressures generated at Liverpool Football
+
+             Club ground — Bingham Blades, & Partners, Consulting Structural
+
+             Engineers 1972
+
+      (iv)   Literature search for levels of force/pressure at which injury
+
+             occurs - Home Office.
+
+                                     2
+       Other Research
+
+        (y ) Measurements of required strength of crowd barriers (horizontal
+
+              only) - Ministry of Public Buildings and Works 1948
+
+       (Yi)   Measurements of crowd pressures generated at Everton Football
+
+              Club ground - Bingham Blades & Partners 1971
+
+      (rii)   Strength tests on crush barriers at a football club ground
+
+              Kingston Polytechnic 1971.
+
+
+3.0   MEASUREMENTS: OF CROWD PRESSURES THAT CAR BE GENERATED
+
+Measurements were made by the Home Office of the pressure that could be
+
+generated on the terraces during a match,        (reference paragraph 2.0).
+
+Thirty police cadets were used to simulate spectators. Two levels of
+ \
+force were defined - (a) 'lean', corresponding to spectators bearing on
+
+one another but exerting no additional force, and (b) 'push', as 'lean'
+
+but with the crowd exerting an additional force in order to see, but not
+
+pushing aggressively.     The cadets in varying numbers of rows were asked to
+
+'push' or 'lean' against a well padded test barrier attached to an existing
+
+crush barrier at a football ground.        The forces were measured using
+
+pressure gauges.     The experiments were carried out on 3 slopes of 0°, 15°»
+
+and 23^°.     It was considered that condition (b) 'push' corresponded
+
+to the state of the crowd in the "peak viewing areas" of the terraces
+
+ and that condition (a) 'lean' corresponded to the other areas.        Pressures
+
+of up to about 300-lbf per person were tolerated with some discomfort
+
+by the cadets for a few seconds.     Signs of considerable discomfort were
+
+shown for longer periods of time or for greater pressures.
+
+3.1    It was assumed that the force propagated do*m a slope would have
+
+2 components:      (i) the force measured with a slope of 0°, and (ii) a
+
+component proportional to the weight of the spectator and the size of
+
+the slope angle.     The following relationship was found to hold for the
+
+force per spectator.
+       P slope      =        Po + 84 sin Q
+
+ where P slope is force in lbf per spectator
+
+        Q is angle to horizontal of the slope
+
+        Po is the force per spectator when Q           =       0°
+ and    Po (push)       =    40 lbf and   Po (lean)    =       21 lbf.
+
+ However as the police cadets were above average weight, a normalising
+
+ factor is needed and the relationship becomes:
+
+        P slope     =       Po + 73.5*sin Q
+
+ where Po (push)        =     35.5 lbf and Po (lean)       =    18.5 lbf.
+
+ For example, using this relationship it can be calculated that 9 rov-s
+
+ of spectators all pushing on a 14° terrace will press the foreaost
+
+^spectator against the barrier with a force of 480 lbf (or 274 lbf per
+
+ foot width of barrier).
+
+ 3.2   The values for Q = 0° were in agreement, with si&ilar measurements
+
+ Bade in 1948 by the Ministry of Public Buildings and Works (reference
+
+ paragraph   2.0 (v)).          The force as a function of slope was not
+
+ measured on that occasion.
+
+ 4.0   MEASUREMENTS OF CROWD PRESSURES ACTUALLY GENERATED
+
+ Measurements were made at 2 football matches of the forces actually
+
+ exerted on a barrier.           The measurements using calibrated strain gauges
+
+ were made at 2 different grounds on barriers situated behind the
+
+ penalty box (reference paragraph 2.0 (iii) and (vi)),
+
+ 4.1   Match A.     Barrier spacing behind the test barrier varied from
+
+ 13’ to 25' and the terrace slope was 14° (1s4).                 Forces of 100 to
+
+  200 lbf per foot width ©f barrier were measured with occasional
+
+ peaks to 300 lbf per foot width.             The forces did not exceed 200 lbf per
+
+ foot width for 3 or more seconds.
+
+       Match B    Barrier spacing varied from 13*5' to 26' and the terrace
+
+ slope was 14°.         Forces of 100 to over 200 lbf per foot width were
+
+ measured with occasional values of 300 lbf per foot width.
+ 4.2    Neither match was crucial nor particularly exciting.   At the
+
+ second natch there were 14 casualties including a man with a
+
+ fractured leg and a boy with concussion.    Two experienced plain­
+
+ clothes oen wh© were stationed in the crowd stated that apprehension
+
+ and fear were generated by crowd movements and pressure, and that some
+
+ spectators stood back and braced themselves against the crowd pressure
+
+ with one foot on the barrier.
+
+
+  5.0   MEASUREMENTS ON HUMAN TOLERANCE TO CROWD PRESSURES
+
+ A series of measurements were made on men and women to determine
+
+  the maximum pressure which could be tolerated by a perscn when
+
+^-pressed against a crush barrier.   Each person while standing was
+
+ pressed against a steel tube located horizontally against various
+
+ positions in turn on his trunk.     The pressure was applied to him by
+
+ Beans of a pack frame on his back with various weights which forced
+
+ him ©n to the barrier.    Three subjective levels of discomfort were
+
+ defined and each person was asked to say when they were reached.
+
+ In particular the third level of discomfort was defined as that which
+
+ became intolerable after a few seconds.
+
+ For men (42 subjects) the height ef the barrier rail at which maximum
+
+ force could be tolerated was found to be 41?"» which corresponds well
+
+ with the usual barrier height of 42".     The mean value of this force
+
+ for men when passive was found to be 107 lbf and when they were
+
+ allowed to resist by pushing against the barrier was 179 lbf (with
+
+ a range of 98 to 233 lbf).    For the passive tests the force tolerated
+
+ was increased by a third to 140 lbf by substituting a 4" wide plank
+
+ for the steel tube.    The values in respect cf women were considerably
+
+ lower.
+ 5.1    It is felt that although the above results give an order of
+
+ magnitude of the tolerable force, the following comments could be made.
+       (i)   The maximum force tolerate.1 was clearly not at the threshold
+
+             of injury.
+
+      (ii)   Although the force was defined as being intolerable after a
+
+             few seconds, periods of surging and pushing in a crov;d on a
+
+             terrace may be more transient, and for these very short
+
+             periods greater forces can apparently be tolerated.
+
+     (iii)   Persons with lower levels of tolerance nay well be protected
+
+             by their stronger ‘companions.
+
+
+6.0    MEASUREMENTS OF BARRIER STRENGTH AT A FOOTBALL GROUFD
+
+A number of measurements were Bade of the strength of existing crush
+
+barriers at a London Football Club (reference paragraph 2.0 (yii)).
+V.
+
+
+In particular, tests were made on barriers in the same area and siailar
+
+t© a barrier which had collapsed during a match.      Three similar
+
+barriers failed at pressures of 260, 290 and 300 lbf per foot width.
+
+She distance to the next barrier abOTe the collapsed barrier varied
+
+from 10' to 22'.
+
+6.1     The consulting engineers recommended that crush barriers should
+
+be designed and checked to a significantly higher loading than 200 Ilf
+
+per foot width, and that no spacing between barriers should be greater
+
+than 12' and should be less on steep terraces.      They also recommended
+
+that for design purposes there was need to determine the lead which
+
+people can exert on barriers and the maximum pressure which the human
+
+body can bear without injury.
+
+7.0     OTHER MEDICAL E7IDEHCE FOR TEE LEVEL OF FORCE/PRESSURE AT WHICH
+
+        INJURY OCCURS.
+
+A search in medical papers for evidence ef the level of pressure at
+
+which injury occurs to the human body was undertaken by a Heme
+
+Office doctor (reference paragraph 2.0 (ir)).
+
+7.1    Among the information brought to notice by this search were
+
+2 cases of traumatic asphyxia where the pressures (as calculated by the
+weight of the objects causing the pressures) differed to a marked
+
+extent.    In the first case the pressure was 1400 pounds for a period
+
+of 15 seconds, and in the second case 300 pounds for seme 4 to 6
+
+minutes.   The reason for the difference in the pressures reported in
+
+these cases may be due to the 1400 pounds being far in excess of the
+
+minimum required to cause the fatality.    Certainly the amount and
+
+duration of the pressure in* the second case were similar to those
+
+reported at the Bolton Wanderers accident in 1946 where layers of 3 or
+
+4 bodies were sufficient to cause death by traumatic asphyxia.
+
+This evidence does indicate that if a barrier should collapse and people
+
+are piled on top of each other even for only a short tice, traumatic
+
+asphyxia is a definite hazard.
+
+7.2   The search disclosed no other information about injury to the
+
+body due to static forces, but did reveal that as far as dynamic forces
+
+are concerned the liver can be injured by impacts of 3-5 nph.    There
+
+was also brought to notice that bone finds increased strength when
+
+subjected to a dynamic as opposed to a static loading:    this may be
+
+the reason why larger forces of a transient nature, can be tolerated.
+
+
+8.    RECOMMENDED BARRIER STRENGTHS AND SPACINGS
+
+Spectators can be safeguarded .against injury from crowd pressures by
+
+the careful positioning of crush barriers of suitable design.    The
+
+barriers should never collapse under pressure and should be spaced
+
+to limit the number of spectators between 2 barriers so that their
+
+combined pressures can never be sufficient to cause injury.     For
+
+financial reasons there is need to determine the minimum adequate
+
+strength and the maximum acceptable spacing of barriers for this
+
+purpose*     The following summary of the infoxnaticn presented earlier
+
+in this paper provides the basis for the recommendations which have
+
+been made in this regard.
+8.1   The pressures which can be generated by spectators when they
+
+'lean' or 'push' on a terrace hare been measured (see paragraph 3).
+
+Per a 14° slope the 'lean' force per person was calculated to be
+
+36 lbf (or 20 lbf per foot width of barrier) and the 'push' to be
+
+53 lbf (or 30 lbf per foot width).
+
+8.2   Pressures measured on 14° slopes during 2 matches (see paragraph 4)
+
+were of the same order of magnitude, being 200 lbf per foot width as
+
+a regular occurrence for periods longer than 3 seconds, and with
+
+occasional   peaks of 300 lbf per foot width.   Although it was
+
+unlikely that all spectators were involved in exerting these pressures -
+
+the eatches were not considered to be exciting - the pressure that
+
+could hare been exerted by each of the persons in the 12 to 22 rows
+
+behind the barriers ranged from 17 to 9 lbf per fcot width (and 27
+
+to 14 lbf during the occasional peaks).     These figures are certainly
+
+of the same order of magnitude as those in paragraph 8.1).
+
+8.3   Further support to these figures is given by the deduced pressure
+
+of 260 to 300 lbf per foot width at which a barrier collapsed (see
+
+paragraph 6).   There were 9 to 19 rows of spectators behind the
+
+barrier and so the 260 represents a pressure per person of 29 to
+
+14 lbf per foot width and the 300 a pressure of 33 to 16 lbf per foot
+
+width.
+
+
+8.4   It is felt that the measurements mentioned in paragraph 8.1 are
+
+reasonable for calculating the maximum pressure that could be generated
+
+between 2 consecutive barriers up a terrace slope.    Furthermore, the
+
+'push' values should be used for 'peak viewing' areas and the 'lean*
+
+values for other areas.
+
+8.5   The measurements by the University of Surrey of pressures
+
+tolerated by the human body are surprisingly low'(see paragraph 5);
+
+the mean figure for men being 107 lbf when passive and 179 lbf when
+
+resisting by pushing against the barrier.    These figures are lower
+than the pressures of 200 lbf per foot width, with peaks to 300, which
+
+were recorded at a match (see paragraph 4);    but these pressures may
+
+have been exerted for shorter periods, and they did generate fear (and
+
+some injuries were in fact reported on that occasion).    The Surrey
+
+figures are also lower than the pressures of 300 lbf per person
+
+tolerated by police cadets (see paragraph 3) but in that case the
+
+barrier was well padded and .the cadets may have been prepared to
+
+tolerate more in the company of their colleagues.
+
+8.6.    Given the supporting evidence of paragraph 8.5, it is reasonable
+
+to use a figure ef 200 lbf per person (or 115 lbf per foot width) as
+
+the tolerable pressure for comfort and safety, and a figure of 300 lfcf
+
+per person (or 170 lbf per foot width) as the tolerable pressure for
+
+safety only.
+
+8.7    As mentioned in paragraphs 1.2 and 1.3 the "tolerable pressure" is
+
+half the "maximum pressure" and so the recommended einiaua strengths
+
+for barriers are 230 and 340 lbf per foot width when the barriers are
+
+spaced for "comfort and safety" and for "safety only" respectively.
+
+Should the space between 2 barriers be less than the maxih u h
+
+recommended, the strength of the front barrier may be reduced in
+
+proportion provided that none is less than 206 lbf per foot width.
+
+
+
+
+Eeme Office
+
+March 1973.
+

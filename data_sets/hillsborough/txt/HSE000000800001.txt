@@ -1,0 +1,2257 @@
+                        (            /
+                                         R ese a r c h and Laboratory
+  / \             Health&                S e r v i c e s Division
+                  Safety"                Broad Lane
+                                         S h e ffield S3 7 H Q
+  i— j            Executive              Telephone 0742 768141
+                                         Telex 54556 HSE RLS G
+                                         Facsimile 0742755792
+
+
+
+
+               ftiu r
+
+
+
+
+W ith t h e c o m p lim e n t s of               (\A C    C   J   V     O
+                                                         EA/89/1 H   *
+                                                         TS/89/1
+
+
+
+
+               THE INSTITUTION OF STRUCTURAL ENGINEERS
+
+
+
+
+                     LOAD TESTING OF STRUCTURES
+                                  AND
+                      STRUCTURAL COMPONENTS
+
+
+
+
+                       Revised draft for approval
+
+
+
+
+                     Report of an ad hoc Committee
+
+
+
+
+JANUARY 1989
+CONTENTS                                                          PAGE NO
+
+FOREWORD
+
+
+     SCOPE
+
+     1.1     G eneral                                                 2
+     1.2     L im itations of s ta t ic te s ts                       2
+
+
+     STATIC TESTS                                                     3
+
+     2.1     Reasons for te s tin g                                   3
+     2.2     Types of t e s t                                         4
+     2.3     R e -te s ts on modified s tru c tu re s                 5
+
+
+3    TEST REQUIREMENTS                                                 6
+
+     3.1     Introduction                                              6
+     3.2     Scope                                                     6
+     3.3     S ta tic behaviour                                        6
+     3.4     Dynamic behaviour                                         6
+     3.5     S tatic t e s t s on s tru c tu re s                      7
+     3.6     T est loads                                               7
+     3.7     Bedding-in loads                                          7
+     3.8     Testing for serv ice ab ility                             7
+     3.9     T esting for u ltim a te cap a city                       9
+     3.10    P ro to ty p e s and d ev elopm ent te stin g            11
+     3.11    Some fa c to r s t h a t may a f f e c t te stin g       12
+
+
+     MEASURES TO BE TAKEN BEFORE TESTING                              14
+
+     4.1     P rep aratio n                                           14
+     4.2     Survey of condition of s tr u c tu re                    14
+     4.3     E xpected behaviour of s tru c tu re                     15
+     4.4     T est a rra n g e m e n ts                               15
+
+
+     TESTING PROCEDURE                                                16
+
+     5.1     Method of load application                              16
+     5.2     O bservations during te s t                             17
+     5.3     M easurem ent of load                                   17
+     5.4     M easurem ent of s tra in and deduction of stress       18
+     5.5     M easurem ent of d e fo rm a tio n                      18
+     5.6     Inspection of te s te d s tru c tu re                   19
+     5.7     A ssessm ent of te s t                                  20
+     5.15    R eporting of te s t                                    20
+
+
+APPENDIX I. SOME CODE REQUIREMENTS
+
+APPENDIX II. SOME REFERENCES ON STRUCTURAL TESTING
+      CONSTITUTION OF AD HOC COMMITTEE
+
+
+
+Brian Simpson, CEng F IS tructE        C hairm an
+P rofessor E R Bryan, MSc DSc PhD CEng F IStructE FICE
+P S Bulson, DSc PhD CEng F IS tru ctE FIMechE
+E R Copage
+G Davison, BSc CEng M IStructE MICE ACIArb
+G J Edgell, PhD
+J F A Moore, MA BSc(Eng) ARSM DIC CEng M IStructE
+L 3 Morris, BSc(Eng) PhD ACGI DIC CEng F IS tructE
+P B R Johnson
+John Short, DIC CEng M IStructE
+M artin Silber, CEng F IS tructE FIAS ACIArb
+D Tordoff, BSc PhD CEng MICE MIHT MBIM
+A D Weller, CEng F IS tructE
+
+
+R J W Milne, BSc                       S e c re ta ry
+                                                 -   1   -
+
+
+
+
+FOREWORD
+
+
+The previous Institution re p o rt on load te s tin g of s tru c tu re s published in 1964
+was review ed by th e Science and R esearc h C o m m itte e of th e Institution who
+decided t h a t a revision was necessary to ta k e acc o u n t of changes to British
+Standards and Codes of P r a c tic e in th e la st 20 years.             Like its predecessor th is
+re p o rt is intended to give guidance to th e engineer called on to prescribe a te s t
+and to be a useful r e fe r e n c e when th e re le v a n t clauses of c u rre n t sp ecification s
+a r e reviewed.
+
+
+Covering a wide possible rang e of m a te ria ls, com ponents and s tru c tu re s th e
+advice contained in this re p o rt is gen era l in n a tu re .         In draftin g th e re p o rt th e
+c o m m itte e has aim ed it a t m em b ers of th e In stitution with general engineering
+knowledge and s tru c tu ra l engineering ex p erien ce but for whom te stin g is an
+unusual a c tiv ity . It is not intended to be a handbook for te stin g lab o raties.
+
+
+The te x t contains guidance and advice and does not give specific te stin g
+req u irem en ts.   In Appendix 1, som e of th e te s t req uirem ents in s tru c tu ra l codes
+presently c u r re n t a re sum m arised but th e a c tu a l codes should be consulted for
+d etailed and u p -to -d a te inform ation.
+
+
+Although load te stin g is described in this rep o rt, it should be seen as one of
+s everal     options    av ailable   for   d eterm in in g   p e rfo rm a n ce   of   s tru c tu re s   and
+s tr u c tu r a l com ponents.   O th er possible processes should be explored such as
+m a te ria l te stin g including N.O.T. and sampling techniques prior to any decision
+to«undertake load te stin g .
+
+
+Load te stin g s tru c tu re s and s tr u c tu r a l com ponents o fte n to failure requires c a re
+and fo rethought to a n tic ip a te and m inim ise th e e f f e c ts o f failure and th e
+a t te n d a n t risks of dam ag e and injury.
+
+
+
+
+DEFINITION
+
+For the purpose of this re p o rt th e following definition has been adopted:
+
+T est load             - th e load th a t is added to th e s tru c tu re to achieve th e to ta l
+                         load level ap p ro p ria te to a te s t
+                                                 - 2 -
+
+1      SCOPE
+
+1.1     G eneral
+
+S tru c tu re s to be te s te d a re of alm o st in finite v ariety . R ecom m endations in this
+r e p o r t a re th e r e fo r e s ta te d in te r m s as g en era l as possible, and they a re not
+intended to r e s tr i c t th e engineer's use of his d iscretion in any p a rtic u la r
+in sta n ce. It must also be realized t h a t th e recom m en dations can n o t override any
+m an dato ry re q u ire m e n t to which th e design or c o n stru ctio n of a s tr u c tu r e may
+be subject. Although th e reco m m en d atio n s a re in principle applicable to s ta tic
+t e s t s on m ost kinds of s tr u c tu re , th e re p o rt excludes consideration of
+re q u ire m e n ts p a rtic u la r to te s tin g bridges, liquid-containing s tru c tu re s,
+foundations and piles.                 The re p o rt does not deal specifically with te s ts on
+s tru c tu ra l models, nor w ith lab o rato ry te stin g of m a te ria ls. N either does th e
+re p o rt deal with dynam ic te stin g , for which specialist advice should be sought.
+
+T e sts considered in this re p o rt a re applicable mainly to new s tru c tu re s . When it
+is required to check th e loadbearing c a p a c ity of an old s tru c tu re , particu larly
+when its stre n g th depends on unusual s tru c tu ra l form s, it may be necessary for
+th e engineer to modify th e t e s t to suit p a rtic u la r c ircu m stan c es. A tte n tio n is
+draw n to a n o th e r Institution r e p o rt Appraisal of existing s tru c tu re s, which gives
+guidance on req u ire m en ts for load te s tin g existing s tru c tu re s .
+
+T ests will generally be u n d ertak en to d e m o n stra te t h a t a s tru c tu re and its
+com ponent p arts a re s a tis fa c to r y for th e ir intended purpose. This will e n ta il
+satisfying req u ire m en ts for both stre n g th and serv ice ab ility when th e y a re
+defined in re le v a n t Codes of P r a c tic e and Standards.
+
+1.2 Limitations of static tests
+
+S ta tic te s t s a re intended to d e m o n s tra te adequacy of a s tr u c tu re or its
+com po nents when loaded to th e level required to re p re s e n t to ta l fa c to re d loads
+a t th e u ltim a te lim it s t a t e . Such t e s t s may also reveal by m easu rem en ts of
+d isp la cem en ts and reco v e ry s a tis fa c tio n of a serv ice ab ility lim it s t a t e . S ta tic
+te s t s may not, how ever, rev ea l e f f e c ts of c ree p , b rittle n ess, environm ental
+changes in te m p e r a tu r e and hum idity or su sceptibility to flu c tu a tin g loads. The
+engineer may find it desirable to seek e x p e rt advice on th e se m a tte rs .
+
+1.3    Safety
+
+T esting requ ires th e application of loads g r e a te r th a n those e x p ec ted in service
+and th e hazards ass o c ia te d w ith such op eratio n s m ust be a p p re c ia te d . T esting
+a p p a ra tu s should be arran g e d and procedures ad opted to minimise dam age and to
+p rev en t injury to persons.
+                                               - 3 -
+
+2       STATIC TESTS
+2.1     Reasons for testing
+
+Although in th e norm al course of ev en ts s tru c tu re s designed to a u th o rita tiv e
+specificatio ns are not required to be te s te d , te s ts may becom e necessary in a
+number of c ircu m stan c es including th e following:
+
+        When safety and s ta b ility a re to be determ ined by ensuring th a t s tresses,
+        strains, displacem ents and deflection s, including distortions, do not exceed
+        p redeterm ined c r i te r ia , and th a t c o m p lete or p artial failure is to be
+        avoided.
+
+        Similarly, when serv ice ab ility and durability a re to be assured, by keeping
+        stresses, strain s, disp la cem en ts and deflections including distortions within
+        p red eterm in ed c r ite ria .
+
+        When it is necessary to d e te rm in e th e adequacy of a design to m e e t
+        intended c r ite r ia , or to optim ise a design.
+
+        When a s tru c tu re or p a rt of a s tr u c tu r e is not am enable to reliable
+        calculation
+
+        When a routine check or a random sam ple of a mass-produced s tru c tu re or
+        p a rt of a s tru c tu re is required.
+
+        When te sts a re required on sam ples, or in exceptional cases on all
+        s tru c tu ra l units produced, to assess th e qualities of units being put into
+        service. (These te s ts a re ap p ro p ria te for quality assurance schemes.)
+
+        When m a terials or design m ethods a re used o th e r than those of the r e le v a n t
+        sp ecificatio n or code of p ra c tic e .
+
+        When th e re is doubt or d isag ree m en t as to w hether th e s tru c tu re or some
+        p a rt of it com plies with re le v a n t design rules, or as to w heth er th e q uality
+        of m a te ria ls or workmanship is of th e required standard.
+
+        When it is proposed to im pose loads g r e a te r than, or d iffe re n t from , tho se
+        in the original design, and when it is n ecessary to verify th e c a p a c ity of th e
+        s tr u c tu re to sustain th e se d iff e r e n t loads.*
+
+      "i Whenever s tr u c tu r a l in te g rity is in doubt       or   suspect     becau se    of
+        .deterioration^ a c c id e n ta l dam age, or fire .*
+
+       When te s ts a re p repared to ad vance and increase knowledge, to fo rm u la te
+       design c r ite r ia , or to e v a lu a te o th e r f a c to rs being considered.
+
+
+
+
+*NB: In th e se last tw o c irc u m s ta n c e s re f e r e n c e should be made to th e Appraisal
+     of existing s tru c tu re s published by th e Institution of S tru c tu ra l Engineers,
+     July 1980 (see s e c tio n 4 . 2 'Testing').
+                                                 - if -
+
+2.2     Types of test
+
+The purposes of d if fe r e n t types of te s t which may be carried out a re described
+below.
+
+        T ests to d estru ctio n
+
+        T hese te s ts d e te rm in e th e u ltim a te s tre n g th of a s tru c tu re , and hence th e
+        load fa c to r th a t will resu lt from applying a given working load. Conversely
+        th e working load th a t will be perm issible with a given load fa c to r can be
+        determ ined.
+
+        During te s t s to destru ctio n , th e behaviour of th e s tr u c tu r e should be noted
+        a t loads rep resen tin g both s e rv ic e a b ility lim it s t a t e loads and u ltim a te
+        lim it s ta t e loads if th e se a re achieved befo re th e a c tu a l failure load.
+
+        S tru c tu ra l developm ent te s ts
+                                                                                              ♦
+
+
+       T ests c arried out on prototyp es, or on one or m ore s tru c tu re s of a new or
+       unproven design to d eterm in e th e adequacy of th a t design to m e et intended
+       serv ice ab ility re q u ire m e n ts or o ther c r i te r ia , as specified. These te s ts are
+       usually continued to d estru ctio n .
+
+       Any m argin betw ee n required applied load and failure may indicate over­
+       design or fu rth er developm ent p o te n tia l.
+
+       Q uality control te s ts
+
+       These te s t s a re perform ed on sam ples of s tr u c tu r e s or s tru c tu ra l units to
+       ensure t h a t th e ir quality conform s to th e sp ecificatio n s.
+
+       Such te s ts would be n o n -d estru ctiv e if c a rrie d out on every mass-produced
+       assem bly but may be d e s tr u c tiv e if c a rrie d out on a lim ited sam ple.
+
+       Site a c c e p ta n c e te s ts
+
+       The purpose of s ite a c c e p ta n c e te s t s is to check behaviour of a s tru c tu re or
+       p a rt of a s tr u c tu r e so as to assess its ad eq u a cy for service. The te s t load
+       can re p re s e n t known design working loads or, m ore usually, an overload to
+      >establish th a t th e re is an a d e q u a te m argin of s a fe ty under service loads.
+
+       A s tr u c tu r e can be te s te d to assess its ability to c a rry loads th a t may be
+       d iffe re n t from th o se for which it was originally designed.
+
+       When th e r e is a reason to believe t h a t th e re is an e x tr a c a p a c ity in the
+       stru c tu re a r e s tr ic te d overload may be cautiously applied to provide an
+       indication of th e m agnitude of this c a p a c ity .
+
+       If a s tr u c tu re fails to m e e t a c c e p ta n c e te s t req u ire m en ts in regard to
+       reco v e ry of shape a f t e r load rem oval, it may so m etim e s be a c c e p te d if it
+       m e e ts th e req u ire m en ts of a specified r e - t e s t .
+                                                -   5   -
+
+
+
+
+       R esearch te s ts
+
+       T ests on s tru c tu r e s or p a rts of s tr u c tu r e s may form p a rt of a program m e of
+       researc h into behaviour of s tru c tu re s and m a terials. Depending on th e
+       o b jects of th e researc h , add itional c r ite r ia may need to be ta k en into
+       acco u n t, but th e gen era l recom m end ations contained in this re p o rt will
+       probably apply to such te s ts .
+
+
+       O th er types of te stin g
+
+       A tte n tio n is draw n to th e possibility of isolating or rem oving com ponents
+       from a s tru c tu re , for te s tin g in controlled conditions. Such a procedure
+       may be less costly th an in situ te stin g .
+
+       Model te stin g and m a th e m a tic a l modelling a re not d e a lt with in this rep o rt,
+       but a tte n tio n is drawn to b e n e fits th a t they can yield, such as econom ies in
+       te stin g , and predicting behaviour under load.
+
+
+2.3    Re-tests on modified structures
+
+If any a lte ra tio n s a re proposed in a s tr u c tu r e as th e resu lt of a te s t, th e engineer
+will need to consider w hether such a lte ra tio n s n e c e s s ita te a t e s t on the modified
+s tru c tu re or w hether behaviour of th e s tr u c tu r e as originally te s te d can be
+regarded as indicative of th a t of th e a lte r e d s tru c tu r e . P articu la r a tte n tio n may
+need to be paid to any dam ag e t h a t m ight have o ccurred in th e firs t te s t.
+                                                  - 6 -
+
+ 3      TEST REQUIREMENTS
+ 3.1    Introduction
+
+ In general te s t req u ire m en ts of a s tru c tu re will be governed by provisions of a
+ re le v a n t Standard or Code of P ra c tic e . When th e engineer is em pow ered to use
+ his own d iscretion, or re le v a n t guidance is not available from Codes of P ra c tic e ,
+ reco m m endations in this section may be found to be useful.
+
+
+ 3.2    Scope
+
+ B efore an ap p ro p ria te te s t program m e can be defined it has to be decided
+ w hether th e response of th e s tru c tu r e to its load environm ent is likely to be
+ s t a t i c or dynam ic.
+
+ In re a lity all s tru c tu r e s and loads a re dynam ic in n atu re, and s ta tic response
+ s ta t e s are special cases within th e dynam ic s p e c tra . T here a re no simple c le a r -
+ c u t rules for distinguishing b etw een th e s e s ta te s for m ost s tru c tu re s and th e ir
+ loading.        However, for sim plicity, many s tr u c tu r e s and th e ir loading
+ en viro nm ents may be tr e a te d as s ta t ic conditions for both analysis and te stin g .
+
+ It is th e re fo r e im p o rta n t to define for p r a c tic a l purposes w hat may be considered
+ as s ta t ic or dynam ic behaviour and th e conditions in which such behaviour is
+ likely to occur so th a t th e engineer can decide how b e s t to fo rm u la te his t e s t
+ program m e.
+
+
+3.3    Static behaviour
+
+A s tr u c tu r e or p a rt of a s tru c tu re can be considered as behaving s ta tic a lly if its
+response to a p a rtic u la r loading can be p re d ic te d by considering th e m agnitude of
+th e loads, th e p ro p erties of m a te ria ls and th e g eo m etry of th e s tr u c tu r e alone,
+i.e. a s tr u c tu r e whose stiffn e ss rem ain s c o n s ta n t a t th e s ta tic value for th e range
+and type of loading it is subjected to and no sig n ifican t a m p lificatio n of th e
+s ta t ic response occurs b ecause of th e n a tu re of th e load environm ent.
+
+F or the m ajority of building and civil engineering s tru c tu r e s loads t h a t occur less
+freq uently than once an hour and a re applied over a period of m ore th a n 1 min
+will produce a s ta tic response. It is im p o rta n t th a t such loads should be applied
+a t a uniform r a t e if dynam ic e f f e c ts a r e to be avoided, since th e governing
+c r ite rio n for s tr u c tu ra l response is th e r a t e of loading.
+
+3A     Dynamic behaviour
+
+A s tr u c tu r e or p a rt of a s tru c tu re can be considered to behave dynam ically if its
+response to a load is am plified by th e n a tu re of th e load and thus exceeds th e
+s t a t i c response. Loads th a t induce dynam ic response a re those th a t have a
+frequency close to a natu ral frequency of th e s tr u c tu r e . Loads th a t a re applied
+a t a frequency t h a t is significantly lower than th e fu n d am en tal (lowest) n atu ral
+frequency will not induce a significant dynam ic response. Loads t h a t a re applied
+a t a frequency th a t is higher th an th e fu n d am en tal n a tu ra l frequency m ay e x c ite
+a higher freq u en cy m ode o f vibration. The fu n d am en tal freq u en cies of civil
+engineering s tru c tu r e s m ay be as low as 0.1 Hz for a la rg e suspension bridge or
+0.25 Hz for a ta ll building or may be higher th a n 100 Hz for som e
+                                                        - 7 -
+
+    building elem en ts. An a c c u r a te e s tim a te of th e fundam ental natu ral frequency
+    is th e r e f o re im p o rtan t. Types of s tr u c tu re , or p arts of a s tru c tu re , th a t may
+    exhibit a dynam ic response a re large can tilev ers, long span lightw eight
+    co n stru ctio n and ta ll or slender s tru c tu re s .
+
+    Testing recom m endations in this re p o rt apply only to circu m stan c es w here th e
+    loading produces a s t a t i c response in th e s tr u c tu r e or where dynam ic response is
+    insignificant.
+
+
+    3.5    S ta tic te s ts on s tr u c tu r e s
+
+    Subsections 3.8, 3.9 and 3.10 defin e some perfo rm a n ce envelopes for s ta tic
+    behaviour and specify ap p ro p ria te t e s t load regim es t h a t could be applied to
+    circ u m s ta n c e s com monly arising in th e work of th e engineer. It is im p o rtan t
+    th a t th e engineer should consider his specific req u irem en ts and define his own
+    p erfo rm a n ce envelopes. If th e s e d iffer from those th a t follow, t e s t req u ire m en ts
+    should be modified accordingly.
+
+
+    3.6    T e st loads
+
+    Where p art of a p erm an en t dead load (screeds, partitio n s, e tc.) or loads such as
+    those arising from plant and m achinery a re not p resen t a t th e tim e of th e t e s t it
+    may be necessary to m ake an a p p ro p ria te allow ance in th e te s t load.
+
+
+    3.7    Bedding-in loads
+
+^   For many types of c o n s tru c tio n it is desirable to bed-in th e s tr u c tu r e prior to
+    load te stin g .    The need for bedding-in loads will vary with th e type of
+    co n stru ctio n and s tr u c tu r a l m a te ria l. The o b je ct is to s e ttle th e s tr u c tu r e on its
+    supports and release any fric tio n a l re s tr a in ts or o th e r stresses th a t may have
+    been inco rporated during co n stru c tio n or m an u factu re .
+
+  The level of bedding-in load should be s u fficien t to deform th e s tr u c tu r e but
+ \5hould not exceed th e design se rv ic e load] or th e re-assessed serv ice load in
+  c ircu m stan c es w here d e te rio ra tio n has o ccu rred or th e s tr u c tu re is suspected of
+  containing a s tru c tu ra l d e f e c t.     The bedding-in load should be applied and
+  rem oved in a t le a s t1[fiyel in c re m e n ts with th e d eform ations being m onitored
+  during th e load cycle. The s tr u c t u r e can be considered to be s a tisfa c to rily
+  bedded-in when it has reco v e red to its original position fa 10%1 a f t e r a loading
+: cycle.
+
+    Bedding-in loads m ay not be necessary where isolated com ponents a re te s te d in
+    laborato ry conditions or w here th e r e is good control of load conditions and
+    assembly.
+
+
+    3.8    T esting fo r s e rv ic e a b ility
+
+           3.8.1           O bjectiv e
+
+           The purpose of this ty p e of te stin g is to establish if behaviour of the
+           s tr u c tu r e is likely to be s a tis f a c to r y for its purpose in serv ice . This t e s t
+           may be made in c irc u m s ta n c e s where design and c o n stru c tio n is
+          thought to be as originally intended but a change                      of use or o ther
+          req u ire m en t is necessary, where dam age has o ccu rred or        som e shortcom ing
+          has been incorporated into th e s tr u c tu re , w here               th e s tr u c tu r e is
+          d e te rio ra tin g , or where repairs have been c arried o ut to      a d e te rio ra te d or
+          d e f e c tiv e s tru c tu re .
+
+          3.8.2         C rite ria for load req u ire m en ts
+
+          C rite ria in serv ice are th e a c c e p ta b ility of long-term d eform ations under
+          th e p erm an en t dead load and defo rm a tio n s arising from s h o rt-te rm imposed
+          and wind loads, and the ability of th e s tr u c tu r e to c a r ry its full serv ice
+          loading safely.
+
+          3.8.3         T est loads
+
+      ff', The serv iceab ility te s t load will norm ally be specified in th e relevant
+         \ Codes of P r a c tic e and should be applied in 5 to 10 in c rem en ts. Each
+          \ in c re m e n t should be applied over a period of not less th an 1 min t<5 avoid
+           1shock or im p act e f f e c ts but should o therw ise a t te m p t to sim u late th e real
+           'build-up of load on th e s tr u c tu r e in service.
+
+         Whenever p ra c tic a l, th e distribution of load should be th e sam e as th e
+         w orst ca se assum ed in design unless th e reasons for te stin g req uire
+         particu lar em phasis to be placed on an o th er co n figuration of loading.
+
+         In general th e te s t load should be rem oved in th e sam e number of
+         d e c re m e n ts over a sim ilar period as was used in th e loading cycle.
+
+         Where th e t e s t load is not specified in th e re le v a n t Code of P ra c tic e or is
+         not applicable to th e p articu lar c irc u m s ta n c e s of th e s tr u c tu r e being
+         considered^; th e t e s t load may be chosen as th e maximum th e s tru c tu re
+  y      should sustain w ithout suffering p e rm a n e n t d efo rm a tio n or damage,' or
+         (0.25 x dead load* + 1.25 x imposed load), w hichever is th e less.
+
+         Although th e loading conditions being sim ulated will be tr e a te d in general
+         as s ta tic , it may not be ap p ro p ria te to use th e lo a d -te s t procedures in this
+         subsection in cases w here th e imposed load has a large tra n s ie n t com ponent
+         or w here fa tig u e is a likely          mode of failu re.         Insuch cases, it may be
+         n ecessary to establish th e c h a ra c te ris tic s of th e load in order to devise a
+         su ita b le te s t load regim e.
+
+         3.8.4         M easurem ents and observations
+
+         S ufficient m easu rem en ts of d e fle c tio n should be ta k en to enable th e
+         m aximum d e fle c tio n and th e d e fle c te d shape of th e s tru c tu r e to be
+         d eterm in ed .
+
+
+
+
+* This assum es th a t th e s tr u c tu r e or p art of th e s tr u c tu r e under t e s t is already
+su b jec ted to full dead load. If this is not th e c a s e th e t e s t load must ta k e
+a c c o u n t of th e deficiency.
+                                                 - 9 -
+
+3.8.5C rite ria for com pliance
+                                                                                                            V
+
+
+       Provided t h a t th e s tr u c tu r e has been bedded-down c o rre c tly prior to \
+       testing, it should show no significant signs of p erm anent defo rm a tio n or \
+       dam age a f te r th e te s t-lo a d cycle. This may be assumed to have been i
+       d em o n strated if th e following conditions a re m et:
+
+                 th e maximum d e fle c tio n recorded does not exceed t h a t given in th e
+                 re le v a n t Code of P ra c tic e or th a t specified for th e s tr u c tu r e (For
+                 stiff s tr u c tu re s having sm all d eflectio n this req u ire m en t may be
+                 replaced by one giving a lower p e rc e n ta g e recovery.)
+
+                 existing cracking and d e fo rm a tio n            a re   shown     not    to   ex ten d
+                 significantly during th e te s t
+
+                 th e s tr u c tu r e shows no o th e r signs of distress as a resu lt of th e te s t
+                 cycle.
+
+      3.8.6      Non-com pliance
+
+      In cases of non-com pliance, re f e re n c e to Codes of P ra c tic e may sug gest
+      th a t retestin g is ap p ro p ria te or th a t th e re is a need for an a lte rn a tiv e t e s t
+      b efo re th e s tr u c tu r e can be deem ed to be s a tisfa c to ry for its purpose.
+      A lternativ ely som e lim itatio n may be put on th e use of th e s tru c tu re .
+
+
+3.9   Testing for u ltim a te c a p a c ity
+
+      3.9.1      O bjective
+
+      The purpose of this te s t may be to:
+
+                establish th e failu re load of th e s tr u c tu r e
+
+                show t h a t th e s tr u c t u r e will support th e design load ap p ro p ria te to
+                th e u ltim a te lim it s t a t e .
+
+                d e m o n s tra te th e load c a p a c ity and th e mode of failure
+
+                d e m o n stra te d e fo rm a tio n c h a r a c te ris tic s up to th e design load
+                a p p ro p ria te to th e u ltim a te lim it s ta t e
+
+                d e m o n s tra te com prehensively behaviour of th e s tru c tu r e up to th e
+                design load ap p ro p ria te to th e u ltim a te lim it s t a t e w ith an
+                assessm en t of th e d efo rm a tio n s
+
+                d e m o n s tra te th e dam ag e th a t is sustained by th e s tr u c tu r e up to
+                failure.
+
+      T hese objectives may be m e t using a basic procedure adapted in d e ta il to
+      suit th e p a rtic u la r re q u ire m e n t. The main em phasis in this t e s t is on load
+      cap a city and q u a lita tiv e info rm atio n regarding d e fo rm a tio n c h a r a c te ris tic s
+      of th e s tru c tu re .
+
+      The aim of q u a n tita tiv e d a ta co llection should                be    to   monitor      th e
+      d eform ation behaviour of th e s tru c tu re under t e s t .
+                                        - 10 -
+
+Some circu m stan c es in which te s ts may be applicable are:
+
+          when a batch of com ponents or p a rt of a s tr u c tu r e is believed to be
+          substandard in a way th a t is d ifficu lt to assess by o ther means (e.g.
+          poor bond of re in fo rc e m e n t in c o n c re te construction)
+
+           w here load cap a city and u ltim a te d eflectio n s or deform ations             of
+           th e s tr u c tu r e a re im p o rta n t to th e way in which th e s tru c tu re    is
+           used (e.g. w here bearings or fixings have lim ited m ovem ent                     or
+           where la te ra l bracing by o th e r m em bers may be invalidated                  by
+           excessive d eflectio n of th e main s tru c tu re )
+
+           as p a rt of a pro to ty p e developm ent program m e
+
+           w here consequences of a c c id e n ta l dam age are required to be
+           investigated.
+
+3.9.2     C rite r ia for load req u ire m en ts
+
+In many instances these re q u ire m e n ts may be m ore com plicated than in
+serv iceab ility testing, since dead and imposed loads will be fa c to re d
+d iffe re n tly , and o ther com binations of dead and imposed load may be
+required to produce w orst load envelope. C onsideration should be given to
+th e m ost adverse com bination of dead and imposed loads.
+
+3.9.3     Test loads
+
+Values of fa c to re d loads will norm ally be specified in th e re le v a n t Code of
+P ra c tic e from which th e m ost adverse com binations for th e p articu lar
+s tr u c tu r e can be d eterm in ed .
+
+A number of load com binations may be required to produce ap p ro p ria te
+lim iting conditions for flexure, sh e a r and torsion. In cases w here sp ecial
+in fo rm ation is required on eac h ty p e of behaviour a number of s e p a ra te
+te s ts should be carried out.
+
+If th e load in service is not s ta tic th e n c a r e should be ta k en to ensure th a t
+th e q u a si-sta tic t e s t load is chosen c o rre c tly .
+
+Few s tru c tu re s should fail a t th e design load ap p ro p ria te to th e u ltim a te
+lim it s ta t e , although some may be perm an en tly deform ed. If th e t e s t is to
+be c arried through to failure, additional loading should be applied a t the
+engineer's d iscretion .
+
+3.9.4     M easurem ents and observations
+
+M easurem ents of d eflectio n should be ta k en a t s u fficien t locations to
+enable maximum deflectio n and d e fle c te d shape of th e s tr u c tu r e to be
+d eterm in ed . D eform ation m e asu re m en ts are required to establish th e load
+a t which th e s tru c tu re c ea se s to behave e lastic ally and to monitor non­
+linear behaviour. It should be a n tic ip a te d th a t th e range of d e fo rm a tio n
+t h a t is to be m easured is likely to be well in excess of deform ations
+norm ally enco u n tered in service.
+                                               -11 -
+
+      During th e . te s t , w herever practica b le, any cracks or existing d e fe c ts
+      should be m onitored during th e loading cycle. As th e load approaches th e
+      maximum value, p a rtic u la r a tte n tio n should be paid to support conditions
+      of th e s tru c tu r e and to behaviour of any la te ra l or secondary bracing
+      p resen t.
+
+      Any physical changes during th e te s t th a t a f f e c t stiffn ess of th e s tr u c tu r e
+      such as debonding of floor screeds should be noted.
+
+     If failu re occurs and is du ctile in c h a ra c te r, it may be possible to record
+     th e sequence of events as failure approaches. Where failure is likely to be
+     sudden or w here id e n tificatio n of th e mode of failure is specifically
+     required, a video recording system could be a useful additional aid since
+     sev eral locations can be m onitored and a recording of th e sequence of
+     ev ents may be slowed down and reviewed.
+
+      3.9.5     C r ite r ia for com pliance
+
+     It may be concluded t h a t s tru c tu ra l adequacy in re la tio n to th e load
+     a p p ro p ria te to th e u ltim a te lim it s t a t e has been d em o n stra te d if th e
+     following conditions a re m et:
+
+     (a)        th e s tr u c tu r e does not fail under th e worst com bination of loading
+
+     (b)        any p a rtia l failu re th a t may occur within th e s tru c tu ra l system
+                does not a f f e c t overall ability of th e s tru c tu re to support a load
+                ap p ro p ria te to th e u ltim a te lim it s t a t e and does not put a t risk
+                th e s a f e ty of occupants or users of th e s tru c tu re
+
+     (c)        no unforeseen gross m ovem ents occur th a t might im pair th e
+                function of o th e r p a rts of th e s tr u c tu r e or th e ir supports.
+
+
+3.10 Prototypes and development testing
+
+     3.10.1     O bjectives
+
+     The purpose of this ty p e of te stin g is to improve a product beyond th e point
+     a t which calcu latio n s can be used to p redict p erfo rm a n ce, or to c o m p are
+     a c tu a l p e rfo rm a n c e w ith th a t predicted by d iff e re n t c alcu la tio n
+     procedures.
+
+     3.10.2     C r ite r ia for load req u irem en ts
+
+     T est-load req u ire m en ts should re f le c t as far as possible th e re q u ire m e n ts
+     of th e s tr u c tu r e in service.            This will norm ally involve te stin g for
+     serv ice ab ility , u ltim a te c a p a c ity and s tr u c tu ra l behaviour.
+
+     G eneralized minimum stan d a rd s for these te s ts will norm ally be given in
+     th e re le v a n t Code of P ra c tic e or by specification. It is im p o rta n t to
+     consider the proposed application of th e s tr u c tu r e to identify any loading
+     cases not included in re le v a n t standards or specifications.
+
+    P a rtia l loading should be considered if this is likely to a rise in p r a c tic e
+    even if it is not d e a lt w ith in th e re le v a n t Code.
+                                            - 12 -
+
+      It is im p o rta n t for s tr u c tu r e s developed and justified through te stin g th a t
+      th e sp ecificatio n for p e rfo rm a n ce is d etailed and co m p lete and th a t te s t
+      re q u ire m e n ts chosen a re fully re p re s e n ta tiv e of all conditions to be
+      enco u n tered in p ra c tic e .
+
+      3.10.3     M easurem ents and observation
+
+     M easurem ents and observation should be a t le a st as com prehensive as those
+     given in th e subsections on serv iceab ility and u ltim a te load te stin g . In
+     many cases, additional inform ation will be required to define more closely
+     s tr u c tu r a l behaviour both a t specified locations within th e s tr u c tu r e and in
+     te rm s of overall p erfo rm a n ce.
+
+     As a g eneral principle, sim plicity is to be p referred to com plexity since it
+     is b e t t e r to make a few c ritic a l m e asu re m en ts th an to make many sim ilar
+     m e asu re m en ts most of which may not add sub stantially to th e inform ation
+     concerning s tr u c tu r a l behaviour.
+
+     3.10.4      C r ite r ia for com pliance
+
+     T here a re two asp ects of com pliance:
+
+     (a)        to ensure th a t th e p e rfo rm a n ce sp ecification or req u irem en ts are
+                a d e q u a te to define s tr u c tu ra l p e rfo rm a n ce in service.
+
+     (b)        to ensure th a t th e s tr u c tu r e does in f a c t comply in all resp ects
+                with th a t sp ecification.
+
+
+3.11 Some factors that may affect testing
+
+     3.11.1     Load sharing in floors and roofs
+
+     In most types of floors and roofs dispersion of load (i.e. load sharing)
+     b etw ee n a d ja c e n t com ponents occurs. In s tru c tu re s designed to span in one
+     d ire ctio n only, lim ited tw o-w ay spanning a c tio n occurs as a re s u lt of
+     la te r a l con nections b etw ee n main com ponents and th e geo m etry and edge
+     fixity conditions of th e co nstruction.
+
+     The overall e f f e c t of this is th a t when a point or line load is placed on a
+     single com ponent, load sharing occurs b etw een a d ja c e n t com ponents, and
+     th e s tre n g th of several of the com ponents may be com bined to support th e
+     applied load. In order to ensure th a t th e section of floor or roof being
+     te s te d is being loaded in acc o rd an ce with th e intentions of th e te s t, th e se
+     e f f e c ts must be allowed for or rem oved.          The m ost c e rta in way of
+     rem oving th e se e f f e c ts is to isolate physically th e p art of the s tr u c tu r e
+     being te s te d and to load th e isolated a re a . However, this is unlikely to be
+     p ra c tic a b le in most in stan ces and where th e r e is continuity may be
+     undesirable. Such isolation should only be considered w here th e re is no
+     s tr u c tu r a l con tin uity.
+
+     A p ra c tic a l a lte rn a tiv e is to load an a r e a of th e c o m p le te floor or roof
+     using a loaded width a t le ast equal to th e span of th e sectio n being te s te d .
+     If such an a r e a is loaded w ith th e full t e s t load, th e c e n tre of th e loaded
+     a r e a will as a rule be carryin g its intended t e s t load.
+                                         - 13 -
+
+A nother approach is to apply th e load te s t to an individual com ponent, to
+a t te m p t to d e te rm in e load-sharing c h a ra c te ris tic s of th e s tr u c tu re and to
+co m p en sate for th e se in th e te s t program m e.
+
+An ap p ro x im ate e s tim a te of th e se c h a ra c te ris tic s may be obtained by using
+a rolling load to obtain th e in situ stiffn ess of each com ponent in th e floor
+or roof. D eflections of a d ja c e n t p arts of th e s tru c tu re to t h a t being te ste d
+may then be m easured, and from th e in situ lo a d /d eflectio n c h a ra c te ris tic s ,
+an e s tim a te of load d istribution within th e floor or roof may be made.
+
+As loads in c rease th e load distribution c h a ra c te ris tic s of th e s tru c tu re may
+change. T h e re fo re this tech n iq u e may be useful only up to a load level
+ap p ro p ria te to th e serv ice ab ility lim it s ta te .
+
+3.11.2     T e m p e ra tu re m ovem ents
+
+Some s tr u c tu r e s will d eform considerably because of                        d iffe re n tia l
+te m p e ra tu r e e f f e c ts across th e constructio n, e.g. roofs.              D eflec tio n
+m easu rem en ts ta k e n during th e te s t may contain elem en ts of            te m p e ra tu r e
+d eflectio n , and if th e r e a re changes in conditions on e ith e r             side of th e
+e le m e n ts during th e te s t , th e se e f f e c ts will need to be allowed   for.
+
+One way of taking acc o u n t of th e se e f f e c ts is to monitor m ovem ents of th e
+s tr u c tu r e in re la tio n to te m p e r a tu r e changes several days prior to load
+te stin g to establish a 'fo o tp rin t' of m ovem ent with d iffe re n tia l te m p e r a tu r e
+readings. The s am e te m p e r a tu r e m easurem ents can then be ta k en during
+th e t e s t , and if changes of te m p e r a tu r e occur, te m p e ra tu re -in d u c e d
+deflectio n s can be d ed ucted from th e to ta l readings taken.
+
+3.11.3     T e m po rary supports and s a fe ty s tru c tu re s
+
+Any s a f e ty s tr u c t u r e e r e c te d to support th e load in th e e v e n t of failure
+during a te s t should be cap a b le of supporting a t le a s t tw ice th e sum of the
+to ta l load of th e co n stru c tio n and its te s t load or ancillary equipm ent. This
+assum es th a t th e s a fe ty s tr u c t u r e will be very close to th e s tru c tu re being
+te ste d so t h a t in th e e v e n t of failu re im pact e ff e c ts are minimized.
+
+In complying with th e s e req u ire m en ts, it has to be borne in mind t h a t a
+space m ust be le f t to enable th e s tru c tu re to d e fle c t freely during te stin g .
+When te stin g for u ltim a te c a p a c ity w here deflections a re likely to be large,
+it may be advisable to have rem o vable blocks th a t can be progressively
+ta k en out by re m o te m eans as th e te s t proceeds.
+                                               -14 -
+
+4     MEASURES TO BE TAKEN BEFORE TESTING
+
+4.1    Preparation
+
+Load te stin g is p o tentially hazardous. C a re must be ta k en to minimise dam age
+and to p rev en t injury. Application of loads in excess of tho se to be m et in
+se rv ic e may produce unexpected results and th e failure of s tru c tu re s or
+com ponents under load can release stored energy suddenly. When planning a
+t e s t , it is w orth considering th e options available for applying loads or
+d isp la cem en ts and th e d iffe re n t behaviour of th e t e s t piece a t failure th a t
+d if fe r e n t m ethods of load application produce. W hether th e m a te ria l is ductile
+or b rittle will influence this choice.
+
+Dead loads applied by sandbags, w a te r tanks e t c can be e ff e c tiv e and relatively
+cheap but c a re is n ecessary to lim it th e re lease of p o te n tia l energy on failure of
+th e te s t piece. Jack s can o fte n provide an in c re m e n ta l loading system with the
+option of an in c re m e n ta l d isplacem ent. This can be useful when te sting du ctile
+m a te ria ls beyond th e ir ela s tic range. Screw jacks may be m ore suitable than
+hydraulic jacks when in c re m e n ta l displacem ents a re adopted.
+
+F ailure loads should be p red icted as far as possible from th e m a te ria l stren g th s
+of th e s tr u c t u r e or com ponent before te stin g but th e s e predictions may be wrong
+and should only be ta k e n as a guide to a n tic ip a te d perfo m a n ce under te s t . The
+u n ex p ected can and does happen.
+
+In preparing a s tr u c t u r e for te s t it m ust be a s c e rta in e d th a t th e ap p ro p riate
+conditions o b tain. With c o n c re te , masonry or o th e r m a te ria l with age-depend ent
+p ro p e rtie s , th e proper period of tim e for ageing m ust elapse in ap p ro p riate
+conditions of te m p e r a tu r e and humidity b efo re te stin g .
+
+If th e t e s t is in s itu , p recau tio n s ag ainst th e w eath e r may be necessary. Even
+when th e te s t is indoors, sunshine may cause undesirable e f f e c ts with a s tru c tu r e
+t h a t is p a rtic u la rly sen sitiv e to te m p e r a tu r e changes.
+
+In all load te s ts th e r e a r e likely to be som e hazards to persons involved with th e
+t e s t and so m etim e s to th e public. A tte n tio n is draw n to th e need to observe
+s ta tu to r y req u ire m e n ts relatin g to health and s a fe ty and to th e responsibility of
+em ployers and em ployees to ta k e reasonable ca re .
+
+Supports should usually be provided just below th e s tr u c tu r e or load to prev en t a
+dangerous collapse, and in any case prior co n sid eratio n should be given to sa fe ty
+of personnel in th e e v e n t of a collapse, w h eth er e x p e c te d or not.
+
+
+4.2   Survey of condition of structure
+
+The s tr u c t u r e should be care fu lly exam ined for d e fe c ts of m a te ria l or assembly
+b e fo re, during and a f t e r load te stin g .
+
+D e fe c ts existing prior to te stin g may lead to untypical behaviour. They should
+be recorded and drawn to th e a tte n tio n of th e eng ineer. Whether d e fe c ts should
+be re c tifie d b efo re proceeding w ith th e te s t is a m a tte r th a t will depend on the
+p a rtic u la r circ u m s ta n c e s ; in a routine t e s t of a s tru c tu ra l m em ber it may be
+desirable to deal w ith th e m em ber e x a c tly as it is supplied, while if a c c e p ta n c e
+of a single large s tr u c tu r e is in question it may be ap p ro p ria te to modify or
+re p a ir it prior to te stin g .
+                                             -   15   -
+
+
+
+
+Among d e fe c ts may be spalled, crac k ed or broken c o n c re te ; splintered, r o tte n or
+c rac k ed tim b er; bent, corro ded or o th e rw ise dam aged m etal; im p e r fe c t or
+missing fasten e rs; d e fe c tiv e masonry; and poor, broken or crac k ed welds.
+
+4.3 Expected behaviour of structure
+
+In general, s tru c tu re s should not be te s te d w ithout th e engineer having
+d e term in ed th e likely mode of failu re and calcu la ted th e e x p e c te d
+lo a d /d eflectio n curve. Where previous ex p erien ce is available this would be
+useful for determ ining such d eflectio n s and u ltim a te load. In th e case of s ta t ic
+te s t s this enables load in c re m e n ts to be defined which ensure th a t a d eq u a te
+inform atio n is c o llected so t h a t th e load a t which e lastic behaviour ceases or a t
+which failure occurs may be closely defined. Where th e failu re load is d iffic u lt
+to e s tim a te a c c u ra te ly , possibly b ecause Code of P ra c tic e provisions a re not
+re le v a n t and th e re a re no previous te s t s to re fe r to, care fu l consideration should
+be given to th e likely behaviour of th e s tr u c tu re and to th e number of in c re m e n ts
+(or d ecrem en ts) of th e load.
+
+P relim inary low load te s ts may be useful in confirm ing w hether th e assum ed
+behaviour is re alistic; th e y may also help identify th e most useful locations for
+in stru m en ta tio n , c a m e ra s , e t c .
+
+For reasons of s a fe ty an d /o r to p rev en t dam age to equipm ent it may n ot be
+a p p ro p ria te to ta k e all m e a s u re m e n ts on or close to th e s tru c tu re .
+
+
+4.4   Test arrangements
+
+Measuring equipm ent should be s u fficien tly sensitive to record m easu re m en ts
+ex p ec ted , i.e. th e m axim um load a tta in e d should preferably be re g iste re d
+b etw een 50-70% of th e range of th e equipm ent.                 The equ ipm en t should be
+ca lib ra te d prior to and p re fe ra b ly a f t e r th e te s t.
+
+Load should be applied w ith o u t shock or vibration and should be increased to th e
+steady r a t e t h a t is co n tro lled by a load p a c e r or o th e r m achine. Where m achines
+w ith load platens a re used th e s e should be f la t and able to r o ta te , preferab ly on a
+ball seating, prior to load ap p licatio n in ord er to ac c o m m o d a te uneveness.
+
+No p a rt of th e support for th e loading a rra n g e m e n t should red u ce in any way th e
+load being applied to th e s tr u c t u r e . P a rtic u la r c a re needs to be ta k en w ith
+purpose-built rigs to ensure th a t th ey provide reac tio n s to loads th a t have
+ad eq u a te stiffness and sta b ility .
+
+On c e rta in s tru c tu re s, m e a su re m e n ts t h a t would normally be made manually
+could distrub o th e r recording devices, and consideration should be given to using
+re m o te m ethods of m e a su re m e n t, which also have th e ad v an tag e of s a fe r
+working. W herever possible d e fle c tio n m easu re m en ts with re sp e c t to supports
+should be made from a c o m p letely independent fram ew ork.
+                                                - 16 -
+
+5      TESTING PROCEDURE
+ 5.1   Method of load application
+
+T e st loading should be both applied and resiste d in a m anner sim ulating as
+a c c u ra te ly as is reasonable and p ra c tic a b le th e actu al serv ice conditions.
+L a te r a l support to p arts in com pression should also re p re se n t service conditions
+a c c u ra te ly . In a d v e rte n t e c c e n tric itie s should be avoided a t points of loading and
+re a c tio n , and c a re should be ta k en to ensure th a t no in a d v erten t re s tra in ts a re
+p re s e n t. Where it is clear th a t th e re is div ergence from serv ice conditions,
+e ith e r in loading or in re s tra in t, due allow ance for it should be made by th e
+en gineer.
+
+When dead weights, such as sandbags, bricks or iron weights, a r e used, they
+should be applied in such a m anner as to avoid the possibility of arching; hanging
+weights should be sim ilarly s e p a ra te d so th a t one does not influence another. If
+loose sand or o th e r sim ilar su bstance is used as loading, c are is needed to avoid
+non-uniform ity of a c tio n arising from fric tio n or cohesion within th e m ass.'
+
+An a lte r n a tiv e for applying a d istrib u ted load is th e use of a ir /w a te r bags; also
+th e red u ctio n of atm o sp h eric pressure on one side of th e e le m e n t/s tr u c tu re being
+te s te d has th e sam e e f f e c t as d ire c t application of distributed dead w eights.
+When th e load is applied via th e se m eans through a series of manifolds c a re
+needs to be ta k e n to ensure t h a t th e loading is d istributed as specified by having
+an a d e q u a te number of m a n o m eters. The to t a l load should be m easured by load
+cells. The re a c tio n to a ir /w a te r bags may in c e rta in circu m stan c es need to be
+provided by part of th e s tr u c tu re under te s t, and due allow ance m ust be made for
+this.
+
+It is so m etim e s possible to apply load to one p a rt of a s tr u c tu r e by means of
+springs or o th e r straining system s, th e re a c tio n to th e se loads being sustained by
+som e o th e r p a rt of th e sam e s tru c tu re . Such m ethods should be tr e a te d with
+reserv atio n on th e grounds th a t th e y a re unlikely to sim u late th e load condition
+being in v e stig ated . When such m ethods a r e used, c a r e should be taken to ensure
+t h a t any d e fo rm a tio n in th e s tr u c tu r e resulting from th e se re a c tio n forces does
+not influence th e behaviour of th e part under te s t . Similar system s may also be
+used for applying la te r a l loads to s tru c tu re s , th e re a c tio n being undertaken on
+an o th e r s tr u c tu r e or ground fixings.            It should be noted th a t dead load
+re p re s e n ta tio n through independent jacks or sim ilar system s could e ffe c tiv e ly
+s tiff e n th e s tru c tu r e .
+
+Loads should be applied gently so as to avoid im pact, and a t such a speed and in
+such a p a t te r n as to avoid un in ten tio n al local over-loading d e trim e n ta l to th e
+s tr u c t u r e . Subsequent rem oval of load should be e ff e c te d with equal ca re . If the
+lo a d /d e fle c tio n relationship is required a f t e r th e maximum load has been passed,
+s tra in or d e fo rm a tio n con trolled loading by, for exam ple, screw jacks may be
+a p p ro p ria te . It is im p o rta n t to en sure t h a t loads and in stru m en ta tio n can follow
+th e m ovem ent of th e s tr u c tu r e being te s te d w ithout in terruption or abnorm al
+re s tr a in t.
+                                               - 17 -
+
+The ra te of loading will be governed by consideration of in-service conditions
+which th e te s t will s im u late and by o th e r fa c to rs such as th e m ethod of loading,
+th e kind and size of dead w eights available (when used) and th e am ount of
+inform ation which it is hoped to obtain from th e te s t. In m ost te s ts , w hether for
+a c c e p ta n c e or to d e stru c tio n , it will be desirable to apply imposed loads in a
+series of increm ents, and to rem o v e it by decre m en ts, so th a t a continuous
+picture may be o btained of th e p erfo rm a n ce of th e s tru c tu re . The engineer
+should proceed with cau tio n during th e t e s t and be prepared to reduce th e
+m agnitude and r a te of app lication of th e increm ent in th e la te r stages of th e
+t e s t . If it is known prior to th e t e s t t h a t th e s tru c tu re will behave approxim ately
+linearly up to th e maximum te s t load then it is suggested t h a t betw een five and
+te n regular load in c rem en ts be used. Where non-linear behaviour is e x p ec ted or
+experienced then more in c re m e n ts may be necessary.
+
+
+5.2 Observations during test
+
+Where p ractica b le, crac k s an d /o r locations showing signs of previous m ovem ent
+should be m onitored during loading and unloading cycles. If as a result of th e
+loading or unloading cycles th e re has been a significant increase in th e
+m agnitude or ra te of cracking or o th e r d eform ation when th e s tru c tu re has co m e
+to re st, co nsideratio n should be given to re te stin g to d e te rm in e if th e e f f e c ts are
+likely to be cum ulative with additional loading cycles.
+
+The incidence and d ev elo p m en t of d e fe c ts during th e te s t should be noted a t
+each in c rem en t of loading and d e c re m e n t of unloading. C racks in c o n c re te or
+masonry should be m easured with a hand m icroscope with ey e -p ie c e scale or with
+a special crack -m easu rin g rule; s u rface tr e a tm e n t, e.g. with w hitew ash, or
+b r ittle lacquer, is helpful. C racks in welds may be m ore readily identified by an
+o il-an d -talc tech niqu e or by a p e n e tra tin g dye which may be flu o rescen t. If a
+crac k appears in a weld during th e loading sequence th en an appraisal should be
+made of the possibility of weld failure and its consequential e f f e c t on th e
+s tru c tu re b efo re th e loading seq uence proceeds fu rth er.
+
+The use of still or cine photography and video recordings can be useful. It is
+helpful if th e load and t e s t id e n tific a tio n code can be indicated in th e
+photographic record or in any asso c ia te d co m m en tary .
+
+
+5.3   M easurem ent of load
+
+A ccuracy o f load -m e asu re m en t is im p o rtan t. With dead w eights such as sand or
+bricks, inaccuracy may arise from v ariation s in size or from change of m o istu re
+c o n te n t. It should be noted t h a t iron w eights, billets and tanks of w ater do not
+suffer from this disadv antage.
+
+M easurem ent of th e {force e x e rte d by a hydraulic ram or jack cannot be assessed
+sufficiently a c c u r a t e l y T ^ m e a n s of a pressure gauge, unless th e system has been
+calib rated . It is b e t te r to use a c a lib ra te d load cell or proving ring in series with
+th e jack. If p ra c tic a b le , th e to t a l load on a ir /w a te r bags should be m easured by
+load cells a t re a c tio n points ra th e r th an depend on m e asu re m en t of fluid
+pressure.
+ Where th e req u ire m en ts for load te stin g a re defined in codes and standards, th e
+ load fa c to rs and numbers of te s ts will be p re d e te rm in e d to achieve a meaningful
+ resu lt. O utside th e req u irm en ts of such codes and standards th e s ta tis tic a l
+ significance of th e results of te stin g should be considered, p articularly if only
+ one te s t is undertaken.
+
+ In te stin g for u ltim a te c ap a city , it is im p o rta n t t h a t th e distribution and
+ configuration of th e te s t load is as near as possible to th a t assumed in design.
+ The ap p ro p ria te load c a p a c ity should be d e te rm in e d by considering:
+
+        th e maximum load th e s tr u c tu r e is required to c a rry in service, i.e. th e
+        design load ap p ro p ria te to th e serv iceab ility lim it s ta t e
+
+        th e probability of exceeding th e serv ice ab ility load
+
+        th e variability of th e s tre n g th of m a te ria ls in th e s tru c tu re
+
+        th e variab ility of th e stre n g th of th e s tru c tu re being te s te d
+
+        th e consequences of failure of th e s tru c tu re .
+
+When the m aximum te s t load has been applied, readings of load and/or deflection
+should be m onitored a t intervals until th e s tr u c tu r e has for all p ra c tic a l purposes
+co m e to re s t.       A ction may be n ece ssary to m ain ta in th e maximum load.
+R eadings should then be ta k e n during th e unloading cycle a t similar load
+d e c re m e n ts to those on th e loading curve. The final reading should be taken
+when th e s tr u c tu r e has com e to re s t a t th e end of th e unloading cycle.
+
+Although in general it is recom m ended t h a t a c c u ra c y of loading and of load
+m e asu re m en t be controlled to within + 2%, in som e circu m stan c es (e.g.
+prototypes) an a cc u racy within + 5% is a c c e p ta b le .
+
+
+5 A     M easu rem ent of s tra in and d ed u ctio n of s tre s s
+
+C alcu latio n of s tre ss from stra in m e a su re m e n ts is usually unnecessary in
+a c c e p ta n c e te stin g of ordinary s tr u c tu re s , b u t th e r e a re occasions when it may
+be required, m ore usually in asso ciatio n with a d e s tru c tio n te s t , in order to
+o b ta in p recise inform ation. It is beyond th e scope of this re p o rt to re fe r in
+d e ta il to th e m u ltitu d e of e x p e rim e n ta l m ethods t h a t exist. The advice is,
+how ever, pro ferred th a t many of them a re com plex both in operation and in
+in te rp r e ta tio n , so th a t th e ir use should not be a tte m p te d unless th e necessary
+e x p e rtis e is available. B rittle lacqu er or w hitew ash techniques a re useful to
+establish zones of high stress c o n c e n tra tio n w ith out becom ing involved in
+d e ta ile d assessm ent of stress.
+
+
+5.5   M easu rem ent of d e fo rm a tio n
+
+The d e fo rm a tio n m e a s u re m e n t m ost com m only required in te s ts of stru c tu re s is
+t h a t of d eflectio n in th e dire ctio n of th e applied loading. To en sure acc u racy ,
+co m pensation m ust be made for any m o v e m en t of supports. When te s ts continue
+over an ex tended period, c a r e m ust be ta k e n to ensure t h a t measuring devices
+a r e not disturbed and th a t p e rm a n e n t datum re fe re n c e s a re available for
+checking. Measuring devices should w herever possible be m ounted independently
+o f th e s tru c tu re being te ste d ;       if this is not possible, th en th ey should be
+                                                  - 19 -
+
+positioned on a p a rt of th e s tr u c tu r e where m ovem ent is insignificant re la tiv e to
+th a t of in te re s t.   If it is necessary to co m p en sate for te m p e ra tu re -in d u c e d
+e f f e c ts (see subsection 3.11) su fficien t te m p e r a tu re readings should be ta k e n
+during loading and unloading cycles to enable th e deflectio n arising from
+te m p e ra tu r e changes to be d eterm in ed .
+
+Similar gauges fixed to id e n tic al but unloaded elem en ts                 can be used to
+co m pensate for variations in te m p e r a tu r e and humidity.
+
+
+D eflections a t each in c re m e n t of load should be recorded and plo tted and th e
+behaviour of th e s tr u c tu re review ed during th e t e s t . C are should be ta k en to
+ensure th a t th e s tr u c tu r e com es to re s t b efore th e n ext load in c rem en t is__
+applied. The next in c re m e n t of load should never be applied b efo re plotting the; h
+reading from th e previous in c re m e n t - a u to m a tic recording of results via an x-y
+p lo tte r or a visual display un it is useful in this re s p e c t. This is necessary in case,
+th e engineer has to am end im m ed iate ly th e te s t program m e as a result of any?
+abnorm al behaviour. Such a curve will serve as a check against m istakes and wills
+show up any irre g u la ritie s in th e behaviour of th e s tru c tu re and so enablej
+particu lar weaknesses to be in v estig ated as th e te s t progresses. •                       U-
+
+If deflectio ns a t a c o n s ta n t load occur over a significant period, th e te s t should
+be te rm in a te d and th e s tr u c tu r e considered to be a t u ltim a te lim it s ta te .
+
+If th e s tr u c tu r e has not been loaded to failure, readings of d eflectio n s may be
+ta k en on th e unloading cycle, th e final readings being taken when th e s tru c tu re
+has for all p ra c tic a l purposes co m e to re s t a f t e r all th e te s t load has been
+rem oved.
+
+O ther deform ations t h a t m ay be of significance in assessing th e stre n g th of a
+s tru c tu re are those arising from form s of com pression instability - sideways
+bowing, tw isting and local buckling, th e l a t t e r p articu larly in re s p e c t to thin-
+p la te elem en ts - and also m o v e m en t and/or distortion of joints and fa s te n e rs.
+The incidence of any of th e se should be noted and its progress recorded
+throughout th e te s t . As a s tr u c tu r e nears failure th e length of th e tim e ta k e n to
+read manually a num ber of dial gauges can give misleading resu lts. T h e re fo re,
+th e use of a u to m a tic recording devices, such as linear tran sducers and
+datalogg ers, is strongly recom m ended.              In c e rta in m e tal s tru c tu re s where
+developm ent of p la stic strain s can be e x p ec ted , it may be useful to em ploy a
+m eans such as a s tra in -se n s itiv e lacquer for th e ir id e n tificatio n and ex am in ation.
+
+The point a t which c o n tro l of defo rm a tio n ra th e r than control of load becom es
+th e te s t crite rio n should be noted.
+
+
+5.6   Inspection of te s t e d s tr u c t u r e
+
+A fter te stin g has been co m p le te d , th e s tru c tu re should be re-exam ined
+thoroughly having due reg ard to s a fe ty , and all p erm an en t d e f e c ts recorded as
+noted in subsections 5.7 and 5.8.
+                                               - 20 -
+
+5.7    Assessment of test
+
+A q u a lita tiv e assessm ent of a te s t , as well as th e num erical results, is most
+im p o rta n t. Observing a te s t gives th e engineer a 'feeling' for th e behaviour of a \
+s tr u c tu r e which cannot be expressed easily just in te r m s of num erical results. It {
+is only from a te s t to failure th a t th e real mode of failure and tr u e cap a city of a :,j
+s tr u c tu r e can be determ in ed .
+
+
+5.8    Reporting of test
+
+Testing of a s tru c tu re cannot be said to be co m p leted until th e resu lt has been
+properly rep o rte d , th e e x te n t and d e ta il of th e re p o rt depending on th e aim s of
+th e te s t.
+
+A re p o rt on a ro utine con trol t e s t (subsection 2.2) will usually reco rd m erely th e
+load, th e d eflectio n , th e am ount of recovery on rem oving th e load, and w hether
+d e fe c ts app ear during th e te sts; it will o fte n be convenient to use a simple form
+recording th e se .
+
+R e p o rts on te s ts for o th e r reasons (subsection 2.2) may vary g re a tly in scope,
+ranging from a full-scale laboratory re p o rt with tables, graphs, drawings,
+photographic evidence and inform ed co m m en t on behaviour, to a b rie fe r
+do cum ent recording m erely salien t fe a tu re s of p erfo rm a n ce.
+
+In every re p o rt it is desirable to re f e r to conditions in which th e te s t took place
+and to p recise loadings, tim es, defo rm a tio n s and reco v e ries. Behaviour t h a t is
+not understood (p articularly if to ta lly unexp ected) should be highlighted in th e
+re p o rt. Every re p o rt should bear th e d a te of th e t e s t and be signed by th e
+en gineer in ch arg e of th e te s t.
+
+Where te s t s a re c arried out on p ro to ty p es of s tr u c tu r e s not am enable to
+c a lcu la tio n , or when th e m a terials or design m ethods a r e not those of re le v a n t
+sp e c ific a tio n or code, c o m p lete records of th e p ro to ty p e te s te d should be kep t so
+th a t it can be estab lished th a t th e a c tu a l s tr u c tu r e is identical with th e
+p ro to ty p e te s te d . T hese records should include d e ta ile d drawings and a d etailed
+descrip tion of th e behaviour of th e s tr u c tu r e under te s t .
+C.       Site Acceptance Tests (structure is unique - as found)
+
+
+M aterial        C ode or                  B e d d in g - in                     S e r v i c e a b i f i t y / D e f 1e c t i o n   S tre n g th                                    A c ce p ta n ce C riteria                                           Rem arks
+of s tru c tu re Specification
+                                           Pre-load            D uration         Load                              D uration        Load                     D uration              D eflection            S tre n g th   Recovery        O ther
+
+
+RC pre-             BS 8110                                                       < 1 x CDL                       A pplied                                                          a s d esig n S                        75% RC          C racking
+stressed            P t 2: 1985                                                   + 1 .2 5 CLL                    tw ice                                                                                                    P /s (3)      a s d esig n
+concrete                                                       norm ally         C D L + 1 . 2 5 C1L               3rd 24 h rs                                                                                            85% p r e s t
+                                                                  or             1 . 1 2 5(C D L + C 1 L )        o p tim al                                                                                                  ( 1) ( 2)
+
+C oncrete           AC1 318                DL                  48 h rs                                                              0 .8 5 (1 .4 D L         24 h r s               < l 2/2 0 0 0 0        n o vis f a i l u r e
+                    1986                                                                                                            + 1 . 7 LL)                                     > "                      then           75%
+
+C oncrete           E u r o c o d e No 2   1 a m u n c l e a r if a s t r u c t u r a l a c c e p t a n c e t e s t is a v a i l a b l e ,   ( a s o p po se d t o m a t e r i a l a c c e p t a n c e )
+
+I n d iv id u a l   BS 8110                                                      < 1 x CDL                A pplied                  to fa ilu re                                    a s D es.S             exceed          75%            C racking
+precast             P t 2 : 1985                                                 + 1 x CLL                ttwwiiccee                                                                                       design                         a s d esig n
+conc units                                                     n o rm ally       C D L + 1 . 2 5 C1L                                                                                                       by a t          85%
+                                                                                 1 . 125( C D L + C L L )                                                                                                  l e a s t 5%
+
+S teel              E u r c o d e No 3     S ee c o d e c l 8 . 4 .       Is a s u m m a r y p r a c t i c a l ?
+
+Steel               BS 5950                >unfactored not
+                    P t 1: 1985            loads       spec
+
+M a so nry                                 Not n o r m a l l y u n d e r t a k e n
+
+T im be r           BS 5268                S t r e n g t h f a c t o r s in c o d e n o t a p p r o p r i a t e t o s i t e a c c e p t a n c e t e s t s . Such t e s t s s e l d o m r e q u i r e d a s t i m b e r can be
+                    P t 2: 1984            v isu a lly e v a lu a te d .        T h e d e f l e c t i o n t e s t c l 6 1 . 3 m a y b e u se d b u t t h i s d o e s n o t i n c l u d e a n o v e r l o a d .
+
+                                           D es.L              15 min                                                               DL + WL x                   increm ental         not                                   95%                           Static
+A lum inium         C P 118
+                    1969                                                                                                            1 . 2 5 + l L x l . 5 15 min f i n a l           excessive
+                    It                                                                                                              30 r e p i t i t i o n s o f s e q u e n c e                                                                         F a t i g u e f a c t o r s v a r y w i t h no s o f tests
+                                                                                  1} x DL +                         30 min          2 x DL +                    30 m in              not                   survive 1       As r e q
+                    1SE r e p o r t
+                                                                                  1} x 1L                                           2 x 1L                                           excessive                             by Eng
+                    1962
+ A P PENDIX 1.                SOME C O D E RE Q U IR E M E N T S
+
+ This t a b l e is        h   sum m ary o n ly .    T e s t s m u s t b e c o n d u c t e d in a c c o r d a n c e w i t h t h e f u l l d e t a i l s o f a r e l e v a n t c o d e w h e r e a p p r o p r i a t e
+
+
+ A.      S tru c tu ra l D evelo p m en t T ests (P ro to ty p e te s ts )
+
+
+ M aterial          C ode or                   B e d d in g -in                      S erviceability/D eflection                      Strength                                         A c c e p ta n ce C riteria                                                 R em arks
+ of s tr u c tu r e S pecification
+                                               P re-load          Duration           Load                         Duration            Load                      D uration              D eflection          S tre n g th     Recovery        O ther
+
+ T im b e r          BS 5268                   DL                 30 m ins           Des L                       24 h rs              *2 t o 2 . 5 x            15 mins                > 0 .8 x             S u rv i v a l   n o t sin c e
+ Plyw ood            P t 2: 1984                                                                                                                                                                                                                                  * 2 . 5 f o r 1 s a m p l e , 2 for 5 o r m ore
+                                                                                                                                      D e s .L or to                                                                         1952 co d e
+                                                                                                                                                                                                                                              a o t- 3            tests
+                                                                                                                                      fai l u r e                                                                                            •C £a S£ .O
+                                                                                                                                                                                                                                                       c
+                     tt                                                                                                                                                                                                                      «*-«     t/i   yj
+T em pered                                     tt                 tt                 tt                          tt
+                                                                                                                                                                                                                                              0) 0) c o 2
+                                                                                                                                      *K71 x D e s . L          Increm ental          > K72 x                                -                ° C bo-a «
+hardboard                                                                                                                                                                                                                                                         * fo r 1 t e s t .       For > 1 te s t see c l 62.4
+                                                                                                                                                                                      D es.S                                                  « ^ '3 'c °
+T im ber           BS 5268                     tt                 tt                 tt                          tt
+                                                                                                                                                                                                                                             «.sl 2,-g
+                                                                                                                                      K73 x D e s . L           15 m ins              >0.0024 x S "                          -
+trussed            P t 3* 1985                                                                                                                                                                                                                                   * v a r i e s w ith n u m b e r s o f t e s t s = P t 2
+rafters                                                                                                                                                                                                                                                          code.        A c c e p t a n c e f a c t o r s fo r a l l t h e s e
+                                                                                                                                                                                                                                                                 t i m b e r s t r u c t u r e s a r e b a s e d on t h e
+T im b e r         BS 5268                     1 . 5 kN /m        5 mins             vert plus                  see Code                                                                                                                                         p ro to ty p e being s e l e c t e d to r ep re sen t (as
+                                                                                                                                     S ee c o d e ,             im p ractica 1        C o n s i d e r e d an i m p r o v e m e n t on
+w all              Pt 6                        run                                   racking                    4 cycles                                                                                                                                         f a r a s p o s s i b l e ) t h e w o r s t m a t e r i a l an d
+                                                                                                                                     sum m ary                                        ASTM or F P R L m e t h o d s
+fram es                                        v ertica 1                                                                                                                                                                                                        workm anship of the fu tu re production
+                                                                                                                                                                                                                                                                 sp e cifica tio n
+Maso nry           BS 5628                    A p p en dix A c l A2 p r o v i d e s a m e t h o d o f d e t e r m i n i n g t h e c h a r a c t e r i s t i c c o m p r e s s i v e s t r e n g t h f o r m a s o n r y fi< fro m
+                   P t 1: 1978                the u l t i m a t e s tr e n g th o f brickw ork or b lo c k w o rk p a n e l s ap p ro x 1 .5 m x 2 .5 m x 0 . 1 2 5 m J m in. cross s e c . a r e a .                                                            B ricks a nd b l o c k s f o r t e s t p a n e l s t o be
+                                              This t e s t w a s o r i g i n a l l y in C P 111 T h e s t r u c t u r a l u se o f l o a d b e a r i n g w a l l s (n o w c a n c e l l e d ) a n d w a s use d fo r                                             r e p r e s e n t a t i v e o f t h o s e t o b e use d in
+                                              d e v e lo p m e n t of new w a ll m a te r ia ls in c . i . e . no -fin es c o n c re te .                                                                                                                        a c tu a l stru ctu res.             D u p l i c a t e t e s t s on
+                                                                                                                                                                                                                                                                 n o m . id en tica l p a n e ls required.
+S teel             E urcode No. 3              S ee c o d e .     Is a s u m m a r y p r a c t i c a l ?    S teelw o rk m em ber to h e lp ?
+                                                                                                                                                                                                                                                                 F a c t o r s v a r y w ith n u m b e r o f t e s t s
+S teel             BS 5950
+                   P t 1: 1985
+
+C oncrete          BS 8110                     c l 9 . 1 ( b ) s t a t e s th a t Section 9 m ay not be s u ita b le for d e v e lo p m e n t te s tin g o f p r o to ty p e s tr u c tu r e s a s 8
+                                                                                                                                                                                                    i b as is
+                   P t 2: 1985                 for d esign.
+
+C oncrete          E u r o c o d e No 2
+
+
+K ey t o S y m b o l s :                      D ead Load                            DL                          I m p o sed Load                               1L                     D e s i g n . Load                     D es.L
+                                              Des ign S pec                         D es.S                      Liv e Load                                     LL                     Wind Load                              WL
+                                              Span                                  S                           C h aracteristic                               C
+ B.      Q uality C ontrol Tests (m ainly for factory production)
+
+
+ M aterial          Code or                    B e d d in g - in                 S erviceability/D eflection                 S trength                                    A cce p ta n ce C riteria
+ of s tr u c tu r e Specification                                                                                                                                                                                                                 R em arks
+                                               P r e - 1o ad       D uration     L oad                   D uration           Load                    D u r a tio n
+
+ T im b e r          BS 5268
+                                           ) C la u s e s a r e as for s tr u c tu r a l d e v e lo p m e n t te s ts . S a m p l e s a r e t o be w o r s t o f b a t c h o r d e l i v e r y on t h e b a s i s if
+ plyw ood            Pt 2                    the w orst e x a m p l e s can be s e l e c t e d and pass a t e s t then th e o th e r s a r e s a tis f a c to r y .
+T em pered           tl
+                                           j s t r e n g t h F a c t o r s K73   1   test  2.25
+hardboard                                                                                                                   If s a m p l e s a r e d r a w n a t r a n d o m f ro m p r o d u c t i o n K73 f a c t o r s
+                                           >                                     2         2 .30                            w o u ld n e e d to be in crease d to say
+                                           )                                     3         2.15
+T im ber             Pt   6                                                                                                 No o f t e s t s         1           2         3           4          5
+                                           >                                     4         2 .05
+w all
+                                           )                                     5 or more 2.00
+fram es                                    )                                                                                ( V=0. 1 5 )       K73   3                                            2 .5
+                                           )                                                                                                                                                                                w h e r e V is t h e v a r i a b i l i t y o f t h a t p o p u l a t i o n
+T ru s se d         Pt 3                   )                                                                                (V = 0.25)         K75   5                                            4
+rafters                                    )                                                                                                                                                                                t h i s is n o t in p r e s e n t rev isio n o f code
+
+C o n crete         BS 8110                )
+                    P t 2 : 1985           )
+                                           )                                                                                                                                                                                                     QC n o r m a 11 y by c u b e t e s t s e t c no t
+C oncrete           II                     )     C la u s e s are as for site a c c e p ta n c e te s ts                                                                                                                                         load te s ts se e cl 9 .4
+lndiv p r e c a s t                        )
+u nits                                     )                                                                                                                                                                                                    see cl 9 .6 for sa m p lin g e t c .
+
+S teel              BS 5950
+                    P t 1 : 1985
+
+S teel              E u r o c o d e No 3
+ APPENDIX n. SOME REFERENCES ON STRUCTURAL TESTING
+
+ General
+
+ The In stitution of S tru c tu ra l Engineers. A prraisal of existing s tru c tu re s. July 1980.
+
+ The In stitution of S tru c tu ra l Engineers. T esting of s tru c tu re s . S eptem ber 1964.
+
+ G uidance for load te s ts of buildings.          N FitzSim ons and A Longinow.           Proceedings
+ ASCE, Vol 101, No ST7, July 1975.
+
+ Load te s ts of building s tru c tu re s.     R Bares and N FitzSim ons.         Proceedings ASCE,
+ Vol 101, No ST5, May 1975.
+
+ S tru c tu ra l assessm ent based on full and large scale te stin g .           J o in t B R E /IS tructE
+ sem inar 6-8 April 1987.
+
+ Bibliography. R e fe r in te r alia Librarians, Institutions of S tru c tu ra l or Civil Engineers.
+ A m erican S ociety of Civil Engineers.
+
+
+Concrete structures
+
+BS 8110: P t 2: 1985 British S tandard. S tru c tu ra l use of co n c re te P t 2. Code of p ra c tic e
+for special circu m stan c es. Section 9. Appraisal and te stin g of s tr u c tu r e s and
+com ponents during constru ction.
+
+ACI 318-83. A m erican co n c re te in s titu te . Building code req u ire m en ts for rein fo rc ed
+c o n c re te . P a r t 6. C h ap ter 20. S tren g th evaluation of existing s tr u c tu r e s and
+co m m en tary .
+
+Load te stin g o f c o n c re te building s tr u c tu re s . J B Menzies.
+
+The p r a c tic a l a s p e c ts of load te stin g . D S Jones, C W Oliver. The S tru c tu ra l Engineer,
+D ecem ber 1978, No 12, Vol 56A, pp347-356. Discussion, Vol 58A, No 8, August 1980,
+pp 251-253.
+
+Load te stin g of in situ rein fo rc ed c o n c re te s tru c tu re s . G F Blackledge. Symposium
+on co n c re te quality, 10-12 N ovem ber 1964. Eurocode No 2. Comm on unified rules
+for c o n c re te s tru c tu re s .
+
+Bibliography. R e fe r C em en t and C o n c re te A ssociation.            C o n c re te Society, ACI,
+IStructE, ICE, ASCE (Extensive individual tests).
+
+Steel structures
+
+BS 5950: P t 1: 1985. British S tan dard . S tru c tu ra l use o f steelw ork in building. Code
+of p ra c tic e for design in simple and continuous co nstruction: hot rolled sections.
+Section 7. Loading te s ts .
+
+Eurocode No 3. Com m on unified rules for s te e l s tru c tu re s .
+
+Bibliography r e f e r
+
+
+Timber structures
+
+BS 5268: P t 2: 1984. British Standard. S tru c tu ra l use of tim b er. P t 2. Code of
+p ra c tic e for perm issible stress design, m a te ria ls and workm anship. Section 8. Testing.
+
+BS 5268: P t 3: 1985. S tru c tu ra l use of tim b er.         P t 3. Code of p ra c tic e for trussed
+r a f t e r roofs. Section 8. Load te stin g .
+ \
+BS 5268: P t 6. For la te r publication. Code of p r a c tic e for tim b e r fram e wall design.
+Section 1. Buildings not exceeding th re e storeys. BSI d r a f t 86/13188 for public
+co m m en t. Section 4. Load te stin g .
+
+Eurocode 5. Comm on unified rules for tim b e r s tru c tu re s. Annex 9. Testing of tim b e r
+s tru c tu re s.
+
+BSI D ocum ent 83/15284. Second re p o rt of CSB/39/9 on load te stin g of tim b e r
+s tru c tu re s, and fifith d r a ft Philosophy of load te sting of tim b e r s tru c tu re s.
+
+T est loads for proof and p ro to ty p e te s tin g of tim ber s tru c tu re s. R H L e ic e s te r CSIRO
+Melbourne. IUFRO Madison 1971.
+
+Bibliography. R e fe r Tim ber R e se a rc h & D evelopm ent A ssociation, Stocking Lane,
+Hughenden Valley, High Wycombe, Bucks HP14 4ND (Extensive lite r a tu r e on te stin g
+wall, floor, roof built-up s tr u c tu r a l com ponents also a few com plete tim b e r
+stru c tu re s.)
+
+
+Masonry structures
+
+BS 5628: P t 1: 1978. British Standard. Code of p ra c tic e for use of masonry. P t
+1. S tru c tu ra l use of unreinforced masonry. Appendix A. Testing. Section A2.
+E xperim ental d ete rm in a tio n of c h a r a c te r is tic com pressive stren g th of masonry.
+
+Bibliography. R e fe r to
+(There have been a lot of re s e a rc h type te s ts , v ertical, tra n sv erse and racking on
+masonry panels).
+
+Aluminium structures
+
+CP 118: 1969. British S tandard Code of p ra c tic e .          The s tr u c tu ra l use of alum inium .
+Section5. Testing.
+
+
+Other structures
+
+Load te stin g of s tr u c tu re s in glass, G RP, GRC and the like a re not covered by British
+Standards. R e fe r to sta n d a rd te x t books.
+
+
+Wind loading
+
+BS *449(59) and CP 112 (1952) included fa c to rs for wind loading. C u rre n t codes do
+not deal with load te s tin g under com bined actions. R e fe r e.g. The designer's guide
+to wind loading of building s tru c tu re s . P ts 1, 2 and 3. N J Cook. BRE. B u tterw o rth s.
+
+
+Vibration blast of seismic loading
+
+R esearch type te s tin g is norm ally undertaken. Such loadings being much g r e a te r
+than norm al dead and imposed loads a re generally th e su bject of s e p a ra te load te s ts
+(if any). No re fe re n c e s to te s tin g under combined a c tio n s (com binations of te s t
+a c c e p ta n c e factors).
+The Institution of Structural Engineers
+
+
+MAY 1989
+
+
+
+
+Safety considerations for
+
+The design and erection of
+demountable grandstands
+
+
+
+
+Published by the Institution of Structural Engineers
+Contents
+
+
+
+Scope                                           5
+ 1 Analytical procedures and assumptions
+   adopted during design                        6
+
+ 2 Design                                       7
+   2.1 General                                  7
+   2.2 Loading                                  7
+   2.3 U ltim ate limit states                  7
+   2.4 Design strength                          7
+   2.5 Factored load                            7
+ 3 Proof loading tests                          8
+   3.1 G eneral                                 8
+   3.2 Test conditions                          8
+   3.3 Loading                                  8
+   3.4 Acceptance test                          8
+   3.5 Strength test                            8
+   3.6 Test to failure                          8
+ 4 Stand occupancy, usage and means of access    9
+   4.1 Stand seating                             9
+   4.2 Sightlines                                9
+   4.3 Ingress considerations                    9
+   4.4 Egress requirem ents                      9
+   4.5 Exit doors                                9
+   4.6 Stand access and evacuation               9
+   4.7 B alustrading and handrails              10
+   4.8 Stairways and ramps                      10
+   4.9 Voids and additional structures          10
+   4.10 Licensing                               10
+ 5 Ground conditions — foundation design
+   assumptions                                  11
+   5.1 G eneral                                 11
+   5.2 Perm anent bases                         11
+   5.3 Common ground bases                      11
+   5.4 Assessment of ground conditions          11
+   5.5 Allowable bearing pressures              11
+
+  6 Dynamic response                            12
+  7 Growth of imperfections because of
+    repeated use                                13
+    7.1 G eneral                                13
+    7.2 Scaffolding components                  13
+  8 Work on site                                13
+    8.1 Inspection by contractor                13
+    8.2 Assembly                                13
+  9 Inspection                                  14
+ 10 Guardrails and toeboards                    14
+ 11 Non-slip surfacing of walkways              15
+ 12 Contractural and insurance considerations   15
+    12.1 Contractural considerations            15
+    12.2 Insurance                              15
+     References                                 16
+
+
+
+                                                     3
+ IStructE report: Demountable grandstands
+Scope
+
+
+
+This document draws together information1’2’3 that a chartered engineer should be
+aware of when designing or analysing demountable spectator stands.
+   In the context of this document, demountable stands are considered to be
+structures assembled from suitably connected single and/or part-assembled
+components supporting a level or stepped platform. In general it is expected that they
+will not be in a position for periods longer than one m onth and that after dismantling
+the constituent parts will be reused many times. It is assumed that they will have to
+conform with Building Regulations A l , A2 and A3 and B1 and B3.4
+   Much of the material is naturally common to the design of all stands whether
+perm anent or demountable. Special emphasis is however placed on those items that
+are likely to be of greater importance in the design of demountable stands. It
+concerns:
+  stand occupancy, access and egress
+  loading
+  foundation design assumptions
+  analytical procedures and
+  inspection responsibilities
+  It should also prove helpful when assisting his client to draw up the brief before
+going out to tender. A clear brief to the supplier is essential to avoid
+misunderstanding later.
+
+
+
+
+ IStructE report: Demountable grandstands
+1                   Analytical procedures and assumptions
+                                    adopted during design
+
+
+
+                                                                        principal structure assemblies currently in use. Local and
+The structures under consideration are generally lattice
+                                                                        overall stability should be considered. Individual com­
+s tr u c tu r e s a n d c o n ta in la rg e n u m b e rs o f com m on
+                                                                        pression m em ber strength depends on the length between
+structural elements. Although a high degree of indeterm i­
+                                                                        points o f lateral re strain t, end fixity, continuity and
+nacy exists, skeletal fram e analysis is eminently suited to
+                                                                        straightness, and the m anner in which connections trans­
+so lu tio n by g enerally available co m p u ter program s.
+Second-order analysis may be desirable in the absence of                fer their loads. Few of these are known with certainty.
+                                                                           Consideration should be given to secondary stresses
+proof-loading tests (see subsection 3.1).                               arising from the eccentricity of connections, elastic defor­
+    C are m ust be exercised in providing the acceptable
+                                                                        mation of the structure, rigidity of joints and slackness of
+m athem atical model. Fig. 1 shows the cross-sections of
+                                                                        fit. W hen values can be established for any of these
+                                                                        characteristics, such values should bemused in calculations.
+                                                                           Overall stability can be assured by providing adequate
+                                                                        strength in the structure to resist sway since grandstands
+                                                                        are subjected to large horizontal forces arising from the
+                                                                        movem ent of spectators. The structure should therefore
+                                                                        be designed to accommodate a horizontal force equal to
+                                                                        5% of the vertical imposed load in addition to the wind
+                                                                        load.
+                                                                            Stability against overturning will depend on the selt-
+                                                                        weight of the structure, to gether with any additional
+                                (a)                                      anchorage or restraint that may be provided. Equally, the
+                                                                         design should be such that locally imposed loading will not
+                                                                         cause any part of the structure to lift. Then, under the
+                                                                         worst possible loading combination, the righting mom ent
+                                                                         should be not less than 1.5 x the overturning m oment.
+                                                                            The designer should check that disproportionate col­
+                                                                         lapse will not occur if a specified num ber of secondary
+                                                                         com ponents should be om itted or removed. Similarly, the
+                                                                         design should provide for a redistribution of load in the
+                                                                         event of local dam age arising from passing vehicular
+                                                                         traffic unless steps are taken to avoid this possibility.
+                                                                            Periodic forces may arise because of gusting wind,
+                                                                         installed m achinery, and concerted spectator activity
+                                                                         responding to som e external stim ulus such as music.
+                                (b)                                      Because of the nature of the structural forms adopted, the
+                                                                         levels of force and power required to cause perm anent
+                                                                         damage, would be attainable at low frequencies. The
+                                                                         fundam ental frequency of a dem ountable grandstand
+                                                                         should be estim ated or m easured (see Section 6).
+
+
+
+
+                                 (c)
+
+
+
+
+                                  (d)
+  Fig. 1 Cross-sections o f structure assemblies
+                                                                                                  IStructE report: Demountable grandstands
+2                                                                                                               Design
+
+
+
+
+2.1 General                                                         in the most unfavourable realistic combination for the part
+T h e desig n o f d em o u n tab le g ran d stan d elem en ts o r   or effect under consideration. The load capacity of each
+com ponents should take into account the possibility of             m em ber and its connections should be such th at the
+erectors or other persons standing or placing their weight          factored loads would not cause failure.
+on elements in order to assemble other com ponents, or                 T he factors in Table 1 are applicable to lim it-state
+gain unauthorized access. Consequently, all components              design of grandstands constructed from structural steel­
+and their individual elements should be sufficiently robust         w ork (see BS 5950: Part l 7). W here other materials or
+to accept such forces, and their fixings should be suffi­           working stress m ethods are used, the use of these factors
+ciently secure to resist displacement in such conditions.           may be inappropriate, and the designer should refer to
+   Secondary m embers such as bracings should be inclu­             o th er codes and standards.
+ded in sufficient num bers, so that the absence or removal
+o f up to two adjacent m em bers w ould not initiate a              2.3.2 Stability limit state
+disproportionate collapse of a grandstand structure.                In considering the overall stability of the structure or part,
+                                                                    the loads should be increased by the relevant Yf factors
+2.2 Loading                                                         shown in Table 1. The designer should consider overall
+All relevant loads should be considered separately and in           fram e stability, which embraces stability against overturn­
+such realistic com binations as to comprise the most critical       ing and sway stability.
+effects on the elements and the structure as a whole.                  The factored loads should not cause the structure or any
+Loading conditions during erection should also receive              p a rt o f th e stru c tu re (including th e fou ndation s) to
+attention.                                                          overturn. The combination of imposed and dead loads
+   In addition to the self-weight of the framework and its          should be such as to have the most severe effects on
+seating, the structure should also be designed to with­             overall stability. The structure should be adequately stiff
+stand:                                                              against sway in both the transverse and longitudinal
+                                                                    directions.
+(a) imposed loading in accordance with Table 7 of BS
+    6399: P art 1: 1984,5 which requires 4.0kN/m2 for the           2.4 Design strength
+    seated areas, and 5.0kN/m2 or a concentrated load of            The design strength is the yield strength of the m aterial,
+    4.5kN for corridors, stairs and passageways                     Ys, multiplied by the appropriate safety factor. F or steel,
+(b) wind loads unless otherw ise agreed in accordance               the design strength may be taken as 1.0 x Y s, but not
+    with CP 3: C h ap ter V: P art 2: 1972,6 w here the             greater than 0.84 Us, where Y s and Us are the minimum
+    fram ework is not housed within an existing building.           yield strength and minimum ultim ate tensile strength,
+    It should be noted that a stand and its canopy where            respectively, as specified in BS 43608 (or as agreed with
+    provided that is adequate for city-centre wind speeds           the steelmaker).
+    may be inadequate for exposed sites
+(c) in addition to wind forces, a surge load of 5% of the           2.5 Factored load
+    vertical imposed load (but see Section 6)                       The factored load is the specified load, multiplied by the
+(d) any load redistribution arising from voids formed for           relevant Yf factor in Table 1.
+     ancilliary purposes by the omission of members.
+   Perim eter guardrails and their fixings should be capable
+of resisting the loads stated in subsection 4.7.
+   The m agnitude and frequency of fluctuating loads and
+increased forces arising from the dynamic response of the
+structure (see Section 6) should also be considered.
+
+2.3 Ultim ate lim it states
+2.3.1 Limit state of strength
+In checking the strength and stability of the structure, the
+loads should be m ultiplied by the relevant Yf factors
+shown in Table 1. The factored loads should be applied
+Table 1 Values of Yf for different loading combinations
+
+loading                                            factor, Yf
+dead load                                              1.4
+dead load restraining uplift or overturning            1.0
+dead load acting with wind and imposed
+  loads combined                                      1.2
+imposed load                                          1.6
+imposed load acting with wind load                    1.2
+wind load                                             1.4
+handrail loads                                   see Section 4
+
+IStructE report: Demountable grandstands                                                                                         7
+                                                                                  Proof loading tests
+
+
+
+
+3.1 General                                                            3.6 Test to failure
+T h e re m ay be m any in stan ces w hen th e c o n tra c to r         It is only from a test to failure that the real mode of failure
+chooses o r is requested to offer proof tests to substantiate          and tru e capacity of a specim en can be determ ined.
+th e fram ew ork s he is proposing. Such tests m ay be                 A lternatively, the objective may be to determ ine the
+deem ed necessary:                                                     allowable design capacity from the ultim ate test capacity.
+                                                                       In this~situation it is still desirable to carry out the load
+(a) when the contractor is unable to produce complete                  cycling of the acceptance and strength tests.
+     justification calculations o r when a fram ew ork or                 Before a test to failure the specimen should first satisfy
+      constituent part is not amenable to reliable calculation         the strength test described. During a test to failure the
+(b) when th ere is doubt as to w hether the quality of                 loading should first be applied in increments up to the
+      m aterials or workmanship is of the required standard            strength test load. Consideration of the principal deflec­
+(c) when m aterials or design m ethods are used other than             tion plot should then determ ine subsequent load incre­
+      those of the relevant specification or code of practice          ments.
+(d) when design load limits are to be established from a                   P rovided th a t th ere is a ductile failure the design
+      knowledge of the ultimate capacity of a com ponent or            capacity of a similar assembly may be determ ined from:
+      structure
+(e) for purposes of acceptance.                                         design capacity      (design strength)
+                                                                                   = Kt           ^ . ll             (ultimate test load)
+                                                                                        '(averaged yield strength)
+3.2 Test conditions
+T he lo ad in g system should ad e q u ately sim ulate the                F o r a single test K t should be taken as 0.9 unless the
+m agnitude and distribution of the loading and allow the               resulting capacity falls below the design capacity con­
+specimen to behave in a m anner representative of service              firmed by the strength test, when the latter should be
+conditions. Loading should be applied in a num ber of                  taken. F or two or more related tests, K t may be taken as
+regular increm ents at regular intervals. On the attainm ent           1.0 provided that the lowest of the individual ultimate test
+of m aximum load, the load should be maintained for at                 loads is used.
+least lh with recordings being taken at the beginning and                 In the case of a sudden (‘brittle’) failure, the averaged
+end of this period and on removal of the load,                         yield strength should be replaced by the averaged UTS of
+                                                                       the steel, or by 1.2 x the averaged yield strength in the
+3.3 Loading                                                            case of a sudden buckling-type failure.
+The test load for an acceptance test should be (actual dead
+load x 1.0) + (imposed load x 1.25). The test load for a
+s tre n g th te st shou ld be based on the fa cto red load
+calculated in accordance with BS 59507 with appropriate
+factors applied to dead, imposed and wind loads sepa­
+rately or in com bination as appropriate.
+
+3.4 A cceptance test
+This test is intended as a non-destructive test for confirm­
+ing structural perform ance. The assembly should prove
+capable of sustaining the test loading given in subsection
+3.3.
+
+3.5 Strength test
+The strength test is used to confirm the calculated capacity
+of the structure or com ponent. Before carrying out the
+strength test the specimen should first be submitted to and
+m eet all the requirem ents of the acceptance test.
+   T h e c a p a c ity o f th e assem bly u n d e r te s t will be
+d e p e n d e n t on the m aterial p ro p erties. The test load
+(including self-weight) is given by:
+                   (averaged yield strength)
+ test load =                                 -x (factored load)
+                       (design strength)
+    The actual yield strength of the m aterial should be
+ determ ined from coupon tests*, and an average yield
+ strength value taken from such tests.
+    A t this load there should be no failure by buckling or
+ rupture of any p art of the specimen, and on removal of
+ the test load, the recovery should be at least 80%.
+    The design strength and factored load are as defined in
+ subsections 2.4 and 2.5.
+ ‘ tests on material samples from material incorporated in the works
+
+
+8                                                                                                  IStructE report: Demountable grandstands
+4                                                  Stand occupancy, usage and
+                                                              means of access
+
+
+
+4.1 Stand seating                                                flights are necessary, a square landing the width of the
+The clearance dimension between the front and back of            stair should be incorporated, and if there are m ore than
+empty seats is largely governed by evacuation require­           12 risers in each flight then the landing should turn
+m ents in case of fire, as are the maximum num ber of seats      spectators through 90° or 180°.
+betw een gangways. Hence the requirem ents of subsection            A comprehensive system of signposting that clearly
+4.6 will apply.                                                  indicates fire exits and routes to various parts of the
+                                                                 grandstand or arena should be provided. Directional signs
+4.2 Sightlines                                                   should be placed to encourage crowds in any particular
+                                                                 section to flow in one direction when leaving grandstands
+G uidance on the slope of a stand with respect to achieving      or the arena proper. Care should be taken in the planning
+satisfactory horizontal and vertical sightlines is outside the   of exit systems to ensure that crowds have access in an
+intent and scope of this document. W ith regard to this          emergency to alternative exit routes in the event of their
+aspect of stand design, chapter 23 of reference 9 should         norm al exit route being obstructed.
+be consulted.
+
+4.3 Ingress considerations                                       4.5 Exit doors
+                                                                 Exit doors are rarely fitted to dem ountable grandstands
+W here admission into an arena or seated area of an arena        and should be fitted only where security is an absolute
+is controlled by turnstiles, these, by their num ber and         necessity. If this is the case, all doors on an exit route
+location, control not only the rate o f admission but, to a      should be capable of opening outwards in order that
+large extent, the dispersal of spectators to their chosen        crowds can escape in an emergency. This point is of
+sections of the grandstand. Turnstiles should be of such         particular importance in the case of doors within stands
+num bers as to admit at a rate whereby no unduly large           and at the foot of stairways. W here exit doors have to be
+crowds are waiting for admission, and yet at no faster rate      secured against outside intruders they should be fitted
+than the arrangem ent for distributing spectators within         with panic-type bolts.
+the areas permit.                                                   All doors on an exit route should be secured in the fully
+   D angerous overloading may be be caused if spectators         open position before the end of the event.
+are able to force their way by scaling in to 'a grandstand          W hen opening, no door should obstruct any gangway,
+already full to capacity. To avoid this danger, fences may       passage, stairway or landing. There should be no obstruc­
+be necessary.                                                    tion in an exit, e.g. no change in level at exit doors.
+4.4 Egress requirements                                          4.6 Stand access and evacuation
+It is generally recognized that the period of greatest risk
+                                                                 Every stand should be provided with sufficient gangways
+to crowd safety is at the time of leaving. Pressures can be
+set up within a departing crowd by im patient people, and        to allow for the orderly and safe evacuation from the stand
+                                                                 of all spectators accommodated thereon.
+these incipient pressures can and must be contained by
+                                                                    Gangways should be so positioned as to provide ready
+careful attention to the detailed design of barriers,
+stairways, gangways and exits.                                   access to exits, and no person in any part of a stand should
+                                                                 have to travel m ore than 30m to the nearest exit o r safe
+   The aim should be to provide a smooth and unim peded
+passage through an exit route to the outside. This may be        area. Gangways should be a minimum of 1.1m wide and
+                                                                 be fitted with interm ediate step units that create a
+achieved by controlling the crowd flow at the entrance to
+the exit route so that the departing spectators are held         complete access gangway/stair providing steps with a
+                                                                 minimum going of 280mm and a maximum rise of 190mm.
+back in a relatively safe place, e.g. the flat open areas
+close to and around the grandstands.                                All risers should be of equal height, and all goings must
+                                                                 be of equal depth (half the seating platform depth). The
+   Large num bers of spectators are a source of danger to
+themselves, particularly from:                                   front edge of each step should be fitted with a light-
+                                                                 coloured non-slip edge (silver, white, bright yellow) that
+  tripping, slipping and falling                                 can be seen in poor light conditions.
+  crowd pressure on terraces and exits, and                         The num ber of access gangways required in a stand is
+  fire and hooliganism.                                          governed by the num ber of seats in each row. The num ber
+                                                                 of seats in any one row should not exceed:
+   G enerally, all spectators should be able to leave the
+grandstand and surrounding flat areas within 8 min.              (a)  (i) 7 seats where there is a gangway at one end only
+   The flow through an exit is about 40 persons per minute           (ii) 11 seats where there is a gangway at one end only,
+p er unit of width of 550 mm. W here there are narrowings                 provided that the seatway referred to below is
+in the exit route there should be reservoir areas to                      increased by 25mm for each additional seat over
+accom m odate those that are waiting to pass. Any struc­                  7. H ence, the seatway where 11 seats are em ­
+tures or buildings close to these escape routes or reservoir              ployed should be 400mm minimum
+areas should have at least Vih fire resistance. Nowhere          (b) (i) 14 seats where there is a gangway at each end
+should an exit or escape route be less than 1. lm wide, with         (ii) 22 seats where there is a gangway at each end
+a minimum headroom of 2.4m. Any stairways incorpo­                        provided that the seatway referred to below is
+rated in the escape/exit routes should have steps with a                  increased by 25mm for each additional pair of
+minimum going of 280 mm (300 mm preferred), and a                         seats and/or odd seat over 14. H ence, the seatway
+maximum rise of 190 mm (150 mm preferred). No flight                      where 22 seats are employed should be 400mm
+should have less than 3 or m ore than 16 risers. If two                   minimum.
+
+IStructE report: Demountable grandstands                                                                                    9
+Gangways should be 1.1m wide minimum but preferably                The access/egress requirem ents of this type of accom­
+at least 1.3m.                                                   m odation should be given careful thought in term s of
+   All seats should be securely fixed in position, and           num bers and access/egress through the understructure of
+individual seats should be fitted with automatic-tipping         the grandstand.
+seat pans.
+   The minimum area allotted to each seated person               4.10 Licensing
+should be 460mm wide and 610mm deep.                             A ny person or organization intending to erect a tem por­
+   There should be a clear seatway or space of at least          ary structure for the accommodation of spectators should
+300mm m easured between perpendiculars from the back             ensure that the appropriate authorities are given adequate
+of one seat unit to the front of the seat unit immediately       notice of the proposed use of the stand and as to when it
+behind. W here seats tip up automatically, the clear             will be available for inspection for purposes of licensing.
+seatway should be m easured between the back of one seat
+unit and the maximun projection of the seat unit behind
+when the seat is in the ‘up’ position.
+
+4.7 Balustrading and handrails
+D em ountable grandstands should be fully protected with
+front, side and rear safety rails. These rails should comply
+with the relevant local licensing authority requirem ents,
+but the following general rules should be observed:
+     End safetyrails
+     1100mm high of closed- or open-mesh construction such
+     that a 100mm sphere cannot be passed through any part
+       Side rails should resist a horizontal load of l.OOkN/m
+     run at their top rail position.
+     Rear safetyrails
+     1100mm high of closed- or open-mesh construction such
+     that a 100mm sphere cannot be passed through any part
+        R ear rails should resist a horizontal load of
+     l.OOkN/m run at their top rail position
+     Front rails
+     F ront rails should resist a horizontal load of 1.5kN/m
+     run at their top rail position
+     Front balustrade (infrontofgangway)
+     1100mm high of heavier construction to resist a horizon­
+     tal load of 3.00kN/m run at their top rail position.
+  All access stairways and ramps should be fully protected
+with safety rails.
+
+4.8 Stairways and ramps
+All access stairs and ramps, w hether internal o r external,
+should be so constructed as to have at least Vih fire
+resistance10,11. Stairways need not be closed in or covered,
+but steps should be well defined and dimensioned as given
+in subsection 4.4.
+   W ith internal stair units (constructed within the grand­
+stand m ain understructure) it is often difficult to restrict
+the num ber of risers to 16. W here this occurs, the relevant
+local licensing authority should be approached for a
+dispensation. W here poor light conditions exist in an
+indoor arena, emergency lighting and clear signs should
+be fitted to all stairways and ramps.
+
+4.9 Voids and additional structures
+By nature of their construction, dem ountable grandstands
+have large voids underneath the main seated areas. These
+voids become the resting place for paper, cartons and
+other combustible materials that can be ignited, un-noted,
+by a carelessly discarded cigarette end or even by
+vandalism. These areas should be cleared of litter as often
+as possible but at least after each perform ance. Litter is a
+m ajor fire hazard to spectators. In addition, it should not
+be possible for infants to gain access to them.
+   It is now a common feature to use the voids under very
+large grandstands to provide space for purpose-built
+hospitality suites or rooms. Each box or room becomes an
+integrated part of the grandstand understructure and
+usually provides a glass-fronted viewing room just below
+the first level of seating. By nature of their use hospitality
+boxes present a certain fire hazard, and it is therefore
+essential that these additional structures are constructed
+from m aterials that have at least Vih fire resistance.
+
+10                                                                                       IStructE report: Demountable grandstands
+5                                          Ground conditions —foundation
+                                                      design assumptions
+
+
+
+5.1 General                                                      consists of both immediate and longer-term movements,
+It is a feature of dem ountable grandstands that they are        the latter can be ignored unless it is known that the
+intended for use in a wide variety of situations indoors and     structures will be in use for several months.
+out. A t the point of contact of the grandstand structure           In the absence of scientific site assessment, the bearing
+with the ground or foundation surface it will be necessary       pressures given in Table 2 may be used.
+to distribute the loading so that differential settlem ent and
+overall bearing pressures are within acceptable limits.          Table 2 Allowable bearing pressures for different types of
+   The only site preparation that can be expected is the         soil
+removal of loose topsoil. Founding on good, well drained
+                                                                                                                  allowable
+turf is common.
+                                                                                                                   bearing
+                                                                                   type o f soil                  pressure
+5.2 Permanent bases                                                                                                 kN/m2
+Frequently, grandstands are erected on ground floor slabs
+of existing buildings, and sometimes on concrete floors or       non-cohesive    medium dense sand or gravel         200
+roof slabs. Checks should be m ade to verify that the slabs      soil                                                 100
+                                                                                 loose sand
+can accept the loads imposed, and if necessary, a suitable
+grillage should be provided to spread local column loads.        cohesive soil   hard clays                           300
+                                                                                 firm clays                           100
+5.3 Common ground bases                                            For thinner soleplates described in subsection 5.3 it is
+These may include asphalt or gravel paths, pasture, heaths       unlikely that the surface area required, will be less that
+or sports fields, etc. In such situations, the loads from the    0.1m2. It is m ore likely, if soil is the foundation m aterial,
+grandstand structure should be applied to the ground             that areas greater than 0.2m2 will be necessary, and to be
+through steel baseplates on soleplate spreaders. No              effective these would generally take the form of a simple
+loadbearing m embers should be founded on ground that            grillage.
+has been excavated locally unless backfilled with suitable
+consolidated material.
+  Soleplate spreaders are most commonly of tim ber, but
+may sometimes be of precast concrete. Care is required
+to ensure, by ‘bedding in’, full and even contact of
+soleplates with the ground. Cavities should be filled, and
+loose m aterials compacted. W here foundations are not
+level or are uneven, appropriate packing may be em­
+ployed. C are should be taken that this does not prom ote
+instability.
+   In the case of tim ber soleplates, which should prefer­
+ably be not less than 35mm thick and 220mm wide, the
+concentrated column loads may be assumed to spread
+down at a slope of 2:1 horizontal to vertical along the
+grain, and 1:1 across the grain.
+  The edges of any excavation should be protected
+against erosion by wind or water.
+   In certain cases where baseplates are larger and stiffer
+than those generally employed, the use of plywood
+soleplates at least 19mm thick is permissible.
+
+5.4 A ssessm ent o f ground conditions
+If part of a perm anent structure is to be used, either its
+strength needs to be confirmed by the designer or
+conservative calculations need to be made.
+   All other forms of base must be assessed either by a
+visual exam ination, which may be augm ented by digging
+a small pit, o r by a site survey which could take the form
+of soil analysis, o r m ore probably a direct load site test.
+W hen m aking an assessment, consideration should be
+given to existing and possible future w eather effects, e.g.
+frozen or dried out ground may give false inform ation on
+bearing strengths of soil in m ore norm al conditions.
+
+5.5 A llow able bearing pressures
+D em ountable grandstands are loaded for relatively short
+periods, and while it is well known that settlem ent usually
+
+IStructE report: Demountable grandstands                                                                                      11
+ 6                                                                                          Dynamic response
+
+
+
+
+ Consideration should be given to the effects of both                               The total structural effect of a rhythmic activity may
+ continuous and transient vibrations. Continuous vibra­                          therefore be represented by the static effect of the load,
+ tions may be considerably amplified when periodic forces                        together with the dynamic contribution p a l ¥ p.
+ synchronize with a structure frequency. Transient vibra­                           If the fundam ental frequency is less than 4Hz, analy­
+ tions will be caused by impulsive loading, and the decay                        sis should be carried out to estimate the effects of low
+ is dependent on damping.                                                        forcing frequencies; Should the frequency be betw een 4
+    Periodic forces that arise from the response of a group                      and 6Hz, special consideration should be given to the
+ stamping, jumping and swaying are common (see Fig. 2).                          proposed use of the stand. A value above 6Hz would in
+                                                                                 normal circumstances be acceptable.
+      Dancing,concerts          I«   wp            Jumping exercises
+
+
+w,
+     V W -y                                   W,
+
+
+
+
+              Time                                          Time
+
+
+ Fig. 2 Rhythmic responses
+ Wp is the weight of participants
+ Wt is the total load
+
+ F or most rhythmic activities the periodic forces can be
+ approxim ated by a sinusoidal dynamic load causing
+ vibration at the rhythmic frequency. For rhythmic events
+ involving a group of people, the most applicable range is
+ lV i to 3Hz. In the case of jumping, the periodic forces can
+ also create significant dynamic loading at double the
+ rhythmic frequency up to 6Hz.
+    The dynamic loading may be represented by
+                                 aWpSinlrrft
+ where / is the forcing frequency
+             is the weight of participants
+        a is a dynamic load factor dependent on activity.
+        t is the time
+  Table 3 gives guidance on the likely range of values of
+ a.
+ Table 3 Forces caused by rhythm ic activities
+
+ activity                                           a              f, Hz
+ dancing                                           0.5                 15/2-3
+ lively audience response                 .        0.25                l'/2 -3
+ •     •                                           1.5                 15/2-3
+ jumping                                  |        0.25                  3-6
+ Note; Normal rate of walking corresponds to a forcing frequency of 2Hz.
+    If the fundam ental frequency of the structure, f Q, is
+ large com pared to the forcing frequency, / , the dynamic
+ load has the same effect as a static load of the same
+ m agnitude. If the fundamental frequency of the structure
+ approaches the forcing frequency the dynamic effect
+ increases with each cycle of vibration to a maximum
+ whose ratio to the static effect is given by:
+             p = [{1 - Wo)2}2 + (2 0 ///o )T *
+ where 0 is the damping ratio.
+
+ 12                                                                                IStructE report: Demountable grandstands
+7 Growth of           8 Work on site
+imperfections because
+of repeated use
+
+
+7.1 General                                                    8.1 Inspection by contractor
+R egular and long-term use of dem ountable grandstands         The contractor should examine all m aterials on arrival at
+will inevitably lead to weathering and general wear and        site or during unloading. Any dam aged or distorted
+tear in addition to damage or distortion arising from          com ponents should be rejected, clearly m arked and
+handling, transportation, assembly and disassembly. To         removed from the site as soon as possible.
+minimize the effect of such ‘ageing’, all mem bers and
+com ponents should be regularly inspected, and any             8.2 Assem bly
+damage or deterioration corrected if practical. If repair is   8.2.1 Scaffolding rostrum (artificial base)
+not practical or economic, the elem ent should be clearly      The erection of a scaffold substructure to overcome rough
+m arked and rem oved from the site.                            terrain should be carried out in accordance with standards
+                                                               of workmanship given in BS 597313, but with the following
+7.2 Scaffolding com ponents                                    modified tolerances of assembly:
+Tube                                                           (a) verticals to be plumb within 15mm over 2m of height,
+Steel scaffold tube that is corroded to the extent of rust         subject to a maximum displacement from the vertical
+flaking or severe pitting of the surface should be cleaned         of 25mm
+of all loose material. It should then be m easured for         (b) verticals not to rise above the upper lacing m embers
+external diam eter and checked against the minimum                 or extend below the lowest lacing m em ber m ore than
+requirem ents of BS 113912. Particular attention should be         300mm unless an alternative figure is specified
+paid to the 75mm length at the tube ends as this tends to      (c) tubes to have joints in adjacent m embers staggered,
+corrode m ore than the rem ainder of the tube.                     and such joints should be made with sleeve couplers
+   Tube should be free from cracks, and should have the        (d) the centre-lines of tubes at node points to be as close
+ends cut square, sm ooth and free from burrs. Sections of          together as possible, and not m ore than 200mm apart
+tube that have been partly sawn, seriously deform ed or        (e) soleplates to be set horizontal within a tolerance not
+creased by abuse should be cut out and scrapped. Tubes             exceeding 15mm in a length of 500mm
+that have becom e thin or split at the ends should be          (f) m embers supporting the dem ountable grandstand
+shortened by an appropriate am ount. Bent tubes should             structure to be level to within ±15m m in 3m, subject
+be straightened so that in any 2m length they do not               to a maximum total deviation of 50mm.
+deviate m ore than 5mm from a straight line.
+Couplers andfittings                                           8.2.2. Prefabricated grandstand elements
+Fittings should be inspected, and should not be used if        Instructions for the correct order and m ethod of assembly
+they are dam aged in such a way that their efficiency is       of a dem ountable grandstand should be available and
+reduced. It is necessary to ensure that threads are not        supplied by the company providing the equipm ent. The
+dam aged so that couplers can be properly secured. Any         authority responsible for assembling the structure should
+dam age should be corrected by repair, or replacem ent,        appoint a com petent person to supervise the work. This
+bu t if this is not possible, the item should be secured       supervisor should inspect the grandstand on completion.
+against re-issue.
+  Baseplates should be checked to ensure the integrity of      8.2.3 Bracings and connections
+the welds, the squareness of the base to the stem , and the    All necessary bracings and other components should be
+planeness of the plate.                                        incorporated as assembly progresses. Bracing should be
+Prefabricatedcomponents                                        arranged to ensure stability at all stages of erection. A
+                                                               check should be carried out to see that the necessary
+All com ponents should be checked for dam age, distortion      connections are made and that linking com ponents are not
+and weld integrity. Faulty or suspect items should be          strained to achieve engagement. Local instability that
+repaired, checked dimensionally and, if necessary, offered     might endanger the complete structure when loading
+to jigs in order to ensure acceptable fits on future use.      occurs could arise through the omission of a bolt or failure
+Inspections                                                    to tighten a bolt. Constant emphasis should be placed on
+The checks referred to in the previous sections should be      the im portance of paying attention to detail.
+undertaken continuously, i.e. when equipm ent is issued
+from the stockyard, arrives at site, is assembled in the
+structure and is returned to the stockyard.
+Storage
+In order to minimize deterioration and accidental dam ­
+age, all elements should be carefully stored to prevent
+distortion and protected to an appropriate extent against
+deterioration.
+
+
+
+
+IStructE report: Demountable grandstands                                                                                 13
+9 Inspection                                                       10 Guardrails and
+                                                                   toeboards
+
+
+
+O n com pletion of the erection of the grandstand, an              Guardrails are essential around the perim eter of a
+                                                                   dem ountable grandstand, and at gangways, stairs and
+inspection should be made jointly by the client and the
+contractor. D etailed checking should be preceded by an            ramps. The Guide to safety at sports grounds gives details
+                                                                   of these. Perim eter guardrails and their fixings should be
+initial overall inspection from a distance to ascertain the
+general condition of the structure. This should be follo­          designed to resist the forces specified in subsection 4.7.
+wed by a systematic check from section to section. A               Toeboards o r mesh panels should be incorporated where­
+drawing should be available for continuous reference.              ver necessary to prevent small objects being dropped or
+                                                                   dislodged from the grandstand deck. If mesh is used, it
+This inspection should ensure that:
+                                                                   should not be coarser than 55mm.
+• setting out is accurate within the tolerance required
+• the foundations are adequate, that they are not likely
+    to be disturbed and that they and the lower portion of
+    the supporting structure are not liable to damage by
+    interference, accident, traffic, scouring, undermining or
+     any other cause
+• suitable soleplates have been provided, properly
+     levelled and, where necessary, adequately supported.
+     The soleplates should have been properly bedded down,
+     with no unacceptable settlem ent
+ • upright m embers are correctly positioned. A given
+     num ber of upright members may be checked with
+     suitable measuring devices and the rem ainder by eye
+ • horizontal m embers are correctly positioned
+ • bracing m embers are correctly installed
+ • all required com ponents, pins, bolts, nuts, clips and the
+     like are o f the correct type, have been correctly inserted
+      and are secure
+ • the decking, seating and guardrails are secure
+ • services to the stand do not in themselves create a
+      hazard to spectators or impose loadings uncatered for
+      during the design process.
+      The inspection should ensure that the actual construc­
+  tion is in conformity with the design documents supplied
+  by the contractor. Any deviations should be substantiated
+  and supported by additional docum entary evidence. The
+  results of the inspection should be recorded in writing and
+  action taken to correct any faults. O n completion of a
+  satisfactory inspection the client should be informed and
+  confirm ation m ade in writing.
+       It should be the responsibility of the user of the
+  grandstand when com pleted and inspected to so secure
+  the structure that common vandalism is prevented. A ddi­
+   tionally, an inspection of the grandstand should be
+  undertaken by a com petent person as near to the time of
+   use as possible.
+       W hen in use, gangways and walkways should be kept
+   clear at all time, by a sufficient num ber of stewards who
+   should be thoroughly briefed on safety and fire drills and
+   should be present until the stand is cleared.
+        O n isolated sites, fencing o r other means should be
+   adopted to prevent climbing of structures to gain un­
+   authorized access.
+
+
+
+
+                                                                                              IStructE report: Demountable grandstand
+11 Non-slip surfacing 12 Contractual and
+of walkways           insurance
+                      considerations
+
+
+Consideration needs to be given to the safety aspects of         12.1 Contractual considerations
+finishes to walkway areas. It should be borne in mind that       This Guide does not set out to deal with forms of contract
+nearly all surfaces have a significantly lower slip resistance   for the erection, inspection and dismantling of dem ount­
+when they becom e wet.                                           able grandstands. However, the checklist below includes
+   F or factors affecting the slip resistance of a m aterial,    a num ber of points that should be considered when the
+reference should be m ade to the GLC D evelopm ent &             contract is drawn up. This list is not necessarily
+materials bulletin no. 43 (2nd series), March 1971, item         exhaustive.
+no. 514. The slip resistance value of finishes for walkway
+areas should comply with category (d) of the above               Checklist
+m entioned docum ent, i.e. classified as excellent with a        Erection
+rating of 75 or above. Guidance on typical slip resistance
+                                                                  1. The client o r his representative to be informed before
+values for both wet and dry conditions of various materials
+                                                                     erection commences.
+is given in reference 14.
+                                                                  2. A ttention of operatives to be drawn to their responsi­
+   Values for m aterials not covered by this list should be
+                                                                     bilities under Health and safety at w ork etc. A c t15
+obtained by submitting a sample of not less than 150 x
+                                                                     legislation for maintaining a safe m anner of working.
+150mm to an appropriate authority in order for the value
+                                                                  3. The necessity for:
+to be determ ined.
+                                                                      (i) obstruction of essential services such as hydrants,
+                                                                          service manholes and fire exits to be avoided
+                                                                     (ii) care to be taken to avoid damage to adjacent
+                                                                          electrical cables, which should be assumed to be
+                                                                          ‘live’.
+                                                                  4. Necessary precautions, such as diversionary barriers
+                                                                     and warning notices, to be taken to ensure public
+                                                                     safety during the erection procedure.
+                                                                  5. The client to agree the setting-out points (i.e. corner
+                                                                     locations of proposed stand o r stands) on site o r the
+                                                                     setting-out points shown on the drawing to be agreed
+                                                                     with client.
+
+                                                                 Completion and inspection
+                                                                  6. A formal inspection to be made on completion of the
+                                                                     structure.
+                                                                  7. C ontractor and client (or representatives) to be
+                                                                     present during this inspection, and a record made of
+                                                                     relevant findings. O n completion of satisfactory in­
+                                                                     spection, a certificate to be issued to the client.
+                                                                  8. Responsibility of the contractor to be defined for any
+                                                                     persons other than his employees using the stand for
+                                                                     any purpose until the inspection has been completed
+                                                                     to the client’s satisfaction.
+                                                                  9. Desirability of periodic inspections at appropriate
+                                                                     intervals (with the results of each inspection recorded
+                                                                     and filed) where the stand is subject to repeated use
+                                                                     at the same location.
+                                                                 10. Responsibility of the client for ensuring that the stand
+                                                                     is used only for the purpose for which it was erected
+                                                                     and responsibility of client for maintaining the stand
+                                                                     in working order. Agree when this responsibility and
+                                                                     the associated safety of the general public reverts to
+                                                                     the contractor.
+
+                                                                 Dismantling
+                                                                 11. Responsibility of the contractor for safe dismantling.
+
+                                                                 12.2 Insurance
+                                                                 The erection, use and dismantling of a grandstand should
+                                                                 be covered by insurance, and the client and contractor
+                                                                 should examine their respective policies accordingly.
+
+
+
+
+IStructE report: Demountable grandstands                                                                                   15
+References
+
+
+
+ 1. Guide to safety at sports grounds, 2nd edit., HMSO, London
+     1986
+ 2. BS 6180:1982; Code o f practice for protective barriers in and
+    about buildings, British Standards Institution, London
+ 3. National building code o f Canada, National Research
+     Council, Ottawa, 1985
+ 4. The building regulations 1985, HMSO, London, 1985
+ 5. BS 6399: Loading for buildings, Part 1: 1984, Code o f
+    practice for dead and imposed loads, British Standards
+    Institution, London
+ 6. CP 3: Code o f basic data for the design o f buildings, Chapter
+    V: Loading, Part 2: 1972, Wind loading, British Standards
+    Institution, London
+ 7. BS 5950: Structural use o f steelwork in building, Part 1: 1985,
+     Code o f practice for design in simple and continuous
+    construction: hot rolled sections, British Standards Institu­
+    tion, London
+ 8. BS 4360: 1986, Specification for weldable structural steels,
+    British Standards Institution, London
+ 9. New metric handbook: planning and design data, edit.
+    Patricia Tutt & David Adler, Architectural Press, London
+     1979
+10. Fire safety and Safety o f places o f sport Act 1987, chapter 27
+    HMSO, London, 1987
+11. Guide to fire precautions o f existing places o f entertainment
+    and like premises, HMSO, London 1989
+12. BS 1139: Metal scaffolding, Part 1: 1982, Specification for
+    tubes for use in scaffolding and Part 2: 1982, Specification
+    for couplers and fittings for use in tubular scaffolding, British
+    Standards Institution, London
+13. BS 5973: 1981, Code of practice for access and working
+    scaffolds and special scaffold structures in steel
+14. Development & materials bulletin [GLC], no. 43, 2nd series,
+    March 1971, Item 5: Slip resistance o f floors, stairs and
+    pavings
+15. Health & safety at work etc. Act 1974, Chapter 37, HMSO,
+    London 1974
+
+
+
+
+16                                                                      IStructE report: Demountable grandstand
+

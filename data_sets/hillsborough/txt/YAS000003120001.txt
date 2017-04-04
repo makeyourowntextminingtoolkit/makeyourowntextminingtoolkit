@@ -1,0 +1,531 @@
+MATTER LEDGER DETAIL FOR D. L.., B.                                                                             for AJC at OB. 15 on 09/05/91              PAGE       1
+
+
+
+MAIIER„.NUMBER           3265/_.. 24                             DATE    OPENED   25/10/89                                 SOL, RES.       22
+                                                                                                                           EX. ACT.        22
+CLIENT      TRENT REGIONAL HEALTH AUTHORITY                     MATTER      HILLSBOROUGH DISASTER
+
+ADDRESS      FIJI...WOOD HOUSE                                   ADDRESS     FULWOOD HOUSE                                CONFLICT CODES
+             OLD FULWOOD ROAD                                                OLD FULWOOD ROAD
+             SHEFFIELD                                                       SHEFFIELD                                           r "ioAa                       )\/p”~l
+
+             810 3TH                                                         S10 3TH                                       t     I No                                 [
+REMARKS                                                                                                 INTERIM BILL                       SORT KEY TRENTR
+     DEPARTMENT                  005                                                                                   CREDIT LIMIT                               0. 00
+     WORK TYPE                   41                                                                                    TOTAL CLIENT BALANCE                  37670. 00
+     OFFICE BANK               U 001                                                                                   DEPOSIT BALANCE                            0.00
+     CLIENT BANK               W 001
+
+
+  DATE            REF.                   DESCRIPTION                         — ....      O F F I C E       - - ... ...... ---------C L I E N T           ----------
+
+
+
+
+                                                                                                            .
+                                                                              DEBIT      CREDIT        BALANCE           DEBIT       CREDIT               BALANCE
+20/04/89     444842 B         CASH                                            21. 83                     21. 83
+          nnrc>               LUNCH                              49297
+
+24/04/89 142.1.65 B           C                                               33. 00                     54. 83
+       ODIS                   445495    TRAVEL EXPENSES          49297
+25/04/89 142201 B             I                                               21. 60                     76. 43
+       ODIS                   445827   TRAVEL EXPENSES           49297
+
+25/04/89 142223 B                                                             73. 20                    149. 63
+       ODIS                   445991   TRAVEL                    49297
+
+25/04/89 142201 B                                                             1 1 . 40                  161. 03
+       ODIS                   445825 TVL EXP FOR 21.4.89 38 MIL 49297
+
+25/04/89 142201 B                                                             22. 50                    183. 53
+       ODIS                   445826 TVL EXP FOR 24.4.89 75 MIL 49297
+
+25/04/89 446147 B             AGC                                             15. 00                    198. 53
+       ODIS                   446147    SUBS FOR AC + OTHERS     49297
+
+25/04/89 446148 B                                                             22. 50                    221. 03           d lb    e;            jLL'-'
+       ODIS                   446148    EXPENSES TRAVEL         49297
+26/04/89 446612 B             CASH                                            22. 50                    243. 53
+       ODIS                   446612    TRAVEL TO BIRMINGHAM    49297
+                                                                                                                           DELETED
+26/04/89 446613 B             CASH                                            24, 00                    267.53
+       ODIS                   446613    TRAVEL TO WETHERBY      49297
+
+27/04/89 142284 B                                                             90. 0 0                   357. 53
+       ODT.S                  446722 TRAVEL 30 0 MILES (? £90   49297                                                DATE.
+                                                                                                                                    9   MAY     If | |
+27/04/89 142285 B                                                             67. 20                    424. 73
+       ODIS                   446723   TRAVEL EXP               49297
+j ©
+
+       MATTER LEDGER DETAIL FOR D. L. B.                                                                       for AJC at 08
+  o
+
+  f)   MATIER..NUMBER......3265/ .„._24
+
+         DATE       REF.                    DESCRIPTION                    ------       q   p p j c E --                         C L I E N T
+  o                                                                         DEBIT           CREDIT     BALANCE         DEBIT       CREDIT      BALANCE
+       27/04/89 447032 B        1                                           16. 20                      440. 93
+  f\
+              ODIS              447032     MILEAGE                 49297
+
+       27/04/89 447037 B        CASH                                          3. 98                     444. 91
+ 'J           ODIS              447037    KEYS FOR FILING          49297
+
+       27/04/89 447040 B        AGC                                         26. 0 0                     470. 91
+ o            ODIS              447040    EXPENSES                 49297
+
+       27/04/89 447041 B        AGC                                        113. 75                      584. 66
+ o            ODIS              447041    EXPENSES                 49297
+
+       27/04/89 447042 B        t                                                                       607. 16
+ 0            ODIS              447042     TRAVEL                  49297
+
+       27/04/89 447044 B        CASH                                        22. 50                      629, 66
+ o            ODIS              447044    MILEAGE                  49297
+
+       03/05/89 142422 B        DALE OFFICE FURNITURE                      105. 00                      734. 66
+ 0            ODIS              447992   FILING CABINET            49297
+
+       03/05/89 142422 BT DALE OFFICE FURNITURE                             15. 7?                      750. 41
+ €>           ODIS        447992   FILING CABINET                  49297
+
+       08/05/89 449105 B        CASH                                        42. 22                      792. 63
+ &            ODIS              449105    PHOTOCOPIES              49297
+
+       08/05/89 449105 BT CASH                                                6. 33                     798. 96
+ ti           ODIS        449105          PHOTOCOPIES              49297
+
+       09/05/89 449447 B        CASH                                        60, 00                      858, 96
+ o            ODIS              449447 TRAVEL X 4 AJC              49297
+
+       09/05/89 449448 B        CASH                                        23. 53                      882, 49
+ Cl           ODIS              449448 PLOTS                       49297
+
+       10/05/89 142657 B        t     ------ 1                              36. 60                      919. 09
+ o            ODIS              449535 TRAVEL EXP                  49297
+
+       10/05/89 142637 B        |
+                                ------------- 1                             11. 10                      930. 19
+ i)           ODIS              449466 TRAVELLING EXP 37 MILES     49297
+
+       10/05/89 142637 B        |
+                                ------- -------- 1                            2. 50                     952. 69
+ Cl           ODIS              449466 TRAVELLING EXP 75 MILES     49297                                                       |T-,;   i   | I® 1
+
+       10/05/89 449967 B        CASH                                        17. 39                      970. 08
+  o           ODIS              449967 LUNCH                       49297
+
+       12/05/89 450528 B        CASH                                       1 2 0 . 00                  .1.090, 08
+ -.J          ODIS              450528     DINNER AJC, AGC, i
+                                                            ML.V   49297
+                                                                                                                          DATE*
+MATTER LEDGER DETAIL FOR D. L. B,                                                                                 for AJC at 08. 15 on 09/05/91                PAGE     3
+
+
+                                                                                                                                   COMPUTER ARCHIVE
+MAIIER„.NyMBER„.._.3265/.„..24                                                                                                                                              O
+                                                                                                                                   Mn                     U 4AC:\'^ •
+  DATE          REF.                          DESCRIPTION                          ••••■—     O F F I C E ---------
+                                                                                     DEBIT      CREDIT     BALANCE         DEBIT        CREDIT               BALANCE        n
+23/05/89   142817 B PICKFORD                                                       109. 0 0                1199. 08
+       ODI.S        450583   16 TRAVEL                                 49297                                                                                                o
+
+25/05/89               9 B MARKS + SPENCER                                          29. 98                 1229. 06
+       ODIS                19, 05 WORKING LUNCHES                      49297                                                                                                ■o
+
+26/05/89               3 B M + S ETC.                                               31. 66                 1260. 72
+       ODIS                26.5. 89 WORKING LUNCHES 4 DAYS 2           49297
+
+01/06/89    49297 B                                                              47502. 50                48763. 22
+       PROF         OUR BILL 1. 6. 89
+
+01/06/89    49297 BT                                                              7289. 10                56052. 32
+       PROF          OUR BILL 1.6.89
+
+01/06/89 143464 B          1                                                        30. 60                56082. 92
+       ODIS                455995   A.        TVL EXPS                 50716
+
+0.1./06/89 143464 B        I                                                        22. 50                56105. 42
+         ODIS              455996             TVL EXPS                 50716
+
+                                                                                                          56110. 92
+         ODIS              455997 o
+                                  A,          ENTERTAINMENT            50716
+
+06/06/89 143489 B                                                                   26. 40                56137.32
+       ODIS                456385        S5    TRAVEL EXP              50716
+
+06/06/89    20642        B M + S                                                    36. 10                56173. 42
+       ODIS                0206 WORKING          LUNCH 3005 0206       50716
+
+09/06/89 120631          B ORCHARD PLACE                                            39. 45                56212, 87
+       ODIS                0906 WORKING LUNCH 5+9JUNE                  50716
+
+12/06/89 143956 B          i      I                                                 23. 40                56236. 27
+       ODIS                457914         TRAVEL EXPENSES              50716
+
+13/06/89 143989 B          DORCHESTER LEDBETTER                                                           56281. 49
+       ODIS                458162 PHOTOGRAPHS                          50716
+
+13/06/89 143989 BT DORCHESTER LEDBETTER                                              6, 78                56288,27
+       ODIS        458162 PHOTOGRAPHS                                  50716
+
+16/06/89 144135 B                                                                   19. 20                56307. 47                         -    Is."':
+       ODIS                459287     TVL EXP FOR WEEK12,6.89          507.1.6
+
+20/06/89 210624 B                                                                   38. 78                56346. 25
+       ODIS                20 06 WORKING LUNCH           12-16JUNE89   50716
+
+22/06/89 460697 B          CASH                                                    110. 00'               56456, 25          OATt.
+       ODIS                460697         TRAVEL EXP                   50716
+     MATTER LEDGER DETAIL FOR D. L. B.
+C;
+
+
+Cj   MAIIER„_NyMBER_._3265/_.„„_.24
+
+       DATE       REF.                   DESCRIPTION
+Ct                                                                          DEBIT       CREDIT     BALANCE    DEBIT     CREDIT    BALANCE
+
+     23/06/89 260615 B      M+S                                             50. 36                56506. 61
+<3          ODIS            2306 WORKING LUNCH 19-23 JUNE        50716
+
+     28/06/89 .144468 B C                                                   70. 50                56577,11
+CS           ODIS       462226          TRAVEL EXPENSES          50716
+
+     28/06/89 462125 B AGC                                                  15. 00                56592. 11
+0            TRON      462125 LDS ROTHERHAM LEEDS                50716
+
+     28/06/89 462126 B AGC                                                  22. 50                56614. 61
+13           TRON      462126         LEEDS TO SHEFFIELD LEEDS   50716
+
+     03/07/89 102009         TRENT REGIONAL                                           56052. 32     562,29
+            ORBL             30 06 BILL PD
+
+     04/07/89    30 065 B MARKS -4- SPENCERS                                33. 98                  596. 27
+If           ODIS         30.6.89 WORKING LUNCH 26-30 JUNE       50737
+
+     05/07/89 464183 B CASH                                                 48. 0 0                 644. 27
+€1          ODIS       464183         TRAVEL                     50737
+
+     06/07/89 144777 B                                                      94. 50                  738.77
+©           ODIS             464274 TRAVEL EXPS                  50737
+
+     06/07/89 144777 B                                                      27. 00                  765. 77
+€>          ODIS             464275 TRAVEL EXPS                  50737
+
+     06/07/89 144777 B                                                      24. 60                  790. 37
+€>          ODIS             464276 TRAVEL EXPS                  50737
+
+     06/07/89   50716 B                                                   1501. 50                 2291. 87
+Cl           PROF       OUR       BILL 6. 7. 89
+
+     06/07/89   50716 BT                                                   225. 23                 2517.10
+C5           PROF        OUR      BILL 6. 7. 89
+
+     06/07/89   50716 B                                                  11243. 00                13760. 10
+Q            PROF       OUR       BILL 6.7.89
+
+     06/07/89   50716 BT                                                  1762. 99                15523. 09
+y            PROF        OUR      BILL. 6. 7. 89
+                                                                                                                      C IS SHEFFIELD
+     06/07/89    507.16 B                                                10121 . 66               25644. 75
+Cl           PROF         OUR     BILL 6. 7. 89
+
+     06/07/89
+            PROF
+                 50716 BT
+                          OUR BILL 6. 7. 89
+                                                                          1518. 25                27163. 00
+                                                                                                                      DELE
+     11/07/89 120713 B M+S                                                  14. 78                27177,78
+'C           ODIS      0707 WORKING LUNCH 3+4JULY                50737
+
+Cl                                                                                                               VTE.-9 MAY m i
+                                                                                                                                                         'flU
+
+
+     MATTER LEDGER DETAIL FOR D, L., B.                                                                      for AJC at 08, 15 on 09/05/91     PAGE
+a
+
+
+1;   MAIIER__NUMBER.._.„326S/„....,.„24                                                                                  COMPUTER ARCHIVE
+                                                                                                                         Mn
+       DATE        REF.                    DESCRIPTION                                 O F F I C E   -— .....                                     ----
+o                                                                            DEBIT       CREDIT       BALANCE         DEBIT    CREDIT         BALANCE    ©
+     14/07/89   170718 B M+S                                                  8 . 68                 27186, 46
+O            ODIS        1407 WORKING LUNCH 1407                 550737
+
+     17/07/89   467069 B CASH                                                  ,
+                                                                             10 00                   27196, 46
+O            ODIS        467069 TRAVEL AJC                      50737
+
+     27/07/89     50737 B                                                   154. 00                  27350. 46
+i)           PROF         OUR BILL 27, 7, 89
+
+     27/07/89    50737 BT                                                    23, 10                  27373, 56
+            PROF          OUR BILL 27.7,89                                                                                                               Cl
+     27/07/89     50737 B                                                 2244. 50                   29618. 06
+0            PROF         OUR BILL 27,7,89                                                                                                               ©
+
+     27/07/89     50737 BT                                                  375. 91                  29993, 97
+|>           PROF          OUR BILL 27. 7. 89
+
+     27/07/89     50737 B                                                  1045, 00                  31038. 97
+€f           PROF         OUR BILL 27.7. 89                                                                                                              ©
+
+     27/07/89     50737 BT                                                  156, 75                  31195.72
+;            PROF          OUR BILL 27.7.89
+
+     03/08/89   471917 B CASH                                                10. 50                  31206. 22
+O            ODIS        471917           TRVEL EXPENSES        25305                                                                                    €1
+
+     07/08/89      2108        TRENT                                                   26890. 64      4315. 58
+Cl           ORBL.             472517 COSTS
+
+     07/08/89     50716 B                                                                  5. 78      4309, 80
+if           CRED         Credit billed VAT
+
+     07/08/89    50716 B                                                                  38. 50      4271. 30
+            CRED         Credit rendered costs                                                                                                           ■O
+
+     08/08/89 472870 B _________________ CASH                                 5, 75                   4277. 05
+O            ODIS      472870 TVL EXP FOR 4. 8. 89 23 MILE 25305                                                                                         n
+
+     09/08/89     2120          TRENT RHA                                              67510.80      63233.75-
+€1           ORBL              473059 COSTS                                                                                                              L
+
+     16/08/89 146111 B MR M KALLIPETIS QC                                 55000. 00                   8233. 75-
+                                                                                                                              DELETED
+©            ODIS      474941  COUNSELS FEES                                                                                                             i :
+
+
+     16/08/89 146111         BT MR M KALLIPETIS QC                         8250. 00                     16. 25
+            ODIS                474941COUNSELS FEES
+                                                                                                                       DATE. ’ 9   .WAY B n
+     17/08/89 146125         B APOLLO DESPATCH                                5, 50                     21, 75
+            ODIS               475118 COURIER SVC N1 EC4 ON 5.7, 25305
+
+
+©
+    •••••••
+
+              0    U(     *                                                                                                  ;^                                                                                                                o
+                                                                                                                              .        I-'
+
+              ^    HATTER LEDGER DETAIL FOR D. L. B.                                                                                                                                                   for AJC at 08. 15 on 09/05/91    PAGE
+              o                       ■ ■■ -*                                                                                                                                                                                                  ©
+                                                                                                 ■■■■.
+                                                                                                 -               ■                     i
+                                                                                                                                                                                                                     COMPUTER ARCHIVE
+              o    M6IIiR.„Ny«®ER„_.326S/„„_24                                                                                                                                                                                                 o
+                                                                                                                                                                                                                     No
+                        DATE   REF,                 DESCRIPTION                             --                               O F F I C E                                                                                O L I E H T-
+              o                                                                                                                                                                          EjAt Akirc
+                                                                                                                                                                                          1 '**“                DEBIT     CREDIT     BALANCE   o
+
+                   17/08/89 1463.25 BT     APOLLO    DESPATCH ■
+              o           ODIS             475118 COURIER SVC N1 EC4ON 5.7.    25305
+                                                                                                                 Y       /yj
+                                                                                                                                                          ■■
+
+                                                                                                                                                                            •
+                                                                                                                                                                                                                                               o
+                   17/08/89 146125    &    APOLLO    DESPATCH                               100.                                                                                          123. 32
+              o           ODIS             475123 COURIER SMC LDS    TO LON ON 25305
+                   17/88/89 146125 BT      APOLLO    DESPATCH                                    15.11                                                                                    138. 43
+              o           ODIS             475123 COURIER SVC LDS    TO LON ON 25305                                                                                                                                                           o
+                   26/06/90   25305 B                                                                                                                                                    2245. 18
+              o           PROF            FEES TRENt REGIONAL AUTH 22. 6. 90 AJC       .■   ■■
+                                                                                                     r‘ y*
+                                                                                                  ■ ■■       ■   ■       -. ■■■        .            '■
+                                                                                                                                                                                                                                               o
+                                                                                                         ■
+
+                   26/06/90   25305 BT                                                      318.44                                                                                       2563. 62
+%
+              o           PROF         FEES TRENT REGIONAL AUTH 22.6. 90 AJC                                                                                                                                                                   o
+                   23/07/90 102485        TRENT RHA                                                                                                                    62                          0 . 00
+              o           ORBL.           2407 BILL 25305                                                                                                                                                                                      o
+
+                   23/07/90 1024S5 B TRENT RHA                                                                                                            0 . 02                                   0 . 02-
+              o           OREC       Mtt7 OVERPYMNT BILL 25305                 30269
+                                                                                            yyy                                                              " '
+                                                                                                                                                                                                                                               o
+                   13/02/91 587269 B      i                                                       •A*.«                                                                                       21. 58
+              o           ODIS            587269   TRAVEL EXPENSES             30269
+                                                                                                                                               ; • -
+                                                                                                                                                                                                                                               o
+                                                                                                                                                   :                                         43. 18
+                   19/02/91 588353 B      I____________
+                                             '         ' I-.CASH                                 21.60
+              o           ODIS            588353 TRVL EXPS LEEDS/SHEFFIELD 30269                                                                                                                                                               o
+                   18/03/91   30269 B                                                  2700. 00                                                                                          2743. 18
+              .o          PROF        OUR BILL 14.3. 91 - AJC                                                                          "'Y.■
+                                                                                                                                           ■             - .
+                                                                                                                                                               .                                                                               o
+                   18/03/91   30269 BT                                                      411. 47                                   Y ■' ■■                                            3154. 65
+              o           PROF         OUR felLL 14.3. 91    AJC
+                                                                                                 5-/.
+                                                                                                                                  ■ ;y y :
+                                                                                                                                       '■•ST
+                                                                                                                                       •
+                                                                                                                                              -
+                                                                                                                                               ■                       ..
+                                                                                                                                                                                                                                               o
+                   03/04/91 102747        TRENT RHS                                                                                    - “1. 65                                                    0 . 00
+              0           ORBL            0204 BILL 30269                              ■' ■■ r:                      ;
+                                                                                                                                                                                                                                               o
+              o                                                                                                                                                                                                                                o
+              o                                                                                                          ;
+                                                                                                                              ■.■■L
+                                                                                                                                                                   .
+                                                                                                                                                                   ■
+                                                                                                                                                                                    -Y
+                                                                                                                                                                                    '■                            GLIiaEFFSEi#                 o
+                                                                                                                                  ... '.                 ■                          ■
+
+
+
+              0                                                                                                                                                                                                                                o
+                                                                                                                                  -j
+
+
+                                                                                                                                  •            ••
+                                                                                                                                                    •
+
+
+                                                                                                                                                         . ■•■
+                                                                                                                                                                       y
+
+
+                                                                                                                                                                       ;
+                                                                                                                                                                                -
+
+
+                                                                                                                                                                                '
+                                                                                                                                                                                                                   d e le t e d
+              Q                                                                                                                                                '                                                                               Q
+                                                                                                                                                         7
+
+                                                                                                                                                                                                                                               Q
+                                                                                                                                                                                                             DATE.      *9   MAY 1991              ■
+
+
+
+
+                                                                                                                                                                                                                                               .o.
+                                                                                                                                               ■AnRjChh
+
+                                                                                                                     X .
+'BILLING GUIDE FOR D. L. B.                                                                                               at 10.11 on 05/01/90 PAGE          1
+ MATTER        35/
+CLIENT   TRENT REGIONAL HEALTH AUTHORITY                                            SOL. r e ;
+MATTER ADDRESS:-                                                                    EX. hCJ,
+       FULWOOD HOUSE
+       OLD FULWOOD ROAD
+       SHEFFIELD
+
+          510 3TH
+MATTER:  HILLSBOROUGH DISASTER
+REMARKS:
+R, DATE:  00/00/00
+                         CLIENT         MATTER
+CLIENT ACCOUNT        35135. 75             0 . 00
+OUTS. DISBS.           8906. 02         1    .50
+OFF. RECEIPTS          7S40. 25-            O. OO
+DEPOSIT                   O. DO-            O. 00
+UNPAID BILLS              O. 00             O. 00
+LAST BILL             20/12/89         >7/07/89
+LAST TIME             18/12/89         23/10/89
+
+CLIENT ACCOUNT:                                                                   DEBIT          CREDIT      BALANCE
+
+
+                                                                                                 TOTAL________ O. 00
+
+UNBILLED DISBS: to 05/01/90                                                       DEBIT          CREDIT   VAT TYPE        VAT        BALANCE     SUB-TOTAL
+
+
+  44
+        03/08/89     471917 471917   TRVEL EXPENSES                              10. 50                                              10. 50
+        08/08/89     472870 472870 TVL EXP FOR 4. 8. 89 23 MILES                  5. *75                                             16. 25
+                                                                                                                                                    16. 25
+
+  99
+         17/08/89    146125 475118 COURIER SVC N 1 EC4 ON 5. 7. 89                5. 50                                               5. 50
+         17/08/89    146125 475-123 COURIER SVC LDS TO LON ON 6. 7. 89          100. 75                                15. 11
+                                                                                                                                                   106. 2
+
+                                                                                                                                         TOTAL     122. 50
+UNBILLED TINE: to 05/0:1/90 <since 07/07/89 )
+                                             LAST TIME
+ 22     CALLAGHAN ANDREW                      21/12/89
+                                   A                               E                                  X                         BILLING VALUE
+15    CORRESPOND          0. 20          33. 40           0. 00        o 00                0. 00           0. 00
+45    PHONE IN            0. 05           8. 35           0. 00        0. 00               'KJ 00          0. 00
+49                        2. 40         267. 20           0. 00        Ci oo               Ci oo           0. 00
+50    PHONE OUT           0. 25          41. 75           0. 00        0, oo               0. nr
+                                                                                               V wi        0. 00
+55    PREPARING           1. 10         116. 90           0. 00            00              0. 00           0. 00
+65    TRAVELLING          0. 55          91. 85           0. 00        0. 00               0. OO           0.oo
+99    NON SPECIF         lO. 05        1010. 35           0,oo         Q . 00              0 . OO          0. 0 0
+
+
+      TOTALS             15. 40        1569. 80           0. 00        n 00                O. 00           0 . 00                 1569. BO
+
+149                                            21/I2/39
+0
+                                                                                                                        BILLING VALUE
+    IS   CORRESPOND      O. 50     50. OO              0. 00   0. 00                        O. 00         o. oo
+    20   DRAFTXNO        0. 15     15.00               0. OO   0 .0 0 1"                    O. 00         o. oo
+    30   NOTING          0. 30     30. OO              0. 00   0 . oo                       O. 00         0. 00                         f)
+    35   PERUSING        4. 35    275. OO              0. 00   O. 00                        O. 00         o. oo
+    50   PHONE OUT       O. 25     25. OO              O. 00   o. oo                        O. 00         0 . oo
+    55   PREPARING       2. 15    135. OO              0. 00   0 . oo                       0 . oo        o. oo
+    60   RESEARCH        0. 20     20. OO              0. 00   o. oo                        O. 00         o. oo
+    65   TRAVELLING      0. 55     55. OO              0. 00   o, oo                        o. oo         0 . oo
+
+         TOTALS         lO. 05    605. OO              0. 00   0 .0 0                                     0, 00
+
+
+
+
+                                                                                            p
+                                                                                            a
+                                                                                            o
+                                                                                                                           605. 00
+                                                                           [
+     GRAND TOTALS______ 25. 45   5174. 80_____________ O. 00   0.   oo                      O. 00         0.   oo         £174.
+
+o
+                                                                                                               cy   X
+                                                                                                      0
+
+
+
+
+                                                                                                                                        (I
+
+
+
+
+                                                                                                                                        !j
+
+
+                                                                                                                                        o
+
+
+                                                                                                                                        U
+
+
+u                                                                                                                                       I   V
+
+
+
+
+                                                                               A v V 0 / & / ? / 3L
+

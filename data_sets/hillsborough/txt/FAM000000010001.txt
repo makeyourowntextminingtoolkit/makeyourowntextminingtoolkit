@@ -1,0 +1,485 @@
+     National Board of Forensic Medicine
+     Department of Forensic Chemistry
+     UNKOPING
+     SWEDEN                                                             Linkoping 31 January 1998
+
+
+
+
+   Ms Ann Adlington,
+   Hillsborough Family Support Group,
+   Pioneer Buildings,
+   65/67 Dale Street,
+   Liverpool, L2 2NS,
+   UK
+
+   Dear Ms Adlington,
+
+   I am faxing you a preliminary report containing my review and opinion concerning the forensic
+   toxicology results in the Hillsborough disaster. A final report with more graphs and discussion
+   will be forwarded to you before the end of March. If this date is too late please let me know. The
+   problem is I am scheduled to visit the USA to teach a course for forensic alcohol supervisors at
+   Newport Beach, California and also to attend a forensic science conference in San Francisco.
+   Accordingly, I will be away from my desk during the first two weeks in February.
+
+   Evidently there are some problems in obtaining copies of the chromatographic traces for review
+   to reach an opinion about the identification and quantitative analysis of alcohol, acetaldehyde and
+   acetone. Nevertheless, perhaps you could obtain in writing from Dr. Forrest answers to the
+   following questions;
+
+    1      How many replicate determinations were made on each blood sample?
+
+    2.     Was an allowance (deduction) made from the raw analytical result to compensate for
+           inherent analytical and sampling variations?
+
+    3      How many stationary phases were used for the chromatographic separations needed to
+            identify ethanol, acetone, and acetaldehyde?
+
+    4.     What were the names of these stationary phases?
+
+    5.     How were the blood samples treated prior to analysis? What was the dilution ratio with
+           internal standard and was a salting-out step included.
+
+    6.     What was the chromatographic conditions used for analysis of acetone and acetaldehyde?
+           Evidently these substances were analysed in a separate run under different conditions
+           than used for alcohol.
+
+    7.     Can the method distinguish between formaldehyde and acetaldehyde?
+
+    8.     Was the equilibrium temperature 65°C as for analysis of ethanol?
+
+
+
+Address:                                        Telephone:                              Telefax:
+Department of Forensic Chemistry                + 46 13 12 98 80                        + 46 13 10 48 75
+University Hospital
+S-581 85 LinkOping
+SWEDEN
+                                                                                               2
+
+9.     How was the quantitative analysis of acetaldehyde made and how were the acetaldehyde
+       standards prepared? Where these made in water or a biological matrix?
+
+10.    Have any of the analytical procedures been published and therefore subjected to peer-
+       review?
+
+Perhaps Dr. Forrest would be kind enough to provide answers to these questions before I make
+my final report. Also it might be worthwhile to enquire whether or not Dr. Forrest’s laboratory
+was accredited for post-mortem alcohol analysis or is currently accredited for this kind of work.
+
+With best wishes,
+Yours sincerely,
+
+
+
+A.W. Jones, PhD,
+Head of Alcohol Toxicology
+Professor in Experimental Alcohol Research
+                                                                    Linkoping 31 January 1998
+
+
+
+
+Ms Ann Adlington,
+Hillsborough Family Support Group,
+Pioneer Buildings,
+65/67 Dale Street,
+Liverpool, L2 2NS,
+UK
+
+
+
+
+                             Review and Opinion
+                                      Preliminary Report
+
+                                               by
+
+                               Professor A.W. Jones, PhD, DSc.
+
+          Concerning Forensic Toxicology Results in the Hillsborough Disaster
+
+
+I have reviewed various materials relevant to the inquiry into the Hillsborough disaster including
+autopsy reports for many of the victims, transcript of evidence given by a statistician (Mr. J.P.
+Nichols), various statements made by a toxicologist (Dr. A.R.M Forrest), a table listing the
+concentrations of ethanol, acetone, and acetaldehyde determined in 94 autopsy blood samples
+from the victims, a letter from Dr. Forrest to C.P. Dorries (H.M. Coroner) dated 2 December
+1997, a letter from Dr. Forrest to Ann Adlington dated 16 January 1998.
+        The key question that needs to be answered is whether the concentrations of alcohol
+(ethyl alcohol), acetone, and acetaldehyde given in the toxicology report actually reflect the
+antemortem concentrations of these substances in the victims or instead whether they might
+reflect postmortem or analytical artefacts of some kind.
+
+Findings
+According to the autopsy reports blood samples were retained for toxicological analysis.
+However, the site used to obtain the blood sample, the mode of sampling, and the volume taken
+and the condition of the specimen were not stated in the reports. According to Dr. Forrest s letter
+to H.M. Coroner dated 2 December, 1997, the blood was sent to his laboratory in sample tubes
+ containing fluoride-oxalate (the volume of the tubes, the volume of specimen, and amount of
+ chemical preservative in each are not mentioned). On page 2454 of a statement by Dr. Forrest,
+ he noticed that the blood samples were contained “in plastic 5 milliliter containers usually used
+for blood samples takenfor blood glucose analysis. This poses o f itself a number ofproblems.
+ I agree with this standpoint for several reasons besides those given by Dr. Forrest.
+                                                                                                   2
+
+
+       First, the amount of fluoride in blood-glucose tubes is normally 20 mg per 5 mL tube
+       (0.4%). This is not enough for preserving non-sterile autopsy blood samples and instead
+       1-2% fluoride should be used or 50-100 mg per 5 mL tube should be used. The amount
+       of fluoride present in blood-glucose tubes might not be sufficient to inhibit the action of
+       microorganisms and yeasts likely to be present in postmortem blood. It cannot be
+       excluded therefore that small amounts of ethanol might have been produced in these
+       tubes after the autopsy during the storage period of several days before they were
+       analysed.
+
+       Second, plastic tubes and sometimes also the stoppers used on them are known to liberate
+       volatiles into blood samples and this can interfere with the toxicological analysis of some
+       compounds.
+
+        Third, the risk of loss of alcohol into the air space above closed tubes is exaggerated
+        because at room temperature the blood/air partition coefficient of ethanol is very strongly
+        in favour of the liquid phase by a factor of several thousand to one.
+
+        Fourth, it would be useful to document who was responsible for transfer of blood into
+        these plastic tubes, evidently it was not the pathologists.
+
+In two of the autopsy reports for Andrew Brooks and Gordon Horn, it states that blood was
+ “taken form the heart for alcohol estimation. ” This is the worst possible source of blood for
+alcohol determination because of the risk of postmortem diffusion of any traces of alcohol that
+might remain in the stomach or by aspiration of vomit that might contain traces of alcohol (see
+Pounder and Yonemitsu, Postmortem absorption of drugs and ethanol from aspirated vomitus -
+an experimental model, published in Forensic Science International, Vol.51,1991, pp 189-195.
+Furthermore, the close anatomic proximity of the heart to the gut facilitates the influx of
+gastrointestinal bacteria to the inner organs such as the heart and its blood supply. For
+determination of ethanol in autopsy work, blood from the femoral vein is recommended
+whenever this is possible. Because the other autopsy reports fail to specify the source of blood
+submitted for toxicological analysis, it cannot be exclude that these were also obtained from
+the heart. I am not a pathologist and therefore refrain from making any other comments about
+the autopsy reports except to state that evidently no other body fluids were taken for alcohol
+analysis, e.g. bladder urine or vitreous fluids from the eyes.
+         From the transcripts it is clear that resuscitation attempts were made on the victims
+presumably starting at the football ground and continuing at the emergency service and intensive
+ care departments of the general hospital. Whether any drugs were administered it start the heart
+ beating and how these drugs were prepared, e.g. if they were dissolved in organic solvents is an
+ important consideration. Furthermore, administration of intravenous fluids can sometimes cause
+ problems with later toxicological analysis of alcohol and other volatiles. In short the therapeutic
+ treatment and attempts at resuscitation and how this might have differed among the victims might
+ be significant in helping to interpret the results of toxicological analysis. Finally, were there any
+ open bottles or containers with organic solvents (e.g. formaldehyde) during the autopsy
+ procedures in the large temporary mortuary at the ground, because the risk of contaminating
+ biological specimens with extraneous solvents is often underestimated.
+                                                                                                   3
+
+
+Toxicological analysis of blood samples
+         According to the transcripts of Dr. Forrest’s evidence and his letter to H.M. Coroner dated
+2 December 1997, the blood samples were analyzed by headspace gas chromatography. I confirm
+that this method of analysis is used worldwide in forensic and toxicology laboratories for the
+qualitative and quantitative analysis of volatile substances (alcohol, acetone etc.) in biological
+samples from living persons and from dead bodies. However, the analytical procedures differ
+widely from laboratory to laboratory in terms of method of sample preparation, e.g. dilution with
+internal standard (volume and kind of standard), chromatographic operating parameters,
+equilibrium temperatures, method to eliminate matrix effects (e.g. salting-out), and method of
+standardization of detector response. The choice of an alcohol calibration standard at such a high
+concentration as 200 mg/dL to make a quantitative analysis of very low concentrations (10-20
+mg/dL) as in this material is baffling. Moreover only a single-point calibration seems to have
+been performed. Not enough details of Dr. Forrest’s particular method are available to me to
+make a detailed assessment - saying that his method is similar to the one used at the UK Home
+Office laboratories is no validation of the analytical procedures used by him. I presume that Dr.
+Forrest’s laboratory is accredited for performing postmortem toxicology and in particular
+blood-alcohol analysis. Information such as accuracy, precision, limits of detection and
+quantitation and inherent specificity of the method used to analyse blood from victims in the
+Hillsborough disaster cannot be adequately reviewed and have apparently not been published in
+ a peer-reviewed scientific journal. Citing a method coefficient of variation of 2.8% is not so
+ informative - is this derived from analyzing water-standards or blood-standards or actual case
+ blood specimens? A key piece of information is the magnitude of differences in results for
+ duplicate determinations on each of the 94 blood samples in this case. Without making duplicate
+ determinations one cannot exclude a gross error or blunder in the single assay. Hence the number
+ of determinations made on each blood specimen is important to ascertain.
+          In his letter to H.M. Coroner dated 2 December 1998, Dr. Forrest states that his technique
+  “is specific for measurement o f ethanol (ethyl alcohol) in the sample. ” Unfortunately, he does
+ not enlarge on how this specificity was guaranteed, that is, the number of different
+ chromatographic systems used to analyze the blood samples for alcohol. Good laboratory
+ practice in postmortem toxicology requires that autopsy specimens are analysed with at least two
+ different methodologies or by one methodology such as gas chromatography but using two
+ different materials to pack the columns (stationary phases). This furnish two different retention
+ times for ethanol and helps to ensure correct identity of the particular substance being analyzed.
+ Analyzing blood-ethanol in autopsy materials with only one column packing material is not
+  a recommended practice because of the limited selectivity obtained and risk for
+  interferences. The way the blood samples were treatment prior to analysis, that is amount of
+  dilution with internal standard is not mentioned. The use of n-propanol, the internal standard,
+  is commonly seen when blood from living subjects is analyzed, although this is less appropriate
+  for autopsy work because this straight chain 3-carbon alcohol might be formed in putrefied
+  tissues or decomposed bodies thus complicating the analysis.
+           The reliable quantitative analysis of acetaldehyde in blood is not easy and the preparation
+  and validation of the known strength standard solutions needed to calibrate the instrument is
+  difficult. I cannot accept that the high concentrations of blood-acetaldehyde in the report reflect
+  in any way the concentrations in-vivo during life. It is my opinion that these acetaldehyde
+  levels reflect some kind of postmortem or analytical artefact. Another possibility is that
+                                                                                                 4
+
+acetaldehyde is produced as a consequence of the mode of death - suffocation and crushing -
+which might have facilitated the spread of bacteria from the colon. Some recent research
+indicates that colonic bacteria are a rich source of acetaldehyde even in living subjects.
+         Finally the chain of custody of the blood specimens, the storage conditions after sampling
+and the time delay form autopsy to when they were analyzed needs to be carefully investigated
+and documented. Without more details of the analytical procedures used by Dr. Forrest to arrive
+at the results - just to state by headspace gas chromatograph - is not satisfactory and his results
+must therefore be taken at face value. Alcohol (ethyl alcohol) was not determined in any other
+postmortem specimens and no independent markers of recent drinking were investigated such
+as ethyl glucuronide a specific metabolite of ethanol. In my opinion the absence of corroborating
+evidence of antemortem ingestion of alcohol such as presence and concentration in urine or
+vitreous humor makes the forensic toxicology results questionable. The blood-alcohol
+concentration alone might be satisfactory in clinical medicine when dealing with specimens from
+living subjects, but this is not the case in postmortem toxicology.
+
+Blood-alcohol concentrations
+Figure 1 shows a frequency distribution of blood-alcohol concentrations in the victims of the
+
+
+
+
+                 50-1                                                         -50
+                 45    -
+                                                                              -45
+                 40    -
+                                                                              -40
+                 35    -
+                                                                              -35
+                 30    -
+                                                                              -30
+               8 25
+                 "     -
+                                                                              -25
+               £ 20 -                                                         -20
+                     15-
+                                                                              -15
+                     10:                                                      -10
+
+
+                                              100          150         200
+                                      Blood-Alcohol, mg/dL
+              Figure 1: Frequency distribution of blood-alcohol concentration in
+              victims of the Hillsborough disaster
+
+Hillsborough disaster. This graph was drawn from the results sent to me as a data file. Shown in
+this way, one sees immediately that the vast majority of the victims (N = 50 or 53%) have a
+blood-alcohol content of zero or less than 10 mg/dL and 4 others are less than 20 mg/dL. These
+concentrations are so low that in autopsy work they should be considered negligible. These
+results provide no tangible evidence of ingestion of alcohol before death. I strongly disagree with
+Dr. Forrest’s statement that 10 mg/dL “is the sort o f thing that one might get if one had a couple
+o f pints the night before. ” This statement has no basis of fact because the alcohol from drinking
+a couple of pints the night before would have been completely cleared form the blood in the early
+                                                                                                   5
+
+hours of the morning - the accident occurred 10-12 hours later, that is, early afternoon. Although
+these low concentrations (10 and 20 mg/dL) are measurable in blood by headspace gas
+chromatography, it is my opinion that without corroborating evidence provided by presence of
+alcohol in an independent biological specimens, such as urine or vitreous, these low levels lack
+any medicolegal significance. The problems and pitfalls of trying to interpret low autopsy blood-
+alcohol concentrations was highlighted in a recent paper by Levine et al. (Interpretation of low
+postmortem concentrations of ethanol, which was published in Journal of Forensic Sciences, Vol
+38, 1993, pp 663-667). These authors are of the opinion that interpreting levels less than 50
+mg/dL can be complicated by postmortem ethanol formation. The blood-alcohol results below
+this threshold in victims of the Hillsborough disaster should be interpreted with great caution
+without the supporting evidence provided by analysis of vitreous humor or urine. In short low
+concentrations could easily reflect postmortem formation of ethanol.
+          Bladder urine and vitreous humor are body fluids widely used in postmortem toxicology
+as specimens for the analysis of alcohol because of the considerably lower risk of postmortem
+ synthesis of ethanol in these specimens. The lack of a substrate (glucose) in urine in healthy
+individuals and the remoteness of the eyes from influx of bacteria from the gut makes it less
+ likely that alcohol can be synthesized in urine or vitreous after death. It is important to note that
+ a corpse does not have to be decomposed and putrefied for small amounts of ethanol to be
+ synthesized postmortem - a combination of time, temperature, availability of substrate, and mode
+ of death are important variables. On the other hand, finding a close agreement between the
+ alcohol concentrations in blood, urine, and/or vitreous would validate beyond a reasonable doubt
+ that the blood alcohol in excess of 20 mg/dL indicate antemortem ingestion and not postmortem
+ formation. Without corroborative evidence, it is my opinion that those fatalities with a
+ blood-alcohol concentration below 20 mg/dL should be considered alcohol-free. Those cases
+ with blood-alcohol between 20-50 mg/dL should be interpreted with great caution and the
+ victims can be given the benefit of the doubt, i.e. that alcohol had not been consumed
+ before the accident.
+          Also of note is that only 15 Individuals (16%) had blood-alcohol concentrations above
+ 80 mg/dL, which corresponds to the statutory limit in UK for driving a motor vehicle. The two
+ highest blood-alcohol concentrations were 172 mg/dL (a man aged 21) and 177 mg/dL (a man
+ aged 29) and I must admit that even without corroborating evidence it seems likely that these
+ individuals had consumed alcohol before the disaster. Seven of the victims aged from 17-34 y
+ had blood-alcohol concentrations over 100 mg/dL. Again it seems likely that these individuals
+  might have been drinking before the disaster. Eight other individuals had blood-alcohol
+  concentrations between 90 and 99 mg/dL and their ages ranged from 18-45 y.
+          Information is not available whether or not the spectators at the football match were
+  searched for concealed alcoholic drinks before they entered the ground. This might be important
+  because drinking from a can of lager (4% v/v alcohol or 3160 mg/dL alcohol) or taking a sip of
+  whisky (40% v/v alcohol or 31600 mg/dL alcohol) just before the accident would produce a high
+  concentration of alcohol in the stomach contents. Thus aspiration of vomitus, which is not
+  unusual in deaths from traumatic asphyxia, (see Professor Usher’s statement) if this contains high
+  concentrations of alcohol from the stomach might be expected to facilitate postmortem diffusion
+  of alcohol from the lungs to the heart. The positioning of the body after death and the mode of
+  handling and transport are also important things to consider when post-mortem diffusion of
+  alcohol and other drugs become an issue.
+                                                                                                6
+
+Blood acetaldehyde concentrations.
+Figure 2 shows a frequency distribution of blood-acetaldehyde concentrations in the specimens
+from the Hillsborough victims. Trace amounts of acetaldehyde are normally present in body
+fluids in living subjects and this substance is also produced by numerous strains of bacteria and
+microbes. Moreover, acetaldehyde is produced when alcohol (ethyl alcohol) is metabolized in
+the body. Acetaldehyde is a highly toxic and chemically reactive agent and binds to proteins and
+other endogenous substances. Studies have shown that the concentrations of free-acetaldehyde
+in blood during the metabolism of ethanol are so low that they are close to the limits of detection
+by the available methods of analysis (< 1 |imol/L or 0.044 mg/L). It is also known that
+acetaldehyde can disappear from blood and also be produced in blood after sampling the net
+effect is however a post-sampling production of acetaldehyde especially if ethanol is present in
+the blood sample. The commonly accepted mechanism for this in-vitro production of
+acetaldehyde is through nonenzymatic oxidation of some of the ethanol content as outlined by
+ Dr. Forrest.                                                                                     .
+          All analytical toxicologists know that interpreting the concentrations of acetaldehyde in
+ samples of whole blood submitted for analysis whether from living or dead subjects and
+ especially if the specimens are stored for some time before analysis is not easy. Accordingly, it
+ is difficult to know what the results in figure 2 actually mean in terms of antemortem blood-
+ acetaldehyde levels. Most concentrations were zero or below 5 mg/L (113 |amol/L) but even 5
+ mg/L is astonishingly high compared with those concentrations generally accepted to exist in-
+ vivo during ethanol metabolism. This leads me to conclude that the concentrations of blood
+ acetaldehyde in victims of the Hillsborough disaster represent some artifactual source, either
+ analytical or postmortem or both. The blood-ethanol and blood-acetaldehyde concentrations were
+ positively correlated, Pearson's r = 0.57 (N = 94) and although this figure was statistically
+ significant it is a rather weak association with only 32% of the variance shared between the two
+ variables. When all cases with zero blood-ethanol were removed from the material the correlation
+ was much less (r = 0.30, r2 = 0.09, N = 53). When all blood-ethanol concentrations below 10
+
+
+                    55-                                                        55
+                    5 0 -1
+                    45-                                                        45
+                                                                               40
+               x    4° :
+               £    35-                                                        35
+               ^    SO­
+               S’   25-                                                        25
+                                                                               20
+
+
+
+
+                                    20     30    40    50   60               70
+                                    BIood-Acetaldehyde mg/L
+              Figure 2: Frequency distribution of blood-acetaldehyde concentrations
+              in victims of the Hillsborough disaster.
+                                                                                              7
+
+mg/dL were eliminated the correlation between blood-ethanol and blood-acetaldehyde was even
+lower (r = 0.155, r2 = 0.024, N = 44). This reinforces my opinion that something must be
+radically wrong with the blood-acetaldehyde results because one would expect a strong positive
+association between these two variables if acetaldehyde was derived from ethanol in the blood.
+The reason why Dr. Forrest has chosen to use non-parametric rank correlation methods
+to assess correlations between quantitative variables is not clear to me. Moreover, at blood-
+alcohol concentrations above 10 mg/dL, insignificant correlations for ethanol vs age (r = 0.18),
+and acetaldehyde vs age (r=0.007) were found. Also the acetone vs age correlation for the whole
+material (N = 94) had a Pearson’s r = 0.014, again being close to zero.
+
+Blood-acetone concentrations
+Figure 3 shows the frequency distribution of blood-acetone concentrations in victims of the
+Hillsborough disaster. Acetone is a well known product of metabolism and is one of the three
+ketone bodies (acetoacetate, B-hydroxybutyrate, and acetone), and acetone is produced by
+decarboxylation of acetoacetate. Acetone is present in blood of normal healthy individuals at a
+mean concentration of about 1.6 mg/L, median 1.3 mg/L (N = 288) and the levels might range
+from 0.15 to 15 mg/L (see Jones et al. Concentrations of acetone in venous blood samples from
+drunk driver, type-1 diabetic outpatients and healthy blood donors, Journal of Analytical
+Toxicology, Vol. 17,1993, pp 182-185).
+        Most of the concentrations of acetone in figure 3 are very much higher than the highest
+observed in 288 healthy blood donors which was 15 mg/L. Prolonged fasting, hyperglycemia in
+poorly treated diabetes mellitus, vomiting, as well as strenuous exercise and stress are well
+known conditions that cause an increase in the concentration of circulating ketone bodies and
+high blood-acetone concentrations. In emergency situations the body turns to the catabolism of
+lipids as an additional source of energy. I consider therefore that the elevated blood acetone
+concentrations in victims of the Hillsborough disaster reflect the manner and mode of death
+- the profound panic and stress reaction caused by suffocation, the fight to survive, the
+drive for oxygen, and the fear of being crushed to death.
+         If the blood-acetone concentrations reported are correct this information would be
+worthwhile to publish in a medical journal to illustrate the range of blood-acetone in such
+
+
+                    1 5 -f                                                  15
+
+
+
+                                                                            10
+
+
+
+                                                                            5
+                i
+
+
+                                                                          0
+                      ~0         20        40        60        80       100
+                                      Blood-Acetone, mg/L
+                Figure 3: Frequency distribution of blood-acetone concentrations
+                in victims of the Hillsborough disaster.
+                                                                                                 8
+
+extreme pathological situations. Only by publishing results of new findings in open peer-
+reviewed scientific journals can we hope to spread information to our colleagues.
+
+Conclusions
+The most contentious issue in the toxicology report from the Hillsborough disaster seems to be
+the results of the blood-alcohol concentration. In particular, whether these reflect pre-accident
+ingestion of alcohol and the likelihood of alcohol-induced impairment of body functioning. I
+have reached the following preliminary conclusions about the toxicological analysis until more
+information is made available about the procedures used to analyse alcohol, acetone, and
+acetaldehyde in post-mortem blood samples.
+
+1.     Taking the blood specimens for determination of alcohol from the heart instead of a
+       peripheral vein was an unfortunate decision.
+
+2.     Failure to obtain specimens of bladder urine or vitreous humor or both for alcohol
+       analysis was an obvious mistake if the results of blood-alcohol analysis were to be given
+        evidential value as indicative of antemortem ingestion of alcohol and impaired
+       performance.
+
+3.     Interpreting low postmortem blood-alcohol concentrations (< 20 mg/dL) and perhaps
+        even those as high as 50 mg/dL as reflecting the concentration in the body at the time of
+        death is unjustified without corroborating and supporting evidence provided by analysis
+        of vitreous or urine.
+
+4.     Calculating the amount of alcohol in the body at the time of death and the amount
+        ingested is not a recommended practice especially at low blood-alcohol concentrations
+        observed in most of the victims of the Hillsborough disaster.
+
+5.     Inteipreting the blood-acetone concentrations without knowledge of the concentration of
+        other ketone bodies e.g. acetoacetate and B-hydroxybutyrate is not easy. However
+        metabolic disturbances and ketoacidosis seems likely as a consequence of the panic
+        reaction prior to death resulting in stress and adrenaline-induced lipolysis. Ketone bodies
+        are products of fat catabolism.
+
+6.     The abnormally high blood-acetaldehyde concentrations are difficult to rationalize and
+       probably reflect some postmortem or analytical artifact. One explanation might be an
+       increased production of acetaldehyde in the gut owing to the manner of death through
+       lack of oxygen and the state of anoxia. Also possible contamination of blood specimens
+       with solvents should be considered.
+
+7.     Throughout all transcripts sent to me, much too much emphasis has been placed on the
+       results of blood-alcohol analysis and either directly or indirectly what these mean in
+       terms of impairment of performance and behaviour. Attempts to translate these blood-
+        alcohol concentrations into pre-accident drinking practices of the victims are seriously
+        flawed. The relationship between blood-alcohol concentration, amount of alcohol
+        consumed, and the associated impairment of body functioning shows great individual
+                                                                                                      9
+
+              variation. The insinuation that many of the victims were drunk (BAC > 80 mg/dL) at the
+              time of the disaster and thus too impaired through drink to respond to a novel situation
+              and that this played some role in their death is unjustified. Without supporting evidence
+              provided by analysis of vitreous humor or bladder urine, in my opinion correct
+              interpretation of the blood-alcohol concentrations in victims of the Hillsborough disaster
+              is a difficult task.
+
+V   a i i w
+
+
+
+
+A.W. Jones, PhD, DSc.,
+Head of Alcohol Toxicology
+Professor in Experimental Alcohol Research
+

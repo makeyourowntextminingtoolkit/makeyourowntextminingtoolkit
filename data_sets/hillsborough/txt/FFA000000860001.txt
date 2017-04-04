@@ -1,0 +1,193 @@
+      Football League
+National Membership Scheme
+
+     Queueing Model
+
+
+
+
+          Arthur Young
+      Management Consultants
+           Rolls House
+         7 Rolls Buildings
+           Fetter Lane
+             London
+           EC4A1NH
+
+          February 1989
+Introduction
+
+This report presents the findings of our investigation into the effects of ID cards on queueing at
+Football League grounds.
+
+The objective of the study was to simulate queueing delays in a typical difficult situation that the
+scheme would have to deal with. We chose a mid-week evening match, the Arsenal v Liverpool
+Littlewoods Cup replay on 9th November, 1988. The final attendance at this match was a capacity
+crowd of 54,029 with three to five thousand people locked outside.
+
+We concentrated on people arriving at the Clock end of the ground. Data was provided by Arsenal
+F.C. for this area serviced by a total of 17 turnstiles.
+
+We analysed the following scenarios regarding people arriving at the ground:
+
+■   what actually happened (people taking 6 seconds to proceed through a turnstile)
+
+■   the effects of an extra one or two seconds added to turnstile time to allow for card reading
+    time
+
+■   the effects of an additional delay of 20 or 40 seconds for problem cards (banned, expired or
+    unreadable), assumed to be 4% of the total arrivals
+Conclusions
+
+Any delay caused by membership cards may Increase queueing times substantially and many
+people may not be admitted until well after the scheduled kick ofF time.
+
+■   The maximum queueing time, which occurs about 15 minutes before the scheduled kick off,
+    would increase by between 6 and 25 minutes (Le. from 12 to between 18 and 37 minutes)
+
+■   The extra time required to admit everyone would increase by between 16 and 48 minutes (i.e.
+    from 11 to between 27 and 59 minutes)
+
+The following table and graphs present the output for each of the turnstile times that were
+modelled:
+
+
+Turnstile              Additional invalid     Maximum time          Time after scheduled kick
+time (secs)            card time (secs)       queueing (mins)       off to admit everyone (mins)
+
+       6                      0                      12                           11
+       7                      0                      18                           27
+       7                      20                     24                           39
+       7                      40                     30                           49
+       8                      0                      25                           41
+       8                      20                     31                           50
+       8                      40                     37                           59
+
+We cannot determine which of the above scenarios is most accurate until the procedures have been
+decided and trials at matches have been carried out, but we believe the estimates above cover the
+likely range of possibilities.
+Queueing                           No extra time for problem cards
+  time
+(minutes)
+30
+
+
+
+25
+                                                                                         Turnstile
+                                                                                            time
+                                                                                         (seconds)
+20
+
+                                                                                           —8
+
+15                                                                                         -- 7
+
+                                                                                             6
+
+10
+
+
+
+
+           ■y
+                •v
+
+
+     -90             -75   -60   -45     -30     -15                 15   30   45   60
+                                 Arrival time (minutes from kick off)
+Queueing Time                  Turnstile time 7 seconds with 4% problem cards
+  (minutes)
+  30
+
+
+
+  25
+
+                                                                                          Delay for problem
+                                                                                           ca rds (seconds)
+   20
+
+                                                                                                — 40
+
+   15                                                                                           - -   20
+
+
+
+   10
+
+
+
+    5
+
+              V
+              •y
+                   o
+    0
+        -90            -75   -60    -45     -30     -15      0       15         30   45    60
+                               Arrival time (minutes from scheduled kick off)
+Queueing Time           Turnstile time 8 seconds with 4% problem cards
+  (minutes)
+  40
+
+
+  35
+
+
+  30
+                                                                                   Delay for problem
+                                                                                    cards (seconds)
+  25
+                                                                                         — 40
+
+  20                                                                                     - -   20
+
+
+  15
+
+
+  10
+
+
+   5
+
+
+   0
+       -90      -75   -60    -45     -30     -15      0       15         30   45    60
+                        Arrival time (minutes from scheduled kick off)
+Appendix - Simulation Model
+
+The m odel has been developed using the Microsoft Excel spreadsheet package on an IBM personal
+computer. The inputs are as follows:
+
+■    number of arrivals per minute
+
+■    number of turnstiles operating
+
+■    normal turnstile time
+
+■   percentage of problem cards
+
+■    problem turnstile time
+
+The findings in this report are based on the assumption that the same number of people would
+attend a similar future game, arriving at the same time as they do now, regardless of
+implementation of an ID card scheme, Le. it ignores the possibility of lower attendances or earlier
+arrivals.
+
+We estimated the initial queue and the pattern of arrivals for each minute after the turnstiles
+opened based on the available data, with a peak between 30 and 15 minutes before scheduled kick-
+off. We assumed that the arrival rate is evenly spread between each of the 17 turnstiles modelled,
+and that all of the turnstiles would be open when required.
+
+We observed from the data that the turnstile time during the peak of arrivals was 6 seconds, Le. 10
+per minute per turnstile. Hus figure has been used as the "normal" turnstile time, with no delays
+when proceeding into the ground. We have simulated turnstile times of 6, 7 and 8 seconds, with
+additional different delays of 0,20 and 40 seconds for problem cards, as we do not know which type
+of card will be used and hence the time to admit someone through a turnstile. We have not
+allowed for any possible congestion (e.g. when questioning potential offenders or from major
+computer delays over and above the one or two seoonds)
+
+Using the above inputs the model calculates the number of people arriving and served in each
+minute and hence the number of people still queueing and the time spent queueing.
+

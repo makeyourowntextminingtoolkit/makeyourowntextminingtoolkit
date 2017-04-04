@@ -1,0 +1,594 @@
+                                                       WE/KH/7347
+
+
+
+
+The Secretary,                                         3 February 1987
+Sheffield Wednesday Football Club pic,
+Hillsborough,
+Sheffield,
+S6 1SW.
+
+
+
+Dear Mr. Mackrell,
+                      Emergency Lighting System
+         In going through our accounts, our auditors have pointed
+out that we have not vent an account for our work associated with
+the emergency lighting system and battery tests carried out in
+■1985.   ■
+         Our fees account is enclosed.   Please accept our apologies
+for not having sent it sooner.
+         We will bring you up to date with the background to the
+emergency lighting when we meet.
+
+
+                                 Your s sincerely,
+                                                                                      73 4 7
+                                                       L   o j^ L .
+                                                       I ajv ' I
+         Anthony         Clough          Engineering               Systems
+Eastwood and Partners                                               9 Anglesey Road
+St.Andrews House                                                          Dronfield
+23 Kingfield Road                                                         Sheffield
+Sheffield                                                                 S18   60Z
+Sll 9AS                                                             Tel 0246 414024
+
+WE/JAS/SW/7347                                                         AJC/WP/31/01
+
+For the attention of Mr J.A.Strange                                28 November 1985
+
+
+Dear John
+
+               Sheffield Wednesday Football Club Ltd
+                           Battery Test
+
+          As requested I attended at the above grounds on
+Thursday afternoon 21 November 1985 to observe a test of the
+emergency   lighting   batteries,  which was carried out in
+collaboration with Sandas Batteries.
+          The test consisted of activating all the emergency
+lights served by the central      battery system, and observing
+voltage and current readings over a three hour period.       In
+addition hydrometer and voltage readings were taken of some
+individual cells which had previously showed lower than normal
+voltages, so that they could be closely monitored for impending
+failure.
+          The   voltmeter built in to the panel was very
+inaccurate, reading approximately 82% of the true value.     For
+convenience this meter was used during the test, but was
+checked at intervals against an accurate reference meter.    The
+true or corrected readings are shown alongside in the table.
+          The test showed that the system was able to maintain
+the actual voltage within the required 10% of the nominal value
+over a three hour period.   This was  so despite the complete
+failure of one cell      (no 24) after two hours.  The remaining
+cells all appeared-to be in sound condition after the test.
+             ciuAH>r     .
+
+Whilst              give guarantees, it seems unlikely from this
+test that there will be a large number of cell failures in the
+next year or two.
+
+          This battery installation has now been in use for
+approximately 30 years, which is as long as might be expected,
+but it is not unknown for such cells to last up to 40 years.
+So there would seem to be no case for condemning           the
+installation until   there are definite signs of widespread
+deterioration.
+
+                                Eastw ood & Partne
+                                            3 0 NOV-1985
+                                   ;’d
+
+       A. J. Clough Chartered Engineer B.A. M.LMechE. M.C.I.B.S. A.M.I.E.E.
+           When the new east     stand is built the additional
+emergency lighting will      impose an increase in load of about
+30%.    These alterations    sometimes involve other upgrading
+activities,      so it may be prudent to expect a load increase of
+up to 40%.     This will have slightly disproportionate effect on
+the available duration which could drop to about 60%.         This
+would     give something over one and a half hours capacity from
+the batteries in their present condition, which suggests that
+they would easily satisfy the Fire           Authority's presumed
+requirement of one hour's duration for some time to come.
+          I believe that at one time it was agreed that half an
+hour's duration would be acceptable for this installation,
+until such time as the batteries were replaced, though I cannot
+find any confirmation of this on the services files.
+           It is obviously desirable on economic grounds to
+retain any concession, so that the usable battery life is
+maximised.      We should therefore not do anything to encourage
+the authority to expect the full three hour duration specified
+in BS 5266 and recommended by the 'Green Code'.
+
+                        Yours Sincerely
+SHEFFIELD WEDNESDAY FOOTBALL CLUB LTD                  31/02
+Emergency Battery Test                      21 November 1985
+
+Time     Meter Volts          True Volts       Load Current
+
+1:30      216                 (262)            nil
+2:00      216                  262             nil
+2:03      190                 (231)            34 amps
+2:06      185                  225
+2:15      185                 (225)            3 8 amps
+2:35      187                  225
+3:03      184                 (222)            3 8 amps
+3:40      183                 (221)            37 amps
+4:03      182                 (220 )           cell 24
+4:08      181                 (219)            37 amps
+4:28      180                 (218)
+4:43      180                 (218)
+4:50      180                 (218)            37 amps
+5:03      180                  218             3 7 amps
+
+Note:  Load test commenced at 2:03 at 3 4 amps without South
+Stand switched circuits.   These were switched in at 2:15,
+raising load to the full value of 38 amps.
+                             TELEPHONE MESSAGE
+
+J O B No.       1341             PROJECT:
+                                                          s W . y. c
+DATE:       11 j i ») 8 5
+
+TO:     fV ^     c. .
+
+FROM:
+
+
+
+
+                       ^                          ^                               JL*jLI\X.
+
+      °Cf        •          M.                                                J
+
+      «~i                        .tltl                                        ^
+
+
+
+                                                  ,w'      ^          ^U-A"
+
+
+
+
+      U^ v ^*a              ft^ vtL «-r       >fc^V •          K it     W-*^,     A r i^
+                                                                              O       ^
+            C        ^              o to^,
+
+      Ml             'Wo          tk~Js               U     ut                     ‘>-UL
+
+        ^            ,      [j            JLa^o       j   ujt            t
+                                                    WE/JAS/SW/7347
+
+
+
+
+                                             18 November 1985
+
+
+R. H. Chester Esq.,
+Secretary,
+Sheffield Wednesday Football Club pic.,
+Hillsborough,
+SHEFFIELD.
+S6 1SW.
+
+
+Dear
+
+                       Emergency Lighting Syfetem
+
+       I have arranged with Mr.           of Sandas Batteries to
+carry out the first test on the emergency lighting battery set
+on Thursday 21 November, starting at 1.30 p.m.
+       Unfortunately I ara away from the office that afternoon but
+Tony Clough will attend in my absence.
+
+                          Yours sincerely,
+
+
+
+
+c.c.   Mr.            Sandas Batteries
+                      TELEPHONE MESSAGE
+
+JO B No.    I O 41      PROJECT:
+
+DATE:      ta/ll)>5
+
+TO:     Ua .
+                                          •>
+FROM:
+
+
+
+
+               i            2.1 *)r
+
+
+
+
+                           I' l o
+
+                        VO'^Ww ^
+                      TELEPHONE MESSAGE
+
+JOB No. 1^47            PROJECT:
+
+DATE:   isji) fas
+
+TO:     \      c
+
+FROM:
+
+
+
+                                    /^w          feo*!'   &
+
+                                    Qx~fl(ft-v   *
+                            o       ny
+
+
+
+
+                                                              1   ' U O i
+
+
+
+
+            KLxb-$(
+
+
+        I     ull               4      ScvJUa         ,
+                                 TELEPHONE MESSAGE
+
+    JO B No.      ~i.E>V)              PROJECT:
+                                                              £>•w -f -C
+    DATE:      VAI ' 1 ) &S                                   „              v
+                                                              C
+                                                                         o                j
+    TO:       X M c      (X ^ k r
+
+    FROM:
+
+
+
+•     '   ■
+
+
+
+
+                      kk~k;          u-vfci~iyw(~                     OY^v-uy     ,
+
+
+
+          Sfc^JU^, . iK                                  'L-xdUrJk ,
+
+          i—tM-               V-J«-rsj                   o~-#-w~^ ,
+
+          "bc<^v—»i           ■{'■                                o y^y*^
+
+              Sv-^^bt^          *_*.                                             l ivw-
+
+              Uy*x            -lw4c,                1~        t^u
+                                                                                                                  11A1
+
+
+
+
+                               Sheffield
+                              Wednesday
+                           ^= F ootball Club p lc= ^
+                                      Hillsborough, Sheffield S61SW .
+                        Telephone: (0742) 343123 Telegrams: Wednesday Sheffield 6.
+
+
+S3/1511HC/JBG                                                        B3/151/1HC/JBG
+
+
+Dr. W. Eastwood,                                             T-s
+Eastwood & Partners,
+St. Andrews House,                                           ^ t W Q o d             <* u ( .
+23 Kingfield load,
+Sheffield,                                                B?e'd            3 J OCT1985
+S11 9AS.
+
+
+
+ Dear Bill,
+                                 Ref:       Emergency Limiting System
+
+Many thanks for your letter dated 22nd October.
+
+ My thoughts are that we should ask Sandas Batteries to undertake
+ two tests. One in private to ascertain the current capabilities
+ of the system and the second with the presence of the Fire Service,
+ having rectified any anomalies which may have shown themselves
+ in the first test.
+
+ Before proceeding I would be obliged of your observations at your
+ earliest convenience particularly in view of the termination of
+ B.S.T. this weekend.
+
+ Tours sincerely,
+
+
+
+
+                          Chairman: H. E. McGee, Secretary: R. H. Chester, Manager: H. Wilkinson.
+Directors: M. Sheppard. J.P..F.C.A. (Vice-Chairman), S. L. Speight, O.B.E., C. Woodward, K.T.Addy, E. Barron, G.K. Hulley.
+                                               Registered in England No. 62478
+                                                      WE/KH/7347
+
+
+
+
+R.H. Chester Esq.,                                    22 October 1985
+Secretary,
+Sheffield Wednesday Football Club pic,
+Hillsborough,
+Sheffield,
+si lsw*...    ;
+
+
+
+Dear         ,
+                        emergency Lighting System
+       Mr.        of Sandas Batteries has been in touch with
+us about the capability of the emergency lighting system.
+       The 'Green Guide’ suggest.s that the system should be capable
+of maintaining the necessary level of illumination for a period
+of three hours. We feel that this is far too onerous and we      have
+been lead to believe by the Fire Service that they would be
+prepared to accept one hour.    In fact, if I recall correctly
+the period agreed with S.Y.C.C. at the time your Certificate
+was prepared was for 40 minutes until the batteries heed replacing
+after which a longer period would be provided.
+       We understand that you   may ask Sandas to run a test     onthe
+batteries in which case the Fire Officerhas asked that he be
+notified of the date so that he may be present during the test.
+Perhaps ycru would keep us informed of progress so that we can
+tell Fire Officer Ron Grimshaw when the test Us to be.
+
+
+                             Yours sincerely.
+                                                  FILE
+                        TELEPHONE MESSAGE
+
+JOB No. 1 ^ 4 7           PROJECT:
+
+DATE:               .
+
+TO:
+
+FROM:
+
+
+
+
+             i Uw                    y j-
+
+
+
+
+         0
+                                                    >EfcwO
+        ,       ' ? V         -               ^
+        (^4 0 ^ . . y     ^ . J
+                                            X!*
+                                 TELEPHONE MESSAGE
+
+J O B No.        *7 2>4~7          PROJECT:
+                                                              5- v\j tY ’ C- •
+DATE: ■         11o I 8 5
+            —         I                                           5~ ' ~ j r ^ = >
+TO:
+
+FROM:
+
+
+
+
+                                           \0 S       ^    rs*-w *ii?
+
+                                                           s a 4£7
+
+
+
+
+                                                                 .oi'vw-e
+
+                                  6^-S,x»**4rsrO,
+                                                x^                                c     Vv*-c^Ijo
+
+                            b cUtiO-v^ /jTe^r
+
+            ^              ‘
+                           y*-t^>fcs         *lS 4 wtfcr-c?                 u L   —
+
+
+             ^->«_     Vi                    eot-4.                                    ^ ”1 vt>4fc, ,
+
+       twU             c^lcal                 &            n-w    ~^         vv-e         4        /^w_4
+
+      O^j.           Lo-VJ                             1          A-V^)Cx^_           /"il/UlJLl     /(^
+
+                             ^         .          Y -             w tc                         1U ,
+      ^r'~^'         -i~                               nj “
+                                                          W      y C '«           (o l »4,'^ u l i
+
+      5a^ >                        \W ^ r          .       3_          t^X            cX^k          ^
+
+      -1—
+                             TELEPHONE MESSAGE
+
+J O B No.     1141              PROJECT:
+                                                           -S,v\J C . c
+DATE:                  Ss                                           '
+
+TO:
+
+FROM:
+
+
+
+                                     V^   v('        W-tvO
+
+                                    n►o S^UV^Q
+                                                     yj-f>r
+
+
+                                                       N-Co
+
+
+  "■'         v*            a ' a     ^          .
+
+          ^        Uo          ua-^tj                  *                ^
+
+      ^            ^                             i j u u,t                  O L tJ r ^ .
+                              Uo          U t^             A    L       j c       ^        ^
+
+                                                                            we        OK       .M>
+
+      ^                       «£»           .        u         *w             ^            ^
+                   ^                             C<^            U-Jc                  &        (^£>   ,
+
+
+
+
+  ^ ^                         yv»J.         4U»                                   A
+                                                                        FILE
+                             TELEPHONE MESSAGE
+
+J O B No. *7 Ci 4 7        PROJECT:
+                                                    S.    T- . t°
+DATE:                                           c
+
+
+
+
+FROM:                             'b c j}^ .
+
+
+
+        UoJU          Wu                                                      ^   j.
+
+    CM         1         ^       0 K           /j^_- e£J,       ^
+
+   &       4«^.,,4'..                  1            Cdi             T3^-< .
+
+
+     ^           '•*■                                        aJ     L
+                   It ID      f I 40 I *                            M
+
+
+
+
+    ^          X”JI‘- ^    ^                              ~jQ u*
+    ^          Y '- 5^ , . 1 JU                       v.^. (L, ^
+   «J-Otfv4r          be4^t-cve^ v
+                                          A aA *
+
+                       \<JVi   fW
+
+
+
+
+R.H. Chester Esq.,                                     9 September 1985
+Secretary,
+Sheffield Wednesday Football Club pic,
+Hillsborough,
+Sheffield,
+SI 1SW.
+
+
+Dear ;Dick, .
+                      Emergency Lighting System
+     Many thanks for your note concerning the report on the
+batteries by chloride,
+     I suggest that we wait a few weeks until we have really
+dark conditions in mid-evening.       I will then arrange for a
+test to be carried out to see whether the emergency lights
+last for the full time required by the green book.       If they
+do not we will prepare a little report on what should be done.
+However I suspect that an emergency generator will be a cheaper
+solution rather than buying a complete new set of batteries.
+The generator should also have a longer life than the batteries
+and it will also be possible to build in a little extra capacity,
+should you so wish.      This would mean that you could be
+independent of power cuts in the areas under the South stand.
+It would even be possible to have a generator large enough to
+take over the load for lighting the pitch but that would be
+much more expensive and you may think it not worthwhile.
+
+
+                               Yours sincerely,
+
+
+
+b.c.c A.J. Clough
+                                  Sheffield
+                                 Wednesday
+                                         Football Clubplc==^
+                                        Hillsborough, Sheffield S61SW .
+                          Telephone: (0742) 343123 Telegrams: Wednesday Sheffield 6.
+
+
+     6th September 1985.
+
+     RHC/SLL
+
+
+     For the attention of Dr. Eastwood,
+     Eastwood & Partners,
+     23 Kingfield Road,
+     Sheffield,
+     S11 9AS.
+
+
+
+     Dear Dr. Eastwood,
+
+     EMERGENCY LIGHTING SYSTEM
+
+     Chloride have again advised us that we require to replace the
+     entire system following their inspection in July 1985.
+
+     Please advise whether or not in your opinion this is a sales
+     exercise or a serious recommendation having observed substantial
+     faults.
+
+     Yours sincerely,
+
+
+
+     R. H^Chester,
+     Secretary.
+
+
+
+
+                          Chairman: H. E. McGee, Secretary: R. H. Chester, Manager: H. Wilkinson.
+Directors: M. Sheppard. J.P., F.C.A. (Vice-Chairman), S. L. Speight, O.B.E., C. Woodward, K.T. Addy, E. Barron, G. K. Hulley.
+                                                Registered in England No. 62478
+                                                     9 September 1985
+
+
+
+
+Dear Tony,
+     I enclose a copy of a letter from Dick Chester concerning
+the batteries for the emergency lighting system at
+Hillsborough together with a copy of my reply.
+     I should be glad if you could help us by carrying out
+a test and also writing a report on future action.
+     John Strange is also likely to need your help in altering
+the existing emergency lighting when the new roof over the
+Kop is constructed next summer.   Perhaps you would be so good
+as to contact John on both matters.
+
+
+                     Yours sincerely,
+

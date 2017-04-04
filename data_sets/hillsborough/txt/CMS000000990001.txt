@@ -1,0 +1,863 @@
+»
+
+
+
+
+    Dr C E Nicholson PhD CEng MIM
+    Deputy Director
+    Research & Laboratory Services
+    Health & Safety Executive
+    Broad Lane
+    SHEFFIELD S3 7HQ
+
+•   )                              20 February 1990
+
+
+
+
+    Dear Dr Nicholson
+
+    HILLSBOROUGH   STADIUM    DISASTER    INQUIRY
+    TECHNICAL WORKING PARTY
+
+
+    Many thanks for your letter of 16 February
+    enclosing the promised translation of QTIS which
+    I have circulated to Working Party members.
+
+                                  Yours sincerely
+
+
+
+
+                                  JO N A TH A N SWEET
+                           Health &      Research and Laboratory
+                                         Services Division
+                           Safety        Broad Lane
+                                         Sheffield S3 7HQ
+o                          Executive     Telephone 0742 768141
+                                         Telex 54556 H S E R L S G
+                                         Facsimile 0742 755792
+
+
+
+
+Mr J Sweet                               Your reference
+Heme Office
+50 Queen Anne's Gate                     0ur reference
+                                         5t$/956/°2
+    3 9AT
+                                         16 February 1990
+
+
+
+Dear Mr Sji<^et
+
+HUISBCBOOGH INQUIRY - TECHNICAL WORKING PAKTOo
+
+Please find enclosed the premised translation of selected
+parts of the Italian publication 'Quademi Tecnici Per
+L'iapiantistica Sportiva' (Qns). I also attach the page
+of introduction to the document.
+
+Yours sincerely
+
+
+
+
+C E NICHOLSON
+Deputy Director - Safety Engineering Laboratory 1
+              r^rnii2A>              TuP
+                                      (H r
+Professor L Maunder OBE FEng
+University of Newcastle upon Tyne
+                                       rtf Sosk.     .
+Head of Department                     ri
+Dept of Mechanical Materials
+ & Manufacturing Engineering           H/    (h& i
+%^tephenson Building
+ ewcastle upon Tyne
+NE1 7RU                       20 February 1990
+
+
+
+
+Dear Professor Maunder
+
+HILLSBOROUGH   STADIUM    DISASTER   INQUIRY
+TECHNICAL WORKING PARTY
+You will recall that Dr Nicholson kindly
+undertook to provide a translation of selected
+parts of the Italian publication 'Quaderni
+Tecnici Per L 1impiantistica Sportiva1 (QTIS).
+
+This has now been done and I enclose for your
+information one copy together with the relevant
+introductory page.
+
+                              Yours sincerely
+
+
+
+
+                              JONATHAN SWEET
+                                                                6.   ProM&ssck, oty
+
+
+
+
+                            INVESTIGATION ON SAFETY
+
+
+
+
+1. PREMISE
+
+
+In order to prepare a draft regulations on safety sufficient for the actual
+situation in facilities, the Italian National Olympics Committee Research
+Centre carried out an investigation in 8 Italian stadiums and 10 sports halls.
+
+I
+Later, at the express request of UEFA, it extended the initiative to three
+European stadiums on the occasion of the finals of the Cupwinners' Cup and the
+Champions' Cup in 1987*
+
+
+In the following paragraphs a summary of the results obtained is given;
+together with some experimental checks, these were taken into account in the
+preparation of the proposed amendment to the Ministry of the Interior's Decree
+of 10 September 1986.
+Health and Safety Executive
+Directorate of Information and
+Advisory Services
+
+Translations
+                                 Not for publication
+
+             HEALTH AND SAFETY EXECUTIVE
+               Translation Services
+
+
+
+                                 February 1990
+
+
+
+
+Foreign Standards
+French Standards
+Quaderni Tec nici per 1 1impiantistica Sportiva (QTIS).
+Apr i 1-May 1988, no.18/19, vol.Ill, pp.103-107.
+
+Translator: External        HSE Transl. No.90/22C
+                         Foreign standards
+
+
+                          French standards
+
+
+The recent incidents in Zurich in Switzerland and in Bradford
+in England have highlighted the safety problems.
+
+
+The purpose of the present note is to review the principal
+measures which exist in France.
+
+
+MEANING AND PURPOSE OF THE REGULATIONS
+
+
+The regulations concern all Establishments which Admit the
+Public (or EAP) and consider safety against fire, and the
+structural problems which are not governed by the building
+regulations.
+
+
+Everyone who is admitted to an establishment, for whatever
+reason, is considered to be a member of the public.
+
+
+This means that all sports and social and educational
+buildings are EAP:     both private clubs and hotel swimming
+pools and certain business committees' facilities.      Only
+facilities for family use (home swimming-pools, etc.) or
+shared facilities are excluded (however, shared swimming-
+pools are the subject of the Decree of 7 April 1981, Health
+and Safety).
+
+
+Its purpose is to ensure the safety of persons:
+- with rapid and orderly evacuation of all the occupants (time
+the alarm sounded + evacuation time < the safety margins);
+- thanks to structures appropriate to the risks.
+
+
+The spirit of the safety regulations does not therefore
+concern how long the structures last, which comes within the
+sphere of responsibility of the Insurance Companies (rules of
+the A.P.S.A.I.R.D.).
+THE OLD REGULATIONS
+
+
+Essentially defined by the Decree of 23 March 1965, which
+still applies to existing establishments.
+
+
+It was for the purpose of simplifying and clarifying the
+situation that covered sports facilities were combined into a
+single type, X, and that different types relating to sports
+facilities appeared.
+
+
+THE NEW REGULATIONS
+
+
+Since the summer of 1980, new safety regulations have begun to
+see the light with:
+the decree of 25 June 1980 and its amendments, concerning
+"general provisions for all types of facilities" and those
+which have the approval of particular provisions, the most
+important of which for the Ministry of Youth and Sport are:
+
+
+- type X, "covered sports facilities",
+- type R, "educational facilities, summer camps";
+- type PA, "open-air facilities";
+- type SG, "inflatable structures";
+- type L, "lecture theatres, conference rooms, meeting rooms,
+rooms for performances or for multiple uses";
+- type CTS, "tents and wooden structures",
+- type P, "dance and games halls".
+
+
+In an appendix, a brief note indicates the procedures
+required, with the aim of ensuring the safety of the users and
+in particular the areas reserved for the spectators.
+
+
+IMPROVEMENTS AND DESIRABLE ACTION
+
+
+1. In the matter of fire:
+It would appear that practically every fire in sports
+
+
+                               2
+facilities is due either to malevolence or occurs at a time of
+when work is being done which employs blow-lamps (in parti­
+cular during roofing work).
+
+
+These fires often occur far from the presence of the public,
+or when the public has had time to evacuate the facilities.
+
+
+Owners and managers could be reminded here of some measures of
+simple prudence, in particular:
+- never to padlock, block or obstruct the exits;
+- not to create dangerous structures, or increase the heating
+potential;
+- not to convert technical plant without an expert opinion;
+- to provide for ease of maintenance of the facilities, both
+where the materials themselves are concerned, and through
+frequent cleaning (and especially in the areas of the stands
+and the parts underneath them), to avoid the accumulation of
+paper or various kinds of rubbish which can easily catch fire;
+- to carry out dangerous work (e.g.work with blow-lamps on the
+roofs or hydraulic work) with the greatest possible care and
+when the public is not present.
+
+
+In open-air stadiums, the metal netting barrier which
+separates the players and the referees from the spectators can
+be an obstacle to the safety of the public.
+
+
+This separation, which effectively protects the players and
+the referees from the enthusiasm or malevolence of the
+supporters, no longer, in certain cases, makes it possible to
+use the play area as a free space where people can assemble in
+the event of panic.
+
+
+Thought could also be given to these provisions (gates
+normally locked, but under supervision of an attendant during
+matches, for example).
+
+
+
+
+                                  3
+2) In the matter of durability of the structures:
+Unlike the safety controls, concerning the specific technical
+parts (electricity, heating, etc.) given in the appendix,
+there are no compulsory technical controls on the. structural
+materials.
+
+
+One might consider a study to establish whether they are
+appropriate, in particular for swimming-pools, in view of the '
+considerable humidity, which accelerates the deterioration of
+some materials.
+
+
+APPENDIX
+
+CONDITIONS FOR THE APPLICATION OF THE NEW REGULATIONS
+
+
+The provisions of the new regulations apply three months after
+they have appeared in the Official Gazette.
+
+
+They concern:
+- facilities which are to be built, for which the date that
+the building permit was lodged is later than the date of the
+implementing measures;
+- the installation of new facilities in existing premises or
+buildings;
+- existing facilities, if work is undertaken, but then only
+for the modified parts of the buildings or structures and, in
+the case of provisions of an administrative nature, for the
+controls, the technical inspections, and the maintenance.
+
+
+MONITORING OF CONFORMITY TO THE SAFETY RULES
+This control is carried out by the "Safety Committees".
+
+
+The safety committees are the consultative bodies which have
+the task of offering an opinion to the administrative
+authorities responsible for monitoring the implementation of
+the safety regulations.   There are three levels:
+
+
+                               4
+a) At local level, the arrondissement committee and the inter-
+commune or commune committee, which are appointed by a decree
+from the Prefect.
+
+
+They give their opinions on questions submitted to them by
+delegation from the Departement committee.   Most of their
+activity consists in acceptance and control inspections.
+
+
+In any case, the administrative authority (Mayor or Prefect)
+is not bound by any opinion and remains the principal
+authority responsible for the safety control of facilities
+which admit the public.
+
+
+b) At Departement level, it is the civil protection
+consultative committee in the Departement which is the Prefect
+and Mayor’s technical body for investigation, control, and
+information.
+
+
+They intervene by providing their opinion:
+- before construction, at the time when the application for a
+building permit is made;
+- during construction, at the time of the inspection for
+verification, acceptance, and opinion on the issue of the
+conformity certificate and the authorization for the opening;
+- during operation, at the time of the periodic controls.
+
+
+In addition, it is the only one which is competent to give an
+opinion on Category 1 facilities (more than 1,500 persons);
+it examines the questions and requests for an opinion
+presented by the Mayors or by the previous committee and can
+propose to the Prefect that certain files should be sent to
+the Central Safety Committee.
+
+
+For these two committee levels, the Head of the Youth and
+Sport Service in the Departement can involve them whenever the
+facilities involved concern mainly physical, sports, or social
+and educational activities.
+c) At national level, there is the Central Safety Committee
+(CSC).   It is consulted, or it examines the plans for changes
+in safety regulations, answers questions or examines files
+presented by the Departement committees and the basic plans
+for repetitive constructions, as in the case of the standard
+plans of various ministries, including the Ministry for Youth
+and Sport.
+
+
+A Ministry representative is one of the permanent members of
+this committee.
+
+
+Periodic control inspections and unexpected inspections have
+to be carried out by the competent safety committees.
+
+
+The main purpose of these inspections is:
+
+
+- to verify whether the provisions of the present chapter or
+the decrees of the Prefect or Mayor issued for their
+implementation have been complied with and in particular
+whether all the fire-fighting equipment and the safety
+lighting equipment is functioning normally;
+
+
+- to ensure that the technical controls have been effected;
+
+
+- to suggest improvements or amendments to be made to the
+provisions and to the classification of the facilities within
+the framework of the present regulations;
+
+
+- to examine in individual cases what adjustments might be
+made in existing facilities.
+
+
+Each facility has to have a "Safety Register", in which the
+information essential to the proper running of the safety
+service is entered and in particular:
+
+
+- the conditions for the staff entrusted with the fire
+
+
+                               6
+service;
+- the various general and particular orders given in the event
+of fire;
+- the dates of the various controls and verifications, and the
+observations to which these have given rise;
+- the dates of painting and conversion work, its nature, the
+names of the builders, and, where appropriate, the name of the
+architect or technical specialist responsible for supervision
+of the work.
+
+
+For sports facilities and summer camps, these periodic
+inspections should be carried out every two years in the case
+of Category 1 facilities (capacity of more than 1,500) and
+every 3 years for Category 2, 3, and 4 facilities.
+
+
+The frequencies may be altered, if considered necessary, by a
+decree from the Mayor or Prefect, after he has obtained the
+opinion of the Safety Committee.
+
+
+In addition, technical controls are imposed:
+
+
+- annually, for smoke-elimination, heating and gas
+installations, lifts, cooking facilities in large kitchens,
+and rescue and alarm equipment;
+
+
+- every three years, for electrical installations.
+
+
+However, no particular technical controls are stipulated in
+regard to the foundations of the structures.
+
+
+SAFETY RULES FOR STANDS AND TIERS
+
+
+In enclosed facilities:
+the maximum number of spectators permitted is established by
+adding:
+- the number of persons sitting on seats or tip-up seats;
+- the number of persons sitting on benches, with 1 person
+
+
+                                  7
+every 0.50 metres;
+- the number of persons who can stand on balconies, 5 persons
+per linear metre.
+
+
+For spectators situated on galleries and balconies, account is
+no longer taken of the capacity of the latter, as was done
+with the old general provisions, but the possibility of
+visibility is considered, which corresponds to an arrangement
+in alternate rows.
+
+
+This calculation is more exacting than the old calculation
+provided for galleries for swimming-pools.
+
+
+The arrangement of the tiers must meet the following general
+requirements:
+
+
+Art. AM 17. ARRANGEMENT OF LIGHT PLATFORMS IN SUPERSTRUCTURES
+
+
+
+1. The arrangement of light platforms in superstructures which
+can hold people, such as stands, ramps, pavilions, podiums,
+daises, tiers, rostrums, and all raised platforms in general
+arranged inside buildings, must have a framework made of
+Category M3 materials and in good condition.
+
+
+The arrangement of light platforms in superstructures must not
+produce an additional risk of collapse through the overload
+produced by the public or by the objects intended to be
+supported by them.   The stability of both framework and
+platform must therefore be sufficient.
+
+
+2. None of these platforms should have openings through which
+people might fall.
+
+
+The risers of the tiers can have a plinth at least 0.10 m.
+high at the bottom, and must not have a gap of* dimensions
+greater than those laid down in Standard NF P 01-012 which
+
+
+                               8
+concerns parapets.
+
+
+3. The parts underneath them must be free of deposits of
+combustible materials.      They must be made unusable and
+inaccessible to the public by an external partition made of
+Category M3 materials and have only control openings.
+
+
+If the area of these parts is more than 100 m2, they must be
+divided into cells with a maximum area of 100 m2, with
+partitions made of Category M1 materials.
+
+
+The volume under the platform may be enclosed externally, with
+a continuous partition.
+
+
+4. These structures must be sufficiently stable for the
+persons and objects which they are intended to support.      They
+must, in any event, withstand an overload of at least 5,000
+N/m2.
+
+
+The overload is calculated under static conditions.
+
+
+5. These structures and their access stairs must be provided
+with parapets to prevent falls and to resist pushing by the
+crowd.
+
+
+Art. AM 18.   ROWS OF SEATS
+
+
+Whenever the provisions specific to certain types of
+facilities require rows of seats fixed to the ground, the
+latter must meet the following requirements:
+
+
+1 . The structure of the seats fixed to the ground must be made
+of Category M3 materials.
+
+
+The stuffing must be covered with a firmly closed cover made
+of Category M2 materials, which also satisfies the test of
+perforation with a hot electric finger, and any other test
+recognized as equivalent, after the Combustible Materials
+Research Centre has given its opinion.      This cover must
+always be kept in good condition.
+
+
+By seating structure is meant the cross-pieces of.the seats,
+the base, the beams, the framework of the backs, and the bases
+of the seats fixed to the ground.
+
+
+The stuffing of the fixed seats constitutes a certain danger        -
+where fire risks are concerned, and it is important to protect
+them with an external cover which should not melt under the
+pressure of an incorrectly extinguished cigarette which may
+come into contact with the stuffing itself.
+
+
+(This cover and its stuffing must also comply with the
+provisions of Article 6-2 of the amended decree of 4 November
+1975 on the toxicity of combustion gases of materials).
+
+
+Seats with monobloc frames, classified as M3, are considered
+to satisfy the requirements of paragraph 1 of Article AM 18.
+
+
+Each row must have its ends firmly fixed to the ground and to
+the walls.
+
+
+If this is not the case, each row must be joined to one or
+more other rows, so as to constitute a block which is
+difficult to tip up or to move.      In this case the fixing
+rods, perpendicular to the rows must be applied at ground
+level and must not be more than     0.02 m. thick, with a rounded
+profile to prevent anyone falling.
+
+
+2. In the event of panic, the rows of seats present less of a
+risk of being obstacles to the evacuation of the public than
+the same number of seats simply resting on the ground.
+
+
+The number of seats per row is limited in order to ensure
+rapid evacuation of the spectators.
+The seats can be made of wood or have synthetic sponge
+stuffing.
+
+
+The weight of the block of seats keeps them in position, even
+in the event of panic, and also makes evacuation of the public
+possible.
+
+
+In certain cases, the means of fixing stipulated in Point 2
+can, on the opinion of the Safety Committee, be replaced by
+any other arrangement which offers the same guarantees.
+
+
+Some particular provisions for sports facilities complete or
+modify these requirements.
+
+
+Tiers
+1. The provisions of Article AM17 (Point 2 and 3) do not apply
+to movable or dismountable tiers.
+
+
+The lights on the tiers, or along the passages, must comply
+with the dimensions stipulated by the rules relating to
+parapets.
+
+
+The parts underneath must be rendered inaccessible to the
+public;     they must not serve for the collection of materials,
+or as a store or warehouse, etc.      They must always be kept in
+a perfect state of cleanliness.
+
+
+The frame of the tiers can be Category MO (metal, cement), M 1 ,
+M2 or M3 (solid wood), and must withstand an overload of 5,000
+N/m2.
+
+
+The ends of the tiers and the accesses to them (stairs) must
+be provided with parapets which comply with Standard NF P 01
+012 so as to avoid falls (the distance between two bars must
+be about 11 c m .).
+The parts beneath the tiers   must be rendered inaccessible to
+the public and not serve as a store for materials.    In
+addition, tiers which cannot be dismantled must be isolated
+from the public by a category M3 partition, with only the
+openings necessary for inspections for maintenance and
+repairs.
+
+
+If the parts underneath are larger than 100 m2, they should
+also be divided into cells of 100 m2, with category M1
+separating elements.
+
+
+This article considers:
+
+
+- in Point 1, mitigation of Article AM 17 (Point 2), which
+requires a platform with additional steps.
+
+
+Movable tiers must in fact have a minimum aperture to allow
+the operation of the system of sliding, folding and embedding,
+and dismountable tiers are generally brightly lit.
+
+
+It is these lights which must comply with the dimensions
+established by the standard for parapets, in Article 2.3.2.
+Pierced parapets, following extracts;
+
+
+2.3.2.1. Parapets with gaps between the vertical elements:
+partitions, panels, etc.
+Gap between partitions or vertical elements and between
+partition and panel or front:   11 cm.
+
+
+2.3.2.2. Parapets with gaps between horizontal elements:
+rails, panels, etc.
+
+
+1. Gaps in the bottom part between the normal or temporary
+standing area and the lower element of the parapet:      11 cm.
+
+
+2. Gaps between horizontal elements, situated at a height of
+45 cm. or more in relation to the normal standing area:      18
+
+
+                                12
+cm.
+
+
+3. The part of the parapet situated at a height of less than
+45 cm. must not include elements which enable people to stand
+there in assisted equilibrium, unless the parapet-is designed
+to satisfy the reduced height, H, provisions established by
+Article 2.2.2.
+
+
+2.3.2.3. Parapets with elements other than vertical or
+horizontal ones or with limited gaps between vertical and
+horizontal ones.
+
+
+The gaps between the elements should not allow a hexagonal
+shape to get through, whatever its orientation in the plane of
+the parapet.
+
+
+However, in the case of oblique bars, the shape used will be a
+rectangle 25 cm x 11 cm.
+
+
+It should be noted that in Article 1.2., "Sphere of
+application", the standard on parapets does not cover:
+
+
+- galleries in theatres, cinemas and other places where
+performances are held;
+
+
+- the stands of stadiums, except across the stairs which serve
+the tiers or stands, and at the end of the tiers which come
+out to the void;
+
+
+- parapets of a monumental or period character, such as those
+of listed buildings or historical monuments.
+
+
+However, whenever the activity pursued in a multipurpose hall
+devoted mainly to sport requires the constitution of tip-up
+seats (films, plays, etc.), the seats must be joined together,
+and installed in accordance with the provisions of Article AM
+18 (Point 2) previously described.
+
+
+                              13
+Stairs
+1. Stairs which force the public to go out and descend (or
+vice versa) to reach the exits from the tiers, are permitted.
+
+
+In the case of tiers above the annexes or in a gallery, for
+example.    This provision is necessary for circular tracks
+with the public in the centre, such as cycle-tracks, skating
+tracks, etc.     In this case, evacuation is effected either
+across bridge passages, or underground.
+
+
+2. As a supplement to the provisions of Article CO 51 (Point
+1), the gap in the riser cannot exceed 0,18 m;       in this case,
+the steps must have:
+- either a plinth of at least 0.03 m.;
+- or a covering of at least 0.05 m.
+
+
+If there are no risers, the gap cannot exceed that imposed for
+parapets (18 cm) and the plinth solution is permitted.
+
+
+3. By derogation from the provisions of Article CO 55 (Point
+3), the height of the steps serving the places on the tiers is
+increased to 0.25 m., with the reservation that there should
+not be more than 5 rows of spectators.
+
+
+Article CO 55, Point 3 authorizes steps 0.20 m. high under
+certain conditions;    this paragraph eases the use of small
+tiers.     However, the slope must not exceed 45°.
+
+
+For open-air stands, the general measures concerning tiers and
+seats remain, and the following particular provisions are
+stipulated, in view of the risks and the operational
+requirements.
+
+
+Stands and tiers
+
+
+1. No fire resistance is required for the bearing structures,
+
+
+                                14
+if there are no premises with particular risks underneath the
+stands.
+
+
+If premises where there are particular risks are established
+under the stands:
+
+
+- no fire resistance is demanded in cases where the bearing
+structures do not cross these premises;
+
+
+- fire resistance for one hour is required if this is not the
+case.
+
+
+In any case, the collapse of one bearing element should not
+result in other structures giving way.
+
+
+2. The tiers, the platforms and the stairs must be calculated
+for an overload of 500 daN/m2.
+
+
+They must have the foundations and bracing required for their
+stability.
+
+
+3. The tiers must be reached by stairs every 20 m. at most.
+
+
+The service stairs for the places in the tiers must have a
+minimum height of 0.10 m., a maximum height of 0.20 m., and a
+tread of 0.20 m. or more.
+
+
+However, the maximum height of the steps is increased to 0.25
+m, with the reservation that the stand should not contain more
+than 10 tiers.      In any case, the alignment of the front parts
+of the steps must not exceed 45°.
+
+
+4. Parapets (or support bars) must be installed:
+
+
+- in the parts of the stands where the difference in level
+between two successive tiers (or between one tier and the
+ground) is 1 metre or more;
+- in the parts of the stands where the public always stands,
+with one line of parapets every 5 tiers.
+
+
+In addition, these parapets must be able to withstand a
+horizontal pressure of 170 daN/linear metre.
+
+
+
+
+                               16
+

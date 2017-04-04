@@ -1,0 +1,1603 @@
+                                                            Case Nos: CO/ 856/99. CQ/0934..
+                                                          CO 1070/99. CQ/1071/99.CO/Q582/99
+m THE SUPREME COURT OF JUDICATURE
+DIVISIONAL COURT
+                                                                    Roval Courts of Justice
+                                                               Strand. London. WC2A 2LL
+
+                                                                       Date: 31 March 1999
+                                        Before:
+
+                              LORD JUSTICE LAWS
+                             MR JUSTICE CRESWELL
+                                      and
+                              MR JUSTICE LATHAM
+
+                                      R
+                                      v
+                     THE DIRECTOR OF PUBLIC PROSECUTIONS
+                                          ex parte
+                                    (1) DUCKENFIELD
+                                        (2) MURRAY
+
+                                        R
+                                        v
+                 (1) SOUTH YORKSHIRE POLICE AUTHORITY
+                                       and
+(2) ANN ADLINGTON (ON BEHALF OF THE HILLSBOROUGH FAMILY SUPPORT GROUP)
+                              (3) DUCKENFIELD
+                                 (4)          MURRAY
+                   (5) HILLSBOROUGH POLICE AUTHORITY
+                                     ex parte
+               THE CHIEF CONSTABLE OF SOUTH YORKSHIRE
+
+
+         Mr Michael Harrison QC and Mr Simon Myerson (for Duckenfield & Murray)
+       (instructed by Winkworth Sherwood for Duckenfield and Walker Morris for Murray)
+      Mr Alun Jones QC and Mr Janies Lewis (for the Hillsborough Family Support Group)
+           Ms Presiley Baxendale QC and Mark Shaw (for the South Yorkshire Police)
+                           (instructed by Garretts for the Respondents)
+                    Mr P Havers QC (for the Director of Public Prosecutions)
+                              (instructed by the Treasury Solicitors)
+                 Nigel Baker QC and Ms Louise Varty (for the Chief Constable)
+
+
+
+    JUDGMENT: APPROVED BY THE COURT FOR
+    HANDING DOWN (subject to editorial corrections)
+ t
+
+     Judgment: Approved by the Court for handing down                        Ex Parte Murray & Duckenfield
+     (subject to editorial corrections)                        R v Chief Constable of South Yorkshire Police
+                                                                   Ex Parte South Yorkshire Police Authority
+
+
+
+                               R v THE DIRECTOR OF PUBLIC PROSECUTIONS
+                                                ex parte
+                                        DUCKENFIELD & MURRAY
+
+                              R v SOUTH YORKSHIRE POLICE AUTHORITY
+ 6                                               and
+                                           ANN ADLINGTON
+                                               ex parte
+                           (1) THE CHIEF CONSTABLE OF SOUTH YORKSHIRE
+                                     (2) DUCKENFIELD & MURRAY
+
+12
+     LORD JUSTICE LAWS
+
+15                    These are linked applications for judicial review which require the court i
+      to revisit the terrible disaster which took place at the Hillsborough Football Ground at
+      Sheffield on 15 April 1989. In what I will call the first case the applicants Mr
+18   Duckenfield and Mr Murray (to whom I will refer as “D” and “M”), who are retired
+      police officers, seek leave to move for judicial review of the decision of the Director
+      of Public Prosecutions (“the DPP”) to refuse to take over and discontinue private
+21    prosecutions which have been instituted against them by Ann Adlington (“AA”) on
+      behalf of the Hillsborough Family Support Group (“the HFSG”). The decision was
+      communicated by letter of 18 December 1998. On 15 March 1999 Latham J adjourned
+24    the leave application to 22 March 1999 and directed that the parties should then be
+      ready to proceed with the substantive application if leave were granted. On 22 March
+      this court granted leave and proceeded at once to hear the inter partes application. In
+27   the second case the Chief Constable of South Yorkshire (“the CCSY”) seeks to
+      challenge a decision of the South Yorkshire Police Authority (“the SYPA”) made on 5
+      February 1999 to the effect that it lacked the legal power to fund the defences of D
+30    and M to the private prosecutions brought by AA, or to fund their prospective judicial j
+      review applications against the DPP. On 12 February 1999 Latham J granted leave to
+      the CCSY, joined AA as second respondent, abridged time and ordered expedition. On
+33   24 March 1999 this court (having reserved judgment in the first case the previous day)
+      granted leave to D and M to challenge the same decision and, again, proceeded at once
+      to hear the inter partes application. We now deliver our judgments in both cases.
+36
+                     I                     will first set out the facts material to the first case, which also
+      necessary background to the second. I will later describe the further facts which are
+39   specifically relevant to the second case.
+
+                  The football match at Hillsborough on Saturday 15 April 1989 was the
+42   FA Cup semi-final between Liverpool Football Club and Nottingham Forest Football
+     Club. In the events which happened 96 people lost their lives. The Divisional
+     Commander in charge of police operations at the match was D, then holding the rank
+45   of Chief Superintendent in the South Yorkshire Police Force. The second applicant,
+
+     Dralt 3 0 March 1 9 9 9 1 2 :26
+        Judgment: Approved bv the Court for handing down                       Ex Parte Murray & Duckenfield
+        (subject to editorial corrections)                       R v Chief Constable of South Yorkshire Police
+                                                                     Ex Parte South Yorkshire Police Authority
+
+
+
+        then Superintendent Murray, held the position of Sub-Divisional Commander and was
+        also on duty at the match.
+    3
+                       On 17 April 1989 Taylor U , as he then was, was appointed by the
+         government to conduct a public inquiry into the disaster. He heard the oral testimony
+    6   of 174 witnesses between 15 May and 29 June 1989, and presented an interim report
+         on 4 August 1989. He found that the immediate cause of the gross overcrowding
+         which had taken place, and thus of the disaster, had been the failure to cut off access
+    9   to the central pens behind the goal (which were already overfull) when Gate C was
+         opened. He found also a number of contributing factors including the condition of the
+         ground, police planning, police operations on the day, and the interaction of parties
+   12   responsible for safety issues. Lord Taylor’s final report was delivered on 18 January
+         1990 and included a number of recommendations relating to crowd control and safety
+         at sporting events.
+
+                       Meanwhile, immediately after the disaster, the West Midlands Police
+         had been appointed to conduct a review of the policing operations of the South
+   18   Yorkshire Police. In March 1990 the West Midlands Police reported to the DPP. After
+         taking the opinion o f two experienced leading counsel the DPP announced on 30
+         August 1990 that in his view there was insufficient evidence to justify any prosecution
+  21    for a criminal offence, relating to the disaster, against any member of the South
+         Yorkshire Police Force. Then from November 1990 to March 1991 HM Coroner for
+         South Yorkshire conducted an inquest into the deaths in the course of which 230
+  24    witnesses gave evidence. On 28 March 1991 the Coroner’s jury returned verdicts of
+         accidental death.
+
+  27                    Disciplinary proceedings for neglect of duty were instituted against D
+         and M by the Police Complaints Authority (“the PCA”). But D retired from the Force
+         on 10 November 1991 on medical grounds, and so the proceedings against him fell
+4fc30   away. On 13 January 1992 the PCA decided not to proceed with the case against M.
+         On 27 August 1992 he too retired on medical grounds. Then on 5 November 1993 the
+         Divisional Court dismissed an application for judicial review brought by family
+  33    members of those who had died, refusing orders of certiorari to quash the inquest
+         verdict and to require a fresh inquest to be convened.
+
+  36                    On 5 December 1996 a documentary programme called “Hillsborough”
+         was broadcast on ITV. The programme suggested that fresh evidence about the
+         disaster had come to light. The allegations made in the broadcast were investigated by
+  39    the Crown Prosecution Service between March and May 1997. At length on 30 June
+         1997          the Home Secretary announced in Parliament that an independent scrutiny would
+         be undertaken by Stuart-Smith LJ in order to ascertain inter alia whether there was
+  42    evidence relating to the disaster which had not been available to Lord Taylor, or to the
+         DPP or the Attorney General for the purposes of their discharge of their statutory
+         responsibilities. Stuart-Smith LJ’s report was presented to the House of Commons on
+  45    18 February 1998. Chapter 1 paras 55-57 state:
+
+                                                           -2-
+        D u l l 3 0 March 1 9 9 9 1 2 :26
+     «
+
+
+
+         Judgment: Approved by the Court for handing down                        Ex Parte Murray & Duckenfield
+         (subject to editorial corrections!                        R v Chief Constable of South Yorkshire Police
+                                                                       Ex Parte South Yorkshire Police Authority
+
+
+
+                    “55. From my meetings with the bereaved families and their
+                    representatives, I am left in no doubt that there was widespread
+ 3                 disappointment at the DPP’s decision not to prosecute. They find it difficult
+                    to understand in the light of Lord Taylor’s trenchant criticisms of the South
+                    Yorkshire police and the fact that the force had been paying compensation.
+ 6
+                    56. W hat the Director of Public Prosecutions had to bear in mind, however,
+                    is the significantly different and greater degree of culpability which is
+ 9                 involved in manslaughter, or culpable misfeasance in public office, as
+                    against the degree of negligence which gives rise to liability, and
+                    compensation payments, under civil law. Any prosecution of an individual
+12                  police officer would have to establish his individual responsibility. It would
+                    not be enough simply to prove the composite failure of the police operation.
+
+15                 57. The causes of the disaster were many and complex. So far as these two
+                    officers [sc D and M] were concerned, the prosecution would have to prove
+                    to the high standard required for a criminal conviction that the failure to
+18                 give the order to close off the tunnel when Gate C was opened amounted to
+                    the serious degree of recklessness necessary to constitute manslaughter.”
+
+21        Para 5 of Chapter 7 (“Summary”) stated:
+
+                    “... I have come to the clear conclusion that there is no basis upon which
+24                 there should be a further judicial inquiry or a re-opening of Lord Taylor’s
+                    inquiry... I do not consider that there is any material which should be
+                    placed before the Director of Public Prosecutions or the Police Complaints
+27                 Authority which might cause them to re-consider the decisions they have
+                    already taken.”
+
+30       On the same day, 18 February 1998, the Home Secretary announced in the House that
+         he, the Attorney General and the DPP had veiy carefully considered Stuart-Smith LJ’s
+         report, and said: “We have no reason to doubt his conclusions”.
+33
+                         The HFSG was clearly not satisfied with this result. There was first an
+          abortive attempt on 26 June 1998 by AA to institute criminal proceedings against D
+36       and M in the South Sefiton Petty Sessional Division. That was given its quietus on
+          technical or jurisdictional grounds into which it is unnecessary to go. Then on 13 July
+          1998          Miss Adlington laid informations against them before the Leeds Petty Sessional
+39       Division, and summonses were accordingly issued by the Stipendiary Magistrate. The
+          charges accuse D and M of the manslaughter of two of those who died at
+          Hillsborough, John Anderson and James Aspinall. They also allege against both an
+42       offence of “wilful neglect to perform a public duty”; and in the case of D, a further
+          offence of attempting to pervert the course of justice, said to consist in his having lied
+          about the circumstances in which Gate C at the football ground became open.
+45
+                                                            -3 -
+         Dr ail 30 M arch 1999 12:26
+t                                                                                      Ex Parte Murray & Duckenfield
+      Judgment: Approved bv the Court for handing down
+                                                                         R v Chief Constable of South Yorkshire Police
+      (subject to editorial corrections)
+                                                                             Ex Parte South Yorkshire Police Authority
+
+
+
+                    Both D and M made representations to the DPP that he should exercise
+      his power under s.6(2) of the Prosecution of Offences Act 1985 (“the POA”) to take
+3     over the conduct of the proceedings initiated against them, and then discontinue the
+      proceedings under s.23(3). In order to appreciate the contrary positions being taken
+      and the issues in the case, it is convenient to set out the relevant statutory provisions at
+6     this stage.
+
+                                 Section 3(2) of the POA provides so far as relevant:
+ 9
+                    "It shall be the duty of the Director -
+                   (a) to take over the conduct of all criminal proceedings, other than specified
+12                 proceedings, instituted on behalf of a police force (whether by a member of
+                   that force or by any other person);
+                   (b) to institute and have the conduct of criminal proceedings in any case
+                   where it appears to him that -
+
+                                 (i) the importance or difficulty of the case makes it appropriate that
+18                               proceedings should be instituted by him; or
+
+                                  (ii) it is otherwise appropriate for proceedings to be instituted by
+21                               him;
+
+                   (c) to take over the conduct of all binding over proceedingsinstituted                           on
+24                 behalf of a police force...
+
+                   (d) to take over the conduct of all proceedings begun bysummons issued
+27                 under s.3 of the Obscene Publications Act 1959...”
+
+       S.6 provides so far as relevant:
+ SO
+                    "(1) Subject to subsection (2) below, nothing in this Part shall preclude any
+                    person from instituting any criminal proceedings or conducting any
+33                  criminal proceedings to which the Director’s duty to take over the conduct
+                    of proceedings does not apply.
+
+36                  (2) Where criminal proceedings are instituted in circumstances in which the
+                     Director is not under a duty to take over their conduct, he may nevertheless
+                     do so at any stage."
+39
+        S. 10 provides so far as relevant:
+
+42                   “(1) The Director shall issue a Code of Practice for Crown Prosecutors
+                     giving guidance on general principles to be applied by them -
+
+45                                  (a) in determining in any case -
+                                                                -4 -
+
+        Draft 3 0 M ar ch 1 9 9 9 1 2 : 2 6
+1,
+
+             Judgment: Approved bv the Court for handing down                                    Ex Parte Murray & Duckenfield
+
+
+
+
+         •
+             (subject to editorial corrections)                                   R v Chief Constable of South Yorkshire Police
+                                                                                      Ex Parte South Yorkshire Police Authority
+
+
+
+                                                     (i)                       whether proceedings for an offence should b
+                                                     where proceedings have been instituted, whether they should
+     3                                               be discontinued;...
+
+             S.23 provides so far as relevant:
+     6
+                          “(1) Where the Director of Public Prosecutions has the conduct of
+                          proceedings for an offence, this section applies in relation to the
+     9                    preliminary stages of those proceedings.
+
+                           (2) In this section, 'preliminary stage’ inrelation                 to proceedings for an
+                           offence does not include -
+                                          •••
+
+                                          (b) in the case of an indictable offence, any stage of the proceedings
+                                          after -
+                                                  (i) the accused has been committed for trial...
+
+     18                   (3) Where, at any time during the preliminarystages of theproceedings,
+                           the Director gives notice under this section to the clerk of the court that he
+                           does not want the proceedings to continue, they shall be discontinued with
+     21                   effect from the giving of that notice...”
+
+
+     24                    Representations had first been made to the DPP on behalf of D and M in
+             early July 1998, after the commencement of the proceedings in the South Sefton Petty
+             Sessional Division which proved abortive. In the course of correspondence the HFSG
+     27      again contended that it had discovered new evidence, which, it was said, had not been
+             before Lord Taylor, the DPP, the Coroner, or Stuart-Smith LJ. At length, after AA’s
+              informations had been laid in the Leeds Petty Sessional Division, the considered views
+     30      of the DPP as to the approach to be taken to a request to take over and discontinue a
+             private prosecution were set out in a letter to the HFSG on 27 July 1998. The letter did
+             not contain a decision, but it explained the DPP’s policy:
+     33
+                           “The policy where proceedings have been commenced by a private
+                           prosecutor builds on that contained in the Code for Crown Prosecutors.
+     36                   The right to bring a private prosecution is preserved by s.6 (l)... subject to
+                           the power under s.6(2). The CPS will take over a private prosecution where
+                           there is a particular need for it do so on behalf of the public...
+     39                   in the instant case where we have been asked by the defendants to take over
+                           the prosecution in order to discontinue it, we would do so if one (or more) of
+                           the following circumstances applies:
+     42
+                                           •                       There is clearly no case to answer. A private pr
+                                                commenced in these circumstances would be unfounded, and
+     45                                         would, therefore be an abuse of the right to bring a prosecution.
+                                                                         -5 -
+              Draft 3 0 M a r ch 1 9 9 9 1 2 : 2 6
+                                            j,   j                                    Ex Parte Murray & Duckenfietd
+     Judgment: Approved by the pourt for handing down                 r   y Chjef Constab|e of south Yorkshire Police
+     (subject to editorial corrections)                                     £x Parte South Yorkshire Police Authority
+
+
+
+
+                               • The public interest factors tending against prosecution clearly
+                                 outweigh those factors tending in favour.
+3                              • The prosecution is clearly likely to damage the interests o f justice.
+                               • The prosecution is clearly likely to damage the interests o f justice.
+
+6                The CPS would then regard itself as having to act in accordance with our
+                 policy.
+
+9                If none of the above apply there would be no need for the CPS to become
+                 involved and we would not interfere with the private prosecution.
+
+2                Clearly there is a distinction between the 'realistic prospect of conviction
+                 test in the Code [the Code for Crown Prosecutors issued by the DPP under
+                 s. 10 of the 1985 Act] and the 'clearly no case to answer’ test mentioned
+                 above. Accordingly we recognise that there will be some cases which do not
+                 meet the CPS Code tests where nevertheless we will not intervene. It has
+                  been considered that to apply the Code tests to private prosecutions would
+18               unfairly limit the right of individuals to bring their own cases.
+
+                  Before this decision can properly be made the CPS must be assured that all
+21               relevant material has been considered...
+
+                  Until there has been a detailed review of the many papers in the case the
+24               Crown’s position cannot be determined...
+
+
+27                    There followed very substantial representations from D and M and from
+       the HFSG. At length the DPP communicated his decision not to intervene, as I have
+       said by letter of 18 December 1998. The letter merely stated:
+"O
+                   “We have considered the evidence, the representations made by the parties
+                   and all the relevant circumstances of the case. We have concluded that we
+33                 should not intervene to take over any of the charges.”
+
+       The respective solicitors for D and M asked for reasons to be given. There followed a
+36     letter of 1 February 1999 (the “reasons letter”) from the CPS’ Casework Director to
+       M’s solicitor from which it is necessary to cite at some length.
+
+39                  “As you know, the Code for Crown Prosecutors sets out the general
+                    principles applied by the Service when (inter alia) deciding whether to
+                    continue a prosecution it has taken over; or whether to institute
+42                 proceedings, or whether to advise the police to do so. It is correct that the
+                    CPS decided in 1997 that the evidence available at that time was not
+                    sufficient, in its view, to provide a realistic prospect of the conviction of
+45                 either your client or Mr Duckenfield for any offence. However, it does not
+                                                             -6-
+
+        Draft 3 0 Mar ch 1 9 9 9 1 2 : 2 6
+     -inHnmimt: Annroved bv the Court for handing down                            Ex Parte Murray & Duckenfield
+     ;                                                            r   V Chief Constable of South Yorkshire Police
+     jsub[ect to editorial corrections]                                ^   ^   South             po|jce Authorjty
+
+
+
+
+     ^            follow that, when considering the evidence and the representations
+                  submitted by the private prosecutor, and by yourselves on behalf of your
+3                 client, the CPS should seek merely to identify whether there is now any new
+                  evidence sufficient to provide a realistic prospect of a conviction. The
+                  decision whether to intervene in a private prosecution with a view to
+6                 terminating it calls for different considerations to be applied. It is quite
+                  possible for a private prosecution to continue, notwithstanding that the CPS
+                   is not satisfied, on the basis of its own assessment of the strength of the
+9                 evidence, that the evidence would pass the evidential sufficiency test in the
+                   Code (that there should be a 'realistic prospect of a conviction’).
+
+12                In broad terms, the reason for this is that s.6 (l)... specifically preserved the
+                   right of private individuals and prosecuting authorities and bodies other
+                   than the CPS to bring criminal proceedings. This right is subject (among
+15                other limitations) to the limitation in s.6(2) that the CPS may nevertheless
+                   take over the proceedings with a view either to conducting or to
+                   terminating those proceedings.
+18
+                   Private prosecutors are not bound to apply the Code for Crown Prosecutors
+                   when deciding whether to institute proceedings, nor do the courts apply the
+21                evidential sufficiency test in the Code when deciding whether there is a case
+                   to answer. The Service therefore recognises that it is not appropriate to
+                   intervene to terminate a private prosecution without good reason. That
+24                general principle has recently been endorsed by the Law Commission in its
+                   Consultation Paper No. 149 'Consents to Prosecution’ (see paragraphs 6.3
+                   and 6.4).
+27
+                    [The letter then proceeds to set out the DPP’s policy in the same terms as those
+                    in which it had earlier been described by the three “bullet-points” in the letter
+30                 of 27 July 1998, save that it gives instances of the “public interest factors” test
+                    as follows:
+
+33                 “examples might be where the prosecution is malicious, or vexatious; or the
+                    offence is one for which the defendant should clearly have been cautioned;
+                    or where, although the offence may be serious, the defendant is terminally
+36                 ill.” Then the letter continues as follows]
+
+                    In this case, I took the decision not to intervene... I concluded in respect of
+39                 the charges of manslaughter and wilful neglect to perform a public duty
+                    (which, for the avoidance of doubt, were each considered against each
+                    individual separately) that I could not say that there is clearly no case to
+42                 answer. It was not right, therefore, for the Service to take over the
+                    proceedings with a view to terminating them.
+
+
+
+                                                         -7 -
+
+         Draft 3 0 M arch 1 9 9 9 1 2 : 2 6
+      Judgment: Approved bv the Court for handing down                          Ex Parte Murray & Duckenfield
+      (subject to etHtorial corrections)                          R v Chief Constable of South Yorkshire Police
+                                                                      Ex Parte South Yorkshire Police Authority
+
+
+
+                  I should add that, against that background and after specifically
+                  considering the appropriate course to take in these circumstances, I
+                  concluded further that it would not be right to intervene in respect of the
+                  one remaining charge against Mr Duckenfield, of attempting to pervert the
+                  course of justice, albeit I had formed the view that there was clearly no case
+                  to answer on that charge alone. The charge of attempting to pervert the
+                  course of justice is a serious one, particularly when levelled against
+                  someone who was, at the relevant time, a serving, senior police officer.
+                  Nevertheless, in the context of the case as a whole that charge is not the
+                  gravamen of the criminality alleged against Mr Duckenfield and I
+                  concluded that my approach to that charge should be led by my conclusions
+12                on the charges of manslaughter and wilful neglect to perform a public duty.
+                  I also considered whether, nevertheless, there were overriding public
+                  interest factors that should lead to the Service intervening with a view to
+                  discontinuance, but I came to the conclusion that any public interest factors
+                  tending against prosecution did not clearly outweigh those in favour; nor
+                  did I consider that the prosecution is clearly likely to damage the interests
+18                of justice•••
+
+
+21                  The private prosecution of D and M presently stands adjourned in the
+      magistrates’ court. Committal proceedings were due to commence on 19 April 1999.
+      But we understand that date has been vacated. There is a directions hearing fixed for
+24 hearing later in April. The matter was earlier before the magistrates’ court on 21
+      December 1998, an occasion to which I should refer because Mr Jones QC for AA
+      contends that the applications in the first case have not been made promptly, as Order
+27 53 and the Supreme Court Act 1981 require (Mr Havers QC for the DPP likewise so
+     contends but only in relation to the assault which is directed to the legality of the
+     DPP’s policy; he says, as is plainly the fact, that D and M had notice of the policy by
+ 50 the letter of 27 July 1998). Chi 21 December it is said by AA that Mr Harrison QC for
+     D and M indicated his clients’ intention to seek leave to bring an application for
+     judicial review against the DPP’s decision, whatever the reasons for it (the reasons
+33 had not, of course, by then been supplied). Mr Jones contends that the application for
+     judicial review could and should have been lodged then or very shortly thereafter.
+     There is an issue as to the context in which Mr Harrison said what he said to the
+36 magistrate. It is clear from an affidavit sworn by M’s solicitor Mr Manning that Mr
+     Harrison took the view (as, if I may say so, one would expect) that he would have to
+     consider the DPP’s written reasons before finally advising as to a judicial review. As
+39 at 21 December 1998 a reasons letter was expected before Christmas, and Mr Harrison
+     so informed the magistrate. In the event the reasons were not delivered until 1
+     February 1999. These applications were lodged in the Crown Office on 1 and 5 March
+42 1999.
+
+                    In my judgment there is nothing in the delay point. It would have been
+45   irresponsible to seek judicial review leave before the DPP’s reasons were available.
+      And the letter of 27 July 1998 could not have been a proper trigger to seek leave; it
+                                                         -   8-
+      Draft 3 0 March 1 9 9 9 1 2 :26
+                                                                             Ex Parte Murray & Duckenfield
+      Judgment: Approved bv the Court for handing down         R v Chief Constable o f South Yorkshire Police
+      (subject to editorial corrections)                           Ex Parte South Yorkshire Police Authority
+
+
+
+      contained no decision. It is due that a challenge only to the legahty of the pokey need
+      not strictly have awaited the DPP’s reasons for applying it as he decided to do, but
+      since D and M, veiy obviously, were at least as interested in the application of the
+      policy as in its legality, overall it was perfectly proper and reasonable to wait for the
+      reasons letter before lodging any application for leave.
+6
+
+
+
+
+9      The First Case: the Decision o f the DPP
+                     I may now turn to the substantive arguments in the first case. The lead
+12     skeleton argument is that prepared on behalf of M, which is adopted by D who adds
+       further submissions to challenge the distinct decision of the DPP not to take over an
+       discontinue the charge against him of attempting to pervert the course of justice. To
+15     that I will come in due course.
+
+       S.3(2)(b) o f the Act o f 1985
+                      The applicants’ first submission is that the DPP’s decision fails to pay
+        any regard to his duty under s.3(2)(b), which I have set out. It is put thus at #2.6 of the
+21      skeleton argument:
+
+                   “The applicant’s point is that the policy and decision process in this case
+24                 have not recognised that the s.3(2)(b) duty is relevant to the exercise of
+                   discretion whether to intervene under s.6(2) and apply s.23(3)”.
+
+27      In the course of his oral submissions Mr Harrison expanded this argument. He
+        submitted that in deciding whether to take over and discontinue a pnvate prosecution
+        where the case is one of “importance or difficulty”, the DPP should bear m mmd tha
+30      it is ordinarily his duty to institute and conduct such proceedings. Accordmgly, as
+        understand it, the suggestion is that the DPP should in some way entertain a
+        heightened concern where such a private prosecution is launched, and his policy m
+ 33     relation to the potential discontinuance of such cases under s.23(3) should reflect this,
+        presumably (for otherwise I cannot see how the argument can assist Mr Harrison) by
+         leaning more favourably towards discontinuance than in other classes of case.
+ 36
+                       In my judgment this is a bad argument. S.3(2)(b) speaks only of the
+        institution of proceedmgs by the DPP; contrast s.3(2)(a), (c), and (d), which require
+ 39     him to take over proceedings. Plainly the DPP would not mstitute proceedmgs with a
+        view to discontinuance. Moreover, as Mr Havers submitted, had it been the
+        legislature’s intention to require the DPP to treat “important or difficult cases m a
+ 42     different way from others for the purposes of ss.6(2) and 23(3), it could have readi y
+         so provided and it is to be supposed would have done so. In my Judgment.th e jig h : ol
+         private prosecution preserved by s.6 (l) is in no way qualified by s.3 (2 )(b) which has
+ 45     nothing to do with the discretion to take over such a prosecution under s.6 (2 ) with a
+         view to discontinuance under s.23(3). I consider that this conclusion is lent support by
+
+         Draft 3 0 March 1 9 9 9 1 2 :26
+                                                                                    Ex Parte Murray & Duckenfield
+          i. iHgmpnt: A pnroved by the Court for handing down       r   ^ chjef Constab)e of South Yorkshire Police
+          ^gublact to editorial corrections)                              Ex parte south Yorkshire Police Authority
+
+
+
+
+          the decision of the Divisional Court in R v Bo* Street S O p M ^ P-                             Coasl
+          Ltd [1993] 2 WLR 621, in which Lloyd LJ, as he then was, said at
+
+                     “It will be noticed that section 3(2)(a)... provide[s] for the Director to take
+                     ove^ the conduct of certain kinds of proceedings. By contrast, s«*on
+                     V 2\(U\ nrovides for the Director to institute certain other kinds of
+                     proceedings where it appears to him to be appropriate, having regard to the
+                     importance and the difficulty of the case. The difference m              * "°*>
+                     in my view, accidental. It becomes of crucial importance when one turns to
+                      section 6 which deals with private prosecutions... The effect of section 6(1)
+                      is to preclude a person from bringing a private prosecution in cases covered
+                      bv section 3 (2 )(a), (c) and (d) but not in the residuary category of cases
+    12
+                      I r b y section 3(2)(b). So far as
+                      there is nothing to preclude a private prosecution. (Lloyd U s emphas )
+
+•    5
+            The DPP’s policy fails to have regard to the fundamental purpose fo r which private
+    18      prosecution is preserved by statute
+                         Mr Harrison’s second submission was that the right to maintain a pnvate
+    21
+            prosecution essentially operates as a constitutional
+
+
+    24
+
+             Wilberforce said at 477B-C:
+    27                  «Thk historical right which goes right back to the earliest days of our legal
+                         s y s m though 7 arely exercised fn relation to indictable offences and
+                         Z u Z ultimately liable to be controlled by the Attorney-General (by
+*                       taking over the prosecution and, if he thinks fit, entering a nolle prosequi)
+                          remains a valuable constitutional safeguard against inertia or partiality o
+     33                 the part of authority.”
+
+              Lord Diplock said this at 498B:
+     36                   “In English public law every citizen still has the right, as he once had a
+                          duty W        Pof imperfect obligation), to invoke the aid of courts of cnmina
+                          Jurisdiction for the enforcement of the criminal law by this procedure. It
+     39
+                          i  righfwhich nowadays seldom needs to be exercised by
+                               , _ r         mihlic for since the formation of regular police forces
+                          charged with the duty’ in public law to prevent and detect crim eandto
+     42                   bring criminals to justice, and the creation in 1879 of the office of D,rector
+                          of Public Prosecutions, the need for prosecutions to be un^e. ^ n (®
+                          paid for) by private individuals has largely disappeared; but it still exists
+                           and is a useful constitutional safeguard against capricious, corrupt or
+               Draft 3 0 March 1 9 9 9 1 2 : 2 6
+                                                                          Ex Parte Murray & Duckenfield
+Judgment: Approved bv the Court for handing down
+                                                            R v Chief Constable of South Yorkshire Police
+(subject to eifltorial corrections)
+                                                                Ex Parte South Yorkshire Police Authority
+
+
+
+            biased failure or refusal of those authorities to prosecute offenders against
+            the criminal law.”
+
+Reliance is also placed on a passage at para 7.50 in the report of the Royal
+Commission on Criminal Procedure 1981, which refers to the retention of the right of
+private prosecution “as an effective safeguard against improper inaction by the
+prosecuting authority”, and to a recent recommendation of the Law Commission,
+contained in para 5.26 of its final report on “Consents to Prosecution” (October 1998),
+to the effect that private prosecutions might be made subject to a statutory provision
+requiring the consent of the CPS.
+
+               In my judgment this argument is also misconceived. The obiter dicta in
+ Gouriet are not reflected in the 1985 statute, which was of course enacted some seven
+ years after Gouriet was decided. More particularly, it is simply quixotic to suggest that
+ the DPP should allow a private prosecution to go ahead if there has been “inertia,
+ partiality or improper action” by the public prosecutor - namely himself - but not
+ otherwise. Is he to be judge and jury on the question whether he has let the public
+ down? Their Lordships’ dicta in Gouriet do not with respect provide anything
+ approaching a compulsory template of a lawful policy to be adopted by the DPP for
+ the execution of his duty under ss.6(2) and 23(3).
+
+  The Codefo r Crown Prosecutors
+
+                 The argument here, at least as originally put forward in M’s skeleton
+  argument, was that because of his view (referred to in the reasons letter) that pnvate
+  prosecutors are not bound to apply the Code when deciding whether to institute
+  proceedings, the DPP has erroneously proceeded on the basis that the principles m the
+  Code are irrelevant to his discretion under ss.6(2) and 23(3). But the DPP has nowhere
+  stated that he regards the Code as systematically or generally irrelevant to his power to
+  discontinue. Indeed, as I shall show, there are some aspects of the Code which are a
+  reflected in his approach to the question, how his policy should be applied m this case.
+  In truth, however, it could not be right for the DPP to apply across the board the same
+  tests in particular the “reasonable prospect of conviction test referred to in the
+  correspondence, in considering whether to take over and discontinue a private
+  prosecution as the Code enjoins Crown Prosecutors to follow in deciding whether to
+  institute or proceed with a prosecution themselves; the consequence would be that the
+  DPP would stop a private prosecution merely on the ground that the case is not one
+  which he would himself proceed with. But that, in my judgment, would amount to an
+  emasculation of s.6 (l) and itself be an unlawful policy; and in fairness Mr Hamson
+   (#7 of M’s skeleton) made it clear that he did not submit so much. The very premise of
+   s.6 (l) must be that some cases will go to trial which the DPP himself chooses not to
+   prosecute.
+                As it seems to me the only points remaining in relation to the Code
+  concern the application of the DPP’s policy to the facts of this case, and I will deal
+  with that shortly.
+                                                   - ii -
+
+   Draft 3 0 M ar ch 1 9 9 9 1 2 : 2 6
+                                                                                  Ex Parte Murray & Duckenfield
+         Judgment: Approved bv the Court for handing down
+                                                                    R v Chief Constable of South Yorkshire Police
+         (subject to editorial corrections)
+                                                                        Ex Parte South Yorkshire Police Authority
+
+
+
+
+         The “clearly no case to answer” test
+    3
+                          The argument here (#7 of the skeleton) is that such a test is
+          impermissibly rigid. It is said that the policy excludes “any assessment of evidential
+    6    deficiencies” and so amounts to an unlawful fetter of the DPP’s discretion; and that it
+          “also leads to a distorted evaluation of the public interest factors” . In my judgment
+          the test involves no unlawful fetter of discretion. It is plain from the formulation “there
+    9    is clearly no case to answer” (my emphasis) that the DPP only intends to stop private
+          prosecutions on this ground where no reasonable decision-maker could conclude that
+          there was sufficient evidence for the case to go forward. That seems to me to be a
+12        perfectly proper approach. Such a prosecution could offer no legitimate benefit to
+          anyone and would, potentially at least, be an abuse of the process of the court The
+           test rightly identifies a class of case which should always be stopped; if the case is not
+    5     within the class, then the decision whether to stop it will, of course, depend on the
+*          other two tests which, in my judgment, amply contemplate an exercise of discretion in
+           which all material factors will be considered and whose application accordingly
+18         negates any unlawful fetter of discretion.
+
+                       As regards any “distorted evaluation” of the public interest test, it is
+21       clear that the three aspects of the policy are individually self-standing. Their
+          respective application in this case is a another matter, to which as I have said I will
+          come. But the applicants have a separate argument about the public interest test.
+24
+          The “public interestfactors” test
+
+27                       Here it is submitted (#8 of the skeleton) that the public interest
+          necessarily involves consideration of the likelihood of conviction, so that the
+           evidential test should not be hived off from that relating to the public interest. Mr
+130       Harrison also argues that the public interest test as formulated - “the public interest
+          factors tending against prosecution clearly outweigh those factors tending in
+          favour” - gets it the wrong way round; the test should be whether the public interest
+    33    factors in favour of the private prosecution outweigh those against.
+
+                           I see no reason why quite aside from the evidential test of no case to
+    36    answer the DPP should not, within his policy as presently formulated, have in mmd
+           the likelihood or otherwise of conviction when considering where the public interest
+           lies. And I see no basis for the suggestion that the law should compel the DPP to
+    39    reverse the effect of the public interest factors so as to favour discontinuance unless in
+           his judgment they clearly point in the other direction. The test as presently formulated
+           seems to me designed to allow proper scope for the operation of the right of private
+    42    prosecution. The private prosecutor is very likely to take a different view as to where
+           the public interest lies than does the DPP, and s.6 (l), I think, implies that he is entitled
+           to do so. The approach urged by Mr Harrison would in effect require the pnvate
+    45    prosecutor to persuade the DPP that his view of the public interest is plainly right. I
+            consider it strongly arguable that that would place an illegitimate constraint upon the
+                                                            - 12-
+
+           Dral! 30 M ar ch 1999 12:26
+                                          . . . .                                   Ex Parte Murray & Duckenfield
+      Judgment: Approved by the Court for handing down            r   ^        Constflb|e of South Yorkshire Police
+      (subject to editorial corrections!                                  Ex Rarte South Y orkshjre Police Authority
+
+
+
+
+      right of private prosecution; but it is enough to hold, as I would, that the present public
+      interest policy is perfectly consistent with the objects of the statute and thus well
+3     within the proper discretion of the DPP.
+
+                    Mr Hairison directed similar criticisms to the third limb of the policy,
+6     but in light of what I have said about the public interest test they possess no separate
+      force.
+                                                         ***
+
+                     For all these reasons, the DPP’s policy overall is in my judgment a
+1 2 lawful one. The real question in the case is whether it has been law fully applied. It is
+     clear that (a) the DPP maintains his view that the “reasonable prospect of conviction
+     test in the Code would not be met in this case, but that (b) the “no evidence test is not
+15 met either (save as regards the charge against D of attempting to pervert the course of
+     justice, with which I deal separately below). In those circumstances, tiie apphcation of
+     the public interest test was crucial. In this context it is convenient to deal first with Mr
+18 Harrison’s submission that the reasons letter shows that the DPP has given improper
+      and perhaps decisive weight to the “no evidence” test. He relies on the sentence which
+      follows the conclusion that that test is not satisfied: “It was not right, therefore, for
+ 21 the Service to take over the proceedings with a view to terminating them and
+      submits that it suggests the author of the letter considered that that was the end of the
+      matter However after dealing with the particular issue concerning the charge against
+ 24 D of attempting to pervert the course of justice, the letter continues. I also
+      considered whether, nevertheless, there were overriding public interest factors
+      that should lead to the Service intervening with a view to discontinuance I think
+ 27 the letter could have been better expressed, so as to make it clear that the public
+       interest test is by no means secondary to the “no evidence” test. However I am qrn e
+       satisfied that there was no intention to downgrade or sideline the balance of public
+ 30 interest factors. It is not really credible to suppose that author of the letter
+       m isunderstood or failed to apply the very policy which he had just clearly set out.
+
+ 33     The DPP’s judgment o f the public interest
+
+                    Mr Harrison submitted that in light of everything that had gone before,
+ 36 and not least Stuart-Smith LJ’s Scrutiny, there were no public^interest factors
+      favouring continuation of the prosecutions of D and M. He said that there is nothing in
+      the reasons letter to show that the DPP accepted the suggestion, urged forcefully and
+ 3 9 at length by the HFSG in the course of their representations, that further evidence had
+      come to light since the Scrutiny. With this latter proposition I agree. But the reasons
+      letter clearly implies an acceptance that some factors existed which favoured the
+ 42 prosecutions. It stated. “I came to the conclusion that any public interest factors
+       tending against prosecution did not clearly outweigh those in favour What were
+       those in favour? If in truth there were no factors which a reasonable decision-maker
+ 45 could regard as going in favour of the prosecutions, then the DPP’s decision would be
+
+                                                           -13-
+
+         Draft 3 0 March 1 9 9 9 1 2 : 2 6
+         Judgment: Approved bv the Court for handing down                           Ex Parte Murray & Duckenfield
+         (subject to editorial corrections)                           R v Chief Constable of South Yorkshire Police
+                                                                          Ex Parte South Yorkshire Police Authority
+
+
+
+         vulnerable to a challenge on Wednesbuiy1 grounds (as indeed Mr Harrison claims it is)
+         since there would be nothing in public interest terms to weigh in the scales against
+         discontinuance. When the case was opened there was no affidavit from the DPP
+         dealing with the point, nor did Mr Havers’ skeleton argument articulate any such
+         factors. So it was that, effectively at the court’s invitation so that the matter could be
+         clarified, Mr Newell swore an affidavit for the DPP on 22 March 1999. He is the CPS’
+         Director of Casework and the author of the reasons letter. Paras 2 - 4 are as follows:
+
+                   “2. As I now recall, the public interest factors tending against prosecution
+                   which I considered were as follows:--------- -------------------------------------------
+
+    12                       (1) Previous reviews of the case, in particular those carried out by
+                             the DPP when considering the question whether criminal
+                             proceedings should be taken against Mr Duckenfield and Mr
+                             Murray and the more recent report of Lord Justice Stuart-Smith.
+
+                             (2) The fact that the Applicants had been told on previous occasions
+    18                       that the DPP did not intend to prosecute.
+
+                             (3) The delay which had occurred between the commission of the
+    21                       alleged offences and the commencement of this prosecution and its
+                             likely effect on the Applicants, although I took the view that delay
+                             may be offset by the seriousness of the alleged offences (as is reflected
+    24                       in paragraph 6.5(d) of the Code...).
+
+                             (4) The effect of the delay on the evidence, for example in terms of
+    27                       the potential impairment of the recollections of witnesses.
+
+                             (5) The assertion made on behalf of Mr Murray of ill-health,
+• * 0                        although I noted that no medical evidence had been put forward in
+                             support of this assertion and that, as again reflected in the Code (at
+                             paragraph 6.5(e)), ill-health may be offset by the seriousness of the
+    33                       offence.
+
+                   3. As against these factors tending against prosecution, there was in my
+    36             view one extremely important factor in favour of prosecution, namely the
+                   very serious nature of the alleged offences, in particular, the alleged
+                   offences of manslaughter. In my opinion, the allegation that two senior
+    39             police officers were responsible for the deaths of a number of people as a
+                   result of criminal negligence was a very grave allegation.
+
+    42             4. Paragraph 6.2 of the Code reflects the considerable weight attached by
+                   the CPS to the seriousness of the alleged offence when seeking to strike the
+                   right balance as to the factors for and against prosecution. (I refer also to
+
+         1 [1948] 1K B 223.
+                                                            - 14-
+         Draft 30 March 1999 12:26
+     Judgment: Approved bv the Court for handing down                              Ex Parte Murray & Duckenfield
+
+
+
+     •
+     (subject to editorial corrections)                              R v Chief Constable of South Yorkshire Police
+                                                                         Ex Parte South Yorkshire Police Authority
+
+
+
+                  the opening words of paragraph 6.4.) Having carefully considered the
+                  factors tending against prosecution and this extremely important factor in
+3                 favour of it, I came to the firm conclusion that the factors tending against
+                  prosecution did not clearly outweigh what I considered to be the very
+                  strong public interest in favour of prosecution.”
+ 6
+
+                     One of Mr Harrison’s complaints, advanced before this affidavit was
+ 9   sworn, was that the policy should have taken account of para 10.1 of the Code which
+      includes this:
+
+12                “Normally, if the Crown Prosecution Service tells a suspect or defendant
+                  that there will not be a prosecution... that is the end of the matter... But
+                  occasionally there are special reasons why the Crown Prosecution Service
+15                will re-start the prosecution, particularly if the case is serious.”
+
+       This is one of the points relating to the Code which, as it seems to me, bear on the
+18   application of the policy rather than the policy itself; and para 2(2) of Mr Newell’s
+      affidavit shows that regard was had to assurances or statements made to D and M that
+      for his part the DPP would not prosecute. Clearly it was right to do so, within the
+21   public interest balance. But I think there is a qualitative difference between the
+      situation where the DPP himself goes back upon a previous assurance not to prosecute
+      and one where the DPP does not change his mind but a private prosecutor chooses to
+24   instigate proceedings.
+
+                     In reply, having by then seen Mr Newell’s affidavit, Mr Harrison made
+27   further submissions. While accepting that there could be a case in which a single
+      factor favouring prosecution might not be outweighed by a multiplicity of factors
+      going the other way, he submitted that if the raft of public interest considerations
+30   favouring discontinuance in this case was held not to be enough to outweigh the single
+      factor of the allegations’ gravity, it was difficult or impossible to imagine what set of
+      considerations might do so; and the court should conclude that DPP had fettered his
+33   discretion by treating the seriousness of the allegations as overriding everything else,
+      so that he had not in truth carried out a proper balancing exercise at all.
+
+36                  I would reject this argument. There is no reason to suppose that the
+      factors against prosecution were not properly weighed and considered, and certainly
+      no basis for the supposition that once faced with a private prosecution for something
+39   as serious as manslaughter the DPP would inevitably decide to allow it to proceed.
+
+                   Mr Harrison submitted next that Mr Newell’s affidavit showed that the
+42   DPP had transposed from the Code the “seriousness of the charge” factor as a
+     consideration favouring the prosecution without also taking account of his own view
+     that the Code test of “realistic prospect of conviction” was not met. I agree that the
+45   DPP’s view of the prospects of conviction is a proper matter for him to consider,
+     within the public interest test contained in the policy, when deciding whether to
+                                                        -   15   -
+
+         Draft 30 March 1999 12:26
+             Judgment: Approved bv the Court for handing down                          Ex Parte Murray & Duckenfield
+             (subject to editorial corrections)                          R v Chief Constable of South Yorkshire Police
+                                                                             Ex Parte South Yorkshire Police Authority
+
+
+
+        ^    discontinue; but, as it seems to me, para 2(1) of Mr Newell’s affidavit shows that in
+             this case he has done so.
+        3
+                            Then Mr Harrison suggested that para 3 of the affidavit demonstrated
+              that the DPP’s view of the gravity of the allegation was informed simply by the fact
+        6    that there was a manslaughter charge. He had not properly considered the real degree
+              of culpability inherent in the facts alleged; and the gravity of the offence of
+              manslaughter can vary very widely. There is nothing in this. Mr Newell made it
+        9    perfectly clear that he had regard to the species of manslaughter in question
+              (“criminal negligence”) and it cannot sensibly be doubted that he was well aware and
+              took account of the circumstances in which the alleged offences are said to have been
+      12     committed.
+
+                          Lastly on this part of the case Mr Harrison submitted that the refusal to
+      k1 5   discontinue was simply perverse, given the “enormous weight” of the public interest
+             considerations going the other way.
+
+      18                   The DPP might, in my judgment, lawfully have decided to discontinue.
+             The tragic events at Hillsborough have been the subject of repeated, detailed, thorough
+             enquiries. Nearly ten years have passed. But the judgment was for the DPP to make. If
+      21     we acceded to Mr Harrison’s submission, we would I think usurp the role of the
+             primary decision-maker.
+
+      24                    In my judgment the decision not to discontinue is no more unlawful than
+             is the policy which the DPP applied.
+
+      27
+
+             Thefirst applicant: attempting to pervert the course o f justice
+      30
+• •                         Mr Harrison discretely submits that the decision to let the charge of
+             attempting to pervert the course of justice go ahead was unlawful, because it runs flat
+      33     counter to the “no case to answer” test in his own policy. It will be recalled that the
+             reasons letter said:
+
+      36                “I concluded further that it would not be right to intervene in respect of the
+                         one remaining charge against M r Duckenfield, of attempting to pervert the
+                         course of justice, albeit I had formed the view that there was clearly no case
+      39                to answer on that charge alone... in the context of the case as a whole that
+                         charge is not the gravamen of the criminality alleged against M r
+                         Duckenfield and I concluded that my approach to that charge should be led
+      42                by my conclusions on the charges of manslaughter and wilful neglect to
+                         perform a public duty.”
+
+      45     Paras 5 and 6 of Mr Newell’s affidavit state as follows:
+
+                                                                - 16 -
+             Draft 3 0 Mar ch 1 9 9 9 1 2 :26
+     Judgment: Approved bv the Court for handing down                            Ex Parte Murray & Duckenfield
+     (subject to editorial corrections)                            R v Chief Constable of South Yorkshire Police
+                                                                       Ex Parte South Yorkshire Police Authority
+
+
+
+              “5. I was fully aware of the seriousness of the additional charge. I also
+              tentatively concluded that partial intervention... was in law open to the CPS
+3             and I proceeded on that assumption. However, the existing policy did not
+              cover the situation which arose in this case, namely where the conclusion
+              was reached that there was clearly a case to answer in relation to some of
+6             the charges but not in relation to others. (I can say that with some
+              confidence, since I had overall responsibility for formulating the policy.) ...
+              I concluded that it was in fact inappropriate to intervene only to take over
+ 9            (with a view to discontinuing) this additional charge.
+
+               6. First, partial intervention was not, in my view, either appropriate or
+12             desirable. It seemed to me that the DPP should either intervene so as to
+               take over the proceedings in their entirety or not at all. To have intervened
+               partially would still have left the criminal proceedings in place in relation to
+15             the other charges which included the even more serious charge of ^
+               manslaughter. Secondly, I took into account the fact that Mr Duckenfield
+               would not be left without any remedy in relation to this additional charge.
+18             On the contrary, he would be entitled to invite the Magistrates’ Court to
+               dismiss it on the basis that there was no case to answer. Thirdly, the charge
+               arose out of essentially the same events as the events which gave rise to the
+21             other charges and thus those events would be scrutinised in any event.”
+
+
+24                    I of course accept that Mr Newell did not subjectively believe - or intend
+      - that the policy covered this situation. But the policy has to be read objectively; there
+      can be no doubt that it gave rise to a legitimate expectation on the part of D and M
+27   that it would be applied according to its terms. The first question, then, is as to the true
+      meaning of the policy on a fair reading of the letter of 27 July 1998 and the reasons
+      letter. It is true that the letters use the singular: “the prosecution” and “a private
+30   prosecution”. But it is elementary that in criminal cases each count constitutes a £
+      separate indictment; it is as if there are separate trials relating to each. And this is no
+      mere technicality; for it means, of course, that where there is more than one charge
+33   any question whether there is “no case to answer” is, as regards each individual
+      charge, wholly discrete. I do not consider that the policy can fairly be read as
+      indicating that the DPP would necessarily either take over or discontinue a private
+36   prosecution in its entirety. In my view the articulation of the “no case to answer” test
+      would be taken by any informed reader, facing a multiple private prosecution, to imply
+      that the DPP would consider whether in his view there was clearly no case to answer
+39   on each charge.
+
+                     The DPP concluded that there was clearly no such case in relation to this
+42   charge against D, and yet decided to allow it to proceed. It follows, in my judgment,
+      that there is a breach of D’s legitimate expectation that the policy would be applied.
+      The pragmatic factors spoken to by Mr Newell in para 6 can make no difference. Nor,
+45   of course, can the vigorous assertion by the HFSG that there is in fact a case to
+      answer. What matters for present purposes is the DPP’s conclusion on that issue.
+                                                        -   17 -
+     Draft 30 M arch 1999 12:26
+i
+                                                                                Ex Parte Murray & Duckenfield
+         Judgment: Approved bv the Court for handing down
+                                                                  R v Chief Constable of South Yorkshire Police
+         (subject to editorial corrections)
+                                                                      Ex Parte South Yorkshire Police Authority
+
+
+
+
+                        For these reasons I would quash the DPP’s decision only so far as it
+    3    relates to this charge against D. I make it clear that I say nothing as to what might
+         follow as regards any further decision concerning that charge to be made by the DPP.
+
+    6                    Otherwise, for the reasons I have given I would dismiss the application
+         in the first case.
+
+
+
+         The Second Case: the Decision o f the SYPA
+12
+                        First I should describe the further facts which are specifically relevant to
+         the second case. These must be read into the narrative of events which I have already
+         given in relation to the first case; it seems to me clearer and more convenient to isolate
+         here the particular facts which bear on the challenge to the decision of the SYPA.
+
+    1g                  The history shows that at earlier stages the SYPA had been prepared to
+         provide fin an cial support for D and M (and other officers) to be legally represented in
+         matters arising from the Hillsborough disaster. On 7 December 1990 they resolved to
+    21   fund the representation of six police officers, including D and M, at the inquest. They
+         had earlier resolved not to do so; the decision of 7 December was taken after
+          considering “the most recent legal advice available”. Then on 1 August 1997 the
+    24   SYPA resolved to set aside £500,000 for financial assistance for police officers in
+          connection with Stuart-Smith LJ’s Scrutiny. In both instances they had considered a
+         report from the Chief Constable (or a joint report of the Chief Constable and the Clerk
+    27    and Treasurer). The latter decision was said to be taken “in accordance with the
+          principles set out in Home Office Circular No 77/87 Financial Assistance to Police
+          Officers in Legal Proceedings”, to which I will have to refer.
+
+    5°                   On 27 February 1998, following publication of the Scrutiny, and
+          considering that “there were indications that private prosecutions could be brought
+    33   against 3 officers”, the SYPA resolved in principle to authorise consideration being
+          given to applications by officers for financial assistance. On 5 March 1998 D’s
+          application for such assistance was approved by the SYPA, and M’s was approved on
+    36   29 June 1998. It will be recalled that three days earlier, on 26 June, AA had first
+          sought to in stitu te criminal proceedings against D and M in the South Sefton Petty
+          Sessional Division. On 20 November 1998 M applied for further financial assistance
+    39   in relation to the judicial review which was then seen to be in prospect should the DPP
+          decide to allow the private prosecutions to continue; and the HFSG had made it clear
+          that were the DPP to take over the prosecutions and discontinue, they would seek a
+    42   judicial review. On 21 December 1998 counsel for D and M indicated to the
+          Stipendiary Magistrate their intention to seek a judicial review of the DPP’s decision; I
+          have already referred to this in dealing with Mr Jones misconceived argument that the
+    45   first case should be dismissed on grounds of delay. The following day, 22 December
+           1998, in a letter of over six pages AA made written representations on leading
+                                                            18-
+           D ra fl 3 0 M ar ch 1 9 9 9 1 2 : 2 6
+         Judgment: Approved bv the Court for handing down                          Ex Parte Murray & Duckenfield
+         (subject to editorial corrections)                          R v Chief Constable of South Yorkshire Police
+                                                                         Ex Parte South Yorkshire Police Authority
+
+
+
+         counsel’s advice to urge the SYPA that the decision to fund the defences of D and M
+         was “unlawful, irrational, ultra vires and procedurally improper on various
+    3    grounds”. On 23 December 1998 D applied for further financial assistance in relation
+         to the prospective judicial review proceedings. On 5 January 1999 AA wrote a further
+         lengthy letter to the SYPA repeating and expanding her assertions that the funding
+    6    decisions were unlawful.
+
+                        Then on 5 February 1999 the SYPA passed the resolutions under
+    9    challenge, “that, on balance, the Authority has no legal power to provide financial
+         assistance” to D and M in respect either of the private prosecution or a judicial review
+         of the DPP’s decision. On 10 February 1999 the CCSY’s application for judicial
+    12   review in these proceedings was lodged, and on the same day solicitors for the SYPA
+         wrote to the Crown Office to consent to the grant of leave and seek expedition. They
+          stated:
+    15            “SYPA passed these resolutions with great reluctance on the basis of advice ^
+                  received from ourselves and Counsel...”
+                                                            ♦♦♦
+    18
+
+                       The legality or otherwise of the decisions under challenge ultimately
+    21   turns on the construction and application of s.6 (l) of the Police Act 1996 and s. 111(1)
+         of the Local Government Act 1972. I shall have to look at other statutory provisions,
+         but it is convenient to set these out at once. The cross-heading to s .6 reads “General
+    24   functions of police authorities”, and ss.(l) provides:
+
+                      “Every police authority established under section 3 shall secure the
+    27                maintenance of an efficient and effective police force for its area.”
+
+          S. 111(1) of the Act of 1972 in its present form provides:
+0   30
+                     “W ithout prejudice to any powers exercisable apart from this section but
+                     subject to the following provisions of this Act, a local authority shall have
+    33               power to do any thing (whether or not involving expenditure, borrowing or
+                     lending of money or the acquisition or disposal of any property or rights)
+                     which is calculated to facilitate, or is conducive or incidental to, the
+    36               discharge of their functions.”
+
+
+    39                  S. 111(1) applies to police authorities (but in light of my conclusions it is
+          unnecessary to go into the legislative history relating to that). Now, it might be
+          thought - indeed this is the applicants’ case - that by s.6 ( 1), securing “the
+    42    maintenance of an efficient and effective police force” is plainly made the function
+          of a police authority, and that accordingly it is no less plain that s. 111( 1) empowers
+          the police authority to do such things as fund the legal representation of police officers
+    45    in proceedings if the authority reasonably concludes that to do so is conducive to that
+          function’s discharge. That has been the settled view of the Association of Chief Police
+                                                            - 19 -
+          D raft 3 0 March 1 9 9 9 1 2 :26
+             Judoment: Approved bv the Court for handing down                        Ex Parte Murray & Duckenfieid
+             (subject to editorial corrections)                        R v Chief Constable of South Yorkshire Police
+                                                                           Ex Parte South Yorkshire Police Authority
+
+
+
+         ^   Officers, the Police Superintendents Association, and (until 1998) the Home Office.
+              The decision to provide such finance, in common with any decision taken under
+         3   s. 111(1), would of course be subject to well known public law constraints enshrined in
+              the Wednesbury and Padfielc? principles. There is before the court an affidavit of Mr
+              Daines, Assistant Chief Constable of South Yorkshire, in which he describes what he
+         6   regards as the “absolutely vital” requirement “that officers should know that if they
+              act in good faith in performing their duties their Police Authority will support
+              them in the event that they face litigation” . If as a matter of vires s. 111(1) allows a
+         9   police authority to incur expenditure in furtherance of the general function seemingly
+              conferred by s.6 (l), then in my judgment the use of s.ll 1( 1) to finance police officers’
+              legal expenses in litigation, including private prosecutions brought against them and
+        12   the bringing of judicial review proceedings, cannot in principle be ruled unlawful on
+              Wednesbury or Padfield grounds. The circumstances in which such funding might be
+              provided in any particular case is another matter. The policy has in the past been to the
+        15   effect that the authority must be satisfied that the officer has acted in good faith in the
+              discharge of his duty; and I can see that, at least where a private prosecution is
+              involved, there may be issues for the authority to consider which would involve their
+        18   taking a view of the merits in advance of any trial. But in these proceedings we are not
+              concerned with any question whether, when, or to what extent the SYPA might
+              provide financial assistance to D or M. We are only to decide whether the power
+        21   exists to do so at all.
+
+                           In fact the argument of the CCSY was put two ways by Mr Baker QC. It
+        24   was first said that s.6 (l) of itself, without the aid of s.. 111(1), enabled the funding
+             decision. Alternatively, it was enabled by s.l 11(1) read with s.6 (l).
+
+        27                Upon this issue Miss Baxendale QC for the SYPA submits that the
+             apparently obvious relation between s.6 (l) and s. 111( 1) is in fact no relation at all.
+             The essence of her argument may be expressed very shortly, as follows.
+•   *   30
+    ^                      (a) S.6 (l) confers no powers of any kind. All the powers possessed by
+             police authorities are conferred elsewhere in the Police Act and by the local
+        33   government legislation. S.6 (l) does no more than to provide the puipose for which the
+             authority’s powers are to be exercised; it states the Act’s “policy and objects”, in the
+             language of the Padfield case, as they apply to police authorities. If this is right, it
+        36   would contradict Mr Baker’s first argument, that s.6 (l) alone is enough to empower
+             the SYPA to fund D and M.
+
+        39                 (b) S. 111(1) cannot be read as enabling the authority to do anything
+             which is not ancillary to a power which is elsewhere conferred upon it. If this is right,
+             then taken with (a) it contradicts Mr Baker’s second argument which relies on
+        42   s. 111(1).
+
+
+
+
+             2 [1968] AC 997.
+                                                                -20-
+             Draft 30 March 1999 12:26
+         Judgment: Approved bv the Court for handing down                         Ex Parte Murray & Duckenfield
+                                                                    R v Chief Constable of South Yorkshire Police
+         (subject to editorial corrections)
+                                                                        Ex Parte South Yorkshire Police Authority
+
+
+
+                        There is no doubt that express powers are conferred on police authorities
+         by a raft of statutory provisions. Miss Baxendale says that such provisions support
+    3    proposition (a) which I have set out, by application of the canon of statutory
+         construction expressed by the Latin maxim expressio unius est exclusio alterius. Thus,
+         she submits, where Parliament has seen fit to confer a range of specific powers on
+    6    police authorities, the intention must have been thereby to set the limits on what such
+         an authority may do and it cannot be supposed that s.6 (l) provides an undefined and
+         open-ended power to do anything else which the authority may choose, merely on the
+     9   ground that in some way it may be said to support the general aim of “the
+          maintenance of an efficient and effective police force” . The high water-mark of this
+          submission is found in s. 88(4) of the Act of 1996 which confers an express power to
+    12   fund police officers’ costs in certain circumstances which do not include the defence
+          of private (or any) criminal prosecutions or participation in proceedings for judicial
+
+
+•
+          review.
+    15
+                        I                      shall have to look in a little more detail at s.88(4). I have c
+         however, that the correctness or otherwise of proposition (a) is not in the end at the
+    18   centre of the case. The reason is that in the particular statutory context proposition (b)
+          is in my judgment wrong; so that the SYPA is enabled by s. 111(1) (subject to
+          Wednesbury and Padfield) to finance D and M in the criminal and judicial review
+    21    proceedings even if s.6 (l) confers no powers as such.
+
+                         The scheme of the Act of 1996 involves the distribution of
+    24   responsibilities between three bodies: the Chief Constable, the Secretary of State, and
+          the police authority. The Chief Constable’s role is principally given by s. 10:
+
+    27                “(1) A police force maintained under section 2 shall be under the direction
+                      and control of the chief constable appointed under s .ll .”
+
+    30               (2) In discharging his functions, every chief constable shall have regard to
+                      the local policing plan issued by the police authority for his area under
+                      section 8 .”
+    33
+          (S.ll provides for the appointment and removal of the Chief Constable, by the police
+          authority with the approval of the Secretary of State.) I should notice also ss.22(l) and
+    36   44(4):
+                 “22(1) Every chief constable shall, as soon as possible after the end of each
+                 financial year, submit to the police authority a general report on the
+    39          policing during that year of the area for which his force is maintained.”
+
+                      “44(4) Every chief constable shall, as soon as possible after the end of each
+    42               financial year, submit to the Secretary of State the like report as is required
+                      by section 22 ( 1) to be submitted to the police authority.”
+
+    45 The role of the Secretary of State is principally given by ss.36 and 37(1):
+
+                                                            -21 -
+           Draft 3 0 March 1 9 9 9 12: 26
+                                                    „ j nuiin                       Ex Parte Murray & Duckenfield
+           Judgment: Approved by the Court for handmg down             r ^ ^             Qf South Yorkshire Po|ice
+       ^ [s u b je c t to editorial corrections!                          Ex Parte South Yorkshire Police Authority
+
+
+
+
+                       “36(1) The Secretary of State shall exercise his powers under the provisions
+                       of this Act referred to in subsection (2) in such manner and to such extent
+   3                   as appears to him to be best calculated to promote the efficiency and
+                       effectiveness of the police.”
+
+   6                     37(1) The Secretary of State may by order determine objectives for the
+                        policing of the areas of all police authorities established under section 3.”
+
+   9       As regards the Secretary of State’s position I should notice also these provisions of the
+           Act of 1996:                                                                 •
+                  “38(1) Where an objective has been determined under section 37, tne
+  12              Secretary of State may direct police authorities to establish levels of
+                  performance (performance targets) to be aimed at in seeking to achieve the
+                  objective.
+
+                         39(1) The Secretary of State may issue codes of practice relating to the
+                         discharge by police authorities established under section 3 of any of their
+  18                     functions.”
+
+             The role of the police authority is given first by the subsections of s .6 which follow
+  21         subsection ( 1):
+
+                         “6(2) In discharging its functions,every police authority established under
+   24                    section 3 shall have regard to -
+
+                          (a) any objectives determined by theSecretary of State under section 37,
+   27
+                          (b) any objectives determined by the authority under section 7,
+
+0 3 0                    (c) any performance targets established by the authority, whether in
+                          compliance with a direction under section 38 or otherwise, and
+
+   33                    (d) any local policing plan issued by the authority under section 8 .
+
+                          (3)               In discharging any function to which a code of practice issued under
+   36                    section 39 relates, a police authority established under section 3 shall have
+                          regard to the code.
+
+   39                    (4) A police authority shall comply with any direction given to it by the
+                          Secretary of State under section 38 or 40.”
+
+   42          These provisions, of course, confer duties rather than powers. In relation to the police
+               authority I should next notice ss.7 - 9:
+
+
+
+                                                                -22-
+               Draft 3 0 M ar ch 1 9 9 9 1 2 :55
+     i T ^ a . i . y M o ^ C o . 'W t e g l                         £   p . S S o u th Y o rk sh if. Polio. A m h o « v
+
+
+
+                 “7(1) Every police authority established under section 3 shall, before the
+                 beginning of each financial year, determine objectives forthe policing of the
+3               authority's area during that year.
+
+                 (2) Objectives determined under this section may relate to matters to which
+6               objectives determined under section 37 also relate, or to other matters, but
+                 in any event shall be so framed as to be consistent with the objectives
+                 determined under that section.
+9
+                   (3) Before determining objectives under this section, a police authority shall
+
+12              (a) consult the chief constable for the area, and
+
+                   (b) consider any views obtained by the authority in accordance with
+15                 arrangements made under section 96.
+
+                   8(1) Every police authority established under section 3 shall, before the
+18                 beginning of each financial year, issue a plan setting out the proposed
+                   arrangements for the policing of the authority’s area during the year (the
+                   local policing plan).
+21                                                                                                               .,
+                    (2) The local policing plan shall include a statement of the authority’s
+                    priorities for the year, of the financial resources expected to be available
+24                 and of the proposed allocation of those resources, and shall give particulars
+                    of -
+
+27                 (a) any objectives determined by the Secretary of State under section 37,
+
+                    (b) any objectives determined by the authority under section 7, and
+30                                                                              .        (
+                    (c) any performance targets established by the authority, whether in
+                    compliance with a direction under section 38 or otherwise.
+33
+                    (3 ) A draft of the local policing plan shall be prepared by the chief
+                    constable for the area and submitted by him to the police authority for it to
+36                  consider.
+
+                     (4) Before issuing a local policing plan which differs from the draft
+39                  submitted by the chief constable under subsection (3), a police authority
+                     shall consult the chief constable.
+
+42                  (5) A police authority shall arrange for every local policing plan issued by it
+                     under this section to be published in such manner as appears to it to be
+                     appropriate, and shall send a copy of the plan to the Secretary of State.
+45
+                                                       -23-
+
+        D raft 3 0 M ar ch 1 9 9 9 1 2 :55
+                                                                                Ex Parte Murray & Duckenfield
+      Judgment: Approved bv the Court for handing down
+                                                                  R v Chief Constable of South Yorkshire Police
+      (subject to editorial corrections)
+                                                                      Ex Parte South Yorkshire Police Authority
+
+
+
+                  9 ( 1 ) As
+                          soon as possible after the end of each financial year every police
+                  authority established under section 3 shall issue a report relating to the
+3                policing of the authority's area for the year.
+
+                  (2) A report issued by a police authority under this section for any year
+6                shall include an assessment of the extent to which the local policing plan for
+                  that year issued under section 8 has been carried out.
+
+9                 (3 ) A police authority shall arrange for every report issued by it under this
+                   section to be published in such manner as appears to it to be appropriate,
+                   and shall send a copy of the report to the Secretary of State.”
+ 2
+       S. 14 is important:
+
+ 5               “(1) Each police authority established under section 3 shall keep a fund to
+                  be known as the police fund.
+
+•J8               (2) Subject to any regulations under the Police Pensions Act 1976, all
+                   receipts of the police authority shall be paid into the police fund and all
+                   expenditure of the authority shall be paid out of that fund.
+21
+                    (3) Accounts shall be kept by each police authority of payments made into
+                    or out of the police fund.”
+24
+       Then s.43(l):
+
+27                 “A police authority shall, whenever so required by the Secretary of State,
+                    submit to the Secretary of State a report on such matters connected with
+                    the discharge of the authority's functions, or otherwise with the policing of
+30                 its area, as may be specified in the requirement.”
+
+        S.92:
+33                 “(1) The council of a county, district, county borough or London borough
+                    may make grants to any police authority established under section 3 whose
+                    police area falls wholly or partly within the county, district, county borough
+36                 or                                                                     borough.
+
+                    (3)              Grants under this section may be made unconditionally or, with
+39                 agreement of the chief officer of police for the police area concerned,
+                    subject to conditions.”
+
+42      S.96:
+
+                      “(1) Arrangements shall be made for each police area for obtaining -
+ 45
+                                                         -2 4 -
+
+         Draft 3 0 M ar ch 1 9 9 9 1 2 :55
+       Judgment: Approved bv the Court for handing down                                   Ex Parte Murray & Duckenfield
+     , (subject to editorial corrections)                                 R v Chief Constable^, of South Yorkshire Police
+     ^                                                           Ex Parte South Yorkshire Police Authority
+
+
+
+                        (a) the views of people in that area about matters concerning the
+                        policing of the area, and
+
+                        (b) their co-operation with the police in preventing crime in that area.
+
+                  (2) Except as provided by subsections (3) to (6), arrangements for each
+                  police area shall be made by the police authority after consulting the chief
+                  constable as to the arrangements that would be appropriate.”
+
+
+                      Looking at the whole picture displayed by these provisions, it is clear
+12   that the Chief Constable is in charge of day-to-day policing (s. 10(1)); the police
+      authority has a role in relation to policy, or strategy (ss.7, 8 and other provisions); but
+      this is subject to the overall direction of the Secretary of State (ss.37, 38, 39 and other
+15   provisions, taken with s.6((2) - (4)). The police authority holds the purse (s. 14). Those A
+      provisions specifically concerned with the police authority’s role confer duties rather ™
+      than powers, though in some cases there is clearly a discretion as to how the duty is to
+18   be performed (as for example under s. 37). Other powers (including those contained in
+      s. 111( 1)) are conferred on the police authority by the local government legislation, to
+      the extent that measures there contained were applied to police authorities by
+21   s.146A(1) of the Act of 1972. The powers so conferred are listed in a helpful note
+      provided by Miss Baxendale. I do not propose to set them out. They include (apart
+      from s. 111 ( 1)) such matters as the disposition and treatment of staff and the
+24   acquisition and disposal of land.
+
+                      The critical point which in my judgment emerges from a consideration
+27   of the interlocking roles of Chief Constable, Secretary of State and police authority is
+      that it cannot have been within the contemplation of Parliament in enacting the
+      scheme, and in embracing within it s. 111( 1), that the police authority should only be
+30   empowered to incur expenditure in support of those duties, and ancillary powers,
+      which are specifically conferred upon it. The police authority holds the funds from
+      which expenses for its local police force will be supplied: s. 14. It is inherent in the
+33   system (as Mr Baker submitted in reply) that the Chief Constable will apply to the
+      authority for authorisation to incur expenditure; it may be for the use of resources such
+      as helicopters, or the installation of video surveillance systems in city streets, or a host
+36   of other things. No doubt the Chief Constable presents a general budget. We were not
+      referred to any provision in statute which shows or suggests that the police authority’s
+      power to accede to such requests rests in anything other than the combination of s.6 (l)
+39   and s. 111(1). Given this, it seems to me plain that, in the particular context before us
+      in this case, the legitimate scope of the ancillary power provided by s. 111 ( 1) cannot be
+      restricted so as to support only those powers and duties which are expressly conferred
+42   on the police authority. Those powers and duties are themselves ancillary; though they
+      are very important, they take second place to the Chief Constable’s tactical role, and
+      second place also to the Secretary of State’s strategic role. S. 111(1) must in context
+45   (whatever it does in other cases) allow the police authority to support what its express
+      powers and duties also support; and this is no less than its general function conferred
+                                                          -25-
+      Draft 3 0 M arch 1 9 9 9 1 2:55
+J   >   '    J
+
+                 Judgment: Approved bv the Court for handing down                           Ex Parte Murray & Duckenfield
+                 (subject to editorial corrections)                           R v Chief Constable of South Yorkshire Police
+                                                                                  Ex Parte South Yorkshire Police Authority
+
+
+
+                 by s.6 (l). If that is right, the authority may in principle decide to fund officers’ legal
+                 representation in proceedings no less than they may fund any other activity which the
+             3   Chief Constable might propose as being conducive to “the maintenance of an
+                 efficient and effective police force for its area” .
+
+             6                   This result is supported, if only ex silentio, by the decision of this court
+                  in R v Derbyshire Police Authority ex p. Wilson (8 August 1989, unreported save in
+                  The Times). The court had to consider a decision of the police authority not to
+             9   contribute to the legal expenses of two police officers in relation to an auditor’s
+                  enquiry. The court assumed that s.4 of the Police Act 1964 (the predecessor of s.6 (l))
+                  provided the power to grant financial assistance. However the point of principle was
+            12   not argued. The applicants also point to other materials. In 1962 the report of the
+                  Royal Commission on the Police was published. It indicated the then current practice
+                  in relation to the provision of financial support to police officers in civil proceedings,
+                  which included a requirement that “a constable must have acted in good faith in the
+                  intended execution of his duty” (para 196(a)). Para 197 stated:
+
+            18               “In England and Wales a distinction is made between a private prosecution,
+                             in which the decision as to the support of the constable will be taken on the
+                             same basis as in the case of a civil action, and a public prosecution brought
+            21               by the police or the Director of Public Prosecutions.”
+
+                 Home Office Circular 77/1987, published on 4 December 1987, stated:
+            24
+                             “... acting in pursuance of its general statutory duty to maintain an
+                             adequate and efficient police force for its area, the police authority has
+            27               discretion to meet expenditure incurred by officers in all kinds of legal
+                             proceedings where the officers have acted in good faith in pursuance of
+                             their duties, or the interests of the force as a whole are involved...
+                             [Then under the heading “Private Prosecutions”]
+                             A police officer should be able to carry out his duties in the confidence that,
+                             if he acts in good faith and exercises his judgment reasonably, his police
+            33               authority will support him. If, in a case where a member of the public
+                             brings a prosecution against an officer, the authority is satisfied that the
+                             officer has acted in this way, the authority should provide or fund legal
+            36               advice and/or representation.”
+
+                    On 17 February 1998 Home Office Circular 4/1998 was published. Unlike its
+            39   predecessor it sits on the fence as regards the power of a police authority to fund
+                  defences to private prosecutions. It has no persuasive effect one way or the other upon
+                  the issues in these proceedings. The earlier Circular, though obviously not a source of
+            42   law, may possibly possess some force as regards the purposes to be fulfilled by
+                  s.6 (l) ’s predecessor in s.4(l) of the Police Act 1964: see per Scarman LJ as he then
+                  was in Bristol DC v Clark [1975] 3 AER 976, referred to in Wilson. But there are
+            45   great dangers in treating government pronouncements, however helpful, as an aid to
+                  statutory construction. I would prefer to base my conclusion, that s. 111(1) in principle
+                                                                    -   26-
+                 Draft 3 0 M arch 1 9 9 9 12: 55
+♦   :   ‘   j
+
+
+                    Judgment: Approved bv the Court for handing down                             Ex Parte Murray & Duckenfield
+                                                                                   R v Chief Constable of South Yorkshire Police
+                    (subject to editorial corrections)
+                                                                                       Ex Parte South Yorkshire Police Authority
+
+
+
+                    empowers the SYPA to support D and M’s defence (and their participation in the
+                    judicial review against the DPP), upon those considerations touching the correct
+            3       construction of the material statutory provisions which I have already set out.
+
+                                    If my Lords agree with this conclusion, it is enough to dispose of the
+                6   case in the applicants’ favour. However we heard much argument on the question
+                    whether s.6 (l) conferred on the police authority any power, in any circumstances, to
+                    take action not otherwise expressly authorised. This engages Miss Baxendale’s
+                9   proposition (a) as I have described it, and her reliance on the expressio unius est
+                     exclusio alterius doctrine. It only has relevance if I am wrong to hold, as I have done,
+                     that s. 111(1) in principle enables the SYPA to fund D and M even if s.6 (l) does not
+            12      itself empower the authority to do anything. In this context I will deal only (and that
+                     shortly) with s.88(4) of the Act of 1996, which as I have said is the high water-mark of
+                     this part of Miss Baxendale’s argument.
+            15
+                                   S .88 contains a comprehensive scheme as to liability on the part of the
+                     police for torts. By ss.(l) the chief officer of police for a police area is liable in
+            18       respect of torts committed by constables under his direction and control in the
+                     performance or purported performance of their functions. Without this provision there
+                     would be no such liability because police officers are not servants but office-holders.
+            21       Ss.(2) provides in part:
+
+                                 “There shall be paid out of the police fund -
+            24
+                                               (a) any damages or costs awarded against the chief officer of police
+                                               in any proceedings brought against him by virtue of this section and
+            27                                 any costs incurred by him in any such proceedings so far as not
+                                               recovered by him in the proceedings...”
+
+            30       Ss. (4) provides: -
+                             “A police authority may, in such cases and to such extent as appear to it to
+                             be appropriate, pay out of the police fund -
+            33
+                                               (a) any damages or costs awarded against a person to whom this
+                                               subsection applies in proceedings for a tort committed by that
+            36                                 person,
+
+                                               (b) any costs incurred and not recovered by such a person in such
+            39                                 proceedings, and
+
+                                               (c) any sum required in connection with the settlement of a claim
+            42                                 that has or might have given rise to such proceedings.”
+
+                      In my judgment this provision offers no support for Miss Baxendale’s reliance on the
+            45        exclusio alterius rule. S.88 is self-standing. It has no implications for the general reach
+                      of the police authority’s functions. And once s.88(4) was to allow the police authority
+                                                                         -27 -
+                      Draft 3 0 Mar ch 1 9 9 9 1 2 :55
+          h.Hnmpnt: Approved bv the Court for handing down                        Ex Parte Murray & Duckenfield
+         (subject to editorial florrections)                        R v Chief Constable of South Yorkshire Police
+                                                                        Ex Parte South Yorkshire Police Authority
+
+
+
+         to cover damages awarded against an officer in a tort action, it is no surprise that it
+         covers costs as well. If it did not, there might well be an argument - based on the
+    3     exclusio alterius rule - that costs were deliberately excluded.
+
+
+    6                   In all these circumstances I do not think it necessary to go into the
+         legislative history of s.6 (l), or to canvass the arguments which were addressed to us as
+         to the construction or effect of its predecessor, s.4(l) of the Police Act 1964. In the
+    9    end there are two possibilities: s.6 (l) empowers the police authority to do things, or it
+          does not. I have so far proceeded on the assumption asserted by Miss Baxendale that it
+          does not; but given that assumption, nevertheless for reasons I have sought to explain
+    12    the SYPA possesses in principle the legal power to fund D and M.
+
+i                      In fact I think the better view is that s.6 (l) enables the police authority to
+     5   do things which reasonably support the function which s.6 (l) confers. Such a power is
+#         by no means open-ended. It would not allow the authority to invade the provinces of
+          the Chief Constable or the Secretary of State; and this is an important and
+    18    considerable constraint.
+
+                          In the course of argument some time was spent, in fairness at the
+    21   encouragement of the court, in seeing whether the specific provisions in the Act of
+          1996 or the local government legislation, conferring specific powers on the police
+          authority, left gaps which only s.6 (l) could fill. Points were made about lower ranks’
+    24   rights of representation in legal proceedings, which are covered as appropriate by the
+         Police Federation; and about the representation of higher ranks in various forms of
+         legal proceedings. But the answer to the question we must decide, whether the power
+    27   to fund D and M in principle lies in the hands of the SYPA, cannot in my judgment
+         depend on a trawl through all the things a police authority is expressly empowered to
+         do. The provisions which expressly confer and impose powers and duties on police
+^S O     authorities do not constitute an independent code. The police authority’s functions are,
+™        to use a questionable modernism, symbiotic with those of the Chief Constable and the
+          Secretary of State. So judged, and for the reasons I have given, they allow the use of
+    33   s. 111 ( 1) to fund officers in the defence of private prosecutions and in judicial review
+         proceedings.
+
+    36                  I would allow this application. It will be appropriate to hear counsel as
+         to relief, and costs.
+
+    39   MR JUSTICE CRESSWELL
+
+         I agree.
+    42
+          MR JUSTICE LATHAM
+
+    45   I also agree.
+
+                                                             -28-
+          Draft 3 0 March 1 9 9 9 12:55
+

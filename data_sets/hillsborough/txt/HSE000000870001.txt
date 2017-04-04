@@ -1,0 +1,1984 @@
+                                             ccs   Dr Nicholson Cpy>\
+                                                   Mr
+
+Dr McQuaid
+
+HILLSBOROUGH:   CAPACITIES
+
+You asked for further clarification on the calculation of crowd
+capacities for the Hillsborough Inquiry.
+
+The RLSD Report.
+
+Paragraph 222 of the Green Guide was quoted in the RLSD report
+and this was used to estimate the maximum allowable capacity for
+Pens 3 and 4, assuming that all the criteria laid down in the
+Guide for the barriers had been met.  (Although we knew in fact
+that these criteria had not been complied w i t h ) . We did not, at
+this stage, attempt to interpret the Guide for this situation.
+
+The reason for this was as follows:  the capacities stated by
+Eastwood and Partners on the drawings were in excess of even the
+maximum value determined from the Guide and hence they could be
+said to be erroneous without recourse to detailed interpretation
+of the Guide.  This was the approach recommended by members of
+the Inquiry during our discussions and agreed by us.
+
+Following the RLSD Report.
+
+Following issue of the RLSD report, the recommendations of the
+Guide were interpreted by us for the situation where the
+barriers do not comply with the stated criteria.     This led to
+the production of the block diagram by M r ____________ the
+intention being to include this in a subsequent report.
+
+However, in the course of the Inquiry, one of the QCs produced
+capacities for Pens 3 and 4 which he claimed had been arrived at
+by interpretation of the Green Guide.    These figures were
+inaccurate, due to some arithmetical errors and the confusion of
+percentage (%) and degrees, and Mr ________ |sought to refute them
+by reference to RLSD's "interpreted figures".    Dr Nicholson was
+sitting next to Mr ________ Iat the time and thus the block
+diagram (attached) was produced at the Inquiry and circulated
+although without the detail of how it had been constructed. (An
+explanation is attached here.)
+
+This is the explanation of the existence of two sets of RLSD
+capacities for Pens 3 and 4. There is no conflict between the
+two since one set is based on a simplistic application of the
+Guide as described above and the other is based on an
+engineering interpretation of the criteria stated in the Guide.
+
+The main point is that the capacities to which Sheffield
+Wednesday FC worked were optimistic by any standard.
+
+
+
+ALAN JONES
+19 September 1989
+
+Encs.
+Dr A Jones
+D/SEL
+             copy Dr C Nicholson
+
+HILLSBOROUGH - CAPACITY OF PENS 3 AND 4
+
+
+You asked for my comments on the extent to which the Green Guide was
+used in determining the capacities of Pens 3 and 4 as stated in the
+RLSD report.
+
+Paragraph 222 of the Green Guide was quoted in the RLSD report and this
+was used to estimate the maximum allowable capacity for Pens 3 and 4,
+assuming that all the criteria laid down in the Guide for the barriers
+had been met. Although we knew in fact that these criteria had not been
+complied with, we did not, at this stage, attempt to interpret the Guide
+for this situation.
+
+The reason for this was as follows: the capacities stated by Eastwood
+and Partners on the drawings were in excess of even the maximum value
+determined from the Guide and hence they could be said to be erroneous
+without recourse to detailed interpretation of the Guide. This was the
+approach recommended by members of the Inquiry during our discussions.
+
+Following issue of the RLSD report the recommendations of the Guide were
+interpreted for the situation where the barriers do not comply with the
+stated criteria. This led to the production of the block diagram by Mr
+            the intention being to include this in a subsequent report.
+
+However, in the course of the Inquiry, one of the QCs produced capacities
+for Pens 3 and 4 which he claimed had been arrived at by interpretation
+of the Green Guide. These figures were inaccurate, due to some
+arithmetical errors and the confusion of percentage (%) and degrees, and
+Mr         sought to refute them by reference to RLSD's "interpreted
+figures". Dr Nicholson was sitting next Mr         at the time and thus
+the block diagram was produced at the Inquiry and circulated without any
+explanation of how it had been constructed.
+
+I hope this explains the existence of two sets of RLSD capacities for
+Pens 3 and 4. There is no conflict between the two since one set is
+based on a simplistic application of the Guide (as directed by the Inquiry)
+and the other is based on an engineering interpretation of the criteria
+stated in the Guide. The point is that the capacities to which Sheffield
+Wednesday FC worked were optimistic by any standard.
+
+
+
+
+18 September 1989
+INCIDENT AT SHEFFIELD WEDNESDAY FOOTBALL CLUB’S HILLSBOROUGH STADIUK:
+RLSD’S ESTIMATION OF THE MAXIMUM SAFE CAPACITY OF PENS 3 AND 4 OF THE
+WEST TERRACE
+Eastwood and Partners Drawing No 1610/64E, dated Jan 1980, shows the capacity
+of the Central Pens to be 2,200.
+
+RLSD report IR/L/ME/MM/89/1 states that, "if 54 people per 10 sq tn is assumed
+as the allowable packing density for the West Terrace then the the capacity of
+Pen 3 is 1015 and Pen 4 is 1036 making a total of 2051 for the combined area".
+I knew that this capacity was based on the available plan areas of Pens 3 and
+4, without any reduction for departures from the recommendations of the 1986
+edition of the Home Office/Scottish Office publication "Guide To Safety At
+Sports Grounds".
+
+I used information given in this Guide as the basis for my calculation of the
+maximum crowd capacities of Pens 3 and 4. I also used the dimensions shown on
+Drawing No 1340/02 Rev A, which is a plan of Pens 3 and 4 of the West Terrace,
+together with Drawing No 1340/03A Rev A which is a longitudinal section
+through the West Terrace. Both drawings were dated 3/5/89, and were prepared
+for HSE by Ralph Brade & Associates, Consulting Engineers, Midland Bank
+Chambers, 3 Sharrow Lane, Sheffield Sll 8AE.
+
+Drawing No 1340/02 Rev A showed the locations of the crush barriers in Pens 3
+and 4, and the lengths and heights of these barriers. The heights of the
+barriers were generally less than the suggested values of 1.02 m to 1.12 m.
+However, I did not discount any of the crush barriers when calculating the
+crowd capacity. The departures in height were within 20% of the suggested
+values and the Guide states that it is intended to be "an aid to, and not a
+substitute for, professional judgement and common sense".
+
+The loading tests made periodically on the crush barriers were designed to
+simulate a force of 6 kN/m (400 lbf/ft). The barriers therefore appeared to be
+intended to conform to the "greater strength requirement" of the Guide. The
+spacings shown in Columns A of Table 1 of the Guide were therefore
+appropriate. I classified Pens 3 and 4 as being ’peak’ viewing areas, because
+they conformed with the description of such areas in the Guide.
+
+Drawing No 1340/03A Rev A showed the slope of the West Terrace to be
+13 degrees 40 minutes. I interpolated between the values shown in Table 1 of
+the Guide for gradients of 15 degrees and 10 degrees in Column A for ’Peak
+Viewing’ to obtain the maximum spacing between rows of crush barriers on a
+terrace with a slope of 14 degrees. My interpolation suggested that the
+spacing between rows of crush barriers on the West Terrace should not be more
+than 3.9 m. The spacing between rows of barriers in Pens 3 and 4 was generally
+3.5 m, i.e. the spacing was generally within the suggested maximum value.
+
+The Guide suggests that the crowd packing density should not exceed 54 persons
+per 10 sq m of terrace area, i.e. 5.4 persons/sa in. I calculated the plan area
+behind behind each barrier, and behind the perimeter wall and perimeter gates,
+using the depth available if it was less than 3.9 m, or a depth of 3.9 m.
+I multiplied each area obtained in this way by 5.4 and truncated the product
+to obtain the number of persons who should stand in each area.
+
+The attached Figure depicts the result of my calculations. I obtained the
+total crowd capacity of each Pen by summing the capacities of the individual
+areas within that Pen. The crowd capacities estimated by this method were 822
+for Pen 3 and 871 for Pen 4; i.e. the total capacity of the Central Pens was
+1,693.
+
+
+15/09/89
+          r.!   SAFETY EXECUTIVE
+u ~ ‘   ii'-i
+BROAD LANE
+SHEFFIELD S3 7HQ
+
+
+                                PEN 3                                                            PEN 4
+                                □ T A L ticrB                                                    □T A L 571
+
+
+
+                         oir,
+                      =ERSON
+
+
+
+
+                                                       m
+                                                54 PERSONS                                                          58 PERSONS
+
+
+                                                                                   m
+                                                                   55 PERSONS
+
+                                                                                 / N o 1E"7 >
+                                                             / ■I-85             / 2 .3 1 Om y
+                                                                         C2.Qm]\ /    35    >
+                                                                          \ \ \ /PERSONS/
+
+
+
+
+                                                                  C5m
+
+                                                                 ENCE                                   i . 3G sm
+                                                                                                     255 PERSONS
+
+                                 [0.5m]                                 CO.SSSm]                                                  CO .Sm}
+                            GATE 3                                      GATE 4                                                   GATE 5
+
+
+
+
+         SWFC WEST TERRACE - IDEAL DISTRIBUTION OF PERSONS
+
+
+
+
+                                                                                                                                            5W-C
+               Health       &      l ^ d s a 7hq
+               Safety              T e l e p h o n e 0 7 4 2 / .. .   :
+
+o              F x P m   t i v P   Fa c s i m i l e 0 7 4 2 7 5 5 7 9 2
+                                    T e le x 5 4 5 5 6 HSE RLSG
+
+
+
+
+    £>   C2T                        Y o u r re fe re n c e
+
+
+                                    O u r re fe r e n c e
+                0<_>
+
+                                    Date      /Z.~7. S y
+                                        HEALTH AND SAFETY EXECUTIVE
+                                        BROAD LANE
+                                        SHEFFIELD
+                                        S3 7HQ
+
+                                        TEL:   0742 768141
+
+                                        FAX:   0742 755792
+
+
+TO:    £>   ex
+            ^/£S7"   *7/Z>   /^Qa-tOg
+SECTION:
+
+
+FROM: ...
+
+SECTION:                                   PHONE EXT:.   x J o 7 ^
+
+
+NUMBER OF PAGES TO FOLLOW:
+                                                Research and Laboratory
+                               Health &         Services Division
+                                                Broad Lane
+                               Safety           Sheffield S3 7HQ
+
+                               Executive        Telephone 0742 768141
+                                                ext
+                                                Telex 54556 (HSE RLS G)
+                                                Facsimile 0742 755792
+
+
+
+J M Jones
+ACC, West Midlands Police HQ
+PO Box 52                                        Y o u r reference
+
+Lloyd House
+CoLmore Circus                                   Our reference       SM^/343/235/01
+Queensway                                        Date
+BIRMINGHAM                                                           13 July 1989
+B4 6NQ
+
+
+Dear Mr Jones
+
+HIIISBOKXJGH INQDIRy - SUBMISSIONS ON BEHALF OF ER EASTWDOD
+
+My comments an the above document are as follows:
+
+Paragraphs lfiK 8 and 9: This submission contains no mention of corrosion, or
+its assessment, which should have formed part of the inspection procedure.
+Dr Eastwood agreed in his evidence (day 26 pl09) that barriers which contained
+corroded holes would have been condemned. The collapsed barrier contained
+corroded holes (HSE Report para 3.4) which would have been visible at the 1988
+inspection.
+
+Paragraph 10: Since deflections were not measured on each span (day 26 pll3
+Collins/Eastwood) how can it be said that both spans passed?
+
+Paragraph 11: Dr Eastwood stated (day 26 pll3) that "there has been an error
+in testing" and hence this paragraph is confusing.
+
+Paragraph 1?; It was accepted eventually by Dr Eastwood that deflections could
+get larger with successive load applications (day 26 pll7) and hence it is by
+no means certain that the span requiring a re-test would have passed.
+
+Paragraph 13: It has not been proved that barriers 128 and 137 were deformed
+on or before 15/4/89. The test results supplied to HSE by Dr Eastwood
+(covering letter Eastwood/James dated 1/6/89) state that for barrier 128 the
+"first load application, up to 1.4 tonnes resulted in a 75% recovery after
+release of load" which suggests that, for this barrier, plastic deformation
+occurred at less than 1.2 times the design load for a new barrier (5WJ/m).
+Eastwood's data require explanation.
+
+Recent HSE results (not available when the report was issued) indicate that the
+crowd density was similar in pens 3 and 4 and hence "crush pressure" would also
+have been similar in the two pens.
+
+Paraar^rSh 14: The Green Guide does not quantify "crowd pressure" and hence
+this statement could be challenged.
+
+Paragraph 16: A definition of "significantly'* is required here. Certainly
+barriers which were as much as 18% below the minimum reccanmended hei^it wesre
+not replaced (eg barrier 136 pen 3).
+
+                                         1
+           Paragraph 18: Most barriers at the Lappings Lane End had been positioned so as
+           to prevent spectators standing on the same step as the barrier. The examples
+           chosen by Dr Eastwood were not typical (day 27 p61).
+
+           Paragraph 20: Some spectators have stated that they were pressed over the _
+           barriers, thus compressing those on the lower side. The height of the barriers
+           is therefore very relevant.
+
+           Paragraph 22: The alignment of gaps in successive rows of barriers is
+           specified in the Green Guide. This does not appear to have been considered by
+           Dr Eastwood. Some of the gaps in the lines of barriers were well in excess of
+           the Guide recommendations. For example, the gap between barriers 136 and l36A,
+           immediately above the collapsed spans of 124A, was 57% larger than the Guide
+           maximum.
+           Paragraph 33: I do not agree with this statement. In the absence of radial
+           fences, spectators would have spread more uniformly along the Ieppmgs Lane
+           Terrace, thus reducing crowd density in the central area.
+
+           Paragraph 42: In Pen 3, a configuration of barriers complying with the Green
+           Guide would have led to a reduction in pressure on specific barriers
+           (particularly 124A) and hence barrier collapse may have been averted. Crushing
+           injuries may still have occurred but the death toll would, in my opinion, have
+           been reduced substantially. The situation in Pen 4, where the barrier
+           configuration was better, and the crowd density was similar, supports this
+           view.
+           Param-aphs 45. 47, 48 and 50: The capacity of Pens 3 and 4 is not given,
+           although that of Spion Kdp is! It is not credible that "a loss in capacity"
+            (para 47) or "the effect on capacity" (para 48) could be quantified or
+           rj-jp-ncg/ari unless the original capacities had been calculated already. Likewise
+           the only sensible way of allocating spectators to a particular pen would be on
+           the basis of a known and agreed capacity. The term "visibly full" (para 50) is
+           meaningless in this context.
+
+
+           Do not hesitate to contact me if you require clarification of any of the above
+           points. I expect to attend the Inquiry tomorrow (14th) from 9.30am onwards.
+
+           Yours sincerely
+
+
+
+
+    /■=>   C E NICHOLSON
+I          Deputy Director - Safety Engineering Laboratory 1
+
+
+
+
+                                                    2
+                                                  c c .
+
+
+                                                            to/
+
+
+
+
+                       htt.
+                          t.s b q r o p GH   SflOTIRX
+
+
+                STTBMISSTONS ON BEHALF OF DR EASTWQQR
+
+
+                                                                  PARAGRAPHS
+TNDEX
+                                                     2                 1
+Introduction
+
+Role of Eastwood & Partners                          2      --       2 - 7
+
+                                                     4. .            8-14
+Inspection & Testing of Crush Barriers
+                                                      5             15-20
+Height of Crush Barriers
+
+Arrangement of Crush Barriers on                                    21-26
+the West Terrace
+                                                      9             27 - 33
+Radial Fences
+                                                    12              34-42
+Removal of Barrier 144 in 1986
+                                                    14              43 - 44
+Perimeter Gates
+                                                    15              45 - 50
+Capacity
+TMTRODOCTION
+
+1.        The criticisms put to Dr Eastwood come under five heads:-
+
+
+
+                     <3 n s p e S o r D a n d testing of crush barriers
+          (i)
+          (ii)            Height of crush barriers;
+                          Arrangement   of   crush barriers              (with particular
+          (iii)
+                          reference to the removal of 144);
+
+          (iv)        Perimeter gates.
+
+          (v)         Capacity.
+
+
+
+Rnie of Eastwood ft Partners
+2.        Following the firm's          appointment by the Club in December
+
+          1978,    Dr Eastwood prepared plans for improving the safety
+
+          of the ground and a report on ground capacity (core bundle
+
+          page     48).      These were      submitted to         the     Officer   Working
+
+          Party.
+
+
+           The    proposals     in   relation         to    the   West    and- Borth   West
+ 3.
+           Terraces were approved by the Officer Working Party at a
+
+           meeting with representatives                   ot the Club on 2 April       1979
+
+           (core bundle pages 69, 71) and were duly implemented.
+
+
+
+
+     4.    Subsequently Eastwood 8c Partners
+
+
+
+            (i)            Carried out an annual inspection and tests                    and
+
+
+                                              -   2   -
+              reported           on    the     results         to    the         Licensing
+
+              Authority and to the Club.
+
+
+
+;ii)          Attended at the bi-ennial or annual inspections
+
+              of the ground by members of the Officer Working
+
+              Party;
+
+
+(iii)         Acted        and    advised      on    behalf         of    the        Club   in
+
+               relation to any other matters in which they were
+
+               instructed.
+
+
+
+in     preparing        the    1979    Scheme       and   in    giving          subsequent
+
+advice to the Club, Eastwood & Partners owed a duty to the
+
+public as well as to the Club, but they were Sfit engineers
+
+to the Licensing Authority,                   nor were they responsible for
+
+the     way   in       which     the   Licensing      Authority           exercised         its
+
+statutory powers.
+
+
+ The Licensing Authority acted through the Officer working
+
+ Party,       which       included      an     engineer         from          the.    Building
+
+ Surveyors'            department,      to    whom    the      Licencing             Authority
+
+ looked        for        advice        on     e ngineering              matters.           (For
+
+ confirmation see the evidence of Mr Bownes:                                  day 29, pages
+
+ 63C,     70 - 71,       91 - 92,      121 - 122)
+
+
+
+
+  Eastwood         S     Partners      were    not    members            of     the    Officer
+
+  working Party and did not attend its meetings                                  (other than
+
+  the bi-ennial            or annual         inspection of the ground by the
+
+
+                                         - 3 -
+                          members of the Officer Working Party).
+
+
+
+                 TnBnM t i o n and Testing of Capiffh Bfrrriarg.
+
+
+
+                 8.       Prior to the          1988/89 season all the                      crush barriers          were
+
+                          inspected^(core bundle page 457).
+            // [
+
+            <■   9.       The two spans of the barrier which collapsed on 15 April
+
+                           1989    (124A)       were       tested     and    their          performance       recorded
+
+                           (core bundle page 466).
+                                      7
+
+
+                           The    provisions          of    the     1986    Green      Guide,    Annex C,           as to
+                   10.
+                           testing are ambiguous.                    On Dr Eastwood's            interpretation,
+
+                           both spans passed.                On the alternative interpretation,                           one
+
+                           span passed and the other required a retest,                                although its
+
+                           recovery on the third application load was 1 0 0 %.
+
+
+
+                           Whether        or    not    it        accorded    with      the     intentions       of        the
+                   11.
+                           draftsman,           Dr     Eastwood's           interpretation             of     the     test
+
+                          - requirements         of        the    Green     Guide      was     reasonable           and    in
+
+                           accordance          with        the    practice        of    a    responsible        body       of
+            ?
+                          : engineers           (cf.        Bolam      v     Friern          Hospital        Management
+
+                            Committee 1957 1WLR 582).
+
+
+                            If the alternative interpretation had been applied,                                       there
+                    12.
+
+                      -
+                            is    an overwhelming probability that the span requiring a
+
+~ 7                         retest    would           have       passed     for    the       reasons        given    by     Dr
+
+  rtjCa-7                   Eastwood in his evidence.                       His evidence is reinforced by
+      6
+                            the    fact        that    in    all     46 cases          in which    the        figure       -0-
+                          ’f. appears in the test results in the u/load column for test
+
+                               1 or test          2 , it also appears          in the u/load column for each
+            v|'''         ■.
+
+                               subsequent test (core bundle pages 464-471).
+
+
+
+                    13.        Dr    Eastwood's           tests    of    the   two      barriers        (128    and    137)
+
+                               which^ suffered permanent                 deformation           on   15 April     showed
+
+                               that the weaker did                  not start to deform plastically until
+
+^                         ^ subjected to a                 load of approx^ 7. 5101 /metre, i.e.                  1.5 times
+
+                               the        design     load A and         1.25   times       the      test    load.          (
+
+                               Eastwood's statement,                 paras.    109 to 112).             Those barriers
+
+                               were in pen 4.               It is probable that the crush pressure in
+
+                          ^ pen 3 was even greater.
+
+
+
+                    14.         Dr Eastwood concluded that the barrier which collapsed                                         on
+
+                                15        April     did     so      because        it     was       subjected         to        a
+
+                           v significantly ^greater crowd pressure than is envisaged in
+                                      "     " "        ’
+
+
+                                the        1986     Green         Guide.           (Dr    Eastwood's           statement,
+
+                                para. 113).         This conclusion has not been challenged.
+
+
+
+                    Height of Crush Barriers
+
+
+
+                     15.        The crush barriers designed                    by Dr Eastwood complied with
+
+                                the Green Guide's recommendations as to height.                                     The pre-
+
+                                1979       crush barriers           on the West           and North West Terraces
+
+                                were lower.
+
+
+
+                     16.        Where       a     crush    barrier      was    significantly            lower       than   the
+
+C’6 y ~ ~                       minimum           height    recommended         in       the    Green      Guide,     it   was
+
+                                    removed or modified (core bundle pages 98 and 121,                                122).
+
+
+                                                                           - 5 -
+17.   The    Green      Guide       recognised       that       although    new     work        or
+
+      reconstruction           at    football        grounds      should    not     be     to    a
+
+      standard       lower     than       that    set    out in the        guidelines,          in
+
+      assessing whether existing situations provided adequately
+
+      for the safety of spectators the criterion was that of a
+
+      reasonable        degree       of    safety.        (1976    edition        para,    1.5;
+
+      1986 edition para. 8 ).
+
+
+
+18.   No    uniform     height       of    crush     barrier      will     suit    everyone.
+
+      Adopting the criterion of a reasonable degree of safety,
+
+      the    height      of    the    pre-1979          crush    barriers    on     the    West
+
+      Terrace was no less safe than that of the post-1979 crush
+
+      barriers.         The former may indeed be preferable,                      especially
+
+      if    the   height      is     to. be measured            from the nosing of the
+
+      step behind the barrier                    (as in the Green Guide),             for the
+
+      reasons given by Dr Eastwood (day 27, pages 61 - 63).
+
+
+
+19.   The    Officer       Working        Party considered          the    height     of    the
+
+      pre-1979       crush barriers on the West                   Terrace     (core bundle
+
+      65,     66)    and      subsequently approved                Dr    Eastwood's        plans
+
+      without        requiring         the       height     of     the     existing        crush
+
+      barriers to be raised.
+
+
+
+20.   It    has   not    been suggested that               the     height    of the        crush
+
+      barriers has any relevance to the events of 15 April 1989.
+
+
+
+
+                                             - 6 -
+            Arrangement nf Crush Barrier OP tti"                                 TeffTftfifl
+            21.        Dr    Eastwood's        original arrangement             is     shown     on    drawing
+
+                       11427/7.
+
+
+
+            22.        The    horizontal        spacing was          closer     than     the    Green    Guide
+
+                       required.            The gradient of the terrace was modest and the
+
+                       distance         from        front     to    back    relatively         short.          All
+
+                       barriers        were    brought up to category A standard.                         These
+
+                       were        "plus"     factors.         On the      ••minus"    side     the    existing
+
+                       terrace had no gangways,                    and Dr Eastwood considered that
+
+                       the     introduction           of     gangways      on   that    terrace        would    be
+
+                       unsafe        and/or     impractical          for   reasons      which    he     gave    in
+
+                        evidence.           His arrangement closed the gaps between certain
+
+    c:..                crush        barriers,       but     left    certain     other       gaps, to     allow
+
+^          ^ '          movement.           In his     interim report           (core bundle pages              36,
+
+                        40-41)       Dr Eastwood drew attention to the possibility that
+
+                        some of the barriers close to the exits might restrict the
+
+                        passage of spectators unreasonably (as subsequently proved
+
+                        to be the case).              He also drew attention to the absence of
+
+                        gangways        and recommended that capacity should be reduced
+
+                        on that account by                  10%.     This was     a reasonable approach
+
+            7           and        accorded     with        the :criterion      of     the     code,    viz.     to
+
+                        provide a reasonable degree of safety.
+
+
+
+                 23.    Dr     Eastwood's           plans    and    report on ground capacity                  (core
+
+                            bundle    page     48)    were     considered       by     the   Officer     Working
+
+                            Party      at     two     meetings       at     which      the     Club     and      its
+
+                            representatives were not present (12 February and 30 March
+
+                            1979    - core bundle pages              5 7 and 65)       and at two meetings
+
+
+                                                                   - 7 -
+between the          Officer Working Party and representatives                        of
+
+the Club including Dr Eastwood (2 and 18 April 1979 - core
+
+bundle     pages         69    and    74).      The    Officer      Working     Party
+
+concluded that it would be unreasonable to insist on the
+
+provision       of       gangways     or     additional     exits     (core    bundle
+
+pages    5 7 and 60) and the plans for the West Terrace were
+
+approved.
+
+
+
+The subsequent            alterations        to the barrier arrangement on
+
+the     West    Terrace        are    shown     on    drawing    11424/8.        They
+
+comprised:
+
+
+
+(a)     the introduction of radial barriers,                     two in 1981 and
+
+        two in 1985,           coupled with the removal in 1985 of two
+
+        sections          of   rail     from    what    would       otherwise        have
+
+        become one continuous barrier across the whole width
+
+        of pen 3;
+
+
+
+ (b)    the removal of barrier 144 in 1986.
+
+
+
+These alterations arose from requests by the Police,                             based
+
+ on problems which they were encountering,                       and received the
+
+ approval of the Officer Working Party and authorisation of
+
+ the    Licensing         Authority.           Eastwood     & Partners        were    not
+
+ authors       of the proposals              but did not oppose them           (in the
+
+ way     that       Dr    Eastwood     opposed,       for   example,     the    Police
+
+ request       to    have      a clear strip from front to back of the
+
+ terrace on either side of each radial barrier:                         core bundle
+
+ page 169).
+2 6    Although the Police were not engineers,                                      their views          were
+
+       entitled          to     considerable             respect       in     matters        concerning
+
+       their experience of crowd control and maintenance of order
+
+       at the ground.
+
+
+
+Radial Fences
+2 7.   Prior        to    the       introduction          of radial           fences,       the terrace
+
+       was     "open          plan"        and     the        policy        with     regard        to     the
+
+       distribution of spectators was one of laissez faire.                                              This
+
+       failed       to work          at     the Tottenham Hotspur v Wolverhampton
+
+       Wanderers semi-final in 1981 when crushing occurred at the
+
+       corners.               The        Police    diagnosis           of     the     cause       was     the
+
+       refusal of fans to move (core bundle page 138,                                       139).        They
+
+       proposed as a remedy the introduction of radial fences in
+
+       order     to       divide          the     terrace       into        three     sections,          each
+
+       served       by its          own     entrance,          and so        allow     a more       active
+
+       system of control of spectators.                               Eastwood & Partners were
+
+       instructed             to    prepare        the    necessary           plans        (core    bundle
+
+       page     145)       and       the proposal             was     approved        by    the    Officer
+
+       Working Party                (core bundle page                 153).         The proposal          was
+
+       logical        and reasonable,                  provided that the control                     (which
+
+       it     was        the       purpose        of     the     scheme        to     introduce)          was
+
+       exercised.               Radial          fences    were      also      recommended           by    the
+
+       Green        Guide           (1976       edition,        para.         18.1;        1986     edition
+
+       para. 206).                  Conversely           if     the     Club        had     refused        to
+
+       introduce radial fences and a repetition of the 1981 semi­
+
+       final had occurred,                      they would then have been criticised
+
+       for     failing              to     introduce          radial        fences     'despite          past
+
+
+                                                    - 9 -
+      experience,       the    requests         by    the    Police,         the     approval       of
+
+      the Officer Working Party and the recommendations                                      of the
+
+      Green Guide.
+
+
+      The same paragraph of the Green Guide stated that ideally
+29.
+      each section should be self-contained and serviced by its
+
+      own    entranee/exit,           refreshment            facilities             and     toilets.
+
+      This ideal would have been achieved by the 1985 scheme(s)
+
+      prepared     by     Eastwood          &     Partners,            but     which        did     not
+
+      proceed.
+
+
+      At the same time as the 1985 scheme was under discussion,
+30.
+      the    Police     with     the       support      of       the    Licensing         Authority
+
+      wished     to     extend       the     system         of     radial          fences    by     the
+
+      construction of two new fences, which would (a) divide the
+
+       central    pen     into       two    (pens      3     and       4)    and    (b)     create       a
+
+       buffer zone between pens 4 and 5.                          The Club was now in the
+
+       first    division       and     the       Police      were        experiencing            fairly
+
+       large     crowds       (Inspector         Calvert,         day       30 page       20).      The
+
+       suggestion of a further radial                        fence dividing pen 5 into
+
+       two     (core   bundle page           235 para.            (c))      was     opposed by Dr
+
+       Eastwood because          he saw no sufficient                        reason for it           and
+
+       the idea was dropped.                    There were,            however,       sensible and
+
+       logical     reasons       for       the       introduction            of     the     other    two
+
+       radial     fences.        The reasons for the buffer zone were set
+
+       out in Dr Eastwood's letter to the Club dated 17 June 1985
+
+        (core    bundle       page     252).         The     radial         fence     dividing       the
+
+        central pen into two was intended to enable the diversion
+
+        of   spectators        into    either half               and so permit .controlled
+
+
+                                                - 10 -
+      filling       (core bundle page                 235 para,      (b)   and evidence       of
+
+      Inspector Calvert,               day 30 page 60).
+
+
+
+31.   The    advantages          and    disadvantages         of    the    radiai    barriers
+
+      involved a balancing exercise.                          Evidence that their pros
+
+      and cons were weighed is to be found,                          for example,         in the
+
+      minutes       of the meeting of the Officer Working Party which
+
+      approved their introduction in 1981 (core bundle page 153)
+
+      and     in    Dr   Eastwood's           letter     to   the    Licensing      Authority
+
+      dated 26 January 1982 (core bundle page 169).
+
+
+
+32.   The    raison d' etre            for the introduction of radial                     fences
+
+      was    that there          should be controlled               filling    of the pens
+
+      which the radial             fences       created.         The method of control
+
+      was described by Inspector Calvert (day 30 pages' 20C,                                26C,
+
+      30B).        It was     not       as    good    as the scheme proposed by Dr
+
+      Eastwood in 1985.                However,        it was believed by the Police
+
+      to be,       and was,       viable so long as the intended method of
+
+      control was          exercised.           Dr Eastwood held the same belief
+
+      and    no problems          were brought to his                attention after the
+
+      introduction          of    the        radial    fences      apart    from    the    local
+
+      blockage caused by barrier 144.                         The cause of the tragedy
+
+      on    15 April        1989       was    not     that the      system of       controlled
+
+      filling was          not viable,          but that it was not implemented.
+
+      No attempt was made to monitor the filing of the central
+
+      pens,    and Gate C was opened when they were already visibly
+
+      full.
+
+
+
+33.   If    there    had    been       no radial        fences      but Gate C had been
+
+
+                                               - 11 -
+                % opened       without       first    closing         the    central        tunnel,     it    is
+
+                  difficult to see how, a tragedy of the same kind would have
+
+                  been    averted       (especially         in view of the                1981 incident).
+
+~ ^                      division of the terrace into pens provided a means for
+
+      ^           preventing such a disaster;
+                                                                         a- J
+                                                                it was not used.
+
+
+
+          Bftwinval of Barrier 144 in 1996.
+          34.    in     his     initial        report      to    the        Club,    Dr     Eastwood         had
+
+                  foreseen       the    possibility         that       central       barriers         close    to
+
+                  the      exits       might        restrict      the        passage        of    spectators
+
+                  unreasonably and require to be removed                                 (core bundle page
+
+                   36, 40).          To retain a barrier which caused blockage of the
+
+                   central           entrance/exit               would         conflict           with        the
+
+                , j recommendations            of    the   Green       Guide        as    to     ingress      and
+
+                 ) egress      (1986 edition,         Chapters 5 and 6 ).
+
+
+
+          35.      The reasons         for the Police request for the removal of two
+
+                   spans      of barrier        144 were given in evidence by Inspector
+
+                   Calvert (day 30 pages 21-3,                   51-3,       56-60).        They considered
+
+                   it to be a matter of safety as well                              as convenience.             In
+
+                   summary:
+                   (i)     There were repeated complaints by the Police Officers
+
+                              that     the     barrier          was    causing           blockage       of     the
+
+                              entrance,      despite       attempts         to make spectators               move.
+
+                              This led to a build-up back up the tunnel, ill temper
+
+                              and disorderly behaviour.
+
+                              N. B. Similar blockage had,                   according to the             Police,
+
+                                      been the cause of the crushing in the 1981 semi­
+
+                                      final.        (Core bundle pages               138,      139.   Inspector
+
+
+                                                           - 12 -
+                               Calvert,    day 30, page 57c)
+
+
+
+              (ii, The         Police     feaied     that    in      the            eveht              of   emergency
+
+                       evacuation       the barrier would prevent                                  access           to    the
+                                                                      S end of                     season            report
+                       tunnel.         (Inspector
+
+                       d a t e d 11 June    1986).
+
+
+
+              The problem was discussed at the meeting on 7 August 1986,
+      36.
+              including         the     possible      effects         of           the           removal            of     the
+
+              barrier          (Inspector    Calvert,        day         30,            page           249)         and    the
+
+              possibility of moving other barriers                                      (Inspector
+                                              a sir                        In the end the Officer
+              day        30,   pages    24A and 61G-62A).
+                                                                  I------------------------- 1     .        ,   -    _
+
+              Working          Party    approved      and    Mr |
+                                                                ________ |on behalf
+               Licensing Authority authorised the removal of the barrier.
+
+
+
+       37.             The suggestion that the removal                             of barrier                   144 created a
+
+y \               diagonal route towards barrier 124A is incorrect.                                                      Such a
+
+                  route already existed.
+
+
+                  It is not clear whether it is suggested that the response
+        38.
+                  to     the   Police      request     for    the           removal                of       barrier         144
+
+                  should have been
+                   (i)     to do nothing.          This would have been irresponsible.
+
+                   (ii) to      re-site     the      barrier.             This               was       considered            and
+
+                           rejected for good reasons.
+                                                   ,u o r m u r s e                No s p e cific suggestions
+                   (iii)       to take some other course.                        «o
+
+                   were put to Dr Eastwood.
+
+
+                                                                                                                                 and
+            39.    in any event,          once the Officer Working Party approved
+
+
+                                                       - 13 -
+         the     Licensing      Authority       authorised        the    removal       of    the
+
+         barrier as      requested by the             Police,     the    Club would have
+
+         been    open to       criticism if         they    had   not    carried out the
+
+         work.
+
+
+40.      The tragedy on 15 April 1989 was not caused by the removal
+
+         of barrier      144,    but by the admission of spectators                       at an
+
+         uncontrolled        rate     into     pens    which      were    already      visibly
+
+         full.
+
+
+41.      On the assumption that the inflow of spectators was to be
+
+         controlled      by     turnstiles       and       that   the    pens    were     to      be
+
+         closed when full, the decision to remove barrier 144 was a
+
+         rational      decision in the           interests        of safety as well               as
+
+         the maintenance of order.
+
+
+
+          On     the   other    hand,     if    spectators        were     admitted         at    an
+ 42.
+          uncontrolled rate into pens already full,it may be that                                  a
+
+          different      configuration          of     barriers      might      have    altered
+
+          pressure      point(s),       but    no     configuration       could have             been
+
+          expected to prevent severe crushing, somewhere.                          If barrier
+
+          144 had still         been in place,             many of the casualties                 may
+
+          have been in the tunnel and there would have been strong
+
+          criticism       of    the     failure       to    remove      barrier    144.           (Dr
+                                                                                                  day
+          Eastwood,      day 28,      pages     66H-67A.          Inspector
+
+           30, page 61F).
+
+
+
+  Pari metftr Gates
+  4 3.     Dr Eastwood deals with this subject in paragraphs 53 to 61
+
+
+                                               - 14 -
+        of his statement.             See also his evidence,             day 27, pages 58
+
+           and 59, and drawing^ 11424/5.
+
+
+           in summary,    the primary evacuation route from pens 3 and 4
+44.
+           was through the tunnel and allowed evacuation well within
+
+           the time prescribed by the code.                     The perimeter gates and
+
+           the gates in the radial fences provided a secondary escape
+
+           route which would enable the pens                     to be evacuated within
+
+            the    prescribed        time,    as    well    as    allowing        access   for
+
+            security.     The width of the perimeter gates was a matter
+
+            considered     and       determined       by    the    Licensing        Authority
+
+            through      the        officer    Working       Party:         Dr     Eastwood
+
+            statement paragraphs 58 and 59.                 Past experience had shown
+
+            them to be satisfactory                (Inspector |                  day 30'
+            18).     However,        they were not designed or intended for a
+
+            situation in which           there was         such gross      overcrowding of
+
+            the pens as to make movement impossible.
+
+
+
+ r.apacitv
+  45.        In his initial report to the Club (core bundle page 36) Dr
+
+             Eastwood     described          the    way    in    which     the    Green    Guide
+
+        \ calculated spectator capacity.                        In the report and
+
+ 7      (    further report (core bundle page 48) he suggested capacity
+
+        I    figures and set out his reasoning.
+
+
+
+     46.     The Licensing Authority through the Officer Working Party
+
+              considered       Dr    Eastwood's      report      and   exercised their        own
+
+              judgment.        The    number       of spectators       certified for Spion
+
+              KOP was     16,850       (core bundle page           117),    compared with Dr
+                       Eastwood' s        suggested        figure      of    16,000         (core bundle       page
+
+                       56}.
+
+
+
+                       Subsequently              when     radial        fences          were    introduced       Dr
+
+                       Eastwood       and Mr I                  (pointed out to the Club and the
+\            /
+
+             ?         Licensing Authority that the removal of barrier would mean
+    d " ’’       7
+                       a    loss     of    capacity       calculated             by   the   code:       See    core
+
+                       bundle       pages    160,       162,    169.        Unknown to Dr Eastwood the
+
+                       Police expressed the view to the Licensing Authority that
+
+                       there was          no need to reduce the certified capacity                             (core
+
+                       bundle page 165).
+
+
+
+                 48.   Similarly,         in relation to the removal                        of barrier    144 Dr
+
+                       Eastwood' s evidence               was    that       Mr                 reported to him
+
+                       after the          meeting on 7 August                1986 that the question of
+
+                       the effect on capacity was                      considered and a similar view
+
+                       expressed by the Police (day 27, page 54f).
+
+
+
+                 49,   The decision whether to reduce the certified capacity and
+
+                       if so by how much was not the responsibility of the Club
+
+                       or     its     engineers,           and     they          were    not    privy     to     the
+
+                       discussions          of    the     Officer      Working Party on the               subject
+
+                       except at ground inspections.
+
+
+
+                 50.   On the day in question,                   the opening of Gate C meant that
+
+                       there was          no way of limiting the number on the West and
+
+                       North West Terraces to the certified figure whatever that
+
+                           figure    might       have    been.         In    the      event,    the   Health      and
+
+                           Safety Executive's            best estimate of the total                   number who
+                       entered through turnstiles A to G and Gate C is 9,734,                  ie.
+
+                       lower   than    the    certified    figure.      The    tragedy   was   not
+
+                      caused by       the    admission    of   too   many   spectators    to   the
+
+                      ground, but     by     theadmission of         ari uncontrolled flow of
+           j
+           1          spectators      into the     central pens when          they were already
+     z s u r js       visibly full.
+
+OL                ■
+
+
+
+
+                                                    - 17 -
+HTT.LSBOROUGH TNOUIRY - QUESTIONS TO DR EASTWOOD
+
+Where possible these questions are related to the relevant paragraphs in
+Dr Eastwood's statement.
+
+para 14: Were you consulted in the preparation of the Guide?
+
+           Did you ever use the 1973 version of the Guide?
+
+Para 20:    What did you know of the history of the crush barriers on the West
+           Terrace when you took over responsibility?
+
+           Did you know what material the barriers were made from?
+
+Para 27: What account was taken of gaps in the lines of barriers?
+
+           Did these gaps comply with the Guide?
+
+Para 29: Were these gaps in the lines of barriers taken into
+         consideration in calculating the capacity of the West Terrace?
+
+Para 31:   How can you be sure that barriers 128 and 137 werebent during
+& 109      the incident on 15 April 1989?
+
+           Were the barriers inspected for damage after each game?
+
+Para 32: Do you have a written procedure for the testing of barriers?
+
+           How are your operatives trained?
+
+           How is the degree of corrosion assessed?
+
+           What criteria are applied to determine when corrosion is excessive?
+
+           Do you apply any acceptance criteria in addition to those in
+           the Guide?
+
+           Do you consider that your test method is suitable for barriers
+           with wrought iron tubes? Have you done any calculations of
+           collapse load?
+
+           Have you had discussions with other companies which test
+           barriers?
+
+ Para 33: How is deflection measured?
+
+           What is the accuracy of deflection measurement?
+
+           Is the deflection of each span measured?
+
+ Para 36: Why were five yearly tests specified rather than four yearly,
+          as recommended in the Guide?
+Para 40: Was there anything unusual about the test results from barrier
+& 113    124A in 1988?
+
+          In what condition was barrier 124A after the test in 1988?
+
+          Was the horizontal tube permanently deformed?
+
+          Was the degree of corrosion assessed?
+
+          After the 1988 tests you recommended replacement the rails on
+          barriers 144 and 133, why was 124A not recommended for repair?
+
+Para 45: When the radial fences were planned how was the capacity of
+         each individual pen calculated?
+
+          Were any barriers split into two e.g by removing one span
+          at this stage?
+
+          And, if so, why?
+
+Para 109 :You also tested barrier 136 on Sunday 16 April, what happened
+          the first time a force of 6kN/m was applied?
+
+          Was there any permanent deformation?
+
+          When a force of 6kN/m was first applied to barrier 128 was
+          there any permanent deformation?
+
+          What did you deduce from these tests about the forces to which
+          these barriers had been subjected prior to your tests on 16th?
+
+Others:   Did you modify your test procedure when the Guide was re-issued
+          in 1986?
+
+          Did you ever measure the heights of the barriers in pens 3 and 4?
+HTT.T.SROROUG'H TNOIJIRY - NOTES ON QUESTIONS TO DR EASTWOOD
+
+Para 14: There was a suggestion, by Supt Taylor, that Dr Eastwood had
+         been consulted during formulation of the Guide.
+
+         Dr Eastwood does not acknowledge the 1973 Guide in his statement.
+         In this version the crush barrier test calls for one load
+         application only.
+
+Para 20: The design of the "old" barriers suggests that they were
+         considerably more than 20 years old. I would have expected
+         a competent person to consider the materials from which the
+         barriers were made before devising/applying a test procedure.
+
+Para 27: Allowable gaps in the lines of barriers are given in the Guide
+& 29     (paras 114 and 115, 1986 version) and, where these gaps exceed
+         the requirements, the capacity should be reduced (para 226, 1986
+          Guide)
+
+Para 31: Barriers 128 and 137 could have been bent during a previous match.
+
+          Barriers should be examined after each event (para 39, 1986 Guide)
+
+Para 32: I would expect a competent person to have a written procedure
+         for carrying out crush barrier tests. Other companies have
+         written procedures in order to ensure consistency and
+         repeatability.
+
+          The Eastwood barrier test reports indicate that barriers
+          are rejected occasionally on the basis of excessive corrosion.
+          This is highly subjective and ought to accompanied by residual
+          thickness measurements and a design appraisal.
+
+          Other companies, being not entirely happy with the barrier test
+          procedure in the Guide, have added additional requirements e.g,
+          a maximum allowable deflection irrespective of recovery. Other
+          companies also test the vertical members in addition to the
+          horizontal tubes.
+
+          The yield stress of wrought iron is so unpredictable that some
+          permanent deformation of the tube could occur during testing.
+          This would reduce the capacity for further plastic deformation and
+          introduce the possibility of strain age embrittlement (brittle
+          failure under impulsive loads).
+
+          Two other companies that test barriers have been contacted
+          during the Inquiry. One appears to carry out tests in accordance
+          with the 1973 version of the Guide (a single application of force)
+          and the other interprets the Guide to mean that one test
+          consists of three applications of force and deflections are
+          measured from the original datum position. The latter is consistent
+          with HSE's understanding of the current procedure but differs
+          from the interpretation apparently adopted by Dr Eastwood. The
+          latter carries out three tests, each consisting of one
+          application of force, and the datum is re-established after the
+          removal of each force. This point is critical since HSE's
+          interpretation of Eastwoods 1988 data indicate that barrier 124A
+          would have failed the first test and a re-test (3 more applications
+          of force) was therefore required.
+                Deflection under load   =   36nnn
+                Permanent deflection    =   17mm
+                Elastic deflection      =   19mm
+                % recovery              —   53%
+
+Para 33: These questions were put to Dr Eastwood by Mr       (HSE) and the
+         answers were not satisfactory. I would expect that the deflection
+         of each span would be measured at its mid-point. It is hard to
+         believe that the Eastwood method is capable of accuracies better
+         than +lmm
+
+Para 36: Dr Eastwood's statement does not give a reason why the
+         recommendation of the Guide was not followed.
+
+Para 40: The notes under Para 32 are relevant here also.
+& 113    The amount of permanent deflection exhibited by span 1/2
+          on barrier 124A during the test in 1988 was 17mm. Only barrier
+          144 was worse than this and Dr Eastwood recommended that the tube
+         be replaced.
+
+         The tube on barrier 133 was described as "badly corroded" and
+         was replaced, yet no comment was made about the condition of 124A.
+
+         Dr Eastwood's statement that barrier 124A passed the test
+         "very satisfactorily" is highly questionable.
+
+Para 45: The capacity of each individual pen should have been calculated
+         when the radial fences were installed. There is no indication
+         in Dr Eastwood's statement of how this was done.
+
+         The capacities of 1200 and 1000 for pens 3 and 4 respectively,
+         shown on Eastwood's drawings, would have been optimistic even
+         if the gaps in the lines of barriers had complied with the Guide.
+
+         The numbering and position of the barriers suggests that 136 &
+         136A, and 124 & 124A, may originally have been joined.
+         Separation may have been achieved by removal of one span and, if this
+         was the case, then a gap in excess of the guide requirement was
+         created.
+
+Para 109:Eastwood's report on the tests carried out on Sunday 17 April
+         suggests that barriers 136 and 128 deformed permanently the
+         first time they were loaded. This indicates either that some
+         deterioration occurred since the last test or that the tests
+         have poor repeatability.
+                                                                                                    /-
+
+
+
+
+                                                                                                                                                              ex7-?!                    o?*S'S"
+
+
+                   C2             ^7 jCU3'*S 3 ^^7^
+                     t-^<S"                   /‘e.cua^i-            Cjy;-»tu(£i»<i
+      _____ <’
+             >*-c> /t-n -o ta-eajaC j*.___ ^ ___ /2<JO Ac                                              /0 0 < 0                             QCo~~.       S ‘Q*+-~'&,t.«m4drj J )
+
+
+
+
+                                                                                                £U~ -e-cXf-C*^            O-fif- /5-
+
+                             Gjn**-&£<3                     s~]          ~—
+                                              -c~v£^/e&«£ /3& ~<s^noA*-.---4j'                    <2         /a'A^ ■- '
+                                                                                                                      l£"~^^                    (^Z^ 0       ■
+                                                                                                                                                             /e*?e^s*- ^Cv-
+
+_^G           ^ -c j^ U r       g>        ^ r r ^ j^s         S& L& et.           j& O SotiutjC y              (r>v        t»c*-o6t1
+
+
+                                                              C-*-Z*-S£r
+
+
+Kst£T     t                                     C£A<-             c>t-TVt^^>->-<^^^<^ ^t*^r                    ^Iso^T
+                /~
+               / ^1^<<3--C C&JgC^i^z^ctr-U.
+                          'T^e^ dX*L        ^
+
+
+                                                ?Gk-e-t*-cJtA*i      '
+                            *_<**- M- - G^o*e^e,«^                             / *f&ST
+                                                                      CTCoU^ _(                   -< / * f 3 f                              /
+               M£T            PCcjU-                                          A T ^V ^A JT                            ^                          -^qc         6>£e^                     &&&*
+              ___________________                                                         ; _     __                       __f_^r„ *^e«aA£>                   &-C*$£ y - J^<5
+                                                                                                                                                                              /
+
+                                                     &£&*£&         /^ctA&-&,       j&o z*fcosC          i                             /f
+
+
+                               &&*S3Q          V           -C c*~^b-          f                                                             ^ C -^ r ^ c        6 < ^ J j S'         ,£»
+
+                                          ^ " ^ /£>                      S&V*oCs<         4 x-      ic<l£sJ£it . f S'^~-C>Ci
+                                                                                                                      a
+        C0>roj3c*?vJ                 ^?   S z -y S           -------- -T^ 9 ____________ *&,                                           £ / 2                      - J 7 <dfccw&
+                _.
+                 _               r^ls£2                                                                                                         /"i&Tln^ .
+
+
+  ,fhj£-<j7      &CLsm-tJzs*           J’
+                                        cXa^-
+
+                                                                                                                      _________________
+                                                                                                                                / e
+                        foc\.                  <xfe        4~ /C~ -eu^c^-                                     c4\-       ^ <7 . /
+         1_____________                                                                                                                            &&OSZ4CS      / xj&gs-     &L**     ^ac^ Gj&^c*')
+             Xlft- O cJc^                                         '^OC^>          <&>
+
+                                                                               'H^ dr       ^_«-^-9                              c^;-e»a^^ ^e»~                             S~<y& oj-ey     &<*, & A ^j
+                                                                           .g^Je^                          g ^-o<o yre-*\
+                                                                                 /fc^yo         o^e- .-a»a__ <£<a^w, a^s tX>as*-~ j^-5X.*k-                                          gG xJg*^c
+        £3-o&>              ~K*i*C                                                                            S y 'C c         - S-/L&*~e
+                        ~       C<r~&<x>~}           fc>          s e -^ J r ,      ^                             C ^u ^tj usxU sl,
+                                                         d o                               4            < ^ k o '£           t ‘JX **Q v tQ                              J
+
+
+
+
+                                                               uCs^Ot-            <^T ^-
+                                                                                                     -■*£- >*a^O^-^*-0^-' ^                                          —" ^<sr*v2; $ 5                        <4r<rvi^_,          ^             cZ^£Z-g-
+
+                                                             *xs~j-^zjgj~ &ze^£$^jts-                    c-r~£y£x&
+
+
+                                         Aj,:           "         ^
+                                                                  or^wtoc C
+                      ^<&£>~
+-det-tx!^ ^           rf-v-QsC        s/=>c*'~               ^^2      j          ?             6?£&/&L~                  ds^jyCo                         --                  &J^*-e&j*C &*-j                       ‘''-'S' .
+_____ C>Cc^ej^£ui^                       '?^ea>g^W'                    Q-^-            '^a^oCs^?n^___g>                                                                                             S~€lj^C         a^Cr            a,     /t^._
+                                     g? ^ - 7 Gs&-*-*£jsI                                 <£_>e-c»<6s-»_
+                                                                                                    t*sG       dii£&z^l ^ ^a^f^-y,,-      ^
+                            /      .                                                             ,  ”                  ,-^ /
+                                                                                                                           ')> ^
+                           /Q^^eac#"                   (2<7*^jo*&^J)--.~-C? &} •A*-Ox^e^~o>-1
+                                                                                            ^' 4x1    x6>gs-^wx<»T-^i^-^
+                               g^TT^                   /wg-e/-&^»e^v^r 7 ^ £ a * 4 . W sLjz-ias J? t~j^- /CK>-5'& _. >>t-e^_? ^^/-ySi^-o
+
+    fr^"'-     /*1^<V"^          J         C^C<K-                   o^Pn/_            CS^/^i-J                                            "■ t / \ S ^
+
+
+                       c^i> 0             £            >               ,/e^C                                  ^yW6                            ,;f5
+                                                                                                                                                                              /
+
+                                                                                                                                                                                                                                                    1.
+              ^et»^-a>- c^rcu ^ ssi                            A-i*-*j-z.     /^Et6 »,                C^c&m-uuK                                                 -y                                                       ^      ^        ^ y& ’
+
+
+                      ^ 's C ^ tx u ^              ttecU T'          t*o                                      ;            _f'‘
+                                                                                                                              ~*‘(J&oxt*                                                *~o
+
+                                      Ck-e^ t-cjes?            <
+                                                               5£C&*£r           b£-            s             *                     -          j^evc^C                        &*>***'
+
+
+ ^ <? & &         s -e < u < ^ Z
+
+               T Jo            t^O < 7~r-& 6          <%        S jO <*-—
+
+                      ^ • 6          ^!C >«& ts.         /> v M > « 7 e ^         ^> ^V w              -«S- ^ -f>X'_                 ^                                         **"
+
+                 ^-/~ y ^ C T ^ ~       < ^Z                          fy         ■“       A - /^ "
+
+                                                                     < ^ y < ji- e s C i^ r .          > «»^                  d ^ A js ^ ,                      c 3 j~         <&-£-£         o r^ J s a ^ s ' ,
+
+       /     Z c f- -4                             ^ V ks-                                                    ^       < 2ooc^.                                               ”—•         ^      /     7 "      ,
+                                                                                                         ■■       .......... .. ........................- / ^        •                                              ■••• - ;•
+                  T ic .   '   & & £r           '^ ~ & & -o £ su > C
+
+                                                                           G K X t-cuof              s^*z~ -           < 3 £ * a-^ r              - e '^ v y D f i / 'O - r v ^                                          ~
+              EXTRACTS FROM EASTWOOD'S REPORTS 1981-88
+
+
+
+1982     "In        a ll c a s e s t h e b a r r i e r s s u s t a i n e d     th e       test     lo ad ,
+         a l t h o u g h i n so m e i n s t a n c e s t h e c l i p s             "
+
+1983     No f o r m a l s t a t e m e n t a t t a c h e d .
+
+1984     " I n a ll c a s e s t h e b a r r i e r s s u s t a i n e d t h e t e s t l o a d . "
+
+1985     "In       fiv e      in s ta n c e s th e b a r r i e r p o s ts failed          to s u s ta i n
+         th e      te st      lo ad .     I n a ll o t h e r c a s e s t e s t e d t h e b a r r i e r s
+         s u c c e s s fu lly w ith sto o d th e a p p lie d lo a d ."
+
+1986     " I n a ll c a s e s t h e t e s t e d b a r r i e r s s u c c e s s f u l l y      w ith sto o d
+         th e a p p lie d lo a d ".
+
+1987     I n all b u t f o u r c a s e s t h e b a r r i e r s           te ste d         su c ce ssfu lly
+         w ith sto o d t h e a p p lie d lo a d ."
+
+1988     " I n a ll b u t o n e c a s e t h e b a r r i e r s         te ste d ,  su c ce ssfu lly
+         w ith sto o d th e a p p lie d lo ad .             (N o te a b o u t c o r r o s i o n ) . . . .
+         a ls o t h o s e t e s t e d o n t h e L e p p i n g s L a n e t e r r a c e t h i s y e a r
+         a ll s a f e l y s u p p o r t e d t h e t e s t l o a d . "
+
+
+N o te   T h e ' s u c c e s s f u l l y ' a p p e a r e d in 1985 a n d 's a f e l y ' i n 1988.
+         T h e r e h a s b e e n n o e x p l i c i t r e f e r e n c e to t h e r e c o v e r y of
+         d e f l e c t i o n s . Was t h i s c o n s i d e r e d ?
+
+
+
+
+                              TEST RESULTS
+
+
+1981     T h e r e a r e l a r g e d i f f e r e n c e s in t h e r e c o r d e d  d e fle c tio n s
+         o f s u c c e s s i v e s p a n s in t h e s a m e b a r r i e r (N o . 40        is t h e
+         w orst      o ffen d er).        T h i s m a y h a v e l e d to f u r t h e r a c t i o n ,
+         b u t n o s t a t e m e n t is a t t a c h e d .  A n y a c ti o n ?
+
+1982     L arge      d e fle c tio n s      in    N os.       8 9 , 8 7 , 91, 9 2 ,         107,        109.
+         A c tio n ?
+
+1984     L a r g e d e f l e c t i o n N o . 159.
+
+1985     L arge         d e fle c tio n N o s.    11,         13, 26, 3 4 , 3 6 ,           37.         S om e
+         a c t i o n s t a k e n b u t n o t s p e c i f i e d a s to N o s .
+
+1986     L a r g e d e f l e c t i o n s N o s . 9 3 , 50.       No a c t i o n s r e c o r d e d .
+1987             N o . 91 o n h i g h s i d e .
+
+1988             As n o te d p re v io u s ly .
+
+
+
+                                   OTHERS' TEST PROCEDURES
+
+
+        T h e a c c o u n ts fro m SGS a n d R o ss M ate ria ls T e c h n o lo g y a r e h ig h ly
+re le v a n t.
+
+           In te re stin g ly ,  t h e y a d o p t a com m on p a t t e r n o f l o a d i n g , w h ich
+d i f f e r s m a r k e d l y f r o m E a s t w o o d 's . B o th p a tte r n s ,    h o w ever,     are
+d e fe n sib le .
+
+          SG S g o e s a l o n g w i t h t h e d e b a t a b l e c r i t e r i o n o f ' r e c o v e r y
+g i v e n in t h e G r e e n G u i d e .           R oss d e n o u n c e s it ro u n d ly , y e t in clu d e s
+i t i n h i s a p p r o a c h , w h i c h is a s f o llo w s :         if t h e d e f l e c t i o n u n d e r
+l o a d e x c e e d s 50 mm, o r if t h e r e s i d u a l d e f l e c t i o n o n u n l o a d i n g
+e x c e e d s 8 mm (6 mm in h i s a p p e n d i x ) , t h e b a r r i e r is r e j e c t e d .                The
+a c t u a l f i g u r e s c a n b e a p p l i e d o n l y to a s t a n d a r d b a r r i e r , b u t im p ly
+a r e c o v e r y o f 84% ( o r 88%) f o r a b a r r i e r a t t h e lim it o f a llo w a b le
+d e fle c tio n u n d e r load:               f o r sm a lle r f u l l - l o a d d e fle c tio n s, th e
+re c o v e ry p e rc e n ta g e s a re le ss.
+
+          H e a d d s , f o r g o o d m e a s u r e , t h a t " a n y f a i l u r e o f a^ b a r r i e r    to
+f u l l y r e c o v e r o n c e t h e l o a d h a s b e e n a p p l i e d is a f a i l u r e .
+
+         R o s s 's t e s t s s e e m to c a ll f o r o n l y o n e c y c l e o f l o a d i n g .
+
+
+
+
+                                                    L.M.
+
+
+
+
+ 1 7 t h J u n e 1989
+                                                                                                          2 Z u 'i '3 c l
+
+
+
+
+                                                                                 V                    *        *
+              4       \r ~ o X j* S                                    C<5Ci-^Cj 5                                     ,
+
+
+[.     "tWl,                              Qua<^cV                h\rs*H *JU 1oC ' L4 ^        •^O^S’C - ^       <o o tr ^ d c L s
+
+     (X ^ X       &                        ^         tC^cf.t'dJLeL, ^            co^^|o^'uaajl^ .
+
+
+
+2.. ~ r w * * c 0 ^             AtAX^cL^                  Lw0orJst<X^/<^-3 <^ tfoG'
+       Mxol*^                onjxr^ow^                      btaiT O l U ^ f r c ^ A ^            by       rc^ux£.             £
+
+      B<3Ln-\xr              12-4 A ^                    u^L^c-U'                                 CkJ>X rtAuXjZ
+      ka<x\^      he*        C/^X^VV«jCC^L                     cvk      ^ 0 t£-crU/&   .
+
+                                                                                           Q& m u L
+                                                                                                                   Q e o 3 x* * 4 f y d
+                                               a<* Mute.                                   cuc£&
+                                                                                                                     S tfc
+                                                                                           ' i
+                                                                             3
+
+                                                                 101
+                                                                                                                      1 4 %
+
+                                                    I         <4
+                                                                 f<?
+                                                    i -...- .
+                                                                                                                     I©5 7 ®
+                                                    s#
+                                                                          *<?
+                               lil
+
+
+
+
+     (^   ^       O l .c z    O n ^ t A o v ^ ^ c^jaj^/V^ ^                          C W                            ° ^ ^ < 1 n,
+
+ U w      6 c&a>       JcsI^^qa                     CUc          Q»<cos. C^uCcte. .
+
+     (fa} <1|_ uu            i* o|»^LCodU                   Da      tlv,e,       ^K-' C/x^'u ^ CLe,                  Cou<*^
+^wstu^xX              cte^-o^vwcvCC^vv                                                                    Ooc-w
+ U) l/k, Ctoe/ ^putATiarv —                               ^K»iM- w t w X             ct^j©CC«cax,
+
+                                                                                                               r a . u k ^
+ Qj*,e* DaCx                          d    u       ^ ^ ia      w*      cr|-                 J    CLe. r^cooi-ry
+       |2 1            =s 4      |°JG          .          o h - uiUaa^ CUje,                                  <Xs ^    u z£   * c>*k_,
+
+                             CLo                               \>a       l<?/.34, sr -5d*lo . £ i U ^ ^ < x ^
+
+ GLo      ^ 4 jT^T>Cr" ^l»-P *jlQ                        k*"                               t» <5-
+ Q jyg.''Cy oLfc/             UC-4V ^ O f                V^Q&cCrt-CX' ,
+                                                                   2 ..
+
+
+                    3   .     $ \c u c & l C A s                        C^O/v-             A u j ^ a m u c n (J ^ -
+
+
+
+                            -S'c^S —          clt? tV x K ju                        c^    cq c   A   jl g    <cw^-cC              £>
+                                                     *                                               *      ll “ a
+                                          Jr Ct\^ |os-&JL UoC2dL tX&jjO-cJZL &k. .                               ik&Q Jjr l^tC
+                                          j^-cr C* Ct-os-' £ CQtA>>^ai^xCi(iQj(x^ tNAu^uco^*) v&nk^JGi £^y-
+
+                                          2 .(10 ) T b u u C     /u7Voi*w^>^                             CL-o-TC C t a ^ r
+                                          GnXc^vO^             Co«*^eA                           *2             1 o * ^ o r (U*- oCC*j£j»
+
+
+                                                                                                                                  %
+
+                         ft_Cd-£l     —       csLOC- a       cjlul.                             C^o&L_ o o u £ ^ « T U x * }
+                                     ctpf&je^*- &>              / 2 4 A j 3»o-<^i ^              Ve^Cov^-j-j^ <rjv S^i^o                   fM Jc4r
+                               a * r L a S S iu L .           aX*c     uaZtc>&ux£^ a_                                      CnXcuw^-
+                                      *       .     •                                                    *i>             -n *
+                                     q,    £/Ct\A_tX'i        uLe^4juc0^vt-                               uw/i       r   Two* t-^
+
+                                    e*»^v*c*«JC/&^ Aa-vsA-iJ*^*— j kujC u                            k>cT (poutr a fe ^         iT U qS~
+
+
+                                    CZj*^ Qie-e^. CrujL-d-^ or EgaC^jjo£L .
+
+
+                        M ia X C o jL ^ ^ a J fu ic7 c )d ^       — ’ fio        C S ^ j i - c^ q & u i. } louJL ihjZjcim ju ^
+
+   ■"■'■-< ■■■'•'                   fe^njin^ ^ ,                  Gu*t# iMJsJCtt,ael4 ( / ) j o *a_ ^«c -O d -4 ^xM , -JCT
+                                  6 freul|e>rd, oaa_ dL/                   oSlvQjp               S cuv\A0 tt^ o-»^cC
+
+                                 A s *t «s^. V\-£|>o . Ap^^Aje^A- U                                             CU^ kaul^ o            <a-^c.
+
+( fia jtjd lA t^ - + AV )                  buULXWo cL' ® *                          < 0 0 ° ^ H ^ o a c -r ^ ftU zu_ fToATujoo «=cj
+ (J Z d u s e d L , )                                          3tX     —            5"3 *7 o                         .
+                                    TU^ca i/£Lu^rexjE^^»              CU.C/    CiX^j-tA* i£vv CtCuUuz^U toy C & e Q.<^
+
+
+
+                    4 h^T. t
+                           5r<rvi-<s^ui_t"<c^-x & v'"'^ <                  '     ' *TW*ifr*                                       G^.
+                               ,l AjoprtuU-ai efy <5|a(AfCr G                   i     r     o    11 £
+
+                              "dv.^                          4^v-oqu ^-et/. 1<T ^ '6 )                                    ^ocl^u-4
+
+                              IXv.e. C^.»ej6t^. G^UA-cb^             aw.      c*xa^U_ la<tmje-rt                     ^tU^ou-C
+
+                              c£^v^vCdJCuA*- . T W * - v > a ^ K ^ C                                                      Go
+                               CC-exT O U va-          ^e-coua,u >j£a ^ i(>>Ch,£3i>^a                    (T<lq -G u a ^ -^CH-c oCUr®^
+
+                                                   ivv, 11                                K a^a& L 4A<*g G I is*<- cT^—
+
+                              <sl£'A^io\Xi*^3^ '              ^r«A^w<JAJCivA^4            } IrWk.{■cl '? cr 1
+
+                                                   <^» W(k^>d^.^exL^Xri,’« w 3 . 5 }                        G    ^       ><J()uiKaK.^
+
+                              y<-c-o                   ^        ® .
+         .       £f                     O cL ^                                                CZL su C                    LtAXitv’^ e - C i L ^ ^
+
+               X^COoC-JTy                 'jy& j£*(s&          C^itXLvt^- £X\4L- 0 <Lj“V^-s^a                                  CC*^__
+
+      Jo       /VU\-^>Ca^tA^o-AiCc ---                               h j- ^ 3 U u ^ e _              j- ^     ctv_€_
+
+     ^          (X-t^ S c J r u u ^ 0H - o o J ^ o                           ol- t   ^     u- c^        C C ^xX r              <Z>         ^
+
+      u-vC~v j"JdU^Gl.                                    i u,€c-tvu^                0 ‘t S i K K ^           ^e^c^UA^c_.                      tX ^ .
+
+     ■£^rv^      cr^       t € J ^ & u < -i~ L j     {^ ~                ■^ - l . iP S C     ^ C r t< J ^ -r ^ ~ c ^       <^-j c^c.               to
+
+     (xCD/v^ c^ - cX/^1^ '                           1                                       -e^-c^A }
+     c<Pk-^icxoCta-^ <5^                           Ct^_c- 40'-C£L.                   H^CF              U«uUle-xrc_-» ctuz.
+
+      ccv^ c^ h ^ vT *-           -^o c ^ c ^ t ^ x X t       cv n x i      a_<m_ .4 -0 i/s ^ o » o /o < _                     fU ^ A i
+
+     ^oC6         e-j^cX\               o-X-
+
+                      oCL^r              C^o   jju   ^c *             C L ^ « - (L          ct\ 6      s Jq
+
+
+     C*C<T             W      :                              c^dC        C l^      c ju ]       L ^ w           |&clc focuj a j o t |
+
+      CCv_«L^         C ooJ^JL s                              0 ,                                   « ^ < - o C c^v.             fU-<__
+
+     v^A-Cc^rxXtj              o^       ( X \je ~    U < x .rr x .'W .          T W -"              t - ^ ^ u n r tr t< ->
+
+     U a^ C ccJD KJCaJSTv. <\A- ^ ^ U-'tWtvC^                                      M udJL oJL X '                    C L j-rjjy }-i3 -(^ -     j   CJ
+
+--                    -Co /ICW/J-CA^ . ' CH^*Cj'Co4-??a__ TW -                                                ffv£     4 -^ ^ b    1                   .....
+     ^ f D £ U U                  u   t W C              O ^ S.CMO           (^o-r 4 0 t ^ T t w ^ j                                                       ^J-
+                                                                                                                                                                 /
+     i^U ^C      <1 <X A jJTv'c^p o-Ce^- c u                   "£«>IA_^1*. ^                C c< Ji^l*JL £l-0~ £- d~L ski O ^CC -J
+
+     k jst C     iK        J t- c n A          t •^vjej’
+                                                       C..       .
+
+
+
+
+^                Q r w c^ a a T irtv'Ct cxa^ £rw K- ocj oc-rt^                                       oCa rcM-*-*              Live.
+
+         UuL-|pOs/C0 Uu^C*- °£                      crgt^cX          C ^nJvc*A a_.                    'ttee^
+
+         CX^t- cJUc ^ O - c C-l c>w.                      u ^ v .c Ccj          £-<rw_^?C^                    ILc^- vjrccXaJZtou
+
+                oL ^ j^ X c> C c ctm j               (j^ o           /i^p cxaa.              Cd -4 |p cu ^ - ( c u ^ ^ c A ^                       —
+
+         »\A_OTC                                            CT^j 0 -& L - —              uX.C^<XA«j                   Lm^.
+
+         c-1           ^Ttou.           Iaa-                             h j ^-~                                                       ,
+                                       <£T/W7TK/OOfc s
+
+
+
+                                                              ^          ^9 ^                    q^coO.                    ^*-          / e >7<*                            'J 2 _ 3
+
+      £& *            J '^ .U T u .        <~-      /?**            -<**s- j-fc«>c                    -       *-n ' c'6     •?**                                  *~:       /9 ? S .
+
+
+                                       9                                 ?          * ~ W -                   <*~5
+                                                    / X.O-) ftA. ^ft^Mw*«                                 AT^aX              /O * ^ *      <^«<iiiy*»             M«4fci               7
+                                                  /      U ^ lfit /
+
+S.                                           7          /=»—              <=■         f'-s-                                       S-
+
+„         v»                                     f ,'9'*’J:. -                                            1                         *— ~ /                         ,
+                                                                                      7                   ^                   tfW 'X^^Cr "
+
+
+
+                                       72.^*                                   p ~          *-> ***                                 (* -
+
+                                                         < f* j£ ^ + o * u                                                *'— >              ^        •
+
+      ^         J /              C * o-~^               ^ 8          4 , '*7                              *>*~uS             °^^~?               *-‘<uo<t^
+                3 /
+(jL       /*?                                                                <*-* **•* -                                     ^
+              •)
+          a’4**^                  ^OVM. ^               *U#        k> CKr*U~               ^C kU ^o t f
+
+                                      C ^e s.        c* * * u L u            v« * c         o»        »-cie^«iKC.                      t^iC ex.           & ■/> />      c       g
+                22.
+f                                     /??&                                    -     «**                                             A»a-*             /<?7’’ •
+
+                                      C .er* .sC ^» G ~ ~            y        ^ 7         ( *-*«•         -& > ?> **.**./J
+                 S3
+                                      /VO         ^ *..-i^Vw.         ^
+
+
+                 3 fr                 r v^              & so*            **               $ re . c.           * + .v+ + &
+
+
+    /?W^         37                   ^u -~ U        +4yQ4t*-c            oA c+ *tJ4r               t»y,Ai»;                                    /'ccm^ j
+                 J5                                     /6 (
+                                       Vo         S?&3            oi+-Cm.         cu t       ^'<*-s£Zi-%«aU           — /v,®tf‘            ^O o.a<£„ ^ 4-*v’~ ^ fe a t* M
+
+    j(?GS*m*.    ^>0                   /G 8S            &   gjG>
+
+                                      Qsu»~. "^euJU+t *’ <6 »-«s»r                         *«c^~          Q                  ''••                     /
+
+                                       6*7%**-              S+.oC.i>4.       y^ACK)                 cjv«                                   /C«VJ          CJ»-»
+                  - ra                     & *-     ©                                     4fc«/. /o%+~                    »*^nnf> rtTa* ^
+
+                  rj                    ^*— o-€.             AftAw«.                                                      9* A           ^a u g fro                     j
+
+     y^OAk T6                              ^^                                                         ^                    <Jt^e           A4^ o c «^o P
+
+    ^fc?* A*-                                                1>^3^ V <         ^<l««.^ a^#V>v   A. /c*C 6 y
+                                             >vO                         j|6 nj // 6 »>iwJ^ e-J ^
+                                        ‘I                                                                                                  I                        /f /
+     ^«A*k                                   £&**           Ct*+*oi*~               J^*«u><               *vetf           4jjk-      >vi« *~i£iyC f4.£LoL
+                                                                         utStK            SfptX*o     a, ^ (S T ti. f
+
+                  ?6                       ^w><£U                  ^^asUo                        <^o                      +£UJ+u
+                                                                   •f/0-**Ur        r* .     oat*>                                     f j? ^ 9 ^
+                   8
+             /O ^
+
+
+             //Z
+                                                                               ,       /# //
+                                        £A*/«7           S'V.A mJ * <L*C&* tJ^mf
+     yP«M                  — ■. >*-<3                 A,^04 *xjf                                         *?w-oi*.       & oCJ& *+        - *J4+A   y
+
+    Q c ^ ju~ f* o >~.£z                                                               ®
+
+    “7          IH<fcTfc
+                •              h*+*~£2—~                       *7       -*»■— -              ^               /...
+                                                                                                               v ^ / s ?^’        X C7     ?
+                                                        /Z < ^//2 ,< A # 4    'Z < - / 'Z t = 4         c ^ u ^ i          ■               ,
+                       //V^ „                                                          .V ^ o g v e
+
+
+
+                   /«?^>             O^tXZtede-e*                ^-*7      A“"/ir *'
+                           ^                                              C ou^A J**'          O ^C      /£> **»"     6*       '<?&<*    O ^ s ^
+                                                                                                                                                       1*
+^           ^                  ^                                                ‘J~                                 •
+                                                                                                                           — *V0
+                                                                                                                 Oi*. 6 ^*0 ^*. * /
+                                                                     **-**■?
+
+          f£} & 3       oL**G**             ***         tv */°              U j+4.£s       —     ' 9 S<y- ^*A>             r*M.CZ*.a>
+
+
+
+           / ^t ip T K f           C f t / iv y ( ^       ^4^         x^ilaC Ao£o
+
+                                       /fS/                             & /-? /& '
+
+                                                                      3 o /t> / 8 2
+
+                                                                     ot r / s / s j               ACe    <*
+
+                                                                     0?o/i / « V                      ^/C“      J S
+
+                                                                            £/ g f                    /< P
+
+                                                                                                      t> F
+                                                                          ?/<**
+                                                             /3 - / * / - > / f i 7                   7. /3 A 4 v
+                                                                                                      i'.c;
+
+
+    /77?         (fLo^r             c^c^X
+
+
+
+         _rft ■
+                       1^ 6 /                  3 C t-^a a o l    ,
+H-3AS*
+

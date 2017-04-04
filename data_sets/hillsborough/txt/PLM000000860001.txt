@@ -1,0 +1,968 @@
+HSE SHEFFIELD                   TEL N o .0742 755792               25,07,89      16=05    P.01
+
+
+
+     O'
+
+
+
+                                                               HEALTH AMD SAFETY EXECUTIVE
+                                                               BROAD LANE
+                                                               SHEFFIELD
+                                                               S3 7HQ
+                                                                 TEL;   0742 7681*1
+                                                                 PAX:   07*2 755792
+
+          TOl                                 ..............
+          SECTION:
+
+          FROM:
+          SECTION:                                     W :....      PHONE EXT:
+
+          NUMBER OF PAGES TO FOLLOW:   ..M\
+
+
+
+2 6-87-62         TUE   14:57             0742755792                             P . 01
+HSE    IELD                    TEL No .0742 755792               25,07,89    16:05   P.02
+
+
+
+                                                                              i
+      Professor L Maunder
+      CALCULATIONS OF..COLLAPSE.LOAD OF CARRIER 124A BY PROFESSOR R SMITH.
+      DEPARTMENT OF MECHANICAL ENGINEERING. .UNIVERSITY OF SHEFFIELD
+      Dr Nicholson has asked me to send yo u this facsimile transmission of the draft
+      report prepared by Professor R Smith on the. collapse load of Barrier 124A.
+      Please accept my apologies for the Quality of the diagrams in the report, but
+      the originals were not very clear.
+      As you will see from the contents of the report, particularly Fig 2, Professor
+      Smith assumed that the tube formir]|g the upper rail of Barrier 124A had a
+      uniform wall thickness and considered thicknesses of 4 mm, 2 mm and 1 mm.
+      RLSD has calculated the Plastic Section Modulus of the tube each end of spans
+      2/3 and 3/4 where failure occurred. The results of RLSD's calculations are
+      shown on the four sheets following Professor Smith’s report. Numerical
+      integration, assisted by computerised calculation of the areas associated with
+      each 2 mm elemental strip, was u s e d .to determine each Plastic Section Modulus.
+      The basis of our calculations was the cross~section shown on each sheet, this
+      being re-constructed from the measurements made at each end of the tubes which
+      had formed spans 2/3 and 3/4. This work was undertaken whilst Professor Smith
+      was making his calculations of collapse load.
+      RLSD then calculated a uniform wall thickness which corresponded tc. to each
+      Plastic Section Modulus using 60 fflm for the external diameter of tx»e tube, as
+      assumed by Professor Smith. The results of RLS D ’s calculations are summarised
+      below.
+      Identification        Plastic Section           Wall t>-'ckness
+                            Modulus of corroded      of 60         'D
+                            non-uniform tuije        uni fori;, >.ube
+                            nun                      mm
+      Tube 2/3 End 2        5007                     1.46
+      Tube 2/3 End 3        8279                     2.65
+      Tube 3/4 End 3        8504                     2.58
+      Tube 3/4 End 4        8269                     2.50
+
+      I have calculated the uniformly distributed load to cause plastic collapse of
+      span 3/4 (with clamped ends} as being 10.91 kN/m, using the expression in
+      Section 6 of Professor Smith’s rejsort, with the appropriate Plastic Section
+      Moduli for Ma and Me from the Table above. I calculated the collapse load to
+      be 8.78 kN/m if span 3/4 is simply supported at end 4.
+       Almost all of Span 3/4 of Barrier 124A can be subjected to a crowd depth uf
+       7 m, or 18 steps of the terrace. 1 used a formula suggested by my colleague
+      _ _ _ _ _ _ , and subsequently developed by Professor Smith to that shown in
+       Appendix 2 of his report, to calculate the packing densities to cause span 3/4
+       of Barrier 124A to collapse, I used the parameters adopted by Professor Smith
+       and calculated that 8.2 persons/sq m on 18 steps behind barrier 124A would
+
+
+                                            -1-
+                              TEL N o .0742 755792            25,07,89    16=06   P . 03
+HSE SHEFFIELD
+
+                                                                          ^       2.
+        cause span 3/4 to collapse if both ends were clamped. If end 4 were simply
+        supported then a packing density of approximately 6.6 persons/sq m on 18 steps
+        behind Barrier 124A would cause span 3/4 to collapse. HSE s estimates of the
+        packing density behind barrier 124A were 8.1 persons/sq m (2nd row)and
+        7.6 persons/sq m (3rd row].
+
+
+
+
+         Mechanical Engineering Section
+         25/07/89
+
+
+
+
+                                             -2-
+HSE SHEFFIELD     TEL Mo.0742 755792               25,07,89   16=07   P.04
+
+
+
+
+                    COLLAPSE LOAD CALCULATIONS
+                        FOR BARRIER 124A AT
+                       HILLSBOROUGH STADIUM
+
+
+                                 by
+
+
+                         Professor R Smith
+
+                Department of Mechanical ESxrineeruig
+                      University of Sheffield
+HSE SHEFFIELD                    TEL No .0742 755792                   25,07,89     16=07    P.05
+
+
+
+
+     n o n APSE m a n CAIgQIATTONS FOR RAPR-nre 124A AT HIIXSBOROTSi STADIUM
+
+
+
+
+     Collapse loads have been calculated for the spans 2/3 and 3/4 of hairier 12 4A
+     which^Ss broken down during the Hillsborough Stadium incident. If the
+     barriers had been of the original thickness at the supports, loads of 2.2 and
+     1.6 times the test load of 6kN/m would have been needed to collapse the barrier
+     at spans 2/3 and 3/4 respectively. If the wall thickness had been reduced to
+     Uttcti, these ratios fall to 1.4 and 1.25 x test load.
+
+      These figures have been compared with barrier loads generated from a 'leaning
+      crowd' irtodel. In Unm thick condition for a crowd of measured density -8/m ,
+      the barrier would have been broken dcwn by a crcwd of a p p r o x i m a t e l y 5.8m depth
+      behind the barrier. A crowd of sate 7m depth existed directly behind span 3/4.
+      I f t h e crowd density of 5.4/m2 is assumed, the same tube would have required
+      about 7.5m of crtswd to break it dcwn. It's survival would have been marginal.
+
+
+
+
+                                                                    j-4-
+
+                                                 Z .2 u S           [.(D6\T
+
+                                                 1
+HSE SHEF F I ELD                     TEL N o . 0 7 4 2   755792        25,07,89    16 =0 8   P . 06
+
+
+  ,        ■                                         '                       " R S 3
+
+
+       X       Introduction
+               During the incident which occurred at Hillsborough Stadium on
+               15 April 1989, two bays of barrier 124A, Fig 1, were broken dran. This
+               r e p S a t W s to calculate collapse loads for the barrier and to conpare
+               these loads with the pressures likely to have been generated by the crov. .
+
+               Examination and irechanical testing of the broken b a r r i e r by staff of the
+               Health and Safety Executive ( H S E ) W , revealed that the horizontal tube
+               had been manufactured from wrought iron and was probably over sixty y
+               old   The upriqht supports were mad© frcsn mild steel. The tube was
+               attachS to^the upripits by straps, underneath which considerable corrosion
+               of the tube had occurred.
+
+       2       Material properties
+               Tensile tests from 2 specimens taken frcsn the tube gave average tensile
+               strength of 366MPa, 0.2% proof stresses of 259MPa and an estimated elastic
+               limit of l50MPa. For calculations of plastic collapse loads a flow stress,
+               calculated as a mean of the tensile strength and 0.2% proof stress, equal
+               to 312.5MPa was used. A value of Youngs Modulus of 190GPa was assumed.
+
+        3      fi&ction properties of the barrier tubs
+
+               Second moments of a*sa, I for a tube of outside diameter D and wall
+               thickness, t were calculated from the formula.
+
+                          i - * *    (i - (i    -
+
+
+                Fully plastic moments were calculated as a product of the flow stress fly
+                and the plastic modulus?
+                                                                                   0   — — j *£ 'I
+                          p = c3 ^ i -              y                             5 "6©
+
+
+                Values of these functions are calculated in Appendix 1. pie original tube
+                had an outside diameter of~6pityn and an approximate wall thickness of 4mm.
+
+           4    F.lafltic deflections under test loading
+
+                The elastic deflection at the centre of a beam of length L, built    at
+                both ends and subjected to a uniformly distributed load w, is given by
+                wLy384EI.v^ If the ends are simply supported, the deflection is
+                increaseed by a factor of 5.r
+                For a span between supports (L) of 2.2m, subjected to the test loading of
+                6kN/m, a figure prescribed by the "Green Guide” ' t a central deflection
+                of 6.9mm is obtained. If the ends are free, the deflection increases to
+                34. Siroti. The deflection observed from actual test records correspond more
+                closely to the fixed end condition. In the calculation which follows, the
+                central span (2/3) of barrier 124A has been treated as having fixed ends.
+                The outer span (3/4), probably nearly approximate to this, but for
+                comparison, calculations have been repeated treating end 4 as simply
+                supported.
+HSE SHEFFIELD                  TEL No.0742 755792                   25,07,89     16 =08   P.07
+
+
+
+
+     5   Yielding under test conditions
+
+         For the span 2/3, the clairping m£8n£rits      WL^/12. First yield will
+         i-Y-y-HTT when these moments equal 2-CyI/D. If the estimated elastic limit of
+         the material (150MPa) is assumed, then first yield corresponds to 3. 4kN/n\,
+         or just over half of the test load. 0.2% proof stress gives a first yield
+         load of 5.9kN/m. Subsequent loading up to test loads of 6kN/iii will be
+         elastic because of the strain hardening capabilities of the material.
+
+     6   calculations of plastic collapse loads
+
+         Hie wall thickness of the tube under the straps at 2, 3 and 4 was found to
+         be much reduced by corrosion. Hie reduction in thickness was not uniform
+         round the circumference; calculations of the exact fully plastic moments of
+         the as-measured sections are continuing. Hie following calculations are
+         based on the plastic moments of the original tube (wall thickness 4nm) i and
+         values for uniformly reduced wall thickness of 2 and num. Using the
+         measured flow stress (312.5MPa), and Appendix 1, the following fully
+         plastic moments were obtained (OP constant 60mm):
+
+
+
+
+ •          t, tube wall
+               thickness
+                            \ Mp (MNm)               Ratio
+
+
+
+                4mm           3.98 X 10”3
+
+                2mm           2.11 X 10“3       Ifo “ 0.53
+                                                m4
+
+                lmm           1.07 X 10’3       U, - 0.27
+                                                M4
+
+
+         where suffixes l, 2 and 4 refer to 1, 2 and 4mm wall thickness.
+
+         Ihe general case of plastic collapse for a beam of length L is shewn belcw:
+
+
+
+
+                                            L
+
+         where M a and   are the moments at the s u p p o r t s and Mg is the mcxnent
+         at the centre of the beam. Hie collapse load is
+                                           TEL N o .0742 755792                          25.07.89        16 =09       P.08
+HSE SHEFFIELD
+
+
+
+
+            The standard c a s e we tate is for the original team (t -
+            S t h ^ T i e span 2/3 of terrier 124A. Derate, the collapse load for
+            this case as w4, and noting MA - Me »» % - M4
+
+                               w4 - I6g4    13.2 KN/m
+                                     L
+                Now denoting the irotents corresponding to the rejuoed i       °                                  f
+                2 a n d U m as Mj and   respectively ai^ n o t i ^ ^ t ^ ^     M^at
+                the centre is not reduced by corrosion (le always equal to W4), the
+                following table results:
+
+
+                                                                                                                      r *
+
+
+
+
+                  c* Cfi   Nn-,
+                                                                                                       4,H *      0 4 %
+                                                              tik    9   p ‘ ~ r?        ic   9 ' *5
+                                             <Jt s /o* £      *,>v
+      & ■
+
+                                                              tx     3              'j*V =    7 -T     *27 =*     0 ,JP7
+      fr    <         + * 4 * * 4 ,*         + it   »         *V
+
+                 All collapse loads in KN/m. ^ The hinge is                      centr&*
+                 Accurate calculation gives WAF - 0.73, a negligible difference.
+                                            'To
+
+                 AS multiples of the test load of 6 k N M the above table reduces to:
+
+
+
+                                           Built-in (Span 2/3)                One end simply supported
+                                                                                     (Span 3/4)
+
+
+                                                        2.2                                  1.6
+                       t “ 4mm
+                                                        1.7                                  1.4
+                       t   —   2mm
+                                                        1.4                                  1.25
+                       t “ imm
+
+
+
+                 Tests performed by Dr Eastwood on a similar, but not identical barrier/
+                 2 5 ? ^ S S e n t , stowed th a t a load o f SKH* ( t e s t load * 1. 5) «
+                 s u ffic ie n t t o cause very large permanent d e f a m a t io n o f t h e ttibe^ The
+                  calculated collapse loads therefore appear to be realistic values.
+
+                  ran lanse inode
+                  If the shear strength is assumed to be 75% of the tensilesteeryh^then^t0
+                  directly shear a irn wall thickness of tube, a load of 48kN/m ^required^
+                  This is many tines higher than the plastic collapse load of B.4W*/m. This
+HSE SHEFFIELD                    TEL N o .0742 755792               25,07,89   16=10    P.09
+
+
+
+
+           evidence, together with the bent shape of the tube after the incident,
+           supports the view that barrier failure occured by plastic collapse of the
+           tube. If prior collapse of the legs had taken place, the tube wuld not
+           have been bent in the manner which was observed.
+
+     8     Estimates of c r w d for™** wr-Hna on harriers
+
+           A irtodel of the build up of crwd pressure due to spectators leaning forward
+           to obtain a better view has been develcped, see Appendix 2. Figure 2 shows
+           the barrier forces generated by crcwds of densities 10, 8 and 5.4/m on a
+           terrace of step height and width matching those of the site of the
+           incident. The test load of 6kN/m corresponds to a crowd of approximate
+           depth 6.2m behind a barrier if the density is 5.4/irf. This reduces to a
+           crowd of depth of 4.2m if the density increases to 10/itr. Density
+           measurements taken from photographs have given a density of 8.11m behind
+           barrier 124A and 7.5/m2 behind beirrifcr 149.
+
+           Bracketed values for the collapse loads of tubes of 4, 2 and imm have been
+           added. The upper value corresponds to both ends clamped (Span 2/3), the
+           lower value to one end clamped,./$he other sinply supported (Span 3/4). For
+           a density of 8/m , the approsdmate'tolljjp3® loads for 4, 2 and 1mm tubes
+           correspond to 7.2, 6.4 and 5.8m of crowd. Since the Span 3/4 of barrier
+           124A was unprotected by barrier 136, a crcwd of 7m was able to exert
+           pressure on this part of the barrier. Given the approximation of the crowd
+           loading model, these figures adequately explain the collapse of the
+           barrier. If the crcwd had been restricted to 5.4/m , then the depths
+           needed to collapse the 2 and 1mm thick tubes are 8 and 7.5m, which are just
+           in excess of the depths whidl existed and indicate survival of the barrier
+           perhaps by a very small margin.
+
+           References
+
+           (1)     The Hillsborough Incident 15 April 1989: An Investigation into
+                   Various Technical Aspects prepared for the Court of Inquiry.
+                   C E Nicholson, HSE Report No IF/I/ME/MV89/1, June 1989.
+           (2 )    Guide to Safety at Sports Orcunds, HMSO, 1986.
+
+
+
+                                             *•
+      R A Smith
+      4 July 1989
+
+
+
+
+26-07-62     TUE        15:03              0742   755792                       P . 09
+                                                              to
+                                                              m
+                                                              co
+                                                              x
+                                                              m
+        /o s
+                                                              m
+        i io .
+                                                              o
+         &s*
+
+
+
+
+«                                                             m
+
+                                                              o
+
+1
+
+                                                              -sj
+                                                              LH
+                                                              LH
+                                                              -sj
+t                                                             KO
+                                                              ro
+
+i
+
+    s
+
+
+                                                              o
+                                                              -sj
+    3
+                                                              00
+                                                              KO
+
+
+
+
+                                                              o
+
+    o
+                               to                        Zo
+                 a/           o f tsC*j-i                     o
+
+
+
+                  C^r^-J-^C                 I   ~j   J
+   HSE SHEFFIELD                                                 TEL No .0742 755792                                     25,07,89      16=11          P.11
+
+
+
+                                                                                                                                                                 p-ii1
+                                                                                                                                                                     ;
+
+                                                                                                                                                                 -•r-i
+                                                                                                                                                                 “rt*d,
+           i s c n o n p r c p - i ' - i U s of t ^ b e s
+                                                                                                                                                                 ■i'lS
+
+
+           i-Morent of lnsrtis
+           f - ha; t i c hoduiu?
+           [|:U! if tuts
+           t= vili thicknass
+
+           t/>?          <p . Olfc-i    {'.*2m        0.6:60 M 4 O 0 M 5 M             <1,0600 M S M   M 9 0 O O,!00iJ
+                                                                                                                                                                 Sti
+           i/D'ji        o,mi           t>.0&7i mm»s             0 ,013$   Mies M197 M**7 . M26S ®.e2ve
+           P/0‘ 3        y . vose       £i,eiS2       M2£2       e . M f i ? 6,0452    0.0531 6.9679   M 7 4 t 6,0813
+
+
+
+
+                                                                                                                         iA - >   n r /r lh *
+                                                                                                                                               ■1..
+
+
+
+
+                                                       e*o2-
+
+
+
+
+                                                               ’li:1                   i lli°
+
+
+
+
+                                                                                 - .   8
+                                                                                       -
+
+
+
+           .3 >     - °.
+
+                                                ....
+
+            ^ =         ft*       f)%
+                                                                                                               2- /
+           -/S                                 84
+           fa       z    ft-t            +A           + ■       * * s                                                               //'<«£>/
+
+
+
+
+26-07-62          TUE                  15:04                                0742           7557 9 2                                P. 1 1
+                                                                                                                                                             1
+ SE SHEFFIELD                   TEL No. 0742 75579.
+
+
+
+     u
+
+
+
+                                                              0EA.LTH AND SAFETY EXECUTIVE
+                                                              BROAD LANE
+                                                              SHEFFIELD
+                                                              S3 7HQ
+
+                                                              TBt:   0742 768141
+
+                                                              FAX:   0742 755792
+
+
+                 frofessor                    i..........
+           TO
+
+           SECTION
+
+
+           FROM:
+           8ECTION:^?^0l^.^^iW%                                  PHOliC EXT:
+
+
+           NUMBER OF PAGES TO FOLLOW:   3 .
+
+
+
+
+                                                                                        of Barrier 1
+                                                                                        Fig. 1 - Reconstruction
+
+
+
+
+            UJ CO
+            m ag
+            LU CM
+            O CO
+            £ Z
+            -J
+
+
+
+
+                                                                       I—
+
+
+
+
+26-07-62         TUE   15:21              0742     7557 9 2                    P .0 1
+SHEFFIELD                         TEL No .0742 755792                                25,07,89      16=29      P.O
+
+
+                                                                                                 " R S I O
+
+
+ APPENDIX 2
+
+
+ » '1«.anira» r-^-rl mndel to gfft-llTflte                                       W    a
+
+ Consider a p « c n on the
+ assumed to be up on its toes, iiwliiw    incident in the front of the
+ v*icH would be adopted to cbtaln       “ 3™ , * provided by the person in
+ crc-Bd. The spectator » leamroftrwartona J W g P          t ^   to a
+                                      S . ’S     S   M       S   T   ^   t   »   *. « ™ .
+ height h.
+
+
+
+                         1■11111!.<t:r
+                                                      P«-.
+
+
+                                                                                      H    ...c ^ .n
+
+                                                                                          H'
+
+
+
+
+                                                 ^       O
+                                  L
+                                  n      •6---                   ___ ^
+                                                     U>
+
+                                                                                                  +-UrCr- O
+              id*                          ,
+
+
+
+                        /®        H'                 =
+                                               ft
+HSE SHEFFIELD                 TEL No.0742 755792                    25,07,39   16 =12   P.12
+
+                                                                               " R S l I
+
+
+     For the person immediately behind the barrier, if the barrier is at the push
+     height, then clearly Pa would be transmitted to the barrier. In general the_
+     barrier is lower than this, and the push is probably transmitted to the barrier
+     by berriing at mid-height for the few nows of people just behind the barrier.
+     If this were not so, the person at the barrier would be subjected to a large
+     turning moment. The exact details of this force feed to barrier height are not
+     yet clear, but for this purpose it is assumed that Pn , where n is the
+     number of steps behind the barrier in question.
+
+     If the step width is w and the crowd density N/m2, then we obtain the
+     force/unit length of the barrier as:
+
+                   F/unit length - N w mar H ain 6 /   (   l + _h
+
+
+
+     v.tiich is the expression evaluated on Fig 2. A 'lean7 angle of 106 has been
+     estimated in the calculation? other parameters are declared on the Figure.
+                                                                                                                                       o>
+                                                                                                                                       i'i
+        BARRIER No 124A TUB l 2/3 END No 2
+                                                                                                                                       :i:
+
+
+
+
+                                                                                                                                     EFFIELD
+                                                RIGHT HAND SIDE
+
+                                                 No       AREA ( tJ     L   Cm ]    AREA (U     At+AbxL         R/TOTAL
+                       TDC                         I       1 .779        □ .325      2.559       5.442               -
+                             N                                                                  22.739          24.381
+                                                  2        S .735         1.55       a . 046
+                                                  3        5.183        . 3.55       7.994.     51.381          75.SES
+                                                  4        5.531          S .55      7.518      79.942         15S.504
+                                                  5        5.741          7.55       7.378      107.964        263-458
+                                                  6        5.300          9.55       7 . ID9    135.187        398.655
+                                                  7        7 .2 0 3      1 1 .5 5    6 . SOI    163.147        561.802
+
+
+
+
+                                                                                                                                     TEL
+                                                  8        7 .S 45      13.65        5.352      191.19S        752.997
+                                                  9        B .H 78      15.65        S .917     222.152        975.149
+                                                  10       9. 149       17.65        S .825     2 6 4 .2 9 1   1 2 3 9 .4 4 0
+
+
+
+
+                                                                                                                                     M o . 0742
+                                                  n        1 1 .8 1 5   19-65        0 .0 8 0   390.937        1630.377
+                                                  la       27. s a      2 1 .6 5        -       5 9 0 .5 1 2   2 2 2 0 .3 9 9
+
+                                                                                                  TOTAL        2320.903
+
+PITCH
+
+
+
+
+                                                                                                                                     755792
+SIDE                                            LEFT HAM) SIDE
+
+                                                 No       AREA (U       L (m J      AREA th]    At+AbxL        H/TOTAL
+                                                   1        3 . sea     EL675        S.SS9       5. 140              -
+
+                                                  2         5. OSS       2.35        8.469      31 .78]         37.951
+                                                  3         4.812        4.35        8.567      58.534          95.S55
+                                                  4         4.602        6.35        8.545      8 4 . !2S       ISO.EBO
+                                                  5         4.4S6        8.3 5       8.247      ios.07a         286.750
+                                                  5         4.33B        10.35       7.565      324.231         410.9B1
+                                                  7         4.322        12.35       7.095      J41.000         551.38]
+                                                  8        '4.298        14.35       6.471      154.535         706.516
+
+
+
+
+                                                                                                                                     25,07,89
+                                                  9         4.23]        1G.3S       6.013      167.489        874.006
+                                                  !0        4.27]        18.35       5.348      i76.509        1050.315
+                                                  11        4.242       20.35        4.586      179.550        1230.154
+                                                  EH        4.313       22.35        3.795      181,214        14j 1,378
+                                                  13        4.459       24.35        2.850      177.974        1589.352
+                                                  L   A     4.704       2E.35        ] .705     ]GB.877        1758.229
+                                                 IS         E. 140      28.35        1.256      181.327        1939.SS6
+
+
+
+
+                                                                                                                                     16=12
+                                                 15         5.030       30.35        ! . 409    228.444        2158.OGO
+                                                 £7         9. 345      32.35        4.386      444.198        2512.198
+                                                 !8         5. isa      33.555                  173.592        2785.79L
+  TOTAL PLASTIC SECTION MODULUS = 5006.78 mm3                                                     TOTAL        S7B5.79J
+
+
+                                                                                                                                       o\
+
+
+                                                                                                                                DU
+                                                                                                                                           HSE
+       BARRIER No 1E4A TUBE 2/3 END No 3
+
+
+
+
+                                                                                                                                           SHEFFIELD
+                                                  RIGHT HAND SIDE
+
+                                                   Ho    AREA (t)   L (no)     AREA tb)       At+AbxL        R/TOTAL
+                        TDC                         1     3.768     0.72S       3.942          5.590              -
+                   N                                a     5.234     e .4 s      5.110         25.343          30.933
+                                                    3     S-462      4.45       4.855         45.915          75.048
+0.58                                                4     E.573      6.45       4.G23         6S.75B         142-EOE
+                                                    S     5.540      B.4S       4.434         84.280         225.885
+                                                    G     S. 474    ID. 45      4.279         101.915        328-805
+                                                    7     S. 488    12.45       4. ie9        120-230        449.034
+                                                    a     S'. £31   1 4 .4 5    4 .D 8 7      138.980        s e a .014
+
+
+
+
+                                                                                                                                           TEL
+                                                    g     S. GIB    1 6 . 4S    4 . JOG       159.9G0        747.974
+                                                    ID    S. 70+    1 8 .4 5    4 . 130       181.437        929.411
+                                                    U     5.9E0     2 0 . 4S    4.385         2 0 a .ifH 3   1137.595
+
+
+
+
+                                                                                                                                           N o . 0742
+                                                          Q.ESS     2 2 .4S     4 .4 1 5      2 8 3 .8 1 3   1 4 2 1 .5 0 0
+                                                    13    8.5S3     2 4 .4 5    4.785         325.139        1747.E4G
+                                                    14    7 . 174   2 5 .4 5    5-323         3 3 0 .5 4 8   2078-192
+                                                    15   ,8.189     2 8 -4 S    5.209         4 0 9 . CE3    2467.8J S
+                                          PITCH     IB    lO.Dsa    30-45       7.948         5 4 8 .5 1 8   3 0 3 5 -4 3 2
+                                          SICE
+
+
+
+
+                                                                                                                                           755792
+                                                    17    15.BBS    32.45       1 4 .0 0 8   . 952.889       3999.321
+                                                    IB    SB.033    3+-4S           -          955.737       496S.058
+
+                                                                                                TOTAL        49&5.0SB
+
+
+                                                  LEFT HAND SIDE
+
+                                                   No    AREA (I)   L tnnJ     AREA (b3       At.*AbxL       R/TOTAL
+
+                                                    i      3.434    0.275        ] .553         0.82]            -
+                                                    2     5.203      1.55       S. 900         17.230         IB.031
+                                                    3     S .271    3.55        G.39G          4 ] . 4 JB     S9.449
+
+
+
+
+                                                                                                                                           25,07,89
+                                                    4     5.337     S. 55       7.03 3         5B.S3J         127.980
+                          i . +s                    S     5.490     7. 55       7.757         300.337        228.297
+                                                    G     5.827     9.55        8.5S3         338.380        355.558          1
+                    A                               7     S. 2GB    13 .55      9.857         38S.553        552.208
+                                                    a     7.018     13. 55      11.72B        2 5 4 . ooe    BOB.217
+                                                    9     8.257     15.SS       ]4.290        350.751        1155.978
+                                                                                )7.250        492.330        1649.308
+                                                                                                                                  jQ
+                                                    JO    ]0.735    17.5S
+                                                                                                                                  &
+
+
+
+
+                                                                                                                                           16: 13
+                                                    n     30.BBS    S3.55       2S.58G        871.353        2520-871
+                                                    12    33.597    23 .55      20.92]        743.883        3254.534
+                                                    13    2.15B     22.89           -          48.955        3333-499
+
+  TOTAL PLASTIC SECTION MODULUS = 8278.557 mm3                                                  TOTAL        3313.499
+
+
+
+
+                                                                                                                                           P . 14
+                                                                                                                              □W SfcFC^M
+                                                                                                                                         HSE
+      BARRIER No 1E4A TUBE 3/4 EuJ No 3
+
+
+
+
+                                                                                                                                         SHEFFIELD
+                                                        'U
+
+
+
+                                                        RIGHT HAND SIDE
+
+                          TDC                            Ho      AREA CU     L l<*»)     AREA (bl    At+AbxL      R/TDTAL
+
+                                                             I    4.913       □ .as       7.818       10.621         -
+
+                             N                               2    s.eie       2.70        9.339       40.924      51.745
+                                                             3    S. 302      4.70        9.535       72. ££4     124.299
+               1 .7 7 6          0 .3
+                                                             4    El. 068     6.70        9.B91      105.533      229.034
+                                                             S    6.251       8.70        3.982      141.227      371.111
+                                                             8    G.S13       10.70       J 0.325    1BO.209      551.321
+                                                             7    G.742       12.70       jo.eeg     221.374      772.895
+                                                         e        7.365       14.70       ] i .832   27i.3D6      1044.GDI
+                                                                             1G.70       31 .639     327.420      1375.021
+
+
+
+
+                                                                                                                                         TEL
+                                                         9        7.967
+                                                         10       6.921      IB.70       12.919      400.408      1780.429
+                                                         11       10.95S     20.70       14.329      523.379      2303.BOB
+
+
+
+
+                                                                                                                                         No.0742
+                                                         IS       17.670     ee.70       20.SG2      BEJ.238      3165.046
+                                                         13       E9.E74     34.70          -        730.478      3895.523
+                                                                                                      TCTTM.      388S.S23
+
+SPECTATOR                                       PITCH
+                                                 SIDE
+
+
+
+
+                                                                                                                                         755792
+   SIDE                                                 LEFT HttG SICE
+
+                                                         No      fifEA It)   L Coal      AREA Cbl    AL+AbxL      R/TOTAL
+
+                                                           1      o.aas       D. 15       1 .370      0 .340
+                                                          2       E.764        1.30       9 .0 44     19.250        19.950
+                                                          3       5 .8 4 8    3 .3 0      0 .9 5 0   4 8 .8 3 3    68.424
+                                                          4       S . 914     5 .3 0      a. 765     7 7 .7 ^ 9    146.222
+                                                          C.      5.991       7 .3 0      a. 733     107.485      253.707
+                                                          6       S. 1S7       9 .3 0     0 .6 6 9   138.161      391-068
+                                                        j 7       6 .3 0 9    11 .30      S. 534     167.726      559.594
+                                                          B‘      G.570       13.30       a. 298     197.744       757.339
+
+
+
+
+                                                                                                                                         25,07,89
+                                                          9       6.071       15.30       7 .3 4 0   225.079      582.415
+                                    .7                    1C      7 . 133     17.30       7 .3 1 5   249.950      1232.367
+                                                          11      7 .6 0 2    19.30       6 .9 4 3   280.713      1513.0B6
+                             A                            IS      fl. 045     21 .30      6 .5 7 6   311.427      1B24.513
+
+
+
+
+                                                                                                                                  '
+                                                          13      9 .0 3 3    2 3 .3 0    6 .2 5 5   3 5 6 .21D   2160.723
+
+
+
+
+                                                                                                                                 RiJib
+                                                          14      9 .9 1 7    2 5 .3 0    6.231      40B.544      2SB9.26B
+                                                          IS      ji.s e e    2 7 .3 0    6 .6 6 5   5 08.626     3097.834
+
+
+
+
+                                                                                                                                         16:14
+                                                          IE      16.029      23.3D       9 .6 1 0   751 .223     3349.117
+                                                          17      24.3 5 9   3 i .tea         -      7S9.7G8      46C-a.e2S
+                                                                                                      TOTAL       4G08.B25
+
+
+
+
+                                                                                                                                 ^
+       TOTAL PLASTIC SECTION MODULUS = SS04.34S mm3
+
+                                                                                                                                           i—^
+                                                                                                                                           <J1
+
+                                                                                                                              □w ifdJI
+                                                                                                                                  -’’T—|
+                                                                                                                                                      in
+                                                                                                                                                      co
+                                                                                                                                                      m
+                                                                                                                                                      co
+        BARRIER No 124A TUBE 3/4 END No 4                                                                                                             m
+                                                                                                                                                      m
+
+                                                                                                                                                      m
+                                                                                                                                                      i-
+                                                        RIGHT HAJND SIDE                                                                              o
+                         TDC                                                                    AREA (b)      At+AbxL          R/T0TAL
+                                                         No      AREA a)         L     [tin]
+                         N                                l         0 .9 3 7         a. 19       1.SSI          0 .4 7 3            -
+                                                                                     1 .3 3      0 .3 2 1      16.3SB           18 .S 3 !
+                                                          2         4.33a
+                1 .BE?                                                               3 .3 B      0 .5 2 2      45.B73          8 4 .7 0 4
+                                                          3         S. 050
+                                                                                     5 .3 0      3 .7 7 8      7 5 .0 4 0      1 3 9 .7 4 4
+                                                          4         S. 172
+                                                                                     7 .3 fl     9.037         1 0 5 .5 1 5    H4S.360
+                                                          5         5.574
+                                                                                     9 .3 B      9.319         1 3 7 .3 3 3    3B3.292
+                                                          G         s .3 a s
+                                                                                     11-30       9 .6 2 6      1 5 0 .4 1 3    S 5 1 .7 0 5
+                                                          7         5 -1 7 3
+                                                                                     13 -33      1 0 .0 2 2    1 9 9 .3 3 5    7 S 1 .0 4 0
+                                                          B         +-B76
+                                                          9         4 .S 3 9         IS . 3 3    ID. 240      227.424          9 7 0 -4 6 +           m
+                                                                                     1 7 .3B     10 .0 5 5    2 5 3 . JS1      1 2 4 1 .5 1 5
+                                                          10        4 .2 B S
+                                                                                     1 9 .3 8    J 1 .4 8 4   3 0 1 -6S 0      1S43.2E5
+                                                          11        4 . 101
+                                                                                     2 1 .3 0    1 5 .1 3 1   3 4 4 . 32S      1 8 0 7 .S9Q
+                                                          12        3 .9 2 4
+                                                                                     2 3 .3 0    13.304        402.791         2 2 9 0 .3 3 0         o
+                                                          13        3.924
+                                                                                     S S .3 0    1 4 .9 3 9     4 8 S .8 + 9   2 7 7 6 .2 3 0
+                                                          14        4.SD 4                                                                            -t*
+                                                                                     0 7 .3 0    I B . 001    - 6 3 9 .7 0 S   3 + IS .9 3 G          ro
+                                                          IS        £ .3 8 3
+                                            SPECTATOR     IS       27.3513           29.3B        ■ -          0D3.S43         4219.479
+PITCH                                          SID E
+                                                                                                                                                      -o
+SIDE      r_                                                                                                     TOTAL         4219.479               cn
+                                                                                                                                                      cn
+                                                                                                                                                      -o
+                                                        le f t h a j c s i d e                                                                        ro
+
+                                                                  AREA ft!       L (»■)         AREA tb)       At+AbxL          R/TOTAL
+                                                          No
+                                                           l        3.960             0.01        8.532          0 .49 8            -
+                                                                    4.883             2 .5 2      9.3SS         34 .££>5         43.164
+                                                           2
+                                                                                      4.62        a . 7BB       62.610           105.774
+                                                           3        + .784
+                                                                                      6.82        9. !3l        51.052           197.626
+                                                           4        4.7+4
+                                                           c        4'. 746           6 .6 2      9 .723        J24-74D         32d.368               ro
+                                                                                                  10.241        ]59.673         431.D4C               cn
+                                                           5         +. 7G            10.62
+                                                                                      12.62       10.792        195.332         676.372               o
+                                                           7        4 .5B&
+                                                                    4.899             14.62       11.612        23S.467         914.339
+                         A                                 e
+                                                           9        4 .716            16.62       J2.SS2        2B5.994         12C1.833              oo
+                                                                                                  13.940        344.880         1548.713              i£>
+                                                           10
+                                                           ]j
+                                                                    4.SS2
+                                                                     4 .532
+                                                                                      iB.G2
+                                                                                      20.62
+                                                                                      22.62
+                                                                                                  15.832
+                                                                                                  19.324
+                                                                                                                419.906
+                                                                                                                549.070
+                                                                                                                                1968.819
+                                                                                                                                251&-4B9
+                                                                                                                                         I      \ ^
+                                                                                                                                                \ r
+                                                           12        4 .9SS
+                                                                    17.407            24.82       22. a n       992.21 I        3SUS.695
+                                                           13
+                                                                    20.4B3            26-40           -         S40.75L         4049.+50
+                                                           14
+                                                                                                                                                      ■fc .
+
+                                                  3                                                               TOTAL         4049.450         j\
+    TOTAL PLASTIC SECTION MODULUS = 0268.929 mm                                                                                                       ~o
+

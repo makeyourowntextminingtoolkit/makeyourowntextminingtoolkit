@@ -1,0 +1,113 @@
+NOTES FOR THE EASTWOOD EXAMINATION *
+
+1.   Leppinqs Lane Turnstiles
+
+     How and by whom was the ratio occupancy/number of turnstiles
+     in the groups A-G and 1-16 considered in the 1985
+     reconstruction?
+
+     (Note: there was considerable confusion amongst the parties
+     concerned, as recorded in Eastwood's files. Final cost
+     appears to have been the decisive factor).
+
+2.   Radial Fences
+
+     History of installation?
+     (See my summary).
+
+3.   Capacity of Pens
+
+     How were the current figures reached?   Are they believe to
+     correspond to the Green Guide?
+
+     (Note: See HSE Report, which arrives at lower figures, even
+     if the crush barriers are assumed to satisfy the Green
+     Guide, which they do not).
+
+4.   Crowd Densities
+
+     See the HSE Report, which, based on counting heads, arrives
+     at figures well in excess of the Green Guide.
+
+5.   Tunnel Ramp
+
+     The slope reaches 1/6 at the terrace end. The Eastwood file
+     offers a lengthy justification - what actually happened?
+
+6.   Crush Barriers
+
+     This is the most difficult technical area, bedeviled by the
+     inadequacies of the Green Guide.
+
+     i.    The heights fall short of the minimum requirement of
+           1.02m, but this may not be a major issue.
+
+     ii.   The front-to-back spacing in Pens 3, 4 falls mainly
+           within requirements, but the gaps expose certain
+           barriers severely (notably the end span of 124A, the
+           second row barrier in Pen 3 next to the central fence,
+           the front-row barrier passing through the central
+           fence, and others in Pen 4). Was this considered?
+
+
+     Many of these questions relate to joint decisions (Club,
+     police, City...) as well as Eastwood and Partners.
+     Eastwood's reports have resented the technical results
+     openly.
+       iii. It has not been possible to establish the procedures
+            adopted for strength testing - nor in the Green Guide
+            sufficiently definitive.   (The account offered by
+            another company, SG5, of their own procedures for
+            testing is given in some detail.   It has its own
+            peculiarities.) The most important issues in the
+            Eastwood tests are:
+
+       (a)   were all spans of each barrier loaded simultaneously or
+             at least two at a time, with overlaps    (the most
+             reasonable interpretation of the Green Guide)?
+
+       (b)   was the required recovery of deflection under load
+             interpreted as applying to a single cycle of loading,
+             or all three successive cycles taken together (the
+             format could lead to dangerously large deflections
+             after three cycles)?
+
+       (c)   Annex C5 of the Green Guide calls for a 'retest' ifthe
+              first 'test' yields more than 50% recovery but less
+             than the required 75%. Was 124A 'retested', and if so
+             did the 'retest' consist of three cycles of loading?
+
+       (d)   where were the deflections measured?
+
+       (e)   what consideration was given to those barriers left
+             untested because of difficulties in installing the
+             equipment?
+
+       (f)   why was five year interval of testing chosen (the Green
+             Guide, para 38, refers to four years)?
+
+       (g)   what consideration was given to the effects of
+             corrosion?
+
+7.     Perimeter Gates
+
+       These are narrower than Green Guide dimensions, but in view
+       of their total inadequacy for emergency exits, the small
+       difference is immaterial. Was consideration given to their
+       use as emergency exits?
+
+
+
+NOTE         Professor Smith, called in as a consultant by HSE, has
+             produced some interesting calculations for theoretical
+             collapse loads of the crush barriers (to follow). We
+             have also, independently, tried to estimate the loading
+             created on a crush-barrier by a given depth of crowd
+             (all leaning forwards).
+
+
+
+
+                                                LM
+                                                14 June 1989
+

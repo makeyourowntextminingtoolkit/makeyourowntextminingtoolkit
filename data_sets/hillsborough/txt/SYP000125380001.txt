@@ -1,0 +1,4914 @@
+ C A T E G O R Y       TEMF>L_ATE-       (Version IV >    C1705S9>
+
+ Please tick those category boxes which are applicable for indexing
+
+ STANDS                                   MEDICAL
+ Spion Kop                                Doc t or
+ North Stand                              Police Surgeon
+ South Stand      Seated                  Surgeon
+                  Standing                Pathologist
+ WEST STAND                               Nur se
+                                          St Johns Amb
+ Pen 1&2
+ Pen 5-7
+                                           SUPPORTERS
+ PEN 3
+                                           Liverpool
+ PEN 4
+                                           Notts Forest
+    POLICE OFFICER ON DUTY.                Other
+    South Yorkshire                        EMERGENCY SERVICES
+    Merseyside
+      ■ttinghamshire                       Fire Brigade
+                                           Ambulance
+£_     ICE OFFICER OFF DUTY
+                                           RECOGNITION
+    Merseyside
+    Nottinghamshire                        Bravery Acts
+    South Yorkshire                        Awards
+                                           Appreciation
+    Others                                 Adverse Comments
+                                           Complaint
+    MEDIA
+    Press
+                                           PUBLIC BODIES
+    TV
+                                           Local Authority
+    Radio                                  Health & Safety
+    GROUND STAFF.                          FA
+                                           Football Trust
+    Steward
+    Turnstile Operator
+                                           CONSULTANTS & FIRMS
+    Catering
+                                           Safety
+    Other                                  Construction
+    LOCAL. RESIDENTS
+                                  1/
+                                     /     Other
+    House to House                         SURGES IN GROUND
+    Shopping
+                                           Team on Pitch
+    Other                                  Hanson's Name
+    PUBLIC                                 Kick Off
+                                           Ball hits X-Bar
+    Letter
+                                           Barrier breaks
+    Telephone
+    Visit to Police Station
+                                           CROWD SURGES 0/S GROUND
+                                           Metal Gate forced
+A     y CATEGORY NOT SPECIFIED             Gate »C’ to eject
+                                           Gate ’C ’ crowd in
+
+                                           PREVIOUS MATCHES      j=j
+                                           Semi Final 1981       t=|
+    WITNESS CALLED TO INQUIRY              Semi Final 1956       l=j
+                                           Semi Final 1988       ===
+                                           Other State: --------- —
+    COACHES - Alcohol
+              Disorder
+              Police                       INVESTIGATION
+              Check                        Forged Tickets
+              Traffic                      Forcing Gates
+                                           Unauthorised access
+              Delay
+                                           Alcohol
+    LETTER REQUIRED    Y/N   □             Disorder
+Incident     102   030589 OP£863           TYPING SERVICE DOCUMENT
+
+                                                     ,    Questionnaire Number   GHS51
+
+ Surname
+
+ Forenames
+
+(31
+
+ DO YOU SUPPORT LIVERPOOL OR NOTTS.        FOREST?
+
+ NO
+
+
+Q2
+
+ HOW LONG HAVE YOU WORKED AT THIS ADDRESS?
+
+ TEN YEARS
+
+
+Q3
+
+       E YOU AT WORK FOR THE LAST YEARS SEMI FINAL?
+
+ YES
+
+
+Q4
+
+ WERE YOU AT WORK ON THE DAY OF THIS YEARS LIVERPOOL/NOTTS FOREST HATCH?
+
+ YES
+
+
+
+
+ WAS THERE ANYTHING THAT MADE THIS MATCH DIFFERENT FROM THOSE IN THE PAST
+
+ NO
+
+
+
+
+ DID YOU WITNESS ANY INCIDENTS OF DRUNKENESS OR DISORDERLY BEHAVIOUR BY ANY OF
+
+ THE FANS?    (BRIEF DESCRIPTION)    INCLUDE TIME OF     INCIDENT.
+
+ NO
+
+
+Q7
+
+ WAS ANY DAMAGE CAUSED TO YOUR PREMISES BY F A N S ? (D E T A I L S )
+
+ NO
+
+
+Q8
+
+ DID YOU ATTEND THE MATCH?      IF SO WHERE DID YOU SIT/DO YOU HAVE ANY RELEVANT
+ INFORMATION?   (CONSIDER USING THE Q UES TIONAIRE)
+
+ MO
+
+
+Q9
+
+ WERE YOU WITH ANYONE WHO MAY GIVE ANY RELEVANT       INFORMATION7DETAILS-
+
+ NO
+
+
+Q10
+
+ DO YOU HAVE ANY COMMENTS CONCERNING THE SOUTH YORKSHIRE POLICE ARRANGEMENTS
+
+ FOR THE MATCH/OR    INDIVIDUAL POLICE OFFICERS ON DUTY?
+
+ NO
+
+
+o #
+
+ IS THERE ANY OTHER MEMBER OF YOUR HOUSEHOLD ABLE TO PROVIDE RELEVANT
+
+ INFORMATION? DETAILS.
+
+ MO
+
+
+Q12
+
+ ANY OTHER   INFORMATION YOU WOULD LIKE BROUGHT TO THE NOTICE OF THE INDEPENDENT
+
+ JUDICIAL ENQUIRY?
+
+ I APPRECIATE IT IS A DIFFICULT THING TO PLAN ONE HUNDRED PERCENT WHEN Y O U ’VE
+
+ GOT PEOPLE WHO MIGHT GET OVER ENTHUSIASTIC BUT I CONSIDER       IT LUDICROUS THAT
+
+ M    BARR IERS WERE COLLPASIBL E .
+
+END OF REPORT
+^ C A T E G O R Y    T E M P L A T E _    (Version IV >    <170589>
+
+iri Please tick those category boxes which are applicable for indexing
+
+  STANDS                                    MEDICAL
+  Spion Kop                                 Doc t or
+  ftorth Stand                              Police Surgeon
+  South Stand    Seated                     Sur geon
+                 Standing                   Pathologist
+   WEST STAND                               Nurse
+   Pen 1&2                                  St Johns Amb
+   Pen 5-7
+                                            SUPPORTERS
+   PEN 3
+                                            Liverpool
+   PEN 4                                    Notts Forest
+   POLICE OFFICER ON DUTY.                  Other
+   South Yorkshire
+                                             EMERGENCY SERVICES
+   Merseyside
+   Nottinghamshire                           Fire Brigade
+                                             Ambulance
+      ICE OFFICER OFF DUTY
+                                             RECOGNITION
+^^ler
+   lerseyside
+                                             Bravery Acts
+   Nottinghamshire
+   South Yorkshire                           Awards
+                                             Appreciation
+   Others
+                                             Adverse Comments
+                                             Complaint
+   MEDIA
+   Press
+                                             PUBLIC BODIES
+   TV
+                                             Local Authority
+   Radio
+                                             Health & Safety
+   GROUND STAFF.                             FA
+   Steward                                   Football Trust
+   Turnstile Operator
+                                             CONSULTANTS Sc FIRMS
+   Catering
+   Other                                     Safety
+                                             Construction
+   LOCAL RESIDENTS                           Other
+   House to House
+                                             SURGES IN GROUND
+   Shopping
+                                             Team on Pitch
+   Other                                     Hanson's Name
+   PUBLIC                                    Kick Off
+                                             Ball hits X-Bar
+   Letter
+   Telephone                                 Barrier breaks
+   Visit to Police Station
+                                             CROWD SURGES 0/S GROUND
+       CATEGORY NOT SPECIFIED                Metal Sate forced
+                                             Sate 'C' to eject
+                                             Gate 'C' crowd in
+
+                                             PREVIOUS MATCHES      p=j
+                                             Semi Final 1981       |— i
+   WITNESS CALLED TO INQUIRY                 Semi Final 1956       |=j
+                                             Semi Final 1988       ■==
+   COACHES - Alcohol                         Other State: ---------- -
+           - Disorder
+           - Police                          INVESTIGATION
+             Check                           Forged Tickets
+           - Traffic                         Forcing Gates
+                                             Unauthorised access
+             Delay
+                                             Alcohol
+   LETTER REQUIRED   Y/N    □                Disorder
+I n c i cle n t   IOS     030389 0P2S63         TYPING SERVICE DOCUMENT
+
+                                                        ,   ii Questionnaire Number t GHS52
+
+ Surname                   BROWN                                           clod'
+                                                                               s   .
+
+ Fore names                 IAN                ANDREW                                  ^
+
+<31
+
+ DO YOU SUPPORT LIVERPOOL OR NOTTS FOREST?
+
+ NEITHER
+
+
+02
+
+ HOW LONG HAVE YOU LIVED AT THIS ADDRESS?
+
+ THREE YEARS
+
+
+Q3
+
+ ®^E        YOU AT HOME FOR LAST YEARS SEMI FINAL?
+
+ YES
+
+
+Q4
+
+ WERE YOU AT HOME ON THE DAY OF THIS YEARS LIVERPOOL/NOTTS FOREST MATCH?
+
+ YES
+
+
+Q5-
+
+ WAS THERE ANYTHING THAT MADE THIS MATCH DIFFERENT FROM THOSE IN THE PAST?
+
+ AT APPROX         1300 ON DAY SAW ABOUT 10Q LIVERPOOL FANS DRINKING FROM CANS BEING
+
+ '■v^jp Y   BOISTEROUS IN LEPPINGS LN, ONE HOUR LATER THERE WERE ABOUT 800, THE
+
+ _MAJ OR ITY OF THEM DRINKING FROM CANS OF BEER
+
+
+Q6
+
+ DID YOU WITNESS ANY INCIDENTS OF DRUNKENE5S OR DISORDERLY BEHAVIOUR OF ANY
+
+ OF THE FANS            (BRIEF DESCRIPTION)   INCLUDE TIME OF   INCIDENT
+
+ ABOUT 6-9 YOUTHS (LIVERPOOL) GENERALLY BEING ROWDY IN MIDDLEWOOD RD
+
+
+(37
+
+ WAS ANY DAMAGE CAUSED TO YOUR PREMISES BY FANS?
+
+ NO
+       •                                                                         PAGfc.
+                                                                                 QHS52
+
+
+OS
+
+ DID YOU ATTEND THE MATCH?          IF SO WHERE DID YOU SIT/DO YOU HAVE ANY RELEVANT
+
+ INFORMATION?       (CONSIDER USING SUPPORTERS QUESTIONNAIRE)
+
+ NO
+
+
+Q9
+
+ WERE YOU WITH ANYONE WHO MAY GIVE ANY RELEVANT INFORMATION? DETAILS
+
+ NO
+
+
+Q 10
+
+ DO YOU HAVE ANY COMMENTS CONCERNING THE SOUTH YORKSHIRE POLICE ARRANGEMENTS
+
+ A?        THE MATCH/OR    INDIVIDUAL POLICE OFFICERS ON DUTY?
+
+ COMMUNICATION - NONE OF THE OFFICERS I SAW ON THE OUTSIDE HAD RADIOS
+
+
+Q11
+
+ IS THERE ANY OTHER MEMBER OF YOUR HOUSEHOLD ABLE TO PROVIDE RELEVANT
+
+ INFORMATION? DETAILS
+
+ NO
+
+
+Q12
+
+ ANY OTHER       INFORMATION YOU WOULD LIKE BROUGHT TO THE NOTICE OF THE INDEPENDANT
+
+ ^ICIAL         ENQUIRY?
+
+ NO I ’M A SERVING POLICE OFFICER
+
+END OF REPORT
+C A T E G O R Y      T P I M P I jA T E   -   {Version III)
+
+Please tick those category boxes which are applicable for Indexing
+
+STANDS                                          MEDICAL
+flplon Kop                                      Doctor
+North Stand                                     Police Surgeon
+South Stand - Seated                            Surgeon
+              Standing                          Pathologist
+WRST STAND                                      Nurse
+Pen 162                                         St Johns Amb
+Pen 5-7
+PFfl 3                                          SUPPORTERS
+PEN 4                                           Liverpool
+                                                Notts Forest
+POLICE OFFICER ON DUTY.                         Other
+South Yorkshire
+t!**rseys lde                                   EMERGENCY SERVICES
+Nottinghamshire                                 Fire Brigade
+                                                Ambulance
+T O M C R OFFICER OFF DUTY
+Merseyside                                      RECOGNITION
+ffott inghainnhlre                              Bravery Acts
+South Yorkshire                                 Awards
+                                                Appreciation
+Others
+                                                Adverse Comments
+HRDIA                                           Complaint i
+Press
+TV                                              PUBLIC BODIES
+Radio                                           Local Authority
+                                                Health * Safety
+GROUND STAFF.                                   FA
+Steward                                         Football Trust
+Turnstile Operator
+Catering                                        CONSULTANTS ,* *1**8
+Other                                           Safety ' i
+                                                Construction :         ;
+                                          /     other  ' ■I >•
+l.fMUkL RESIDENTS                                         j
+lt«Ke to House
+Shopping                                         Broken Barrier Pen 3
+Other                                            Surges in Crowd
+                                              ft.Attended semi final
+PUPLIC                                         ‘ in 1988. ,
+l.etter
+Telephone                                       COACHES - Alcohol
+Visit to Police Station                                 - Disorder
+                                                        - Police
+                                                          Check
+ANY CATEGORY NOT SPECIFIBD                               ■I
+
+                                                LETTER REQUIRED        Y/N q
+                                                          •• *   V ! ‘‘ -
+Incident     102    030389 OP3698          IY H 1N G S fc.R V 1C £. D 0 C U M E:.N I
+
+                                                                 Questionnaire Number   GHS53
+                                                                          ^               '~cj
+ Surname                                                                o -~ U
+
+ Forenames
+
+Q1
+
+ DO YOU SUPPORT LIVERPOOL OR NOTTS FOREST?
+
+ NO
+
+
+Qi:'
+
+ HOW LONG HAVE YOU LIVED AT THIS ADDRESS?
+
+ THREE YEARS
+
+
+Q3
+
+ A?E   YOU AT HOME FOR LAST YEARS SEMI FINAL?
+
+ YES
+
+
+Q4
+
+  WERE YOU AT HOME ON THE DAY OF THIS YEARS LIVERPOOL/NOTTS FOREST MATCH?
+
+ NO
+
+
+Q5
+
+ WAS THERE ANYTHING THAT MADE THIS MATCH DIFFERENT FROM THOSE IN THE PAST?
+
+ YES, APPEARED TO BE MORE FANS THAN PREVIOUS MATCHES
+
+  j^JAS IN TOWN FROM 100 AM & LIVERPOOL FANS CAME ALONG KING ST SWEARING
+
+ SHOUTING & FINALLY FIGHTING AT THE TOP OF KING ST
+
+
+Q6
+
+ DID YOU WITNESS ANY INCIDENTS OF DRUNKENES3 OR DISORDERLY BEHAVIOUR OF AMY
+
+ OF THE FANS?      (BRIEF DESCRIPTION)   INCLUDE TIME OF            INCIDENT
+
+ ANSWERED IN QUESTION 5
+
+
+Q7
+
+ WAS ANY DAMAGE CAUSED TO YOUR PREMISES BY FANS?
+
+ NO
+                                                                                PAGE    c
+                                                                                QHS53
+
+
+QS
+
+ DID YOU ATTEND THE MATCH?         IF SO WHERE DID YOU SIT/DO YOU HAVE ANY RELEVANT
+
+ INFORMATION?     (CONSIDER USING SUPPORTERS QUESTIONNAIRE)
+
+ NO
+
+
+Q9
+
+ WERE YOU WITH ANYONE WHO MAY GIVE ANY RELEVANT INFORMATION? DETAILS
+
+ MY MOTHER                                             SHEFFIELD
+
+
+QIC
+
+ DO YOU HAVE ANY COMMENTS CONCERNING THE SOUTH YORKSHIRE POLICE ARRANGEMENTS
+
+      THE MATCH/OR        INDIVIDUAL POLICE OFFICERS ON DUTY?
+
+ NO
+
+
+Q11
+
+ IS THERE ANY OTHER MEMBER OF YOUR HOUSEHOLD ABLE TO PROVIDE RELEVANT
+
+ INFORMATION? DETAILS
+
+ NO OTHER THAN MY HUSBAND WHO IS A SERVING POLICE OFFICER
+
+
+G12
+
+ ANY OTHER    INFORMATION YOU WOULD LIKE BROUGHT TO THE NOTICE OF THE INDEPENDANT
+
+ ^ p H C I A L ENQUIRY?
+
+ NO
+
+END OF REPORT
+                                                      •i-vr-,yr;-'>- -■'■>;.■■:■:■:   ,
+
+                                                      iv;-v        :"^V h ^'. ■,::■.
+                                         ...... ..
+                                                 ..                                       •
+                                                                                          ;
+                              ;~r ■
+
+
+C A T E G O R Y   T E M P L A T E -    <Version IV )          <170589)
+
+Please tick those category boxes which are applicable for indexing.
+
+STANDS                                   fCDICAL
+Spion Kop                                Doc tor
+htorth Stand                             Police Surgeon
+South Stand    Seated                    Surgeon
+               Standing                  Pathologist
+WEST STAND                               Nur se
+Pen 1&2                                  St Johns Amb
+Pen 5-7                                  SUPPORTERS
+PEN 3
+                                         Liverpool
+PEN 4
+                                         Notts Forest
+POLICE OFFICER ON DUTY.                  Other
+South Yorkshire
+                                         EMERGENCY SERVICES
+Merseyside
+Nottinghamshire                          Fire Brigade
+                                         Ambulance
+    ICE OFFICER OFF DUTY
+                                         RECOGNITION
+    seyside
+Not t inghamsh ire                       Bravery Acts
+South Yorkshire                          Awards
+                                         Appreciation
+Others                                   Adverse Comments
+                                         Complaint
+MEDIA
+Press
+                                         PUBLIC BODIES
+TV
+                                         Local Authority
+Radio
+                                         Health & Safety
+GROUND STAFF.                            FA
+                                         Football Trust
+Steward                                                                                                 '■*
+Turnstile Operator
+                                          CONSULTANTS *c FIRMS
+Catering
+                                          Safety
+Other                                     Construction
+LOCAL RESIDENTS                           Other
+House to House
+                                          SURGES IN GROUND
+Shopping
+                                          Team on Pitch
+Other                                     Hanson’s Name
+PUBLIC                                    Kick Off
+                                          Ball hits X-Bar
+Letter
+                                          Barrier breaks
+Telephone
+Visit to Police Station
+                                          CROWD SURGES 0/S GROUND
+     CATEGORY NOT SPECIFIED               Metal Gate forced
+                                          Gate ’C ’ to eject
+                                          Gate ’C ’ crowd in
+
+                                          PREVIOUS MATCHES
+                                          Semi Final 19B1
+WITNESS CALLED TO INQUIRY                 Semi Final 1956
+                                          Semi Final 19BB
+COACHES - Alcohol                         Other States
+        - Disorder
+        - Police                          INVESTIGATION
+          Check                           Forged Tickets
+        - Traffic                         For c ing Gat es
+                                          Unauthorised access
+          Delay
+                                          Alcohol
+LETTER REQUIRED   Y/N D                   Disorder
+
+
+                                                                                              m m * w
+Incident         102   030589 0P2863         TYPING SERVICE DOCUMENT
+
+                                                           Questionnaire Number   GH834
+
+    Surname
+
+    F orenames
+
+Q1
+
+    DO YOU SUPPORT LIVERPOOL OR NOTTS FOREST?
+
+    NO
+
+
+Q2
+
+    HOW LONG HAVE YOU WORKED AT THIS ADDRESS?
+
+    FIVE MONTHS
+
+
+Q3
+
+    l^E   YOU AT WORK FOR LAST YEARS SEMI FINAL?
+
+    NO
+
+
+G4
+
+    WERE YOU AT WORK ON THE DAY OF LAST YEARS LIVERPOOL/NOTTS FOREST MATCH?
+
+    YES
+
+
+Q5
+
+    WAS THERE ANYTHING THAT MADE THIS MATCH DIFFERENT FROM THOSE IN THE PAST?
+
+    NO
+
+
+q   J I
+
+    DID YOU WITNESS ANY INCIDENTS OF DRUNKENESS OF DISORDERLY BEHAVIOUR BY ANY OF
+
+    THE FANS ? (BRIEF DESCRIPTION)      INCLUDE TIME OF   INCIDENT.
+
+    NO
+
+
+Q7
+
+    WAS ANY DAMAGE CAUSED TO YOUR PREMISES BY FANS? DETAILS.
+
+    NO
+
+
+Q8
+
+    DID YOU STAND AT THE MATCH?        IF SO WHERE DID YOU SIT/DO YOU HAVE ANY RELEVANT
+                                                                         PAGE
+                                                                         GHS54
+
+ INFORMATION ? (CONSIDER USING SUPPORTERS QUESTIONAIRES)
+
+ NO
+
+
+09
+
+ WERE YOU WITH ANYONE WHO MAY GIVE ANY RELEVANT INFORMATION? DETAILS.
+
+ NO
+
+
+Q10
+
+ DO YOU HAVE ANY COMMENTS CONCERNING TH SOUTH YORKSHIRE POLICE ARRANGEMENTS
+
+ FOR THE MATCH/OR    INDIVIDUAL POLICE OFFICERS ON DUTY.?
+
+ NO
+
+
+
+
+ IS THERE ANY MEMBER OF YOUR HOUSEHOLD ABLE TO PROVIDE RELEVANT INFORMATION
+
+ .DETAILS.
+
+ NO
+
+
+Q12
+
+ ANY OTHER   INFORMATION YOU WOULD LIKE BROUGHT TO THE NOTICE OF THE INDEPENDENT
+
+ JUDICIAL ENQUIRY?
+
+ NO
+
+END OF REPORT
+CATEGORY             TEM PLATE .       (Version III)
+
+Please tick those category boxes which are applicable for Indexing
+
+STAND8                                   MEDICAL
+Splon Kop                                Doctor
+North Stand                              Police Surgeon
+South Stand    Seated                    Surgeon
+               Standing                  Pathologist
+WEST STAND                               Nurse
+Pen 1*2                                  St Johns Amb
+Ppn 5-7
+PEN 3                                    SUPPORTERS
+PEN 4                                    Liverpool
+                                         Notts Forest
+FOLICE OFFICER OH DUTY.                  Other
+-South Yorkshire
+tterseyslde                              EMERGENCY SERVICES
+Nottinghamshire                          Fire Brigade
+                                         Ambulance
+r Of,ICR OFFICER OFF DUTY
+tterseyslde                              RECOGNITION
+Nottinghamshire                          Bravery Acts
+South Yorkshire                          Awards
+                                         Appreciation
+Others
+                                         Adverse Comments
+MRDIA                                    Complaint i
+Press
+TV                                       PUBLIC BODIES
+                                         Local Authority
+Rad 1o
+                                         Health fi Safety
+GROUND STAFF.                            FA
+Steward                                  Football Trust
+Turnstile Operator
+Catering                                 CONSULTANTS 6 FIRMS
+Other                                    Safety '                   v*
+                                         Construction
+l.CTOL RESIDENTS                         Other ’ ' •I. * •    ■'■<'!}<
+
+llfle to House
+                                          Broken Barrier Pen 3
+Shopping
+                                          Surges in Crowd
+Other
+                                       ,t Attended sfcml final
+PUPMC                                   ‘ in 1988. |
+I.stter
+Telephone                                COACHES - Alcohol
+                                                   Disorder
+Visit to Police Station
+                                                 - Police
+                                                   Check
+ANY CATEGORY HOT SPECIFIED
+
+                                         LETTER REQUIRED           Y/N
+                                                    •:C'V "
+Inc i dent      102    030589 0P369S         TYPING SERVICE DOCUMENT
+
+                                                              Questionnaire Number   QHS55
+
+    Su rname
+
+    Forenames
+
+Q1
+
+    DO YOU SUPPORT LIVERPOOL OR NOTTS FOREST?
+
+    NONE
+
+
+G2
+
+    HOW LONG HAVE YOU LIVED AT THIS ADDRESS?
+
+    ONE & HALF YEARS
+
+
+Q3
+
+           YOU AT HOME FOR LAST YEARS SEMI FINAL?
+
+    YES
+
+
+Q4
+
+    WERE YOU AT HOME ON THE DAY OF THIS YEARS LIVERPOOL/NOTTS FOREST MATCH?
+
+    YES
+
+
+G5
+
+    WAS THERE ANYTHING THAT MADE THIS MATCH DIFFERENT TO THOSE IN THE PAST?
+
+    NO
+
+
+G   »
+    DID YOU WITNESS ANY INCIDENTS OF DRUNKENESS OR DISORDERLY BEHAVIOUR OF ANY
+
+    OF THE FANS?      (BRIEF DESCRIPTION)   INCLUDE TIME OF    INCIDENT
+
+    NO
+
+
+Q7
+
+    WAS ANY DAMAGE CAUSED TO YOUR PREMISES BY FANS?
+
+    NO
+
+
+G8
+
+    DID YOU ATTEND THE MATCH?      IF SO WHERE DID YOU SIT/DO YOU HAVE ANY RELEVANT
+                                                                         PAGE
+                                                                         GHS53
+
+ INFORMATION?   (CONSIDER USING SUPPORTERS QUESTIONNAIRE)
+
+ NO
+
+
+
+
+ WERE YOU WITH ANYONE WHO MAY GIVE ANY RELEVANT INFORMATION? DETAILS
+
+ NO
+
+
+<310
+
+ DO YOU HAVE ANY COMMENTS CONCERNING THE SOUTH YORKSHIRE POLICE ARRANGEMENTS
+
+ FOR THE MATCH.OR    INDIVIDUAL POLICE OFFICERS?
+
+ NO
+
+
+<>•
+ IS THERE ANY OTHER MEMBER OF YOUR HOUSEHOLD ABLE TO PROVIDE RELEVANT
+
+ INFORMATION? DETAILS
+
+ NO
+
+
+Q12
+
+ ANY OTHER   INFORMATION YOU WOULD LIKE BROUGHT TO THE NOTICE OF THE INDEPENDANT
+
+ JUDICIAL ENQUIRY?
+
+ I DONT THINK SEMI FINALS SHOULD BE PLAYED AT HILLSBOROUGH AGAIN
+
+END OF REPORT
+cA TIjJG O R Y        TEM PLATE -      (Version 1 1 1 )
+
+Please tick those category boxes which are applicable for indexing,
+
+STAHDB                                   MEDICAL
+Spion Kop                                Doctor
+florth Stand                             Police Surgeon
+South Stand      Seated                  Surgeon
+                 Standing                Pathologist
+WRST STAND                               Nurse
+Pnti 1*2                                 Sti Johns Amb
+Prn 5-7
+                                         SUPPORTERS
+TFH 3
+PEN 4                                    Liverpool
+                                         Notts Forest
+POF.ICE OFFICER OH DUTY.                 Other
+South Yorkshire
+fterseyRlde                              EMERGENCY SERVICES
+N c^ ingh a m s h i r e                  Fire Brigade
+                                         Ambulance
+rof.ICR OFFICER OFF DUTY
+Merseyside                               RECOGHITIOH
+■Hot 11 nghamsh ire                      Bravery Acts
+South Yorkshire                          Awards
+                                         Appreciation
+Others
+                                         Adverse Comments
+MSDIA                                    Complaint i
+Tress
+TV                                       PUBLIC BODIES
+Radio                                    Local Authority
+                                         Health ft Safety
+GROUND STAFF.                            FA
+Steward                                  Football Trust
+Turnstile Operator
+                                         CONSULTANTS ft FIRMS
+Catering
+Other                                     Safety '       .^-if’ •
+                                          Construction "f\
+f.Oflflf. RRSIDRHT8                       O t h e r ' •j        -n
+                                                             '!
+Ild^Pe to House
+                                          Broken Barrier Pen 3
+Shopping
+                                          Surges in Crowd
+Other
+                                       ,t.Attended sfcmi final
+FUPLIC                                  * in 1988. |
+I.etter
+Telephone                                C0ACHE8 - A l c o h o l
+Visit to Police Station                          - Disorder
+                                                 - Police
+                                                      Check
+AHY CATEGORY HOT SPECIFIED                            f
+
+                                         LETTER REQUIRED       Y/H
+                                                                                                                                                ?JfS«aM*m
+
+
+
+
+                                                                                                                            Rr-ld**r    to
+Tli i ^                       i       i n t ^ i u l f v l t o l s s l i t t hf> R f f r M v ^ r
+                   f lior."       l o c u m e n t s w h i c h a r ? t o I l - i q q f ’ iJ !'Y as p             >t    t.hr* N O T E P A D
+
+ MN.
+
+O.'L’i.N.G                                    J J I X E R P R F T A T I I'U
+
+
+* * * I NO' IT V ♦ * *                        INSIDE/OUTSIDE                  THE       GROUND      \    MATERIAL
+                                                                                                                                            a
+                                                i•    ..                       "          "         <,   [ J O N - M A T E R I At .
+* * * IfOMITX * * *
+                                              INSIDE        THE       GROUND        4    MATERIAL                                           CD
+                                                ..           "             "        5N ON - M A T F R I AL.
+ * * * I NX* * *
+                                              OUTSIDE          THE     GROUND           * MATERIAL,
+ * **OUTY * * *
+                                                                           "            & NON-MATERIAL
+ * **OUTX** *                                                                                                                               i m
+ * * * i>f.c y * * *                          DFOFASED           <i   MATERIAL                                                              □
+                                                                 S    NON-MATERIAL
+' :**DF.CX***
+                                              INJURED           P E R S O N & MATERIAL,
+" • •• I NJ Y* **
+                                                i>              "           & [ J ON - M A T E R I A L
+ ***INJX***
+                                              POLICE,          SOUTH          YORKS         & MATERIAL.
+ ***POLYSY* *
+                                                                                            & NON- MAT ER I AL .
+ * * * P O L XS Y * *
+                                              POLICE,          MERSEYSIDE               &    MATERIAL
+ * **POLYMS **
+                                                ..             »       "                &    NON-MATERIAL
+ * * *P0LXM5 * *
+                                              POLICE,          NOTTS & MATERIAL
+ * **POLYNC* *
+                                                               «     & NON-MATERIAL
+ * * *POLXNC* *
+                                              POLICE,          OTHER FORCE & MATERIAL
+ * * *POLYOT* *                                 ..             ><      »   & N O N - M A T E R I AL
+ ***POLXOT**
+                                              POLICE         ACTION           PRAISE, APPRECIATI°N
+ * **POLPRAISE* **
+                                              POLICE         ACTION           CRITICISED, ADVERSE COMMENT
+ * **POLADVERSE* **
+
+
+
+
+                                                                                 ~                       * s ,,a        ,ssjsi”                 ’ ”
+       BEING INDEXED VIA + IN.
+.!,ttc,i d’e?h t,   102    Q3C.)fi>89 OP3698           iYPING SfcRVIGfc. 0OCUME.N
+
+                                                                       Ques t,io nna i r e N unibe r   GHS56
+                                         r-1
+                                           *1\ *5^                  .4
+                                                                    r^°            — -"'-O             '‘rv^-O
+ Surname
+
+ Forenames
+
+Q1
+
+
+ DO YOU SUPPORT LIVERPOOL. OR NOTTS FOREST?
+
+ NONE
+
+
+QS
+
+ HOW LONG HAVE YOU LIVED AT THIS ADDRESS?
+
+ ONE & HALF YEARS
+
+
+
+
+ #      E YOU AT HOME FOR LAST YEARS SEMI F INAL?
+
+ YES
+
+
+<24
+
+ WERE YOU AT HOME ON THE DAY OF THIS YEARS LIVERPOOL/NOTTS FOREST MATCH?
+
+ YES
+
+
+G5
+
+  WAS THERE ANYTHING THAT MADE THIS MATCH DIFFERENT FROM THOSE IN THE PAST?
+
+ NO
+
+
+
+
+ DID YOU WITNESS ANY INCIDENTS OR DRUNKENESS OR DISORDERLY BEHAVIOUR OF ANY
+
+ OF THE FANS?             <BRIEF DESCRIPTION)        INCLUDE TIME OF      INCIDENT
+
+ AFTER MATCH HAD BEEN ABANDONED & LIVERPOOL FANS WERE LEAVING THE GROUND
+
+ THERE WERE JUST TWO P OLICE CARS IN LEPPINGS L N & THE OFFICERS WERE ASKING
+
+ THE FANS TO MOVE A L O N G . THE OFFICERS WERE SWORN AT & ABUSED BY THE FANS
+
+
+07
+
+ WAS ANY DAMAGE CAUSED TO YOUR PREMISES BY FANS? DETAILS
+
+ NO
+                                                                                PAGE-:
+                                                                                QH556
+
+
+(IS
+
+ DID YOU ATTEND THE MATCH?         IF SO WHERE DID YOU SIT/DO YOU HAVE ANY RELEVANT
+
+ INFORMATION ? (CONSIDER USING SUPPORTERS QUESTIONNAIRE)
+
+ NO
+
+
+Q9
+
+ WERE YOU WITH ANYONE WHO MAY GIVE ANY RELEVANT INFORMATION? DETAILS
+
+ NO
+
+
+G10
+
+ DO YOU HAVE ANY COMMENTS CONCERNING THE SOUTH YORKSHIRE POLICE ARRANGEMENTS
+
+ A     THE MATCH/OR       INDIVIDUAL P OLICE OFFICERS ON DUTY?
+
+  I THINK THEY DO A G OOD J O B , ESPECIALLY AROUND HERE ON MATCH DAYS
+
+
+Q 11
+
+  IS THERE ANY OTHER MEMBER OF YOUR HOUSEHOLD ABLE TO PROVIDE RELEVANT
+
+  INFORMATION? DETAILS
+
+ NO
+
+
+G12
+
+ ANY OTHER     INFORMATION YOU WOULD LIKE BROUGHT TO THE NOTICE OF THE INDEPENDANT
+
+ ^ p I C I A L ENQUIRY?
+
+ NO
+
+END OF R E P O R T
+   on Kop
+      Stand                  Police Surgeon
+South Stand                  Surgeon
+                             Pathologist
+                             Nurse
+                             St Johns Amb
+
+
+                             Liverpool
+                             Notts Forest
+POLICE OFFICER ON DUTY.      Other
+South Yorkshire              EMERGENCY SERVICES
+Merseyside
+Nottinghamshire              Fire Brigade
+                                                    B
+       OFFICER OFF DUTY      RECOGNITION
+   seyside                   Bravery Acts
+Nottinghamshire
+South Yorkshire              Awards
+                             Appreciation
+Others                       Adverse Comments
+                             Complaint
+MEDIA
+Press                        PUBLIC BODIES
+TV •                         Local Authority
+Radio                        Health & Safety
+GROUND STAFF.                FA
+                             Football Trust
+Steward
+Turnstile Operator           CONSULTANTS & FIRMS
+Catering
+                             Safety
+Other                        Construction
+LOCAL RESIDENTS              Other
+House to House                      IN
+Shopping                          on Pitch
+Other                        Hanson's Name
+                             Kick Off
+PUBLIC                       Ball hits X-Bar
+Letter                       Barrier breaks
+Telephone
+Visit to Police Station
+                             CROWD SURGES 0/S GROUND
+    CATE60RY NOT SPECIFIED   Metal Gate forced
+                             Gate 'C* to eject
+                             Gate rC f crowd in
+
+                             PREVIOUS MATCHES      |=j
+                             Semi Final 1981
+WITNESS CALLED TO INQUIRY    Semi Final 1956       J=4
+                             Semi Final 1988       ===
+          Alcohol            Other States -- :
+                                             --------
+COACHES
+          Disorder
+                              INVESTIGATION
+          Police
+                              Forged Tickets
+          Check
+          Traffic             Forcing Gates
+                              Unauthorised access
+          Delay
+                              Alcohol
+LETTER REQUIRED   Y/N   □     Disorder
+Incident     102    030589 OP 2863        TYPING SERVICE DOCUMENT
+
+                                                        Questionnaire Number   QHS57
+
+ Surname
+
+ Forenames
+
+Q1
+
+ DO YOU SUPPORT LIVERPOOL OR NOTTS FOREST?
+
+ NO
+
+
+Q2
+
+ HOW LONG HAVE LIVED AT THAT ADDRESS?
+
+ NINE YEARS.
+
+
+03
+
+       YOU AT HOME FOR LAST YEARS SEMI FINAL?
+
+ YES
+
+
+Q4
+
+ WERE YOU AT HOME ON THE DAY OF THIS YEARS LIVERPOOL/NOTTS FOREST MATCH?
+
+ YES
+
+
+Q5
+
+ WAS THERE ANYTHING THAT MADE THIS MATCH DIFFERENT FROM THOSE IN THE PAST?
+
+ NO
+
+
+
+
+ DID YOU WITNESS ANY INCIDENTS OF DRUNKENESS OR DISORDERLY BEHAVIOUR BY ANY
+
+ OF THE FANS?      <BRIEF DESCRIPTION)   INCLUDE TIME OF INCIDENT.
+
+ NO
+
+
+Q7
+
+ WAS ANY DAMAGE TO YOUR PREMISES BY FANS?        (DETAILS)
+
+ NO
+
+
+Q8
+
+ DID YOU ATTEND THE MATCH?      IF SO WHERE DID YOU SIT/DO YOU HAVE ANY RELEVANT
+                                                                                PAGE
+                                                                                QHS57
+<      . »
+
+ INFORMATION ? (CONSIDER USING SUPPORTERS Q U E S TI ONA IRE S)
+
+ NO
+
+
+Q9
+
+ WERE YOU WITH ANYONE WHO MAY GIVE ANY RELEVANT         INFORMATION? DETAILS.
+
+ NO
+
+
+QIC)
+
+
+ DO YOU HAVE ANY COMMENT CONCERNING THE SOUTH YORKSHIRE POLICE ARRANGEMENTS FOR
+
+ THE MATCH/OR         INDIVIDUAL POLICE OFFICERS ON DUTY?
+
+ THERE D I D N ’T APPEAR TO BE AS MANY POLICE ON DUTY THAT DAY.
+
+
+
+
+    IS THERE ANT MEMBER OF YOUR HOUSEHOLD ABLE TO PROVIDE RELEVANT INFORMATION      .
+
+ DETAILS.
+
+ MO
+
+
+G12
+
+    ANY OTHER INFORMATION YOU WOULD LIKE BROUGHT TO THE NOTICE OF THE INDEPENDENT
+
+ JUDICIAL ENQUIRY?
+
+    IT APPEARED THAT THERE WAS UNUSUAL AMOUNTS OF LATE ARRIVALS AT THE GROUND
+
+ ACCORDING TO THE TV & PAPER REPORTS.
+
+El®OF        REPORT
+C A T E G O R Y      T E M P L A T E   -   (Version 111)
+
+Please tick those category boxes which are applicable for Indexing,
+
+STANDS                                      MEDICAL
+Splon Kop                                   Doctor
+North Stand                                 Police Surgeon
+South Stand - Seated                        Surgeon
+              Standing                      Pathologist
+WEST STAND                                  Nurse
+Pen 1*2                                     Sti Johns Amb
+Fen 5-7
+PFfl 3                                       SUPPORTERS
+PEN 4                                        Liverpool
+                                             Notts Forest
+T O M C E OFFICER OH DOTY.                   Other
+South Yorkshire
+Merseyside                                   EMERGENCY 8ERV1CB8
+Nottinghamshire                              Fire Brigade
+                                             Ambulance
+POLICE OFFICER OFF DUTY
+Merseyside                                   RECOGNITION
+.Hot t Inghawshi re                          Bravery Acts
+South Yorkshire                              Awards
+                                             Appreciation
+Others
+                                             Adverse Comments
+MKDIA                                        Complaint >
+Press
+TV                                           PUBLIC BODIES
+                                             Local Authority
+Radio
+                                             Health fi Safety
+GROUND STAFF.                                FA
+Steward                                      Football Trust
+Turnstile Operator                                                                 •- -4.        •• .4 .1
+Catering                                     CONSULTANTS * FIRMS                   - t      '■              •
+
+
+Other                                        Safety        i,     •
+                                                                                   ■ y :. •
+                                                                                          :'?>■
+                                             Construction <K'
+                                                                                   - m           t y
+f.Ofltr. RESIDENTS                           Other
+                                   n/f
+ItoVe to House
+                                             Broken Barrier Pen 3
+Shopping
+                                             Surges in Crowd
+Other
+                                             Attended ssml final
+PUPLIC                                       In 1988. i .
+f.wtter
+Telephone                                    COACHES - Alcohol
+Visit to Police Station                              - Disorder
+                                                     - Police
+                                                       Check
+ANY CATEGORY MOT 8PECIFIBD                                                      ;..* •*"t *'*V*»:.
+
+
+                                             LETTER REQUIRED             Y/N
+
+
+
+
+                                                              ;.v;?v ■         -J.V»         •          :VV.: '
+                                                                           j                               •••
+                                                             ;- ^ r C                     & i >-f*••
+                                                       **»                          ’ iX V i ir * . •
+                                                      ■ ii                          . v'' ... tj.. . . .
+                                                             i•
+                                                                                                 .11 .... :
+Incident      102    030589 0P3698          TYPING SERVICE DOCUMENT
+
+                                                            Questionnaire Number   QHS38
+
+ Surname
+
+ F orenames          _________
+
+Q1
+
+ DO YOU SUPPORT LIVERPOOL OR NOTTS FOREST?
+
+ NEITHER
+
+
+G2
+
+
+ HOW LONG HAVE YOU LIVED AT THIS ADDRESS ?
+
+ ONE YEAR
+
+
+
+
+      RE YOU AT HOME FOR LAST YEARS SEMI FINAL?
+
+ YES
+
+
+G4
+
+ WERE YOU AT HOME ON THE DAY OF THIS YEARS LIVERPOOL/NOTTS FOREST MATCH?
+
+ YES
+
+
+Q5
+
+ WAS THERE ANYTHING THAT MADE THIS MATCH DIFFERENT FROM THOSE IN THE PAST?
+
+ HAPPY ATMOSPHERE
+
+
+o #
+
+ DID YOU WITNESS ANY INCIDENTS OF DRUNKENESS OR DISORDERLY BEHAVIOUR OF ANY
+
+ OF THE FANS?       (BRIEF DESCRIPTION)   INCLUDE TIME OF    INCIDENT
+
+ THERE WERE A LOT OF LIVERPOOL FANS DRINKING         IN THE STREET & SHOUTING
+
+
+07
+
+ WAS ANY DAMAGE CAUSED TO YOUR PREMISES BY FANS?            (DETAILS)
+
+ NO
+
+
+<38
+
+ DID YOU ATTEND THE MATCH?       IF   SO WHERE DID YOU SIT/DO YOU HAVE ANY RELEVANT
+                                                                            PAGE      c
+                                                                            QHS58
+
+ INFORMATION?      <CONSIDER USING SUPPORTERS QUESTIONNAIRE)
+
+ NO
+
+
+Q9
+
+ WERE YOU WITH ANYONE WHO MAY GIVE ANY RELEVANT INFORMATION? DETAILS
+
+ NO
+
+
+QIC!
+
+ DO YOU HAVE ANY COMMENTS CONCERNING SOUTH YORKSHIRE POLICE ARRANGEMENTS
+
+ FOR THE MATCH/OR      INDIVIDUAL POLICE OFFICERS ON DUTY?
+
+ THERE COULD HAVE BEEN MORE POLICE CONSIDERING THE NUMBER OF PEOPLE
+
+^WEVER        POLICE BEHAVED WELL
+
+
+G11
+
+ IS THERE ANY OTHER MEMBER OF YOUR HOUSEHOLD ABLE TO PROVIDE RELEVANT
+
+ INFORM ATI ON. DETAILS
+
+ HUSBAND WAS OUT OF COUNTRY AT TIME OF      INCIDENT
+
+
+Q12
+
+ ANY OTHER      INFORMATION YOU WOULD LIKE BROUGHT TO THE NOTICE OF THE INDEPENDANT
+
+ JUDICIAL ENQUIRY?
+
+ PUBLIC STATEMENTS WERE BEING MADE BY PARTIES CONCERNED VIA MEDIA PRIOR
+
+ “^ F U L L   APPRECIATION OF FACTS
+
+END OF REPORT
+                m m
+
+
+
+                                                                     --          5^8$*':.<.*••    •'•>'.••}'.'•'_’
+                                                                    ._- ! ■1• . Jkr&SJL'r l f u l..:'
+                                                                                             -.•t-.'
+
+
+                                     S'4«kiS*£*;j'’~'-'*f'"~
+                          T E M P L A T E -                    evasi o n IV/»                       <i70S89>
+
+    P l e a s e tick those category boxes which are applicable for indexing.
+                                                                MEDICAL
+*       Bpion Kop                                               Doctor
+    i-lterth'.Stand -v                                          Police Surgeon
+    / South Stand - Seated                                      Surgeon
+                    Standing                                    Pathologist
+      WEST STAND                                                Nurse
+        Pin 1&2 '                                               St Johns Amb
+        Pen 5-7                                                  SUPPORTERS
+        PEN 3                                                    Liverpool
+        PEN 4                                                    Notts Forest
+        POLICE OFFICER ON DUTY.                                  Other
+        South Yorkshire
+                                                                 EMERGENCY SERVICES
+        Merseyside
+        Nottinghamshire                                          Fire Brigade
+                                                                 Ambulance
+                             DUTY                   _                                                                    o   - ; ;• _ .
+                                                    —            RECOGNITION
+   Merseyside                                                                                                  —
+«C Nottinghamshire                                               Bravery Acts
+   South Yorkshire                                  _            Awards
+                                                    —            Appreciation
+   Others                                                        Adverse Comments                              —              ■ :V   -
+                                                                 Complaint                                     -
+        MEDIA
+        Press
+                                                                 PUBLIC BODIES
+        TV                                                       Local Authority
+        Radio
+                                                                 Health Sc Safety
+        GROUND STAFF.                                            FA
+                                                                 Football Trust
+        Steward
+        Turnstile Operator
+                                                                 CONSULTANTS & FIRMS
+        Catering
+                                                                 Safety
+        Other                                                    Construction
+                                                                 Other
+        LOCAL RESIDENTS
+        House to House                                           SURGES IN QROUND
+        Shopping
+                                                                 Team on Pitch
+        Other                                                    Hanson’s Name
+                                                                 Kick Off
+        PUBLIC                                                   Ball hits X-Bar
+        Letter
+                                                                 Barrier breaks
+        Telephone
+        Visit to Police Station
+                                                                 CROUD SURGES O/S QROUND
+            CATEGORY NOT SPECIFIED                               Metal Sate forced
+                                                                 Sate 'C» to eject
+                                                                 Gate 'C’ crowd in
+
+                                                                  PREVIOUS MATCHES
+                                                                  Semi Final 1981
+        WITNESS CALLED TO INQUIRY                                 Semi Final 1956
+                                                                  Semi Final 1988
+        COACHES - Alcohol                                         Other States
+                - Disorder
+                                                                  INVESTIGATION
+                - Police
+                  Check                                           Forged Tickets
+                - Traffic                                         Forcing Gates
+                                                                  Unauthorised access
+                  Delay
+                                                                  Alcohol
+        LETTER REQUIRED   Y/N   □                                 Disorder
+                                                                                                                         O
+                                                                                                                             I*
+                                                                                                                              tt/£
+                                                                                                                                                 v*’.
+                                                                                                                                                h j
+                                                                                                                                                    '
+                                                                                                                                                    ‘s'
+
+
+                      JP p F                                                                                         ■                    y".         '
+
+
+
+
+    %
+
+
+
+
+*
+Incident     102   030589 0P2863        TYPING SERVICE DOCUMENT
+
+                                                      Questionnaire Number      QHS59
+                                                    -W
+ bu r name
+                                                         ■ —v =»   U_V-3-^T-^       ■3~
+ Forenames
+
+ii
+
+ DO YOU SUPPORT LIVERPOOL OR NOTTS FOREST?
+
+ NO
+
+
+Q2
+
+
+ HOW LONG HAVE YOU WORKED AT THIS ADDRESS?
+
+ TWO YEARS.
+
+
+Q3
+
+ H k E YOU AT WORK FOR LAST YEARS SEMI FINAL?
+
+ YE)
+
+
+Q4
+
+ WERE YOU AT WORK ON THE DAY OF THIS YEARS LIVERPOO /NOTTS FOREST HATCH?
+
+ YtS
+
+
+Q5
+
+ WAS THERE ANYTHING THAT MADE THIS MATCH DIFFERENT FROM THOSE IN THE PAST?
+
+ THERE WASN'T AS MANY POLICE OFFICERS AROUND AS LAST YEAR.
+
+     m
+Q 6W
+
+ DID YOU WITNESS ANY INCIDENTS OF DRUNKENESS OR DISORDERLY BEHAVIOUR BY ANY OF
+
+ THE FANS?    (BRIEF DESCRIPTION).   INCLUDE TIME OF INCIDENT.
+
+ NO
+
+
+Q7
+
+ WAS ANY DAMAGE CAUSED TO YOUR PREMISES BY F A N S ? (DETAILS)
+
+ NO
+
+
+QS
+
+ DID YOU ATTEND THE MATCH?    IF SO WHERE DID YOU SIT/DO YOU HAVE ANY RELEVANT
+                                                                           PAGE
+                                                                           GHS59
+
+ INFORMATION?      (CONSIDER USING SUPPORTERS QUESTIONAIRES)
+
+ NO
+
+
+
+Q9
+
+ WERE YOU WITH ANYONE WHO MAY HAVE RELEVANT INFORMATION? DETAILS -
+
+ NO
+
+
+G10
+
+ DO YOU HAVE ANY COMMENTS CONCERNING THE SOUTH YORKSHIRE POLICE ARRANGEMENTS
+
+ FOR THE MATCH/OR        INDIVIDUAL POLICE OFFICERS ON DUTY?
+
+ I BELIEVE THEY DID THE RIGHT THING.
+
+
+Q ®
+
+ IS THERE ANY OTHER MEMBERS OF YOUR HOUSEHOLD ABLE TO PROVIDE RELEVANT
+
+ INFORMATION ? D E T A I L S .
+
+ NO
+
+
+G 12
+
+ ANY OTHER     INFORMATION YOU WOULD LIKE BROUGHT TO THE NOTICE OF THE INDEPENDENT
+
+ JUDICIAL ENQUIRY?
+
+ I THINK LIVERPOOL SHOULD HAVE BEEN GIVEN THE OTHER TERRACE AS THEY HAVE MORE
+
+ FANS.
+
+EN tP fOF REPORT
+O' /VrI*I V . O O R Y   T E M P L A T E   -   (Version III)
+
+Please tick those category boxes which are applicable for indexing
+
+STANDS                                         MEDICAL
+fJplon Kop                                     Doctor
+North Stand                                    Police Surgeon
+South Stand - Seated                           Surgeon
+              Standing                         Pathologist
+WEST STAND                                     Nurse
+Tmi 1*2                                        Sti Johns Amb
+ppn 5-7
+PPM 3                                           SUPPORTERS
+PEN 4                                           Liverpool
+                                                Notts Forest
+ror.ICE OFFICER ON DUTY.                        Other
+South Yorkshire
+Merseyside
+                                                EMERGENCY SERVICES
+t^j^tinghamshire                                Fire Brigade
+                                                Ambulance
+r o M C R OFFICER OFF DUTY
+Merseyside                                      RECOGNITION
+Nottinghamshire                                 Bravery Acts
+South Yorkshire                                 Awards
+Others                                          Appreciation
+                                                Adverse Comments
+mkdia
+                                                Complaint i
+Press
+TV                                              PUBLIC BODIES
+Radio                                           Local Authority
+                                                Health 6 Safety
+GROUND STAFF.                                   FA
+Steward                                         Football Trust
+Turnstile Operator
+Catering                                        CONSULTANTS * FIRM8
+Other                                           Safety '      ....-'if...'
+                                                Construction
+LMttL RESIDENTS                                 othec    •I. •
+                                      ui                           /J
+IlflRe to House
+                                                Broken Barrier Pen 3
+Shopping
+Other                                           Surges In Crowd
+                                                Attended semi final
+PUPMC                                         ‘ In 1988. i
+Jietter
+Telephone                                       COACHES - Alcohol
+                                                        - Disorder
+Visit to Police Station
+                                                          - Police
+                                                            Check
+ANY CATEGORY NOT SPECIFIBD
+
+                                                LETTER REQUIRED            Y/N q
+                                                             .f>   i   ! ‘*‘■•
+Inci d'ent      102    080589 OP 3698             i'VP i. N G B k . KV! I C Ei D 0 C U Mb.N1
+
+                                                                         Questionnaire N urnb er   QHS60
+                               ,>~-S \
+ Surname
+
+ F ore names
+
+Q1
+
+    DO YOU SUPPORT LIVERPOOL OR NOTTS F0RES1
+
+ NEITHER
+
+
+(Sii
+
+    HOW LONG HAVE YOU LIVED AT THIS ADDRESS?
+
+    FOUR YEARS
+
+
+Q3
+
+         RE YOU AT HOME FOR LAST YEARS SEMI FINAL?
+
+    YES
+
+
+Q4
+
+    WERE YOU AT HOKE ON THE DAY OF THIS YEARS LIVERPOOL/NQTTS FOREST MATCH?
+
+
+
+
+Q5
+
+    WAS THERE ANYTHING THAT MADE THIS MATCH DIFFERENT FROM THOSE IN THE PAST?
+
+    NO
+
+
+Q
+
+    DID YOU WITNESS ANY INCIDENTS OF DRUNKENESS OR DISORDERLY BEHAVIOUR OF ANY
+
+    OF THE FANS?      (BRIEF DESCRIPTION)       INCLUDE TIME OF INCIDENT
+
+    NO
+
+
+07
+
+    WAS ANY DAMAGE CAUSED TO YOUR PREMISES BY FANS?                       (DETAILS)
+
+    NO
+
+
+QS
+
+    DID YOU ATTEND THE MATCH?            IF SO WHERE DID YOU SIT/DO YOU HAVE ANY RELEVANT
+ INFORMATION?            (CONSIDER USING SUPPORTERS QUESTIONNAIRE)
+
+ NO
+
+
+Q9
+
+ WERE YOU WITH ANYONE WHO KAY GIVE ANY RELEVANT INFORMATION? DETAILS
+
+ NO
+
+
+QIO
+
+ DO YOU HAVE ANY COMMENTS CONCERNING THE SOUTH YORKSHIRE POLICE ARRANGEMENTS
+
+ OF THE MATCH/OR               INDIVIDUAL POLICE OFFICERS ON DUTY?
+
+ NO
+
+
+
+
+ IS THERE ANY OTHER MEMBER OF YOUR HOUSEHOLD ABLE TO PROVIDE RELEVANT   INF ORMATI
+
+ ON. DETAILS
+
+ NO
+
+
+Q12
+
+ ANY OTHER INFORMATION YOU WOULD LIKE BROUGHT TO THE NOTICE OF THE INDEPENDANT
+
+ JUDICIAL ENQUIRY?
+
+ THE LIVERPOOL SUPPORTERS WERE GIVEN THE WRONG END OF THE GROUND
+
+ THE ARGUMENT THAT THE RESPECTIVE ENDS GIVEN TO THE CLUBS WERE BASED ON
+
+     Fads   to   l i v e r p o o l   &   n o t t s   is   incorrect
+t 3ATI55GORY         TEM PLATE -       (Version III)
+
+Please tick those category boxes which are applicable for Indexing.
+
+STANDB                                   MEDICAL
+Splon Kop                       P        Doctor
+Horth Stand                              Police Surgeon
+South Stand    Seated                    Surgeon
+               Standing                  Pathologist
+WEST STAND                               Nurse
+Pen 1R2                                  St Johns Amb
+Pen 5-7
+PEN 3                                    SUPPORTERS
+PEN 4                                    Liverpool
+                                         Notts Forest
+POLICE OFFICER ON DUTY.                  Other
+South Yorkshire
+                                         EHERGENCY SERVICES
+f!*»rseys lde
+   :t lnghamshlre                        Fire Brigade
+                                         Ambulance
+¥ '
+PCM.ICR OFF ICER OFF DUTY
+Merseyside                               RECOGNITION
+Mottinghnmshlte                          Bravery Acts
+South Yorkshire                          Awards
+                                         Appreciation
+Others
+                                         Adverse Comments
+HRDIA
+                                         Complaint i
+Press
+TV                                       PUBLIC BODIES
+Radio                                    Local Authority
+                                         Health « Safety
+GROUND STAFF.                            FA
+Steward                                  Football Trust
+Turnst1le Operator
+                                         CONSULTANTS ft FIRMS
+Catering
+Other                                    Safety '      , j-<f■/;."■
+                                         construction           :V
+f.O£AL
+ .OCA RESIDENTS                          Other    •j. •
+                                 i/
+llt^Pe to House
+                                          Broken Barrier Pen 3
+Shopping
+Other                                     Surges in Crowd
+                                          Attended semi final
+PUPLIC                                  * in 1988. |
+l.etter
+Telephone                                COACHES - A l c o h o l
+                                                 - Disorder
+Visit to Police Station
+                                                 - Police
+                                                    Check
+ANY CATEGORY NOT SPECIFIED
+                                                       I
+                                         LETTER REQUIRED        Y/N
+I n c i cie n t     030589 0P369S         TYPING SERVICE DOCUMENT
+
+                                                           Questionnai r e Number   QHS61
+
+ Surname
+
+ F o re narn e s
+
+Q1
+
+ DO YOU SUPPORT LIVERPOOL OR NOTTS FOREST'
+
+ NONE
+
+
+Q2
+
+ HOW LONG HAVE YOU LIVED AT THIS ADDRESS?
+
+ FOUR YEARS
+
+
+Q3
+
+     ERE YOU AT HOME FOR LAST YEARS SEMI FINAL?
+
+ YES
+
+
+QA
+
+ WERE YOU AT HOME ON THE DAY OF THIS YEARS LIVERPOOL/NOTTS FOREST MATCH?
+
+
+
+
+Q3
+
+ WAS THERE ANYTHING THAT MADE THIS MATCH DIFFERENT FROM THOSE IN THE PAST?
+
+ NO
+
+
+q(
+
+ DID YOU WITNESS ANY INCIDENTS OF DRUNKENESS OR DISORDERLY BEHAVIOUR OF ANY
+
+ OF THE FANS?      (BRIEF DESCRIPTION)   INCLUDE TIME OF    INCIDENT
+
+ NO
+
+
+Q7
+
+ WAS ANY DAMAGE CAUSED TO YOUR PREMISES BY THE FANS?
+
+ NO
+
+
+QS
+
+ DID YOU ATTEND THE MATCH?      IF SO WHERE DID YOU SIT/DO YOU HAVE ANY RELEVANT
+                                                                            PAGE
+*                                                                           GHS61
+
+    INFORMATION?   (CONSIDER USING SUPPORTERS QUESTIONNAIRE)
+
+    NO
+
+
+G9
+
+    WERE YOU WITH ANYONE WHO MAY GIVE ANY RELEVANT INFORMATION? DETAILS
+
+ NO
+
+
+Q 10
+
+    DO YOU HAVE ANY COMMENTS CONCERNING THE SOUTH YORKSHIRE POLICE ARRANGEMENTS
+
+ FOR THE MATCH/OR       INDIVIDUAL POLICE OFFICERS ON DUTY?
+
+    NO
+
+
+m
+
+    IS THERE AMY OTHER MEMBER OF THE HOUSEHOLD ABLE TO PROVIDE RELEVANT
+
+    INFORMATION.   DETAILS
+
+    NO
+
+
+<31£
+
+    ANY OTHER   INFORMATION YOU WOULD LIKE BROUGHT TO THE NOTICE OF THE INDEPENDANT
+
+    JUDICIAL ENQUIRY?
+
+    NO
+
+END OF REPORT
+eA TK G O R Y        TEM PLATE .            (Version III)
+
+Please tick those category boxes which are applicable for Indexing
+                                                                            ----
+STANDS                                       MEDICAL
+                                                                            -----
+Rplon Kop                        *           Doctor
+                                             Police Surgeon                 _
+Worth Stand
+South Stand     Seated           ■irj        Surgeon
+                Standing         rssr        Pathologist                    —
+
+WEST STAND                       *—          Nurse
+Pen 1R2                          -=r         Sti Johns Amb
+Pen 5-7
+PPM 3                                         8UPPORTBR8
+PEN 4                                         Liverpool
+                                              Notts Forest
+POLICE OFFICER OH DUTY.                       Other
+South Yorkshire
+Herseyslde                                    EMERGENCY SERVICES
+^jj^t 1nghamsh ire                            Fire Brigade
+                                              Ambulance
+rot,ICR OFFICER OFF DUTY
+Merseyside                                    RECOGNITION
+Nottinghamshire                               Bravery Acts
+South Yorkshire                               Awards
+                                              Appreciation
+Others
+                                              Adverse Comments
+IIKDIA                                        Complaint >
+Press
+TV                                            PUBLIC BODIES
+Radio                                         Local Authority
+                                              Health ft Safety
+GROUND STAFF.                                 FA
+Steward                                       Football Trust
+Turnstile Operator
+Cater ing                                     CONSULTANTS ft PIRNS
+Other                                         Safety      ■-..i-if’     •
+                                              Construction ,v*
+                                        /     Other'-'-' •j:
+r.QfiM. RR8IDFNTS                [17                      i   -   /j*
+ItVbe ■ to House
+                                               Broken Barrier Pen 3
+Shopping
+                                               Surges in Crowd
+Other
+                                            ,t Attended semi final
+PUPLIC                                         in 1988. ! .
+J.ctter
+Telephone                                     COACHES - Alcohol
+                                                      - Disorder
+Visit to Police Station
+                                                      - Police
+                                                        Check
+ANY CATEGORY NOT SPECIFIED
+
+                                              LETTER REQUIRED y/N
+                                                         '*'■;*< f
+                                                                            □
+I n c :i.d s n t   10 hi    □30589 OP3698                 TYPING E5ERVICEE DOCUMENT
+
+                                                                        Questionnaire Number   GHS62
+                                      ,-oi \ c f t 2.1
+ Surname                                                              r—5 -o                      3"'“
+
+ Forenames
+
+Q1
+
+ DO YOU SUPPORT LIVERPOOL OR NOTTS FOREST?
+
+ NO
+
+
+<32
+
+ HOW LONG HAVE YOU LIVED AT THIS ADDRESS?
+
+ THIRTY FIVE YEARS
+
+
+
+
+«     RE YOU AT HOME FOR LAST YEARS SEMI F INAL?
+
+ YES
+
+
+G4
+
+ WERE YOU AT HOME ON THE DAY OF THIS YEARS LIVERPOOL/NOTTS FOREST MATCH?
+
+ YES
+
+
+Q5
+
+ WAS THERE ANYTHING THAT MADE THIS MATCH DIFFERENT FROM THOSE IN THE PAST?
+
+ NO
+
+
+G #
+
+ DID YOU WITNESS ANY INCIDENTS OF DRUNKENESS OR DISORDERLY BEHAVIOUR OF ANY
+
+ OF THE FANS?              <BRIEF DESCRIPTION)           INCLUDE TIME OF INCIDENT
+
+ NO
+
+
+Q7
+
+ WAS ANY DAMAGE CAUSED TO YOUR PREMISES BY FANS?
+
+ NO
+
+
+Q8
+
+ DID YOU ATTEND THE MATCH?               IF SO WHERE DID YOU SIT/DO YOU HAVE ANY RELEVANT
+                                                                         PAGE      2
+                                                                         QMS £2
+
+ INFORMATION?   (CONSIDER USING SUPPORTERS QUESTIONNAIRE)
+
+ MO
+
+
+Q9
+
+ WERE YOU WITH ANYONE WHO MAY GIVE ANY RELEVANT INFORMATION? DETAILS
+
+ NO
+
+
+Q10
+
+ DO YOU HAVE ANY COMMENTS CONCERNING THE SOUTH YORKSHIRE POLICE ARRANGEMENTS
+
+ FOR THE MATCH/OR    INDIVIDUAL POLICE OFFICERS ON DUTY?
+
+ NO
+
+
+
+
+ IS THERE ANY OTHER MEMBER OF YOUR HOUSEHOLD ABLE TO PROVIDE RELEVANT
+
+ INFORMATION,   DETAILS
+
+ NO
+
+
+G12
+
+ ANY OTHER   INFORMATION YOU WOULD LIKE BROUGHT TO THE NOTICE OF THE INDEPENDANT
+
+ JUDICIAL ENQUIRY?
+
+END OF REPORT
+
+
+
+•
+CATEGORY             T E M P L A T E !-   (Version III)
+
+Please tick those category boxes which are applicable for indexing
+
+STANDS                                     MEDICAL
+nplon Kop                                  Doctor
+llorth Stand                               Police Surgeon
+South Stand     Seated                     Surgeon
+                Standing                   Pathologist
+WEST STAND                                 Nurse
+P<mi 1«2                                   Sti Johns Amb
+F*»n 5-7
+rFfl 3                                      SUPPORTERS
+PEN 4                                       Liverpool
+                                            Notts Forest
+P O M C E OFFICER OH DUTY.                  Other
+South Yorkshire
+M*»rseyn ide                                EHERGBNCY SERVICES
+Nottinghamshire                             Fire Brigade
+                                            Ambulance                                    B
+rOf.ICE OFFICER OFF DUTY
+M^rseysIde                                  RECOGNITION
+Nott Inghnmnhlre                            Bravery Acts
+South Yorkshire                             Awards
+Others                                      Appreciation
+                                            Adverse Comments
+MWDIA                                       Complaint
+Press
+TV                                          PUBLIC BODIES
+Rad io                                      Local Authority
+                                            Health * Safety
+GROUND STAFF.                               FA
+Steward                                     Football Trust
+Turnstile Operator
+Catering                                    CONSULTANTS * FIRMS
+Other                                       Safety
+                                            Construction
+I.QCAL RESIDENTS                            Other v' •I: • • s
+        to House
+S flopping                                  Broken Barrier Pen 3
+Other                                       Surges in Crowd
+                                            Attended semi final
+PUPMC                                     ‘ in 1988. |
+f.etter
+Telephone                                   COACHES - Alcohol
+Visit to Police Station                             - Disorder
+                                                    - Police
+                                                      Check
+AMY CATEGORY HOT SPBCIFIBD                            :|
+
+                                            LETTER REQUIRED
+                                                      ■.   1
+                                                           1 \-<s ;   *■ • ■ * ‘
+                                                                                   Y/N
+                                                                                         □
+                             N O ' J ’E P     A.D        I ' K M P I .ATI-
+
+Tlilr*   tr m p l.itf   i3  intended to i s s l n t            thf* R e c e I v « r / 1> t * I   c mp n t If f - i dPt t o
+id en tify     thono     flocum ents which a r e           to     f l r i q g e d by u s e       of   t h p NOTEPAD
+  IN .
+
+  ’L'lNiL,                        I N T E R P R E T A T IO N
+
+
+   * INOUTY < * *                 INSIDE/OUTSIDE                THE     GROUND       S, MAT FIR I Al .
+   *INOUTX***                                                    ”        "          & N O N - M A T E R I At ,         CZJ
+                                                                                                                        I I
+   * IN Y * * *                   INSIDE       THE     GROUND         5 MATERIAL
+   * IN X * * *                                             "         & NON-MATERIAL
+                                                                                                                        c u
+   *OUTY * * *                    OUTSIDE        THE     GROUND A M A T E R I A L
+   *OUTX** *                                     "           " 4  NON-MATERIAL
+   * DF.C’Y * * *                 DECEASED         & MATERIAL
+                                                                                                                             in
+   *DECX * * *                                     & NON-MATERIAL
+   *INJY***                       INJURED        PERSON & MATERIAL
+   * I NJ X * * *                   "            "       & NON-MATERIAL
+   *POLYSY* *                     POLICE,        SOUTH         YORKS      & MATERIAL
+   *POLXSY* *                       ”           "        "   & NON -MATERIAL
+   *POLYMS * *                    POLICE,       MERSEYSIDE & MATERIAL
+   *POLXMS**                        "           "        "  & NON-MATERIAL                                              □
+   *POLYNC* *                     POLICE,       NOTTS & MATERIAL
+   *POLXNC* *                       "           "      & NON-MATERIAL
+   ♦POLYOT**                      POLICE,       OTHER FORCE & MATERIAL
+   * P O L X O T * *'                            "       "   & NON-MATERIAL
+   *POLPRAISE* **                 POLICE       ACTION PRAISE, APPRECIATION
+   ♦POLADVERSE***                 POLICE       ACTION CRITICISED, ADVERSE COMMENT
+
+
+
+    THE RECEIVER/STATEMENT READER SHOULD TICK THE APPROPRIATE BOX( ES )                                                           TO
+    DIRECT THE INDEXER TO ATTACH THE MARKED CODING TO THE DOCUMENT
+    BEING INDEXED V I A + I N .
+Incident     102   0305S9 QP2863        TYPING SERVICE DOCUMENT
+
+                                                       Quest ionnai re Numfae r        QHS63
+
+ Surname
+                                                                   U - * ^   <-*_A   , ^ J^e>
+ Forenames         __________
+
+Q1
+
+ DO YOU SUPPORT LIVERPOOL OR NOTTS FOREST ?
+
+ NO
+
+
+Q2
+
+ HOW LONG HAVE YOU WORKED AT THIS ADDRESS?
+
+ FOUR YEARS.
+
+
+Q3
+
+ m     E YOU AT WORK FOR THE LAST YEARS SEMI FINAL?
+
+ YES
+
+
+Q4
+
+ WERE YOU AT WORK ON THE DAY OF THIS YEARS LIVERPOOL/NOTTS FOREST MATCH?
+
+ YES
+
+
+Q5
+
+ WAS THERE ANYTHING THAT MADE THIS AMTCH DIFFERENT FROM THOSE IN THE PAST?
+
+ IN MY OPINION THERE DIDN'T APPEAR TO BE AS MANY POLICE OFICERS ON DUTY AS
+
+ W       YEAR IN THE ROAC OUTSIDE OUR SHOP.
+
+
+Q6>
+
+ DID YOU WITNESS ANY INCIDENTS OF DRUNKENESS OR DISORDERLY BEHAVIOUR BY ANY OF
+
+ THE FANS?    (BRIEF DESCRIPTION)   INCLUDE TIME OF   INCIDENT.
+
+ NO
+
+
+Q7
+
+ WAS ANY DAMAGE CAUSED TO YOUR PREMISES BY FANS? DETAILS.
+
+ NO
+
+
+QS
+                                                                           page:
+     .   ’                                                 GHS63
+
+ DID YOU ATTEND THE MATCH?    IF SO WHERE DID YOU SIT/DO YOU AHVE ANY RELEVANT
+
+ INFORMATION?(CONSIDER USING SUPPORTERS QUESTIONAIRES)
+
+ NO
+
+
+Q9
+
+ WERE YOU WITH ANYONE WHO MAY GIVE ANY RELEVANT INFORMATION? DETAILS.
+
+ NO
+
+
+QIO
+
+ DO YOU AHVE ANY COMMENTS CONCERNING THE SOUTH YORKSHIRE POLICE ARRANGEMENTS
+
+ FOR THE MATCH/OR    INDIVIDUAL POLICE OFFICERS ON DUTY?
+
+
+ m
+Q11
+
+ IS THERE ANY MEMBER OF YOUR HOUSEHOLD ABLE TO PROVIDE RELEVANT    INFORMATION.
+
+ DETAILS.
+
+ NO
+
+
+G1E
+
+ ANY OTHER INFORMATION YOU WOULD LIKE BROUGHT TO THE NOTICE OF THE INDEPENDENT
+
+ JUDICIAL ENQUIRY?
+
+ I THINK THAT THE LIVERPOOL FANS SHOULD HAVE BEEN GIVEN THE LARGE END OF THE
+
+ G ® J N D AS THEY TRAVEL WITH MORE FANS.
+
+END OF REPORT
+C a t e g o r y      t e m   p l a t e    -   (Version i n )
+
+Please tick those category boxes which are applicable for indexing
+
+STANDS                                    I    MEDICAL
+Splon Kop                                —*    Doctor
+North Stand                                     Police Surgeon
+South Stand      Seated                         Surgeon
+                 Standing                       Pathologist
+WEST STAND                                      Nurse
+PfMi 1*2                                        St Johns Amb
+Fmi 5-7
+TFM 3                                           SUPPORTERS
+PEN 4                                           Liverpool
+                                                Notts Forest
+POLICE OFFICER ON DUTY.                         Other
+South Yorkshire
+MetBeys Ide                                     EMERGENCY SERVICES
+Nottinghamshire                                 Fire Brigade
+                                                Ambulance
+POLICE OFFICER OFF DUTY
+ Merseyside                                     RECOGHIT10H
+.Nottinghamshire                                Bravery Acts
+ South Yorkshire                                Awards
+                                                Appreciation
+ Others
+                                                Adverse Comments
+M«DIA                                           Complaint i
+Press
+TV                                              PUBLIC BODIES
+                                                Local Authority
+Radio
+                                                Health 6 Safety
+GROUND STAFF.                                   FA
+Steward                                         Football Trust
+Turnstile Operator
+                                                CONSULTANTS * FIRMS
+Catering
+Other                                           Safety ’
+                                                Construction
+r.QfjAT. RESIDENTS                              Other    • i . - • '-i•
+llc|Pe to House
+                                                Broken Barrier Pen 3
+Shopping
+Other                                           Surges in Crowd
+                                                Attended semi final
+PUPLIC                                          in 1988. :|
+
+Telephone                                       COACHE8 - Alcohol
+                                                        - Disorder
+Visit to Police Station
+                                                        - Police
+                                                          Check
+ANY CATEGORY NOT 8PECIFIBD                                .if
+
+                                                LETTER REQUIRED     Y/N
+                                                                          □
+Incident       102    030589 OF*3698         TYPING SERVICE DOCUMENT
+
+                                                          Questionnaire Number        GHS64
+                                   IW V 3
+ Surname
+                                                                           ‘- t - H A ' l
+ F orenames
+
+Q-1
+
+ DO YOU SUPPORT LIVERPOOL OR NOTTS FOREST?
+
+ NEITHER
+
+
+Q2
+
+ HOW LONG HAVE YOU LIVED AT THIS ADDRESS'
+
+ THIRTY FIVE YEARS
+
+
+Q3
+
+      IE   YOU AT HOME FOR LAST YEARS SEMI FINAL?
+
+
+
+
+Q4
+
+ WERE YOU AT HOME ON THE DAY OF THIS YEARS LIVERPOOL/NOTTS FOREST MATCH?
+
+ YES
+
+
+G5
+
+ WAS THERE ANYTHING THAT MADE THIS MATCH DIFFERENT FROM THOSE IN THE PAST?
+
+ NO
+
+
+Q6
+
+ DID YOU WITNESS ANY INCIDENTS OF DRUNKENESS OR DISORDERLY BEHAVIOUR OF ANY
+
+ OF THE FANS?        (BRIEF DESCRIPTION)    INCLUDE TIME OF INCIDENT
+
+ NO
+
+
+Q7
+
+ WAS ANY DAMAGE CAUSED TO YOUR PREMISES BY FANS?
+
+ NO
+
+
+QS
+
+ DID YOU ATTEND THE MATCH?        IF SO WHERE DID YOU SIT/DO YOU HAVE ANY RELEVANT
+                                                                         QHS&4
+
+ INFORMATION?   (CONSIDER USING SUPPORTERS QUESTIONNAIRE)
+
+ NO
+
+
+Q9
+
+ WERE YOU WITH ANYONE WHO MAY GIVE ANY RELEVANT INFORMATION? DETAILS
+
+ NO
+
+
+Q 10
+
+ DO YOU AHEV ANY COMMENTS CONCERNING THE SOUTH YORKSHIRE POLICE ARRANGEMENTS
+
+ FOR THE MATCH/OR    INDIVIDUAL POLICE OFFICERS ON DUTY?
+
+ NO
+
+
+Q ®
+
+ IS THERE ANY OTHER MEMBER OF YOUR HOUSEHOLD ABLE TO PROVIDE RELEVANT
+
+ INFORMATION.   DETAILS
+
+ NO
+
+
+Q12
+
+ ANY OTHER   INFORMATION YOU WOULD LIKE BROUGHT TO THE NOTICE OF THE INDEPENDANT
+
+ JUDICIAL ENQUIRY?
+
+ NOT ENOUGH POLICE
+
+END OF REPORT
+0ATEG O R Y          TEM PLATE .       (Version III)
+
+Please tick those category boxes which are applicable £or indexing
+
+STAMDB                                   MEDICAL
+Splon Kop                                Doctor
+Worth Stand                              Police Surgeon
+South Stand     Seated                   Surgeon
+                Standing                 Pathologist
+WEST STAND                               Nurse
+Pen 1*2                                  Sti Johns Amb
+Pimi 5-7
+PEN 3                                    SUPPORTERS
+PEN -I                                   Liverpool
+                                         Notts Forest
+P O M C E OFFICER OH DUTY.               Other
+South Yorkshire
+M erseysid e
+Nottinghamshire.
+1
+  If,ICR OFFICER OFF DUTY
+                                         EMERGENCY 8BRVICBS
+                                         Fire Brigade
+                                         Ambulance                        B
+Merseyside                               RECOGHITIOH
+Nottinghamshire                          Bravery Acts
+South Yorkshire                          Awards
+Others                                   Appreciation
+                                         Adverse Comments
+MWDIA                                    Complaint i
+Press
+TV                                       PUBLIC B0DIE8
+                                         Local Authority
+Radio
+                                         Health fi Safety
+GROUND STAFF.                            FA
+Steward                                  Football Trust
+Turnstile Operator
+Catering                                  C O N S U L T A N T S * FIRMS
+Other                                     Safety '
+                                          Construction c,** ;
+LOCAL RRfllDFNTS                          Other           •j. -
+                                                                  'i
+if^^e to House
+                                          Broken Barrier Pen 3
+Shopping
+Other                                     Surges in Crowd
+                                       lt.Attended semi final
+PUWiKC                                  ‘ in 1988. s
+I,etber
+Telephone                                COACHES - Alcohol
+                                                 - Disorder
+Visit to Police Station
+                                                 - Police
+                                                   Check
+ANY CATEGORY HOT SPECIFIED                           . i[
+                                                      ■!I\                vl:®
+                                         LETTER REQUIRED          Y/N
+                                                                                                                                          .-wwra
+
+
+
+
+Th 1*                       S ’, l n t « Mu l » » < ! t o  133 h t   t-h*1 R " ' ' ' ' i ■ n x ■ ->* -<* “ >nP ••1 Rf* l fi ^ r t o
+                                                                                            (,•• ij5 p '>f t h N O T E P A D
+i d e n t i f y   t h o r,"    Jocum ent3            w hich  a r?  to    [ l - i q q f ’ tS
+MN.
+
+                                           J J 1 T E R P R E T A T I ON
+                                                                                                                                 n    j
+* * * I N('i (TV + * *                     INSIDE/OUTSIDE                 THE    GROUND       A   MATF.R I Al .
+                                                   ..                      »       "              NON-MATERIAL
+* * * I N'lUTX * * *
+* * * IN Y * * *                           INSIDE        THE     GROUND         & MATERIAL
+                                             »            "           "         s N ON - M A T F R I AL.
+* * * I NX * * *
+* * *OUTY * * *                            OUTSIDE         THE     GROUND        f. M A T E R I A L   .
+                                             i.            H           "         & NON-MATER IA L )/^
+* **OUTX* * *
+* * *PF.CY* * *                            UFCFASED   <i M A T E R I A L
+* * * d f .c x * * *                                  & NON - M ATF.R I AL
+***INJY**«                                 INJURED PERSON & MATERIAL
+                                             ii     'i           & N O N - M A T E R I AL
+* * * IN J X * * *
+* **FOLYSY* *                              POLICE, SOUTH YORKS & MATERIAL
+                                             i.    ii              •'     & NON-MATERIAL
+* * * P O L XP Y * *
+                                           POLICE, MERSEYSIDE & MATERIAL
+***POLYMS**
+                                             .1    »               "     & NON-MATERIAL
+***POLXMS**                                                                                                                       □
+* * *POLYNC* *                             POLICE,         NOTTS          & MATERIAL
+                                             «             "              & NON-MATERIAL
+***POLXNC**
+* * *POLYOT* *                             POLICE,         OTHER          FORCE & MATERIAL
+                                                ii        »                 •'   & N O N -MATERIAL
+* * *POLXOT* *'                                                                                                                  □
+                                           POLICE         ACTION          PRAISE, APPRE CI ATI ON                                a,.^d
+* ** POLPRAI SE * * *
+                                           POLICE         ACTION          CRITICISED, ADVERSE COMMENT
+* **POLADVERSE* * *
+
+
+
+
+      BEING       INDEXED         VIA     +IN.
+i n c i ci &n C   j. 0 cf..    030589   OP3 6 9 8    TYP INGi S3E.R V I C E DOCUMFINT
+
+                                                         ,               Questionnaire Number      QHS65
+                                                                "I0 If            ^c d L r >
+ Surname                                                f,U - 02-           4“»                jQl5v4s •
+
+ Forenames
+
+Q-1
+
+ DO YOU SUPPORT LIVERPOOL OR NOTTS FOREST?
+
+ NEITHER
+
+
+Q2
+
+ HOW LONG HAVE YOU LIVED AT THIS ADDRESS?
+
+ FOURTEEN MONTHS
+
+
+Q3
+
+^RE        YOU AT HOME FOR LAST YEARS SEMI FINAL?
+
+ YES
+
+
+Q4
+
+ WERE YOU AT HOME ON THE DAY OF THIS YEARS LIVERPOOL/NOTTS FOREST MATCH?
+
+ YES
+
+
+G5
+
+ WAS THERE ANYTHING THAT MADE THIS MATCH DIFFERENT FROM THOSE IN THE PAST?
+
+  I GOT THE IMPRESSION THAT THERE WAS A LOT MORE DRINKING BY FANS, LIVERPOOL
+
+ MAINLY.          IN THE LATE MORNING THAN ON PREVIOUS GAMES.                SOME WERE EVEN DRINKING AT
+
+ 0930 HRS
+
+
+Q6
+
+ DID YOU WITNESS ANY INCIDENTS OF DRUNKENESS OR DISORDERLY BEHAVIOUR BY ANY
+
+ OF THE FANS?                 (BRIEF DESCRIPTION)   INCLUDE TIME OF       INCIDENT
+
+ NO
+
+
+Q7
+
+ WAS ANY DAMAGE CAUSED TO YOUR PREMISES BY FANS?                         (DETAILS)
+
+ NONE
+                                                                                    PAGE
+             »                                                   QHS63
+       *
+
+QS
+
+  DID YOU ATTEND THE MATCH?        IF SO WHERE DID YOU SIT/DO YOU HAVE ANY RELEVANT
+
+  INFORMATION?       (CONSIDER USING SUPPORTERS QUESTIONNAIRE)
+
+  NO AT WORK FROM 1130-2000
+
+
+Q9
+
+  WERE YOU WITH ANYONE WHO MAY GIVE RELEVANT         INFORMATION? DETAILS
+
+  NO
+
+
+Q 10
+
+  DO YOU HAVE ANY COMMENTS CONCERNING THE SOUTH YORKSHIRE POLICE ARRANGEMENTS
+
+^ R        THE MATCH/OR   INDIVIDUAL POLICE OFF ICERS ON DUTY?
+
+  EVEN      IN THE PERIOD FROM 1100-1300 THERE WAS TOO MUCH CONGESTION IN THE
+
+  STREETS LEADING INTO LEPPINGS LN. THEY SHOULD HAVE BEEN MOVED,            APPARENTLY
+
+  THERE WAS NO POLICE CORDON C HECKING IF FANS HAD TICKETS LIKE LAST YEAR
+
+
+r\ ,-i a
+US1 I
+
+   IS THERE ANY OTHER MEMBER OF YOUR HOUSEHOLD ABLE TO PROVIDE RELEVANT
+
+   INFORMATION? DETAILS
+
+  H6/10/2 REFERS
+
+
+012
+
+           OTHER   INFORMATION YOU WOULD LIKE BROUGHT TO THE NOTICE OF THE INDEPENDANT
+
+  JUDICIAL ENQUIRY?
+
+   I/VE BEEN AT BIG SOCCER MATCHES ALL OVER THE COUNTRY FOR 20 YEARS & THERE
+
+  ARE OTHER GROUNDS A LOT MORE DANGEROUS THAN H ILL S B R O R O U G H . ON THE DAY THERE
+
+  WAS TOO MUCH PRESSURE TO GET IN.        I ALSO TOTALLY DISAGREE WITH THE ID CARD
+
+  SYSTEM THAT MAY CAUSE MORE DISASTERS
+
+END OF REPORT
+Please tick those category boxes which are applicable for indexing.
+
+STAHD8                                   MEDICAL
+Splon Kop                                Doctor
+North Stand                              Police Surgeon
+South Stand      Seated                  Surgeon
+                 Standing                Pathologist
+WRST STAND                               Nurse
+TfMi 1S2                                 Sti Johns Amb
+Frn 5-7
+PPM 3                            □       SUPPORTERS
+PEN 4                                    Liverpool
+                                         Notts Forest
+P O M C E OFFICER ON DUTY.               Other
+South Yorkshire
+t1pr seyp Jde
+Nottinghamshire
+
+H f . I C R OFFICER OFF DUTY
+                                         EMERGENCY SERVICES
+                                         Fire Brigade
+                                         Ambulance                  B
+ l!«*rseys Jde                           RECOGNITION
+ flott Inghamshi re                      Bravery Acts
+ South Yorkshire                         Awards
+ Others                                  Appreciation
+                                         Adverse Comments
+HWDIA                                    Complaint ' i .
+Press
+TV                                       PUBLIC BODIES
+Radio                                    Local Authority
+                                         Health fi Safety
+GnoUHD STAFF.                            FA
+Steward                                  Football Trust
+Turnstile Operator
+Catering                                 CONSULTANTS * FIRMS            ;   V
+Other                                    Safety                 •       •V-     • i ? - '■
+
+                                         Construction :     ;               K :■        '
+                                                                            vf'■’
+                                                                                p     .
+LOCAL RESIDENTS                          Other -1’ j: •
+IJAtse to House
+Sapping                                   Broken Barrier Pen 3
+Other                                     Surges in Crowd
+                                       >t.Attended semi final
+rupr,ic                                 ' in 1988. ,
+f.etter
+Telephone                                COACHES - Alcohol
+Visit to Police Station                          - Disorder
+                                                 - Police
+                                                   Check
+ANY CATEGORY HOT SPECIFIBD                          1
+
+                                         LETTER REQUIRED    Y/N
+                                                                                                                          •;n .waBW
+
+
+
+
+                                   r>i o   'j' ii: t > tv l >      'l* i*: m p i      . a ’I'J-
+
+Th I s t . n m p l i t . r * i i n t e n d e d to issl.it t h e R e c p I v n r / I i ' - a l . c m p n t R e a d e r to
+Identify t h o s p documents w h i c h a r e t o               E laqged     by iisp of                th e  NOTEPAD
+ IN .
+
+  •’ L ' J L N C L .                       I _ N T E R P R E T A T I ON
+
+    * INOUTY***                            INSIDE/OUTSIDE                  THE    GROUND     & MATERIAL
+                                                                                                                           □
+    * INOUTX * * *                                                                           & N O N - M A T E R I At ,    a
+    * I NY* * *                            INSIDE        THE     GROUND          & MATERIAL
+    * I NX * * *                                                      "          & NON-MATERIAL,
+    *OUTY* *           *                   OUTSIDE         THE     GROUND         f, M A T E R I A L
+    *OUTX**            *                                   "           "          & NON-MATERIAL
+    * DF. CY * *       *                   DECEASED          & MATERIAL
+    * DF. CX * *       *                                     S          NON-MATERIAL
+                                           INJURED         PERSON & MATERIAL
+                                                                                                                            □
+    *INJY***
+    * IN J X* * *                            "             "       & HON-MATERIAL
+    *POL Y S Y *           *   *           POLICE,         SOUTH YORKS & M A T E R I A L
+                                                                        a NON-MATERIAL                                      □
+    *POLXSY* **
+    *POLYMS ** *                           POLICE,         MERSEYSIDE             &   MATERIAL                              o
+                                             "            "                 "  a NON-MATERIAL                               □
+    *POLXMS * * *
+    *POLYNC* * *                           POLICE,        NOTTS           & MATERIAL
+    *POLXNC* * *                                                          a NON-MATERIAL
+    *POLYOT* * *                           POLICE, OTHER                  FORCE & MATERIAL
+    *POLXOT* **                              "     "                        "   a NON-MATERIAL
+    *POLPRAlSE* **                         POLICE ACTION                  PRAISE, APPRECIATION
+    *POLADVERSE***                         POLICE ACTION                  CRITICISED, ADVERSE COMMENT
+
+
+       THE RECEIVER/STATEMENT READER SHOULD TICK THE APPROPRIATE BOX( ES)                                                       TO
+       DIRECT THE INDEXER TO ATTACH THE MARKED CODING TO THE DOCUMENT
+       BEING INDEXED V I A + I N .
+                                                      Question na ire Nurnb e r        QHS66
+
+ Surname                                                                <fcKsL
+                                                        #   .-vo                 «<—
+ F orenames
+
+G1
+
+ DO YOU SUPPORT LIVERPOOL. OR NOTTS FOREST?
+
+ NO
+
+
+Q2
+
+ HOW LONG HAVE YOU WORKED AT THIS ADDRESS?
+
+ SEVEN YEARS
+
+
+G3
+
+ ( ^ R E YOU AT WORK FOR LAST YEARS SEMI FINAL?
+
+ YES
+
+
+Q4
+
+ WERE YOU AT WORK ON THE DAY OF THIS YEARS LIVERPOOL/NOTTS FOREST MATCH?
+
+ YES
+
+
+Q3
+
+ WAS THERE ANYTHING THAT MADE THIS MATCH DIFFERENT FROM THOSE IN THE PAST?
+
+ NO
+
+
+
+
+ DID YOU WITNESS ANY INCIDENTS OF DRUNKENESS OR DISORDERLY BEHAVIOUR BY ANY
+
+ OF THE FANS?(BRIEF DESCRIPTION).   INCLUDE TIME OF    INCIDENT.
+
+ NO
+
+
+(37
+
+ WAS ANY DAMAGE CAUSED TO YOUR PREMISES BY FANS? DETAILS.
+
+ NO
+
+
+QS
+
+ DID YOU ATTEND THE MATCH?   IF SO WHERE DID YOU SIT/DO YOU HAVE ANY RELEVANT
+                                                                         PAGE
+                                                                         QH56<b
+
+ INFORMATION?   (CONSIDER USING SUPPORTERS QUEST I,ON A IRE)
+
+ MO
+
+
+Q9
+
+ WERE YOU WITH ANYONE WHO MAY GIVE ANY RELEVANT INFORMATION? DETAILS.
+
+ NO
+
+
+Q10
+
+ DO YOU HAVE ANY COMMENTS CONCERNING THE SOUTH YORKSHIRE POLICE ARRANGEMENTS
+
+ FOR THE MATCH/OR    INDIVIDUAL POLICE OFFICERS ON DUTY?
+
+ NO
+
+
+•
+ IS THERE ANY MEMBER OF YOUR HOUSEHOLD ABLE TO PROVIDE RELEVANT INFORMATION
+
+ DETAILS.
+
+ NO
+
+
+Q12
+
+ ANY OTHER   INFORMATION YOU WOULD LIKE BROUGHT TO THE NOTICE OF THE INDEPENDENT
+
+ JUDICIAL ENQUIRY?
+
+ NO
+
+END OF REPORT
+                     TEM PLATE .           (Version III I
+
+.iplease   tick those category boxes which are applicable for indexing
+
+STANDS
+Spion Kop                           □        MEDICAL
+                                             Doctor
+                                             Police Surgeon
+Worth Stand
+South Stand      Seated                      Surgeon
+                 Standing                    Pathologist
+WEST STAND                                   Nurse
+Pnn 1*2                                      St Johns Amb
+P p m 5-7
+                                             SUPPORTERS
+FFH 3
+PEN 4                                        Liverpool
+                                             Notts Forest
+POT.ICE OFFICER ON DUTY.                     Other
+South Yorkshire
+tl*»rseyRide                                 EMERGENCY SERVICES
+Nottinghamshire                              Fire Brigade
+                                             Ambulance
+    ICR OFFICER OFF DUTY
+t!*»rseyslde                                 RECOGNITION
+NottInghamshire                              Bravery Acts
+South Yorkshire                              Awards
+                                             Appreciation
+Others
+                                             Adverse Comments
+HRDIA                                        Complaint >
+Press
+TV                                           PUBLIC BODIES
+                                             Local Authority
+Radio
+                                             Health * Safety
+GROUND STAFF.                                FA
+Steward                                      Football Trust
+Turnstile Operator
+Catering
+                                             CONSULTANTS * FIRMS
+Other                                        Safety         -i,
+                                             Construction   •<V-
+
+LOCAL RESIDENTS                              Other 1
+llj^^e to House
+                                              Broken Barrier Pen 3
+Shopping
+                                              Surges in Crowd
+Other
+                                           >t.Attended sfcmi final
+PUPLIC                                      ' In 1988. j
+I.«t h e r
+Telephone                                    COACHES - Alcohol
+                                                     - Disorder
+Visit to Police Station
+                                                     - Police
+                                                       Check
+ANY CATEGORY NOT SPECIFIBD                                               •       ..
+
+
+
+
+                                             LETTER REQUIRED       Y/N
+                                                                             □
+                                 r-4 O M ' li: t> /V I ">    '[’K M P I       ■ A'l'l •-
+
+Tli 1«t t n mp ! i ♦ f     i;   in t           to l s a h t * hf* R w r'n * r   * 41 “ mf*" ‘         .1 °
+IfWitify       1
+                   Uionn   'locuments        w h i c h a r ? t;o fl-iq.gpd by .is*- '>f U>? N O T E P A D
+UN.
+
+                                        IJJTERPRETAT IO N
+                                                                                                          CD
+* * * I fjoi it v * * *                 I NS I D E / C U T S I DE
+                                           m           .•
+                                                                    THE
+                                                                     •>
+                                                                            GROUND
+                                                                              "
+                                                                                     f. M A T E R I A L
+                                                                                     & NON-MATER IAL
+                                                                                                          CD
+* * * in o U T X * * *
+***INY***                               INSIDE
+                                          »
+                                                    THE
+                                                      »
+                                                            GROUND
+                                                                 "
+                                                                          & MATERIAL
+                                                                          5 MON-MATERIAL
+                                                                                                          CD
+* * * I NX* * *
+                                       OUTSIDE        THE     GROUND        f. M A T E R I A L   .
+* * *OUT Y * **
+                                                                            & NON-MATER I A L iX
+                                                                                                          □
+* * *OUTX * * *
+                                        t'FOFASED       4   MATERIAL
+* * * d f .c y * * *                                                                                      □
+                                           "            S   NON-MATERIAL
+* * * DF.CX * * *                                                                                         □
+                                        INJURED       PERSON         & MATERIAL,
+* **INJY* * *
+                                          ••          ••             & NON-MATERIAL
+* * * IN J X * * *                                                                                        CD
+                                        POLICE,        SOUTH        YORKS    & MATERIAL
+***FOLYSY** *
+                                                                             & NON-MATERIAL
+«**POLXPY***
+                                        POLICE,        MERSEYSIDE           & MATERIAL
+* * * P OL YHS * * *                      ..          •*       "            & NON-MATERIAL
+« **POLXMS***
+* * *POLYNC* * *                        POLICE,        NOTTS        & MATERIAL                            CJ
+                                          ..          ••            & NON-MATERIAL
+* * *POLXNC** *
+                                        POLICE,        OTHER        FORCE & MATERIAL
+* * *POLYOT* * *                          „           ..              »   S N O N - M A T E R IAL
+* * * PO LX OT * * *
+                                        POLICE       ACTION         PRAISE, APPRECIATION
+* * *POLPRAI SE* * *                                                                                      r—-gi
+                                        POLICE       ACTION         CRITICISED, ADVERSE COMMENT
+* * * POLADVERSE* * *
+
+
+
+
+      BEING INDEXED V I A + I N .
+Incident      IDE    030589 OP3698               iV H 1N G B E“H V lG fc. I)0 C U M E.N !
+
+                                                                       Quest i0 n n a 1 re Number   QH&6-
+                               ^   i <$z-'3>
+ Surname
+
+ F orenames
+
+Qi
+
+ DO YOU SUPPORT LIVERPOOL OR NOTTS FOREST?
+
+ NONE
+
+
+GH
+
+ HOW LONG HAVE YOU LIVED AT THIS ADDRESS?
+
+ ONE 8, HALF YEARS
+
+
+<33
+
+I ^ R E YOU AT HONE FOR LAST YEARS SEMI FINAL?
+
+ YES
+
+
+Q4
+
+ WERE YOU AT HOME ON THE DAY OF THIS YEARS LIVERPOOL/NOTTS FOREST HATCH?
+
+ NO
+
+
+(35
+
+ WAS THERE ANYTHING THAT MADE THIS MATCH DIFFERENT FROM THOSE IN THE PAST?
+
+ NO
+
+
+0 #
+ DID YOU WITNESS ANY INCIDENTS OF DRUNKENESS OR DISORDERLY BEHAVIOUR BY ANY
+
+ OF THE FANS?       (BRIEF DESCRIPTION)        INCLUDE TIME OF           INCIDENT
+
+ NO
+
+
+<37
+
+ WAS ANY DAMAGE CAUSED TO YOUR PREMISES BY FANS? DETAILS
+
+ NO
+
+
+(38
+
+ DID YOU ATTEND THE MATCH?         IF SO WHERE DID YOU SIT/DO YOU HAVE ANY RELEVANT
+                                                                         F At:!h.   f.:
+                                                                         QHS67
+ *
+
+ INFORMATION?   (CONSIDER USING SUPPORTERS QUESTIONNAIRE)
+
+ NO
+
+
+G9
+
+ WERE YOU WITH ANYONE WHO MAY GIVE ANY RELEVANT INFORMATION? DETAILS
+
+ NO
+
+
+G 10
+
+ DO YOU HAVE ANY COMMENTS CONCERNING THE SOUTH YORKSHIRE POLICE ARRANGEMENTS
+
+ FOR THE MATCH/OR    INDIVIDUAL POLICE OFFICERS ON DUTY?
+
+ NO
+
+
+
+
+ THERE ANY OTHER MEMBER OF YOUR HOUSEHOLD ABLE TO PROVIDE RELEVANT INFORMATION?
+
+ DETAILS
+
+ NO
+
+
+(312
+
+ ANY OTHER   INFORMATION YOU WOULD LIKE BROUGHT TO THE NOTICE OF THE INDEPENDANT
+
+ JUDICIAL ENQUIRY?
+
+ NO
+
+END OF REPORT
+CA'iM?:GORY          TEM PLATE .       (Version III)
+
+Please tick those category boxes which are applicable for Indexing.
+
+STANDS                                   MEDICAL
+Splon Kop                                Doctor
+ftortli Stand                            Police Surgeon
+South Stand     Seated                   Surgeon
+                Standing                 Pathologist
+WEST STAND                               Nurse
+Pen 1R2                                  Sti Johns Amb
+P imi 5-7
+PFH 3                                    SUPPORTERS
+PEN 4                                    Liverpool
+                                         Notts Forest
+P O M C E OFFICER OH DUTY.               Other
+South Yorkshire
+ll*»rseyslde                             EHBRGBNCY SERVICES
+Nottinghamshire                          Fire Brigade
+                                         Ambulance
+M i.ICR OFFICER OFF DUTY
+                                         RECOGNITION
+Merseyside
+Hot 1 1nghamnh 1re                       Bravery Acts
+South Yorkshire                          Awards
+                                         Appreciation
+Others
+                                         Adverse Comments
+HRDI A                                   Complaint i
+Press
+TV                                       PUBLIC BODIES
+                                         Local Authority
+Rad 1o
+                                         Health « Safety
+GROUND STAFF.                            FA
+Steward                                  Football Trust
+Turnstile Operator
+Catering                                 CONSULTANTS * FIRMS
+Other                                    Safety '
+                                         Construction "
+I.OCAf. RESIDENTS                        other    ■ i • • ’& .'.-s-
+                                 t/                  '
+l l A e to House
+                                          Broken Barrier Pen 3
+Stmpplng
+other                                     Surges In Crowd
+                                       ,t.Attended semi final
+PUflLIC                                 ’ In 1988. )
+lietter
+Telephone                                COACHES - Alcohol
+                                                 - Disorder
+Visit to Police Station
+                                                 - Police
+                                                   Check
+ANY CATEGORY NOT SPECIFIED
+
+                                         LETTER REQUIRED        Y/N
+                                                                                                                                                                 ‘B*
+
+
+
+
+                                fv| f .) ' I ' l i : t> A. I >         H’
+                                                                        . M P I         , /\ 'I' !•
+
+Tti I n   * <’mp.! 1 “   i     intorulfvl        t ■) iss l i t   t           R          i   -o   r   /    t   -i 1   <* i n f * "   *   I’ f* i d ( * r   t o
+
+                                                                                              by          M5p         .,f t tu* N O T E P A D
+i         i f y t hor.       Incuraents        w hich a r?      to
+MN.
+
+                                        J J 1 T E R P R £ T A T I ON
+                                                                                                                                                            □
+* * * Ihoi it v * * *                   I NS I D F ./ O H T S I DE      THE       GROUND              & MATERIAL
+                                                                                                      S N O N - M A T E R I At .
+                                                                                                                                                            a
+* * * i HOI ITX * * *
+*'**INY***                               INSIDE         THE      GROUND       &        MATERIAL
+                                                         •<              "    5        NCN-MATFRIAL
+* * * IN X * * *
+* * *OUTY * * *                         OUTSIDE           THE     GROUND          f*    MATERIAL
+                                                          »           "           & NON -MATFRIAL
+***OUTX***
+* * * d f .c v ‘ m                      I ' F CFASED        <k M A T E R I A L
+                                                            S N O N - M A T F . R I AI.
+* **DECX* * *
+***INJY**«                               INJURED          PERSON & MATERIAL
+                                                          »            & HON-MATERIAL
+* * * IN J X * * *
+                                         POLICE,          SOUTH YORKS & MATERIAL
+* **POLYSY*
+                                                          ..             •<       & NON-MATERIAL
+* **POLXSY*
+                                        POLICE, M ER SE YSI DE                    & MATERIAL
+* **POLYMS *
+                                          ».    »          ••                     & NON-MATERIAL
+*** P0r , X M 5 *
+                                         POLICE, NOTTS                 & MATERIAL
+* **POLYNC*
+                                           •<    "                      & NON-MATERIAL                                                                       i         i
+* * *POLXNC*
+                                         POLICE, OTHER                 FORCE & MATERIAL                                                                      a
+***POLYOT*                                 .1    »                        "    & NON- M A T F . R I AL
+***POLXOT*                                                                                                                                                   □
+***POLPRAISE* * *                        POLICE         ACTION         PRAISE, A P P R E C I ATJ°N                                                           W
+                                         POLICE         ACTION         CRITICISED, ADVERSE COMMENT
+***POLADVERSE* **
+
+
+
+
+      BRING INDEXED V I A + I N .
+3. n c i ct e n t   i Li'H    0 0 S 9 0 P '■J 6 9 S
+
+                                                                     Questionnaire Number   GHS6S
+
+ Surname
+
+ F orenames
+
+
+
+  DO YOU SUPPORT LIVERPOOL OR NOTTS FOREST?
+
+ NONE
+
+
+G2
+
+  HOW LONG HAVE YOU LIVED AT THIS ADDRESS?
+
+  ONE YEAR
+
+
+<33
+
+ ^j|RE YOU AT HOME FOR LAST YEARS SEMI FINAL?
+
+  NO
+
+
+(34
+
+  ERE YOU AT HOME ON THE DAY OF THIS YEARS LIVERPOOL/NOTTS FOREST MATCH?
+
+  YES
+
+
+Q5
+
+  WAS THERE ANYTHING THAT MADE THIS MATCH DIFFERENT FROM THOSE IN THE PAST?
+
+  NO
+
+
+ < •
+  DID YOU WITNESS ANY INCIDENTS OF DRUNKENESS OR DISORDERLY BEHAVIOUR BY ANY
+
+  OF THE FANS?               (BRIEF DESCRIPTION)       INCLUDE TIME OF INCIDENT
+
+  NO
+
+
+Q7
+
+  WAS ANY DAMAGE CAUSED TO YOUR PREMISES BY FANS? DETAILS
+
+ NO
+
+
+<38
+
+ DID YOU ATTEND THE MATCH?                      IF SO WHERE DID YOU SIT/DO YOU HAVE ANY RELEVANT
+                                                                             PAGE
+                                                                             QHS68
+
+ INFORMATION?   (CONSIDER USING SUPPORTERS Q U E S T I O N N A I R E )
+
+ NO
+
+
+Q9
+
+ WERE YOU WITH ANYONE WHO MAY GIVE RELEVANT INFORMATION? DETAILS
+
+ NO
+
+
+Q 10
+
+ DO YOU HAVE ANY COMMENTS CONCERNING THE SOUTH YORKSHIRE POLICE ARRANGEMENTS
+
+ FOR THE MATCH/OR       INDIVIDUAL POLICE OFFICERS ON DUTY?
+
+ THEY DIDNT APPEAR TO BE ORGANISED E N O U G H . FROM WHAT I SAW ON THE TELEVISION
+
+ THERE APPEARED TO BE A LACK OF COMMUNICATION BETWEEN THE OFFICERS
+
+^ E    LINE OF OFFICERS ACROSS THE PITCH COULD HAVE BEEN USED TO HELP PEOPLE
+
+ TRAPPED IN CRUSH
+
+
+Q 11
+
+ IS THERE ANY OTHER MEMBER OF YOUR HOUSEHOLD ABLE TO PROVIDE RELEVANT
+
+ INFORMATION? DETAILS
+
+ NO
+
+
+Q12
+
+ ANY OTHER   INFORMATION YOU WOULD LIKE BROUGHT TO THE NOTICE OF THE INDEPENDANT
+
+ ^ Jp iCI AL ENQUIRY?
+
+ MO
+
+END OF REPORT
+                                                                            ^ C f
+
+
+
+
+C A T E G O R Y      T E M P L A T E   -   (Version III)
+
+Please tick those category boxes which are applicable for indexing.
+
+STANDS                                      MEDICAL
+nplon Kop                                   Doctor
+North Stand                                 Police Surgeon
+South Stand    Seated                       Surgeon
+               Standing                     Pathologist
+WEST STAND                                  Nurse
+Pf»n 1*2                                    Sti Johns Amb
+Pf?n 5-7
+PFN 3                                        SUPPORTERS
+PEN 4                                        Liverpool
+                                             Notts Forest
+POLICE OFFICER OH DUTY.                      Other
+South Yorkshire
+tf*»rseyn ide                                EMERGENCY SERVICES
+Nottinghamshire                              Fire Brigade
+                                             Ambulance
+  f.ICR OFFICER OFF DUTY
+Hnrrseyslde                                  RECOGNITION
+Hot tJ nghamnhire                            Bravery Acts
+South Yorkshire                              Awards
+Others                                       Appreciation
+                                             Adverse Comments
+MRDIA                                        Complaint
+Press
+TV                                           PUBLIC B0DIE8
+Rad lo                                       Local Authority
+                                             Health & Safety
+GROUND STAFF.                                FA
+Steward                                      Football Trust
+Turnstile Operator
+Catering                                     CONSULTANTS * FIRMS
+Other                                        Safety                     •
+                                             Construction    ,>•< ;•
+LOCAL RR8IDRNTS                              Other              '■$ <
+                                                            'j
+ItfBkse to House
+Shopping                                      Broken Barrier Pen 3
+Other                                         Surges in Crowd
+                                           ,* Attended semi final
+puplic                                      * in 1988. |
+lietter
+Telephone                                    COACHES - Alcohol
+Visit to Police Station                              - Disorder
+                                                     - Police
+                                                       Check
+ANY CATEGORY NOT 8PECIFIBD
+
+                                             LETTER REQUIRED       Y/N
+                                                                                                             I; --iTSraaW
+
+
+
+
+                               w o ' r h; t> t v i >         rr i«: m    i   > 1 . / \ ■ r i >. .
+
+T h I !* t.rmp].it.f i 3 i n t e n d e d t o 1 3 3 l a t thf> Reef* 1 v « r / S t* t f*me n* P.fider to
+i d e n t i f y t h o s e d o c u m e n t s w h i c h are* t o f l a g g e d b y u s e of the* N O T E P A D
+♦ IN .
+
+C      I   N    T      E   R   P    R        E   T      ATI O N
+
+    * * INOUT Y* * *                 IN S I DE/OUTS IDE            THE       GROUND        & MATERIAL
+                                                                                                               n
+                                                                                                               i       1
+    **INOUTX***                                                                            & NON-MATERIAL      !       1
+                                                                                                               !_____I
+    * * I NY * * *                   INSIDE          THE GROUND & M A T E R I A L                              |     I
+    * * I NX * * *                                            " & NON-MATERIAL                                 [     !
+                                                                                                               i      J
+    **OUTY***                       OUTS ID E         THE GROUND A M A T E R I A L
+                                        M                        & NON-MATERIAL
+    **OUTX***
+                                                                                                               [       j
+    * *DF.CY* * *                    DECEASED          & MATERIAL
+                                                                                                                       1
+    * * DFCX * * *                                     & NON-MATERIAL
+    * * I NJ Y * * *                 INJURED          PERSON & MATERIAL
+                                        »*                                                                             i
+    * * IN J X* * *                                          & NON-MATERIAL                                    1       1
+                                                                                                               \     1
+    **POLYSY***                     POLICE,           SOUTH       YORKS        & MATERIAL                      (     |
+                                        ft                                     & NON-MATERIAL                  1_____i
+    **POLXSY***                                                                                                I         1
+                                                                                                               1...... J
+    * *POLYMS * * *
+    * *POLXM5 * * *
+                                    POLICE,
+                                        If
+                                                      MERSEYSIDE
+                                                              "
+                                                                             & MATERIAL
+                                                                             & NON-MATERIAL                    n
+                                                                                                               1
+                                                                                                               1
+                                                                                                                       1
+                                                                                                                       j
+    **POLYNC* **                    POLICE,           NOTTS       & MATERIAL
+                                        M                                                                      1       1
+    * *POLXNC* * *                                    "           & NON-MATERIAL
+                                                                                                               1      1
+    * *POLYOT* **                   POLICE,           OTHER       FORCE & MATERIAL                             1
+                                                                                                               l ___ J1
+    * *POLXOT* * *                      If                               & NON-MATERIAL
+                                                                                                               i           1
+    * *POLPRAISE* * *               POLICE           ACTION       PRAISE, APPRECIATION
+                                                                                                               1           1
+    **POLADVERSE* * *               POLICE           ACTION C R I T I C I S E D ,          ADVERSE COMMENT
+
+
+      THE RECEIVER/STATEMENT READER SHOULD TICK THE APPROPRIATE BOX(ES)                                               TO
+      DIRECT THE INDEXER TO ATTACH THE MARKED CODING TO THE DOCUMENT
+      BEING INDEXED V I A + I N .
+1 n c iCje n 't   10 £~    03089   0P ci8 6,     TYPING SERVICE DOCUHEN
+
+                                                                  Questionnaire Number   QHS69
+
+ Surname
+
+ F orenames
+                                                           _
+QI
+
+ DO YOU SUPPORT LIVERPOOL OR NOTTS FOREST?
+
+ NO
+
+
+
+
+ HOW LONG HAVE YOU WORKED AT THIS ADDRESS?
+
+ ONE YEAR
+
+
+Q3
+
+ J^E       YOU AT WORK FOR LAST YEARS SEMI FINAL?
+
+ NO
+
+
+Q4
+
+ WERE YOU AT WORK ON THE DAY OF THIS YEARS LIVER.POOL/NOTTS FOREST MATCH?
+
+ YES
+
+
+05
+
+ WAS THERE ANYTHING THAT MADE THIS MATCH DIFFERENT FROM THOSE IN THE PAST?
+
+ THOSE WERE A LOT MORE FANS HANGING AROUND OUTSIDE THE CHIP SHOP EVEN AT 14.45
+
+ HRS
+
+
+Q6
+
+ DID YOU WITNESS ANY INCIDENTS OF DRUNKENESS OR DISORDERLY BEHAVIOUR BY ANY
+
+ OF THE FANS?             (BRIEF DESCRIPTION)   INCLUDE TIME OF    INCIDENT.
+
+ NO
+
+
+Q7
+
+ WAS ANY DAMAGE CAUSED TO YOUR PREMISES BY FANS?                  (DETAILS)
+
+ NO
+
+
+QS
+ DID YOU ATTEND THE MATCH?      IF SO WHERE DID YOU SIT/DO YOU HAVE ANY RELEVANT
+
+ INFORMATION?    (CONSIDER USING SUPPORTERS QUE STI O N A I R E )
+
+ NO
+
+
+Q9
+
+ WERE YOU WITH ANYONE WHO MAY GIVE RELEVANT INFORMATION? DETAILS.
+
+ NO
+
+
+Q 10
+
+ DO YOU HAVE ANY COMMENTS CONCERNING TH SOUTH YORKSHIRE POLICE ARRENGEMENTS
+
+ FOR THE MATCH/OR    INDIVIDUAL POLICE OFFICERS ON DUTY?
+
+ AS FAR AS I AM CONCERNED THE POLICE LOOKED AFTER US ON THE DAY.
+' W -------------------------------------------------------------------------
+Q11
+
+ IS THERE ANY OTHER MEMBER OF YOUR HOUSEHOLD ABLE TO PROVIDE RELEVANT
+
+ INFORMATION? DETAILS.
+
+ NO
+
+
+Q12
+
+ ANY OTHER   INFORMATION YOU WOULD LIKE BROUGHT TO THE NOTICE OF THE INDEPENDENT
+
+ JUDICIAL ENQUIRY?
+
+ IN MY OPINION THE FANS WERE FAR TOO LATE IN ARRIVING AT THE MATCH.
+                                                                  -
+EN^PF   REPORT
+C A T E G O R Y      T E M P L A T E .    (Version III)
+
+Please tick those category boxes which are applicable for Indexing.
+
+ STAWD8                                    MEDICAL
+-ftpIon Kop                                Doctor
+ North Stand                               Police Surgeon
+ South Stand - Seated                      Surgeon
+               Standing                    Pathologist
+ WEST STAND                                Nurse
+ Pen 1*2                                   Sti Johns Amb
+ PPH 5-7
+ PPM 3                                      SUPPORTERS
+ PEN 4                                      Liverpool
+                                            Notts Forest
+POLICE OFFICER ON DUTY.                     Other
+South Yorkshire
+                                            EMERGENCY SERVICES
+M*»t seyside
+Nottinghamshire                             Fire Brigade
+                                            Ambulance
+  KICR OFFICER OFF DUTY
+Merseyside                                  RECOGNITION
+Nottinghamshire                             Bravery Acts
+South Yorkshire                             Awards
+                                            Appreciation
+Others
+                                            Adverse Comments
+MUD IA                                      Complaint i
+Press
+TV                                          PUBLIC BODIES
+                                            Local Authority
+Radio
+                                            Health fi Safety
+GROUND STAFF.                               FA
+Steward                                     Football Trust
+Turnstile Operator
+Catering                                    CONSULTANTS I FIRMS
+Other                                       Safety       .        v*
+                                            Construction
+LOCAL RESIDENTS                             Other  " • I
+                                    ix-
+l l A e to House
+                                            Broken Barrier Pen 3
+Stropping
+Other                                       Surges in Crowd
+                                            Attended serai final
+PUPMC                                     ‘ in 1988. i
+Ij«tter
+Telephone                                   COACHES - Alcohol
+                                                    - Disorder
+Visit to Police Station
+                                                    - Police
+                                                      Check
+ANY CATEGORY NOT SPECIFIED                            :|      '
+                                                     ■>I  \             ■ ■■■
+                                            LETTER REQUIRED       Y/N
+                                  fvj O T li: t> A. I ■>         'I’ K M P l . A' I ' I'
+
+T h i * I n m p l i t o S.-.                    t o - i s s l T t * hf> Rp ' ' ,‘ l vo r          1 <1'*i"'’ • Rn ^d**r to
+i d e n t i f y U io n " 'loc.iments           which a r e to fl-iq g f’d h y                   ■i s #»   of   ‘ he   NOTEPAD
+
+UN.
+
+                                        JJi I E RPR V TAT I 0 »
+
+                                        I N S I DF. / <" " I TS I DE    THE      GROUND        & MATERIAL
+                                                                                                                                CJ1
+* * * I H oil T V * * *
+                                                                                               !, N O N - M A T E R I AI.
+* * * INOUTX * * *                                                                                                              a
+* * * IN Y * * *                        INSIDE        THE       GROUND          & MATERIAL
+                                          i.           ••            "          5 fj 0 N - M A T F R I AL.
+* * * IN X * * *
+                                        OUTSIDE         THE      GROUND          A MATERIAL
+* **OUTY * * *
+                                                        .<           "           & NON-MATERIAL
+* * *OUTX* * *
+* **DF.CY* * *                          t'FCFASED           S   MATERIAL                                                        □
+* * * d f .c x * * *
+                                                            S   non    -m a t e r i a l
+                                         INJURED        PERSON          & MATERIAL
+***INJY**<
+                                           "            "               & N O N - M A T E R I AL.
+***TNJX***
+                                        POLICE,         SOUTH          YORKS        & MATERIAL
+* * *POL Y SY * * *                                                        •'       & NON-MATERIAL.
+* * *POLX S Y ** *
+                                        POLICE,         MERSEYSIDE                & MATERIAL
+* * * P O L Y M S ***
+                                            ..          »                •'       & NON-MATERIAL
+t**P0LXMS***
+* **POLYNC* **                           POLICE,        NOTTS          & MATERIAL
+                                           M            •'             & NON-MATERIAL
+* * *POLXNC* * *
+                                         POLICE,         OTHER         FORCE & MATERIAL
+* **POLYOT* **
+                                           „            i.               "    & NON-MATERIAL
+* **POLXOT* * *
+                                         POLICE       ACTION           PRAISE, APPRECIATION
+* **POLPRAISE***
+                                         POLICE       ACTION           CRITICISED, ADVERSE COMMENT
+***P0LADVERSE* **
+
+
+
+
+      b e in g    in d e x e d   v ia   +IN.
+Incident     102    030589 GP369S         TYPING SERVICE DOCUMENT
+
+                                                       Questionnaire Number   QH370
+                                                                                Lc_ss.o^
+ burname
+ Forenames
+QI
+
+ DO YOU SUPPORT LIVERPOOL OR NOTTS FOREST?
+
+ NEITHER
+
+
+QS
+
+ HOW LONG HAVE YOU LIVED AT THIS ADDRESS?
+
+ TWO YEARS
+
+
+Q3
+
+ ^?E   YOU AT HOME FOR LAST YEARS SEMI FINAL?
+
+ YES
+
+
+
+
+ WERE YOU AT HOME ON THE DAY OF THIS YEARS LIVERPOOL/NOTTS FOREST MATCH?
+
+ YES
+
+
+Q5
+
+ WAS THERE ANYTHING THAT MADE THIS MATCH DIFFERENT FROM THOSE IN THE PAST?
+
+ NOT BEFORE INCIDENT AT GROUND
+
+
+Qd(
+
+ DID YOU WITNESS ANY INCIDENTS OF DRUNKENESS OR DISORDERLY BEHAVIOUR BY ANY
+
+ OF THE FANS?      (BRIEF DESCRIPTION)   INCLUDE TIME OF INCIDENT
+
+ NOTTS FOREST FANS WERE WALKING ALONG PENNISTON RD SHOUTING & CARRYING PLASTIC
+
+ BEER GLASSES OF BEER ■- HUNDREDS
+
+
+Q7
+
+ WAS ANY DAMAGE CAUSED TO YOUR PREMISES BY FANS? DETAILS
+
+ NO
+
+
+QS
+                                                                               page:    s
+                                                                               QHS70
+
+ DID YOU ATTEND THE MATCH?    IF SO WHERE DID YOU SIT/DO YOU HAVE ANY RELEVANT
+
+ INFORMATION?(CONSIDER USING SUPPORTERS QUESTIONNAIRE)
+
+ NOT
+
+
+09
+
+ WERE YOU WITH ANYONE WHO MAY GIVE ANY RELEVANT INFORMATION? DETAILS
+
+ NO
+
+
+Q 10
+
+ DO YOU HAVE ANY COMMENTS CONCERNING THE SOUTH YORKSHIRE POLICE ARRANGEMENTS
+
+ FOR THE MATCH/OR    INDIVIDUAL POLICE OFFICERS ON DUTY?
+
+ NOT ME, MY HUSBAND D O E S . BUT IT GOT OUT OF H A N D , THERE SHOULD HAVE BEEN MORE
+
+ ^fc.ICE TO STOP THE CRUSH
+
+
+Q 11
+
+ IS THERE ANY OTHER MEMBER OF YOUR HOUSEHOLD ABLE TO PROVIDE RELEVANT
+
+ INFORMATION.   DETAILS
+
+ MY HUSBAND
+
+
+012
+
+ ANY OTHER    INFORMATION YOU WOULD LIKE BROUGHT TO THE NOTICE OF THE INDEPENDANT
+
+ JUDICIAL ENQUIRY?
+
+       BARRIERS SHOULD COME DOWN AT THE GROUNDS.    THERE W A S N ’T ENOUGH
+
+ EQUIPMENT ON THE DAY.
+
+END OF REPORT
+                                                                                                                 7 1
+
+
+
+
+CATEGORY             TFJMPIiATE .      (Version III)
+
+Please tick those category boxes which are applicable for indexing.
+
+STANDS                                   MEDICAL
+                                 LJ
+nplon Kop
+North Stand                      □
+                                 □
+                                         Doctor
+                                         Police Surgeon
+South Stand - Seated                     Surgeon
+              Standing                   Pathologist
+WEST STAND                               Nurse
+PfMl 1*2
+Fen 5-7                          □
+                                 □
+                                         St Johns Amb
+
+PPM 3                                    SUPPORTBRS
+PEN 4                            □       Liverpool
+                                         Notts Forest
+POLICE OFFICER ON DUTY.                  Other
+South Yorkshire
+1 1 n t seyside
+                                         EHBRGENCY SBRV1CBS
+Nottlnghamshire                          Fire Brigade
+                                         Ambulance
+P olice officer off duty
+ M*»rseysIde                             RECOGNITION
+ NottJ nghamshlre                        Bravery Acts
+ South Yorkshire                         Awards
+ Otliers                                 Appreciation
+                                         Adverse Comments
+HRDIA                                    Complaint i
+Press
+TV                                       PUBLIC BODIES
+Radio                                    Local Authority
+                                         Health 6 Safety
+GROUND STAFF.                            FA
+Steward                                  Football Trust
+Turnstile Operator
+Caterlng                                 CONSULTANTS * FIRMS
+Other                                    Safety      i
+                                         Construction     ;
+LOCAL RESIDENTS                          Other ■ ’ vi
+                                 i/                 1
+l ^ s e to House
+Sliopping                                Broken Barrier Pen 3
+Other                                    Surges in Crowd
+                                       ,i.Attended semi final
+puplic                                 " in 1988. )
+Tifltter
+Telephone                                COACHES - Alcohol
+Visit to Police Station                          - Disorder
+                                                 - Police
+                                                   Check
+                                                                                                      :         ■ .,               '
+ANY CATEGORY HOT SPBCIFIBD                                I                                    '*••
+                                                                                                  .•
+                                                                                                   *
+                                                                                                   .'t ' ■   f/•’ : -i•
+                                                                                                                      *
+                                                                                                -.A                        •v •        ,
+
+                                                                                                      ••               ,   •   •
+                                         LETTER REQUIRED                                 Y/N
+
+
+                                                                                                                                   &       '
+
+
+
+
+                                                    * >   *                                                   ■ssf:
+                                                                                                              r .:<
+                                                                                                                           -i.\. .
+                                                                                                                                 ■
+                                                                                                .             V; t.
+                                                                  • ■■r.i.T ;-:
+                                                                  "     S .--       *
+                                                              r .• •    • ,..
+                                                              i i       ■       .
+                                                              ! t                   *■
+                                                  ■"M<.                                         ,                          . "V
+                                                              I
+                                                              1
+                                                                   ■
+                                                                   ''
+                                                                                                •• •              • ■'
+                                                                                                                          n . n xm m
+
+
+
+
+                                     w o rj’h :t> /v i>          ■L*i-:m     p i   .a   t i    ^ .
+
+    T h i ^ t.pmpl.itf i ,> i n t e n d e d t o -issLnt t h e R e c e Iv« r / S ta t.eme n t R e i d p r to
+    i d e n t i f y t h o s e d o c u m e n t s w h i c h a r e to f l a g g e d b y u s e o f t h e N O T E P A D
+    +- IN .
+
+    C'.’L'iNi-                            I N T E R P R E T A T I ON
+
+    ***INOUTY***                          INSIDE/OUTSIDE               THE    GROUND          £ MATERIAD
+    * ft* I N O W T X * * *                                                                   & N O N - M A T E R I AI,   □
+                                                                                                                          a
+    ***INY***                             INSIDE       THE     GROUND'S MATERIAL
+    * * * IN X * * *                                                " & N O N - M A T E R I AL,
+    ***OUTY** *                          OUTSIDE         THE    GROUND        A MATERIAL,
+    ***OUTX***                                                                & NON-MATERIAL
+    * * * [)F.C Y * * *                  DECEASED & MATERIAL
+
+
+
+•
+    » * * DF.CX * * *                      "       & NON-MATERIAL
+    ***IN,JY***                          INJURED P E R S O N & MATERIAL,
+    ***INJX***                             "     "            & NON-MATERIAL
+    ***POLYSY***                         POLICE, SOUTH       YORKS & MATERIAL.
+    ***POLXSY***                                 "            "& N O N - M A T E R I A L ,
+    * **POLYMS ***                       POLICE,   MERSEYSIDE & MATERIAL                                                  |}==j
+    * * *POLXMS * * *                       "      "       "& N O N - M A T E R I A L                                     |=H
+    * **POLYNC* **                       POLICE,   NOTTS      & MATERIAL                                                  r=n
+    ** *POLXNC* * *                         "      "       & NON-MATERIAL
+                                         POLICE,   OTHER  FORCE & MATERIAL
+                                                                                                                          C D
+    ***POLYOT***
+    * **POLXOT* * *                         "      "       "& N O N - M A T F . R I AL
+    ***POLPRAISE* * *                    P OLICE ACTION PRAISE, APPRECIATION                                              |=j
+    * * * P O L A D V E R S E * »*       POLICE ACTION CRITICISED, ADVERSE COMMENT
+
+
+         THE RECEIVER/STATEMENT READER SHOULD TICK THE APPROPRIATE BOX(ES)                                                      TO
+         DIRECT THE INDEXER TO ATTACH THE MARKED CODING TO THE DOCUMENT
+         BEING INDEXED VIA + I N .
+ n c:ide n t< 102    030589 OP 2863          TYPING SERVICE DOCUMENT
+
+                                                             Questionnaire Number   QH571
+
+Surname
+
+ F orenames
+
+
+
+
+ DO YOU SUPPORT LIVERPOOL OR NOTTS FOREST?
+
+ NO
+
+
+Q2
+
+ HOW LONG HAVE YOU WORKED AT THIS ADDRESS?
+
+ ONE YEAR.
+
+
+Q3
+
+(®kRE YOU AT WORK FOR LAST YEARS SEMI FINAL
+
+ NO
+
+
+
+
+ WERE YOU AT WORK ON THE DAY OF THIS YEARS LIVERPOOL/NOTTS FOREST MATCH
+
+ YES
+
+
+Q5
+
+ WAS THERE ANYTHING THAT HADE THIS MATCH DIFFERENT FROM THOSE IN THE PAST?
+
+ THERE WERF FAR MORE FANS ON THE ROAD OUTSIDE AT 14.45PM THAN I WOULD HAVE
+
+ EJ E C T E D   FOR SUCH A FOOTBALL MATCH.
+
+
+Q6
+
+ DID YOU WITNESS ANY INCIDENTS OF DRUNKENESS OR DISORDERLY BEHAVIOUR BY ANY OF
+
+ THE FANS?       (BRIEF DESCRIPTION   )INCLUDE TIME OF N C I D E N T .
+
+ NO
+
+
+Q7
+
+ WAS ANY DAMAGE CAUSED TO YOUR PREMISES BY FANS?
+
+ NO
+
+
+QS
+       .• ’                                                      PAGE
+                                                                            QHS71
+
+ DID YOU ATTEND THE MATCH?     IF SO WHERE DID YOU SIT/DO YOU HAVE ANY RELEVANT
+
+ INFORMATION?    (CONSIDER USING SUPPORTERS QUE STI ONA IRE S)
+
+ NO
+
+
+Q9
+
+ WERE YOU WITH ANYONE WHO MAY GIVE ANY RELEVANT INFORMATION? DETAILS.
+
+ NO
+
+
+GIG
+
+ DO YOU HAVE ANY COMMENTS CONCERNING THE SOUTH YORKSHIRE POLICE ARRANGEMENTS
+
+ FOR THE MATCH/OR    INDIVIDUAL POLICE OFFICERS ON DUTY?
+
+^p.    THEY ARE VERY GOOD AT EVERY LARGE MATCH &THERE WERE PLENTY OF OFFICERS IN
+
+ MIDDLEWOOD RD.
+
+
+G 11
+
+ IS THERE ANY MEMBER OF YOUR HOUSEHOLD ABLE TO PROVIDE RELEVANT INFORMATION?
+
+ DETAILS.
+
+ NO
+
+
+Q12
+
+ ANY OTHER    INFORMATION YOU WOULD LIKE BROUGHT TO THE NOTICE OF THE INDEPENDENT
+
+ JUDICIAL ENQUIRY?
+
+ S^HINK     THAT ON SUCH A BIG MATCH AS THIS THE FANS SHOULD BE IN THE GROUND BY
+
+ •14.30 HRS & THE GATES CLOSED.    I BELIEVE TOO MANY FANS LEFT IT TOO LATE TO GET
+                                    ^    — —   ______               -
+
+
+ INTO THE GROUND.
+
+END OF REPORT
+ 'C A T E G O R Y   TEM PLA TE.          <Version IV >    <170389)
+
+« Please tick those category boxes which are applicable for indexing
+
+  STANDS                                   MEDICAL
+  Spion Kop                                Doctor
+  North Stand                              Police Surgeon
+  South Stand - Seated                     Surgeon
+                Standing                   Pathologist
+  WEST STAND                               Nurse
+  Pen 1&2                                  St Johns Amb
+  Pen 5-7
+  PEN 3                                    SUPPORTERS
+  PEN 4                                    Liverpool
+                                           Notts Forest
+  POLICE OFFICER ON DUTY.                  Other
+  South Yorkshire
+                                           EMERSENCY SERVICES
+  Merseyside
+  Nottinghamshire                          Fire Brigade
+                                           Ambulance
+      ICE OFFICER OFF DUTY
+                                           RECOGNITION
+  Merseyside
+  Not t inghamsh ire                       Bravery Acts
+  South Yorkshire                          Awards
+  Others                                   Appreciation
+                                           Adverse Comments
+  MEDIA                                    Complaint
+  Press
+                                           PUBLIC BODIES
+  TV
+  Radio                                    Local Authority
+                                           Health & Safety
+  6R0UND STAFF.                            FA
+  Steward                                  Football Trust
+  Turnstile Operator
+  Catering                                 CONSULTANTS & FIRMS
+  Other                                    Safety
+                                           Construction
+  LOCAL RESIDENTS                          Other
+  House to House
+                                           SURGES IN GROUND
+  Shopping
+  Other                                    Team on Pitch
+                                           Hanson's Name
+  PUBLIC                                   Kick Off
+  Letter                                   Ball hits X-Bar
+  Telephone                                Barrier breaks
+  Vis:
+    isit to Police Station
+                                           CROWD SURGES O/S GROUND
+                                           Metal Gate forced
+^B ny CATEGORY NOT SPECIFIED               Gate 'C' to eject
+                                           Gate *C’ crowd in
+
+                                           PREVIOUS MATCHES      j==5
+                                           Semi Final 1981       6=^
+  WITNESS CALLED TO INQUIRY                Semi Final 1956       |=|
+                                           Semi Final 1988       ®==
+                                           Other State: ---------- -
+  COACHES - Alcohol
+            Disorder
+            Police                         INVESTIGATION
+            Check                          Forged Tickets
+            Traffic                        Forcing Gates
+                                           Unauthorised access
+            Del ay
+
+  LETTER REQUIRED   Y/N    □               Alcohol
+                                           Disorder
+                                                                                                                                                 fF S .tJfliU m
+
+
+
+
+Th 1 * t r.m|t! it <’ S < i n t t                o       -iss h t t h<^ R"'-''' ' v ° r                            1
+                                                                                                                       •!Tif>::1 P.f» id**r to
+                                                                                                                       >t   .lie N O T E P A D
+I d e n t i f y f hor," d o c u m e n t s        w h i c h aro I:o £l-iqg^tl hy                              hsp
+'IN .
+
+r'.’L'lNG..                           I _ N T E R P R E T A T I ON
+                                                                                                                                             m
+* * * iHiiiiTV * * *                  I MS I D E / O U T S I D E          THE        (-; R ° t ' N I >   A    MATERIAL
+                                                         i.                  "             "             >, N O N - M A T E R I AI.
+* * * INOUTX * * *
+* * * IN Y * * *                      INSIDE           THE         GROUND        & MATERI AL,
+                                            ..           ••                  "   5      ncn      -   m a tfr ia l
+* * * IN X * * *
+                                      OUTSIDE            THE        GROUND           £ M A T E R I AI,
+* * *OUTY* * *                                           m              "            & NON-MATERIAL
+* * *QUTX * * *
+* * * DF.CY * * *                     PFCFASED                <i   MATERIAL
+                                                              S    N O N - M A T F . R I AL
+* * * DF.CX * * *
+                                      INJURED            PERSON            4 MATERIAL
+* * * INJY * * *
+                                                                           & NON-MATERIAL
+**MNJX***
+                                      POLICE,             SOUTH          YORKS           & M A T E R I AI ,
+* ••POLYSY* *                               „            <-                ••            & N O N - M A T E R I At .
+** •POLXS Y **
+                                      POLICE, M ERS EY SI DE                          & MATERIAL
+* * *POLYMS **
+                                        „     -          "                            & NON-MATERIAL
+* **P0f, X M S * *
+                                      POLICE, NOTTS                      & MATERIAL
+* **POLYNC* *
+                                        ..    »                           & NON-MATERIAL
+** *POLXNC* *
+                                      POLICE,             OTHER          FORCE           & MATERIAL
+* * *POLYOT* *                               m            »*                             & N O N - M A T F . R I AL
+* * *POLXOT* *
+                                      POLICE            ACTION           PRAISE, APPRECIATION
+***POLPRAISE* **
+                                      POLICE            ACTION           CRITICISED, ADVERSE COMMENT
+***POLADVERSE* **
+
+
+
+
+     BEING INDEXED VIA +IN.
+incident            IDE     030589 0P3698                       TYPING SERVICE DOCUMENT
+
+                                                                                 Q u e s tio n n a ir e   Num ber   QHS72
+
+ S u rn a m e
+
+ F o re n a m e s                                                               ^ \_ X <_s-    CrC
+                                                                                                               H-S-H
+Q1
+
+ DO YOU SUPPORT LIVERPOOL OR NOTTS FOREST?
+
+ NONE
+
+
+QS
+
+ HOW LONG HAVE YOU L IV E D AT T H IS ADDRESS?
+
+ TWO YEARS
+
+
+Q3
+
+^ tk.R E   YOU AT HOME FOR LAST YEARS SEMI F IN A L ?
+
+ YES
+
+
+Q4
+
+  WERE YOU AT HOME ON THE DAY OF T H IS YEARS LIVERPO O L/N O TTS FOREST MATCH?
+
+  YES
+
+
+Q5
+
+ WAS THERE ANYTHING THAT MADE T H IS MATCH DIFFERENT FROM THOSE IN THE PAST?
+
+ NO
+
+
+Q<^
+
+ D ID YOU WITNESS ANY IN C ID E N TS OF DRUNKENESS OR DISORDERLY BEHAVIOUR OF ANY
+
+ OF THE FANS?             (B R IE F   D E S C R IP T IO N )   INCLUDE TIM E OF IN C ID E N T
+
+ NO
+
+
+Q7
+
+ WAS ANY DAMAGE CAUSED TO YOUR PREMISES BY FANS?                                  (D E T A IL S )
+
+ NO
+
+
+Q8
+
+ DID YOU ATTEND THE MATCH?IF SO WHERE DID YOU SIT/DO YOU HAVE ANY RELEVANT
+                                                                                  P AGfc.
+       ,                                                                          GHS72
+
+ INFORMATION?         (CONSIDER USING SUPPORTERS QUESTIONNAIRE)
+            «
+
+ NO
+
+
+Q9
+
+ WERE YOU WITH ANYONE WHO MAY GIVE ANY RELEVANT           INFORMATION? DETAILS
+
+ NO
+
+
+G 10
+
+ DO YOU HAVE ANY COMMENTS CONCERNING THE SOUTH YORKSHIRE POLICE ARRANGEMENTS
+
+ FOR THE MATCH/OR         INDIVIDUAL POLICE OFFICERS ON DUTY?
+
+ I PONT THINK THAT ENOUGH POLICE WERE ON DUTY BECAUSE WHEN COVENTRY V LEEDS
+
+^ S        PLAYED   1987 OVER   1000 OFFICERS THIS YEAR MAY HAVE AVOIDED THE DISASTER
+
+
+Q11
+
+ IS THERE ANY OTHER MEMBER OF YOUR HOUSEHOLD ABLE TO PROVIDE RELEVANT
+
+ INFORMATION.         DETAILS
+
+ NO
+
+
+Q12
+
+ ANY OTHER          INFORMATION YOU WOULD LIKE BROUGHT TO THE NOTICE OF THE INDEPENDAN1
+
+ JUDICIAL ENQUIRY?
+
+ 1. IF BIG GAMES ARE TO BE PLAYED IN SHEFFIELD IN FUTURE.           THE NEW STADIUM
+
+ A ^ A T T E R C L I F F E SHOULD BE THE VENUE
+
+ 2. ALL SHEFFIELD PUBS SHOULD HAVE BEEN CLOSED FOR THE DAY
+
+END OF REPORT
+CATEGORY             rX’ U '.M E> H .7V rr H I -   (Version III)
+
+Please tick those category boxes which are applicable for Indexing.
+
+STANDS                                              MEDICAL
+Spion Kop                                           Doctor
+North Stand                                         Police Surgeon
+South Stand     Seated                              Surgeon
+                Standing                            Pathologist
+WFST STAND                                          Nurse
+PfMI 1K2                                            Stt Johns Amb
+Pnn 5-7
+PFfl 3                                               SUPPORTERS
+PEN 4                                                Liverpool
+                                                     Notts Forest
+P O M C E OFFICER OH DUTY.                           Other
+South Yorkshire
+M»*rseyR Jde                                         EMERGENCY SERVICES
+Hot11nghamshi re                                     Fire Brigade
+                                                     Ambulance
+  M C R OFFICER OFF DUTY
+Merseyside                                           RBCOGHITIOH
+Nottinghamshire                                      Bravery Acts
+South Yorkshire                                      Awards
+Others                                               Appreciation
+                                                     Adverse Comments
+MWDIA                                                Complaint
+Press
+TV                                                   PUBLIC BODIES
+Radio                                                Local Authority
+                                                     Health 6 Safety
+GROUND STAFF.                                        FA
+Steward                                              Football Trust
+Turnstile Operator
+Catering                                             CONSULTANTS ft FIRMS
+Other                                                Safety
+                                                     Construction :x   j
+
+LOCAL RESIDENTS                                      Other    •i
+IIA?e to House
+Sltopping                                            Broken Barrier Pen 3
+Other                                                Surges in Crowd
+                                                   (t.Attended semi final
+PUPLIC                                                in 1988. ,
+Fietter
+Telephone                                            COACHES - Alcohol
+Visit to Police Station                                      - Disorder
+                                                             - Police
+                                                               Check
+ANY CATEGORY HOT SPECIFIED
+                                                                                •v;v.<(Vy *l. :
+
+                                                     LETTER REQUIRED Y/N
+                                                               ••[I■-A. '-- •   □    .'k.VvW * r.t
+                                                                                                                   n^wsssw
+
+
+
+
+                             r>i o   'i' i*: t > a . d       ’v i«': m i > i . /\ ‘r i•; .
+
+Th in                      i 3 i nt<!»nrletl to -isslnt t h ? Recr* tv« r / .'5tn t f*rn? r.t R a i d e r to
+i d e n t i f y ■t h o s e d o c u m e n t s w h i c h a r e to f l a g g e d b y iisp of th? N O T E P A D
++ IN .
+
+C'.’L'IN-CL-                         I . N T E R P R E T A T I ON
+
+* * * I NOt FT Y * * *               INSIDE/OUTSIDE                  THE   GROUND   S   MATERIAL
+* ** I NOIJTX * * *                                                                 i   N O N - M A T E R I At .   □
+                                     INSIDE       THE GROUND & M A T E R I A L
+* * * TN X * * *                                   "            " 5   N O N - M A T E R I AL,
+                                                                                                                   m
+* * *OUTY * * *
+                                                                                                                   r~ i
+                                     O U T S I D E T H E G R O U N D f, M A T E R I A L
+***OUTX***                                                           & NON-MATERIAL
+* * * DF-C Y * * *                   DECEASED          & MATERIAL
+                                                                                                                   LZj
+* * * D F C X ***                                      &          NON-MATERIAL
+* * * IN J Y * * *                   INJURED         PERSON & MATERIAL                                             □
+***INJX***                                           "       & NON-MATERIAL
+***POLYSY* * *                       POLICE,         SOUTH YORKS & M A T E R I A L
+* **POLXSY ***                                       "       ”    & NON-MATERIAL,
+* * *POLYMS * * *                    POLICE,         MERSEYSIDE            & MATERIAL
+***POLXMS***                           "           "                  "   & NON-MATERIAL                           □
+                                                                                                                   1      1
+***POLYNC***                         POLICE,        NOTTS           & MATERIAL
+* * *POLXNC* * *                       "           "                & NON-MATERIAL
+***POLYOT***                         POLICE,       OTHER            FORCE & MATERIAL
+* * *POLXOT* * *                                    "                 "    & NON-MATERIAL
+***POLPRAISE* **                     POLICE       ACTION            PRAISE, APPRECIATION
+***POLADVERSE* * *                   POLICE       ACTION            CRITICISED, ADVERSE COMMENT                    □
+
+
+    THE R E C E I V E R / S T A T E M E N T READER S H OULD TICK THE APPROP R I A T E BOX(ES)                          TO
+    DIRECT THE INDEXER TO A T TACH THE M A R K E D CODING TO THE DOCUMENT
+    B E I N G I N D E X E D V I A +IN.
+Incident         IDE   030589 0P2863        TYPING SERVICE DOCUMENT
+
+                                                           Questionnaire Number               GHS73
+
+ bur na m e            |
+                       ________|                                      4<»
+
+ F‘o re name s                                                   _     ______ r<~-> \    'r
+
+Q1
+
+ DO YOU SUPPORT LIVERPOOL OR NOTTS FOREST?
+                                                       ,SJ F P       T“/ v © o
+ NO                                                                              c > P © mM
+
+
+Q2
+
+ HOW LONG HAVE YOU WORKED AT THIS ADDRESS?
+
+ THREE YEARS
+
+
+Q3
+
+ ®^E    YOU AT WORK FOR LAST YEARS SEMI FINAL?
+
+ YES
+
+
+Q4
+
+ WERE YOU AT WORK ON THE DAY OF THIS YEARS LIVERPOOL/NOTTS FOREST MATCH?
+
+ NO
+
+
+Ci5
+
+ WAS THERE ANYTHING THAT MADE THIS MATCH DIFFERENT FROM THOSE IN THE PAST?
+
+ NO
+
+
+Q6®
+
+ DID YOU WITNESS ANY INCIDENTS OF DRUNKENESS OR DISORDERLY BEHAVIOUR BY ANY OF
+
+ THE FANS?        (BRIEF DESCRIPTION)   INCLUDE TIME OF INCIDENT.
+
+ NO
+
+
+Q7
+
+ WAS ANY DAMAGE CAUSED TO YOUR PREMISES BY FANS ?
+
+ NO
+
+
+Q8
+
+ DID YOU ATTEND THE MATCH?         IF SO WHERE DID YOU SIT/DO YOU HAVE ANY RELEVANT
+ INFORMATION?   (CONSIDER USING SUPPORTERS QU EST I O N A I R E )
+
+ NO
+
+
+Q9
+
+ WERE YOU WITH ANYONE WHO HAY GIVE ANY RELEVANT INFORMATION ? DETAILS
+
+ NO
+
+
+Q 10
+
+ DO YOU HAVE ANY COMMENTS CONCERNING THE SOUTH YORKSHIRE POLICE ARRANGEMENTS
+
+ FOR THE MATCH/OR    INDIVIDUAL POLICE OFFICER ON DUTY?
+
+ NO
+
+
+
+
+ IS THERE ANY MEMBER OF YOUR HOUSEHOLD ABLE TO PROVIDE RELEVANT INFORMATION?
+
+ DETAILS
+
+ NO BUT I KNOW ONE PERSON WHO ATTENDED THE MATCH.           THAT IS
+
+                                      SHEFFIELD TEL?
+
+
+Q 12
+
+ ANY OTHER   INFORMATION YOU WOULD LIKE BROUGHT TO THE NOTICE OF THE INDEPENDENT
+
+ JUDICIAL ENQUIRY?
+
+ NO
+
+EfJPoF REPORT
+    GATESORY          TEMPLATE -           tVersion IV )    <170589>
+
+    Please tick those category boxes which are applicable for indexing
+
+    STANDS                                   MEDICAL
+    Bpion Kop                                Doctor
+    North Stand                              Police Surgeon
+    South Stand - Seated                     Surgeon
+                  Standing                   Pathologist
+    WEST STAND                               Nurse
+                                             St Johns Amb
+    Pen 1&2
+    Pen 5-7                                  SUPPORTERS
+    PEN 3                                    Liverpool
+    PEN 4                                    Notts Forest
+    POLICE OFFICER ON DUTY.                  Other
+    South Yorkshire
+                                             EMERGENCY SERVICES
+    Merseyside
+      ittinghamshire                         Fire Brigade
+                                             Ambulance
+c      .ICE OFFICER OFF DUTY
+                                             RECOGNITION
+    Merseyside
+    Nottinghamshire                          Bravery Acts
+    South Yorkshire                          Awards
+                                             Appreciation
+    Others                                   Adverse Comments
+                                             Complaint
+    MEDIA
+    Press
+                                             PUBLIC BODIES
+    TV                                       Local Authority
+    Radio                                    Health & Safety
+    GROUND STAFF.                            FA
+                                             Football Trust
+    Steward
+    Turnstile Operator
+                                             CONSULTANTS & FIRMS
+    Catering
+                                             Safety
+    Other                                    Construction
+    local residents
+                                             Other
+    House to House
+                                             SURGES IN GROUND
+    Shopping
+                                             Team on Pitch
+    Other                                    Hanson's Name
+    PUBLIC                                   Kick Off
+                                             Ball hits X-Bar
+    Letter                                   Barrier breaks
+    Telephone
+     isit to Police Station
+                                             CROUD SURGES O/S GROUND
+c       CATEGORY NOT SPECIFIED               Metal Qate forced
+                                             Qate ’C' to eject
+                                             Sate 'C' crowd in
+
+                                              PREVIOUS MATCHES    |=j
+                                              Semi Final 1981      jr= j
+    WITNESS CALLED TO INQUIRY                 Semi Final 1956      i=j
+                                              Semi Final 1988      «=
+                                              Other States — --------
+    COACHES - Alcohol
+            - Disorder
+            - Police                          INVESTIGATION
+              Check                           Forged Tickets
+            - Traffic                         Forcing Sates
+                                              Unauthorised access
+              Delay
+                                              Alcohol
+    LETTER REQUIRED   Y/N    □                Disorder
+I n c:i.d e n t   102    03O 5 8 9 0 P 369S     TYPING SERVICE DOCUMENT
+
+                                                                 Quest ionnaire Number       QHS74
+
+ Surname          v
+
+ F orenames
+                                                                                         W    ]
+Q1
+
+ DO YOU SUPPORT LIVERPOOL OR NOTTS FOREST?
+
+ NEITHER
+
+
+Q2
+
+ HOW LONG HAVE YOU LIVED AT THIS ADDRESS?
+
+ SIX MONTHS
+
+
+Q3
+
+ m     E YOU AT HOME FOR LAST YEARS SEMI FINAL?
+
+ NO
+
+
+Q4
+
+ WERE YOU AT HOME ON THE DAY OF THIS YEARS LIVERPOOL/NOTTS FOREST MATCH?
+
+ YES
+
+
+G5
+
+ WAS THERE ANYTHING THAT MADE THIS MATCH DIFFERENT FROM THOSE IN THE PAST?
+
+ NO
+
+
+Q6®
+
+ DID YOU WITNESS ANY INCIDENTS OF DRUNKENESS OR DISORDERLY BEHAVIOUR BY ANY
+
+ OF THE FANS?           (BRIEF DESCRIPTION)    INCLUDE TIME OF    INCIDENT
+
+ NO
+
+
+Q7
+
+ WAS ANY DAMAGE CAUSED TO YOUR PREMISES BY FANS? DETAILS
+
+ NO
+
+
+Q8
+
+ DID YOU ATTEND THE MATCH?              IF SO WHERE DID YOU SIT/DO YOU HAVE ANY RELEVANT
+                                                                          F A tab.
+         »
+                                                                          QHS74
+
+ INFORMATION?   (CONSIDER USING SUPPORTERS QUESTIONNAIRE)
+
+ NO
+
+
+G9
+
+ WERE YOU WITH ANYONE WHO MAY GIVE RELEVANT INFORMATION? DETAILS
+
+ NO
+
+
+G "10
+
+ DO YOU HAVE ANY COMMENTS CONCERNING THE SOUTH YORKSHIRE POLICE ARRANGEMENTS
+
+ FOR THE MATCH/OR    INDIVIDUAL POLICE OFFICERS ON DUTY?
+
+ NO
+
+
+GJ
+
+  IS THERE ANY OTHER MEMBER OF YOUR HOUSEHOLD ABLE TO PROVIDE RELEVANT
+
+ INFORMATION? DETAILS    ^
+
+ GIRLFRIEND
+
+
+Q12
+
+ ANY OTHER    INFORMATION YOU WOULD LIKE BROUGHT TO THE NOTICE OF THE INDEPENDANT
+
+ JUDICIAL ENQUIRY?
+
+ THE FENCES SHOULD BE TAKEN DOWN
+
+END OF REPORT
+
+     #
+CATROORY             TE MPLATE .       (Version 111)
+
+Please tick those category boxes which are applicable for Indexing
+
+STMIDB                                   MEDICAL
+nplon Kop                                Doctor
+Itorth Starnl                            Police Surgeon
+South Stand     Heated                   Surgeon
+                Standlng                 Pathologist
+WI?f»T STAND                             Nurse
+Ppm lK2                                  Sti Johns Amb
+Pnn 5-7
+PFfl 3                                   SUPPORTERS
+PEN 4                                    Liverpool
+                                         Notts Forest
+POLICE OFFICER OH DUTY.                  Other
+South Yorkshire
+f!»rseyf! Ide                            EMERGENCY SERVICES
+f^jtlnghamshire                          Fire Brigade
+                                         Ambulance                 B
+POLICE OFFICER OFF DUTY
+M»rf;eys lde                             REC0GH1TI0H
+llott Inghamnhlre                        Bravery Acts
+South Yorkshire                          Awards
+Others                                   Appreciation
+                                         Adverse Comments
+MRDIA                                    Complaint
+Press
+TV                                       PUBLIC BODIES
+Radio                                    Local Authority
+                                         Health 6 Safety
+GROUND STAFF.                            FA
+Steward                                  Football Trust
+Turnstile Operator
+Catering                                 CONSULTANTS * FIRMS
+Other                                    Safety       ■
+                                         Construction :.w
+ .fi&Af RESIDENTS                        Other    •I - •
+llWfee
+ lVm< to House
+Shopping                                  Broken Barrier Pen 3
+Other                                     Surges in Crowd
+                                       ,* Attended semi final
+PUBLIC                                    in 1988. ,
+F.fftter
+Telephone                                COACHES - A l c o h o l
+Visit to Police Station                          - Disorder
+                                                 - Police
+                                                    Check
+ANY CATEGORY HOT SPECIFIED
+                                                                   V'iV
+
+                                         LETTER REQUIRED       Y/H q
+                                                                                                                        •nrwsw*
+
+
+
+
+                               w   o   ' r   i*:: t >   7\   i >   • r   i *   :m   t m   . /\ ’i ’i >
+
+Th 1 !t t.P!mp]it.c i:i i n t e n d e d to i s s Lit f ho R e c e i v« r / S ♦ a t e m e r.< R p i d e r to
+i d e n t i f y t h o s e d o c u m e n t s w h i c h a r e to f l a g g e d b y u s e of the N O T E P A D
+  IN .
+
+   DJ . NG                             INTERPRETATION
+
+   * I HOI I T Y * * *                 INSIDE/OUTSIDE                        THE      GROUND       &     MATERIAL
+   * I N 0 1I T X * * *
+                                         H                                                         X     NON-MATERIAL   □
+   * iN Y * * *                        INSIDE           THE       GROUND & M A T E R I A L
+   * I NX***                             "                                 " & NON-MATERIAL
+   *OUTY * * *                         OUTS I D E            T H E G R O U N D ft M A T E R I A L
+   * OUTX * * *
+                                         11                                    & NON-MATERIAL                           Ll2 '
+   * D F.C Y * * *                     DECEASED               & MATERIAL
+   * DECX * * *
+                                         M                    & NON-MATERIAL
+                                                                                                                        □
+   * IN J Y * * *                      INJURED               PERSON & MATERIAL
+                                             It
+   * TNJ X* * *                                                     & NON-MATERIAL
+   * POL YS Y * * *                    POLICE,               SOUTH YORKS & M A T E R I A L
+                                         •I                              & NON-MATERIAL
+   * P O L XS Y * * *
+   *POLYMS * * *                       POLICE,               MERSEYSIDE               & MATERIAL
+                                             ff                                       & NON-MATERIAL                    □
+  *POLXMS***
+  *POLYNC* **                          POLICE,               NOTTS       &     MATERIAL
+                                             If                          & NON-MATERIAL
+  *POLXNC* * *
+  *POLYOT* * *                         POLICE,               OTHER       FORCE & MATERIAL
+                                             ff              "             "    & NON-MATERIAL                          C D
+  *POLXOT* * *
+  *POLPRAISE* **                       POLICE           ACTION           PRAISE, APPRECIATION
+                                                        ACTION           CRITICISED, ADVERSE COMMENT
+                                                                                                                        □
+  *P O L A D V E R S E * * *           POLICE
+
+
+    THE RECEIVER/STATEMENT READER SHOULD TICK THE APPROPRIATE BOX(ES) TO
+    DIRECT THE INDEXER TO ATTACH THE MARKED CODING TO THE DOCUMENT
+    BEING INDEXED VIA +IN.
+Incident      IDS   030589 0PS863        TYPING SERVICE DOCUMENT
+
+                                                       Questionnaire Number     QHS7S
+
+ Surname
+
+ Fore names
+                                                                              ^- n - O
+Q1
+
+ DO YOU SUPPORT LIVERPOOL OR NOTTS FOREST?
+
+ NO
+
+
+Q2
+
+ HOW LONG HAVE YOU WORKED AT THIS ADDRESS?
+
+ ONE YEAR
+
+
+Q3
+
+       E YOU AT WORK FOR LAST YEARS SEMI FINAL?
+
+ YES
+
+
+G4
+
+ WERE YOU AT WORK ON THE DAY OF THIS YEARS LIVERPOOL/NOTTS FOREST MATCH?
+
+ YES
+
+
+Q5
+
+ WAS THERE ANYTHING THAT MADE THIS MATCH DIFFERENT FROM THOSE IN THE PAST?
+
+ NO
+
+
+Q6
+
+ DID YOU WITNESS ANY INCIDENT OF DRUNKENESS OFR DISORDERLY BEHAVIOUR BY ANY OF
+
+ THE F ANS? < BRIEF DESCRIPTION)    INCLUDE TIME OF   INCIDENT.
+
+ NO
+
+
+Q7
+
+ WAS ANY DAMAGE CAUSED TO YOUR PREMISES BY FANS?
+
+ NO
+
+
+Q8
+
+ DID YOU ATTEND THE MATCH ? IF SO WHERE DID YOU SIT/DO YOU HAVE ANY RELEVANT
+                                                                           PAGE
+                                                                           GHS7S
+
+ INFORMATION ? (CONSIDER USING SUPPORTERS QUESTIONAIRE)
+
+ NO
+
+
+09
+
+ WERE YOU WITH ANYONE WHO MAY GIVE ANY RELEVANT INFORMATION ?
+
+ NO
+
+
+Q 10
+
+ DO YOU HAVE ANY COMMENTS CONCERNING THE SOUTH YORKSHIRE POLICE ARRANGEMENTS
+
+ FOR THE MATCH/OR        INDIVIDUAL POLICE OFFICERS ON DUTY?
+
+ NO
+
+
+G^
+
+ IS THERE ANY OTHER MEMBER OF YOUR HOUSEHOLD ABLE TO PROVIDE RELEVANT
+
+ INF OR M A T I O N . DETAILS
+
+ NO
+
+
+G12
+
+ ANY OTHER     INFORMATION YOU WOULD LIKE BROUGHT TO THE NOTICE OF THE INDEPENDENT
+
+ JUDICIAL ENQUIRY?
+
+ NO
+
+END OF REPORT
+

@@ -1,0 +1,219 @@
+   (
+ r ',•« -- * . *   *
+                                                                                                                                                                                                                                      B :x / ^
+
+            /Q jis a e ^ & ^ ^ s                   v       « o -£ X * -c                                                                                      ■***-        * - /S € .           l/t w * ,.      .5   ^       ^ '
+
+
+
+         &C> Ca^a*£t^r4*^C                                                  7<s-&Cr-                 ^
+
+
+
+
+                                                                   Z- •            _                          -£ - /    /           ^           /       /C q -o            £ ^ U si         ^ u j_ s z - ~    o ^ £ a 0 ^ 4 . .=>f
+               &, i tzr-J                           *•                                                                                          (
+                                                  ^/f7
+                                                     e^
+                                                      v- t
+                                                         <S
+                                                          s*
+                                                           _-
+                                                            L£~ £jk>w 3^                                                                       r                                                        0
+
+
+
+       / 2~ /■< rS/ r%^~                  <2f*f&**-G->j£Z-j                 .          6-SZ*-<y
+                         '                                                                                                                      i--n
+
+                                                                            &^xrr-£-                                        —           i'og
+            «-?,                                                                                                                                                                    ^               6^/<Ay
+                                 /                     4^.         / ^ y — '4-c                      ,   '    ^                     ^                                              >
+
+                              ctc.e^^-^-7
+                                                               ,                         ^   .   .            ^        4 ~ -                        ° 6jJ0 ^^ ^ ~ ~ ° ,/h%’
+
+                                                                                                                                                                           /
+                                     |                                        7                      ^— 7         **?'                                 >.0Q^
+
+                   &   J« S * L &    S 2 s~ ^ J        ^            ^     O -n s C a ,
+
+
+
+
+/ -&0*&            Sri~&*6^L^>X2C                           '
+
+         ^Sfce^                  ^. / K'sj/ *~
+
+
+                                                                                                                                                          / > U ? . a ^ L
+ <trh_X^/              c-y*                                40             &
+                                                                                                                                                                                                                     Cfi^tr
+
+\\\A                   £3 c c y « S W ^                        •
+
+
+
+  / -Q4X£                    sruL&t^>j»L £>                        ^        ^     )
+
+
+
+                                                                                                                                .       /li^   jy t~    -6-w’ e - ^ - a O ^ J C Z - S ^ C   f
+
+
+
+
+                             ^                                          ~         ^                                                 \ ^                / ’~Sr
+         /pcL/y'-t**^                {j£'o£Hx>             -
+        /                                                      ^              '■<-&-                     £3       ^ D c <zA&>^ ///S£                         vz-eAB-**'-                                                 £^=v—       SOt^.^£^s
+                                                                                             ■ o€^~                                       -£~~*                                                              /*yV/’
+                                 sij o c            ys>
+                                £                 -    ,
+                 >                  _ ^✓
+                                    c ^ e ^ c ^
+                                                       &-es£tSLr-
+
+
+                                                                                         ^-o 06
+
+
+/&“»A«. ^   /'€-^jL*-*v                                                                                            €s£+^lZt*2~€£i&»~ <^i-
+
+                                     -^S’
+                                        aXZC                    /fo]
+                                                                Sv.c-ow-*s~-p                                   ___ c>
+
+
+                          A-~ <JWi<               ^        -2       ^                                        ?s ^
+
+
+
+                                                      <U^-C£            -a-Gtt*.'       &>'                                  ^-CCe^^a^r
+
+                                                                                              ^   ^1° ‘■f*          dzsxs™ *’- )
+                                                                                                                                 y "
+
+
+
+
+                                                                                          C?kj'tU^~ ~        tJ>T>^,     ^             c£*Xkr>
+  /£>                 ^T        ^                                                   -
+
+ ^ r                                 <1.&>s <*<*-£& -
+                  ^        c2       aU^u^.                      O         ^         ^-r
+                                                                        \-\^x i ~i
+
+COMMENTS ON THE REVISED GREEN GUIDE - ANNEX DEALING WITH TESTING AND INSPECTION
+OF CRUSH BARRIERS AND HANDRAILS
+
+This version appears to be a combination of the Dickson/HSE version and
+the Structures Committee version (dated 10/4/90) and, as such, some of the
+previous comments on the Structures Committee version no longer apply.
+
+Comments on the latest version of the Annex are as follows:
+
+Obi ective
+
+What is meant by 'established safety factor'? Can this be quantified?
+
+Personnel & Equipment
+
+Reference is made to direct supervision by a qualified engineer. Is
+it proposed that a qualified engineer should be present on site during
+the tests?
+
+The accuracy required of the force measuring equipment is unrealistic
+for site work. Why should the force capacity be twice the maximum test
+force? On a 5m barrier the force capacity would have to be 60kN and the
+accuracy would have to be 0.1/60 = 0,16%! This is ridiculous.
+Have manufacturers and users been contacted to ascertain the accuracy of
+the equipment available?
+
+No mention is made of the accuracy required of the deflection measuring
+equipment, HSE suggested + 0,5mm and the Structures Committee altered
+this to +0.1mm. We remain convinced that the HSE value is preferable.
+
+Testing
+
+There appears to have been a change in philosophy here. It seems that
+any test method can be used by agreement. Surely this is a
+retrograde step which will introduce even more confusion and, in our
+view, weaken the Guide,
+
+Neither of the methods recommended stipulate that the test force should be
+horizontal. It is not sufficient to state that the test force should be
+applied 'at right angles to the longitudinal axis'.
+
+Test method A
+
+The only alteration, compared with the existing Guide, appears to be
+clarification of the datum for measurement of deflection. We do not
+accept that 75% recovery after the third application of force is a
+sufficiently sensitive measure of acceptability. The re-test procedure is
+unclear (how many loadings?) and alteration of the datum before re-test is
+unjustifiable. However, this test procedure is less elaborate than test
+method B and, if included in the Guide, it is likely to be selected by
+most barrier testing organisations. Hence there would be little
+improvement over the existing Guide. This is contrary to the
+recommendations of the Technical Working Party, set up by Lord Justice
+Taylor, which called for a test procedure which incorporated a
+bedding-in cycle and a single cycle of proof testing (see Hillsborough
+Inquiry Report Appendix 3, paragraph 26). Perhaps the Home Office should
+be reminded of this.
+
+
+
+                                     -   1   -
+For these reasons we believe that this method should be deleted from the
+new version of the Guide,
+
+Note: the alteration from 4,3 kN/m in the existing Guide to 4.1 kN/m
+(for barriers with spacing B) is correct when the 1.2 x design force
+rule is applied.
+
+Test method B
+
+The section dealing with the bedding-in cycle is reasonably consistent
+with the HSE/Dickson version. It is gratifying to see that now the
+bedding-in force = the design service load, rather than 75% of the
+design service load, recommended by the Structures Committee,
+
+There is an inconsistency in the name of the second part of this method
+since it is called variously 'proof test', 'proof cycle' and 'the test'.
+We would prefer 'proof cycle' throughout.
+
+The proof cycle is to be applied twice (pl04 para 4), Why?
+This is a new requirement not included in either previous version.
+
+The use of the 75% recovery criterion (pl04 para 5) is unacceptable.
+This allows for upto 15% permanent deflection during the proof cycle.
+The whole idea of using a bedding-cycle before the proof cycle is to
+minimize the amount of permanent deflection during the proof cycle.
+Originally HSE recommended 95% recovery after the proof cycle (using a
+datum established after bedding-in) and we strongly support this as
+an acceptance criterion.
+
+General comments
+
+There are a number of features of the HSE/Dickson version of the Annex
+which were accepted by RLSD as a compromise and which it may now be
+appropriate to change :
+
+i) The use of ten increments during the proof cycle - this is
+unnecessary and a deterrent to the use this test procedure,
+
+ii) Acceptance criteria expressed in percentage terms only - we would
+like to see absolute values included as well, eg no permanent deflection
+in excess of 25mm,
+
+iii) Deflections measured in two directions at right angles - whilst
+this good idea in principle, it makes the test more complicated and
+provides a further deterrent for potential users.
+
+The symbol for kilonewtons is 'kN' not 'KN'!
+
+
+
+
+29 June 1990
+

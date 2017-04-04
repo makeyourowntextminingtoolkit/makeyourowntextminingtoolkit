@@ -1,0 +1,413 @@
+        * « TX   C 0 N F I R MA T I 0 N R E P ORT   * *     AS   OF     30   J AN   ’ 90   16:45      PAGE.0 1
+
+                                                                        HOME    OFFICE     QN   ANN    GT
+
+
+
+
+      DAT E   TIME                  TO/FROM                MODE       M I N / S E C PGS      STATUS
+0 1    1/30   16:35                   0 1 £17       5359   G3--S      10"05        11          OK
+        **    TX   CONFIRMATION   R E P ORT   **      AS   OF     30   J AN   ’ 90   I S : 33     PAGE.0 1
+
+                                                                  HOME    OFFICE      QN    ANN    GT
+
+
+
+
+      DAT E    TIME           TO/FROM                MODE       M I N / S E C PGS       STATUS
+0 1    1/30    16:£3           05 1 ££ 5      3836   EC— S      09"51        11           OK
+       **    TX   CONFIRMATION    R E P ORT   **       AS   OF    30   J AN   ’ 90   1 6 : EE    PAGE.01
+
+                                                                  HOME     OFFICE     QN   ANN    GT
+
+
+
+
+     DATE     TIME           TO     FROM              MODE       MIN/SEC      PGS       STATUS
+01    1/30    16: IE              0 3 £ 5 E 8 6 13E    EC — S      09"45       11         OK
+        **    TX   CONFIRMATION   R E P OR T   **    AS   OF    30   J AN   ’ 90   15:59      P A G E . 01
+
+                                                                HOME    OFFICE     QN   ANN    GT
+
+
+
+
+      DAT E    TIME           TO/FROM               MODE       MIN/SEC      PGS      STATUS
+0 1    1/30    15:48            0££5 311779          G3--S       10"£3       11        OK
+        **     TX   CONFIRMATION   R E P ORT   **   AS   OF    30   J AN   ’ 90   15:47      PAGE.0 1
+
+                                                               HOME    OFFICE     QN   ANN    GT
+
+
+
+
+      D AT E    TIME             TO/FROM            MODE      MIN/SEC      PGS      STATUS
+0 1     1/30    15:36   0742   75579E               G3— S      1 1 "£4     11         OK
+                                             FEP/90 35/48/3
+
+
+
+
+                                             30 January 1990
+
+
+
+
+HILLSBOROUGH STADIUM DISASTER INQUIRY - PART II
+TECHNICAL WORKING PARTY
+
+
+Please find enclosed the minutes of the Working Party meeting
+held at Queen Anne's Gate on Tuesday 23 January.  Together with
+these, I am enclosing a copy of the draft 'Supplementary Notes'
+paper which has been prepared by Professor Maunder.  Given the
+tight schedule, I should be grateful if you would let me have
+comments by telephone in the first instance.
+
+I hope that, by now, each of you will have received a copy of
+Lord Justice Taylor's Final Report.  However, if it has not
+arrived by the end of the week, please let me know and I will
+ensure that a further copy is dispatched.
+
+                                        Yours sincerely
+
+
+
+
+                                        JONATHAN SWEET
+                                        Hillsborough Inquiry
+           TECHNICAL WORKING PARTY SUPPLEMENTARY NOTES
+Introduction
+
+1.   In the review of the technical aspects of safety, the
+Technical Working Party considered the content and the
+presentation of the Green Guide in detail.  The principal
+conclusions of the review and the consequent recommendations are
+contained in the Working Party Report to the Inquiry, but in view
+of the amount of material gathered in the course of the work
+detailed suggestions for the revision of the Green Guide are
+assembled in this separate document as a contribution to any
+revised edition.
+
+2.   The Final Report refers to the relationship between the
+Green Guide and the Safety Certificate and to the view that the
+local authority should follow the Green Guide criteria in
+assessing the mandatory requirements for a particular ground.
+Variation from the figures then included in the Safety
+Certificate would only be permitted by formal revision.
+
+3.   Paragraph 3 of the Report of the Technical Working Party
+already records that:
+
+     "3.  It considers that a revised issue of the Green Guide
+     should form the basis on which a designated ground or stand
+     is certified by the certifying authority, and recommends
+     that any departures from the guidance or Technical
+     provisions that may arise from local circumstances should be
+     fully defined and should be subject to approval in writing
+     by the certifying authority".
+
+4.   The Technical Working Party believes that a revised edition
+of the Green Guide should incorporate these recommendations
+prominently in the introduction.  A high degree of definition in
+the guidance offered will be required if ambiguity is to be
+avoided.
+
+Non-technical Aspects
+
+5.   Non-technical aspects of the Green Guide lay outside the
+Technical Working Party's terms of reference, but they interact
+closely with the physical characteristics of grounds.
+Responsibilities for the improvement of structures and
+communications at grounds, and for the conduct of inspections and
+tests, including those accepted from the Technical Working
+Party's Report, should be made clear in the Green Guide.
+Particular attention should be drawn to the management and
+training of those carrying out the work, to the monitoring of
+procedures, and to the recording of results.
+
+6.   Reference to the required degree of competence of those
+responsible for carrying out the technical work should be
+included in the Green Guide.  An example from the Pressure
+Systems code of Practice is:
+      "3.1.     The 'competent person' (whether a body or an
+      individual) should have such practical and theoretical
+      knowledge and actual experience of the type of system which
+      is to be examined as will enable defects or weaknesses,
+      which it is the purpose of the examination to discover, to
+      be detected and their importance in relation to the
+      integrity and safety of the system to be assessed."
+
+A reference to "the recommending of corrective measures" might be
+added to appropriate specifications.
+
+7.   For the following notes, reference should be made to the
+index of Technical Working Party's papers and to the Technical
+Working Party Report.
+
+CHAPTER 3 - GENERAL FABRIC AND STRUCTURAL MATTERS
+
+8.   The chapter should aim to include (i ) a broad introduction
+to the requirements for structures, but without numerical detail,
+(ii) reference to later chapters of the Green Guide where details
+are to be found, and (iii) reference to other documents such as
+the SCICON report and the ISE reports.
+
+9.   Consideration should be given to a separate chapter on
+lighting, electrical supplies and computer-based equipment.
+
+CHAPTER 4 - INSPECTIONS AND TESTS
+
+10.  A major re-write should be undertaken along the lines of the
+Technical Working Party Report paragraph 40.  If it is decided to
+separate details of the structural testing of crush barriers, for
+example, or the effectiveness of communication systems, from the
+text of the chapter, clear references should be given.
+
+11.  It is important to outline the purposes of inspections and
+tests and it is vital to emphasise that accurate and certified
+records of all such procedures must be kept.
+
+12. A complete tabulation of the minimum requirements of
+inspection and test, including frequencies, should be provided.
+
+13.   See also Technical Working Party Recommendation 16.
+
+CHAPTER 5 - INGRESS
+
+14.  if separate chapters on ingress and egress are retained they
+should be well co-ordinated with each other.  They should also be
+well co-ordinated with the chapters on stairways and ramps and on
+means of escape from fire.
+
+15.  Prominence should be given to the importance of each ground
+having a fully documented networked plan delineating all aspects
+of ingress and egress not only within the ground but also at its
+approaches.  For both ingress and egress, the plan should take
+account of the distribution of entrances and exit routes so as to
+encourage even packing and dispersed departures.
+16.  The principal conclusions and recommendations on ingress are
+given in paragraph 33 and Recommendation 12 of the Technical
+Working Party Report.  They incorporate the proposals contained
+in Mr Bush's paper of 30 October 1989.
+
+CHAPTER 6 - EGRESS
+
+17.  The principal conclusions are recorded in minutes 10-17 of
+WP89(M)3, derived from discussion on 7 November 1989 of Mr Bush's
+paper on egress.  Detailed proposals for improvements in the
+arrangement and the clarity of the text are made in these
+documents, including co-ordination of material with other
+chapters, as also noted above.  It is recommended that particular
+attention should be given to the paragraphs on funnelling and
+reservoir areas, to which Recommendation 13 of the Technical
+Working Party Report also refers.
+
+CHAPTER 7 - STAIRWAYS AND RAMPS
+
+18.  The Technical Working Party's conclusions are summarised in
+paragraphs 19-27 of WP89(M)3 and in paragraphs 36-39 of the
+Report.  Reference should also be made to Mr Bush's paper on
+stairways and ramps circulated for discussion on 7 November 1989.
+
+19.  Particular attention should be given to improving the
+clarity of presentation in the text and to introducing more and
+better illustrative diagrams.  Reference to the spacing of
+handrails and their extensions at the top and bottom of stairways
+should be revised (Recommendation 15 of the Technical Working
+Party Report).
+
+20.  The requirements for handrails, balustrades and barriers
+serving different functions should be differentiated.  Barriers
+are required at exits to/from ramps leading directly to the rear
+of terraces.  More explicit guidance should be given to those
+handrails or other protective structures that separate a stairway
+or ramp from a hazardous drop.  Handrails should be provided to
+assist the channelling of flows through wide ramps.
+
+CHAPTER 8 - TERRACES AND VIEWING SLOPES
+
+21.  A more positive approach should be adopted to the marking of
+gangways. All gangways should be kept clear during events:
+"discouragement" from standing in them is not enough (see
+Professor Maunder's and Mr Stickley's notes on chapter 8).  The
+front-to-back spacing of crush-barriers should be less on viewing
+slopes than on terraces;  a ratio of two-thirds is recommended.
+
+CHAPTER 9 - CRUSH BARRIERS AND HANDRAILS
+
+22.  A complete rewrite of this chapter and Appendix C is
+recommended.  In view of the deficiencies in inspection and
+testing that were exposed in Phase I of the Inquiry, it is
+imperative that guidance should be clear and unambiguous.
+Reference should be made to the ISE report "Appraisal of Sports
+Grounds" and to "Crush Barrier Strengths and Spacings", Home
+Office, March 1973, both of which contain a wealth of useful
+information.
+23.  The conclusions of the Technical Working Party following
+discussion of Dr Nicholson's paper on Chapter 4 and 5 are
+summarised in paragraphs 13, 15-22 and 25-29 of WP89(M)2;
+paragraphs 2(iv) and 3 of WP89(M)3;  and paragraphs 15-18 of the
+Technical Working Party Report.  Note that each barrier should be
+tested at intervals of not more than four years and less as
+determined by inspection.
+
+24.   A model format prepared by Dr Nicholson and Mr Dickson",
+Inspection and Testing of Crush Barriers and Handrails", is
+attached.  It emphasises the importance of visual inspections,
+particularly where corrosion is visible or suspected, calls for
+certified records of inspection and tests, and sets out the best
+practice of structural testing.
+
+CHAPTER 10 - ROOFED STANDS WITH SEATED ACCOMMODATION
+
+25.   The principal recommendation is that guidance on temporary
+structures should be transferred to a separate chapter (Technical
+Working Party Report, Recommendation 11).  See also Mr Bush's
+paper of 22nd November, 1989.
+
+CHAPTER 11 - FIRE SAFETY
+
+26.  Material in this chapter on evacuation should be co­
+ordinated with chapter 6 on egress.   The networked plan of
+entrances and exits recommended above for each ground should
+include escape routes in emergencies.   Full account should be
+taken of the relationships between normal and emergency
+provisions in drawing up evacuation plans.
+
+27.   Attention should be drawn to the importance of clear lines
+of authority in determining the requirements for fire safety, as
+for other requirements for safety.   The Technical Working Party
+considers that the certifying authority should be identified as
+the responsible body (Technical Working Party Report paragraph
+42) .
+
+28.  Reference should be made to the four general documents
+identified in the index accompanying these notes.  (North
+Yorkshire County Council paper, 1952 Fire Grading of Buildings,
+ISE paper, Building Research Establishment Report by Professor
+Canter.
+
+CHAPTER 12 - COMMUNICATIONS
+
+29. A substantial expansion of the chapter is recommended in
+line with paragraphs 44 and 45 and Recommendation 17 of the
+Technical Working Party Report.  See also Professor Maunder's
+note of 28 October 1989 and Mr Stickley's note of 16 November
+1989.
+
+30.  Particular attention should be drawn to the provision,
+capacities, effectiveness and testing of equipment in the Police
+Control Room, in the Club Communications Centre and in the hands
+of police and stewards inside and outside the ground.  Secure
+means of communication between turnstiles and the Police Control
+Room are essential to ensure that admittances to enclosures are
+limited strictly to specified safe capacities.  This requirement
+should be emphasised.  Guidance should be given on the
+requirement of back-up systems, and on special means of
+communicating via public address systems during emergencies.
+References to CCTV should be strengthened.
+
+CHAPTER 14 - CROWD CONTROL
+
+31.  The Working Party considered that the balance between safety
+and crowd control presented in this chapter is unsatisfactory.
+Guidance on safety should be presented more positively.
+Substantial redrafting is recommended, including co-ordination
+with the succeeding chapter on Pitch Perimeter Fence/Wall.
+Requirements of safety and crowd control at the approaches to
+grounds, especially at turnstiles, should be incorporated.
+
+32. WP89(M)4 paragraph 29 summarises discussions based on the
+paper by Mr Bush and Mr Carter, of 22 November 1989.  It notes
+two paragraphs of the Green Guide which gave particular concern.
+The first is paragraph 206, which advocates internal sub­
+divisions of terraces in the interests of crowd control.  Such
+sub-divisions present serious dangers.  The paragraph should be
+revised in the light of Hillsborough.  No sub-divisions should be
+permitted without reliable means of counting the movement of
+spectators.
+
+33.  The second is paragraph 209, which states that "access to
+the pitch must be made as difficult as possible in normal
+circumstances", followed by qualifications that the police should
+have access from the pitch to the terraces and, lastly, that the
+pitch should be used in serious emergencies.   The emphasis is
+clearly on crowd control, and it is recommended that the
+paragraph be rewritten with a substantially changed emphasis in
+favour of safety;  inter alia, not only should the current
+reference to spikes and barbed wire be removed, but spikes and
+barbed wire should be expressly prohibited.   (Technical Working
+Party Recommendation 6).
+
+34.  Clear, prominent and unambiguous signs marking turnstiles,
+other entrances, exits and routes to identified enclosures and
+stands form an important aspect of crowd control, and should be
+treated comprehensively in the Green Guide.
+
+CHAPTER 15 - PITCH PERIMETER FENCE/WALL
+
+35.  Paragraphs 17-22 and Recommendations 5-7 of the Technical
+Working Party Report set out the conclusions of the Technical
+Working Party.  See also Dr Nicholson's paper discussed on 2
+November 1989.
+
+36. Attention should be drawn in the Green Guide to the general
+principles of separation outlined in paragraphs 17 and 18 of the
+Report.  The Green Guide should also include recommendations on
+the size, design and disposition of perimeter barriers.   It is
+imperative that exit gates or gaps providing emergency access to
+the pitch should be defined for each ground such that they allow
+evacuation of an enclosure within a prescribed time, taking into
+account the capacity and the dimensions of the enclosure.
+37.       The strength criteria and test procedures for crush barriers
+and     for perimeter fences should be distinguished one from the
+oth e r .
+
+CHAPTER 16 - ESTIMATION OF SAFE GROUND CAPACITY
+
+38. A comprehensive rewrite is recommended.     A full summary of
+the Technical Working Party's conclusions and recommendations is
+given in its Report.   See also the papers by Professor Maunder
+(31   October 1989) and by Mr Stickley (16 November 1989).
+
+39.    Calculations of the safe capacity of terraced enclosures and
+viewing slopes depend on a large number of parameters.     The Green
+Guide should identify all parameters clearly.    It should
+recommend the procedure by means of which the capacity is to be
+estimated.   The procedure should be set out in a form that can
+readily be followed, preferably as a simple step-by-step
+sequence.   Characteristic numerical examples should be provided,
+and they should be accompanied by explanatory not es .
+
+40.  In view of the move towards more seating accommodation,
+urgent consideration should be given to recommended
+configurations and allowable densities of seating.
+
+CHAPTER 17 - RECOMMENDED FLOW RATES
+
+41.  The chapter should be co-ordinated with chapters 5, 6 and 7.
+It should be expanded to consider flow rates along complete
+ingress and egress routes as well as through component parts.
+Guidance should be included on flow rates relevant to chapter 11
+dealing within emergency evacuation.
+
+ANNEX C
+
+Revision of this annex should be considered in the light of the
+foregoing notes on chapters 4 and 9.  Se also WP89(M)4,
+paragraphs 25-28.
+
+ADDITIONS
+
+1.   A separate chapter on provisions for disabled spectators
+     should be included.
+
+2.   A separate chapter on auxiliary power supplies, with special
+     reference to auxiliary lighting, should replace paragraphs
+     166-169 of the current Green Guide.  See also WP89(M)4,
+     paragraph 16.
+
+3.   A bibliography for further reference should be considered.
+An example prepared by Mr Dickson is attached.
+

@@ -1,0 +1,1414 @@
+                   (o \\ ■ 335 '      3 \ Q o 2-      ■b   -?                SC
+
+
+                  Guidance Note CS                                      The keeping of LPG in
+                  from the
+                  Health and Safe                                        cylinders and similar
+                  Executive                           JULWSo                        containers
+                                                    SHEFFIELD
+     Chemical Safety 4 — June 1986
+
+
+
+     These Guidance Notes are published under five subject          intended to preclude the use of alternative designs,
+     headings: Medical, Environmental Hygiene, Chemical             materials or methods where these provide equivalent
+     Safety, Plant and Machinery and General                        standards of safety; nor is it the intention that this
+                                                                    guidance should be applied rigidly to existing
+                                                                    premises where safe storage has been provided in
+     This Guidance Note replaces the advice first                   accordance with earlier guidance. Only such
+     published in 1973 as a Home Office Code of Practice,           alterations as are considered to be reasonable, or
+     later reprinted with minor amendments as Health and            essential for safety should be made.
+     Safety Executive (HSE) Guidance Note, Chemical
+                                                                    6 The advice covers general information on
+     Safety Series 4 (GN CS4) in February 1981.
+                                                                    arrangements for both outdoor and indoor storage
+                                                                    and recommendations for safe operating procedures
+                                                                    at the premises where LPG is kept. In cases of
+     INTRODUCTION
+                                                                    difficulty additional advice may be obtained from the
+                                                                    local office of the appropriate enforcing authority
+     1 Liquefied petroleum gas (LPG) is kept in                     (see paragraph 18).
+     containers for a variety of commercial, domestic,
+     industrial and leisure purposes. In 1981 it was                7 The storage of LPG may be subject to legal
+     estimated that 17 to 18 million cylinders were owned           requirements additional to the general duties in the
+     by LPG suppliers and used in the UK, of which some             HSW Act 1974:
+     10 million were required to provide replacements for       - (a) If-the premises are subject, to th'e Factories Act
+     those kept by consumers. In. addition the number of              1961, the Highly Flammable Liquids and ,
+     small cylinders (under 4.5kg capacity) owned by                  Liquefied Petroleum Gases Regulations 1972
+     leisure users was estimaied to be in excess of thrde             (Statutory Instrument 1972 No. 917) (HFL
+     million.                                                         Regulations) will apply.       f
+     2 About half the incidents involving LPG reported to           (b) The Notification of Installations Handling
+     HSE each year occur in building, construction or                   Hazardous Substances Regulations 1982 (NIHHS)
+     similar activities. Guidance Note CS6 gives specific               (SI 1982 No. 1357) require that all premises at
+     advice for these activities.                                       which 25 000kg or more of LPG are kept should
+     3 Because of the expansion in the domestic use of                  be notified to HSE. Guidance on these
+     LPG there has been a considerable increase in the                  regulations can be found in HSE booklet HS(R)16.
+     numbers of retail premises selling LPG in cylinders            (c) The general requirements of the Control of
+     and cartridges. More detailed advice is given in                   Industrial Major Accident Hazards Regulations
+     Guidance Note CS8 on the small scale storage and                   1984 (SI 1984 No. 1902) (CIMAH) apply to all
+     display of LPG at retail premises for quantities                   premises where LPG in any quantity is processed
+     totalling less than 400kg in containers with individual            or where 50000kg or more are stored.
+     capacities of not more than 20kg.
+                                                                        Further guidance on the CIMAH Regulations can
+     4 This Guidance Note gives advice on how the                       be found in HSE Booklet HS(R)21 and on the
+     general duties of the Health and Safety at Work etc                emergency plans required by the regulations in
+     Act 1974 (HSW Act) may be met when applied to the                  HSE Booklet HS(G)25.
+     keeping of LPG. It provides a guide to safe practice
+     both for people storing and handling LPG containers            (d) At premises subject to the Fire Certificates
+     and those given the task of enforcing safety                       (Special Premises) Regulations 1976 (SI 1976 No.
+     requirements. The application of this advice need not              2003), enforced by HSE, and the Fire Precautions
+     be limited only to those premises covered by the                   Act 1971, enforced by the Fire Authority, the
+     HSW Act. It may be used as good practice in other                  presence of LPG may be taken into account
+     circumstances. The recommendations are intended to                 when considering the general fire precautions.
+     minimise the risk of fire or explosion from LPG
+     escaping from a leaking container and from the
+                                                                    Note: although LPG itself is not subject to the
+     consequences of a fire, either at or near a cylinder
+                                                                    Petroleum (Consolidation) Act 1928 the Petroleum
+     store.
+                                                                    Licensing Authority may take its presence into
+     5 This guidance is given to safeguard both people              account in determining the condition to any licence
+     at work and members of the general public. It is not           that may be issued under the Act.
+
+                                                                1
+114.§ 35 .
+3 :1U M
+Scope                                                         for the area as determined by the Health and Safety
+                                                              (Enforcing Authority) Regulations 1977 (SI 1979 No.
+8 This guidance applies to the keeping of LPG in              746).
+containers where the total quantity stored exceeds
+15kg, but the general principles may be applied to            19 Element of construction Any wall, floor, ceiling,
+the keeping of smaller quantities. It also applies to         roof, door or window (including the frames) etc which
+containers on loaded vehicles parked other than on a          forms part of a building, room or other enclosure.
+public highway eg at an LPG store, retail outlet, etc.
+                                                              20 Fire resisting A fire resisting element of
+9 The guidance note does not deal with the                    construction is one that would have at least the
+following:                                                    stated period of fire resistance (ie stability, integrity
+                                                              and insulation) if tested, from either side, in
+(a) LPG containers being transported by road or               accordance with British Standard BS 476 Fire tests
+    when the vehicle is parked for a short period eg          on buildings and materials and structure Part 1 :
+    during a meal break;                                      1953 or Part 8 : 1972:
+(b) cylinders fitted to a vehicle to provide fuel for         (a) where two or more elements of construction
+    any purpose on the vehicle;                                   adjoin and together provide separation, the
+                                                                  junction between them should be bonded or fire
+(c) the storage of aerosol products in which LPG is
+                                                                  stopped to prevent or retard the passage of
+    used as a propellant;
+                                                                  flames or hot gases, thus giving effective fire
+(d) the use of LPG from cylinders;                                separation between the rooms or spaces on
+                                                                  either side;
+(e) the filling of containers except where nominally
+    empty cylinders are stored before filling and             (b) elements of construction should be of
+    where filled containers are set aside in a                    sufficiently robust construction so that their fire
+    designated area after filling.                                resisting properties are not Impaired by damage
+                                                                  caused by everyday wear and tear. Additional
+10 Detailed guidance is not given on the design,                  protection, eg crash barriers, reinforcing plates,
+construction or maintenance of containers but some                wearing strips etc, may be required when
+information on containers and cylinder fittings can               mechanical damage Is foreseeable;
+be found in Appendix 1, on cylinder marking in
+                                                              (c) the roof or celling of a store should be tested as
+Appendix 2, and on maximum LPG container charges
+                                                                  a floor where:
+in Appendix 3.
+                                                                  (i)   the roof Is being used for storage;
+                                                                  (ii) an external escape route passes over it;
+DEFINITIONS FOR THE PURPOSE OF THIS
+GUIDANCE NOTE                                                     (Hi) the roof or facade of another part of that or
+                                                                       any other building would suffer from thermal
+                                                                       radiation, should the roof or ceiling of the
+11 Liquefied petroleum gas (LPG) A generic term
+                                                                       store be breached by fire; or
+used to describe liquids and gases normally
+consisting of C3 and C4 hydrocarbons, eg propane                  (iv) where there Is another room above;
+and butane to BS 4250 and methyl acetylene.
+                                                              (d) when this Standard Is applied to a door and its
+12 Cartridge A nonrefiliable container of less than               frame:
+1.4 litres water capacity, designed to be disposed of             (0    the door should be self closing and free from
+when empty and constructed to a recognised                              any means which would allow it to be fixed
+standard, eg'BS 5329. The term does not include                         In the open position
+cigarette lighters and similar small containers.
+                                                                  (ii) all clearances should be kept as small as is
+13   Container   A cylinder or cartridge.                               practicable; and
+14 Cylinder A portable refiliable container up to                 (iii) the hinges and fixings should be of non-
+150 litres water capacity designed to a recognised                      combustible material and have a melting
+standard eg BS 5045.                                                    point in excess of 800° Celsius.
+15 Nominally empty cylinder A cylinder from                   21 Fire Wall A fire wall should be of at least 30
+which most if not all liquid has been discharged but          minutes fire-resisting construction, impjerfbrate and
+which will still contain LPG vapour.                          solid masonry or concrete. The wall should be at
+                                                              least as high as the highest stack with a minimum
+16 Compartment A room separated from other
+                                                              height of 2m and be long enough to ensure that the
+parts of a building by walls, ceiling, floor etc of at
+                                                              minimum distance given in column 3 of Table 2 is
+least 30 minutes fire resisting construction.
+                                                              met when measured from the nearest cylinder in the
+17 Display Containers which have been removed                 stack around the wall. Barriers constructed of other
+from storage and are on show to the public.                   materials eg earth banking, may be equally effective
+                                                              for this duty.
+18 Enforcing authority Is the authority with a duty
+to enforce the HSW Act and other relevant statutory           22 Keeping Includes storage, handling (other than
+provisions. This is normally HSE or the local authority       conveyance) and keeping for use where there is the
+
+                                                          2
+    intention to transfer LPG into or out of the cylinder         34 LPG is colourless and its weight as a liquid is
+    at that place.                                                approximately half that of the same volume of water.
+                                                                  If LPG is spilt on water it will float on the surface
+    23 Non-combustible material A material that can
+                                                                  before vaporising. The gas is a t least V h times
+o   be classified as non-combustible when subjected to
+    the test for non-combustibility given in BS 476 Part 4
+                                                                  heavier than air and does not disperse easily. It will
+                                                                  tend to sink to the lowest possible level and may
+    1970 or Part 11: 1982.
+                                                                  accumulate in cellars, pits, drains or other
+    24 Separation distance The horizontal distance                depressions. It is therefore, important that LPG is
+    between the nearest cylinder in the storage area and          always stored or used in a well ventilated position so
+    the reference feature.                                        that any small leaks will disperse and be diluted to
+                                                                  well below the flammable concentration.
+    25 Storage Stocks of full or nominally empty LPG
+    containers where there is no intention of transferring        35 As LPG is odourless, commercial grades are
+    LPG out of the containers.                                    normally odorised before distribution so that they
+    26 Storage area (or store) An area set aside for              have a characteristic smell that can be easily
+    the storage of LPG containers where there is no               recognised in low concentrations (at about 20% of
+    intention of using the LPG:                                   the lower flammable limits).
+
+    27 Use, (Used or using) covers any activity                   36 Leaks of gas from a cylinder valve may be
+    involving the consumption of LPG in an appliance,             detected by sound, smell or by frosting in the area of
+    whether immediately or within a reasonable time of            the leak. Small leaks may be detected by brushing
+    the cylinder being connected to the appliance.                the cylinder with a solution of detergent in water.
+                                                                  Bubbles will form at the leak. ON NO ACCOUNT
+    28  Vulnerable Population People who cannot be                SHOULD A NAKED FLAME BE USED TO DETECT A
+    evacuated easily and quickly from premises because            LEAK.
+    of age or infirmity eg those in a nursery school, old
+    peoples home, hospital etc.                                   37 When LPG is vaporised, heat is drawn in from
+    29 Zone 2 For the purpose of hazardous area                   the surroundings. LPG liquid can produce severe
+    classification a Zone 2 area is defined in BS 5345:           frost burns on skin.
+    Part 1 as one in which an explosive gas-air mixture is
+    not likely to occur in normal operation, and if it
+    occurs it will exist only for a short time.
+                                                                  Table 1    Physical properties of iiquefied petroleum
+                                                                  gas
+    PROPERTIES AND HAZARDS OF LIQUEFIED
+    PETROLEUM OAS IN CONTAINERS                                   Physical property                Commercial   Commercial
+                                                                                                   butane       propane
+
+    30 The LPG commonly supplied in containers is                 Relative density (to water) of   0.57—0.58    0.50—0.51
+    either ‘commercial butane’ or ‘commercial propane’.           liquid at 15.6°C
+    The characteristics and composition of these
+                                                                  Litres/Tonne of liquid at        1723— 1760   1965—2019
+    products are contained in BS 4250. Their main
+                                                                  15.6°C
+    physical properties are given in Table 1.
+                                                                  Relative density (to air) of     1.90—2.10    1.40— 1.55
+    31 Propane or butane gas can be easily liquefied by           vapour at 15.6°C and 1015.9
+    the application of moderate pressure. The liquid has          mbar
+    approximately 1/250th of the gas volume and can
+                                                                  Ratio of gas to liquid volume    233          274
+    thus be more conveniently stored in containers. The
+                                                                  at 15.6°C and 1015.9 mbar
+    liquefied gas is normally vaporised for use as a fuel.
+                                                                  Volumes of gas/air mixture at    12,900       12,450
+    32 At normal temperature (15°C) liquefied                     lower limit of flammability
+    ‘commercial butane’ has a gauge pressure of about 2           from 1 volume of liquid at
+    bar (28 psig) and liquefied ‘commercial propane’              15.6°C and 1015.9 mbar.
+    about 7 bar (100 psig).
+                                                                  Boiling point °C                 —2           —45
+    33 LPG forms flammable mixtures with air in
+                                                                  Vapour pressure
+    concentrations of between about 2 % and 10% by
+                                                                    at 20°C bar g                  2.5          9
+    volume. A fire or explosion could occur if LPG                          psig                   40           130
+    escapes from a container and is ignited, particularly           at 50°C bar g                  7            19.6
+    in a confined space where an explosion could result                     psig                   100          283
+    in serious damage. If an LPG container is involved in
+                                                                  Lower limit of flammability,     1.8          2.2
+    a fire, it will overheat and may rupture violently.
+                                                                  % v/v
+    Pieces of the container may be projected over
+    considerable distances. Where a cylinder is fitted            Upper limit of flammability,     9.0          10.0
+    with a safety (pressure relief) valve (PRV) the risk of       % v/v
+    violent rupture is reduced significantly and the
+    distances over which missiles will be projected will          Source: LPGITA An Introduction to Liquefied Petroleum
+    be smaller.                                                   Gases.
+o
+                                                              3
+STORAGE                                                   vandalism. The arrangements should take into
+                                                          account both the general security of the premises
+                                                          and the situation in the vicinity of the storage area.
+38 Because of the fire hazards associated with            Any fencing provided should be of robust industrial
+LPG, containers should be held in a properly              type wire mesh or equivalent that will not obstruct
+constructed and carefully controlled storage area         ventilation (see paragraph 64).
+either outdoors or where that is not reasonably
+                                                          46 The storage area should be placed at a safe
+practicable indoors to meet the general requirements
+                                                          distance from the property boundary, any building or
+given in paragraphs 40 to 59. More detailed advice is
+                                                          fixed sources of ignition. The safe distance is the
+given for:
+                                                          separation distances for a given quantity of LPG
+(a) outdoor storage in paragraphs 60 to 80;               shown in Table 2. This distance will minimise the
+                                                          hazards from incidents at or near a store, for
+(b) roof top storage in paragraphs 80 to 89;              example, the accidental release of LPG vapour from
+(c) storage in specially designed buildings in            a fauity, damaged or partly opened valve, a fire on
+                                                          neighbouring premises or a fire on site involving
+    paragraphs 90 to 103;
+                                                          cylinders. A separation distance may only be reduced
+(d) storage in a specially designed storage area          where suitable fire resisting separation has been
+    within a building in paragraphs 104 to 114;           provided, for example, by the use of a fire wall (see
+                                                          paragraph 66).
+(e) storage in cabinets and cupboards in paragraphs
+    115 and 116.                                          47 The minimum separation distance may not
+                                                          always provide complete protection from the hazards
+39 A cylinder which has held LPG and is nominally         of thermal radiation or missiles which may result
+empty will still contain LPG vapour. If the valve is      from a fire in a cylinder store. For quantities over
+left open, air will diffuse into the cylinder and may     400kg a minimum separation distance of 8m or that
+form a dangerous mixture. For the purpose of this         given in Table 2, column 3, which ever is the greater,
+guidance a LPG cylinder should be considered full,        should be provided between a storage area and any
+whatever the state of its contents, unless it is:         building nearby that houses a vulnerable population,
+(a) stored in the open air subject to the provisions in   to give additional protection from the effects of
+    paragraphs 78 to 80;                                  thermal radiation from a cylinder stack fire. This
+                                                          distance may be reduced to those given in Table 2,
+(b) a new cylinder which has never been filled;           column 4 only where fire resisting separation or a
+                                                          fire wall has been provided, for example, where the
+(c) a used cylinder which has been gas freed and
+                                                          wall of the building facing the store is imperforate
+    suitably marked; or
+                                                          and of not less than 30 minutes fire resisting
+(d) a dummy cylinder used only for display                construction or for a single storey building where it
+    purposes.                                             is protected by a fire wall.
+                                                          48 Smoking, and other sources of ignition, should
+General requirements for storage (other than roof         be prohibited in a store or within the separation
+top)                                                      distance given in Table 2. Motor vehicles other than
+40 LPG CYLINDERS SHOULD BE STORED IN A                    fork lift trucks and those delivering or collecting LPG
+WELL VENTILATED POSITION, PREFERABLY IN THE               should be excluded from open air stores. Other
+OPEN AIRi Effective ventilation will ensure that any      vehicles under the control of the occupier may be
+small leaks will disperse and be safely diluted to well   parked within the separation distance but no closer
+below the flammable concentration within a short          than 3m. Where necessary, suitable barriers should
+distance of the source.                                   be erected to prevent unauthorised access and
+                                                          accidental damage.
+41 Other materials stacked near LPG containers
+                                                          49 No opening into buildings, cellars or pits should
+should not obstruct or restrict natural ventilation of
+                                                          be within 2m of an LPG storage area or the
+the storage area (Note the restriction on combustible
+                                                          separation distance given In Table 2 which ever is
+and toxic materials in paragraph 51).
+                                                          the greater. Where a gully or drain is unavoidably
+42 LPG should not be kept below ground level in           within 2m, the opening should be securely covered or
+cellars, basements or pits.                               fitted with a suitable water seal to prevent the
+                                                          Ingress of vapour.
+43 LPG containers should not impede or endanger
+the means of escape from the premises or adjoining        50 Only electrical equipment that is suitable for use
+premises.                                                 In a Zone 2 area (eg to BS 5345) and constructed to a
+                                                          recognised standard (eg BS 5501) should be installed
+44 The floor of a store should be level. The area         for use either in a storage area or within the
+where containers are to be stacked should be              separation distance given in Table 2. A summary of
+concreted, paved or compacted to provide a load           Zone 2 areas is given in Table 3.
+bearing surface.
+                                                          51 Flammable liquids, combustible, corrosive,
+45 People, especially children, have been seriously       oxidising, toxic materials or compressed gas
+injured tampering with unattended LPG containers.         cylinders should be kept separate from LPG
+Steps should be taken to prevent tampering and            containers. Where the quantity of LPG exceeds 50kg,
+    such materials should be separated from stored LPG                     5 000kg of LPG is to be stored in kits specialist
+    containers by either a safe distance (see paragraph                    advice should be sought. For large welding kits that
+    62) or a fire wall. However the storage of acetylene                   include an oxygen container of more than 50g
+    cylinders with LPG is permissible in specially                         capacity the container should be detached and
+o   designed buildings (see paragraph 94). Small oxygen                    together with any spare oxygen containers should be
+    cartridges also may be stored with LPG cartridges as                   stored separately from the LPG.
+    described in paragraph 52 except in premises where
+                                                                           53 The extent of the LPG storage area should be
+    the HFL Regulations apply.
+                                                                           clearly marked and a suitable notice or notices
+    52 LPG and oxygen sold for welding or brazing in                       should be displayed prominently to indicate clearly:
+    boxed kits may be stored together, provided that
+                                                                           (a) that it is an LPG storage area;
+    each kit includes no more than one oxygen container
+    no larger than 50g in capacity, or one container of no                 (b) that the contents of the storage area are
+    more than 500g of oxygen-making pellets. Spare                             flammable;
+    oxygen containers of this size may be placed in the
+                                                                           (c) that smoking or other sources of ignition are
+    same storage area provided that they are stored
+                                                                               prohibited;
+    either in separate stacks o rin separate sections of
+    racking. Where more than an aggregate quantity of                      (d) the procedures to be followed in case of fire.
+
+
+    Table 2 Minimum separation distances for (1) Total LPG storage or (2) Size of maximum stack (which ever of
+    the two result in the greater distance should be used)
+
+    Total quantity LPG Store            Size of largest Stack                Minimum separation            Minimum separation
+                                                                             distance to boundary          distance to boundary
+                                                                             building or fixed ignition    building or fixed ignition
+O                                                                            sources FROM THE
+                                                                             NEAREST CYLINDER
+                                                                                                           source FROM FIRE WALL
+                                                                                                           (where provided) (a), (b)
+                                                                             (where no fire wall is
+                                                                             provided)
+
+    (1)                                 (2)                                  (3)                           (4)
+    Kilograms                           Kilograms                            Metres                        Met
+    from       15 to        400                                               1 (c)                        Nil
+              400 „       1 000         up to 1000                            3                            1
+      „     1 000 „       4 000                                               4                            1
+            4 000 „       6 000         from   1 000 to 3 000                 5                            1.5
+            6 000 „      12 000                                               6                            2
+           12 000 „      20 000           „     3 000   „ 5 000               7                            2.5
+           20 000 „      30 000           „     5 000   „ 7 000               8                            3
+           30 000 „      50 000           „     7 000   „ 9 000               9                            3.5
+      „    50 000 „      60 000           „     9000    „ 10 000             10                            4
+           60 000 „     100 000           is                                 11                            4.5
+      „   100 000 „     150 000           „    10 000 „ 20 000               12                            5
+      „   150 000 „     250 000           „    20 000 „ 30 000               15                            6
+    above 250 000                                                            20                            7
+
+    Notes      (a)   The distance from the nearest cylinder to a boundary, building etc should be not less than the distance given
+                     in column 3 when measured around the fire wall.
+               (b)   Minimum distance from nearest cylinder to fire wall should be 1.5m except as qualified in paragraphs 73 and
+                     75 for quantities up to 400kg.
+               (c)   No separation distance is required for these quantities where boundary walls and buildings are of suitable
+                     construction (paragraphs 69 to 71).
+
+
+    Table 3      Areas classified as Zone 2 for the selection of electrical equipment
+
+    Location                                                 Extent of classified area
+
+    Storage in open air                                      In the storage area up to a height of 1.5m (5ft) above the top of the
+                                                             stack, or beneath any roof over the storage place.
+                                                             Outside the storage area or the space covered by any roof up to 1.5m
+                                                             above ground level and within the distance set out for a fixed source of
+                                                             ignition in Table 2 column (3).
+
+    Storage within a specially designed building             The entire space within the building or storage area and outside any
+                                                             doorway, low level ventilator or other opening into the store within the
+    or
+                                                             separation distance set out In Table 2 column (3) up to a height of 1.5m
+    specially designed storage area within a                 above ground level.
+    building
+
+
+                                                                       5
+If pictorial signs are provided they should conform to   have access, or fixed sources of ignition should be
+the Safety Signs Regulations 1980.                       determined either by consideration of the total
+                                                         amount of LPG stored, or the size of the maximum
+54 There should be no accumulation of rubbish, dry
+                                                         stack in the storage area. The figure resulting in the
+leaves, small bushes or other materials within the
+                                                         greater distance should be used.
+separation distance given in Table 2 which might
+easily catch fire. Long grass and weeds also should      62 LPG cylinders in excess of 50kg total quantity
+be removed within the separation distance and up to      should not be stored or kept within 3m of a vessel
+3m from the cylinders. If weed killers are used,         containing flammable liquid, a bunded area around a
+chemicals such as sodium chlorate, which are             vessel containing a highly flammable liquid,
+potential sources of fire danger, should not be          compressed gas cylinders including acetylene, bulk
+selected for this purpose. Packaging other than the      LPG vessel of 5000 litres capacity or less, explosive
+immediate cartridge or pallet wrappings should be        or combustible materials (see paragraph 51). This
+removed where reasonably practicable.                    distance should be increased to 7.5m in the case of
+                                                         a liquid oxygen installation, a bulk LPG vessel of
+55 The outlet valve of every LPG cylinder should be      more than 5000 litres capacity or from the cylinder
+kept closed while the cylinder is in store or not in     filling buildings at filling plants. Advice should be
+use. If the cylinder is required to have a protective    sought from HSE where it is proposed to store
+cover, cap or plug this should be in place while the     chlorine or other toxic compressed gases.
+cylinder is being handled or stored.
+                                                         63 The ground should be graded or diversion or
+56 LPG containers should be stored or displayed          bund walls provided where a dangerous liquid or
+with their valves uppermost. This ensures that if        dense vapour eg flammable liquid oxygen or LPG
+there is a leak from the valve area vapour, and not      could flow towards stored cylinders should a leak
+liquid, will escape. Cartridges without valves,          occur.
+however, may be stored or displayed on their sides.      64 To prevent trespassing or tampering, every LPG
+57 Cylinders kept on a vehicle or trailer parked         storage area should be enclosed by a substantial
+overnight, other than on a public highway, should be     fence not less than 1.8m high unless it is otherwise
+treated as a single stack and the appropriate            adequately protected ie the area comes within a
+separation distance given by Table 2 column 3            greater fenced area. The fence should not obstruct
+applied.                                                 ventilation. Except as provided in paragraphs 69 and
+                                                         80(b) cylinders should not be placed within 1.5m of
+58 Care should be taken with the handling and            the fence unless it is a boundary fence when the
+stacking of containers to avoid both injury and          distances given in Table 2 will apply. Where
+damage to the containers.                                vandalism Is a problem additional security measures
+                                                         will be required but these should not interfere with
+59 Containers, as they are received into store, or
+                                                         the ventilation of the store. In most cases it will be
+taken out for delivery, should be checked for signs of
+                                                         appropriate to enclose the storage area in a lockable
+damage of leakage. This check is particularly
+                                                         compound of robust industrial type wire mesh eg
+important when a container is to be taken indoors.
+                                                         twelve gauge xS2mmxS2m m mesh welded panels or
+Stacked cylinders should be inspected daily to
+                                                         12 gauge chain link fencing (Figure 2). Each
+ensure the stacks are stable and that they contain
+                                                         compound should have two or more exists to provide
+no damaged or leaking cylinders. Such cylinders
+                                                         alternative means of escape. Gates should open
+should be removed, appropriately marked and placed
+                                                         outwards to provide an easy means of escape for
+in a well ventilated location in the open air awaiting
+                                                         people from within. They should not be self locking
+attention or return to the supplier (paragraph 148).
+                                                         but should be locked when unoccupied. A single exit
+                                                         is permitted provided that the escape travel distance
+                                                         from any part of the store to the exit Is less than
+OUTDOOR STORAGE
+                                                         12m measured round the containers.
+                                                         65 For rooftop and temporary storage eg on
+60 A well ventilated site in the open air should be      construction sites it may not be reasonably
+chosen for storing LPG containers to allow easy          practicable to provide a storage compound as
+dispersal of any small gas leaks. Surrounding tall       described in paragraph 64 or a specially designed
+buildings and high walls may interfere with the          building as described In paragraphs 91 to 99. In such
+natural ventilation. As a general guide, not more than   cases where additional security is required and
+50% of the perimeter of jthe storage area should be      where 400kg of LPG or less is stored cylinders may
+obstructed with the obstructions not on adjacent         be kept in a small lockable wire cage in a safe place
+sides. For stores containing less than 400kg at least    in the open air. If the 1.5m separation distance inside
+25% of the perimeter should be substantially             the cage Is not maintained a small mesh size should
+unobstructed. Figure 1 shows many of the features        be selected to prevent any unauthorised tampering
+required for outdoor storage.                            with the valves of cylinders from outside the cage
+                                                         and the minimum separation distance should be
+61 The storage area should be located and spaced
+                                                         maintained from the stack to a boundary, building
+in accordance with Table 2. The required minimum
+separation distances between an LPG cylinder store       etc.
+and any opening into buildings, combustible              66 Where the minimum separation distances cannot
+structures, boundaries, places to which the public       be met, the use of fire walls permits the separation
+m
+                                                                                                                                    Second ex it
+                                                                                                    Stored drum s       . Notices         \
+
+
+
+Fig 1 Typical outdoor LPG cylinder store
+                                                                                                    {para 62)                \             \
+
+
+
+
+                                           Compressed gas cylinders
+                                           (para 62)
+
+
+
+
+                                                      1.0m (m in) Separation distance
+                                                      betw een no m in a lly em pty
+                                                      cylinders and boundary
+
+
+
+
+                                                                   N om inal em p ty cylinders
+                                                                   {paras 78—80)
+
+
+
+
+                                                                                 S ales/office bu ilding
+                                                                                 (para 61)
+
+
+
+
+                                                                                        F irst aid fire precautions-
+                                                                                        (paras 1 3 8 -1 4 0 )
+
+                                                                                                                                                                                                Separation distc
+                                                                                                                                                                                                               kances
+                                                                                                                                                                                                (Table 2)
+
+
+
+
+                                                                                                                                                                          N otices displayed,
+                                                                                                                                                                          (para 53)
+                                                                                                              Wire mosh fonco
+                                                                                                              (paro 64)
+
+
+                                                                                                                                                                  larly
+                                                                                                                                                   Storage area dec
+                                                                                                                                                   marked
+distances to be reduced to those shown in column 4       provided either by fixed monitors or a sprinkler
+of Table 2. To minimise interference with site           system designed to discharge water to cover the
+ventilation, the total length of wall provided should    storage area at the rate of 12.5 litres/m2/min.
+be restricted to meet the ventilation requirements                                                                \
+recommended in paragraph 60. Cylinders should not
+be stacked against a wall except in a small store        Storage of 400kg or less against a wall or between
+Where 400kg or less are stored (paragraphs 69 to 75).    two or three walls in cylinders of 20 kg or less
+Elsewhere a space of at least 1m should be provided
+                                                         69 LPG may be stored, where necessary, with the
+between the stack and the wall to allow access for
+                                                         wall owner’s permission, next to a boundary wall,
+inspection or the removal of a faulty cylinder.
+                                                         provided that the wall is not less than 2m high, of
+67 The total amount of LPG stored in individual          not less than 30 minutes fire resisting construction
+storage areas within a single site may be considered     and imperforate on either side of the storage area
+separately provided that the distance from any           within 1m of a boundary, 2m of any building opening
+cylinder in one storage area to any cylinder in an       or 3m of other flammable materials. The height of
+adjacent storage area is not less than the sum of the    the stack must not exceed the height of the wall
+minimum separation distances appropriate to each         (Figure 3).
+area in accordance with Table 2.
+                                                         70 If the wall against which LPG is stored is that of
+68 Where a canopy is provided over the storage area      a building, any part of that facade, including any
+for weather protection it should be constructed of non   overhanging roof, up to a height of 9m and extending
+combustible, preferably lightweight friable material     horizontally for a distance of 2m on either side of the
+that will break up quickly in a fire. The supporting     storage area, should be of 30 minutes fire resisting
+structure should be of not less than 30 minutes fire     construction and imperforate (Figure 4).
+resisting construction with respect to stability.
+Sufficient space should be maintained between the        71 Where part of the building is used for residential
+top of any stack and the underside of the canopy so      accommodation the facade including any
+that cooling water can be applied to the cylinders in    overhanging roof against which the LPG is stored
+a fire. Where the storage area covered by a canopy       should be of 60 minutes fire resisting construction
+exceeds 10m x 10m fire protection should be              and imperforate (Figure 4).
+
+
+
+
+                                                                                                     T o open outwards
+
+                              ■yf       y   |
+                                            ~
+                                                .. j
+                                    f       y
+                             L              f
+
+
+
+ 9kg dry powder
+ extinguishers by gates                                               See table 2 fo r minimum
+ (para 140)                                                           distances from any cylinder
+                                                                      to buildings, boundaries and
+                                                                      sources o f ignition
+
+
+
+
+Fig 2   Typical compound for storing LPG cylinder
+72 Passageways or yards enclosed by two or three          (b) the gangway between unpalletised stacks should
+walls and less than 3m wide by 5m long are                    be not less than 1.5m;
+generally unsuitable as storage areas.
+                                                          (c) the maximum height of any unpalletised stack
+73 LPG may be stored in the angle between two                 should not exceed 2.5m. The amount of LPG in
+walls, eg in the corner of a yard (Figure 5).                 any vertical column of a stack should not exceed
+74 Where the storage area is surrounded by three              that shown in Table 4 and there should be no
+walls at least one should not be more than 3m high.           more than seven pallets in any vertical column of
+                                                              any stack.
+75 It may sometimes be convenient to store LPG in
+a bay between two wing walls (Figure 6). If such wing     Table 4   Amount of LPG in vertical columns of
+walls are less than 2m high, they should be ignored       stacks
+for separation purposes and the area should be
+treated as if the storage area were located against a                             Amount of LPG in any vertical
+single wall as in Figure 3. If the wing walls are 2m or   Amount of LPG                     column
+more high, separation distances may be calculated         in any cylinder      Palletised       Non-palletised
+by measuring along and around the perimeter of the        (Kg)                 (Kg)             (Kg)
+wing walls (Figure 6) so that doors may be located
+closer to the storage area. The wing wall should not      Up to 6               35              30
+extend outwards more than 1m beyond the storage           from 6 to 15          75              45
+area, so that ventilation is not impeded.                       15 to 20        80              50
+                                                           „    20 to 55       110              55
+Cylinder stacking — size and height of stacks and
+gangways between stacks                                   77 A well planned layout is necessary for easy
+                                                          access to all parts of a store. Segregation of
+76 The general requirement for stack sizes are set
+                                                          cylinders could be arranged by size, material of
+out in Table 2. The maximum size of any stack
+                                                          construction (steel or aluminium), contents (full,
+should not exceed 30 000kg and:
+                                                          nominally empty, propane, butane) and whether or
+(a) the gangway between palletised stacks should          not they are fitted with pressure relief valves.
+    not be less than 2.5m;                                Separate stacking of aluminium cylinders, large
+
+
+
+
+Fig 3   Storage for 400kg or less against a building
+                                                                      Fire resisting
+                                                                      construction
+
+
+
+
+                                                       9.0m
+
+
+
+
+Fig 4   Storage for 400kg or less against a building
+
+
+
+
+                                                              T:0m
+
+
+                                                                                       <Q
+
+                                                              2.0m
+
+
+
+                                                              3.0m
+
+
+Fig 5   Storage for 400kg or less in a corner
+
+
+                                                                 10
+o
+    Fig 6   Storage for 400kg or less between two wing walls
+
+    cylinders (eg with capacities of 20kg or over) and               cylinder and a boundary, building or fixed
+    cylinders not fitted with relief valves furthest from            ignition source;
+    the site boundary will increase the degree of              (c) a separation distance of at least 2m is
+    protection for neighbouring properties in a fire as            maintained between each nominally empty
+    would the storage of nominally empty cylinders                 cylinder and a cylinder containing oxygen, the
+    nearest a boundary (see paragraphs 78 to 80).                  bund around a vessel containing a highly
+                                                                   flammable liquid, a combustible material or other
+    NOMINALLY EMPTY LPG CYLINDER STORAGE AT                        material whose inajor risk is toxicity;
+    FILLING PLANT AND DISTRIBUTION CENTRES                     (d) a separation distance of at least 3m is
+                                                                   maintained between each nominally empty
+    78    Paragraph 39 advises that refillable LPG                 cylinder and a full cylinder in an adjacent full
+    cylinders should be considered full whatever the               cylinder storage area;
+    state of their contents. Although there are several        (e) the full and nominally empty cylinder storage
+    reasons for this, the more important concern the               areas should be clearly marked and supervised
+    difficulties in distinguishing between full and
+
+
+
+•
+                                                                   to ensure that only nominally empty cylinders are
+    nominally empty cylinders and in keeping them apart
+                                                                   placed in any storage area which has been set
+    under all working conditions. This is particularly true
+                                                                   aside for them;
+    of retail premises and other small stores. The
+    difficulties are not so great, however, in the larger      (f)   the storage area should not normally be
+    storage areas where greater supervision is possible              accessible to the general public, customers or
+    for example at filling plants and major distribution             other unauthorised persons.
+    centres where 25 000kg or more is stored in cylinders.
+    79 In such cases some relaxation of the normal             ROOF TOP STORAGE
+    requirements, including separation, may reasonably
+    be allowed for the nominally empty cylinder storage
+    areas where the provisions in paragraph 80 can be          81 Where storage cannot be provided in accordance
+    met and maintained to ensure that full cylinders are       with the preceding paragraphs for outdoor storage
+    stored separately from nominally empty cylinders.          LPG containers may be stored in the open air on a
+                                                               roof providing that the total quantity does not exceed
+    80 Nominally empty cylinders may be kept within            400kg and the conditions given in paragraphs 82 to
+    the separation distances indicated in Table 2 of this      89 are met.
+    guidance where the following operational
+    requirements are satisfied:                                82 The storage area should be located and spaced
+                                                               in accordance with Table 5 and the openings into
+    (a) the storage area is in the open air;                   any chimneys or air intakes on the roof should be at
+    (b) a separation distance of at least 1m is                least 1m above the level of the tops of any stacked
+m       maintained between each nominally empty                containers.
+83 The section of roof used for storing LPG should                     INDOOR STORAGE
+not be used for storing other materials.
+
+84 The part of the roof on which the cylinders are                     90 Where the storage of LPG in the open air is not
+being stored should be substantially level,                            reasonably practicable, and provided jthat the
+adequately supported to carry the weight and                           quantities do not exceed those
+constructed to give 60 minutes fire resistance.                        shown in Table 6, cylinders and other containers may
+                                                                       be stored indoors in:
+85 The roof should be well ventilated and not
+enclosed by other higher parts of the building, or                     (a) a specially designed single storey building;
+adjacent buildings, on more than two sides.                                (paragraphs 91 to 103; or
+
+86 Cylinders should be enclosed in a strongly built                    (b) a specially designed storage place within a
+metal cage to prevent their being blown about in                           building; (paragraphs 104 to 114); or
+high winds and to discourage vandals. The store                        (c) a cabinet or cupboard (paragraphs 115 and 116);
+should be clearly marked see paragraphs 53 and 65.
+                                                                       and may be kept for use elsewhere in a building
+87 The cage may be placed against a wall or                            (paragraphs 117 to 137).
+parapet at the edge of the roof provided that the wall
+                                                                       Container storage in specially designed buildings
+is at least the height of the stacked cylinders and
+the ventilation of the storage area is not impaired.                   91 A total of not more than 5000kg of LPG in either
+88 A safe means of access should be provided to                        cylinders or cartridges or both should be kept in a
+the cage and access to the section of roof used for                    building or in each compartment of a building which
+storage should be restricted to those authorised.                      is specially designed for the storage of LPG. No
+                                                                       building should have more than five compartments.
+89 A safe system of work should be provided for
+the movement of containers to and from the storage                     92 The building should be of single storey
+area to minimise the risk of injury and damage to                      construction and not below ground level. There
+containers during transit. When a lift is used only the                should be no drains or other openings in the floor
+person moving the LPG containers should travel in                      (Figure 7).
+the lift with the LPG. No other goods or passengers
+should enter the lift. Containers should be in the lift                93 Access to the store should be restricted to
+for as short a time as is reasonably practicable.                      authorised people who should not include customers.
+
+                                                                        94 The store should be only used for LPG
+                                                                        containers except for acetylene and oxygen, as
+                                                                        provided in paragraphs 51, 52 and 95.
+
+                                                                        95 Where separate storage arrangements are not
+Table 5    Separation distances for roof top storage                    reasonably practicable cartridges containing oxygen
+                                                                        may also be stored with LPG cartridges provided that
+                                      Horizontal separation             the total quantity of LPG so stored does not exceed
+                                            distance                    5000kg and the quantity of oxygen in each cartridge
+Feature                              Cylinders        Cartridges        does not exceed 50g. Packages which contain
+                                                                        cartridges of both oxygen and LPG should be stored
+Boundaries, openings into                                               in stacks which are not more than 2m high and 2m
+buildings, edges of the roof, drains,                                   wide.
+vents and sources of ignition         3m              1m
+                                                                        96 The building should be of not less than 30
+Intakes of mechanical ventilation
+                                                                        minutes fire resisting construction, preferably of
+systems and outlets from chimneys t
+                                   5m                 1m                brick or concrete. Where the separation distances to
+flues etc.
+                                                                        a boundary, other buildings etc given in Table 2,
+                                                                        column 3 are exceeded for the quantity of LPG
+
+
+
+
+Table 6   Storage in a building
+                                           Maximum LPG             Maximum No of        Total Maximum
+Type of building                           per Compartment         Compartments         In Building        Remarks
+
+Specially designed single storey
+building
+  (a) Cylinders and Cartridges              5000kg                 5                     25 000kg          See paragraph 91
+  (b) Cartridges only                      50 000kg                5                    250 000kg          See paragraph 100
+
+Specially designed storage space
+within existing buildings
+  (a) Cylinders and Cartridges             1000kg                  1                    1000kg             See paragraph 105
+  (b) Cartridges only                      5000kg                  1                    5000kg             See paragraph 105
+
+
+
+
+                                                                   12
+stored, either, in the building, or, if subdivided in        Cartridges — separate storage
+each compartment, the external wall cladding and
+roof may be non combustible and supported by a               100 Where only cartridges are stored the quantity of
+structure which has 30 minutes fire resistance with          LPG kept in a specially constructed building or in
+respect to stability. Internal walls subdividing any         each separate compartment may be increased to
+store should be of not less than 30 minutes fire             50 000kg provided that, in addition to meeting the
+resisting construction.                                      requirements in paragraphs 91 to 99, the building is
+                                                             protected by a water sprinkler system having a
+97 The building should have well dispersed                   minimum discharge density of 12.5mm/min ie 12.5
+ventilation openings to a safe place in the open air         Iitres/m2/min.
+at both high level in the walls or roof and at floor         101 The cartridges should be stored in stacks not
+level totalling at least 2.5% of the combined area of        more than 4m high and 2m wide. Alternatively racked
+the walls and roof. Ventilation openings are not             storage may be used.
+permitted in any part of the building that is required
+to be fire resisting (ie that is within the specified        102 The use of combustible packaging materials
+separation distances given in Table 2 column 3).             should be kept to a minimum.
+
+                                                             103 Cartridges should be inspected regularly and a
+98 The buildings should have an area equal to at
+                                                             system of stock rotation used to ensure that
+least half of one wall or half of the roof made of
+                                                             cartridges are not left to deteriorate, corrode and
+open mesh or lightweight materials that could act as
+                                                             leak.
+explosion relief. This relief should be designed and
+positioned so that the explosion would be safely
+                                                             Container storage in a specially designed storage
+vented and parts of the wall or roof would not
+                                                             area within a building
+become dangerous missiles.
+                                                             104 Where storage in the open air or in separate
+99 A single exit is permitted, provided that the             buildings is not reasonably practicable, LPG may be
+escape travel distance from any part of the store to         stored in specially designed storage areas in
+the exit, including any diversion round the stored           buildings that comply with the conditions in
+containers, is less than 12m.                                paragraphs 105 to 114.
+
+
+                                                                                                      R oof or a wall o f lightweight
+                                                                                                      construction for explosion
+                                                                                                      relief (para 111)
+
+
+
+
+                                                                                                              High and low level
+                                                                                                              openings for ventilation
+                                                                                                              (para 110)
+
+
+
+
+                                                                 Doors and windows may provide
+                                                                 additional opening for ventilation
+   No openings within the given separation                       and explosion relief
+   distance to a boundary, building or
+   sources o f ignition.
+
+
+Fig 7   Indoor storage in a specially constructed building
+105 A specially designed storage area may be made              and alarm should be provided and maintained. The
+within the confines of another building provided that          alarm should be audible throughout the buildjng,
+the total quantity stored there does not exceed                including the residential accommodation, and should
+1000kg for cylinders or 5000kg where only cartridges           be capable of giving warning of a fire anywhere in
+are stored.                                                    the building. The requirement for a fire alarm in such
+                                                               circumstances is without prejudice to any
+106 A specially designed storage area should not
+                                                               requirement to provide an alarm under the Fire
+be located in a building of more than one storey to
+                                                               Precautions Act 1971.
+which the public have access or which is used for
+sleeping accommodation except for the small scale              Storage In cabinets and cupboards
+storage at retail premises given in Guidance Note
+CS8 (see paragraphs 124 to 136).                               115 Where alternative storage is not reasonably
+                                                               practicable limited quantities of LPG may be stored
+107 The storage area should be at ground floor                 in a cabinet or cupboard in a building provided that
+level. At least one side of the specially designed             the following conditions and those in paragraph 116
+store should be an external wall of the containing             are observed:
+building.
+                                                               (a) In a single storey building not connected to, or
+108 The internal walls should be masonry or similar                con tig u ou s with residential property, both
+construction. The doors, ceiling and floor which                   cylinders and cartridges may be stored in a
+separate the store from the rest of the building                   cabinet or cupboard, but the total quantity of
+should be of not less than 30 minutes fire resisting               LPG in the building, including that displayed for
+construction and be sufficiently robust so as not to               sale and kept for heating and/or lighting, or for
+be damaged in normal use.                                          any other purpose, should not exceed 400kg;
+109 The doorway into a store should be located in              (b) In a multistorey building in which there is no
+an outside wall otherwise a ramp, sill or step at least            residential accommodation, a total of 300kg of
+250mm high should be provided across the doorway                   LPG in cartridges may be stored in a cabinet or
+to the store in order to prevent heavy vapours from                cupboard; LPG in cylinders may not be stored in
+entering the other parts of the building.                          the cabinet or cupboard. Where a multistorey
+                                                                   building has more than one occupier the total
+110 Adequate natural ventilation should be provided
+                                                                   amount stored in the building should be limited
+by permanent openings in the outside wall equal in
+                                                                   to 400kg;
+area to at least 12% of the area of one of the
+outside walls or 2.5% of the total area of the walls           (c)   In any building which includes residential
+and roof which ever is the greater. They should be                   accommodation no more than 70kg of LPG may
+well dispersed at both high and low level.                           be stored in a cabinet or cupboard, in cartridges.
+                                                                     For retail premises this is in addition to any
+111 To minimise the effect of any explosion in the
+                                                                     cartridges that may be displayed for sale. LPG in
+store, explosion relief equivalent to half the area of
+                                                                     cylinders may not be stored in the cabinet or
+one of the walls should be provided. This relief
+                                                                     cupboard. Only one cabinet or cupboard should
+should be located in an outside wall and vent to a
+                                                                     be located within the building. An automatic fire
+safe place. In the case of a single storey building,
+                                                                     detection and alarm system should be installed
+the relief may be placed in the roof. The area
+                                                                     and maintained eg to BS5839. The alarm should
+provided for relief may be left or covered by
+                                                                     be audible throughout the building, including the
+industrial wire mesh or lightweight panels. If panels
+                                                                     residential accommodation, and should be
+are used, they should be designed so that in an
+                                                                     capable of giving warning of a fire anywhere in
+explosion they will open and safely vent the
+                                                                     the building. The requirement for a fire alarm in
+explosion but will not break loose and become
+                                                                     such circumstances is without prejudice to any
+dangerous missiles.
+                                                                     requirement to provide an alarm under the Fire
+112 The openings specified in paragraphs 110 and                     Precautions Act 1971.
+111 will provide adequate ventilation and explosion            116  Any cabinet or cupboard sited indoors for the
+relief for a normal shaped room. If the store has a
+                                                               storage of LPG should be:
+floor area of more than three times the area of the
+external wall, specialist advice should be sought              (a) located either at or above ground level where it
+from HSE.                                                          does not endanger any means of escape. The
+                                                                   area around the door should be kept free of
+113 Any part of the building facade, including any
+                                                                   combustible materials;
+overhanging roof, up to a height of 9m and
+extending horizontally for a distance of 2m on either          (b) constructed of non combustible materials and
+side of any opening into the storage area, should be               not less than 30 minutes fire resisting
+of 30 minutes fire resisting construction and                      construction, and should be adequately secured
+imperforate.                                                       in position. It should have a lockable door which
+                                                                   should be kept locked when not in use.
+114 Where the building is also used for residential
+purposes 60 minutes fire resisting separation should           (c) adequately ventilated, at both high and low
+be provided between the two occupancies with,                      levels, to a safe place outside the building. If it
+where possible, no connecting doors or direct                      is of more than 0.5m3 capacity, it should be
+access. A suitable automatic fire detection system                 fitted with explosion relief equal to half the area
+
+                                                          14
+    of the back or side of the unit. The relief should    be sited away from staircases, exit doors, escape
+    discharge to a safe place outside the building.       routes and any combustible material. Where
+                                                          appliances are kept for use adequate provisions
+                                                          should be made for the ventilation of the room.
+THE KEEPING FOR USE OF CONTAINERS IN                      Cylinders connected to appliances should only be
+PREMISES OTHER THAN RETAIL PREMISES                       changed in a well ventilated place, preferably in the
+                                                          open air. All nearby naked lights or other sources of
+                                                          ignition should be turned off. After changing a
+117 The quantity of LPG in a building should be
+                                                          container the joint between the newly connected
+kept to a minimum. Particular attention should be
+                                                          container and the appliance should be checked to
+given to the keeping of LPG in a multistorey building
+                                                          ensure that it is gas tight.
+where further specialist advice may be required to
+establish whether the building is suitable for the
+keeping of a flammable gas.
+                                                          DISPLAY AND KEEPING FOR USE IN RETAIL
+118 If LPG is to be used on the premises the LPG          PREMISES
+containers should be kept in a safe place, secure
+against interference and preferably in the open air.
+                                                          General
+Cylinders should be secured where there is any
+danger that they could be accidentally overturned.        124 The following recommendations (paragraphs
+The supply should be connected to the appliances in       125 to 137) are intended for the display for sale and
+a suitably safe manner, eg by permanent rigid piping,     keeping for use of LPG in containers of not more
+protected to prevent physical damage. The pipework        than 20kg capacity in retail premises.
+should terminate at a gas tap. Short flexible hoses
+suitable for use with LPG (eg BS 3212) may be used        125 Display stands should not be located on
+for the connections between the cylinder and the          staircases, near exit doors, next to flammable
+pipe.                                                     materials or in any other place where they are likely
+                                                          to hinder or endanger a means of escape. In addition
+119 In the case of industrial buildings not specially     steps should be taken to prohibit smoking or naked
+designed for the storage of LPG, LPG cylinders may        lights from around the display area.
+be kept coupled to an appliance for use (but see also
+paragraph 122).                                           126 Only dummy or certified gas-free containers
+                                                          should be used for permanent display in windows, on
+120 Where it is not reasonably practicable to
+                                                          advertising stands etc.
+provide a piped LPG system in premises other than
+industrial buildings or retail premises, the total        Cylinders
+quantity of LPG used in cylinders or cartridges in
+                                                          127 No more than five cylinders should be allowed
+small premises should not exceed 15kg. For larger
+                                                          on display in a shop. Where the largest cylinder
+premises 15kg may be kept in each compartment of
+                                                          capacity does not exceed 3kg the number on display
+the premises subject to paragraph 122.                    may be increased to 20. The total contents available
+121 In an emergency, such as a heating or power           including cartridges should not exceed 70kg (Table 7).
+failure additional LPG may be required. The quantity      128 No more than four cylinders should be
+of LPG kept in such circumstances should be no            connected for demonstration purposes at any one
+more than the minimum necessary and should be             time. The total quantity of LPG in both connected
+avoided where reasonably practicable in any building      cylinders and cartridges should not exceed 50kg
+housing a vulnerable population. Where LPG is to be       (Table 7).
+used the cylinders should be kept in accordance with
+the advice given in this guidance note. Once the          Cartridges
+emergency is over the additional LPG should be
+                                                          129 The number of cartridges on display and
+removed from the premises as soon as possible.
+                                                          available in the retail area for sale should be as low
+Additional fire fighting equipment as outlined in
+                                                          as reasonably practicable, but the total contents
+paragraphs 138 to 140 may be required and clear
+                                                          available on display including cylinders should not
+instructions should be given on the action to be
+                                                          exceed 70kg. All other LPG containers should be
+taken in an emergency (see paragraphs 146 to 155).
+                                                          placed in the LPG storage area. No more than six
+122 Where premises keeping LPG are occupied               cartridges should be connected for demonstration
+together with or under residential premises, 60           purposes. The total quantity of LPG connected for
+minutes fire resisting separation should be provided      demonstration purposes in both cylinders and
+between the two occupancies with, where possible,         cartridges should not exceed 50kg (Table 7).
+no connecting doors or direct access. Otherwise no
+                                                          130 Cartridges have a finite shelf life and retailers
+more than 15kg of LPG, which should include stock
+                                                          should ensure adequate stock rotation. It is essential
+kept or in use for heating, lighting or other purposes,   that cartridges are stored in dry, well ventilated
+should be left in the buildings out of business hours.    conditions.
+All other stocks of LPG should be returned to a
+properly constructed LPG storage area.                    Welding Kits
+123 The siting of containers and appliances and           131 Small kits, ie with a single 500g (max) LPG
+their use requires careful consideration. They should     cartridge and a single 50g (max) oxygen cartridge or
+500g (max) container of oxygen-generating pellets        between the two occupancies with, where possible,
+may be displayed with other LPG containers but not       no connecting doors or direct access. Otherwise no
+more than ten kits may be displayed at a time. The       more than 15kg of LPG which should include stock
+total number of replacement cartridges of LPG and        for sale and LPG used for demonstration, heating or
+oxygen (or oxygen-generating pellets) on display         lighting purposes should be left in the retail areas of
+should be kept as low as is reasonably practicable       the buildings out of business hours. All other stocks
+but in any case should not exceed five containers of     of LPG should be returned to the main LPG storage
+each (ie LPG and oxygen or pellets).                     area.
+132 Larger welding kits should not be displayed
+with other LPG containers but they may be displayed
+separately with not more than one unit out at a time.        FIRE PROTECTION
+
+LPG used for heating or lighting
+                                                             First aid fire fighting equipment
+133 If LPG is to be used on the premises for
+heating or lighting the LPG containers in use should         138 There shouid be adequate portable fire fighting
+be kept in a safe place secure against interference          equipment on the premises for general use and for
+and preferably in the open air. The supply should be         fires involving LPG. Further advice on fire fighting
+connected to the appliances in a safe manner, eg by          equipment and fire precautions may be obtained
+permanent rigid piping, protected to prevent physical        from either the enforcing or the fire authority.
+damage. The pipework should terminate at a suitable
+gas tap. Short flexible hoses suitable for use with          139 The equipment for general use should be
+LPG eg to BS 3212 may be used for the final                  selected and located to enable fires on the premises
+connections.                                                 to be extinguished at an early stage so that they do
+                                                             not spread to or jeopardize the LPG containers. Fire
+134 If it is not reasonably practicable to provide a         extinguishers or hose reels or an equivalent
+piped system, the total quantity of LPG kept for             combination of the two types of equipment may be
+heating, lighting, display and demonstration                 provided. Fire extinguishers should be selected,
+purposes in cylinders or cartridges should not               sized, located and maintained in accordance with BS
+exceed 100kg subject to paragraphs 127 to 129.               5306: Part 3: 1985, and hose reels should be selected
+135 Heating appliances should be sited away from             and installed in accordance with BS 5306: Part 1:
+escape routes and any combustible material.                  1976.
+
+Retailers should ensure that when appliances are             140 In addition sufficient fire extinguishers, suitable
+used adequate provision is made for the ventilation          for an LPG fire should be provided at each LPG
+of the room.                                                 storage area and elsewhere where containers are
+                                                             kept or displayed. Extinguishers should conform to
+136 In emergencies such as heating or power                  BS 5423: 1980, powder extinguishers rated at 223B
+failure additional LPG may, in agreement with the            (eg a capacity of 9kg) will normally be suitable.
+enforcing authority be used for heating or lighting.         Extinguishers should be located in strategic
+This should be used only for the duration of the             positions adjacent to the exits, round the perimeter
+emergency and should be removed from the premises            of the store and in safe positions on access routes
+as soon as the emergency is over.                            between stacks eg at a junction or crossing so that
+                                                             they will be readily available when required. At stores
+Premises occupied together with or under residential
+                                                             of less than 400kg a single extinguisher will be
+accommodation
+                                                             sufficient. There should be at least two extinguishers
+137 Where retail premises selling LPG are occupied           for stores of up to 5000kg and at larger stores an
+together with or under residential premises 60               additional extinguisher should be provided for each
+minutes fire resisting separation should be provided         additional 10 000kg of LPG, or part thereof, stored.
+
+
+Table 7   Maximum quantities of LPG displayed or kept for use in retail premises
+                                                                          Total LPG
+                               Maximum number    Maximum quantity         (including any used for heating and lighting:
+                               of containers     of LPG                   paragraph 133)
+
+DISPLAY
+Cylinders                      5 or 20 if max    70kg                      100kg
+  (paragraph 127)              capacity 3kg                                (but see also paragraph 137 where a max
+                                                                           limit may apply out of business hours when
+Cartridges (paragraph 129)
+                                                                           premises are shared with residential
+including small welding kits
+                                                                           accommodation)
+DEMONSTRATION
+Cylinders (paragraph 128)      4                                           it
+
+
+Cartridges (paragraph 129)     6                 50kg                      if
+
+
+
+
+                                                        16
+Water supplies and other fire fighting equipment          (d) that all people not required to deal with the
+                                                              emergency are evacuated from the premises
+141 For stores of between 400kg and 25 000kg LPG
+                                                              immediately.
+there should be an adequate supply of water for fire
+protection. This should be readily available but may      Action in event of leaking container
+be provided via the public mains, or pumped from a
+static tank, river, canal, etc. Hydrants and hoses with   148   If a container is found to be leaking without
+spray/jet nozzles or hose reels should be installed so    the gas igniting the following actions should be
+that any stack of cylinders may be effectively            taken provided it is safe to do so:
+sprayed with water.                                       (a) any nearby source of ignition should be
+142 For stores of 25 000kg or more LPG, adequate              extinguished;
+water supplies should be arranged with a capacity to      (b) an attempt should be made to stop the leak by
+provide at least 2300 litres/minute (500 gals/min) for        closing the valve and replacing the bung or cap;
+60 minutes. At least two monitors should be
+available for use at such sites. Water mains,             (c) if the leak cannot be stopped, the container
+hydrants, pumps, etc should be installed as                   should be carefully removed to a well ventilated
+necessary to ensure that the water is readily                 open space clear of drains, buildings and
+available at an appropriate pressure at all times.            sources of ignition and other LPG containers.
+Special consideration should be given to the                  The leaking container should be marked faulty
+possibility that there could be a loss of power to the        and left with the leak (usually at the valve)
+site and the consequences that this would have for            uppermost. Notices prohibiting smoking and
+the fire fighting arrangements provided. Connections          other naked lights should be displayed. General
+should be provided for hoses and fixed or mobile              access should be prevented, eg by barriers. The
+monitors so that any stack of cylinders and the               supplier of the cylinder should be informed
+adjacent stacks can be effectively cooled with water.         immediately. NO ATTEMPT SHOULD BE MADE
+                                                              TO DISMANTLE OR REPAIR DEFECTIVE
+143 When making the provisions for fire protection            CYLINDER VALVES except by persons trained to
+care should be taken to ensure that cylinders stored          carry out the work.
+in a building or under roofed areas can be effectively
+sprayed with water. In some cases fixed water sprays      Procedure in case of fire
+or sprinklers may be appropriate, see also
+                                                          149   Anyone who discovers a fire should:
+paragraphs 68 and 100.
+                                                          (a) raise.the alarm, including activating any fire
+144 Vehicles loaded with cylinders and parked on
+                                                              alarm on the premises;
+the premises should be included in the provisions for
+fire protection.                                          (b) call the fire brigade immediately and tell them
+                                                              that LPG containers may be involved. The Fire
+145 Arrangements should be made to ensure an
+                                                              Officer on arrival should be told the location of
+early call to the fire brigade in the event of a fire.
+                                                              the fire and the position of the LPG containers
+Suitable access to the store should always be
+                                                              and any other hazardous materials held on the
+provided and maintained for fire brigade personnel,
+                                                              premises.
+vehicles and other equipment.
+                                                          150 If gas from a cylinder valve is alight, IF IT IS
+                                                          SAFE TO DO SO, either turn off the valve promptly to
+EMERGENCY PROCEDURES                                      extinguish the flame or extinguish the flame and
+                                                          then turn off the valve. Where possible and IF IT IS
+                                                          SAFE TO DO SO the cylinder and adjacent stacks of
+General
+                                                          cylinders should be cooled by spraying with copious
+146 At all premises where LPG is kept there should        quantities of water.
+be emergency procedures which set out the actions
+                                                          151 If the flame from the leak cannot be
+to be taken should an incident occur. The most likely
+                                                          extinguished by turning off the valve, fire fighting
+incidents might include:
+                                                          should only be carried out by trained personnel or
+(a) LPG leaking from a container with or without          fire brigade. If the flame is extinguished but vapour
+    ignition;                                             continues to escape, treat the cylinder as in
+                                                          paragraph 148. IF THE FLAME FROM A BURNING
+(b) a fire in the vicinity of LPG containers,
+                                                          LEAK IMPINGES ON A CYLINDER AND THIS
+    subjecting them to radiant or direct heat and
+                                                          CANNOT BE STOPPED THE AREA SHOULD BE
+    thereby affecting the safe containment of the
+                                                          EVACUATED IMMEDIATELY.
+    LPG.
+                                                          152 Anyone not connected with the fire fighting
+147 The aim of the emergency procedures should
+                                                          should be evacuated in accordance with the general
+be to ensure:
+                                                          procedures in case of fire drawn up for the premises.
+(a) that everyone who might be in danger is warned;       The evacuation should include anyone occupying any
+(b) that steps are taken to control the incident and      other accommodation connected to the building.
+    mitigate its consequences;                            153 Where a fire nearby is threatening LPG
+(c) that, where appropriate, the local emergency          containers, they should be moved to a safe place
+    services are contacted;                               PROVIDED THIS CAN BE DONE SAFELY. Where the
+cylinders cannot be moved they should be cooled by        (h) at premises where 25 000kg or more LPG is kept,
+spraying with copious quantities of water.                    suitable staff should be specially selected and
+                                                              trained in the correct procedures for attempting
+154 It is essential that procedures for various
+                                                              to contain an incident involving LPG until the fire
+categories of emergency are clearly defined and
+                                                              brigade can take over. The time element is of
+understood by everyone involved in the storage or
+                                                              great significance, prompt action may prevent a
+handling of LPG. These procedures should preferably
+                                                              small incident escalating into a major fire.
+be written down and copies given to staff involved.
+At larger premises, those where 25 000kg of LPG or        158 All staff should receive initial and refresher
+more is kept and premises where large numbers of          training as appropriate. The emergency procedures
+the public may be present these procedures should         should be practised at regular intervals to ensure
+form part of an emergency plan and should be              everyone is familiar with the actions to be taken.
+discussed with the local emergency services.              Where appropriate the emergency services should be
+                                                          invited to take part in such exercises.
+155 For premises coming within the scope of
+regulation 7 of the CIMAH Regulations there is a
+specific requirement to prepare an on-site emergency
+plan and to cooperate with the local authority in the     REFERENCES
+preparation of an off-site emergency plan. Further
+guidance is given in HSE booklets HS(R)21 and             The Highly Flammable Liquids and Liquefied
+HS(G)25.                                                  Petroleum Gases Regulations 1972 SI 1972 No 917
+156 Some premises will be unattended for long             HMSO. ISBN 0 11 020917 6.
+periods, for example, overnight and at weekends. At       The Fire Certificates (Special Premises) Regulations
+such premises, where 25 000kg or more of LPG are          1976 SI 1976 No 2003 HMSO.
+kept, arrangements should be made with the local
+                                                          The Health and Safety (Enforcing Authority)
+emergency services to ensure that someone
+                                                          Regulations 1977 SI 1977 No 746 HMSO.
+responsible for the premises can be contacted, as
+necessary. Premises which are subject to the upper        The Control of Industrial Major Accident Hazards
+level requirements of the CIMAH regulations should        Regulations 1984 SI 1984 No 1902 HMSO.
+not normally be left unattended.                          ISBN 0 11 047902 5.
+                                                          The Notification of Installations Handling Hazardous
+                                                          Substances Regulations 1982 SI 1982 No. 1357
+TRAINING
+                                                          HMSO. ISBN 0 11 027357 5.
+                                                          A Guide to the Notification of Installations Handling
+157 Those concerned with the storage and handling
+                                                          Hazardous Substances Regulations 1982 Health and
+of LPG in cylinders or similar containers should be
+                                                          Safety Series Booklet HS(R)16. HMSO.
+provided with adequate information, instruction,
+                                                          ISBN 0 11 883675 7.
+training and supervision appropriate to their
+responsibilities, both for their own safety and that of   A Guide to the control of Industrial Major Accident
+others in the vicinity who may be affected by the         Hazard Regulations 1984. Health and Safety Series
+hazards presented by the material. They should be         Booklet HS(R)21. HMSO. ISBN 0 11 883767 2.
+familiar with the following:                              The CIMAH Regulations 1984. Further Guidance on
+(a) the physical characteristics and hazards of LPG;      Emergency Plans. Health and Safety Series Booklet
+                                                          HS(G)25. ISBN 0 11 883
+(b) the fundamentals of fire-fighting and fire control,
+    particularly fires involving LPG, and the effect      The Safety Signs Regulations 1980 SI 1980 No 1471
+    that radiant or direct heat can have on the safe      HMSO. ISBN 0 11 07471 8.
+    containment of the product;                           HSE Guidance Note CS6. The Storage and Use of
+(c) the correct handling of fire-fighting equipment       LPG on construction sites (June 1981) HMSO.
+    and limitations on its use as a ‘first-aid’           ISBN 0 11 88339 1.
+    measure;                                              HSE Guidance Note CS8. Small scale storage and
+(d) the inspection procedures to be adopted to allow      display of LPG at retail premises. (May 1985). HMSO.
+    removal of certain categories of cylinders or         ISBN 0 11 8836 145.
+    similar containers from service, eg damaged or        The Classification, Packaging and Labelling of
+    leaking containers or cylinders requiring             Dangerous Substances Regulations 1984. SI 1972 No.
+    revalving or periodic inspection and testing;         1244 HMSO. ISBN 0 11 047244 6.
+(e) the procedures for dealing with defective or
+    leaking cylinders;                                    British Standards Institution publications
+(f)   the procedures for deliberately venting LPG from    BS 341 Valve Fittings for compressed gas cylinder.
+      the cylinder or container;
+                                                          Part 1: 1962 Valves with taper stems (excluding
+(g) the action to be taken in an emergency,               valves used for breathing and medical purposes).
+    including the responsibilities to be assumed, by
+    whom, and the procedures for contact with local       BS 476 Fire Tests on building materials and
+    emergency services, neighbours, etc;                  structures.
+Part 1: 1953 Fire tests on building materials and
+                                                          APPENDIX 1      CONTAINER CONSTRUCTION AND
+structures (superseded by Parts 7 and 8).
+                                                          FITTINGS
+Part 8:1972 Test methods and criteria for the fire
+resistance of elements of building construction.
+                                                          1 All LPG containers should be designed, fabricated
+Part II: 1982 Method for assessing the heat emission
+                                                          and tested in accordance with a recognised pressure
+from building materials.
+                                                          vessel code or specification.
+BS 3212: Flexible rubber tubing and hose (including
+connections where fitted and safety                       Small containers
+recommendations) for use in LPG vapour phase and
+                                                          2 For small LPG cartridges BS 5329 Non-refillable
+LPG/air installations.
+                                                          Metallic Containers of up to 1.4 litres capacity for
+BS4250: 1975 Commercial Butane and propane.               LPG is an appropriate specification.
+BS 5045 Transportable gas containers.                     3 Small cylinders up to and including 0.5 litre water
+BS 5306 Code of Practice for fire extinguishing           capacity, both steel and aluminium, are covered by
+installations and equipment on premises                   BS 5045: Part 6.
+
+Part 1: 1976 Hydrant systems, hose reels and foam         Cylinders
+inlets
+                                                          4 Cylinders for storing LPG are predominantly of
+Part 3: 1985 Code of practice for selection,
+                                                          welded steel construction to BS 5045: Part 2 or
+installation and maintenance of portable fire
+                                                          equivalent specifications, although welded aluminium
+extinguishers.
+                                                          cylinders are also used in significant numbers.
+BS 5329: 1976 Non-refillable metallic containers up to
+1.4 litres capacity for liquefied petroleum gases         Test pressure
+
+BS 5345: Code of Practice for the selection,              5 The test pressure, miarked on each cylinder, is
+installation and maintenance of electrical apparatus      related to the pressure developed by the contents at
+for use in potentially explosive atmospheres (other       the pressure reference temperature, 55°C in the UK,
+than mining applications or explosive processing and      and the material properties. Test pressures may not
+manufacture)                                              be less than 7.52 bar (109 psig) for commercial
+                                                          butane and 22.13 bar (321 psig) for commercial
+Part 1: 1976 Basic requirements for all parts of the      propane.                               ...    ...
+Code.
+                                                          6 In practice much higher values are used, as the
+BS 5355: 1976 Specification for filling ratios and
+                                                          test pressure should not be less than the safety
+developed pressures for liquefied and permanent
+                                                          valve ‘set pressure’ at which the valve is set to start
+gases.
+                                                          to discharge (see item 12 below). Typical current
+BS 5423: 1980 Specification for portable fire             values for the set pressure are 21 bar (305 psi) for
+extinguishers                                             commercial butane and 26 bar (377 psi) for
+                                                          commercial propane.
+BS 5499: Fire Safety signs, notices and graphic
+symbols.                                                  7 Where the test pressure is lower than 21 bar for
+                                                          butane or 26 bar for propane, the set pressure should
+Part 1: 1984 Specification for fire safety signs
+                                                          not be more than the test pressure specified by the
+BS 5430: Specification for periodic inspection, testing   cylinder manufacturer.
+and maintenance of transportable gas containers
+(excluding dissolved acetylene containers)                Cylinder valves and fittings
+
+Part 2: 1977 Welded Steel containers of water             8 Each cylinder having a product capacity of 4kg or
+capacity 1 litre up to 130 litres                         more should be fitted either with a manually
+                                                          operated shut-off valve or with a spring loaded self-
+BS 5501: Electrical apparatus for potentially             sealing ‘clip-on’ or similar valve.
+explosive atmospheres
+                                                          9 Valve fittings should comply, in respect of quality
+BS 5839: Fire detection and alarm systems in
+                                                          and materials, with the requirements of BS 341 Valve
+buildings
+                                                          fittings for compressed gas cylinders.
+Part 1: 1980 Code of practice for installation and
+                                                          10 Screw threaded valve connections should be left
+servicing
+                                                          hand and the couplings for commercial butane
+British Standards are obtainable from the British         cylinders should be significantly different from the
+Standards Institution, Sales Department, Linford          couplings for commercial propane cylinders.
+Wood, Milton Keynes, MK14 6LE.
+                                                          Safety valve
+The Liquefied Petroleum Gas Industry Technical
+Association (UK) (LPGITA) have produced a number          11 It is good practice,to fit cylinders with a safety
+of Codes of Practice on the storage and use of LPG        (pressure relief) valve (PRV) which opens at.a set
+which may be obtained from the printer William            pressure and fully reseats at a specified reseat
+Culross & Sons., Coupar Angus, Perthshire.                pressure, typically 80% of the set pressure.
+Protection of valves                                       Contents labelling
+
+12 The shut-off valve and PRV, where provided,             5 Cylinders should be marked with ttie name of the
+should be protected by a ventilated cover or shroud        product.
+capable of withstanding severe blows which might
+otherwise damage the fittings.                             6 There is a requirement in Regulation 9 of the
+                                                           Classification, Packaging and Labelling of Dangerous
+Periodic inspection, testing and maintenance               Substances (CPL) Regulations 1984 for the labelling
+                                                           of any cylinder with a capacity of more than 500ml
+13 Containers should be visually examined for signs
+                                                           and containing LPG to be labelled as a ‘flammable
+of damage which may affect their integrity, each time
+                                                           gas’ for conveyance by road. The requirements apply
+before they are refilled. In addition, they should be
+                                                           in effect to both full and empty containers.
+inspected against specified criteria at regular
+intervals.                                                 7 Certificate of Exemption Number 1 of 1985 under
+                                                           the CPL Regulations has been issued by HSE.
+14 The peribdic inspection, testing and
+maintenance of LPG containers should be carried out        The conditions of this certificate are:
+in accordance with the appropriate part of BS 5430:
+(Part 2 for welded steel containers of water capacity      (a) the hazard warning sign is applied directly to the
+1 litre up to 130 litres) which details frequency of           surface of the cylinder by stencilling, printing or
+inspection and testing and sets out rejection criteria         other similar means of marking;
+for any defects or damage to the container.
+                                                           (b) the hazard warning sign stands out from its
+                                                               background so as to be readily noticable;
+APPENDIX 2      CYLINDER MARKING                           (c) the symbol, lettering and surrounding line (if any)
+                                                               are in the same colour which is a colour which
+                                                               contrasts with the red background of the hazard
+A cylinder should be marked giving details of its
+                                                               warning sign so that they can be readily seen or
+construction and testing and warning of its
+                                                               recognised;
+flammable contents.
+                                                           (d) the hazard warning sign complies in all other
+Details of construction
+                                                               respects with the requirements of Part II of
+1 Each LPG cylinder should be conspicuously and                Schedule 2 of the Regulations except:
+permanently marked to include the following:
+                                                                 (i)   that the surrounding line in the hazard
+(a) the manufacturer’s mark and serial number,                         warning sign may be omitted; and
+    together with an indication of the specification
+                                                                 (ii) the words ‘flammable gas’ may be shown on
+    to which the cylinder is constructed and its year
+                                                                      the hazard warning sign on two lines, one
+    of manufacture;
+                                                                      below the other.
+(b) the date of test (which date may be indicated by
+    the month and year, or by the year followed by a
+    number within a circle to denote the quarter of
+    the year);                                             APPENDIX 3          MAXIMUM LPG CHARGE
+
+(c) the test pressure;
+                                                           1 British Standard BS 5355 specifies a filling ratio
+(d) the minimum designed water capacity of the
+                                                           reference temperature for cylinders of 45°C and that
+    cylinder.
+                                                           the maximum amount of LPG in any cylinder should
+2 The marks should be as large as possible,                not reach that amount which by expansion will cause
+preferably not less than 6mm (V* in), but in any case      the cylinder to become hydraulically full at 5°C
+not less than 3mm (1/s in) in height, and they should      above the filling ratio reference temperature, ie 50°C.
+be permanently and legibly marked on:
+                                                           2 The maximum permitted net weight (kg) of LPG
+(a) a plate which is continuously welded to the            for any refillable cylinder may be obtained by
+    cylinder prior to heat treatment, or                   multiplying the water capacity (litres) by the liquid
+                                                           density of the LPG at 50°C.
+(b) a metal tag permanently attached to the cylinder
+    by methods not involving welding, brazing or           3 As a working rule the following will gjve an
+    local reduction of wall thickness, or                  approximation adequate to establish whether the
+(c) the footring or valve shroud if these are              cylinder is overfilled to such an extent as to make it
+    permanently attached to the cylinder.                  likely to become hydraulically full at 50°C.
+
+3 The marks required by paragraphs 1 (a) and (c)           (a)   For commercial propane:
+may be marked on the valve boss.                                 Maximum charge of propane in kg equals —
+                                                                 0.425 x marked water capacity (litres);
+4 In addition each cylinder should be suitably
+marked with the tare weight (ie the weight of the          (b) For commercial butane:
+cylinder, valve and other permanent fittings, but              Maximum charge in kg equals — 0.522 x marked
+excluding the valve cover, where provided).                    water capacity (litres).
+
+
+
+
+HMSO AE                                         ©Crown copyright 1986                       Printed in the UK for HMSO
+ISBN 0 11 883539 4                               First published 1986                                          C200 6/86
+

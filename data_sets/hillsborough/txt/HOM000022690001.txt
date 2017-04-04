@@ -1,0 +1,559 @@
+                                                         WP89(M)2
+
+TECHNICAL WORKING PARTY
+
+NOTE OF A MEETING HELD IN THE OLD COMMITTEE ROOM, REGISTRAR'S
+OFFICE, UNIVERSITY OF NEWCASTLE UPON TYNE ON THURSDAY 2 NOVEMBER
+AT 11am
+
+
+Present:   Professor L Maunder        (Chairman)
+           Mr N Bush
+           Dr C Nicholson
+           Mr B Stickley
+           Mr M Overton
+           Mr J Sweet                 (Secretary)
+
+
+                                                      Action
+
+
+Professor Maunder welcomed Mr Overton who was
+standing in for Mr Carter. Apologies for absence
+had been received from Mr Dickson.
+
+
+AGENDA ITEM 1
+Minutes of Previous Meeting
+
+
+2.   The minutes of the previous meeting were
+agreed.
+
+
+AGENDA ITEM 2
+Report on Visit to Nimes
+
+
+3.   Professor Maunder summarised the visit to
+Nimes undertaken by Lord Justice Taylor, Mr B
+Johnson, Professor Maunder, Bob Whalley and
+Jonathan Sweet on 20/21 October.     Some useful
+information had been obtained, including a better
+understanding of the close working relationship
+which existed between the club and the local
+authority. The Mayor of Nimes, Mr Bousquet, was
+also President of Nimes Olympique, and the multi­
+millionaire owner of a very large clothing company.
+The local authority had contributed some 16m Francs
+of the 17m Francs which the stadium cost to build
+and were closely involved in the running of the
+site, which was regarded as a multi-purpose
+facility intended to be in full-time use.   The
+design incorporated offices as well as sports
+halls, and seemed to have attracted reasonable
+public support.   It was recognised in discussion
+that European local authorities were far more
+likely to be the owners of sites and to have a more
+"hands-on" approach to the running of stadia than
+their counterparts in this country.
+
+
+4.   Detailed consideration was given to the
+mechanism of the fencing at Nimes, which had been
+installed and designed after the stadium itself,
+apparently to comply with UEFA requirements. The
+mechanism was essentially a simple one, relying on
+gravity to pivot each gate once the first had been
+released by an electro-magnetic switch. It took
+approximately 40 seconds for a 20 gate section to
+open, although the on site demonstration appeared
+to rely to some extent on physical assistance.      The
+test loads required to satisfy the French football
+authorities appeared substantially lower than those
+laid down in the Green Guide (1.68 kN per metre as
+opposed to 6 kN per metre) and there was concern
+about the dangers of tripping should spectators be
+disgorged suddenly onto the pitch.
+
+
+5.   The Inquiry team had doubts both about the
+long term effects of wear and friction on the gate
+hinges, and, more generally, about the
+transferability of the scheme to stadia in the UK.
+At Nimes the fencing worked because space was
+available between the fencing and the crowd, and
+because it had not been tested by large crowds
+pressed against it.
+                                                       Action
+
+
+The situation would be very different at older,
+cramped stadia here. The Working Party took note
+of the Inquiry team's views.
+
+
+AGENDA ITEM 3
+Advice on Future Visits
+
+
+6.   The Chairman sought Working Party guidance on
+the issues to be raised on future visits abroad to
+Utrecht, and Rome/Milan.   Concern was expressed
+that visits both here and abroad had so far
+concentrated on the larger clubs with newer stadia;
+where possible the Inquiry team should also visit
+3rd and 4th Division clubs and older stadia.     It    Professor
+was agreed that this view be passed on to the          Maunder/
+Inquiry team.                                          Mr Sweet
+
+7.   After detailed discussion, the following
+topics were noted as being of particular interest
+on visits:
+
+
+     i.    general location and approach routes;
+
+
+     ii.   terms of the Safety Certificate,
+           including in particular capacity and exit
+           times;
+
+
+     iii. condition of the barriers - signs of
+           corrosion, loose bolts etc;
+
+
+     iv.   perimeter fencing;   and
+
+
+     v.    the extent to which clubs abroad met the
+            terms of our Green Guide. Working Party
+           members were aware, for example, that
+           Belgium had translated the Green Guide:
+           had other countries done the same?
+                                                       Action
+
+
+8.    It was agreed that any Working Party             Mr Bush
+information on sites to be visited would be
+forwarded to the Secretary as soon as possible.
+
+AGENDA ITEM 4
+Review of Structures
+
+
+9.    Dr Nicholson apologised for Mr Dickson's
+absence, but explained that the paper he was
+tabling was a joint document, resulting from their
+discussions together. It was an attempt not so
+much to suggest new ideas to be included, but to
+comment generally on current wording.
+
+
+10.   Chapter 4 of the Green Guide (on Inspection
+and Testing) was recognised as needing further
+elaboration. It consisted currently of two pages
+only and had a number of weaknesses. The Chapter
+would need to emphasise that details of the types
+of testing/methodology should also be submitted to
+the local authority, should perhaps also emphasise
+that inspection was not a rubber-stamping exercise,
+and should generally be more specific about setting
+down standards on matters such as exit signs and
+intervals between testing.   The Working Party noted
+that differences in the size of a club and ground,
+would not reduce the need for testing, but might
+reduce the time required to carry out such tests.
+                                                         v
+
+11.   Paragraph 38 raised the whole principle of
+barrier testing.   There was an argument that more
+damage was done to a barrier by the actual testing
+process than would otherwise occur by natural
+corrosion, and that it was often possible to
+condemn a barrier as unsatisfactory by visual
+inspection long before it would fail under a
+mechanical test. If a barrier looked unfit, but
+nonetheless met the formal test-loads, it should be
+kept under review and re-tested.    The dichotomy
+between the visual and mechanical approaches
+suggested either that the visual criteria were too
+hard, or that the mechanical test was deficient.
+
+
+12.   In addition, there was the particular question
+of whether new barriers required testing.     In
+discussion, comparison was drawn with i) the
+procedure for assessing aircraft fatigue and ii)
+with more general building regulations approaches.
+It was accepted that the Inquiry would want a
+Working Party view on how far uniformity of
+approach should be enforced and by what methods.
+It was agreed that the building regulations
+approach offered a suitable framework;    the Green
+Guide would indicate preferred criteria, but
+departures from those criteria could be authorised
+specifically by the local authority with an
+explanation of the rationale underlying such
+departure. The onus would therefore be on the
+individual seeking the variation to justify it in
+detail, and there should be a requirement that all
+supporting documentation be available.
+
+
+Barriers
+
+
+13.   It was also important to reach agreement on
+the actual design of barriers, and their terrace
+layout.    There was evidence that the 'A' frame
+design resulted in people toppling over the support
+stanchion if they were subject of lateral pressure
+from the crowd.    Should the use of clips, which hid
+corrosion, also be prohibited?     The Working Party
+agreed to give further thought to such issues and
+to whether the Guide would include a separate
+Chapter on corrosion.
+
+
+Records
+
+
+14.     Paragraph 43 of the Green Guide referred to
+the keeping of records but needed elaboration.
+Should all such records be kept centrally by a
+clearing house, thereby enabling the speedy
+dissemination of information to other clubs, and
+should such a clearing house be under the auspices
+of the FA, the local authority, or perhaps the
+Football Licensing Authority?     Mr Bush felt that,
+under existing financial arrangements, local
+authorities would be unwilling to take on such
+work.     Currently they received no income from their
+monitoring work, and very little from the issuing
+of Safety Certificates.     Without some charging
+mechanism, he doubted whether they would be
+persuaded to do additional work.     If the work was,
+however, undertaken by the Football Licensing
+Authority, there was doubt as to how the position
+of non-football grounds be dealt with.     It was
+agreed, after detailed discussion, that the Working
+Party recommend to the Inquiry a clearing house
+forum, leaving the precise nature of thebody to be
+established by the Inquiry.
+
+
+Chapter 9 - Crush Barriers and Handrails
+
+
+15.     It was accepted that the introductory section
+needed wholesale re-drafting to provide more
+detailed guidance on materials, corrosion
+resistance and corrosion traps, lateral movements
+                                                        Action
+
+
+and the identification of the areas of likely
+corrosion.     It was agreed that such guidance did
+not need to provide specific figures, but should
+identify the areas, leaving the Inquiry to specify      Dr
+exact terms.    Further advice would be forthcoming.    Nicholson
+
+
+16.   It was essential to remember, both in relation
+to barriers and more generally, that the Guide
+applied equally to small clubs as it did to large.
+Although lax interpretation of the Guide should not
+be tolerated, there might be occasions when small
+clubs might prefer, for example, to reduce terrace
+capacity rather than condemn barriers which
+although marginally outside existing standards
+would nonetheless never be tested by large crowds.
+There was an argument for allowing a certain
+density in ideal conditions (eg a maximum of 54
+persons per 10 sq metres) but for setting a greatly
+reduced figure (eg    20 per 10 sq metres) if those
+ideal conditions were departed from.    An element of
+discretion would be removed, to be replaced by an
+automatic two-tier standard.
+
+
+17.   It was agreed that greater cross-referencing
+was needed between the sections of the Guides which
+had, especially following revision after the
+Bradford disaster, become rather disjointed.
+
+
+18.   Consideration was given to the possible need
+for a revision of barrier height, in the light of
+Dr Nicholson's understanding that both the French
+and German authorities stipulated a higher figure.
+Nonetheless, in view of the original research
+carried out in formulating the figure for optimum
+height, it was accepted that 1.1m should remain.
+It was agreed, however, that it would be helpful if
+the Green Guide were to incorporate a diagram
+indicating the point on the barrier from which
+measurement was to be taken.
+
+
+Spacing of Crush Barriers
+
+
+19.   Detailed consideration was given to the
+wording of paragraphs 114 and 115 of the Guide, and
+it was accepted that the figure of 60° quoted in
+paragraph 114 was somewhat arbitrary, but was
+designed to guard against undue lateral sway.    The
+figure remained acceptable.
+
+
+20. After discussion, it was agreed to recommend
+the removal of the reference to "Other areas" in
+Table 1 of Chapter 9, since for football, it was,
+in practice, difficult to distinguish "peak" from
+"non-peak" areas.   At a big match, all areas were
+"peak" areas.
+
+
+21.   It was agreed. however, to retain the
+distinction in Table 1 between "A" and "B",
+although these figures were, in turn, to be related
+to capacity and the two-tier process outlined above
+(paragraph 16).
+
+
+22.   Table 2 in Chapter 9 was given careful
+consideration. It was agreed that more consistent
+labelling should be adopted. The distinction
+between "force" and "load" was wholly artificial
+and merely caused confusion.   The differential of
+20% between the design load and the test load was
+considered acceptable, as was the safety factor of
+2 referred to in paragraph 119.     It was agreed to
+round up figures to one decimal place, using the
+metric figure as the primary one.
+                                                        Action
+
+
+Chapter 15 - Pitch Perimeter Fence/Wall
+
+
+23.   The role of the perimeter fence was examined
+in some detail. At Hillsborough, individuals were
+being crushed at head height, which was clearly
+unacceptable. Such a fence could not be regarded
+as a crush barrier, and where it existed,
+consideration would need to be given to
+construction of a proper crush barrier attached to
+the fence. Thought ought alternatively to be given
+to the possible need for a sterile area, or a
+walkway controlled by police/stewards. There were
+obvious difficulties in converting existing
+facilities some of which, like those at Newcastle
+United, were positively dangerous.   Nevertheless,
+the experience at Liverpool and Everton, where
+safety corridors had been introduced, showed that
+it was possible to do so. There was also,
+following Hillsborough, greater experience of
+working without perimeter fencing at all, and this
+was an aspect which needed further examination. If      Working
+fences were required, as they might be under UEFA       Party
+regulations, they should be of a uniform design.        Members
+
+
+24.   it was agreed that where perimeter gates or
+gaps existed, they should be a minimum of 1.1 metre
+wide or not less than the width of the connecting
+gangway whichever was the larger.    Where exits onto
+the pitch did exist, they should link direct to
+radial gangways to facilitate speedy evacuation.
+The spacing of such exits should take into account
+the emergency evacuation times.
+                                                       Action
+
+
+Annex C
+
+
+25.   This was an area needing careful scrutiny.
+The loading in paragraph 1 had been derived from
+Home Office research in 1973, and was deemed still
+to be acceptable.   Different equipment was employed
+by different engineers to apply the test, and Dr
+Nicholson favoured the four-pronged implement used
+by Dr Eastwood at Hillsborough. It was accepted,
+however, that other systems might be equally as
+suitable, and the suggestion that diagrams of the      Working
+type of equipment should be included was reserved      Party
+for further discussion.                                Members
+
+
+26.   Consideration was given to the best method of
+preventing deficient testing, as had occurred at
+Hillsborough.   It was accepted that at least 2
+"bays" should be tested at a time, but that the
+figure of 10 equal increments in paragraph 3 of
+Annex C was unnecessary;   four would probably
+suffice.   Thought should be given to the creation
+of a formula describing the worst-loading scenario,
+so that the local engineer could devise an
+alternative method provided it met those minimum
+criteria and also satisfied the local authority.
+Any test proposal would have to be authenticated
+and agreed by the authority.
+
+
+27.   Although it was accepted that recovery
+remained the best (and only practical) measurement,
+it was felt essential that misinterpretation such
+as that which had occurred at Hillsborough had to
+be avoided. Recovery of 75% was adjudged
+satisfactory but it was agreed that the Annex
+should recommend measurement not just of the level
+of deformation but more specifically of where that
+deformation occurred.   If the distribution of load
+was not uniform , it should be such as to stress
+the structure at highly stressed points at least as
+severely as a uniformly distributed load.
+Measurement of all significant deflections of the
+barrier under test should be taken and recorded so
+as to enable a satisfactory assessment of
+structural performance overall to be made. Subject
+to any views which Mr Dickson might have on behalf
+of the Institution of Structural Engineers, it was
+agreed that if a barrier failed the first test, it
+should be deemed to fail totally, unless a valid
+reason for this failure could be identified and
+corrected.
+
+
+28.   Dr Nicholson felt that specific advice was
+needed in paragraph 6 of Annex C about corrosion.
+It was agreed that where a barrier passed the
+mechanical test, yet visual inspection showed
+deficiencies, the engineer should be able to test
+again at more frequent intervals.
+
+
+AGENDA ITEM 5
+Review of Flows
+
+
+29.   Mr Bush outlined his paper, explaining that
+Chapter 5 of the Green Guide on ingress needed
+substantial expansion, since it ought to reflect
+not only the position inside the ground, but also
+that obtaining outside eg the transport patterns.
+The Working Party accepted that it need not be
+prescriptive in tone, but should rather draw
+attention to all of the factors, both inside and
+outside the ground affecting ingress.
+                                                       Action
+
+
+
+30. It was agreed that paragraph 44 of Chapter 5
+needed expansion so as to refer specifically to:
+
+
+      i)    positive counting and recording of those
+            passing through, with a warning to
+            turnstile operators of the need to close
+            when capacity about to be reached;
+
+
+      ii)   the exclusivity of turnstiles to one
+            enclosure; and
+
+
+      iii) very clear signposting.   "Very clear"
+            might be explained as "signposting such
+            that a spectator new to the ground could
+            find his way quickly and safely to his
+            seat/terrace".
+
+
+31.   Further thought needed to be given to the need
+to draw together in a single chapter all the tests
+and inspections to be done in the interests of
+safety and to specify the relevant timescales
+involved. As an example of the type of document,
+Mr Bush agreed to circulate copies of one of his       Mr Bush
+club's Safety Certificates which already
+incorporate this.
+
+
+32.   It was felt that there might be merit in
+distinguishing between pre-match, routine
+maintenance, and annual Safety Certificate tests,
+and the Working Party therefore agreed to give         Working
+further thought to the format such classification      Party
+might take.                                            Members
+33.    It was also agreed that Mr Bush would minute
+Lord Justice Taylor separately on his views for i)
+special certification when two away clubs were
+playing at a ground and ii) a possible provision
+for review of the certificate on occasions when
+attendance was likely to be eg 50% above normal
+capacity.
+
+
+AGENDA ITEM 9
+Date and Place of Next Meeting
+
+
+34.   In view of the amount of work remaining, it
+was agreed that the next meeting of the Working
+Group would take place on Tuesday 7 November in
+Room 749 Home Office, Queen Anne's Gate, commencing
+at 10.30am.     It would continue to use the Agenda
+for WP(89) 2nd meeting as the basis for discussion.
+                            FAX MESSAGE
+
+
+
+FROM              Professor L Maunder
+                  Department of Mechanical Engineering
+                  University of Newcastle upon Tyne
+
+                  FAX NO:     091 261 0191
+
+
+TO                Jonathan Sweet
+                  Hillsborough Inquiry
+                  Queen Anne's Gate
+                  London
+
+                  FAX NO:     01 273 2190
+
+
+DATE              6 November 1989
+
+
+NO OF PAGES       1
+
+
+ADDITIONAL INFO   Jonathan,
+
+                  Excellent draft minutes.
+
+                  Suggestions:
+
+                  (i)  "Wear and friction" instead of     "fatigue"
+                  In para 5;
+
+                  (ii)   "systemCs)” for "implenient(s) " in para 25;
+
+                           reference to the quoted extracts from my
+                      e of 10 July possibly in or near para         27
+                    measurements of all significant deflections of
+                  the K i • ler under test should be        taken and
+                  re • •U        so as   to enable    a   satisfactory
+                            t;fit of structural performance overall to
+                  b e .satie" and "if the distribution of load is not
+                  uniform,       it should be such as to stress    the
+                  structure at highly stressed points at least, as
+                  severely as a uniformly distributed load".
+

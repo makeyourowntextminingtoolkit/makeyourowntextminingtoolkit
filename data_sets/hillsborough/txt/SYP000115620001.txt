@@ -1,0 +1,137 @@
+Ineide®^         105       230589         0 P5 D 1 2             TYPING SERVICE DOCUMENT
+      s'
+                                                                                    OF F I C E R S R E P O R T N U MB ER        R 489
+
+                                                                                                                              Stat i on
+
+                             C UT LE R
+
+Forenames                    JOHN         LIONEL
+
+Age                                                                    .Date; of fcji'-rt/h;
+
+Address
+
+
+Oc cupat-i on                CIVIL SERVANT
+
+Telephone
+
+N u rnb e r o f P a g e s
+
+Dated                        22 0 5 8 9                                                                                             S ig ne d
+
+
+             I a m a T e c h ni cian e m p1q                       fc^+rf»^TF’e c t ora t e o f T e 1 e c o rnm u n i ca t i o n s'
+
+             wo rk i ng on S o u t h Yor kshi re radi o i nstal 3.at ions
+
+             On 5th May
+
+                                                •}s t a 1 1 e d a t H :i.1 i s b o r o u g h F o o t b a 11 G r o u n d b y H o m e
+
+                                                 0 f f i c e T e c h n i c ia ns J ■ Cutler
+                                                                                     a c!
+                                                                                        •   PC
+                                                                                             a n dClax
+                                                                                                    N ,, ton
+                                                                                                          H an c(South
+
+             Y o r k s h i r e P o I i c e ) w a s i n a 11 e n d a n c e „
+
+                       M AIN W"I5U C O N T R O L S TA T I O N
+
+                       This was          c hecked using a Marc on i               2955      test    set a nd all
+
+                       p ar am et er s were            f ound   to be w i t h i n     the    s p e c i fi e d    limits..
+
+                       C O V E R A G E T ESTS
+
+                       T ests    were         then     carried out       b e tw e e n the Control               S t a t i o n and
+
+                       pe r s o n a 1 r ad i o s 10 c he c k the           cove rage        i n and a r o und
+
+                       Hillsborough Football                    Ground     p a r ti c ul a r a t t e n t i o n was       paid
+
+                       t o 'th e L..e p p i n g s I....a n e e n d o f t h e g r o u n d      particularly t he
+
+                       a re as   in a nd a r o u n d G a n g w ay s        2,   3 a nd 4.          These        tests were
+
+                       c o n du c te d    both w i th and w it h o u t          the    'talk       through''        mode
+
+                       in use.           No    p roblems were        e x p e r i e n c e d at any time.
+
+             3   ,     STANDBY W15U
+
+                       This was          t e s t e d as   in 1. a nd       identical         coverage           checks     done
+                                                                                                                           PAGE
+                                                                                                                           R489
+
+                    as    in E.          Again       no    problems       were    encountered.
+
+            4.      TALK-THROUGH              TESTS
+
+                    Further         tests          were    then      carried     out    to    show   t h at   with   the
+
+                    Control         Station          on    ’t al k   t h r o u g h ’ any     transmissions       by a
+
+                    personal            r a d io    will    override       the    Controller         should     he   toe
+
+                    trying         to    transmit          via    the    hand-held microphone.
+
+             CONCLUSIONS
+
+             The    r                                      a                                  d                            d not
+
+             show       up a n y    apparent          problems          with   the     r a di o   scheme.
+
+END   OF   REPORT
+                                 AS ^°r£>
+Name              John Lionel Cutler
+
+Age
+
+Occupation       Civil Servant
+
+Address          Directorate of Telecommunications
+                 West Bar
+                  Sheffield
+
+I am a Technician employed by the Directorate of Telecommunications working on
+South Yorkshire Police radio installations.
+
+On 5th May 1989 a series of tests were carried out on the radio equipment
+installed at Hillsborough Football Ground by Home Office Technicians J. Cutler
+and N. Hancock.  PC Claxton (South Yorkshire Police) was in attendance.
+
+1.     MAIN W15U CONTROL STATION
+
+          This was checked using a Marconi 2955 test set and all parameters were
+          found to be within the specified limits.
+
+2.     COVERAGE TESTS
+
+          Tests were then carried out between the Control  Station and personal
+          radios  to check the coverage in an around Hillsborough Football Ground
+          particular attention was paid to the Leppings Lane end of the   ground,
+          particularly the areas in an around Gangways 2, 3 and 4.    These tests
+          were conducted both with and without the 'talk through'  mode  in use.
+          No problems were experienced at any time.
+
+3.     STAND-BY W15U
+
+       This  was  tested as in 1.  and identical coverage checks done as in 2.
+       Again no problems were encountered.
+
+4.     TALK-THROUGH TESTS
+
+       Further tests were then carried out to show that with the      Control
+       Station on   'talk through' any transmissions by a personal radio will
+       over-ride the Controller should he be trying to transmit via       the
+       hand-held microphone.
+
+CONCLUSIONS
+
+The  radio equipment checks and the subsequent coverage tests did not show up
+any apparent problems with the radio scheme.
+

@@ -1,0 +1,407 @@
+                                                                       - "■
+                                                                                                M I R . 15
+
+
+
+                                                                                                                                         JO-aolC,
+O THER DO CU M ENT FORM                               Date and tim e raised                                              Number
+
+
+T itlp C    < x x c ^ n        O    A   v   0   s f       Q o e ^ f c                                                                u
+                                                                                                                                         t           C B jQ L
+(Include source and an y docum ent num ber i f relevant)                                                                             [
+
+
+Rpreivpr's instructions — uroent action — Y es/N o                       fc >   A /C V ^                         ^             t O
+                                                                                                                                                       Receiver
+ C c       U c ;   C    o   c x O   i                                                 i o      Gcut^TvcctJn
+ L^tcuoj                                         " h o             C   c x x c x o   ' f v v v v ' t                                                 ^ ? 3 8 >
+                                                                                                                                                       Indexer
+Docum ent registered/indexed as indicated
+
+No(s) o f actions raised                                                                                                                              s c r r
+       ------- --------- ---------                    —   _ tv^-
+                                                                                                                                                 Statement Reader
+Statem ent reader's instructions                              \
+
+
+
+                                                                                                                                                       Indexer
+Indexed as indicated
+
+No(s) o f actions raised                                                                                                                         1    3 « 2 >
+Examined - fu rth er action to be taken                                                      ____________ ______                             j   Q     j        SIO
+
+                                                                                                 F     I !       £
+                                                                                                                                         V
+                                                                                                 I     f     fcsr, &s®     |              l£6 (
+F urther action No(s)                                                                                                                                  Indexer
+
+
+When satisfied all actions raised O ffice Manager to endorse other Docum ent Master Num ber Form
+                     N O T E P A D     T E M P L A T E ;      .
+
+This template is intended to assist the Receiver/Statement Reader to
+identify those documents which are to flagged by use of the NOTEPAD
++IN.
+
+C O D ING                INTERPRETATION
+
+   *INOUTY***            INSIDE/OUTSIDE THE G R O U N D   &   MATERI AL,
+                           ««     If        II
+   *INOUTX***                                         & N O N - MATER IAI.
+                         INSIDE THE GROUND (, MATERIAL
+                           M               If
+                                              & NON-MATERIAL
+   *OUTY**               OUTSIDE THE GROUND & MATERIAL
+                                 ff        " & NON-MATERIAL
+   *OUTX**
+   *DECY**               DECEASED & MATERIAL
+   *DECX**
+                           ««
+                                    & NON-MATERIAL                                      □
+   *INJY**               INJURED PERSON & MATERIAL
+                           «!    "        & NON-MATERIAL
+   *INJX**
+   *POLYSY               POLICE, SOUTH YORKS & MATERIAL
+   *POLXSY                 ««
+                                                & NON-MATERIAL
+   *POLYMS               POLICE, MERSEYS IDE & MATERIAL                                 □
+   *POLXMS                 ««
+                                 11        11 & NON-MATERIAL                            □
+   *POLYNC               POLICE, NOTTS & MATERIAL
+   *POLXNC                 ««     ««
+                                         & NON-MATERIAL
+   *POLYOT               POLICE, OTHER FORCE & MATERIAL
+   *POLXOT                 ««     ««
+                                           11   & NON-MATERIAL
+   *POLPRAISE* * *       POLICE ACTION PRAISE, APPRECIATION
+   *POLADVERSE***        POLICE ACTION CRITICISED, ADVERSE COMMENT
+
+
+    THE R ECEIVER/STATEMENT READER SHOULD TICK THE APPROPRIATE BOX(ES) TO
+    DIRECT THE INDEXER TO ATTACH THE MARKED CODING TO THE DOCUMENT
+    BEING INDEXED V IA +IN.
+
+                                2_©              2 > to                l/ \ I oir\J L
+            t v      Io n o v *   c o /v a t o e d   "                     Cf 2 ^
+                                                                                             r
+                                                                                            St
+                                                               *
+
+
+
+
+                                    -   - -•
+
+                          ■ 'i--'
+                          * ;*!j- , * v,
+» .v* ■■ *
+                            ,* v "
+
+                 .,             +       \
+
+
+              ■/X £ % / ? • *           ,
+
+                                                                      __ _ •     jt d i i K V i-'-T- -
+
+                                                                      (Version IV )             a70089>
+                                                                      are applicable for indexing.
+                                                              which
+ Please tick those category boxes
+                                                                         MEDICAL
+ STANDS                                                                  Doctor
+ Spion Kop                                                               Police Surgeon
+ North Stand                                                             Surgeon
+ South Stand - Seated                                                    Pathologist
+                           Standing                                      Nurse
+ WEST STAND                                                              St Johns
+ Pen 1*2
+ Pen 5-7                                                                 SUPPORTERS
+ PEN 3                                                                   L iv e r p o o l
+ PEN 4                                                                   Notts Forest
+                                                                         Other
+  POLICE OFFICER ON DOTY.
+  South Yorkshire
+  Merseyside
+  Nottinghamshire
+                                                                         EMERGENCY SERVICES
+                                                                         Fire Brigade
+                                                                         Ambulance
+                                                                                                          a
+  POLICE OFFICER OFF DUTY                                                 RECOGNITION
+  Merseyside                                                              Bravery Acts
+  N o ttin g h a m s h ire                                                Awards
+  South Yorkshire                                                         Appreciation
+  Others                                                                  Adverse Comments
+                                                                          Complaint
+   MEDIA
+   Press                                                                  PUBLIC BODIES
+   TV                                                                     Local Authority
+   Radio                                                                  Health & Safety
+                                                                          FA
+   ground staff.                                                          Tootball Trust
+   Steward
+   Turnstile Operator                                                      CONSULTANTS * FIRMS
+   Catering                                                                Safety
+                                                                           Construction
+   Other
+                                                                           Other
+    LOCAL RESIDENTS
+    House to House                                                         SURGES IN 6 R O * ®
+    Shopping                                                               Team on Pitch
+                                                                           Hanson’s Name
+    Other
+                                                                           Kick Off
+    PUBLIC                                                                 Ball hits X-Bar
+                                                                           Barrier breaks
+    Letter
+    i n K T o 'p o . i c Station
+                                                                               CROUD SURGES O/S BROW®
+                                                                               Metal Gate forced
+     Ml» O T C K K Y >DT SPECIFIED                                             Gate ’C» to eject
+                                                                               Gate ’C» crowd in
+
+                                                                               PREVIOUS HATCHES
+                                                                               Semi Final 1901
+                                                                               Semi Final 1956
+     WITNESS CALLED TO INQUIRY                            Q                    Semi Final 1988
+                                                                               Other States
+      COACHES - Alcohol                                                        INVESTIGATION
+                   - Disorder
+                   - Police                                                    Torged Tickets
+                     Check                                                     Torcing Gates
+                   _ Traffic                                                   Unauthorised access
+                     Delay                                                     Alcohol
+                                                                               Disorder
+      letter required                          y /n
+                                                      D
+                                                                         Q   I
+
+
+
+
+                LORD JUSTICE TAYLOR'S
+                   JUDICIAL INQUIRY
+                     INTO THE
+          HILLSBOROUGH FOOTBALL DISASTER
+                SATURDAY 15 APRIL 1989
+
+
+
+                 COACH QUESTIONNAIRE
+
+
+
+                        DRIVERS
+
+SURNAME
+
+FORENAME(S)
+
+ADDRESS
+
+
+
+
+AGE       UP\      DATE OF BIRTH                                   SEX
+
+TEL. NO. HOME                                   BUSINESS
+
+NAME OF COACH COMPANY      ^ T v \O ^ L L S >   IH n S fth W ttl
+QUESTIONNAIRE
+
+THIS QUESTIONNAIRE IS TO ASSIST LORD JUSTICE TAYLORS'
+JUDICIAL INQUIRY INTO THE HILLSBOROUGH FOOTBALL DISASTER
+ON SATURDAY 15 APRIL 1989.
+
+
+1        WHICH COACH COMPANY DO YOU WORK FOR?                 ('TW cc- t h h e )
+                             VuTel2H'Ar"Tu?U'4t_
+
+
+
+
+         DID YOU TAKE A PARTY OF FOOTBALL SUPPORTERS TO
+         SHEFFIELD ON SATURDAY 15 APRIL 1959?
+
+
+
+
+         WHAT WAS THE REGISTRATION NUMBER OF YOUR COACH?
+
+                             \SO
+
+
+
+
+ 4   .   HOW MANY PASSENGERS DID YOU CARRY?
+               Am oi        2 0
+
+
+
+
+    5.    WHERE DID YOU DEPART FROM AND AT WHAT TIME?
+
+
+                C -v ^ -r               't o   ^ T T / A&V   V .' f t o v -
+
+
+                                  -1-
+6.   DID YOU ENCOUNTER ANY DELAYS EN-ROUTE TO SHEFFIELD?
+     (BRIEFLY EXPLAIN)
+
+
+
+
+7.   DID YOU HAVE ANY MECHANICAL PROBLEMS WHICH
+     CAUSED A DELAY (BRIEFLY EXPLAIN)
+
+              Uo
+
+
+
+
+8.   DID YOU STOP ANYWHERE EN-ROUTE TO SHEFFIELD, IF SO
+     a) WHERE AND WHAT FOR
+     b) THE TIME YOU STOPPED AND THE TIME YOU DEPARTED
+        FOR SHEFFIELD
+
+      A \          " ^ .s L o v a x .   -              ^
+
+      ■vi')          '0.<JCOVA          -   W   X ’K
+
+
+
+
+                                  -2-
+    9.    WHAT TIME DID YOU ARRIVE AT SHEFFIELD?
+                    £>UTCS^VV2XS>          % C O \9i^V
+                              4M.CP         “ C liiA P 'f-'C r
+
+                                       2 ^ ^ M.
+
+    10.   WHERE DID YOU PARK YOUR COACH IN SHEFFIELD?
+                                                     I           ^ t> \
+
+
+
+
+    11.   DID YOU SEE POLICE PRESENCE AT YOUR COACH PARK
+          POSITION?
+
+
+             -To     "v^ K   vnK^-     Vlv\C.£ .
+
+
+
+
+    12.   IF POLICE PRESENCE, CAN YOU ESTIMATE THE TIME THE
+          SUPPORTERS FROM YOUR COACH, LEFT THE COACH PARK
+          POSITION TO GO TO THE GROUND?
+
+                   Q jU S PpA
+
+
+
+
+*
+
+
+
+»
+                                      3-
+DID THE SUPPORTERS FROM YOUR COACH LEAVE THE COACH
+PARK POSITION WITH A POLICE ESCORT?
+
+       Mo.
+
+
+WHAT TIME DID YOU DEPART FROM SHEFFIELD ON THAT
+DAY?
+
+
+
+
+WERE YOU MISSING ANY PASSENGERS ON THE RETURN
+JOURNEY?
+
+
+
+
+ IF YOU HAD MISSING PASSENGERS CAN YOU IDENTIFY
+ THEM?           .
+              u \A r
+17.    FOLLOWING YOUR JOURNEY BACK FROM SHEFFIELD AND THE
+       PASSENGERS LEAVING YOUR COACH, WAS THERE ANY
+       EVIDENCE OF ALCOHOL HAVING BEEN CONSUMED?
+       (BRIEFLY DESCRIBE)
+
+                         KVo
+
+
+
+
+15.    IS THERE ANY OTHER INFORMATION YOU WOULD LIKE TO
+       GIVE WHICH YOU FEEL IS IMPORTANT TO THIS JUDICIAL
+       INQUIRY?                                            ,
+         \ VnsuD &
+
+
+
+          *4 *0 2 0     * r       -Twer' * * '
+                                    A- u *r a * t o f u z
+
+                                                ^      ^          ^       ^
+
+
+          OW DS         VWO -WICMS                   -TD «WT - 1
+
+          Sfc&CL>/                          A t VO T ^                        I
+                  ^               vns^i     \   1 > D Here \^(Ot\=v1
+         Vl£\5r\0-A-S   A ^ v v tlS D .
+          eto u w O -         TiXT                  'Sitee. -T»       ^   c“* cn
+
+
+ 19.    DID YOU ATTEND THE GAME AT HILLSBOROUGH AS A
+        SPECTATOR?
+       (IF YES, COMPLETE A SUPPORTERS QUESTIONNAIRE)
+
+                         * \c >
+
+
+
+
+                                     -5-
+    SIGNATURE OF PERSON INTERVIEWED
+*
+
+
+
+
+    NAME/RANK/NUMBER OF OFFICER COMPLETING (PRINT IN BLOCK
+    CAPITALS)
+
+
+
+
+    SIGNATURE OF OFFICER COMPLETING
+
+
+
+
+    QUALITY OF WITNESS             IMPRESSIVE
+    (TICK BOX APPLICABLE)
+
+                                   AVERAGE       D
+
+
+
+                                   POOR          □
+
+
+
+
+                             -6-
+

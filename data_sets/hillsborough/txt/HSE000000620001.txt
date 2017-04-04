@@ -1,0 +1,800 @@
+ANNEXE 2
+JMS
+ Health and Safety Executive
+TECHNOLOGY DIVISION
+Summary sheet of                                               FCG (block caps)
+
+FCG inspector's report                                         NORTH EAST
+Name of firm(s) (block caps)                                   AncoaxSbciEawxH.
+SHEFFIELD WEDNESDAY FOOTBALL CLUB                              Dr C E Nicholson, Deputy
+                                                               Director, RLSD
+Address
+                                                               Area (name)
+Hillsborough                                                   South Yorkshire & Humberside
+Sheffield
+                                                               Copies to
+
+                                                               Mr C J Pertee, PSI, NE FCG
+
+Subject of report
+                                                               FCG file no.     NE/FCG/131/89
+Examination of Turnstiles A-G
+                                                               FCG job no.      1 4 /M / 19/89
+
+                                                               Date of report   /£^kay 1989
+                                                               Key words (block caps)
+
+
+                                                               FOOTBALL GROUNDS
+                                                               (RUNSTILES)
+
+Initiation                                                     Date(s) of visit(s)
+Verbal via RLSD                                                24-28 April 1989 (Except 27th)
+Visited by                                                     Relevant papers
+
+Mr J B Hibbs (NE FCG)                                          Makers Leaflets - copies
+Mr C J Pertee (NE FCG)                                         attached.
+
+
+Persons seen (names and positions)
+
+Club Secretary and Police Officers
+at Engineering Control Room
+
+
+Summary
+
+
+Examination of turnstiles A-G confirmed that although old, somewhat worn and in many
+cases in need of lubrication/routine maintenance etc all were working satisfactorily
+and would each allcw at least 20 persons per minute throughput.
+
+Data on load/pedal release pressure tests, throughput and conputer count tests are
+the subject of a separate RLSD report.
+
+
+
+
+Author's name        ^ ® HIBBS                   ,             ,
+                     Specialist Inspector (Mechanical Engineering)
+FI 2501 (rev 5/84)
+NE/FCG/131/89                                      Technology Division
+                                                   NE Field Consultant Group
+14/M/19/89                                         Health & Safety Executive
+                                                   Woodside House
+                                                   261 Low Lane
+                                                   Horsforth
+                                                   LEEDS
+                                                   LS18 5TW
+
+
+
+Dr C E Nicholson                                   c: Mr C J Pertee, PSI, NE/FCG
+Deputy Director
+RLSD
+SHEFFIELD
+
+SUBJECT:     EXAMINATION OF TURNSTILES A-G
+USER         SHEFFIELD WEDNESDAY FOOTBALL CLUB, HILLSBOROUGH, SHEFFIELD
+INTRODUCTION
+
+
+
+I visited the Sheffield Wednesday Football Club ground during the week commencing
+
+the 24th of April 1989 to continue investigations at your request and in accordance
+
+with the wishes of the judicial enquiry team headed by Justice Taylor.
+
+
+
+I was present on site between the 24th and 28th of April with the exception of
+
+Thursday the 27th of April and on each occasion I was acconpanied by Mr C J Pertee,
+
+Principal Specialist Inspector, Construction Engineering, North East FCG.      During
+
+the week I examined turnstiles 17-23 (A-G) and this report contains the results of
+
+this examination.
+
+
+
+TURNSTILES
+
+
+The general layout of the 7 turnstiles A-G which feed the west terrace at the football
+
+ground is shown in Fig. 1 of my earlier report NE/PCG 14/M/18/89 and details are
+
+confirmed in Messrs Ralph Braid & Associates drawing no. 1340/Q£.
+
+
+
+
+                                         1
+A general view of the turnstiles from the approach side is shewn in Fig. 2 and from
+
+the egress side in Fig. 3.
+
+
+
+All the turnstiles were of considerable age and were noted to have been manufactured
+
+by Messrs W D Ellison & Co Ltd, Irlam, Manchester. Details of the turnstiles and
+
+their method of operation are shown in the makers trade literature at Appendix 1.
+
+
+
+All the turnstiles were of the lew pattern type and turnstiles A, C, D, E, F and G
+
+were fitted with convex arms. Turnstile B was fitted with straight arms.
+
+
+I took detailed dimensions in all the turnstile enclosures and assisted with
+
+functional tests of each unit.
+
+
+All the turnstile ratchets were working satisfactorily and although vrom, all the
+
+foot pedals and footstep motion cams were working correctly.    Some of the lower
+
+mechanisms were in need of lubrication, however, this did not prevent the mechanisms
+
+from operating satisfactorily and allowing at least 20 persons per minute to pass
+
+through each turnstile.
+
+
+I noted the patent nuntoers on the turnstil^| which were shown as 658191 and 658226
+
+and were marked on several of the mechanical counter cover plates.    The serial
+
+numbers were also marked in this area but were only present on turnstile C (serial
+
+no. 14038), turnstile D (serial no. 13263) and turnstile G (serial no. 14039).
+
+
+1 noted that all the doors at the front of the turnstile enclosure were approximately
+
+0.63 m (25 inches) wide and the opening widths were between 465 itm and 555 itm
+
+(18.3 inches and 21.8 inches).   The heights of the openings were approximately
+
+2 m (79 inches).
+
+
+                                        2
+The passageways through each turnstile ware approximately 2 m (6 ft 9 inches) long
+
+and 0.5m (20 inches) wide.     The ceiling height in each passageway was
+
+approximately 2.25 m (7 ft 5 inches).
+
+
+
+The height of the turnstile tables was approximately 1.04 m (3 ft 5 inches). The
+
+heights of the turnstile arms and their lower skirt plates etc and the gaps between
+
+the ends of the arms and adjacent walls in individual passageways are shown in
+Table 1.
+
+
+
+Vertical blocks of wood were secured to the walls at the entry side of the
+
+turnstiles in all except passageway C where a box had been constructed on the wall
+
+opposite the centre of the turnstile spindle.    All blocks of wood in turnstiles
+
+except C were approximately 14 cm x 14 cm x 61 cm long (5.5 inches x 5.5 inches x
+
+2 ft long) which were positioned with their lower ends approximately 38 cm (15 inches)
+
+above floor level and their central axis approximately 30 cm (one foot) forward of
+
+the turnstile axis.
+
+
+
+The box mounted on the wall opposite the rotating arms of turnstile C was 46 cm
+
+(18 inches) long on its front face and 61 cm (2 ft) long on its rear face.    The
+box was 24 cm (9.5 inches) deep and projected from the wall by approximately 10 cm
+
+(4 inches). The top face of this box was approximately level with the top face of
+the turnstile arm.    (See Fig. 6).
+
+
+Additional wooden blocks were also fitted on the walls opposite the turnstile arms
+
+in passageways A and B only.   These blocks were mounted on the turnstile side of
+
+the aforementioned vertical wooden blocks and had curved form varying from
+
+7.5 cm (3 inches) thickness at the ingress end to 9.5 cm (3.75 inches) thickness at
+
+a point opposite the turnstile axis centre.   These blocks were approximately 49 cm
+
+(19.25 inches) long and 14 cm (5.5 inches) deep and reduced the gap at the end of
+
+
+
+                                        3
+(   the turnstile arm to approximately 2.5 cm (one inch).
+
+
+
+    Photographs of turnstiles A to G taken from the egress side show the aforementioned
+
+    features together with the respective footstep cams and pedal counterweights etc.
+
+    (See Figures 4-10).
+
+
+    I removed several of the foot pedals from the turnstiles and two of these from
+
+    units B and C are shown in Figs. 11 and 12 respectively.
+
+
+    Pedal return action was achieved by a counterweight mounted on the respective arm,
+
+    these weights can be seen in"Figs. 11 and 12.
+
+
+
+    OTHER OBSERVATIONS
+
+
+
+    During my examination of the turnstiles I noted that an electronic counting system
+
+    had been installed and that duplicate switching arrangements were present on the
+
+    majority of the units.
+
+
+    Small roller type limit switches were noted in positions immediately above the
+    central boss carrying the turnstile arm adjacent to the main rotating shaft. These
+    switches were arranged such that they would be actuated at each quarter turn of
+
+    the turnstile.   The central switches at units C, D and E were the only ones
+
+    connected.
+
+
+    Additional rat-tail switches were seen to have been positioned on the wooden frames
+
+    at the egress side of the turnstile block and were actuated at each indexing motion
+
+    by the respective turnstile arm.   However, these switches were disconnected and
+
+    had broken tails at turnstiles C, D and E, they appeared to be connected and
+
+
+
+                                           4
+• (
+      functioning correctly at the other turnstiles A, B, F and G.
+
+
+
+      load/pedal resistance testing and throughput rate testing of the turnstiles together
+
+      with checks on the mechanical and computer counting systems are the subject of a
+      separate RLSD report.
+
+
+
+      It was also noted that photoelectric emitters and sensors had been arranged in pairs
+
+      across each turnstile passageway at positions above the turnstile arms as well as at
+
+      table level at the egress side.   Examination of these devices indicated that many
+      had been either removed or disconnected and in some cases the wiring had been cut.
+
+      The latter was noted on the over/turnstile sensors at units C and F.
+
+
+      CONCLUSIONS
+
+
+
+      Examinations of turnstiles A-G confirmed that although old, somewhat worn and in many
+
+      cases in need of lubrication/routine maintenance etc.    all were working
+
+      satisfactorily and would each allow at least 20 persons per minute throughput.
+
+
+
+      Data and load/pedal release pressure tests, throughput      and computer count tests
+      are the subject of a separate RLSD report.
+
+
+
+      KBCXEMENDATIONS
+
+
+
+
+      It is recommended that the gaps between turnstile arms and adjacent walls should be
+
+      reduced to the minimum practicable safe dimension in order to prevent persons
+      gaining access without actuating the turnstile mechanism.
+
+
+
+      In my opinion the over/turnstile photoelectric devices should be reinstated to detect
+
+      persons clinbing over without actuating the mechanism, alternatively, full height
+
+
+
+
+                                              5
+I
+    turnstiles (floor to ceiling) should be installed.
+
+
+
+    Where necessary, individual turnstiles should be repaired at their broken table
+
+    supporting pillars in order to iirprove rigidity and several of the units required
+
+    re-levelling.
+
+
+    End float in all the turnstile spindles should be checked and adjusted accordingly
+
+    as many exhibited approximately 4 rnm lift.
+
+
+    All ratchets, pedal mechanisms and cams should be suitably lubricated at appropriate
+
+    intervals.
+
+
+
+
+    J B HIBBS
+    Specialist Inspector (Mechanical Engineering)
+
+
+
+
+                                             6
+{   NE/FCG/14/M/19/89
+
+                                            TABLE 1
+
+                                        TURNSTILE DATA
+
+
+
+    TURNSTILE NO.           ARM - WALL                   ARM HEIGHTS (CM)
+
+          -             APPROX GAP - (CM)        SKIRT       BOTTOM RAIL*   TOP RAIL*
+
+
+          A                      2.5*             28*              58          91
+
+          B                      2.5*             ZL              58           89
+
+          C                   11.0                25              60           91
+
+          D                      9.0              23              59           90
+
+          E                      8.5              21              57           88
+
+          F                   6.5                 21              57           88
+
+          G                   10                  24              60           91
+
+
+
+
+    <t> To curved wooden block
+    * To c/1 of rail
+Fig. 1 - Gates and Turnstiles. Layout West Side
+NEFCG 131/89 14/M/18-19/89
+
+
+Based on Eastwood & Partners
+drw. no. 6708/8A
+
+See also Ralph Brade
+drw. no. 1340/04
+
+
+
+
+                                                                                      /Iq
+                                                                                             n o r th stand
+                                                                                                 Seats        \
+
+                                                                       PROGRAMMES
+                                                                 c .                                                  THE
+                                                                                                                  — OWL SHOP
+
+
+                           TO S.W. TERRACE
+                               Standing
+
+
+                                                      YARD                  TO          YARD
+                                                                         WEST STAND
+                                                                           Seats
+                               TO WEST STAND
+                                   Seats
+
+                                                  TUNNEL TO
+                                                                                                                                V
+                                                                                                                        TUNNEL TO N
+                                                CENTRE TERRACE                                                         N.W. TERRACE
+                                                   Standing                                               LADIES         Standing
+
+
+
+                        REFRESHMENTS         LADIES                    GENTS                SUBSTATION
+tfVFCC                 /y/^/za/ftt
+
+nS2
+
+
+
+
+         VISITORS]
+           ONLY
+
+
+
+
+Ge_ruuoJ WiOaJ   of-   fcufr\£bil&yo     fv©or\ cuPPrcsixcV^ sktJlg-
+
+
+
+
+Cano/ad L/iejuJ o>P LufoSfcAtoo ft —£>. fvoor\ -fcJne.           Svcin.
+                                                              ^.lO
+QclA j^ I   NA£.cV\cuvla£ t-H Q_fc   tu C n S tiiiW . ' A''
+I   f\6 S.
+
+
+
+
+                        CU
+     'YutnstiW. ' & 1
+$adoJ   r\ t   fco/iA StrjSW   V   '
+•'TuLfr\£tv*\a_
+( c t l a_V vCV£\^cxyv.x S. tw   oX .   b -tfrvS tA le-   CLiUf
+    fusT-
+I
+                                          CJb
+P^-doJL   s »-*. oJL   to<nst^\e   'Jb1
+ ^6*3
+
+
+
+
+• 'T u f n s t d l Ua_
+rvN£ri'\cu^s.Aj\ oJl   bj(n,
+                           5tA\cL   v£
+A
+
+
+
+
+Tui'As.fciiVe
+( f iA o - L   < v y ^ V \o j/'\L (L n -l   © Jc   t jJ /V x S b lile -   '   C-*   £ ~>r^
+pvfcNO
+                     ,                  *                                C22.
+         nJL fYxecUzurvuLfNA Out Lofost^nU^
+f if o   t \
+
+
+M'                                                                   u    t   .   ■-
+
+
+
+
+                                              300 to   so w   J <.
+
+
+
+
+                               '   n   I                                 B3
+SudiL (J.£jui C>f- AsrLcd          E
+RfcW A •
+
+
+
+
+                                          •0   10 6C 70 1C,   M 300   10   30 *3   3 t
+
+
+
+
+(\o u r \_   G viUla^   O k'   CiadLoJL
+«
+
+
+
+
+                             l i i l l l i Hl i i i i i i i i i l l
+
+
+
+
+    L W   O f   P ed ^ L
+                           Kkri/
+                                                                                          »   m n w *© 400»   ac » «   k 60 to ac «o500 -   *
+                                                                                                j .j i • j
+
+
+
+
+€>’j&£L          CsP PedirJL ' (J                                                                                                               C O l2>
+      \2-Pr
+
+
+
+
+                                                 11i1iH »*i1#•11ni»m » 3 0 0 »                       ,   iii•111'i'1!i   .
+                                                                                       » « O H H « 4 0 0 •0J03C « » « » » «
+                                            2 0 0 B to so *                      o *
+                                                                                         1 . 1   '                           '
+
+
+
+
+                                                                                                                                                  C 2-M-
+ P lO A .   OvftjuC)   ok   P-ccLoJL   n   cJ
+PaA^A.
+                                                                                      s*
+
+
+
+ELLISON’S                             HEAVY DEEP STRAIGHT
+                                          ARM TURNSTILES
+                                                                                        The     illustration  shows    two
+                                                                                        registering Turnstiles and one
+                                                                                        Barrier.
+                                                                                            This type of Turnstile is of a
+                                                                                                pleasing design and is
+                                                                                        generally used at Zoological
+                                                                                        Gardens. Museums, A rt Galleries,
+                                                                                        etc.. where there is a steady flow
+                                                                                        o f people and not sudden rushes
+                                                                                        as at football matches.
+                                                                                            It can be supplied either
+                                                                                        registering, controlled by foot-
+                                                                                        lever, or non-registering for exit
+                                                                                        onlv.
+
+
+
+
+                                      Ellison’s               may be lubricated by
+                                 “ Rush-preventive ”          removing the oiling screw.
+                                  Footstep Motion.                The spindle may be
+                             This footstep is fitted to all   raised or lowered to com­       Loot«n
+                                                              pensate for wear by adjust­     fecior*      |
+                             our turnstiles and ensures                                       aaiuitmf
+                             free rotation of the spindle     ing the hexagon nut as
+                             on bail, bearings which          shown.
+
+
+
+
+                                                                                                         Approximate Weights:
+                                                                                                         Turnstiles 4 cwts. each.
+                                                                                                         Barriers 2 cwts. each.
+
+
+
+                                                                                                                Prices on
+                                                                                                               application.
+
+                                                       H eight overall 3' 5 '
+
+
+W.         T.          ELLISON                 & COMPANY                                      LI MI TED
+                                     Turnstile           Specialists
+323      B O L T O N    R O AD           P E N D L E T O N                  S A L F O R D         6         L A N C S
+                                                                                    Telegram*.- Turnstiles. Manchester
+Telephone : Pen 2030
+
+
+
+
+                                                                                                                              .   " V   • • •
+          I   I I I I I I 1 1
+
+
+
+
+         LLISONS
+
+                                      Ellison’s
+                                 “ Rush-preventive ”
+                                  Footstep Motion.
+                                 This footstep is fitted
+                                 to all our turnstiles
+                                 and ensures free
+                                 rotation    of the                      assess*
+                                 spindle on ball bear­
+                                 ings which may be
+                                 lubricated by re­                        a»*»K8
+                                 moving the oiling
+                                 screw.                                   mm,
+                                     The spindle may
+                                 be raised or lowered
+                                 to compensate for
+                                 wear by adjusting
+                                 the hexagon nut as                        9tsJh
+                                 shown.
+
+                                                                                      IN
+                                                                               Height Overall 3'
+
+
+                                     T he illustration shows two registering Turnstiles and one Barrier. This type
+                                     o f Turnstile has been specially designed with extra deep convex arm s to prevent
+                                     creeping underneath and also more than one person passing through for each
+                                     paym ent. They are most effective in separating the crowd into units and are
+                                     highly recommended where great rushes are anticipated.
+                                          Can be supplied registering only, controlled by footlever, or non-registering
+                                     fo r exit only.
+                                          Approxim ate W eights:—
+                                                             Turnstiles 4 cwt. each.
+                                                             Barriers 2 cwt. each.
+                                          Prices on application.
+                                                                                                                     Series No. 6.
+
+
+
+
+W.                     ELLISON                      & COMPANY                                     LIMITED
+                                          Turnstile        Specialists
+3 2 3    B O L T O NN      R O A D            P E N D L E T O N     /     S A L F O R D            6          L A N C S
+Telephone; P en 2Q30                                                               T e.'ejfjm j   Turnstiles, M anchester
+  E L L I S O N ’S                                                                    Improved Patent Safetv
+
+                                                                                       COUNTER
+                                                                                                 Patent No. 658191
+                                                                                                 Patent No. 658226
+
+
+
+
+                                                                      3            LEAD SEAL
+
+
+
+
+                                                                                                   Screw s   Securing
+                                                                                                   To T urnstile
+
+          Made in our own W orks— strongly constructed, reliable and easily read.
+          The cover and base are provided with two apertured lugs through which a screw is passed—
+       thus securing the counter in position on the turnstile. Provision is m ade for sealing in accordance
+       with the requirements o f the Inland Revenue Authorities, so that any tampering with the counter
+       cannot be concealed.
+         • Prices on application.
+
+
+
+W . T.                E L LI SO N                & C O M P A NY                           LI M I T E D
+                                         Turnstile   Specialists
+3 23      BOLT O N          R O A D     *. P E N O LETON      ' S A L F O R D                6               LANCS
+Telephone: Pen 2030                                                             Telegrams: Turnstiles, M anchester
+                                                                                                              Srriej So. 17
+
+
+
+
+           ELLISON'S
+                                                                                 ^ e a y y
+
+                                                                       C° * ve* A
+                                                                          T ,.                   r^
+                                                                          Tur»stiles
+
+
+
+                                                                  Can be supplied either registering, controlled by
+                                                               footlever. or non-resisterins for exit oniv.
+
+                                                                                          6' lO
+The illustration shows two registering Turnstiles
+and one Barrier. This Turnstiie has been specially
+designed to prevent more than one person passing
+through for each payment. It proves its efficiency
+where great rushes have to be coped with, as it is
+most effective in separating the crowd into units.
+
+   Approximate Weight; —
+Turnstiles, 4 cwt. each; Barriers. 2 cwt. each.
+
+                     Prices on application.
+
+
+                                                                                   IN             IN
+             CO WI                                                                   Overall Height 3' 5 \
+
+                                      E L L IS O N ’S “ R U S H -PR E V E N T IV E ” F O O T S T E P M O T IO N .
+                          This footstep is fitted to all our Turnstiles and ensures free rotation o f the spindle on
+                          ball bearings which may be lubricated by removing the oiling screw.
+                              The spindle may be raised or lowered to compensate for wear by adjusting the hexagon
+                          nut as shown.
+    o
+
+
+
+
+              RUSH                   PREVENTIVE
+                                                                             With
+ ELLISON’S
+’ PATENT.        T U R N S T IL E S                                        AH Latent
+                                                                         Improvements
+
+   ■ TH E                                                                   BUY -
+     ONLY
+                                                                             NO .
+ EELIA BLE
+ MACHINE.                                                                OTHERS.
+
+
+ No m a tter how cheap aTurnstilo m ay b e, ft Is NO USE unless ACCURATE.
+                         ABSOLUTELY UNTAMPER ABLE.
+    Are u n e q u a l l e d f o r DURABILITY. ACCURACY, a n d                FINISH.
+     The following List of G ubs and JJacecouitea, amone others, that hava
+     . been supplied by us will show th a t we are the Leadin': Makers oi
+                    Turnstiles, and Imre a world-wide reputation.
+   R acecourses.             A ss o c ia tio n  Barnsley               Aberdeen
+  M anchester              F o o tb all C]ub«. H ull City              Scottish
+  H aydock P a r t         Everton             W est Bromwich A          Football Union
+  Birm inciiain            Liverpool           Southam pton            Hamilton
+, Chester                  Stoke               Preston N orth E.             Academicals
+  Keele Park               Glcssop             W olvcrham ptn W H eart -of
+  Ain tree                 Bury                Leeds City                Midlothian. &c.
+  Ludlow ‘                 Aston Villa         Birmingham                     Irish
+  Stockton                 Bristol Rover3      B rierley B ill A.     Football Clubo.
+  B edcar                  Bristol atr         Middlesbrough .. Glentoran
+  Leicester                Brentford           Crewe A lexandra Distillery .
+  Hooton Par!:.            Chelsea.            Newcastle United, CliftonviLle
+  C r i c k e t Club*. Fulham                            &c.
+  LancashireC ounty Tottenham H.                                      Shelbourne
+  B urnley                 Southport Central         S c o ttis h     Belfast Celtic
+  Somerset                 Sunderland          Footb    all   Clubs.  Bohemian.    &c.
+  W orcester * '           Bolton W anderers Celtic                         Rugby
+  Leicester            . - Sheffield United Kilmarnock                Football Clubs.
+ I.eeris. A-c.             Woolwich Arsenal Queen’s l’arS .           Salford
+   A th le tic             Portsm outh         S t. Mirren        : - Leicester
+           G ro u n d s. B lackburn Hovers Glascow itn.ngei3 Brouchtou R ngrj
+ H anley Park              Derby Coiin ty . Falkirk . .               Oldham
+ tu n ile y Land & N otts County               Morton                 W arrington
+    A tliletic Co. Ld. N o tts Forest          P o rt Glasgow         Runcorn         . '
+ I.ecd3 A th. Gmds. M anchester City Dundee                           Hull Kingston EL
+ ljiin b e g (Ireland), Sheffield W ednsdy Airdrieonians              Swinton -
+    *c.                   IM anchesterU nited Clyde                   Portsm outh, kc.
+                                   . .• xiao . .
+Glasgow Underground             Victoria Pier. Blackpool     Manchester Cor. B a t h J
+Clyde N avigation ITun’l New Brighton Tower                  Blackpool Tower Co
+Glascow New SubJElyCo Liverpool Overhead By.                 Chester HorticulL Soc.
+V ictoria IMer. ColwynBy N orth Pier. Blackpool              Central Pier. Blackpool
+Southport Pier         .        Swinton B aths               Wallasey Ferry
+B ridlington Parade ■; _• Blackburn B aths                   Stretford Baths • - '
+S t. Annes Pier                 A ltrincham B aths           B la n d B aths. 4re. .
+         Festival ol "Empire, -Crystal PaJase, 1911.          108 Va&mas.
+    P r ic e s on a p p lic a tio n .              Send     for T estim o n ials.
+
+W. T. ELLISON & CO., Ltd., ENGINEERS,
+                 lRLftM 8-0,-TH’-HEJQHT1 MANCHESTER.
+ Teiegnun* and ('abiea: “ KrusoNS J.rr»n                   - t b «JT** o « x .
+       (Three words), tfatiooai Telephone: £10. 90•* i ’W b tm im . • • /—•
+

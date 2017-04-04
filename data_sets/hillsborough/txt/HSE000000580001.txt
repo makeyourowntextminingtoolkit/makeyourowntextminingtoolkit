@@ -1,0 +1,697 @@
+                                                                     Incident Report
+                      HEALTH AND SAFETY EXECUTIVE
+
+               RESEARCH AND LABORATORY SERVICES DIVISION
+
+                      Broad Lane, Sheffield S3 7HQ
+
+
+
+                An investigation of the turnstiles at the
+                Leppings Lane entrance to the stadium
+
+
+                                  by
+
+                              G A C Games BA
+                                   and
+                              D Waterhouse BSc(Eng) CEng MIMechE FIMEMME
+
+                                               IR/L/ME/89/33
+
+
+
+
+                                             Issue authorised by: Dr A Jones
+
+                                             Date: 26 January 1990
+
+Distribution
+
+The Court of Inquiry (5 copies)
+ACC J MervynJones West Midlands Police
+Mr D C T Eves
+Mr A Barrell        TD
+Mr P G Jones        TD
+Mr M S Nattrass     FAID Area 14
+Mr J P Giltrow      HFS (N)
+Mr M R Stephenson   NE FCG
+Mr M Fountain       TD3
+Mr M James          TD3
+Mr C J Pertee       NE FCG
+Mr J B Hibbs        NE FCG
+Dr J McQuaid
+Dr A Jones
+Dr J H Foley
+Dr C E Nicholson                       TO RLSD/DIAS STAFF ONLY
+Mr P F Heyes                           NOT TO BE COMMUNICATED OUTSIDE
+Mr I R Price                           RLSD WITHOUT THE APPROVAL OF
+Mr G Norton                            THE AUTHORISING OFFICER
+Authors
+RPS                                                       SMR/343/235/01
+Library (2)
+Registry File                                             $80.02.OTH.814
+CONTENTS
+
+i   INTRODUCTION
+
+2   THE SCOPE OF THE INVESTIGATION
+
+    INVESTIGATION OF THE EFFECT OF A HORIZONTAL FORCE ON THE ’GATES’ OF
+    TURNSTILES SERVING THE WEST TERRACE
+    3.1 Turnstiles in the group A to G
+    3.2 Method of testing
+
+4   INVESTIGATION OF THE ACCURACY OF THE SYSTEM FOR COUNTING AND RECORDING
+    THE NUMBER OF ADMISSIONS THROUGH THE TURNSTILES
+    4.1 The counting and recording system
+         4.1.1 The counting device on the turnstiles
+         4.1.2 The recording and display system
+    4.2 Assessment of the accuracy of the counting and recording of admissions
+         through the turnstiles in Leppings Lane
+         4.2.1 Method of assessment
+
+5   THE AVERAGE ADMISSION REQUIREMENTS OF THE TURNSTILES
+
+6   DISCUSSION OF THE RESULTS OF THE INVESTIGATION
+    6.1 The effect of a horizontal force on the ’gate’ of a turnstile
+    6.2 The accuracy of the system for counting and recording admissions
+         through the turnstiles in Leppings Lane
+    6.3 Average admission requirements of the turnstiles
+
+    SUMMARY AND CONCLUSIONS
+    7.1 The effect of a horizontal force on the ’gates’ of turnstiles serving
+         the West Terrace
+    7.2 The accuracy of the system for counting and recording admissions
+         through the turnstiles in Leppings Lane
+    7.3 Average admission requirements of the turnstiles
+i     INTRODUCTION
+
+As part of the investigation by the Health and Safety Executive (HSE) into the
+incident at Sheffield Wednesday Football Club’s Hillsborough stadium on
+15 April 1989, Mr G A C Games, a Senior Scientific Officer, and
+Mr D Waterhouse, a Principal Scientific Officer, of HSE’s Research and
+Laboratory Services Division (RLSD) visited Hillsborough stadium on 24 April,
+25 April and 28 April 1989. They investigated aspects of the turnstiles,
+particularly those giving access to the terraces at the Leppings Lane end of
+the ground.
+
+
+2     THE SCOPE OF THE INVESTIGATION
+
+We examined a drawing labelled "Eastwood & Partners - Drawing No 8945/IA" that
+Dr Nicholson had received from Eastwood & Partners on 24 April 1989. This
+drawing had the title "Sheffield Wednesday F.C. PLC Hillsborough, Ground
+Layout 1987" and was dated 16/4/87. The drawing showed the number of persons
+(capacity) allocated to each designated zone of the stadium and showed the
+location and designation of turnstiles around the perimeter of the stadium. In
+this report the term ’West terraces’ is used as the collective name for
+the terraced zones at the West, or Leppings Lane end, of the stadium.
+
+The drawing showed two groups of turnstiles at the Leppings Lane end of the
+stadium. It appeared that group A to G could be used for admissions to the
+West terraces and the West Stand, and that some of group i to 16 could be used
+for admissions to the North Stand and some for admissions to the west terraces
+and the West Stand.
+
+Our investigation was divided into three parts:
+
+i)     tests to assess the difficulty experienced by an operator in releasing
+       the rotary ’gate’ of a turnstile when a horizontal force was applied to
+       to one of its ’wings’ (or ’paddles’);
+
+ii)    tests to assess the accuracy of the computerized system for counting and
+       recording the number of persons admitted through the turnstiles in
+       Leppings Lane;
+
+iii) calculation of the average number of persons to be admitted through each
+     of the turnstiles if all zones of the stadium were filled to their
+     designated maximum capacity, i.e. calculation of the average admission
+     requirement of the turnstiles.
+
+We were assisted by other staff of RLSD working under our supervision and to
+our instructions. Our tests to assess the effect of a horizontal force on the
+’gate’ of a turnstile were observed by officers of the West Midlands Police.
+Our investigation of the accuracy of the computerized system for counting and
+recording admissions through the turnstiles was supervised by Detective Chief
+Inspector Tope of the West Midlands Police.
+
+
+
+
+                                        -i-
+3     INVESTIGATION OF THE EFFECT OF A HORIZONTAL FORCE ON THE ’GATES’
+      OF TURNSTILES SERVING THE WEST TERRACES
+
+3.1     TURNSTILES IN THE GROUP A TO G
+
+We examined all the turnstiles in the group A to G° Turnstiles C to G appeared
+to be of the same type, but turnstiles A and B were of a different pattern and
+were slightly different from each other. However, the principle of operation
+of all the turnstiles in group A to G appeared to be the same,
+
+Fig i shows a view of a typical turnstile in group A to G. Each turnstile had
+four equally spaced ’wings’ on its ’gate’, which was attached to a spindle. It
+was apparent that a quarter-revolution of the spindle was intended to admit
+one person when the pedal of a pivoted locking lever, shown in Fig 2, was
+depressed by an operator. A counter-weight on this lever normally caused its
+inner end to engage with one of four teeth on the lower rachet of a dual cam
+assembly attached to the base of the spindle, as shown in Fig 3. Depression of
+the pedal raised the inner end of the lever, allowing the spindle to rotate
+until the upper cam drove the inner end of the locking lever back down into
+engagement with the next tooth of the lower rachet. The cam/rachet mechanism
+locked the spindle after each quarter-revolution of the ’gate’, the operator
+having to depress the pedal of the locking lever each time that he wished to
+admit a person. The rachet on the upper part of the dual cam assembly
+prevented the ’gate’ from being rotated in the reverse direction.
+
+Our examination of the turnstiles caused us to suspect that a person pushing,
+or being pushed, against a ’wing’ of a turnstile might cause the operator to
+have difficulty in depressing the pedal to release the ’gate’ It was our
+opinion that difficulties in releasing the ’gate’ might reduce the flow
+through a turnstile to below the maximum notional rate of 750 persons/hour
+that was suggested in the Home Office/Scottish Office publication "Guide to
+Safety at Sports Grounds" (H M Stationery Office: 1986).
+
+On 24 April 1989 we conducted tests on the turnstiles designated B and C to
+investigate the relationship between the horizontal force applied to a ’wing’
+of a turnstile and the force required on the pedal of the locking lever to
+release its ’gate’.
+
+3.2     METHOD OF TESTING
+
+Fig 4 shows how a horizontal force was applied to the mid-span of a ’wing’ of
+a turnstile by means of a baulk of timber, a nylon sling, a tensile loadcell
+and a ’pull-lift’ rachet-hoist apparatus. The loadcell, connected between the
+sling and the ’pull-lift’, measured the force applied to the ’wing’ of the
+turnstile on a digital display unit. We calibrated this display unit before
+making the tests by suspending standard test weights from the loadcell.
+
+We used the ’pull-lift’ to apply a force to a ’wing’ of the turnstile and then
+gently placed standard test weights on the pedal of the pivoted locking lever,
+as shown in Fig 5, until the ’gate’ was released. This procedure was repeated
+with increasing forces applied to the ’wing’. The results obtained from the
+tests are shown in the graphs of Fig 6.
+
+
+
+
+                                           -2-
+4     INVESTIGATION OF THE ACCURACY OF THE SYSTEM FOR COUNTING
+      AND RECORDING THE NUMBER OF ADMISSIONS THROUGH THE TURNSTILES
+
+On 25 April 1989 we visited Hillsborough stadium, accompanied by Detective
+Chief Inspector Tope of the West Midlands Police. We discussed the system used
+for counting and recording the number of persons passing through the
+turnstiles with Mr R J Houldsworth of Abbey Systems Ltd, whose company
+maintained and operated the computerized system for Sheffield Wednesday
+Football Club. On 28 April 1989 we conducted limited tests to assess the
+accuracy of the recording system on the turnstiles in Leppings Lane.
+
+4.1    THE COUNTING AND RECORDING SYSTEM
+
+The counting and recording system was described to us by Mr Houldsworth.
+
+4.1.1 The counting device on the turnstile
+
+An electrical switch was attached to each of the turnstiles serving the
+stadium, and signal cables connected each switch to a signal conditioning unit
+housed in a control room beneath the South Stand. Each quarter-revolution of a
+turnstile was intended to cause its switch to close and re-open, transmitting
+an electrical pulse to the signal conditioning unit.
+
+Mr Houldsworth said that he was in the process of modifying an earlier design
+that had used a roller-plunger micro-switch on each turnstile to provide the
+pulse signals. The intention of this system had been for the plunger of the
+micro-switch to be depressed as it was traversed sequentially by each of the
+four horizontal lugs of a cruciform cast metal boss that connected the upper
+tubular arms of the four ’wings’ to the spindle of a turnstile. However, the
+micro-switch was prone to mis-counts arising from the cast surface of the lugs
+and the vertical ’float’ of the spindle in its bearings, and the position of
+the micro-switches required frequent adjustment.
+
+The reliability of the pulse generation had been improved on more modern
+turnstiles serving other zones of the stadium by enclosing the micro-switches
+within the upper mounting of the spindle, but this modification had not been
+possible with the older turnstiles in Leppings Lane.
+
+The roller-plunger micro-switches on the turnstiles in Leppings Lane were
+being replaced by more robust switches that were operated by ’rat-tail’ spring
+probes. The compliant probe on this type of switch was deflected horizontally
+by the vertical tube of each ’wing’ as the ’gate’ rotated, and the correct
+generation of pulses did not depend on a relatively precise positioning of the
+switch. However, the new switches had not yet been fitted on all the
+turnstiles in group A to G; the new switches that had been installed on this
+group were attached to temporary mountings, permanent installation awaiting
+the end of the season.
+
+4.1.2 The recording and display system
+
+The pulse counts obtained from the switch on a turnstile were received by a
+storage register which was dedicated to that turnstile and formed part of the
+signal conditioning unit. The storage registers were scanned continuously and
+the counts transmitted to the central processor of a micro-computer. The
+programming of the micro-computer enabled its visual display unit (VDU) to
+
+                                         -3-
+display a list identifying each turnstile and showing the number of admissions
+through it, i.e. the number of pulses transmitted from the turnstile. The
+count of the number of admissions through each turnstile was incremented
+continuously and the admissions through the groups of turnstiles allocated to
+the zones of the stadium were displayed as accumulating totals.
+
+The system was therefore designed to count the total number of admissions
+through each turnstile and to provide a record of the accumulating total
+admissions to each zone of the stadium, i.e. Spion Kop, North Stand, West
+Stand, West terraces, etc. Financial information corresponding to the
+admission price at each turnstile was also displayed.
+
+The rated maximum capacity of each zone of the stadium was displayed on the
+VDU. A warning was provided, by means of flashing inverse contrast on the
+display, when the capacity of each zone was within 1,000 persons of its
+maximum designated capacity.
+
+The micro-computer system did not have tbackingt storage in the form of disc
+or magnetic tape. Long term storage was confined to obtaining a copy of the
+display on the VDU from a printer, although the display on the screen was
+retained in the memory of the computer until a command was typed from the VDU
+to clear this part of the memory. There were no facilities at present to
+undertake any further processing of the data held in the central storage of
+the computer.
+
+Mr Houldsworth said that on 15 April, when he realised that a serious incident
+had occurred on the West terraces, he had printed three copies of the display
+on the VDU. Apart from the relatively few turns of the tgates~ made by HSE~s
+staff whilst examining turnstiles A to G, the data in the computer memory and
+displayed on the VDU was the data that he had copied on 15 April.
+
+4.2   ASSESSMENT OF THE ACCURACY OF THE COUNTING AND RECORDING OF ADMISSIONS
+      THROUGH THE TURNSTILES IN LEPPINGS LANE
+
+We assessed the accuracy of the system for counting and recording admissions
+through the turnstiles in Leppings Lane. We concentrated the assessment on
+turnstiles designated A to G because they were labelled both "Standing Only"
+and "Leppings Lane Standing".
+
+However, we made some assessment of the accuracy of the counting system on the
+turnstiles in group 9 to 16 because, although they were labelled "West Stand",
+they might have provided access to the West terraces.
+
+4.2.1 Method of assessment
+
+Detective Chief Inspector Tope monitored turnstiles A to G whilst we observed
+Mr Houldsworth take a copy from the printer of the accumulated admissions
+displayed on the VDU. The control room was then locked and we accompanied
+Mr Houldsworth whilst he simulated 50 admissions through each turnstile in
+group A to G by rotating each ~gate~ through 50 quarter-turns, at a speed
+corresponding to approximately 2.25 sec/admission (1600 admissions/hour).
+Detective Chief Inspector Tope then monitored turnstiles A to G again whilst
+we returned to the control room with Mr Houldsworth and observed him take
+another copy from the printer of the display on the VDU.
+
+                                       -4-
+A similar procedure was used to check the accuracy of the counting and
+recording system of turnstiles 9 to 16, but each ’gate’ in this group was
+rotated through only i0 quarter-turns.
+
+We then returned to the turnstiles in group A to G and repeated the first
+test, rotating each ’gate’ through 50 quarter-turns
+
+Table i shows the results of our investigation of the accuracy of the counting
+and recording system on turnstiles A to G and 9 to 16.
+
+
+5   THE AVERAGE ADMISSION REQUIREMENTS OF THE TURNSTILES
+The number of persons (capacity) allocated to each zone of the stadium and the
+location and designation of the turnstiles were shown on Eastwood & Partners
+Drawing No 8945/IA, dated 16/4/87. The zones and their capacities are shown in
+Columns i and 2 of Table 2.
+
+On 28 April 1989 we walked around the outside of the perimeter of the stadium
+and observed any labels on the entrances to the turnstiles that indicated the
+zones they served.
+
+A printed record of the admissions to the stadium, made by Mr Houldsworth on
+the afternoon of 15 April 1989, was delivered to Dr Nicholson on 24 May 1989
+by Detective Constable Phillips of the West Midlands Police. We examined a
+copy of this record, in conjunction with Eastwood & Partners Drawing No 8945/IA
+and our observations of the labels on the turnstiles, to assist us in deducing
+how turnstiles were allocated to zones of the stadium on 15 April 1989.
+
+We deduced that the turnstiles were allocated to zones as shown in Column 3 of
+Table 2, the number of turnstiles allocated being shown in Column 4. The
+capacity of each zone was divided by the number of turnstiles allocated to it,
+giving their average admission requirements (persons/turnstile) as shown in
+Column 5.
+
+
+6 DISCUSSION OF THE RESULTS OF THE INVESTIGATION
+
+6.1 THE EFFECT OF A HORIZONTAL FORCE ON THE ’GATE’ OF A TURNSTILE
+
+The relationship between the force applied to the ’wing’ of a turnstile and
+the force required to depress its release pedal showed considerable ’scatter’
+Some variation between individual tests might be attributable to differences
+in the position at which the horizontal forces were applied to a ’wing’
+Furthermore, we could not ensure that test weights were always placed on the
+pedal at exactly the same distance from the pivot of the locking lever, and we
+would have preferred to have applied smaller increments of weight to the
+pedal. However, a frictional force had to be overcome when depressing the
+pedal to release the ’gate’, and it is our opinion that the ’scatter’ was
+principally attributable to the inherent variability of the coefficient of
+friction between unlubricated metallic surfaces.
+
+Fig 6 suggests that, typically, a pedal force - 0.56 x ’wing’ force would be
+required to release turnstile B, and that a pedal force = 1.56 x ’wing’ force
+would be required to release turnstile C, i.e. turnstile C required a force on
+
+                                        -5-
+its pedal that typically was 2.8 times greater than that for turnstile B. We
+had observed that turnstiles A and B appeared to differ in detail from
+turnstiles C to G.
+
+An operator weighing 750 N (169 ibf or approximately 12 stones) might have
+difficulty in releasing the ’gate’ of turnstile B if a force exceeding 1340 N
+(301 ibf) was applied to a ’wing’, because he might have to exert a force of
+more than his weight on the pedal to release the ’gate’. The same operator
+would probably have difficulty in releasing the ’gate’ of turnstile C if a
+force of 480 N (108 ibf) was applied to a ’wing’. It is our opinion that
+turnstiles A and B would be likely to behave in a similar manner and that
+turnstile C was representative of those in the group C to G.
+
+Variations about the predicted average force required on the pedal ranged
+between approximately plus 70~ and minus 44~ for turnstile B, and between
+approximately plus 55~ and minus 36~ for turnstile C. The stated relationships
+provide only approximate indications of the forces that might be needed to
+release turnstiles in the group A to G.
+
+6.2   THE ACCURACY OF THE SYSTEM FOR COUNTING AND RECORDING ADMISSIONS THROUGH
+      THE TURNSTILES IN LEPPINGS LANE
+
+Table i shows that the first set of 50 quarter-turns of turnstiles A to G
+caused turnstile E to record six more ’admissions’ than we had counted, and
+turnstile G to record one less ’admission’ than we had counted.
+
+The second set of 50 quarter-turns of turnstiles A to G caused turnstile E to
+record the correct number of ’admissions’ and turnstile G to record three
+fewer ’admissions’ than we had counted. Turnstile C recorded three more
+’admissions’ than we had counted, but we were interrupted during the counting
+and it is our opinion that the discrepancy was probably attributable to this
+interruption.
+
+We inspected turnstile E and concluded that the discrepancy obtained during
+the first 50 quarter-turns arose from vertical upward ’float’ of the spindle
+in its bearings and the position of the roller-plunger micro-switch. The
+combined effect was that the micro-switch occasionally appeared to be actuated
+spuriously by protrusions on the cast surfaces of the lugs of the upper
+cruciform boss that connected the ’gate’ to the spindle. The error only
+appeared during the first set of 50 quarter-turns and we concluded that it
+was likely to have occurred during the first few ’admissions’ after a period
+of inaction. It is our opinion that the error would not persist throughout a
+period of continuous operation.
+
+Turnstile G recorded fewer ’admissions’ than we had counted during both sets
+of 50 quarter-turns. We observed that the lugs of the upper cruciform boss on
+turnstile G only just made contact with the roller on the plunger of its
+micro-switch. We concluded that this uncertain contact caused turnstile G to
+record less than the correct number of ’admissions’. It is our opinion that
+this under-recording was likely to persist throughout a period of continuous
+operation and that the number of admissions recorded by turnstile G was likely
+to be less than the correct value.
+
+Turnstile 14 recorded one more ’admission’ than we had counted whilst making
+the i0 quarter-turns on turnstiles 9 to 16. However, we suspected that this
+
+                                       -6-
+discrepancy arose because the ’gate’ of turnstile 14 was in a mid-travel
+position when the test commenced. Our tests therefore suggested that
+turnstiles 9 to 16 would provide an accurate record of the number of persons
+admitted through them.
+
+We concluded that the computerized system would be likely to record the total
+number of admissions through group A to F of the turnstiles with an accuracy
+that was within 1%. In a test turnstile G recorded 6% less than the correct
+number of admissions, but we concluded that the uncertainty in the operation of
+its micro-switch might cause the under-recording to be more severe than this.
+
+We concluded that the turnstiles in group 9 to 16 would record the correct
+number of admissions.
+
+6.3   AVERAGE ADMISSION REQUIREMENTS OF THE TURNSTILES
+
+Table 2 shows that the stadium’s maximum capacity of 54,324 persons was served
+by 83 turnstiles on 15 April 1989, and that 45% (24,447 persons) of the
+stadium’s capacity were to be admitted from Leppings Lane, where 28% (23) of
+the turnstiles in use were sited.
+
+Table 2 has been arranged in descending order of the average number of
+admissions required from each group of turnstiles serving the different zones
+of the stadium. The highest admission requirement was 1,443 persons/turnstile
+for the West terraces, followed by 988 persons/turnstile for the North Stand
+Seating and by 744 persons/turnstile for the West Stand Seating. The admission
+requirement of the turnstiles for the West terraces was therefore almost 3.5
+times greater than that for the South Stand Uncovered Seating (the lowest
+admission requirement) and approximately 2.9 times greater than that for Spion
+Kop, the other terrace zone.
+
+Six groups of turnstiles served the stadium and the three groups with the
+highest admission requirements were sited in Leppings Lane. The overall
+average admission requirement of the 23 turnstiles in Leppings Lane was
+1063 persons/turnstile.
+
+The other overall average admission requirements were 500 persons/turnstile
+for the turnstiles in Penistone Road and 493 persons/turnstile for those in
+the Concourse behind the South Stand. The overall average admission
+requirement of the turnstiles in Leppings Lane was therefore approximately
+twice that of the turnstiles sited elsewhere around the perimeter of the
+stadium.
+
+We have therefore concluded that, if a maximum capacity crowd was to be
+admitted, the longest delays would be likely to be experienced by persons
+required to enter the stadium through the turnstiles in Leppings Lane;
+particularly long delays would be likely to be experienced by those with
+tickets for the West terraces. We would therefore expect larger crowds to form
+outside the turnstiles in Leppings Lane than at other places of entry to the
+stadium.
+
+
+
+
+                                       -7-
+7     SUMMARY AND CONCLUSIONS
+
+7.1    THE EFFECT OF A HORIZONTAL FORCE ON THE ’GATES’ OF TURNSTILES SERVING
+       THE WEST TERRACES
+
+7.1.1 Our tests suggested that, typically, the force needed on the pedal of a
+turnstile to release its ’gate’ was 0.56 x the force on a ’wing’ for
+turnstiles A and B, and 1.56 x the force on a ’wing’ for turnstiles C to G.
+Variations of up to 70% were obtained in the force required to depress the
+pedal and these relationships should serve only as an indication of the forces
+that might be needed to release the turnstiles serving the West terraces.
+
+7.1.2 A turnstile operator weighing 750 N (169 ibf or approximately
+12 stones) or less might have difficulty in releasing the ’gate’ of turnstiles
+A or B if the horizontal force applied to a ’wing’ was 1340 N (301 ibf) or
+more, because he might have to exert a force of more than his weight on the
+pedal to release the ’gate’. The same operator might have difficulty in
+releasing the ’gate’ of a turnstile in the group C to G if a horizontal force
+of 480 N (108 ibf) or more was applied to a ’wing’
+
+7.1.3 It is our opinion that the ease with which an operator could depress
+the pedal would affect the time taken for a person to be admitted. Therefore a
+thrust exceeding 480 N (108 ibf) that was imposed by a crowd on a person at
+the ’gate’ of a turnstile would be likely decrease the flow of persons through
+the group of turnstiles A to G.
+
+7.2    THE ACCURACY OF THE SYSTEM FOR COUNTING AND RECORDING ADMISSIONS THROUGH
+       THE TURNSTILES IN LEPPINGS LANE
+
+7.2.1 Our tests suggested that turnstiles A, B, C, D, and F would record the
+correct number of admissions. It is our opinion that the error obtained during
+the first test on turnstile E would be unlikely to persist during a period of
+continuous operation. In our opinion turnstiles A to F, as a group, would
+record the number of admissions within an accuracy of approximately 1%.
+
+7.2.2 Our tests indicated that a persistent error was likely to occur in the
+counting system of turnstile G. During a period of continuous operation this
+turnstile could repeatedly fail to count some admissions, and the recorded
+admissions could be significantly less than the correct number. We concluded
+that the error in counting at turnstile G was probably attributable to
+uncertainty of contact between the roller of the micro-switch and the four
+lugs on the upper cruciform boss of the ’gate’.
+
+7.2.3 Our tests suggested that turnstiles in the group 9 to 16 would record
+the correct number of admissions.
+
+7.3    AVERAGE ADMISSION REQUIREMENTS OF THE TURNSTILES
+
+7.3.1 We have concluded that on 15 April 1989 the spectators were intended to
+enter the stadium through 83 turnstiles, of which 23 (28%) were sited in
+Leppings Lane. If the stadium was to be filled to its maximum capacity of
+54,324 persons then 45% (24,447 persons) of this capacity would be admitted
+from Leppings Lane, through 28% of the turnstiles serving the stadium.
+
+
+
+                                        -8-
+7.3.2 The turnstiles serving the West terraces had the highest average
+admission requirement (1,443 persons/turnstile) of any group of turnstiles
+serving the stadium. It was almost 3.5 times the lowest average admission
+requirement of 413 persons/turnstile for the South Stand Uncovered Seating,
+and was approximately 2.9 times the average admission requirement of
+500 persons/turnstile for Spion Kop, the other terrace zone.
+
+7.3.3 Six groups of turnstiles served the stadium. The three groups of
+turnstiles with the highest average admission requirements were sited in
+Leppings Lane; i.e. West terraces (1,443 persons/turnstile), North Stand
+(988 persons/turnstile) and West Stand (744 persons/turnstile).
+
+7.3.4 The average admission requirement of the 23 turnstiles in Leppings Lane
+was approximately twice that of the 42 turnstiles in Penistone Road and that
+of the 18 turnstiles in the Concourse behind the South Stand. It is our
+opinion that larger crowds would form in Leppings Lane than in the other
+entrance areas to the stadium when it was to be filled to its maximum
+capacity.
+
+7.3.5 It is our opinion that, when the stadium was to be filled to its
+maximum capacity, the longest delays in admission would be be experienced by
+persons required to enter through the turnstiles in Leppings Lane, and that
+those with tickets for the West terraces would experience the most severe
+delays.
+
+
+
+
+                                      -9-
+Table i Results obtained from the counting and recording system
+         on the turnstiles at the Leppings Lane end of the stadium
+
+’Gates’ rotated at approximately 2.25 sec/quarter-turn (1600 admissions/hour)
+
+Turnstile        Computer record    Quarter-turns      Comments
+designation      Initial Final      Counted Recorded
+
+A   (rat-tail)   1062     1112     50       50
+B   (rat-tail)   1017     1067     50       50
+C   (plunger)    1301     1351     50       50
+D   (plunger)    1272     1322     50       50
+E   (plunger)     976     1032     50       56   spindle ’float’; switch position
+F   (rat-tail)   1066     1116     50       50
+G   (plunger)     612      661     50       49
+
+Total A to G 7306         7661     350     355
+
+
+
+9                 634     644      i0      i0
+i0                582     592      i0      i0
+ii                754     764      i0      i0
+12                609     619      i0      i0
+13                784     794      i0      i0
+14                755     766      i0      ii    starting position of ’gate’
+15                836     846      i0      i0
+16                665     675      i0      i0
+
+Total 9 to 16 5619       5700      80      81
+
+
+
+A   (rat-tail)   1112    1162      50      50
+B   (rat-tail)   1067    1117      50      50
+C   (plunger)    1351    1404      50      53    counting interrupted
+D   (plunger)    1322    1372      50      50
+E   (plunger)    1032    1082      50      50
+F   (rat-tail)   1116    1166      50      50
+G   (plunger)     661     708      50      47
+
+Total A to G     7661    8011      350     350
+Table 2 Admission requirements of the turnstiles serving the
+         zones of the stadium
+
+Zone                *Capacity    Turnstile          Number of       Average persons
+                     (persons)   designation        turnstiles      per turnstile
+
+West Terrace         i0,i00      A to G              7              1,443 }
+                                                                            }
+North Stand             9,882    i to 8          i0                   988 } Leppings
+Seating                          9 and i0                                 } Lane
+                                                                            }
+West Stand              4,465    ii to 16                             744 }
+Seating                                                                     }
+South Stand             5,567    23 to 32        i0                   557 } Concourse
+Covered Seating
+
+Spion Kop            21,000      37 to 78           42                500 } Penist’n Rd
+
+South Stand             3,310    19 to 22                             414 } Concourse
+Uncovered Seating                33 to 36
+
+
+TOTAL               54,324                       83                   655
+
+
+* Taken from Eastwood & Partners Drawing No 8945/IA, dated 16/4/87
+
+
+Admissions from Leppings Lane      24,447
+                                            x i00 = 45%
+Admissions to stadium              54,324
+
+
+Turnstiles in Leppings Lane        23
+                                 = -- x i00 = 28%
+Turnstiles serving stadium         83
+
+
+                                                 24,447
+Leppings Lane average admission requirement    = ------- = 1063 persons/turnstile
+                                                   23
+
+                                                  21,000
+Penistone Road average admission requirement                     500 persons/turnstile
+                                                         42
+
+                                                  8,877
+Concourse average admission requirement                       493 persons/turnstile
+                                                     18
+           89O4-O97/46A
+                             Fig.1 -A typical turnstile serving the West Terrace,
+                                           viewed from the exit
+
+
+
+
+           8904-097/83
+                             Fig.2 - Pivoted locking lever; the release pedal is
+                          depressed to allow the spindle of the turnstile to rotate
+
+
+CROWN COPYRIGHT
+            8904-097/84
+                                Fig.3 - Dual cam assembly on the lower end of
+                                           the spindle of a turnstile
+
+
+
+
+                            i
+
+
+
+
+            8904-106/5
+                          Fig.4 - The equipment used to apply a horizontal, known,
+                                      force to the ’wing’ of a turnstile
+
+
+CROWN COPYRIGHT
+            8904-106/10
+                          Fig.5 - Standard test weights applied to the release pedal
+                                  of the pivoted locking lever of a turnstile
+
+
+
+
+CROWN COPYRIGHT
+

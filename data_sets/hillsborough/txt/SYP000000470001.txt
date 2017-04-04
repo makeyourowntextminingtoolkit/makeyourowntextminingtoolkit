@@ -1,0 +1,301 @@
+                    n o t e p a d        t e m p l     a t e   :.
+
+ T S l * J r Piute il intended to assist the Receiver/Statement Reader to
+ identify those documents which are to flagged by use of the NOTEPAD
+
+C.OPJ.M.C ,             interpretatt     ON
+
+* **INOUT Y** *         INSIDE/OUTSIDE THE GROUND & MATERIAL                        ID
+***INOUTX ***
+                                      "             "    "         & NON-MATERIAL
+***INY***               I N S I D E TH E G R O U N D & M A T E R I A L
+                            "       "             " & NON-MATERIAL
+***OUTY***             OUTSIDE THE GROUND & MATERIAL
+***OUTX***                  "       "             ''  & NON-MATERIAL
+***OEQY***             DECEASED & MATERIAL
+ ***DECX***                 "          & NON-MATERIAL
+ ***INJY***            INJURED PERSON & MATERIAL
+ ***INJX***                 "        "           & NON-MATERIAL
+|***POLYSY***          POLI C E , S O U T H Y ORKS & M A T E R I A L
+ ***POLXSY***              "        "             ''   & NON-MATERIAL
+ ***POLYMS***          POLICE, MERSEYSIDE & MATERIAL
+ ***POLXMS***              "        "             "   & NON-MATERIAL
+ ***POLYNC***          POLI C E , N O T T S & M A T E R I A L
+***POLXNC***               "         "         & NON-MATERIAL
+* **POLYOT* **         PO LI C E , O T H E R F O R C E & M A T E R I A L
+* **POLXOT* **             "        "             "    & NON-MATERIAL
+***POLPRAISE***        P O L I C E A C T I O N PRAISE, A P P R E C I A T I O N
+***POLADVERSE***       POLICE ACTION CRITICISED, ADVERSE COMMENT
+
+
+   THE RECEIVER/STATEMENT READER SHOULD TICK THE APPROPRIATE BOX(ES) TO
+   DIRECT THE INDEXER TO ATTACH THE MARKED CODING TO THE DOCUMENT
+   BEING INDEXED VIA +IN.
+  C A T E G O R Y               T E M P L A T E    .      (Version I I )
+
+
+Please        tick   those    category   boxes   which   are    a p p l ic a b l e     tor   i rrU'X i ncj
+
+ST A N D S                                                 MEDICAL
+Spion        Kop                                           Doctor
+North        Stand                                         P o l i c e Surqpnri
+South        Stand     Seated                              S u r cje o n
+                       S t a n d i ng                      P atholog Is t
+P e n 1& 2                                                 N u rse
+P e n 5-7                                                  St    Johns       Arnb
+WEST STAND
+                                                           SUPPORTERS
+P O L I C E O F F I C E R ON DUTY.                         I, i v e r p o o 1
+South Yorkshire                                            N o 1.1 s F o r e s t
+M e r s e y s ide                                          01he r
+Nott i n g h a m s h i re
+                                                           EMERGENCY           SERVICES
+P O ^ C E OFFICER OFF DUTY                                 Fire      E3r i qa c l e
+M e r s e y s ide                                          Ambu1a n e e
+Nottinghamshire
+South Yorkshire
+Others
+                                                           RECOGNITION
+MEDIA                                                      B r a v e r y Acts
+Press                                                      Awards
+TV                                                         Appreciation
+Radio                                                      Adverse Comments                        L—J
+                                                           C o m p l a i nt
+G R O U N D STAFF.
+Steward                                                    P U B L I C BODIES
+Turnstile Operator                                         Local Au th o r i t y
+Catering                                                   Health & Safety
+O ther                                                     FA
+                                                           Football Trust
+LOCAL RESIDENTS
+H o^Be to House                                           CONSULTANTS                 & FIRMS
+Shopping                                                  Safety
+Other                                                     C o n s t r uct ion
+                                                          Other
+PUBLIC
+Letter
+Telephone
+                                                          Broken Barrier Pen 3
+                                                          S u r g e s in C r o w d                 a
+V i s i t to P o l i c e   Station                        A t t e n d e d semi final
+                                                          in 1988.
+
+ANY CATEGORY NOT SPECIFIED
+                                                          LETTER        REQUIRED             Y/N
+                                                                                                   □
+ Incident           102         0 2 0 5 8 9 OP 1 0 0 0 2               TYPING         SERVICE          DOCUMENT
+
+                                                                                                      &    ^f^feiENT             number        S47
+jiJ & iJ U ftiW jA Aojml lu t'd         @                                       c J ^ f AW A& ■
+                                                                                                                                              Station
+
+  Surname                                          K/ \ /2 ~ S 0
+
+  F orenames
+
+  Age                                                                          Date        of   birth
+
+  Address
+                                 CROXTETH,             LIVERPOOL.
+                                                       _I>HEF            11
+
+  Oc c u p a t i o n             WAGE CLERK                                                            4=2>
+                                                                                                   &
+                                                          /
+  Telephone
+
+                                 Height
+                                                   V                           Build
+  IC
+
+  Hair     colour
+
+  h^^r     type
+
+  Elyes                                                                        C o m p l e x ion
+
+  Facial       hai r
+
+  Glasses                        Use                                           Accent
+
+  Number       of P a g e s      5
+
+  Dated                          270489                                                                                                         Si g n e d
+
+
+                 I am        employed         at                                                          Ai nt r e e , L i v e r p o o l .      I am
+
+                 a Liverpool             s u p por te r and           I hold         a season          ticket        which        usualy
+
+                 entitles            rne to       tickets       for    the     big     matches.              I a t t e n d all       the       home
+
+                 games        w i t h a set         of    friends,           some     of    whom       work      w i t h me.        The
+
+                Sheffield             match,        being       a semi        f i/tal , I w a n t e d          to a t t e n d     and     I
+
+                 q u a 1 ified        for     a    ticket,       w h i c h jf ia s    a twelve            pound Lepping             Lane       West
+
+                Stand         ticket        whi ch       is a s e a l e d      area,
+
+                On      the     d a y , there          was    a group         of     about      eleven         of us,       t rave H i ng        ir (
+                                                                                                                     rJ\r-'h\o
+                three         cars.         In the        car    I was        in t h e r e      was,       St ep he n Westergrin,
+                        N/'f.
+                                                                      w as    in his        own    car       and     we met        him    in
+                                                                                                                wK
+                Sheffield.              A man          called                                   and                               t ravel led           in
+
+                a      car    to S h e f f i e l d       where    we     met        them.       In the         other      two      cars       that      we
+
+                went         with,     were I                                  I,                                  and    thei r s o n
+                                                                                                                                                 PAGE
+                                                                                                                                                 547
+
+                          and                         is t e r                      and       also
+
+    the    other          car w e r e        four        people           I d i d n ’t. r e a l l y           know.            The    drivers
+
+    name    was                  and       is     th e     manager            of t h e                       Pub     in C o s b y      another
+
+    fellow       wa s      called                           and        ttafey h a d           two     women with               them,       I think
+
+    they    were          their       wives.                     /
+
+    We    travelled             to    the       game       irin a      three         car        convoy        stopping           off       at    a ^pub
+
+    on    the    w a y , I d ont             know/the            n ame        of     it,        its a b o u t        fifteen          m i l e s from
+
+    the    ground          down a narrow                   l a n e , and            last       year        the     lane        was    blocked          off
+
+    by    the    pol i c e ,         this/time             I d ont          recall            seeing         any     police          in the
+
+    area.        We       had a       couple          of    drinks           and         left       at     abyff      1330pm          to    1345pm.
+
+                 and                    had       lef t     a few m i nu t e s                 eapf'i e r .          I noticed             in the j:«ub
+
+    a    number       of L i v e r p o o l           fans     w ho w e r e           having           a    drink.          T h e y we re         in
+
+    good    humour          but       not       drunk.           The        r oad        to    the        g r o u n d was       busy       with       heavy
+
+    traffic       but       it w a s         moving.             We       got       to    the       vicinity          of       the    ground          but
+
+    had    to    go       some       way     to      park.           At     one      point          we   w e r ^ s t o p p e d by a foot
+                                                                                                         /
+    patrol       policeman              who       greeted              us     to     a        pa r k i tig' area, but we f o u n d a
+
+    space       nearer          and     parked           on a g a r a g e            fore         tJ*ourt.           This      was about
+
+    1445p m .         We    thj^T s t a r t e d            to w a l k         towards            the       gro u n d ,     we    knew       our       way
+
+    from    going j p e              previous            y e a r , but          I    d i d n ’t see a n y                 police man
+V
+    di r e c t i,n g ^ f ans , of            which         there were                hundreds               walking         w i t h us,     Idont
+                      y
+    remember/any                body       running          it was           more         a fast           w a lk.        We    got    to       the
+
+                iles       and       c r o w d at        about         1450pm            to     145 5 p m .        During        the       walk       to
+
+    uT#r g r o u n d       I did       not        se e     any       drunkeness,                 fighting            or    disorder,
+
+    everybody             seemed        to      be    inyfood             spirits.               My       ticket      was       marked          for
+                                                         dL______
+    gate    C the W e s t             S t a n d . J_______J i n d               I were           the       only      ones       with       tickets
+
+    for    the    West          Stand, / o           we     stayed           together               and went          to       the    turnstiles
+
+    marked       1- 16      on       the     Sheffield               W e d n e s d a y F.C.               Hillsborough               Ground       map.
+
+    1 d o n t r e m e m b e r p a s s i n g t h r o u g h a n y g a t e s to get to the t u r n s t i l e s .
+
+    At    the    turnstiles                there         were        no     q u e u es,        just        a mass         o f people,
+
+    possible          a thousand                people       all          round          the     turnstiles.                   I saw a
+                                                                                                                                                     PAGE
+                                                                                                                                                     S47
+                                                                                                                                         ^          ^
+                 policeman with                    a    rating s t a n d i n g        on    the (roof          of    the      turnstile            tha      we
+
+                 were      going          towai^fC.            This       turnstile            was    the~one            fu7tlTeiT~'
+
+         d\ok    right,         as     we w e n t           towards       i t , we      had a b l u e          fence        to    our    right
+
+                 I s a w a nuirtber of                      fans,    at    lea s t *tw
+                                                                                    «C.e        dozen         climb       the     fence       to    our
+
+                 fight,         get       onto         the    roofs              he     turnstiles            and        then     down       into    the
+
+                 3r o u n d .        The      policeman             on    the    roof w a s          only     a     cou p l e     of    feet       from
+
+                 them      but       he     did        nothing       to    stop       them      either        by a c t i o n       or w o r d ,      he was
+
+                 j^st      looking           at        the    coem d      approaching             the      turn      stiles.            I saw       about
+
+                 f ou r    mounted            po   1i car m e n in the c rowd a r o u n d the t u r n s t i l e s ,                                but
+
+                 there         appearedy f t i t t l e             that    they       could       do.         I didn't           see    any    other
+
+                 police         men            stewards             in t h a t       a r ea.     We       moved      through           the    crush        of
+
+                 peopli^japd e v e n t u a l y                 through          the     t u r n s t i l e , where           my    t i c k e t was
+
+                 checked.              We    then went              into       the    area      ina r k e d    1-16       o n the map.              T he
+
+                 ticket         wa s      m a r k e d as       to w h i c h      entrance            to    use      to    get     to    the    seats,
+
+                 and      we    followed               the    signs       we    saw.        1 think           I remember           seeing          two
+
+                 policemen             in t h a t           area,    standing           about,        they        did     not     appear       to    be
+
+                 directing             any     body,          I d i d n ’t see a n y            stewards.                I d i d n ’t see          any
+
+                 gates         opened,         or a n y        signs       of    disorderlyness                   nor     did     I notice          anybody
+
+                 drinking            alcohol. / T h e               game       had    started         and     we     just        wanted       to    get     to
+
+                 our      seats
+
+                 We    found         our j^eats, a n d               saw       two m e n       had    taken         them,        they    argued          but
+
+                 m o v e d , we >1J e n            watched          the    g ame      for      about       two      minutes        when a
+
+                 policeman             ran o n t o           the    pitch an^/the               g ame      was      stopped.            At    that       t ime   I
+         \ 0                               <                                      y
+                 was      not    aware         of a n y        problem jL n           the      standing           area     b e l o w me.           I was
+
+                 toward         the       b ack        of    the    st<
+
+                 I saw         somebody            climb       thgf f e n c e        onto      the    pitch,         he    seemed        to    be
+           O '
+                 staggering               a b o u t , a n d / t h e n more            people         went     over,        and     I saw       poli ce
+
+Q   qJ           do i ng       first        a i d a n d / t ryi ng         to    help       f ans     over        the     f e n c e.     I also          sa w
+
+                 othe r f a n s , helping,                     giving          aid and         using       stretchers
+
+                 I stayed                                     unt ill      about        1645pm when              a tannoy announcement
+                                                                                                                             PAGE
+                                                                                                                             S47
+
+           told    us    t ha t    the   game      had    been abandoned,             this       was     when    we   left.
+
+           After    t he m a t c h       stopped,        dozens       and    dozens    of      po 1 i c e m e n a p p e a r e d    on
+
+           the    pitch     in a       line     between       the L i v e r p o o l   f an s     and     the N o t t i n g h a m
+
+           Forest       fans      on   the     half     way   line.         It   struck     me    t hat     they wo ul d          have
+
+           been    better         used    in    c o n t r o l 1 ing   theXrQwds        prior        to    the m a t c h    sta rting,
+
+                                                                                                                           SIGNED
+             1
+STATEMENT    TAKEN
+             PLACE :
+
+             TIKEs                             DATE s
+
+WITNESS    TO S I GNATURES
+
+OFFICERS    SIGNATURES
+
+El®OF   REPORT
+

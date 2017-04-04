@@ -1,0 +1,1358 @@
+In the Leeds District Magistrates Court
+5th July 1999.
+
+                        Adlinuton v. Duckcnfield: Adlinuton v. Murray
+
+
+
+            Revised Skeleton Arizumcnt o f the Prosecution on Abuse o f Process
+
+
+
+                        Prelim inary issue; the Timing o f the Argument
+
+1      The issue in respect o f every charge is whether the defendant concerned should be
+       committed to stand trial. He should be committed if (a) the prosecution show that a
+       reasonable jury, properly directed, could convict.-unless (b) the defence show that in
+       all the circumstances o f the case it would be an abuse o f process to commit him.
+
+2      It is submitted that this composite question should be examined after the evidence has
+        been heard or read: after the issues have been identified: and after such evidence has
+        been presented as the parties want to adduce on the issues o f sufficiency and fairness.
+        The defendants, by contrast, want to have the abuse o f process issue resolved first.
+
+            The legal principles to be applied to determine the prelim inary issue
+
+The importance o f all the circumstances
+
+3      The question o f abuse o f process is to be determined "in the round", and involves "a
+       single appreciation o f what is or is not unfair": per Lord Mustill in Tan v. Cameron
+        [1992] A.C. 205, 225E. The European eases on Article 6 (1 ) o f the European
+       Convention on Human Rights also recognise, in the words o f the paragraph 5.3 o f the
+       skeleton for Mr Duckenfield. that the question o f delay "must be examined against
+       the background and circumstances o f the case." Mr Justice Buckley ruled in the
+       second Maxwell trial that "Fairness is a view the court comes to after an objective
+       assessment o f all the circumstances." (Defence papers, tab 3, page 5) He cited the
+       ground set out by Lord Lowry in R v. Horse ferry Road Magistrates Court, ex parte
+       Bennett [1994] 1 A.C. 42. 74/5:
+
+               " [whether] it offends the court's sense o f justice and propriety to be asked to
+               try the accused in the circumstances o f a particular case."
+
+4      A balancing exercise has to be undertaken, so that the court can determine,
+       exceptionally, whether the proceedings amount to "an affront to the public
+       conscience", and whether it would be "contrary to the public interest in the integrity ot
+       the judicial system that a trial should take place".
+
+               per Lord Steyn in R v. Lot i f \ l c) % | 2 Cr. App. R. 92. 101A-D
+        The legal principles to he applied on the general abuse o f process issue
+
+5   There is no doctrine o f issue estoppel in English criminal law. R v. Humphreys [1977]
+    A.C. 1. The doctrine o f autrefois acquit and autrefois convict provide the only
+    circumstances in which fresh criminal proceedings are barred by earlier proceedings.
+    A verdict o f a coroner’s jury cannot prevent the institution o f a criminal case.
+
+6   Examining justices, as well as courts o f trial, have an inherent power to stay
+    proceedings on the ground o f abuse o f process; R v. Telford Justices, ex parte Badhan
+    [1991] 2 Q.B. 78. The rationale is. however, that
+
+            "We think that a plea o f abuse should be open to an accused subject at the
+            earliest opportunity." (90A) (an opportunity that was not taken in the present
+            case.)
+
+7   In Attorney-G eneral's Reference (No 1 o f 1990) (1992) 95 Cr. App. R. 296, it was
+     said by the Court o f Appeal that:
+
+            (i)     a stay for delay or any other reason was to be imposed only in
+                     exceptional circumstances:
+
+            (ii)    even where delay could be said to be unjustifiable, a stay was to be
+                     regarded as the exception rather than the rule:
+
+            (iii)   even more rarely could a stay be imposed in the absence o f fault on the
+                    part o f the complainant or prosecutor: and
+
+            (iv)    never w hen the delay was due to mere complexity or contributed to by
+                    the defendant's actions.
+
+8   The Divisional Court has held that it is not sufficient for explanations to be given by
+    advocates o f facts relevant to abuse o f process. Evidence should be called:
+
+            R v. Clerkenwell Stipendiary Magistrate, ex parte Bell (1991) 55 J.P. 669.
+
+9   The case o f R v. Bow Street M agistrates Court, ex parte Director o f Public
+    Prosecutions (1992) 95 Cr. App. R. 9 establishes two propositions:
+
+           (i) the magistrates' court, where it examines the matter, has a primary role as a
+           court o f first instance, and has therefore a discretion to find facts and to rule
+           upon them which will be challengeable only if the magistrate has exercised his
+           discretion in a W ednesbury irrational way (page 17) : and
+
+           (ii) the court will look at the issue arising in the case in order to determine
+           whether delay has caused prejudice (in that case, the question whether notes
+           were made contemporaneously or not; page 20-1).
+10    In R v. D erby Crown Court, ex parte Brooks (1985) 80 Cr. App. R. 164, the
+       Divisional Court examined the facts in order to determine whether there had been
+       unconscionable delay in bringing proceedings where they were part o f the same
+       course o f criminal conduct as had been determined at an earlier trial. The Divisional
+       Court held that there had been no unconscionable delay, causing prejudice, because it
+       was clear that the defendant had admitted the charge. (It is the case for the
+       prosecution here that a jury is entitled to treat the defendants as having admitted guilt:
+       and that probably the only issue left outstanding is whether in the view o f the jury, the
+       negligence which caused death was bad enough, in each case, to be characterised as
+       "gross" .)
+
+Publicity
+
+11    Reliance will be placed on the principles set out in cases reviewed in both Maxwell
+       cases, namely, by Phillips J in the first unsuccessful abuse o f process application in
+       the M axwell case in March 1995. and by Buckley J in September 1996. It is
+       unnecessary to repeat the principles here.
+
+12     The authorities show that the courts recognise a "fade factor". The effect o f publicity
+       is best left to be determined on the brink o f a trial. There is no authority which
+       suggests that a magistrates court may stay a case on the ground of unfair publicity.
+
+                 The relevance o f previous defence attempts to stop the case
+
+13     The defence argument o f William Clegg QC headed "Regina v. Duckenfield. Skeleton
+       Submissions", dated 7th June 1999. suggests that the argument to be presented is
+       effectively a repetition p f the arguments put before the Crown Prosecution Service
+       between July and December 1998. when application was made that the CPS should
+       take over and discontinue the prosecution in the exercise o f its powers under sections
+       6 (2) and 23 (3) o f the Prosecution o f Offences Act 1985. No separate skeleton
+       argument has been received from solicitors or counsel for Mr Murray.
+
+14     The defence application, after the most thorough review lasting nearly six months,
+       was determined against them in the exercise o f a wide statutory discretion in the light
+       o f the CPS Code o f Practice, established policy, and the facts and background to the
+       case.
+
+15     An argument that the CPS had acted unlawfully and irrationally in determining not to
+       take over and discontinue failed in judicial review proceedings in the Divisional Court
+       before three judges in March 1999. (See Annex P, paragraph 57 o f the statement o f
+       Ann Adlington)
+           The function o f an abuse o f process application in the present case
+
+16   The examining magistrate must not be asked to act as a court o f review of, or appeal
+     against, the decisions o f the Crown Prosecution Service and Divisional Court. He
+     must exercise his own distinctive jurisdiction if the abuse o f process application is to
+     have any value independently o f the reviews that have already taken place. It is
+     notable that he was not asked at the earliest opportunity, that is. after the issue o f
+     summonses, to stop the case as an abuse o f process. (See ex parte Badhan, at
+     paragraph 6. above.)
+
+17   The distinctive function o f the magistrate is the ability to hear and receive oral
+     evidence on the issue. The power to stop a case that is otherwise properly brought is
+     an exceptional one. and should not be exercised on the basis o f bare assertions that the
+     prosecution is oppressive, and that there has been unfairness and delay producing
+     prejudice.
+
+18   The defence skeleton argument produced so far makes no serious attempt to analyse
+     the issues arising in the previous inquiries, and scarcely identifies findings in them. It
+     appears that copies o f those inquiries and reports have not even been produced to the
+     magistrates' court. The docum ent fails to set out the issues arising in the current
+      prosecution, and does not disclose the defence. The court is therefore unable to test
+     whether prejudice will be caused by the passage o f years.
+
+19   The prosecution has set out the evidence it can give on this issue in a witness
+     statement. The prosecutor will give evidence, if her statement is not accepted, and
+     will face cross-examination about the prosecution's motives, past conduct, and the
+     question whether it was feasible to mount a prosecution earlier than 1998. These
+      issues have been raised by the defence during the last year. The defendants should
+     also be prepared to give evidence on these issues, and identify the oppression they
+     have suffered (as was done in. for example, the Maxwell applications), and set out the
+     ways in which they will be prejudiced by the passage o f time.
+
+20   The evidence presented so far by the defence consists o f press cuttings, supplied on 1st
+     July, in spite o f an order o f the court on 26th April 1999 that they should be supplied
+     to the court on 28th June, and 2 1st June to the prosecution. It appears that not even an
+     effort has been made to produce a balanced selection o f press coverage against which
+     to test the extraordinary assertion as to:
+
+             "The intemperate and wholly inaccurate media coverage o f the police role in
+             the disaster." (Skeleton page 11)
+
+                       The Issues as they appear to th'e Prosecution
+
+21   What is in dispute? Paragraph 6:3 o f the defence skeleton refers to the "unfair" media
+     coverage and "prejudice". However, it is not said how. or in what respects, the
+     coverage is "unfair", nor why it is said to be "wholly inaccurate", nor in what respects
+
+
+                                              4
+       it has caused "prejudice". The complaint made implies that there is an established
+       version o f the truth, which the coverage wrongly contradicts. To make good
+       propositions that delay and publicity will cause prejudice, the defence must show
+       what the true police role was.
+
+The significance o f the Interim Report o f the Taylor Inquiry
+
+22     It seems to be implicit in the defence argument at paragraphs 2.2 and 2.10 that the
+       defence accepts the Taylor Inquiry as accurate. The court should therefore accept, in
+       the absence o f evidence from the defence to the contrary, that the Taylor Inquiry
+       represents the truth, against which to test the arguments that media publicity is
+       "wholly inaccurate", and that delay is prejudicial to the presentation o f the defence.
+
+23     It is wrongly asserted by the defence that the prosecution "refuses" to accept the
+       decision (paragraphs 2.2 and 2.10). The elementary falsity o f the defence proposition
+       that the prosecution repudiates the findings is easily demonstrated. The important
+       background findings in the Interim Taylor Report relevant to the allegation o f
+       manslaughter demonstrate this:
+
+               paragraph 166 : the police had accepted de facto responsibility for monitoring
+               the pens at Leppings Lane; only M r Duckenfield denied this;
+
+               paragraph 184 : "By 2.52 pm when Gate C was opened, pens 3 and 4 were
+               overfull even by this test. Many were uncomfortable. To allow any more into
+               those pens was likely to cause injuries: to allow a large stream in was courting
+               disaster.":
+
+               paragraph 196: drunkenness was not a major factor in the build-up at the
+               turnstiles;
+
+               paragraph 200-2: the press at the turnstiles was not caused by a large body o f
+               tieketless fans :
+
+               paragraphs 205-8: contrary to the argument o f the South Yorkshire police,
+               there was no conspiracy by the Liverpool supporters to arrive late.
+
+24     The central findings o f the Inquiry are at Chapter 11. headed "The blunder on opening
+       the gates".
+
+               Paragraph 231: "Planning apart, however, it should have been clear in the
+               control room where there was a view o f the pens and the crowd at the
+               turnstiles that the tunnel had to be closed. If orders had been given to that
+               effect when Gate C was opened, the fans could have been directed to the
+               empty areas o f the wings and this disaster could still have been avoided.
+               Failure to give that order was a blunder o f the first magnitude."
+              Paragraph 265: "The immediate cause o f the gross overcrowding and hence
+              the disaster was the failure, when Gate C was opened, to cut o ff access to the
+              central pens which were already overfull."
+
+25    The prosecution does not challenge or "refuse to accept" any other aspects o f the
+       Taylor Inquiry dealing with other, and less direct, causes o f the disaster, nor does it
+       challenge the criticisms o f other bodies, firms, or individuals involved.
+
+The general acceptance o f the Taylor findings as to the "police role"
+
+26    The Taylor findings have been accepted by :
+
+               (i) the prosecution:
+
+               (ii) Lord Justice Stuart-Smith;
+
+               (iii) the Crown Prosecution Service:
+
+               (iv) the South Yorkshire Police force.
+
+27    Lord Justice Stuart-Smith cited (evidently with approval) paragraph 23 1 o f the Taylor
+       Report, set out above. He stated at paragraph 23 o f his report;
+
+               "Neither Counsel appearing on their behalf or any o f the families who I have
+               seen in interview had any criticism o f Lord Taylor's Inquiry o f the conclusions
+               that he reached."
+
+28     At paragraph 66 he said:
+
+               "I have heard the suggestion that the verdict o f accidental death at the inquests
+               in some way undermined or reversed the findings o f Lord Taylor. But it did no
+               such thing."
+
+29     The Crown Prosecution Service accepted the Taylor findings See Chapter 1,
+       paragraph 52 o f the Stuart-Smith Report in which on extract from the advice o f
+       leading counsel is cited:
+
+               "In our judgm ent therefore the Taylor analysis is as from a basis as any from
+               w hich to approach the question o f Criminal Liability."
+
+30     Lord Justice Stuart-Smith plainly did not accept Mr Duckenfield's assertion that he
+       had misled people innocently, for good reasons, about the circumstances in which
+       Gate C became open. At paragraph 100 he referred to
+
+               "M r Duckenfield's disgraceful lie about Gate C being forced open by tans".
+
+
+                                                 6
+31   The C h ief Constable o f the South Yorkshire said in August 1989 (Stuarrt-Smith
+     report, paragraph 45): f       3 ■
+
+             "I aeeept the findings and conclusions o f the Inquiry in so far as they relate to
+             South Yorkshire police."
+
+32   His successor, Mr Richard Wells, said in a letter to the Yorkshire police on 25th
+     January 1992 (Stuart-Smith report, paragraph 50) : A ' 3 ,
+
+             "The truth is that Lord Justice Taylor described the failure o f the police to
+             close o f f the tunnel leading to the terracing as a "blunder o f the first
+             magnitude". South Yorkshire police has consistently and unequivocally
+             accepted the truth o f this finding. "
+
+33   The South Yorkshire police have accepted in court that the "blunder o f the first
+     magnitude" negligently caused death. In Alcock v ( ' hie f ( 'onstable o f the South
+      Yorkshire Police [1992] 1 A.C’. 310 Lord Keith o f Kinkel observed;
+
+             "The South Yorkshire police force, which was responsible for crowd control at
+             the match, allowed an excessively large number o f intending spectators to
+             enter the ground at the l.cppings Lane end. an area reserved for Liverpool
+             supporters. They crammed into pens 3 and 4. below the West Stand, and in
+             the resulting crush 95 people were killed and over 400 physically injured......
+             The C hief Constable o f South Yorkshire has admitted liability in negligence in
+             respect o f the deaths and physical injuries."
+
+34   In Frost r. C h ie f Constable o f the South Yorkshire Police |1997| 1 All.E.R. 540.
+      544b-c, in the High Court action brought by police officers at the ground, it was said
+      by Rose I.J:
+
+             "The immediate cause o f the disaster was a senior officer's decision to open
+             the outer gale without cutting o ff access to the pens. Liability for the deaths
+             and injuries o f those spectators has been admitted by the three defendants, the
+             first o f whom is the Plaintiffs Chief Constable."
+
+     and per Lord Steyn in the 1louse o f l ords appeal in the same ease White v. C h ie f
+     Constable o f the South Yorkshire Police 11998| 3 W.1..R. 1509:
+
+             "It is admitted by the C hief Constable that the ev ents were caused by the
+             negligence o f the police in allowing the overcrowding o f two spectator pens."
+
+35   This acceptance o f liability, in the lay lor Inquiry and subsequently, has plainly
+     referred to the failure in the control room, and to the failures in command. Mr
+     Duckenfield was suspended by the C hief Constable after the Taylor Inquiry. The
+     Police Com plaints Authority charged both these defendants (in vain) with neglect.
+
+
+                                              7
+36      Neither defendant has disputed the Taylor findings in any documents the prosecution
+        has seen, nor have their lawyers denied negligence on their behalf in any documents,
+        seen by the prosecution, presented to the CPS in 1998, the South Yorkshire Police
+        Authority, or the Divisional Court in 1999.
+
+The relevance o f the defence acceptance o f support and fu n din g fr o m the South Yorkshire
+police fu n d
+
+37     Furthermore, the defendants have asked for the financial support, and obtained it,
+        from the South Yorkshire Police Authority, and have procured the active support o f
+       the Chief Constable and Assistant Chief Constable to defend these proceedings and
+        pay all their expenses. It is submitted that no defendant intent on disputing that his
+       actions were negligent and had caused 96 deaths would accept funding from a body
+        which has persistently accepted that the negligence o f which he is accused was the
+        direct and immediate cause o f the catastrophe.
+
+38     The only reason offered by the defence for the assertion that the prosecution fails to
+        "accept" the "conclusions o f the [Taylor] Inquiry" (paragraph 2.10) appears at
+        paragraph 2:3 :
+
+                "Lord Taylor did not recommend the criminal prosecution o f Duckenfield for
+                any offence."
+
+39     This is sophistry. The terms o f reference o f the Taylor Inquiry were clear, and had no
+        reference to the question o f prosecution. They were (paragraph 2):
+
+                "To inquire into the events at Sheffield Wednesday football ground on 15th
+                April 1989 and to make recommendations about the need o f crowd control and
+                safety at sports evenis."
+
+40     Judges, whether o f the Court o f Appeal or not. do not. as a matter o f basic
+        constitutional propriety, recommend that an individual be prosecuted. In a
+        controversial public inquiry, it would have been an abuse o f power to have done so.
+        The terms o f reference o f Lord Justice Stuart-Smith included the question o f drawing
+        the attention o f the DPP to any new evidence. Even such limited terms o f reference
+        were absent from the Taylor Inquiry.
+
+41     The decision whether to prosecute was one for the Crown Prosecution Service, who
+       would obviously study the report upon publication. In cases o f which otherwise the
+       CPS might be ignorant, judges from time to time ask that they study matters that have
+       come to light in court. Judges criticise people in their reports o f inquiries, but they do
+       not recommend prosecution. The defence is invited to offer an example o f a
+       "recommendation" by a judge in a public inquiry that a specific individual be
+       prosecuted.
+
+
+
+                                                 8
+The material significance o f the Stuart-Smith Inquiry
+
+42     It is right to say that the prosecution does not accept many o f the findings o f this
+        report. However, its findings that the approach o f the Taylor Inquiry is sound and has
+        survived intact for 10 years is accepted in full. The Report dispels wholly and
+        expressly the impression created by the decision o f the DPP not to prosecute (taken a
+        year after the Taylor Inquiry), and by the verdict o f the Coroner’s jury), that fresh
+        evidence had come to light undermining it. (See paragraphs 52, 53 and 66). It was not
+        the purpose o f the "Scrutiny" to decide whether there was eyitlence o f negligence or
+        manslaughter or not. (The terms o f reference are set outj *t page v, paragraph 3.)
+
+Other possible issues in the case
+
+43     Even if the defendants do not, accept that the truth o f the police role is as set out in the
+       Taylor Report, it is the prosecution's case that probably the only substantial issue
+       before the jury is likely to be whether the negligence o f the defendants, causing death,
+       is in the opinion o f the jury sufficiently bad to be characterised as gross within the
+       Adom ako definition.
+
+D iscretionary or technical issues
+
+44     It is possible that one defendant may say he relied or was entitled to rely on the
+        conduct o f the other, or argue that the negligence was the other's alone. Such a
+        defence is not prejudiced by the passage o f time. The primary events are recorded on
+        videotape and in transcripts o f the defendants' evidence. A body o f evidence has now
+        emerged showing a dishonest concealment by the South Yorkshire police, supported
+       prim a fa c ie in some respects by the defendants, o f the previous practice o f closing the
+        tunnel at cup games. None o f the evidence relating to these questions can seriously be
+        affected by the passage o f time.
+
+45     The only other realistic possibility is that the defence will seek to exclude evidence of
+       admissions made by them, or the videotape evidence, on some discretionary or
+       technical ground, so that the prosecution cannot prove the necessary primary facts
+       before the question o f evaluating the defendants' conduct can arise. It is suspected that
+       such a defence may be presented, because neither defendant has indicated a
+       willingness to make admissions o f primary facts going beyond the committal. If such
+       a defence is to be taken, the delay is not o f course damaging to the defendants in any
+       way; it may positively assist them.
+
+46     In this connection, it should be noted that the position o f the C hief Constable o f the
+        South Yorkshire police, who supports the defendants and has procured the payment o f
+       their legal fees and expenses from public funds."has refused to hand over any primary
+       document or exhibit, unless in response to a witness summons or clear guidance from
+       the CPS or court.
+
+
+
+                                                 9
+47     In the absence o f defence evidence, the prosecution will invite the court to approach
+       the question w hether publicity has been unfair, and whether the offence will be
+       prejudiced by delay, on the basis that the Taylor approach to the Inquiry is correct.
+
+
+
+                     Replies to specific assertions in the defence skeleton
+
+
+
+The inquest proceedings a n d the C PS decision not to prosecute
+
+48     The prosecution argues that both the CPS and the Coroner were misled, because
+       highly selective material was provided to them by the West Midlands police. To that
+       extent, for present purposes, it is right to say that the decisions o f those bodies are not
+       "accepted". Those two authorities were given over 100 fraudulently edited
+       statements o f South Yorkshire police officers by West Midlands police and 11% o f
+       the evidence as a whole. The Stuart-Smith report was misled over the edited
+       statements. West Midlands police regarded themselves as the agents o f the South
+       Yorkshire police in the matter o f disclosure to outside investigating bodies. These
+       matters are comprehensively dealt with in the Representations. Annexes A-D adopted
+       in the witness statement o f Ann Adlington o f 30th June 1999. on which reliance is
+       placed.
+
+49     In particular, the evidence o f 1988 practice as to closure o f the tunnel was regarded, it
+        appears, as critical in the decision whether to prosecute.
+
+50     Since last autumn, fresh material has come to light. The defence has failed to
+       associate itself with the prosecution's requests to achieve disclosure o f the material in
+       the Hillsborough archive, held by the South Yorkshire police. The briefing notes o f
+        16th 17th and 19th April 1989, disclosed by the Assistant Chief Constable in response to
+       an application for a witness summons which he opposed, reveal prim a fa c ie. that the
+       South Yorkshire police misled the inquiries about the previous practice o f closing the
+       gate, in addition to editing out o f officers' statements references to 1988. They also
+       disclose a fundamentally irregular and partisan approach to the investigation into the
+       truth o f the disaster.
+
+51     The most recent correspondence, produced as Annex O in the witness statement o f
+       Ann Adlington. suggests that the Coroner knew o f a statement o f Inspector White in
+       which he says he drew the attention o f the defendant Murray before the 1989 game to
+       the closure o f the tunnel in 1988. I f it is true that he informed M r Manning, solicitor
+       to the defendant Murray, o f this in a private conversation, no respect can be
+       maintained for the integrity o f the coronal process in this case. Dr Popper does not
+       suggest that he told other lawyers; and as Mr Croston rightly concedes, the matter
+       goes to the core o f the issue o f manslaughter. The audi alteram pa rte principle
+       apparently does not apply in the Sheffield coroner's court; and the decision not to call
+       White was made apparently on the basis o f anecdote, not medical evidence.
+
+
+                                                10
+52    It is not yet known whether Mr Manning disputes that he was party to a private
+      conversation with the Coroner about the question o f W hite’s missing statement. N or is
+       it known how many other informal conversations about the central issues in the
+       inquest took place in secret between the Coroner and lawyers for the South Yorkshire
+       police.
+
+Defence Skeleton; "Oppression"
+
+53    It is said that the proceedings are "oppressive", but not how the defendants have been,
+       and are being, oppressed. Such a contention cannot be accepted without evidence.
+       Both defendants retired from the police force on "health grounds". Duckenfield went
+       sick in July 1991, two years after suspension on. it is assumed, full pay, and just after
+       the Police Complaints Authority directed that he face a disciplinary charge o f neglect
+       o f duty. Three months later, he was retired by his Chief Constable, and the charge
+       against him was dropped.
+
+54    Lord Justice Stuart-Smith dealt with this at paragraph 58. His opening chronology at
+      paragraph 5 is wrong, however. The dates o f 1990 in paragraphs 4 and 5 should read
+       1991. See statement o f Ann Adlington. paragraph 28 and Annex F.
+
+55    The charge against M r Murray was then dropped, and he too left because he said he
+      was sick. There are two logical possibilities. One is that Mr Duekenfield was not
+      really too ill to serve, and his alleged sickness was a deception. (Neither defendant,
+      eight years later, claims to be ill.) Alternatively, he. or both o f them, were genuinely
+      too ill to serve, though each has now recovered.
+
+56    If the first o f these possibilities is true, no court would entertain a submission that a
+       later trial o f the issues, evaded earlier by deception, was unjust. If the second is true,
+       no trial could have taken place during the illness o f either defendant, and that period
+       should be ignored. The defence is invited to deal with this matter by evidence,
+       subject to cross-examination, and specifically to prove the date by which the
+       defendants became well enough to be tried.
+
+57    The defendants should also give evidence o f other respects in which the present trial is
+      oppressive. Such evidence was presented in both applications by the defence in both
+      Maxwell trials. In the second o f these, to which the defence points in the present case,
+      the judge attached great weight to the evidence he heard from a defendant's wife.
+
+Defence Skeleton: Exposure to legal process
+
+58    The suggestion is made in the defence skeleton:
+
+              "The position o f Duckenfield is. it is submitted, unique, no other defendant
+              will have been subjected to such a level o f public and judicial scrutiny and at
+              the same time analysis by the media prior to the com mencement o f legal
+               proceedings."
+
+59     If this argument is intended to do more than make the trite statement that every
+       defendant’s case is unique, it is manifestly false. It purports to establish, without any
+       evidence, that Duckenfield’s treatment by inquiries and courts has been more onerous
+       than any other defendant.
+
+60     Duckenfield has given evidence for a few days to the Taylor Inquiry and Inquest. He
+       has not had to face or give evidence in any disciplinary or criminal proceedings. He
+       has had free legal advice and representation. He has been able to retire to the South
+       Coast on health grounds, presumably with his pension, and thus to avoid trial by
+       tribunal for neglect o f duty.
+
+61     In serious fraud cases, defendants have commonly to undergo many days o f
+        interrogation by the Serious Fraud Office. DTI inspectors, insolvency examiners, and.
+        in terrorist cases, up to seven days interrogation in custody-
+
+62     In the Zeebrugge case, defendants were accused o f manslaughter and gave evidence in
+        two sets o f highly publicised inquiries, namely, before an Admiralty judge and a
+        coroner’s inquest which were publicised, thus providing an almost identical precedent
+        to this case. (Transcript attached). The abuse o f process application was dismissed.
+
+63     By com parison with other defendants in notorious cases, it is not accepted that
+       Duckenfield’s was simultaneously subjected to a unique "analysis" by the media. It is
+       not accepted that his name is known to the public. The "analysis" o f the media o f his
+       conduct must surely have fallen far below that o f the Maxwell brothers, the Guinness
+       defendants, Rosemary West, and the Bulger defendants. It was obviously eclipsed by
+       the publicity in the Lockerbie ease.
+
+64     The ratio o f the second Maxwell abuse o f process application does not appear from
+       the extract cited in the defence skeleton at page 6. It is that, where (a) counts were
+       properly joined in an indictment as forming a single course o f conduct, but (b) were
+       severed in the interests o f manageability, and (c) the first trial had resulted in
+       acquittals, it would be wrong in all the circumstances o f the case to ask for a second
+       verdict o f the jury on essentially the sam e course o f conduct.
+
+
+
+Defence Skeleton; Hostile Publicity
+
+65     Even a cursory reading o f the ruling in the first Maxwell case will be sufficient to
+       reject the broad and unsupported assertion at paragraph 6 :3 o f the current defence
+       skeleton that;
+
+               "The media cov erage in this case has been unprecedented."
+66    In spite o f publicity far worse than appears in the present case, which pre-judged
+      identified issues in the case, the Maxwell trial resulted in acquittals.
+
+67    It is submitted that, as a matter o f ordinary personal observation, the press coverage in
+      this case cannot be said to have exceeded in intensity or volume that arising in other
+      notorious cases, such as the Zcebrugge, Maxwell, Rosemary West, James Bulger,
+       Kray brothers. Savundra. Guinness. Tracey Andrews and Lockerbie cases.
+
+Defence Skeleton; D elay
+
+68    The facts are alleged in the defence skeleton at page 9. Evidence is given by Ann
+      Adlington about the question o f an earlier prosecution It is submitted that the
+      decision not to institute a prosecution is obviously explained though lack o f access to
+      statements, information and money, and a willingness, in the early stages, to trust in
+      the institutions o f the legal system.
+
+69    The expression "elected to seek to persuade the coroners jury to return a verdict o f
+      unlawful killing" is met by evidence from Ann Adlington as to the reason for
+      submitting to the full inquest in the autumn o f 1990 in paragraph 18. The dominant
+      desire was to find facts.
+
+              "Once again it should not be forgotten that an inquest is a fact-finding exercise
+              and not a method o f apportioning guilt. The procedure and rules o f evidence
+              which are suitable for one are unsuitable for the other. In an inquest it should
+              never be forgotten that there are no parties, there is no indictment, there is nor
+              prosecution, there is no trial, simply an attempt to establish facts, a process of
+              investigation quite unlike a criminal trial where the prosecutor accuses and the
+              accused defends, the judge holding the balance or ring."
+
+              per Lord Lane CJ in R r. South .London Coroner, ex parte Thompson
+              (Unreported. 1982). cited in R r. West London Coroner, ex parte Gray [1988]
+              Q .B .4 6 7 . 473D.
+
+70    The process is. o f course, even less like a judicial process if a coroner regards him self
+      as free to hold secret talks about a central issue with the solicitor to one interested
+      party, and if that solicitor agrees to such a beneficial ex parte arrangement.
+
+71    It is observed, without ev idence, at page 9. para 4:3. that:
+
+              "..the prosecutor has had the advantage o f professional adv ice throughout."
+
+72    This is a recklessly misleading misstatement, unsupported by evidence. The true
+      position appears in A nnex B to the statement o f Ann Adlington. the Representations
+      o f 24lh Septem ber 1998 at paragraph 2. a copy o f which was served on the defence by
+      the CPS last year, and in the present statement.
+73    Present leading counsel was involved in the Judicial Review from September 1993 to
+      N ovember 1993, and from December 1996. He was not asked to advise on criminal
+      law until 1998. Otherwise lawyers have from time to time advised the HFSG on
+      specific aspects o f the case, often without fee, ad hoc, usually on questions o f
+      compensation, coronal or specific public law matters. The Group has not have the
+      advantage o f public funds to allow it the luxury o f professional legal advice
+      "throughout", let alone the resources to allow for detailed advice on a private
+      prosecution. The false assertion betrays a complete and insensitive
+      misunderstanding o f the difficulties o f persons who seek to conduct major public law
+      disaster litigation without access to public money.
+
+Eleven years on death row
+
+74    The comparison o f this case with that o f Charles. Carter, and Carter (Defence
+      Skeleton, page 9-10) cannot withstand examination. The defendants had been in
+      custody from July 1987 on a capital charge, had been convicted but succeeded on
+      appeal; had then been tried again, but the jury disagreed: and had then faced a trial in
+      September 1996 and been convicted and sentenced to death.
+
+75    The defence suggest in the instant case, by reference to the Charles case, that
+
+              "The effect o f having been tried three times can be compared with having to
+              undergo the strain o f the Inquest. Inquiry and Scrutiny".
+
+76    This passage fails to point out that neither defendant, each o f whom lives in freedom
+      and comfortable retirement, gave evidence to the "Scrutiny". Otherwise, the
+      comparison with conditions in Trinidad is too ridiculous to call for a reply.
+
+77    Paragraphs 4.6 and 4.7 cite the judgm ent o f the Divisional Court and a comment on
+      the "Scrutiny" about the recollection o f witnesses. The first o f these is a reference to a
+      passage at page 4 1 E o f the judgment: the reference to the second is apparently a
+      composite reference to parts o f paragraphs Chapter 7. paragraphs 16 and 18 o f the
+      Stuart-Smith report. Both passages relied on by the defence refer to specific facts
+      relating to the individual circumstances o f particular cases. Those passages have no
+      application to the large central issue in this case, that is. the failure to close the tunnel
+      when the central pens were full. This is a matter recorded on video, and the
+      defendants have had their minds directed to the issue from the mom ent o f Mr
+      D uckenfield's "disgraceful lie."
+
+78    In any event, unless the defence indicate what the defence is. it is impossible to test
+      the proposition that the defence w ill be prejudiced bv the passage o f time.
+
+
+
+
+                                                14
+Selection o f Witnesses
+
+79     Under the general heading "Delay" in section 4. there appears at paragraph 4:10 a
+       gratuitous attack on the integrity o f the prosecution, which is not linked to any o f the
+       propositions on which the court is asked to stay the case. It is said;
+
+                "Furthermore it is submitted that the prosecution has conspicuously failed to
+                act in accordance with the principles that underlie the criminal justice system
+                in this country "
+
+                "It is submitted that the choice o f witnesses relied on by the Crown [s/c] is
+                highly selective and designed not to assist the court but to present the worse
+                [s/c] possible case against the accused."
+
+80     It is not clear whether the second passage is the justification for the first, or only one
+        example o f the "conspicuous failure". Since this document is dated the 7Ih June, it is
+        presumed that it refers to the statements supplied last August, and supplemented
+        earlier this year. The informations presented with the summons showed that the case
+        was brought to reflect the Taylor Inquiry's findings, which have, as set out above,
+        been generally accepted. Evidence is given to this effect by Ann Adlington. Since
+        no evidence or material is given in support o f the accusation it cannot be answered.
+
+The prosecution evidence on abuse o f process
+
+81     The prosecution relies on the material contained in the statement o f Ann Adlington o f
+        30th June 1999. including the material put before the CPS in the 1998 review, in order
+        to demonstrate various matters o f which the following may be the most significant:
+
+
+
+        (a)     that the CPS and (probably to a lesser extent) the Coroner were misled about a
+                number o f matters, including the apparently critical evidence o f previous
+                practice in relation to the closure o f the tu n n e l:
+
+        (b) that p rim a fa c ie the defendants took part in that process o f concealment at the
+                 early stages o f the investigation in 1989;
+
+        (c)     that South Yorkshire police controlled and limited, in its own and the
+                defendants' interests, the process o f disclosure o f evidential matters to the
+                CPS. and Coroner;
+
+       (d)      that the alleged and much vaunted independence o f the West Midlands police
+                over the years has been a sham:
+
+       (e)      that it is overwhelmingly probable that the South Yorkshire police continues to
+                hold, on no lawful basis, documents which will powerfully support the
+
+
+                                                  15
+               prosecution’s case;
+
+       (f)     that the prosecution is not to blame for the delay;
+
+       (g)     that the defendants continue to accept funding and support procured by a
+               police body which has been responsible for the concealment o f important
+               evidence.
+
+Abuse o f Process; the balance
+
+82     It is clear the court exercises a weighing function in abuse o f process applications.
+       See L a tif cited above at paragraph 4. and R v. M ullen. in which there were serious
+       material breaches o f the com mon law duty o f disclosure. The gravity o f the offence
+       must be taken into account. There were ninety-six fatalities at Hillsborough. Apart
+       from the unsupported attack at paragraph 4.10, the Defence Skeleton argument does
+       not suggest the prosecutor has acted in bad faith. It is not suggested that the
+       prosecution has withheld material, or procured the issue o f the summonses by
+       incomplete information.
+
+83     It is intended to submit further crystallised written submissions in the light o f the
+        evidence called at the hearing.
+
+84     Separate submissions will be made as to the effect o f European law on Monday 5,h
+        July.
+
+
+
+
+3 Raymond Buildings
+Gray’s Inn
+London WC1
+
+
+
+2 July 1999                                                    Alun Jones QC
+
+
+
+
+                                                               Hugh Davies
+
+
+
+
+                                                16
+                               Witness; Ann Marie Adlington
+                                        Age; Over 21
+                                   Occupation; Solicitor
+                       Address; 41 North John Street Liverpool L2 6RR
+
+This statement, consisting o f 13 pages, each signed by me, is true to the best o f my knowledge
+and belief, and I make it knowing that if it is tendered in evidence I shall be liable to be
+prosecuted if I have wilfully stated in it anything which I know to be false or do not believe to
+be true.
+
+Signed;   -/j. ff\ .
+
+Dated 30 June 1999
+
+1     I am a Solicitor employed by Liverpool City Council, working at the above address. I
+       have been seconded to work as solicitor to the Hillsborough Family Support Group by
+       the Council under section 137 o f the Local Government Act 1972.
+
+2     I laid the informations which instituted these criminal proceedings before the Leeds
+       District Magistrates Court in July 1998 pursuant to a decision o f the Group as a whole
+       to bring a prosecution.
+
+3     I make this statement to respond to factual assertions advanced in the written
+       argument dated 7th June presented on behalf o f David Duckenfield. This statement is
+       intended to supplement the submissions made on behalf o f the prosecution in the
+       course o f the review by the Crown Prosecution Service in 1998, when the defendants
+       asked the CPS to take over and discontinue the prosecution. I attach as annexes the
+       following documents, and adopt their contents;
+
+                 Annex A ;   Representations o f 24th August 1998 and attachments ;
+                 Annex B;    Representations o f 24th September 1998 and attachments ;
+                 Annex C;    Representations o f 2nd October 1998;
+                 Annex D;    R epresentations o f 9th October 1998.
+
+4     I have waited until now to make this statement because I was expecting a skeleton
+       argument and evidential material on behalf o f Bernard Murray, and evidential material
+       by way o f press statements, which Mr Clegg QC told the court on 26th April would be
+       supplied to me in advance o f committal, and a w eek before the material went to the
+       magistrate.
+
+5     I have been told on 29 June 1999 that Mr C legg’s argument is to be adopted on behalf
+       o f Bernard Murray. I have still not received the press material, but consider that I
+       should lodge this statement in advance o f committal nonetheless.
+
+Signed;   //.   f'A ■ $cLl<Vky                                Witnessed;
+
+
+
+
+                                                 1
+t
+
+
+
+
+    The previous inquiries
+
+           It is alleged, among other things, that the prosecution refuses to accept the conclusions
+           o f the Taylor Inquiry, the “Scrutiny” o f Lord Justice Stuart-Smith, the verdict o f the
+           coroner’s court, the judgement o f the Divisional Court and the decision o f the DPP;
+           and that a prosecution could have been brought a long time ago.
+
+    7      In order to deal with these arguments, it is necessary to consider the history o f the
+           investigations into this case. The prosecution has always accepted the central findings
+           o f the Taylor Inquiry, which were endorsed in full by the Stuart-Smith “Scrutiny” o f
+           1997-8. I can speak about much o f the history with detailed personal knowledge.
+
+    8      I have worked for public authorities in Liverpool since 1974, except for five years
+           when I studied to obtain a law degree, and then to qualify as a solicitor, between 1979
+           and 1984. When the disaster occurred in 1989 I was employed as senior solicitor for
+           Merseyside Residuary Body, but on 19th November 1 9 8 9 1 began work for Liverpool
+           City Council as a special projects assistant. I had no involvement in the Taylor Inquiry
+           at all.
+
+    9      I was aware that in the immediate aftermath o f the disaster Liverpool City Council had
+           set up the Hillsborough Disaster Working Party. Part o f its terms o f reference was to
+           establish the truth o f the circumstances surrounding the disaster. Initially, I had no
+           involvement with the Working Party.
+
+    10     In May 1990 I m oved offices within the City Council. Shortly afterwards I became
+           aware that some Hillsborough families made regular visits to a research officer in the
+           next office. I was introduced to one o f the families, who were having problems with
+           their lawyer.
+
+    11     I was struck by the families’ anguish because I had the impression that the Inquiry
+           conducted by Lord Justice Taylor had got to the truth and had delivered findings which
+           had satisfied the families. During the following months I was introduced to more
+           families, who were deeply troubled at the progress o f the investigations into their
+           relatives’ deaths. The commonest complaint concerned the lack o f disclosure by the
+           various authorities o f information relating to the deaths.
+
+           The “mini-inquests” had been held in April and May 1 9 9 0 .1 learned that information
+           supplied at the mini-inquest had been restricted to who the deceased were, when and
+           where they died and the medical cause o f death. The impression I got was that, rather
+           than putting families’ minds at rest, these inquests had raised more questions than
+           answers. Pathological evidence had been adduced in each case. The remaining
+           “evidence” had consisted o f a written summary o f the evidence specific to each case
+           which had been compiled by the West Midlands Police. The summaries had been read
+           out by a W est Midlands Police officer. The families had had no access to the witness
+           statements supporting the summary. Thus, cross-examination had not been possible.
+    Signed                                                        Witnessed;
+
+
+
+                                                   2
+13     The Coroner had ruled that he would not allow any controversial questions to be asked
+       for fear o f prejudicing the criminal investigation then being conducted by West
+       Midlands Police on behalf o f the DPP, Furthermore, I knew that some families were
+       expressing doubts about the accuracy o f the summaries by reason o f the limited
+       information they had obtained themselves from various sources, including survivors o f
+       the disaster.
+
+14     Another concern was that the pathological evidence that had indicated in every case
+       that death had been sudden and pain-free had been used by South Yorkshire Police in
+       the High Court before Mr Justice Hidden, sitting in Liverpool in June and July 1990, to
+       defeat claims for pre-death suffering.
+
+15     The families were represented by various solicitors acting as the “ Steering Group o f
+       Solicitors”, who formed the “Hillsborough Steering Committee”. The most prominent
+       o f these were D ouglas Fraser and Elizabeth Steele, who have had no involvement in
+       the case since the Inquest. The solicitors do indeed seem to have agreed to the mini­
+       inquest procedure, but I have subsequently learned that a number o f families did not
+       know that such agreement to the procedure had been given.
+
+16     My initial role in relation to the Hillsborough disaster was an informal one. I gave
+       advice where I could and drafted letters for families who were in completely unknown
+       territory. Apart from trying to obtain information as to the circumstances in which
+       their relatives died, they were also having to tackle the complexities o f the law relating
+       to compensation. They were very clearly still grief-stricken, and many were unable to
+       articulate their concerns and priorities.
+
+17     The Director o f Public Prosecutions announced his decision not to prosecute on 30th
+       August 1 9 9 0 .1 know that there was discussion with outside lawyers in the autumn o f
+        1990, which I heard about from families at the time, o f the possibility o f private
+       prosecutions. I believe that there had also been discussion between some a number o f
+       families and lawyers at the end o f the Taylor Inquiry about the question o f private
+       prosecutions. Many people could not understand, in the light o f the very clear findings
+       in the Interim Report o f Lord Taylor, how the Director could have com e to a decision
+       not to prosecute. There were suspicions o f a cover-up.
+
+18      The prevailing view , however, in both years was that the authorities should proceed
+        with their statutory investigations; the DPP in 1989; and the Coroner in 1990. This
+        feeling was particularly strong in the autumn o f 1990. Nearly a year and a half after the
+        disaster, people wanted with deep yearning to discover more about the circumstances
+        o f the deaths, a desire which was stronger than a wish to see those identified as
+        responsible by Lord Taylor punished. Nevertheless, it was considered by many o f those
+        desperate for the inquest to take place that fresh evidence might emerge in the course
+        o f the inquest which would justify a prosecution, as had happened in the Zeebrugge
+        tragedy. In that case, after a coroner’s jury had returned verdicts o f unlawful killing,
+        the DPP had instituted a prosecution. The trial w as heard at the Central Criminal Court
+        in September and October 1990, and was followed in Liverpool with close interest.
+Signed;                                                        Witnessed;
+        (j f     /   }     .   {    \    d      i    A         S        *'   ------------------------------
+19        In the weeks preceding the resumed inquest in November 1990, it was proposed that
+           the Steering Committee would instruct counsel to represent any bereaved families who
+           were prepared to contribute towards the costs. It was initially suggested that families
+           each make a contribution o f £3,000. Some families were concerned that such a large
+           number o f divergent interests could not possibly be represented by a single legal
+           representative at the resumed inquests.
+
+20        Accordingly, I contacted a solicitor in private practice and arranged for him to meet
+          some o f the families who had expressed concern. The purpose o f the meeting was to
+          discuss the possibility that he might instruct junior counsel to act on behalf o f
+          approximately half a dozen families. From memory the families o f the following
+          deceased attended:- Ian Glover, Philip Hammond, Adam Spearritt, Peter Tootle and
+          Gary Church.
+
+21        It was apparent that the interests o f even this small number o f families were very
+           different, and that, if they were represented together by one lawyer, a false impression
+           might be created that they, as a group, had a single interest separate from the single
+           interest o f the remaining families. In the end, most o f these families chose to stay with
+           the Hillsborough Steering Committee. Certainly, as far as the family o f Philip
+          Hammond was concerned, they were faced with the huge dilemma o f either remaining
+           with the Steering Committee who had been involved through the Taylor Inquiry and
+           the mini-inquests, or changing to somebody who did not have this background
+           knowledge. O f course, if these families had withdrawn from the Steering Committee
+           group, the costs to be borne by the other families would have increased.
+
+22        In the end the Steering Committee was instructed by a group o f forty-three families
+          who each eventually contributed £3,500, because the inquest went on longer than
+           expected. I know that this cost was an enormous burden to many families.
+
+23        The resumed inquests began on 19thNovember 1990 and closed on 28th March 1991.
+          During this period I w as aware o f families’ increasing concerns at the way the inquests
+          were being conducted. These concerns are still strongly held by the group as a whole.
+          Some are as follows:-
+
+          the imposition o f the 3.15 cut-off time;
+
+          the disparity o f legal representation - the families’ sole representative was
+          outnumbered by about eight lawyers representing the various South Yorkshire
+          authorities;
+
+          the hostile treatment o f supporter witnesses in comparison to the protective attitude o f
+          the Coroner towards police officers giving evidence. Families felt that effective cross-
+          examination o f police officers was very difficult on account o f the number o f
+          interventions by the Coroner, purportedly under Rule 22;
+
+
+Signed;     ( \ . ff[ _ (\ cL                                     Witnessed;
+
+
+                                                      4
+1
+
+
+
+
+          the undue emphasis placed on blood-alcohol levels o f the deceased and repetitive cross
+          examination o f the supporter witnesses by counsel and solicitors for various South
+          Yorkshire police officers as to the amount o f alcohol they had consumed;
+                                                           Pfi&CSh&it
+          the inference from Mr Hale representing Supt Greenwood that some o f the victims
+          possibly caused the deaths o f others by arriving at “the very last minute with a great
+          deal o f alcohol inside him and had made his way right down to the front, pushing and
+          crushing, and had caused some deaths       ”;
+
+          the reading to the jury o f a long statement o f “recollections” compiled by Supt
+          Marshall which consisted mainly o f Marshall’s personal opinion o f events on the day.
+          His theory o f drunk, ticketless and hooligan supporters, deliberately conspiring to
+          delay entry to the ground w as recounted in great detail to the Jury. His statement then
+          went on to criticise the findings o f Lord Justice Taylor. Finally, his statement (read out
+          by W est Midlands police), purported to respond to complaints made by families to the
+          Police Complaints Authority which w ere still being formally investigated by the PC A;
+
+          the lack o f disclosure to the bereaved o f witness statements relating to the deaths o f
+          their loved ones. (Annex B, paragraphs 83-89; Letter o f 28th March to Sandra Stringer,
+          and to Trevor Hicks o f November 1990);
+
+          the Coroner’s summing-up which, as far as families were concerned, undermined the
+          findings o f Lord Justice Taylor in many respects.
+
+    24   The verdicts o f accidental death in 1991 were demoralising for the families in the light
+          o f the above features and the findings o f the Taylor Inquiry. The Steering Committee
+          considered that further action would not succeed. The view s o f a junior barrister
+          contacted in June 1991 by Trevor Hicks, Chairman o f the HFSG, were sought upon
+          the prospects o f a judicial review o f the verdicts, but nothing came o f it at that stage,
+          having regard to the need for a new lawyer to study volume o f evidence given at the
+          inquest, and the probable expense.
+
+    25   The families were not, o f course, in possession o f the financial means to bring a
+          prosecution, and had very few statements o f witnesses. Money w as short. Between
+          eight and ten families had attended the inquest every day, travelling daily from
+          Liverpool between Novem ber 1990 and the end o f March 1991, and many more had
+          attended the inquest on numerous occasions. Unlike the South Yorkshire police
+          officers, they did not have the benefit o f public funds to finance their legal
+          representation, and o f course they had had to pay their own travelling costs.
+
+    26   Furthermore, the principal complaints that I heard were still that families did not know
+          the full circumstances o f the deaths, because o f the 3.15 cut-off. Som e families
+          continued to search for information from the South Yorkshire police, and I drafted
+          some o f the letters.
+
+                                                                           Witnessed;
+
+
+
+                                                    5
+         A typical response is attached from Chief Superintendent M ole o f December 1991
+         (attached as Annex E). Information w as withheld by reason o f the pending disciplinary
+         proceedings!"           ^
+
+The Police Complaints Authority charges
+
+27       It had been publicly announced very soon after publication o f the Interim Taylor report
+         in August 1989 that Mr Duckenfield had been suspended from duty. On 11th July
+          1991 it w as announced that the Police Complaints Authority had directed the bringing
+         o f charges against the tw o defendants for neglect o f duty. (Relevant documents are
+         Annex F)                                                                              —
+
+28       I believe that on 26th July, Chief Superintendent Duckenfield went on “sick leave”.
+         On 29th October 1991 it w as announced that he was to be retired from the force by the
+         Chief Constable on “health grounds” on 10th November. The discipline proceedings
+         against him therefore lapsed. Thereafter, South Yorkshire police asked the PCA to
+         withdraw the remaining charge against Mr Murray, and on 13 th January 1992 the PCA
+         agreed. Murray then retired from the force, again on health grounds, in August 1992.
+         Mr Duckenfield’s retirement on “health grounds”, after tw o years suspension, was
+         regarded in the Group as a device to avoid his responsibility, and to leave the force
+         with his pension intact.
+
+29       However, this abandonment o f the disciplinary charges did not cause a significant
+         change in the matter o f disclosure. Annex G is an example o f a letter written by Chief
+         Superintendent M ole on 4th March t992~claiming that the authority o f the makers o f
+         statements w as necessary before statements could be released. This policy resulted in
+         the disclosure o f some statements, but the withholding o f others, because in a number
+     ^   o f cases the witnesses cjifa concerned did not consent. In any event the policy only
+         operated in the case o f statements o f witnesses whose identity was known to the
+         families.
+
+30       Subsequent requests to the Coroner have been met by responses such as those set out
+         in the letters o f the Coroner, Mr Dorries, to Mr Hammond o f 8th and 20th May 1992, to
+         Mr Spearitt o f 10th August 1992 and to Donna Carlile o f 28th February 1995 (Annex
+         H ); only documents used or read out in the Inquest could, by virtue o f Rule 57 o f the
+         Coroners Rules, be disclosed; and the statements sought by the families had not been
+         read out at the mini-inquests, because a police summary only had been given in
+         evidence, as described in paragraph 12, above.
+
+The application to seek to quash the verdicts o f the Coroner’s Court
+
+31       In spite o f the lack o f access to documents and statements, a number o f families did
+         discover though their own research and persistent enquiries further information as to
+         the deaths o f their relatives, and o f the treatment, or lack o f treatment, administered to
+         them after 3.15 pm.
+
+                                                                  Witnessed;
+
+
+                                                   6
+32    In October 1991, junior counsel, Mr Edward Fitzgerald, w as instructed by six families
+       to advise on the question o f challenge to the inquest verdicts. Four o f these families
+       had discovered material indicating that their relatives had been alive after 3.15 pm. In
+       the other tw o cases, no or virtually no information had been given as to the
+       circumstances o f death. In April 1992, a “Memorial” w as submitted to the Attorney-
+       General, disclosing what w as known in April 1992.
+
+33    On August 1992, the Attorney-General declined to grant leave under section 13 (1) (b)
+      o f the Coroners’ Act 1988 to apply to the High Court for the verdicts to be quashed
+      and fresh inquests held.
+
+34    An application for leave to m ove for judicial review o f the coroner’s verdicts by these
+       six families was prepared, also by Mr Fitzgerald, and w as granted in April 1993 by Mr
+       Justice Macpherson. I w as actively concerned in these applications, but they were not
+       lodged on behalf o f the HFSG. Mr Fitzgerald had worked very hard on the case pro
+       bono publico for many months, but his work w as often delayed because o f the hope
+       that fresh information might be obtained, and there was a complete embargo until the
+        13th January 1992, when the disciplinary proceedings were dropped against Mr
+       Murray.
+
+35    A telephone call I had with Mrs________the coroner’s secretary, on 20th January 1992
+      illustrates the problems. I telephoned her in order to obtain statements on behalf o f
+      Anne Williams. She stated I would have to contact W est Midlands Police, as they had
+      taken all the statements and had them all back in their possession. I pointed out that I
+      had tried to obtain them from South Yorkshire Police. She insisted that West
+      Midlands Police w as the correct agency. I asked her why the Coroner could not
+      supply copies. She said he did not have them. I reminded her o f the fifteen year rule in
+      Rule 56 o f the Coroners’ Rules, whereupon she asked me to write in and said she
+      would pass the letter to Dr Popper. I asked why Dr Popper was the person to contact
+      She replied that the statements belonged to him, and he would say whether the
+      statements could be released.
+
+36    Anne Williams’ solicitor w as told by South Yorkshire police at the same time that, on
+      the advice o f their lawyers, they would not supply statements until discipline matters
+      had been finalised. On 17th February 1992, however, Mr D om es, the new Coroner,
+      wrote to Mrs Williams, allowing her, as a matter o f grace, to see statements (Annex_
+      I). From this letter, it can be seen that Chief Superintendent M ole was asked to agree
+      to the release o f statements which had been taken by West Midlands Police for the
+      purposes o f the inquest. I believe that a Member o f Parliament, Malcolm Thornton,
+      had asked the Coroner through the Attorney-General to release these statements. I
+      know that statements sought by Mr Hammond w ere also obtained after the
+      intervention o f his member o f Parliament. Mr Spearritt received some, but not all o f
+      the statements, he w as seeking. Sandra Stringer w as denied some o f the statements
+      she was seeking until; the body files were disclosed during the “Scrutiny” in 1997.
+
+Signed;                                                      Witnessed;
+
+
+
+                                               7
+37    I produce as Annex J copies o f letters that were submitted to the Attorney-General in
+       1992 from four o f the six families who applied to the High Court, Mrs Doreen Jones,
+       Mr and Mrs Peter Tootle, Mrs Anne Williams (and her doctor), Sandra Stringer and
+       her daughter Donna Carlile. (A separate letter w as sent, I am told, by the Glover
+       family, but I have not seen a copy. The family o f Michael Kelly had suffered a
+       bereavement in 1992, and I do not believe they sent a letter.) These letters reflect the
+       frustrations o f the families and their anguished search for information, which I
+       witnessed at first hand. Annex K is a copy o f an affidavit o f Sandra Stringer, prepared
+       for those proceedings. N one o f the contents o f this has ever been disputed in court,
+       on affidavit, nor, so far as I am aware, in the “ Scrutiny” o f Lord Justice Stuart-Smith.
+
+38    The Coroner produced an affidavit for the judicial review proceedings, which for the
+       first time exhibited “Continuity Charts”, containing names o f witnesses, which had
+       been referred to at the mini-inquests, but which had never been disclosed to the
+       families. Similarly, he produced minutes o f “Business Meetings” attended by the
+       Coroner and lawyers for various interested parties in 1990. The significance o f some
+       o f these minutes is dealt with in Annex B.
+
+39    I produce as Annex L a copy o f the skeleton argument submitted by counsel for the six
+      families in November 1993, and a copy o f the judgement o f the Divisional Court as
+      Annex M. In the course o f the judicial review, Alun Jones QC w as given an index o f
+       statements said to be held by the South Yorkshire police, not the investigating West
+      Midlands police. I recall that this index w as disclosed only because there was some
+       doubt as to whether a second statement o f a witness relevant to the case o f Michael
+      Kelly had been provided. This index consists o f 116 pages, and it lists 3,907
+       statements.
+
+Conclusion o f the Judicial Review
+
+40    Although the outcom e o f the application for Judicial Review w as adverse to the six
+      families, the evidence o f the Coroner, the copy o f the index, and the statements
+      discovered or relied on by each o f the six families, had the effect o f persuading me and
+      the families that there w as a large body o f evidence, undisclosed, o f direct relevance to
+      the tragedy, which remained in the possession o f the South Yorkshire police, who had
+      been blamed for negligence by Lord Taylor, and in the possession o f the Coroner.
+
+1994 to 1996.
+
+41     I do not believe that anyone considered a prosecution in the aftermath o f the judicial
+        review hearing. The reality is that the HFSG appeared to have reached the end o f the
+        legal road. The families w ere demoralised, and had no faith that the truth would
+        emerge from further legal process. There w as no money available, nor any prospect o f
+        raising it. The Group had access only to a fraction o f the evidence, a factor which
+        would inevitably had weighed against it in any attempt to terminate a prosecution.
+Signed;                                                        Witnessed;
+
+
+
+
+                                                8
+42   I m yself w as away from work for a few w eeks suffering from ill-health and the stress
+      o f the judicial review proceedings, which, however, w as much more bearable for me
+      than the families affected. When I returned to work, I w as working on ordinary legal
+      business in the Liverpool City Council, but was still liason officer on the Hillsborough
+      Working Party, which met infrequently.
+
+43   Some o f the families started to put their hopes o f discovering the true facts o f the
+     disaster in the hands o f the media, rather than the courts. An example was the Roger
+      Cook programme on Central Television, “The Cook Report”, which concerned
+     principally the case o f Kevin Williams, and which included material discovered during
+      and after the Judicial Review proceedings.
+
+44    In October 1994, some o f the families attended a preview o f a series o f fictional
+      television programmes by the television writer Jimmy McGovern called “Cracker”,
+      about the effects o f the disaster on a particular man. The families who saw it asked Mr
+      McGovern to investigate and present the true story o f the disaster. I met with Katy
+      Jones, the producer o f Granada Television’s World in Action in January 1995 and gave
+      her information.
+
+45     I believe that Granada decided to commission the programme in about June 1995. A
+      series o f meetings took place between McGovern and some o f the families, and the
+      HFSG formally approved co-operation with the making o f the programme, which
+      became the drama-documentary “Hillsborough” in December 1996.
+
+December 1996 to June 1997
+
+46   The programme w as well received by the public. The matters raised were discussed in
+     Parliament, and the Hom e Secretary, Mr Michael Howard, took a close and
+      sympathetic interest, and met many o f the families. The matters that were o f concern to
+     the Group are apparent from the report o f Lord Justice Stuart-Smith. The HFSG made
+      submissions in 1997 to the Hom e Secretary and D PP asking for a criminal
+     investigation into the allegations o f suppression o f evidence.
+
+47   Annexes A-D, and the material submitted with the informations in July 1998, set out
+      the reasons why this prosecution was instituted, and describe the relevant sequence o f
+      events. I should add that the Master W itness List w as disclosed to me in April 1997 by
+      Mr George Croston o f the CPS, in response to our allegations that the evidence o f
+      Roger Houldsworth had been withheld.
+
+
+
+
+                                                            Witnessed;
+48        In May 1997 a concert w as held at Anfield which raised substantial funds for the
+          Group. Annex B sets out the way in which statements o f witnesses became available in
+           1997 to 1998. B y the Spring o f 1998, the Group had substantial witness statements,
+          and also had the funds to conduct a prosecution. Furthermore, the Stuart-Smith report
+          had unambiguously reaffirmed the findings o f the Taylor Inquiry, and confirmed that
+          the W est Midlands police had not provided the CPS with any material that undermined
+          those findings.
+
+49        For these reasons, it is wrong to suggest, as the defence do, that the prosecution
+           refuses to accept the Taylor Inquiry, and the Stuart-Smith acceptance o f that Inquiry.
+           The Group has many and serious criticisms o f other aspects o f the Stuart-Smith report,
+     i,   but does not by virtue o f these prosecutions offer a legal challenge to it. The
+  iI      prosecution case has been prepared to present the findings o f the Taylor Inquiry as to
+  n       the immediate cause o f death to a criminal court for the first time in ten years.
+
+Oppression
+
+50        Argument will be presented about the defendants’ submissions. However, I wish to
+           present evidence on the issue o f oppression from my knowledge o f events in the last
+           six months.
+
+51        If appropriate I can give detailed evidence as to the funding by the South Yorkshire
+           Police Authority o f the defence costs and the defendants’ other expenses incurred in
+           these proceedings. Suffice it to say here that the defendants have accepted funding
+           from that authority when the Chief Constable o f the South Yorkshire force has always
+           accepted the findings o f the Taylor Inquiry, which found a “blunder o f the first
+           magnitude” as the immediate and direct cause o f death; and when the Chief Constable
+           has repeatedly accepted civil liability for the actions o f the defendants.
+
+52        The defendants have nevertheless been able to retire, presumably on pensions
+           appropriate to their high rank, in spite o f the negligence attributed to them by their
+           own force, which presently supports them, and w hose support they have asked for and
+           accepted.
+
+53        It has became clear for the first time in March 1999 that the defendants’ costs o f
+           representation at the five months’ Inquest had been met by the South Yorkshire Police
+           Authority. They, like the families, were interested parties within the meaning o f Rule
+           21 o f the Coroners’ Rules, entitled to be present and represented. Some interested
+           parties, the families, had to pay the costs themselves: others, like the police officers
+           and other public bodies, w ere buttressed by the public purse.
+
+
+
+
+Signed;                         t& i                             Witnessed;
+
+
+
+                                                  10
+54      Also relevant to the question o f oppression is the defendants’ attitude to disclosure o f
+        information. The court knows o f the difficulties the prosecution have experienced in
+        obtaining access to documents held by the South Yorkshire police. The defence has
+        failed for over nine months to offer any support to the prosecution in its request for
+        that information to be handed over to a third party.
+
+55      The revealing briefing notes o f meetings held within the South Yorkshire police force
+        on 16th, 17th and 19th April 1989, on which reliance is placed under section 24 o f the
+        Criminal Justice Act 1988, were obtained only by virtue o f a witness summons, the
+        issue o f which was strenuously opposed by the Chief Constable. After receipt o f this
+        material, the prosecution wrote again to Mr Croston o f the CPS, enclosing a copy to
+        Dr Popper. I enclose a copy o f that file, as Annex N. Our arguments about that
+        material has led to the disclosure by the CPS o f further evidence about the closure o f
+        the gates in 1988, and the defendant Murray’s knowledge o f it. I attach as Annex O a
+        copy o f correspondence from the CPS o f June 1999 relating to this matter, which will
+        be developed in argument at the hearing.
+
+56      The defence argument suggests that Mr Duckenfield has had to undergo the stress o f
+        the “Scrutiny”. His solicitors have told us that Mr Duckenfield was not interviewed by
+        Lord Justice Stuart-Smith, and there is no indication that he was asked to contribute to
+        the “Scrutiny” by letter.
+
+57      I have seen no evidence that the defendants have been oppressed. By contrast, I have
+         m yself seen, over the years, the deeply oppressive and destructive effect upon the
+         families o f the concealment o f information; the suppression o f documents; and the
+         failure o f even any one individual to be held accountable for any o f the events o f the
+         worst disaster in English sporting history. The families’ members o f Parliament have
+         made comments about this deprivation o f information in the House o f Commons in
+         1998, and on occasions in earlier years Above all, I have witnessed the almost
+         complete disintegration o f the families’ previous respect for the police, the legal
+         profession, and the institutions o f English law.
+
+Delay
+
+58      Nearly a year has elapsed since the service o f the summonses. This delay has been
+        occasioned by the defendants’ unsuccessful application to the CPS to take over and
+        discontinue the proceedings, and by the attempt to review that decision in the High
+        Court. I produce a copy o f the judgment o f the Divisional Court as Annex P.
+
+
+
+
+Signed;   f i.W I .                                             Witnessed;
+
+
+
+                                                 11
+Selection o f M aterial
+
+59       A serious allegation is made against the prosecution at the end o f paragraph 4.10, page
+         12, o f Mr C legg’s submissions. I do not understand the complaint. Our representations
+         to the CPS have presented a reasoned and still unanswered argument showing that
+         improper selection was made o f documents submitted to the DPP and Coroner in
+         1990. Mr Clegg does not explain the allegation, o f a similar kind, which he makes
+     '/’ against us, but the prosecution has allowed the solicitors for both defendants to inspect
+     j"l all the witness statements, and the edited and unedited statements o f the South
+         Yorkshire police. That inspection took place on 23rd June. Mr C legg’s submissions are
+         dated 7th June 1999, on which date the final committal bundle was delivered to his
+         instructing solicitors. I presume Mr Clegg is referring to the selection o f witnesses
+         supplied last year, upon which comment was made by the prosecution in the course o f
+         our Representations o f September 1998 (Annex B)
+
+60     I know that Mr Eastwood, o f Mr Duckenfield’s solicitors, visited the House o f
+       Commons library in August 1998, and that his firm represented the South Yorkshire
+       police during the “Scrutiny”. He has had a far better opportunity to become familiar
+        with the edited and unedited South Yorkshire statements, and the evidence in the case
+        as a whole, than the prosecution. Although the Home Secretary asked for all non­
+        sensitive material considered in the “Scrutiny” by Lord Justice Stuart-Smith to be
+       placed in the H ouse o f Commons library, the submissions made by Winkworth
+        Sherwood on behalf o f South Yorkshire police have not been placed there. Perhaps it
+        is on the basis o f Mr E astw ood’s knowledge o f the papers that this unexplained
+        allegation against the prosecution is made.
+
+61 jj The witnesses selected by the prosecution have been chosen because their evidence
+   11 justifies and underlies the findings o f Lord Taylor. A limited number have now been
+       chosen because their evidence tends to be repetitive. I used to prosecute for many
+      years for the Liverpool City Council. I know that my obligation in presenting material
+      to a court is to be fair. I invite the defence to withdraw the allegation.
+
+Publicity
+
+62        At the end o f the defence argument a comment appears that the prosecution have
+          generated much o f the media coverage o f this case themselves. O f course it is correct
+          that public comment has been made many times over the years by members o f the
+          Group, but I dispute that this has “thereby contributed to the prejudice”. Had the
+          Group not taken its case to the media after the failure o f the six families’ judicial
+          review, for the reasons apparent from this statement and the 1998 Representations to
+          the CPS, the Group would not be in possession o f the material which has encouraged
+          it to bring this prosecution, and would not have had the funds to do so.
+
+                              \   ,
+Signed;      fj. f Y ) ,                                        Witnessed;
+
+
+
+
+                                                  12
+63       Further comment will be made when the prosecution has seen the defence material.
+
+64       I am prepared to give evidence orally about the contents o f this statement.
+
+Signed
+
+
+
+
+Ann Marie Adlington                                     Witnessed.
+
+
+
+
+                                                  13
+

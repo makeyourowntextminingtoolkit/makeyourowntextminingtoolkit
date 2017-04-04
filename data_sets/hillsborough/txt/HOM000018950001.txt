@@ -1,0 +1,588 @@
+DEPARTMENT OF THE ENVIRONMENT                       Building Research Establishment
+                                                    Garston Watford WD2 7JR
+                                                    Telephone 0923 894040   Fax 0923 664010
+                                                    Telex 923220
+
+                                                    Direct line 0923 66-| 4206
+                                                            GTN 3532-1]
+                                                    14 June 1989
+
+  R M Whalley Esq
+  Secretary to Hillsborough Enquiry
+  Home Office
+  Room 662
+  Queen Anne's Gate
+  LONDON SWIH 9AT
+
+
+
+
+  BRE SUBMISSION TO HILLSBOROUGH ENQUIRY
+
+  Your letter of 23 May invited a written submission to the Enquiry. I am sorry
+  that I have not met your preferred timescale of 12 June and I hope that this
+  will not have inconvenienced the Enquiry.
+
+  My letter of 18 May indicated the ways in which I thought BRE's expertise
+  might be most relevant to the Enquiry's concerns. I would reiterate that I
+  think our main contribution could be made when the Enquiry is considering the
+  evidence provided by others and seeking to draw general conclusions and
+  recommendations for the future design and management of - ■■ r- - grounds.
+
+  My senior structural and fire engineering colleagues have, though, prepared a
+  note which develops the themes that were briefly summarised in my previous
+  letter. This considers in more detail the application of structural research
+  and engineering principles to the Enquiry's work and the ways in which
+  experience from fire disasters and related research studies might read across
+  into general crowd management issues. The note suggests that the Enquiry may
+  find it helpful to separate consideration of the measures needed to reduce the
+  risk of emergencies developing from the crowd safety issues that arise once
+  there is an 'incident'. It goes on to consider briefly aspects of the
+  performance of information and management systems, and crowd behaviour, which
+  will affect the risk of death or injury in emergency situations.
+
+   As requested, I enclose six copies of the submission and trust that it will
+   assist the Enquiry at this stage of their work.
+
+   As before, I am copying this letter and the enclosure to Mr McDonald
+   (CID/SAED) and Mr Kinghan (SARD).
+
+
+
+
+   R G COURTNEY
+   DIRECTOR
+                                                                    BRE 130/6/2
+
+
+
+HILLSBOROUGH STADIUM DISASTER INQUIRY
+
+SUBMISSION BY THE BUILDING RESEARCH ESTABLISHMENT
+
+
+
+CONTENTS
+
+Summary
+
+1.   Introduction
+
+2.   Perceived outline of events at Hillsborough
+
+3.   BRE expertise
+
+4.   Sports ground engineering
+
+5.   Passive control
+
+6.   Active control
+
+7.   Conclusions
+
+8.   Bibliography
+
+Annex A     Additional points on managerial issues
+
+
+
+
+Summary
+
+From BRE understanding of the events at Hillsborough it appears that crowd
+behaviour and control is a key issue requiring examination.  To assess these
+events and determine their implications for sports grounds in general, study of
+the interactions within the total system comprising the construction itself
+(approach routes, stands, barriers, entrances, exits, etc), the crowd, the
+management at all levels and communications with the crowd and within the
+management in a range of credible extreme circumstances is required.
+
+BRE's experience with complex structural engineering systems and with fire
+safety engineering is relevant and leads it to suggest a comprehensive approach
+to the design and assessment of sports grounds. This approach would aim to
+provide improved safety by identifying means of reducing the incidence of
+extreme situations of crowd movement and of mitigating the dangers arising when
+extreme situations occur.  The approach envisaged includes systematic analyses
+of control functions (both active and passive) at each sports ground.
+1.   Introduction
+
+1.1  The Building Research Establishment (BRE) has knowledge of the events at
+Hillsborough only from accounts in the media.  Nevertheless, these seem
+sufficient to indicate that crowd control is a key issue on which its research
+experience can be focussed to advantage in determining the implications of the
+events at Hillsborough for sports grounds in general.  BRE's relevant experience
+is described in Section 3.
+
+1.2  It is essential to appreciate the complexities of the total situation at a
+sports ground so that suitably comprehensive analyses are made.  Section 4
+outlines the wide range of issues.  The specific structural engineering
+contribution to crowd control is outlined under Passive Control in Section 5,
+making special reference to the 4th draft of the report of the Institution of
+Structural Engineers (ISE) "Safety in Sports Grounds".  Section 6 on Active
+Control is based on the approach used in fire safety engineering to control fire
+emergencies in sports grounds.  It indicates some recent advances in
+understanding of human behaviour and gives more general implications which may
+be drawn upon.
+
+1.3  The "Guide to Safety at Sports Grounds" (HMSO 1986) provides key
+comprehensive guidance.  This submission seeks to suggest ways in which
+particular aspects may be strengthened to increase the likelihood that the
+required standards of safety are actually achieved in practice.
+
+2.   Perceived outline of events at Hillsborough
+
+2.1 It appears that virtually all the relevant events were centred on the open
+terrace at the Leppings Lane end at Hillsborough, and the accesses to it.  It is
+therefore necessary to concentrate principally on that area in determining what
+happened and why.
+
+2.2  It appears that the control of entry through the turnstiles, together with
+the means for diverting those who did not have the means or authority for
+access, was insufficient to limit the crowd arriving at the ground to safe
+proportions.  To relieve this emergency, gates were opened to by-pass the
+turnstiles which initially made available to the crowd the reservoir area behind
+the terrace/stand.
+
+2.3  The crowd in the reservoir area then proceeded from there through the
+access tunnel under the stand to the terrace.  The result was rapidly increasing
+crowd pressure on the rear of the substantial crowd already on the terrace.  The
+disposition of the crush barriers on the terrace failed to limit the pressure on
+those at the front against the perimeter barrier.  There were no means of escape
+at the front.  In consequence, the pressure could not be relieved to a safe
+level.
+
+2.4 It is suggested that the circumstances which led to the sudden increase in
+pressure on the crowd already on the terrace can be considered separately from
+the subsequent events on the terrace itself.
+
+2.5  These events may be seen as an example of an extreme situation in which a
+confined crowd is subjected to an accidental occurrence which demands emergency
+action in order to preserve safety.  It is considered that the nature of the
+'accident' is not significant in determining the behaviour of the crowd nor the
+design of emergency measures.  The 'accident' could equally well be a fire, an
+explosion, a hoax, a mere change in fortune in the sporting event or, as in this
+case, an imposed crowd.
+
+2.6 This view results in a simplification which makes it possible to focus
+specifically on the measures necessary to achieve greater success in avoiding
+extreme situations following an 'accident' and in coping with a developing
+emergency when avoiding action fails.
+
+3.     BRE Expertise
+
+3.1   BRE undertakes, for public and private sector clients, research and
+consultancy studies undertaken in the fields of building and civil engineering
+and of prevention and control of fire.    It has 5 research and application
+Groups, together with supporting technical and administrative services.     Two
+Groups, the Geotechnics and Structures (G&S) Group and the Fire Research Station
+(FRS) have experience and expertise particularly relevant to this Inquiry.
+
+3.2  An important characteristic of BRE is its ability to take a comprehensive
+multi-disciplinary approach to complex problems, such as those posed by sports
+grounds following the events at Hillsborough.
+
+3.3 G&S Group has undertaken substantial investigations in recent years of
+shortfalls in the performance of buildings, including partial or total
+collapses. The purpose has been to establish circumstances and causes, and to
+assess implications and remedies for the management of similar types of
+construction. Shortcomings in available information generally have required
+analyses of postulated failure modes and their effects and physical testing in
+order to establish causes with a sufficient degree of certainty.
+
+3.4 The process of assessing the complex interactions between the many
+variables in these situations is similar to that required in determining how
+crowd behaviour may be influenced for the good by the design and operation of a
+sports ground.  BRE experience suggests that analyses and assessment of worst
+credible circumstances and the reliability of component parts of the total
+system and the links connecting them (organisational as well as physical) are
+essential features of the approach required for a sports ground.
+
+3.5  The Fire Research Station of BRE was asked to assist Mr Justice Popplewell
+to advise his Inquiry into Crowd Safety and Control at Sports Grounds following
+the fire at Bradford City Football Club ground in 1985, in which 56 people died.
+FRS carried out experimental studies and assessments into the feasibility of
+various sources of ignition, the mechanism of fire development and the
+toxicological and radiative effects on humans of the developing fire.
+
+3.6  The Fire Research Station findings were reported in full in the Interim
+Report of the Committee of Inquiry and subsequently reflected in Chapter 11 of
+the 1986 Guide to Safety at Sports Ground.  Two points of particular importance
+in adopting a fire safety engineering approach to safety at sports grounds when
+large numbers of people may be involved, and need to be evacuated in the event
+of fire, were:
+
+     (i)   the appropriate use of materials, the provision of structural fire
+           protection and fire resisting separations to minimise fire risk,
+                restrict ignitability and reduce the rate of fire growth and its effects
+                should a fire occur;
+
+     (ii)       the planning of escape routes that will keep people well away from the
+                smokey gases produced from a fire, which in general means that initial
+                movement of people should be downwards.
+
+3.7  Work on human behaviour in emergencies at the Building Research
+Establishment, and by its research contractors, has been related to life safety
+in fire  and in particular to escape motivation.  It is believed that some
+aspects  of this work have relevance beyond the limited context of fire.   In
+particular the work provides insight into the difficulty of maintaining the
+ability to deal effectively with emergency events of extremely low probability
+and the need to manage rapid and orderly behaviour in crowds of people organised
+for and interested in something else.
+
+4.        Sports Ground Engineering
+
+4.1 The term "Engineering" is used here to embrace      a comprehensive approach
+towards   the design and appraisal of complex systems of many parts - physical
+components, users, management and other organisational influences - interlinked
+in a variety of ways.   Engineering of a system results in decisions which have
+been optimised in accordance with acceptable criteria in order to produce a
+finished "product" which provides the performance required of it in a safe and
+economical manner.
+
+4.2  This philosophy                      is inherent in the draft report                            of the Institution of
+Structural Engineers                      on "Safety in Sports Grounds".                             It is emphasised in the
+introductory section                      of the draft:
+
+     "Above a ll, the docum ent is a im e d at ach ievin g stru ctu ral a d eq u a cy u n der a ll the releva n t lo a d in g s a n d
+     con dition s, both o f the o v e ra ll construction a n d its in d ivid u a l elem en ts, a n d the elim in ation b y m e th o d ica l
+     a p p ra isa l o f p o te n tia l h azards which resu lt fr o m the presen ce o f dense c ro w d s , th eir b e h a v io u r a n d th eir
+     m ovem en ts.
+
+
+     Safety o f cro w d s can n ot re ason ably b e a c h ie v e d w ith o u t ca refu lly co n sid e re d a ction , a n d o rg a n ise d
+     m anagem en t techniques a p p lie d both to the da y to d a y running a n d du rin g p u b lic occu pation . This is
+     therefore a d d re s se d a s an im portant fa c to r in S ection 2 o f this docu m ent in so m e d e t a i l . "
+
+4.3 The need for a comprehensive approach is further emphasised by the range of
+parties addressed:
+
+     "Since the p r o c e s s o f a p p ra isa l f o r safety in such situ ation s is an in teractive p r o c e s s , this docu m ent
+     is a d d r e s s e d to a ll the fo llo w in g persons:
+
+
+     - D ir e c to r s a n d m an agers o f sports c lu b s w ho must run c lu b s to a bu d g et a n d p ro v id e a s e tr ic e to the
+       c u sto m e r w h ich can b e afforded a n d which is satisfying, safe a n d co n tro lla b le.
+
+
+     - E n gin eers, a rch itects a n d o th er pro fessio n a l con su ltan ts e n g a g e d b y the c lu b s ' m an agers to
+       ap p ra ise, design the refurbishm ent a n d o rga n ise any n ecessa ry m aintenance.
+
+     - P u b lic officers re sp o n sib le f o r ap p ro v in g m easu res f o r refurbishm ent a n d m aintenance, a n d f o r
+       licen cin g sp o rts g ro u n d s f o r th eir variou s u s e s . "
+
+
+4.4       "This philosophy is also inherent in the 1986 "Guide to Safety at Sports
+Grounds".             In particular:
+
+      "The p ro b le m o f c r o w d safety a t sp o rts grou n d s is com plex a n d ca n n o t b e s o lv e d sim p ly b y en su rin g that
+     each com ponen t o f a grou n d, such a s sta irw a y s, p a ssa g e s o r sectio n s o f terra cin g , is satisfactory in
+     itself. The in ter-relation o f these a n d the o th e r com ponents is essen tia l: non e o f them can be
+     c o n sid e re d in isolation w ith ou t con sideration o f its effect on the oth ers, a n d they sh o u ld a ll be
+     co m p a tib le a n d co m b in e to form a b a la n c e d u n i t . "
+
+
+4.5 BRE endorses these approaches but it is not clear to what extent the
+detailed implementation of the general principles has been achieved reliably at
+both new and existing sports grounds.
+
+4.6 For the particular purposes of examination of the events at Hillsborough it
+is sufficient to define the system to be engineered as that comprising the
+Leppings Lane terrace, its built features (immediate approach route, surfacing,
+geometry, internal barriers, perimeter barriers and emergency exits), stewards
+and police (their respective instructions, training and communication systems),
+and the management hierarchy, including the Referee (who controlled the game).
+
+4.7 The particular design scenario to be examined is that, identified in
+Section 2, of a crowd under pressure to move and unable to use the exit (entry)
+available for normal movements.  Considerations leading to the identification of
+suitable design strategies to cope safely with such extreme situations are
+examined in Sections 5 and 6 below.
+
+4.8 Measures to provide control and relief, if required, may be active and/or
+passive.  Active measures require human intervention (stewards, police, speech
+communication, television monitoring, public address, activation systems for
+emergency exits).  The potential for these interventions to fail to operate or
+to be ineffective must be considered and may be significant.  The implications
+for the provision of active control measures, derived  particularly from fire
+emergencies, are discussed in Section 6.  This Section also discusses the
+perception of crowds and their reaction to an emergency.
+
+4.9 Passive cpntrol implies, in addition to limiting flow rates and pressure,
+the provision of emergency routes which a crowd can use of its own accord.
+
+5.      Passive control
+
+5.1  The flow rates of crowds and the variations in their density under
+different situations have not been subject to widespread study.  The available
+information is being synthesised by the ISE ad hoc committee but is not yet
+available.
+
+5.2        It is clear that,                in order to ensure orderly safe movement,                                       it is necessary
+to:
+
+      1.     limit the rate of movement;
+
+      2.     limit the peak body pressure; and
+
+      3.     provide relief if a critical pressure is reached.
+
+
+Guidance on these issues is contained in the "Guide to Safety at Sports
+Grounds", 1986.
+5.3  "Crush" barriers can control both the rate of crowd movement and peak body
+pressures by being disposed in appropriate ways.  The first is achieved by
+introducing tortuous access paths, ie effectively introducing friction into the
+flow system, and the second, by an overlapping layout of barriers which thus
+automatically limit the number of people in a straight line who can push against
+others.  An important feature of this form of control is its self-regulating
+nature which does not require human or instrumental intervention.
+
+5.4 In the engineering of all systems it is essential to consider the
+implications of failure of individual parts.  While it is possible to design and
+construct barriers so as to achieve a high degree of reliability in relation to
+the performance assumed to be required of them individually (see ISE Report)
+their ability to limit crowd pressures is not infallible. Under extreme
+circumstances it must be assumed that the "design flow rate" can be exceeded and
+that excessive pressures may develop in the crowd.
+
+5.5  Emergency exits to be used naturally must be properly designed and
+maintained to ensure their availability when required. This approach might
+conceivably involve exit routes permanently open (but of course not amenable to
+use as unauthorised entries) or gates "sprung" to open at predetermined
+pressures or automatically controlled by crowd pressure sensors.
+
+5.6  In addition, there must be a reservoir or reception area of sufficient
+capacity to accommodate the emerging crowd.  One possibility is the pitch or
+arena itself but given that internal barriers aim to limit the rate of forward
+movement it might appear that lateral emergency movement might be more
+effective, particularly at sports grounds where "dead" areas may exist at the
+corners.  Even then some means of limiting lateral flow rate would probably be
+necessary to inhibit the type of movement seen at Heysel, eg by barriers
+L-shaped in plan.
+
+5.7  The above strategies are essentially ones for relief of pressure.  An
+alternative or complementary approach is to limit numbers entering a given area.
+Whilst it must be assumed that facilities for limiting numbers may fail in
+extreme circumstances they have a valuable role in reducing the likelihood of
+such circumstances arising.  Should failure of control of numbers occur it would
+be preferable that the effects be safely absorbed by diversion of the excess
+crowd into an intermediate holding area without impinging on the crowd already
+in the ground.
+
+6.        Active control
+
+6.1 Active control is needed to supplement passive control provisions for all
+emergencies which are not perceivable by the crowd, eg fire, bomb alert (either
+real or hoax) etc.  It is unlikely that active control measures could respond
+satisfactorily to emergencies generated by the crowd itself.
+
+6.2       Active control requires a manager who has:
+
+     a)     full responsibility for the control of events in the public place,
+            including:
+
+                       i) the game,   performance, etc,
+                          ii) the stewards, stewarding police and emergency services,
+
+                         iii) the manual or otherwise activated opening/closing of
+                              entrances and exits;
+
+         b)     adequate communication to exercise this control by visual, video, radio
+                channels etc, both for the purpose of being properly informed and for the
+                purpose of transmitting instructions;
+
+         c)     a team of 'stewards' (police etc) who have been properly trained in
+                emergency evacuation procedures for the particular venue.
+
+    6.3 The principal area of BRE research related to active crowd management has
+    been concerned with the protection of life in buildings in the event of a fire.
+    Major points which emerged from studies of the behaviour of people in fire
+    situations, which have potential relevance to Hillsborough, are:
+
+    1)        early clues to the presence of a fire are often ambiguous, and recognition
+              of them may well be delayed by competing activities of interest;
+
+    2)    early actions in dealing with a fire are the most effective, but most of the
+           fires studied show long delays while people attempt to gain enough
+           information to make a decision to escape;
+
+    3)    people tend to use only familiar routes to escape;
+
+    4)    individuals given clear authoritative information concerning an emergency
+          will leave quickly.
+
+    6.4  Failure to perceive a future threat from an existing fire has been seen on
+    many occasions in the past, but is perhaps best illustrated by the video film of
+    the Bradford Football Club fire.  Failure of people in the crowd to perceive a
+    future threat may have been a factor contributing to the events at Hillsborough
+    and may occur with other forms of 'accident' at sports grounds.
+
+    6.5 There is strong support for the value of training on behaviour in a fire
+    emergency.  This is feasible, and practised, for people who habituate a place,
+
+•   eg office workers and hotel staff.  At a sports ground it does not seem
+    practicable to train the crowd but only 'officials'.  Even so, the expectation
+    of being involved in a fire or other emergency is so small that training people
+    for events of such rarity is clearly difficult.  Nevertheless, in inquiries
+    following fires, evidence of lax training of those involved has often emerged.
+
+    6.6 When planning for safety in emergencies over the longer term, regard should
+    be taken of the low risk and consequent difficulty in maintaining a good
+    training programme, even for officials.  Commercial pressures to minimise staff
+    costs will militate against rigorous training programmes. It is almost certain
+    that any individual called on to handle such an emergency will be doing so for
+    the first time.  There is a case for considering whether it is likely to be most
+    effective to develop remotely operated systems, subject to effective
+    maintenance, to offset a future where training vigilance has slackened.
+
+    6.7  Investigations of major fires have underlined the need for clear definition
+    of managerial responsibilities, particularly linking those having local sectoral
+    responsibility.
+
+                                                7
+6.8 The key issue for the manager's consideration, at any level of
+responsibility, is how soon relative to the emergency's commencement can
+evacuation be started.  Most traditional research on human behaviour deals with
+speeds of movement.  However, in recent years BRE has been much more concerned
+with the time required to start that movement.  For the manager, this must
+include both the time and the means:
+
+1)   for the collection of information ofsufficient credibility     for him   to
+     assess the potential danger as serious,
+
+2)   to stop the event in progress,
+
+3)   to open the egress gates,
+
+4)   to instruct the spectators to evacuate   sothey will   believe their interest
+      is served by doing so.
+
+6.9 Given the links in the chain and consequent potential for delays, errors or
+failures the virtues of passive control systems become apparent.    However,
+although a totally passive system might be conceived which would have coped with
+the Hillsborough situation, in general there needs to be efficient and reliable
+means of satisfying the requirements in   6.8 above in case passive control fails.
+Additional comments on these points are   given in Annex A.
+
+6.10  Fire studies would suggest that one of the weakest links in current
+management practice at sports grounds may be the reliable detection of a
+developing emergency (extreme situation).  As an alternative to remote sensing
+systems, there could be merit in locating officials actually in the crowd where
+they could most rapidly and reliably sense events.  Other benefits for order
+might follow from this approach.
+
+6.11 The overall theme that emerges is that potential victims will make
+rational judgements on how to escape given high quality information on the
+location of fire or other emergency.  Early action is essential for safety.
+
+6.12  The need to maintain security in day to day use and to open egress routes
+in an emergency are in conflict.   There  is also aneed to consider how effective
+emergency procedure can be suborned by disruptive  or dishonest individuals.
+Attention needs to be given to avoiding further disruption from those not
+involved in the emergency consequent on stopping a sporting event.    To overcome
+this sufficiently early, very high credibility information must be available to
+the manager.  He then must have effective means to communicate with   staff and
+equipment as required by preconsidered plans.
+7.   Conclusions
+
+7.1 A comprehensive approach is necessary to the design and assessment of
+sports grounds to provide improved safety by reducing the incidence of extreme
+situations of crowd movement and by mitigation of the consequences when they do
+arise.
+
+7.2 The approach for each sports ground should include systematic analyses of
+control functions (both active and passive) in the light of postulated credible
+crowd situations.
+
+7.3  For some types of incident, very early recognition, with the capability to
+envisage its future development to an emergency situation, is essential to
+provide time for relief and escape measures to be effective.  To assist those
+responsible for this, a high quality of information is required.
+
+7.4 The location of trained 'officials' in the crowd may provide a much more
+immediate and sensitive indicator of some emergencies and help to accelerate the
+appropriate action.
+
+7.5 While a high level of training of officials is both desirable and
+effective, the frequency of emergencies is so low that it is difficult to
+maintain standards.  The virtues of passive control measures should be
+emphasised.  A combination of passive and active control measures determined by
+systematic analyses of credible crowd situations appears to offer the best
+prospect for improving safety.
+
+7.6 The effective and rapid initiation and management of both escape or other
+unplanned movement of crowds require responsible local management and well
+informed central control authority.  The use of authoritative hierarchies is
+unlikely to be effective unless continuous communication can be maintained with
+each individual directly when a change of strategy becomes necessary.  Means of
+direct communication and information clearing should be adopted generally at
+major sports grounds.
+
+7.7  In fire and, by implication, other extreme circumstances there is good
+reason to believe that people act sensibly when well informed of the emergency,
+its development and the course of action required.  A public address and
+communication capability appears to offer the best prospect for crowd
+management.
+
+7.8  In a developing emergency it is essential to remove "attractions" which may
+distract spectators from listening to and obeying requests to evacuate, eg the
+game must be stopped.
+
+8.   Bibliography
+
+Guide to Safety at Sports Grounds, HMSO 1986.
+
+Safety in Sports Grounds, 4th draft, IStructE 1989.
+
+Canter D:  Studies of Human Behaviour in fire: empirical results and their
+implications for education and design.  BRE Report 1985.
+
+Canter D, Powell J, & Booker K:   Psychological aspects of informative warning
+systems.   BRE Report BR 127, 1988.
+
+Bellamy L, Geyer T, Harrison P, Modha B, & Ramachandran G:   Experimental
+programme to investigate informative fire warning system characteristics for
+motivating fast evacuation - an executive summary.  BRE.   In press.
+ANNEX A   Additional points on managerial issues
+
+
+
+Assessment: The pressures on the manager will be severe.   The penalties of
+stopping an event and disrupting the spectators will be obvious.   A very well
+handled event might appear as an unnecessary stoppage.   This will lead him to
+delay a decision till the evidence is "stronger" that this action is necessary.
+  e most rapid assimilation of knowledge is through the eyes.   It is therefore
+suggested that video surveillance of the areas open to the public will be
+necessary to convey credibility sufficiently early in the event.   If the
+emergency is a fire, then colour video is necessary to distinguish between flame
+and smoke.  His training must clearly include predictions of likely fire growth
+scenarios.  He must also be aware of his staff's ability to deal with small
+fires and the time they will take to mobilize and control them.
+
+It will be known to managers of their sports grounds approximately how long it
+takes to empty each stand at the end of an event, using the normal egress
+routes.   It would be possible to make some reasonable estimates of how this
+might be changed, if at all, by selective evacuation.   In the absence of other
+information it does not seem likely that this time will be lessened by an
+emergency.
+
+Cessation: Research has indicated that it is much more difficult for people to
+assimilate an emergency if there is competing activity.  While the sporting
+event continues, evacuation will be almost impossible.  The manager must
+therefore have the means to communicate with the referee to stop the event.
+
+Opening:  Where manually controlled   gates are used, there must be means to
+communicate with those who will man   them.  This will involve a time delay unless
+radio links are used, which must be   recognised by the managers and take into
+account the human nature involved.    It would be possibly most economic in the
+long term to consider the provision   of  remotely controlled gate releases,
+capable of automatic self checking.
+
+Instruction: Traditional approaches to fire safety attempt to organise
+evacuation through normal communication hierarchies.  Often a link in the chain
+is temporarily absent or untrained.  Voice message systems have been shown to be
+amongst the most effective means of providing fire warnings and information to
+building occupants and the use of public address systems directly to reassure,
+advise and guide spectators should therefore be strongly considered in emergency
+planning.
+

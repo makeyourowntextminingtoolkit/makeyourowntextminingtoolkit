@@ -1,0 +1,47 @@
+IRE SERUICES INSPECTORflTE/FEU                    16,16,1989 11:44     HO, 5   P, 2
+
+
+
+    Andrew:
+
+
+    A few more thoughts on Eastwood.
+
+    1.   For barriers of more than two spans, say Nos. 1, 2, 3, 4 the
+    test seems to have gone as follows:
+
+               i.     load spans 1   and 2 (three cycles),
+
+               ii.    load spans 2   and 3 (three cycles),
+
+               iii.   load spans 3   and 4 (three cycles).
+
+    This is reasonable so far as loading goes, but incomplete as
+    regards measurements of deflections. His records show only one
+    deflection measured for each two-span loading, which means that
+    our span remained unmeasured during the sequence. If that
+    deflection (or recovery) had been unusual, it would not have been
+    noticed.
+
+    2.   In 1988, barriers 124A, 133, 136, 137 and 144 deflected
+    considerably more than the average. No. 133 was a particular
+    offender.  Curiously, its recovery was perfect - but its
+    deflection actually increased in successive cycles of loading, a
+    clear danger signal.  In the event, extensive corrosion was
+    spotted (presumably visually, so what was the value of the
+    test?), and the rail was replaced. The rail on No. 144 was also
+    replaced.  But nothing seems to have been done about the others.
+
+   3.    As regards No. 124A, the 1988 record shows a residual
+   defl    ion of 17mm after the three cycles of loading, compared
+ * wit i    initial deflection under load of 29mm. This is a very
+         cecovery.
+    4.     HSE cannot find the 1983 test record.             They are still
+    s ear rM-ng.
+
+
+
+
+   #       m                                          Len
+       ?                                              15 June 1989
+

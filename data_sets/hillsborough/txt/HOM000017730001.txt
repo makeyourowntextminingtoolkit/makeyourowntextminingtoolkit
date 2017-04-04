@@ -1,0 +1,145 @@
+                                                                                                \ t cU y \\   £A/'   CC.
+
+                                T H E S U M M I T G R O U P PLC
+           49 PALL M ALL, L O N D O N SW1Y 5JG. TE LEPH O N E 01-930 7682. TELEX 296816. FACSIM IL]
+
+
+
+
+16th May 1989
+
+Mr. R.M. Whalley
+                                                                                         ce T-vf        /
+Secretary to the Hillsborough Disaster Enquiry
+Room 662                                                                                    N, JvSKo<^ x
+Home Office
+50 Queen Anne's Gate
+London
+SW1H 9AT
+Dear Mr. Whalley,
+I am writing to you in connection with the enquiry into the Hillsborough
+disaster by Lord Justice Taylor.
+I understand that the Enquiry's terms of reference include the possibility
+of making recommendations on all aspects of            crowd safety at football
+matches. In this regard, much has been said in Parliament and in the Press
+about the potential impact on safety of the Government's proposed Football
+Spectators Bill, with its requirements for a national membership scheme.
+The Summit Group pic for and on behalf of The General Electric Company pic
+has made     proposals to the Football authorities for this scheme based on
+the GF.C's_                Smart Card technology.        We believe that an
+understanding of this technology and how it could work would assist an
+appreciation by the Enquiry of the effect on crowd safety of a membership
+scheme based on GEC's technology. Our submission is that not only would a
+scheme based on this technology not have a negative impact on safety, but
+under certain circumstances could even enhance it.
+The Smart Card itself contains a micro-computer with a large re-usable
+memory, surrounded by an aerial.       Its circuits are powered by magnetic
+induction when the card is placed in any orientation (upside down even)
+over a "reader" which emits an inductive radio frequency.     The card itself
+is exceptionally secure and robust, and information stored within it can
+be protected from any unauthorised reader.
+The main areas which appear to us as relevant to safety are the following:
+1.   Speed of entry through the turnstiles
+     Much has been made of the undesirability of big queue build-ups
+     outside grounds at turnstiles in the minutes before kick-off, while
+     cards are checked. This is an understandable concern with conventional
+     cards which must be passed to the turnstile operator and/or inserted
+     into a slot to be electronically read, adding several seconds to each
+     spectator's entry.
+     GEC's Smart Card however permits entry to the ground at least as fast
+     as at present, if not faster.   The card simply requires to be placed
+     by the spectator, in any orientation onto a reader.   This reader is a
+     totally sealed unit with no moving parts which can therefore be
+     accessed directly by the spectator without fear of its being
+     vandalised.
+
+
+
+
+       A GENERAL ELECTRIC COMPANY, P.L.C. AND BRITISH & COMMONWEALTH HOLDINGS PLC ASSOCIATEDCOMPANY
+                       REGISTERED OFFICE AS ABOVE, REGISTERED IN ENGLAND & WALES 2231277
+The card produces an almost instantaneous response (estimated 0.1 of a
+second) activating a valid entry light. An invalid card would produce
+an equally quick response to alert a police officer or club steward,
+who would usually question the spectator inside the ground after he
+has passed through the turnstile.
+Combined ticketing and identification checks
+Since each card has a secure large, re-usable memory it can be
+programmed for pre-paid entry for any number of matches from one up to
+a season-ticket.      On placing the card on the reader, this data is
+automatically read within the same time as the membership details,
+permitting    entry   faster   than would be    possible  with  manual
+verification of conventional ticket vouchers or collection of cash by
+turnstile operators as at present.
+Such a combined ticketing system whose relevant information was stored
+electronically within the card, would have the added advantages that
+tickets    could   not   be    touted  or transferred without   proper
+authorisation.   Thus fans would not travel to all-ticket matches in
+the hope of acquiring a ticket at the gates and possibly cause trouble
+outside the ground if unable to do so.
+Crowd management and segregation
+The Smart Card's electronic memory can also be used to store not only
+details of the Club with which a football supporter wishes to be
+affiliated (if any) but also a class of membership, supporters' club
+etc. This facility can be used to ensure segregation between home and
+away fans if desired, as well as controlled access to specific
+enclosures within the ground set aside for such membership groups.
+Once again, on GEC's Smart Card such information is read automatically
+within the same fraction of a second as the membership and ticket
+details, avoiding delay caused by other access control procedures
+presently in use such as cards requiring visual checks, or cards/keys
+which are inserted into slots.
+This segregation control can be quickly and easily altered at each
+ground before each match by club officials in consultation with the
+local police, if required, on a turnstile by turnstile basis.
+Control of numbers within confined areas
+Using the GEC system the number of cardholders passing through each
+turnstile is automatically recorded and cumulative totals for each
+ground sector relayed continuously to the police room. Provided
+turnstiles are arranged to permit entry only to suitably limited and
+secure spectator areas, the numbers entering each such area can be
+monitored and access to that area closed when it becomes full.
+For all-ticket matches, tickets electronically entered on membership
+cards could be issued for only the numbers of spectators that can be
+safely accommodated in each ground area.      Thus, provided that each
+turnstile is clearly marked according to which ticket holders will be
+allowed access through it, overcrowding can be avoided even without
+requiring all-seater stadia.
+5.   System failures
+     Concern has been expressed as to the effect on crowd management and
+     behaviour of a computer breakdown in the immediate pre-match period.
+     Each turnstile using GEC's Smart Card can operate completely
+     indepedently of all other turnstiles and of the       club and national
+     central computers, being backed up by emergency battery power if power
+     supplies are interrupted.    All required information is stored at each
+     turnstile should the club/central computer    go down or the connection
+     be broken.
+     At worst, a breakdown in card-reading equipment at any one turnstile
+     should render that single turnstile inoperative for only a matter of
+     minutes, until a replacement unit could be installed in its place, an
+     unskilled operation capable of being quickly and easily carried out.
+6.   Ability to read cards away from grounds
+     GEC's Smart Card can be securely read by a properly authorised person
+     using a battery powered hand-held reader at points where spectators
+     might congregate before or on the way to a match. Thus police officers
+     or club officials could check cards and tickets for all-ticket matches
+     for example at coach departure points, railway stations or ferry
+     terminals, or at whatever place outside the ground the police thought
+     appropriate and dissuade individuals who did not have a valid ticket
+     and/or membership card from travelling     to the match ground and
+     possibly causing trouble outside it.
+There are many other features of GEC's proposed system which enable it to
+work securely, economically and effectively to meet the requirements of
+the national membership scheme as well as for the benefit of individual
+clubs and football as a whole. A fully working prototype system has been
+built and could be shown to the Enquiry if so desired to demonstrate the
+safety features referred to above.
+Alternatively we would be glad to give evidence to the Enquiry on these
+issues should Lord Justice Taylor so wish.
+
+Yours sincerely.
+
+
+
+J. D. KAFHAtSLY
+

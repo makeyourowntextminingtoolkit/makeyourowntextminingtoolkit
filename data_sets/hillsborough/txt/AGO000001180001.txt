@@ -1,0 +1,1064 @@
+Commissioner o f Police for the Metropolis v Hurst [2005] EWCA Civ 890 (21 July 2... Page 1 o f 16
+
+
+ ^           [Home] [Databases] [World Law] [Search] [Help] [Feedback]
+
+       England and Wales Court of Appeal
+ ba,l» (Qyii Division) Decisions
+You are here: B A IL II» Databases » England and Wales Court o f Appeal (Civil Division) Decisions »
+Commissioner o f Police for the Metropolis v Hurst [2005] EWCA Civ 890 (21 July 2005)
+
+
+
+
+[Database Home Page] [Database Search] [Database Case Name Search] [Recent Decisions]
+[Download RTF] [Help]
+
+
+
+                                                   Neutral Citation Number: [2005] EWCA Civ 890
+                                                                                        Case No: C1/2005/0572
+
+IN THE SUPREME COURT OF JUDICATURE
+COURT OF APPEAL (CIVIL DIVISION)
+ON APPEAL FROM THE HIGH COURT OF JUSTICE
+QUEEN'S BENCH DIVISION
+DIVISIONAL COURT
+Lord Justice Rose and Mr Justice Henriques
+CO/989/2003
+[2003] EWHC 1721 Admin
+
+                                                                                        Royal Courts of Justice
+                                                                                    Strand, London, WC2A 2LL
+                                                                                                  21 July 2005
+
+                                                  Before:
+
+                                          LORD JUSTICE BUXTON
+                                          LORD JUSTICE SEDLEY
+                                                  and
+                                           SIR MARTIN NOURSE
+
+
+                                                   Between:
+                       THE COMMISSIONER OF POLICE FOR THE
+                                  METROPOLIS              Appellant
+                                     - and -
+                                CHRISTINE HURST           Respondent
+
+
+
+                              (Transcript of the Handed Down Judgment of
+                             Smith Bernal Wordwave Limited, 190 Fleet Street
+                                            London EC4A 2AG
+                              Tel No: 020 7421 4040, Fax No: 020 7831 8838
+                                 Official Shorthand Writers to the Court)
+
+
+
+
+       Ms Anne Studd (instructed by The Solicitor to the Metropolitan Police) for the Appellant
+
+
+
+
+http://www.bailii.org/ew/cases/EWCA/Civ/2005/890.html                                                  24/10/2005
+Commissioner o f Police for the Metropolis v Hurst [2005] EWCA Civ 890 (21 July 2... Page 2 o f 16
+
+
+       Mr Keir Starmer QC and Mr Stephen Cragg (instructed by Bhatt Murphy) for the Respondent
+
+
+                                        HTML VERSION OF JUDGMENT
+
+
+                                                Crown Copyright ©
+
+       Lord Justice Buxton :
+
+
+       Background
+
+  1.   On 25 May 2000 Mr Troy Hurst, the son of the applicant before the Divisional Court, Mrs Christine
+       Hurst, was killed by a violent stabbing attack perpetrated by a neighbour, Mr Albert Reid. An inquest
+       into Mr Hurst's death was opened very shortly thereafter, but immediately adjourned under the
+       provisions of section 16(1) of the Coroners Act 1988 [the 1988 Act] because Mr Reid had been
+       charged with murder. He was eventually convicted of manslaughter on 16 July 2001. The Coroner
+       accordingly had to decide whether there was "sufficient cause" to re-open the inquest under section 16
+       (3) of the 1988 Act.
+
+  2.   The Coroner had been strongly pressed by Mrs Hurst and those advising her to re-open the inquest:
+       not to ascertain the cause and immediate circumstances of the death, which were unfortunately plain
+       enough and had in any event been determined in the criminal trial, but to explore further what Mrs
+       Hurst considered had been the many failings of various public authorities in giving her son sufficient
+       protection from the known hostility and propensity to violence of Mr Reid. The concerns asserted by
+       Mrs Hurst included failure by Barnet Council, Mr Reid's landlords, to take sufficient steps to evict Mr
+       Reid in the light of threatening and violent behaviour towards neighbours, including Mr Hurst and his
+       father; failure by Barnet Health Authority adequately to respond to Mr Hurst's personality disorder; and
+       failure by the Metropolitan Police to act upon previous incidents of violence on the part of Mr Reid and,
+       in particular, failure to treat with sufficient seriousness a series of reports of violent and erratic
+       behaviour on the day of the death itself. A further theme of particular concern was the apparent failure
+       of these three authorities to share the information that they had about Mr Reid with each other, and
+       indeed within the police force itself, with the result that, for instance, the officers who attended to deal
+       with the various incidents on the day of the death were not sufficiently briefed about Mr Reid's very
+       violent history.
+
+  3.   By a substantial letter dated 19 November 2002 the Coroner declined to re-open the inquest. He
+       considered, simply applying the wording of section 16(3) of the 1998 Act, that all the matters required
+       to be ascertained at an inquest had been ascertained in the criminal trial; and then held that the
+       decision not to re-open the inquest was compatible with his and the United Kingdom's obligations
+       under article 2 of the European Convention on Human Rights [ECHR]. The latter conclusion was
+       challenged in the Divisional Court, in judicial review proceedings from which the present appeal is
+       brought.
+
+        The decision o f the Divisional Court
+
+  4.   The Divisional Court held, deciding between conflicting first instance decisions, that the duty under
+       article 2 to investigate unexplained deaths applied to the Coroner's exercise of his statutory discretion
+       even though the death occurred before the coming into force of the Human Rights Act 1998 [the HRA].
+       They found that duty to be as stated by the ECtHR in Osman v United Kingdom 29 EHRR 245 [116], in
+       terms adopted and approved by this court in R(A) v Lord Saville o f Newdigate [2002] 1 WLR 1249 at
+       paragraphs 12 and 28:
+
+                     "It must be established...that the authorities knew or ought to have known
+                      at the time of the existence of a real and immediate risk to the life of an
+                      identified individual or individuals from the criminal acts of a third party and
+                     that they failed to take measures within the scope of their powers which,
+                     judged reasonably, might have been expected to avoid that risk ”
+
+              After an extensive review of the available evidence the Divisional Court, although
+              recognising the stringency of that test, concluded that the Coroner's decision had not
+
+
+
+
+http://www.bailii.org/ew/cases/EWCA/Civ/2005/890.html                                                    24/10/2005
+Commissioner o f Police for the Metropolis v Hurst [2005] EWCA Civ 890 (21 July 2... Page 3 o f 16
+
+
+              been in compliance with article 2. Rose LJ said in paragraphs 110 and 111:
+
+                     "Our task is to decide whether, when the Coroner refused to resume the
+                     inquest, the material then before him, and now before us, gave rise,
+                     arguably, to a breach of Article 2 by either [the Metropolitan Police or Barnet
+                     Council], In my view, it did, and however inadequate a remedy the holding
+                     of an inquest in such circumstances may be, the Coroner's refusal to
+                     resume it was in my judgment fatally flawed ...and breached his obligation
+                     under the Human Rights Act to act compatibly with the Convention.
+
+  5.   It is not necessary to go further into the detail of the Divisional Court's reasons for that conclusion,
+       because the Metropolitan Police, the only appellant before us, does not contest the proposition that if
+       the Divisional Court was right to consider that article 2 applied to the Coroner's decision, then it was
+       open to it to find on the material before it that the duty imposed by that article had not been fulfilled. Nor
+       is it in issue whether a Coroner's inquest is the most efficacious medium through which to investigate
+       the matters that call for enquiry in this case: a question on which I for my part share the doubts that
+       were plainly entertained by Rose LJ. Granted that the resumption of the inquest is the only available
+       step forward in the investigation, the contest before us is as to whether the decision as to that
+       resumption is governed by article 2.
+
+              Events after the decision o f the Divisional Court
+
+  6.   The Divisional Court directed the coroner to resume the inquest. Because of perceived practical
+       difficulties, that step was not put in hand by the coroner before the House of Lords delivered judgment
+       in In Re McKerr [2004] 1 WLR 807 [McKerr] on11 March 2004. It will be necessary to come back to
+       that case in much greater detail. For the moment, it suffices to note that the House held, contrary to the
+       view of the Divisional Court set out in paragraph 4 above, that the duty to investigate unexplained
+       deaths imposed by article 2 only applied to deaths occurring after 2 October 2000, the commencement
+       date of the operation of the HRA; the HRA was not, at least in this respect, retrospective; and the
+       investigatory duty that forms part of article 2 was not "free-standing", but only adjectively linked to the
+       duty to protect life. Since the state had no article 2 duty to avoid Mr McKerr's death before 2 October
+       2000, equally it had no article 2 duty to investigate that death if it occurred before 1 October 2000, even
+       though the issue as to that investigation arose after 1 October 2000. And further, at paragraph 25 of his
+       speech in McKerr Lord Nicholls of Birkenhead specifically stated, in terms to which we will again have
+       to return, that the Divisional Court in our case had fallen into error by finding a duty of investigation in
+       respect of a death that occurred on 25 May 2000.
+
+  7.   Those observations necessarily do not disturb the actual order of the Divisional Court; and in these
+       proceedings one of the interested parties in the court below, the Metropolitan Police, appeals against
+       that order, relying principally on McKerr. The other interested parties, the local authority and the health
+       authority, support the appeal but have taken no active part in it. Nor has the coroner taken an active
+       part in the appeal, his position very properly being that he will abide by the order of the court.
+
+  8.   The appeal is strenuously resisted by Mrs Hurst, who seeks to uphold the Divisional Court's order on
+       grounds that were neither before that court nor before the House of Lords in McKerr. No objection has
+       been taken to that course, though it has meant that this appeal has turned into an enquiry wholly
+       different from that in the Divisional Court. The route by which we are invited to uphold the Divisional
+       Court's order is one of some complexity. We have been assisted in pursuing that route by the
+       admirable arguments of Mr Starmer QC for Mrs Hurst and of Miss Studd for the police: whilst being all
+       the while very conscious that we are being asked to uphold an order that has already been
+       characterised as erroneous in the House of Lords.
+
+  9.   That has also meant that before us the proceedings took the form of Mrs Hurst, albeit technically the
+       respondent, presenting her new case in support of the Divisional Court's order, which case was then
+       answered by the appellant. That form is reflected in the form of the judgment that follows. However,
+       before setting out the issues as reflected in the respondent's argument it is necessary to summarise
+       the coroner's statutory duties.
+
+       The coroner's duties
+
+ 10.   By section 11 (5)(b)(ii) of the 1988 Act, the coroner's inquisition returned at the end of the inquest shall
+       set out, insofar as it has been proved, "how, when and where the deceased came by his death". The
+       Coroner's Rules 1984, made under the authority of a provision consolidated in the 1988 Act, provide by
+
+
+
+http://www.bailii.org/ew/cases/EWCA/Civ/2005/890.html                                                  24/10/2005
+Commissioner o f Police for the Metropolis v Hurst [2005] EWCA Civ 890 (21 July 2... Page 4 o f 16
+
+
+       rule 36 that the proceedings and evidence at an inquest shall be directed solely to answering that
+       question; and in particular that no verdict shall be framed so as to appear to determine any question of
+       criminal liability of a named person, or any question of civil liability.
+
+ 11.   The relevant parts of section 16(3) of the 1988 Act, already referred to in paragraph 1 above, need to
+       be set out verbatim:
+
+                     "After the conclusion of the relevant criminal proceedings... the coroner
+                     may... resume the adjourned inquest if in his opinion there is sufficient
+                     cause to do so."
+
+       The respondent's arguments
+
+ 12.   The arguments advanced on behalf of Mrs Hurst can be divided into three categories. First, reliance is
+       placed in a number of ways on the effect in domestic law of the ECHR before the HRA. To quote Lord
+       Bingham of Cornhill in R v Lyons 12003] 1 AC 976[13]:
+
+                     "Even before the Human Rights Act 1998 the Convention exerted a
+                     persuasive and pervasive influence on judicial decision-making in this
+                     country, affecting the interpretation of ambiguous statutory provisions,
+                     guiding the exercise of discretions, bearing on the development of the
+                     common law"
+
+              It was therefore argued that even if, because of the date of the death, the coroner was to
+              be regarded as exercising a discretion governed purely by domestic law, innocent of the
+              HRA, that discretion had to be illuminated by, and exercised in the light of, the United
+              Kingdom's international obligations springing from this country's adherence to the ECHR.
+
+ 13.   Second, section 11 (5)(b)(ii) of the 1988 Act had been authoritatively interpreted by the House of Lords
+       in R(Middleton) v West Somerset Coroner 12004] 2 AC 182 [Middleton], which case concerned a death
+       occurring before the implementation of the HRA, although the timing point that prevailed in McKerr was
+       not taken. That interpretation was said now to bind the coroner, and should drive him to resume the
+       inquest.
+
+ 14.   Third, strong reliance was placed on section 3 of the HRA, which reads:
+
+                     "So far as it is possible to do so, primary legislation and subordinate
+                     legislation must be read and given effect in a way which is compatible with
+                     the Convention rights"
+
+ 15.   By section 3(2) of the HRA, that provision applies to all legislation, whenever it was enacted. It
+       therefore applied to the 1988 Act; and in that context section 3 should be read as operating
+       "retrospectively", in the sense that the coroner's duty set out in the 1988 Act should be interpreted
+       compatibly with article 2 even where, following the decision in McKerr, the death to which that duty
+       related was not covered by the provisions of the Convention.
+
+ 16.   As already observed, none of these arguments were placed before the Divisional Court. None of them
+       featured in McKerr. And it may also be convenient to emphasise that none of them assert in any way
+       the "overriding common law right" that was very firmly rejected in McKerr. I deal with the arguments in
+       turn, but as a preliminary to that must set out the interpretation placed in domestic law before the HRA
+       on section 11 (5) of the 1988 Act.
+
+       Section 11(5) o f the 1988 Act before the HRA
+
+ 17.   R v HM Coroner for North Humberside ex p Jamieson [1995] QB 1 [Jamieson] concerned a death in
+       prison, the deceased's relatives challenging the refusal of the coroner to permit the jury to return a
+       verdict in which lack of care on the part of the prison authorities in guarding against suicide played a
+       part. This court, in a judgment delivered by Sir Thomas Bingham MR (as he then was), held, at p 24A,
+       that
+
+                     "Both in section 11 (5)(b)(ii) of the Act of 1988 and in rule 36(1 )(b) of the
+
+
+
+
+http://www.bailii.org/ew/cases/EWCA/Civ/2005/890.html                                                 24/10/2005
+Commissioner o f Police for the Metropolis v Hurst [2005] EWCA Civ 890 (21 July 2... Page 5 o f 16
+
+
+                     Rules of 1984, 'how' is to be understood as meaning 'by what means'. It is
+                     noteworthy that the task is not to ascertain how the deceased died, which
+                     might raise general and far-reaching issues, but 'how...the deceased came
+                     by his death', a more limited question directed to the means by which the
+                     deceased came by his death"
+
+              It therefore followed [at p26A] that
+
+                     "Neither neglect nor self-neglect should ever form any part of any verdict
+                     unless a clear and direct causal connection is established between the
+                     conduct so described and the cause of death"
+
+ 18.   Jamieson was a case about the form of the verdict rather than the scope of the enquiry. Nonetheless,
+       the view taken by this court of the limited permissible range of that verdict makes it inevitable that the
+       enquiry at the inquest should be equally limited to events having "a clear and direct causal connection"
+       with the death. That would only rarely encompass cases of lack of vigilance. It plainly would not extend
+       to the present case, where any direct causal connection between the failings of the police and the
+       death was broken by the violent intervention of Mr Reid.
+
+ 19.   Less than two months after Jamieson this court heard and decided R v West London Coroner ex p
+       Dallaglio [1994] 4 All ER 139 [Dallaglio], which concerned (amongst other questions) the refusal of the
+       coroner to exercise his power under section 16(3) to resume the inquests into the deaths that occurred
+       in the Marchioness disaster on the termination of the criminal proceedings that resulted from that
+       disaster. Counsel for the coroner relied on the Jamieson explication of "by what means" to argue that a
+       resumed inquest would not assist the families, since it would not and could not investigate the lack of
+       care that had led to the fatal collision, that collision being plainly the cause of the deaths. However, in
+       the leading judgment Simon Brown LJ, at p 154f, drew attention to section 8(3)(d) of the 1988 Act,
+       which provides that the coroner must sit with a jury
+
+                     "If it appears to a coroner     that there is reason to suspect...that the death
+                     occurred in circumstances the continuance or possible recurrence of which
+                     is prejudicial to the health or safety of the public or any section of the public"
+
+              That appeared to be difficult to reconcile with the limited view of the coroner's powers
+              taken in Jamieson. And Simon Brown LJ went on to the further obligation of the coroner
+              recognised at p26B of Jamieson to be vigilant to ensure that the relevant facts are
+              exposed to public scrutiny. That scrutiny might have been thought to be restricted to the
+              facts to which Jamieson had restricted the enquiry, but Simon Brown LJ drew from that
+              passage the conclusion, at p155b, that
+
+                     "It is, in short, for the individual coroner to recognise and resolve the tension
+                     existing between ss 8(3) and 11 (5)(b) of the 1988 Act and r36. The inquiry
+                     is almost bound to stretch wider than strictly required for the purposes of a
+                     verdict. How much wider is pre-eminently a matter for the coroner whose
+                     rulings upon the question will only exceptionally be susceptible to judicial
+                     review"
+
+ 20.   Sir Thomas Bingham MR, at p 164f, also addressed Jamieson:
+
+                     "Jamieson's case was specifically directed to the verdict of lack of care in
+                     the context of deaths in custody, but the court's ruling was of wider
+                     application and it is true that if these inquests were to be resumed the
+                     verdicts which the coroner could properly leave open to the jury at the end
+                     would be both limited and predictable. The court did not, however, rule that
+                     the investigation into the means by which the deceased came by his death
+                     should be limited to the last link in the chain of causation. That would not be
+                     consistent with the court's conclusion in [Jamieson at p 26B] which
+                     emphasised the need for full, fair and fearless investigation and the
+                     exposure of relevant facts to public scrutiny, and it would defeat the
+                     purpose of holding inquests at all if the inquiry were to be circumscribed in
+                     the manner suggested. It is for the coroner conducting an inquest to decide,
+                     on the facts of a given case, at what point the chain of causation becomes
+                     too remote to form a proper part of his investigation. That question,
+
+
+
+http://www.bailii.org/ew/cases/EWCA/Civ/2005/890.html                                                     24/10/2005
+Commissioner o f Police for the Metropolis v Hurst [2005] EWCA Civ 890 (21 July 2... Page 6 o f 16
+
+
+                     potentially a very difficult question, is for him"
+
+              In our case, the coroner did not ask himself that question, or at least not in that precise
+              form. As I have already ventured to suggest, had he posed that question, and if the
+              reference in Dallaglio to the "chain of causation" bears the usual legal meaning of that
+              expression, then the question could only have been answered in one way.
+
+ 21.   Lord Bingham of Cornhill, delivering the opinion of the Appellate Committee, reverted to Jamieson at
+       paragraph 28 of Middleton. In that case, as will be described below, the House held itself obliged, in
+       the light of article 2, to read section 11(5)(b)(ii) significantly more widely than had this court in
+       Jamieson; and thus to place upon the coroner obligations as to investigation of allegations of lack of
+       care in prison deaths that had been repudiated in Jamieson. Lord Bingham said:
+
+                     "Remarkably, as it now seems, the Court of Appeal made no reference to
+                     the European Convention in [Jamieson], and the report does not suggest
+                     that counsel referred to it either. Counsel for Mrs Middleton criticised the
+                     reasoning of that decision, but it appears to the committee to have been an
+                     orthodox analysis of the Act and Rules and an accurate, if uncritical,
+                     compilation of judicial authority as it then stood."
+
+              The House then set out a summary of the findings in Jamieson, including those described
+              above, without further comment. Dallaglio was not cited to the House and not mentioned
+              in the opinion, though Lord Bingham can scarcely have been unaware of that case.
+
+ 22.   The treatment of the case in Middleton unavoidably confirms that the Jamieson view, that "how" in
+       section 11(5)(b)(ii) means "by what means", and no more, was the law of England until the coming into
+       operation of the HRA. If this court in Dallaglio placed a gloss on that formulation, unperceived by the
+       House in Middleton, for the reason set out at the end of paragraph 20 above that gloss cannot assist
+       Mrs Hurst.
+
+       Reconsideration of section 11(5)(b)(ii) in the light o f ECHR jurisprudence?
+
+ 23.   Mrs Hurst argued that even without reference to the HRA the interpretation of section 11 (5)(b)(ii)
+       adopted in Jamieson should be revisited in the light of this country's obligation to conform its domestic
+       law to its international obligations as found in the ECHR. Reference is made to the observations of
+       Lord Bingham quoted in paragraph 12 above, and also to what was said in that same case by Lord
+       Hoffmann, [200311 AC 976122]:
+
+                     "There is a strong presumption in favour of interpreting English law (whether
+                     common law or statute) in a way that does not place the United Kingdom in
+                     breach of an international obligation"
+
+             Mrs Hurst contends that the jurisprudence of the ECtHR imposing the duty under article 2
+             of effective investigation, conveniently listed by Lord Bingham in paragraph 2 of the report
+             of the Appellate Committee in Middleton, largely or entirely post-dated Jamieson. Had it
+             been available to this court in that case, and more particularly to counsel appearing in
+             that case, the outcome might have been different. Or, alternatively, Jamieson should
+             simply be reconsidered as being inconsistent with the jurisprudence of the ECtHR. We
+             were shown a case in the Court of Appeal in Northern Ireland, Jordan [20041 NICA 29, in
+             which Nicholson LJ expressed support for both of those views.
+
+ 24.   None of this was addressed in Middleton. That is more than merely a passing observation, because if
+       this issue were being considered at the level of the House of Lords it would, whether right or wrong, at
+       least not face the objections in terms of stare decisis that in my view makes the argument unavailable
+       in this court.
+
+ 25.   In Leeds City Council v Price [2005] 1 WLR 1825 this court had to consider whether it was bound to
+       follow a decision of the House of Lords that was said to conflict with a subsequent decision of the
+       ECtHR. This court held that the principles of stare decisis required it to follow the House of Lords
+       decision, as a binding precedent in the domestic hierarchy. The court cited a ruling, prior to the
+       implementation of the HRA, by Judge LJ in the Divisional Court in R(Bright) v Central Criminal Court
+       [2001] 1 WLR 662 at p682:
+
+
+
+
+http://www.bailii.org/ew/cases/EWCA/Civ/2005/890.html                                                 24/10/2005
+Commissioner o f Police for the Metropolis v Hurst [2005] EWCA Civ 890 (21 July 2... Page 7 o f 16
+
+
+                     "We are not permitted to re-examine decisions of the European court in
+                     order to ascertain whether the conclusion of the House of Lords or Court of
+                     Appeal may be inconsistent with those decisions, or susceptible to a
+                     continuing gloss. The principle of stare decisis cannot be circumvented or
+                     disapplied in this way"
+
+              The constitution of this court that decided Price does not appear to have been told that
+              the observations of Judge LJ were approved generally by this court, and applied in the
+              post-HRA world, in Kaya v Haringey London Borough Council (2001) 34 HLR 1 [36]-[37];
+              see also R(Williamson) v Secretary o f State for Education f20031 QB 1300f41 ]. And that
+              must logically be the case: we are bound by this court as much as we are by the House
+              of Lords.
+
+ 26.   Jamieson is thus binding authority on the meaning of section 11 (5)(b)(ii), authority that cannot be
+       displaced by resort to subsequent jurisprudence of the ECtHR. The case could therefore be
+       undermined only if it could be said to have been decided perincuriam of the Convention jurisprudence.
+       But that argument cannot run in a pre-HRA case. The interpretative obligation of the court in pre-HRA
+       cases was that enunciated by Lord Bridge in R v Secretary of State for the Home Department ex parte
+       Brind [1991] 1 AC 696 at pp 747 and following. Neither the comparatively cautious approach in that
+       case, nor the underlying Convention jurisprudence, can be characterised as a statute or a rule having
+       statutory effect such as to bring the case within the third rule in Young v Bristol Aeroplane Co.
+
+ 27.   I accordingly find myself obliged to conclude that without the assistance of the HRA the interpretation
+       of section 11 (5)(d)(ii) remains as laid down in Jamieson.
+
+       Reconsideration of the section 16(3) duty in the light of the Convention jurisprudence?
+
+ 28.   When the coroner gave his decision he did so under section 16(3) of the 1998 Act: see paragraphs 3
+       and 11 above. In the course of that decision he addressed his responsibilities under article 2. His
+       conclusion that article 2 did not compel a resumption of the inquest was held by the Divisional Court to
+       have been incorrect, a conclusion that is not contested before us: see paragraphs 4 and 5 above.
+
+ 29.   The present point is a short one, but in my view it is compelling. Even before the HRA domestic
+       tribunals were bound to give full weight to the United Kingdom's international obligations to be found in
+       the ECHR: see the summary by Lord Bingham of Cornhill, cited in paragraph 12 above. That duty
+       should in particular guide the exercise of discretions. When, absent the HRA, the coroner came to
+       exercise his discretion under section 16(3), he had to take those international obligations into account
+       in deciding whether there was sufficient cause to resume the inquest. Not only were the international
+       obligations sufficient, they were, as the Divisional Court found, compelling. I would hold that it was not
+       open to the coroner in terms of rationality as a matter of English domestic law to conclude otherwise
+       than that the article 2 obligation required the resumption of the inquest.
+
+ 30.   It may be prudent to note in this connexion that, in contrast to the argument based on the interpretation
+       of section 11 (5)(b)(ii), this argument is not vulnerable to the rule of stare decisis. That is simply
+       because section 11 (5)(b)(ii) has been interpreted in authority binding on this court, whereas section 16
+       (3) has not. Nor is the argument undermined by McKerr, which is concerned with the application of the
+       obligations in English domestic law created by the HRA, and not with the pre-existing obligations of the
+       United Kingdom in international law.
+
+ 31.   I would therefore uphold the conclusion reached by the Divisional Court on the ground indicated in
+       paragraph 29 above.
+
+ 32.   Somewhat allied to this point, though different from it, is an argument that attracted Rose LJ, based on
+       observations of Lord Hope of Craighead in R v Home Secretary ex p Launder \1997] 1 WLR 839 at p
+       867. There the Secretary of State, in dealing with an extradition request, had purported to apply to it
+       the requirements of the ECHR. Lord Hope held that in those circumstances it was no sufficient answer
+       to complaints that he had not performed that task adequately to say that the ECHR did not bind the
+       executive. Put shortly, and not in the terms used by Lord Hope, if the Secretary of State undertook to
+       apply the ECHR, even if at that date not obliged to do so by the HRA, he must get that application right.
+       So, in our case, the coroner had volunteered to consider the ECHR, and equally must apply it correctly.
+
+ 33.   I would hesitate to adopt that argument, at least in the terms that it was put to us. If a given chapter of
+
+
+
+
+http://www.bailii.org/ew/cases/EWCA/Civ/2005/890.html                                                 24/10/2005
+Commissioner o f Police for the Metropolis v Hurst [2005] EWCA Civ 890 (21 July 2... Page 8 o f 16
+
+
+       the law is irrelevant to a judicial or administrative decision, it is difficult to see that the decision-maker
+       acts irrationally, in the sense of making a decision that has to be quashed, if he forms an incorrect
+       judgement about that chapter of the law. There is no jurisprudence developing Lord Hope's approach,
+        no doubt because it became redundant at least in relation to Convention questions, once the HRA did
+        make the executive bound by the ECHR as a matter of English domestic law. And it was probably
+        redundant in most cases, and certainly in cases such as the present, even before the HRA, once the
+       approach referred to in paragraph 29 above was properly understood: an approach that does not seem
+       to have been put to the House of Lords in Launder, where the ECHR points in any event only arose
+       very late in the day.
+
+ 34.   In so saying, I am conscious that a view similar to that of Lord Hope was expressed, obiter, by Lord
+       Phillips of Worth Matravers MR in R(Mahmood) v Home Secretary [2001] 1 WLR 840[36l. However,
+       the point seems neither to have been argued before that court nor developed by it, and had it been I
+       would respectfully suggest that the point would not have withstood the objections to it suggested in
+       paragraph 33 above. It is not necessary to investigate these essentially historical issues further,
+       because the appellant succeeds in any event on the basis set out in paragraph 29 above.
+
+       Middleton as binding authority on the interpretation of section 11 (5)(b)(ii)?
+
+ 35.   This argument has already been outlined in paragraph 13 above. Addressing the impact of article 2 on
+       the legislation as to the duties of coroners, the Appellate Committee said at paragraphs 34 and 35 of
+       Middleton:
+
+                     "It is correct that the scheme enacted by and under the authority of
+                     Parliament should be respected save to the extent that a change of
+                     interpretation (authorised by section 3 of the Human Rights Act 1998) is
+                     required to honour the international obligations of the United Kingdom
+                     expressed in the Convention. [35] Only one change is in our opinion
+                     needed: to interpret 'how' in section 11 (5)(b)(ii) of the Act and rule 36(1 )(b)
+                     of the Rules in the broader sense previously rejected, namely as meaning
+                     not simply 'by what means' but 'by what means and in what circumstances'".
+
+              That enabled coroner's juries in want of care cases to express, in an appropriate case, an
+              opinion on events leading up to the death: ibid, paragraphs 31-32.
+
+              The same view was expressed by the House, per Lord Hope of Craighead, in a case
+              heard by the same constitution at the same time as Middleton, R(Sacker) v West
+              Yorkshire Coroner [2004] 1 WLR 796 [Sacker]. Lord Hope, at paragraph 27, referred to
+              what had been said by Lord Bingham in Middleton, and continued:
+
+                     "The word ’how’ in section 11 (5)(b)(ii) of the 1988 A ct... .is open to the
+                     interpretation that ifcmeans not simply 'by what means’ but rather 'by what
+                     means and in what circumstances'. The provisions of section 3 of the
+                     Human Rights Act 1998 indicate that it should now be given the broader
+                     meaning."
+
+ 36.   Mrs Hurst argued that Middleton bound all subsequent courts, including this court in this case, to
+       interpret section 11 in those terms. Therefore, even though McKerr precluded the direct application of
+       article 2 to the present case, the coroner should have applied section 11 in the meaning now placed on
+       it by the House of Lords. This, it is fair to say the leading argument advanced on Mrs Hurst’s behalf,
+       would, if correct, determine the case in her favour. It is however vulnerable to a series of substantial
+       objections.
+
+ 37.    First, appreciating that the death in Middleton had occurred before the implementation of the 1998 Act,
+        Lord Bingham, at paragraph 50, was careful to say that nothing in Middleton should be understood to
+       throw doubt on the conclusion of the House in McKerr. One is obliged to observe that Mrs Hurst's
+       argument uses Middleton for exactly that purpose. Second, if Lord Bingham had intended that his
+       interpretation should apply in pre-HRA cases such as that of Mrs Hurst, it would have been impossible
+       for him to express himself about the pre-HRA law in the terms that he adopted in Middleton: see
+        paragraphs 21-22 above. And it is quite clear in any event from both Middleton and Sacker that neither
+       judgment was intended to say anything about pre-HRA cases.
+
+
+
+
+http://www.bailii.org/ew/cases/EWCA/Civ/2005/890.html                                                    24/10/2005
+Commissioner o f Police for the Metropolis v Hurst [2005] EWCA Civ 890 (21 July 2... Page 9 o f 16
+
+
+ 38.   It will have been seen from the passages quoted above that both Lord Bingham and Lord Hope found
+       authority for the new interpretation that they adopted in section 3 of the HRA. The extent to which
+       section 3 is "retrospective" is a matter of acute controversy in the present case, to which I shall have to
+       return at length. But it is quite clear that Lord Bingham and Lord Hope had no such thought in mind
+       when they referred to section 3. They plainly did so because (the point that arose in McKerr not having
+       been taken before them) they saw themselves as freed in HRA cases to apply the liberty granted to the
+       courts by section 3. What they said as to the meaning and application of section 11 of the 1988 Act
+       therefore went no further than to determine its meaning and application in cases governed by the HRA.
+
+ 39.   Mr Starmer said that to limit Middleton in that way produced a striking and unusual result, that section
+       11 meant different things according to whether it was applied to pre-HRA or post-HRA cases. I
+       acknowledge the forensic force of that observation, but that force is much reduced when one considers
+       the singular nature of section 3, and the nature of the exercise that it requires of the courts. Although
+       when explaining the effect of section 3 it is natural to speak of the resulting "meaning" of the legislation,
+       as did Lords Bingham and Hope in the cases just considered, in truth the exercise mandated by
+       section 3 is different from that of finding simply the verbal meaning of the words used in legislation. The
+       draftsman of section 3 was careful to speak not in terms of elucidation of the meaning of words, but
+       rather of the active duty of the court to read and give effect to those words in a way which is compatible
+       with the Convention rights. As Lord Steyn points out in his exposition of section 3's origin and purpose
+       in paragraphs 40-50 of his speech in Ghaidan v Godin-Mendoza [2004] 2 AC 557. an exposition that I
+       would respectfully adopt, section 3's technique has its origin in the Marleasing rule in Community law, a
+       rule very different from an ordinary English rule of interpretation; and thus goes well beyond the rules of
+       interpretation previously used to give effect to the ECHR, as for instance is found in Brind. Accordingly,
+       not only should one not be surprised if the application of section 3 produces a result different from that
+       which English law would reach without the benefit of section 3; but also section 3’s particular nature
+       means that careful consideration has to be given to the standing of the ECHR in any case to which it is
+       sought to apply the section.
+
+ 40.   For these reasons, therefore, it is not possible to rely on the fact that section 3 was used in Middleton
+       to put a particular construction on section 11 of the 1988 Act to assert that Middleton is authority for the
+       application of the section 3 reading of section 11 in every case. But if section 3 cannot be deployed
+       through the medium of Middleton, may it nonetheless be applied directly to the present case, to require
+       the coroner and this court to read and apply section 11 in a way which is compatible with the
+       Convention rights even though the facts on which the Convention right is based occurred before the
+       HRA? This is a completely new issue, not addressed in any of Middleton-, McKerr; or this case in the
+       Divisional Court. A series of difficult issues arise: the meaning of "the Convention rights” in section 3;
+       whether section 3 should in this case be applied "retrospectively", in which connexion close attention
+       has to be paid to the speeches in the House of Lords in Wilson v First County Trust(No2) [2004J_1_AC
+       816 [Wilson]\ and the effect of McKerr on this issue. I deal with these in turn.
+
+       "The Convention rights"
+
+ 41.   Miss Studd submitted that the attempted application of section 3 to Mrs Hurst’s case fell at the first
+       hurdle. What section 3 required was the giving of effect to legislation in a way which was compatible
+       with Convention rights. That meant, rights arising under the 1998 Act. But, as McKerr showed, Mrs
+       Hurst had no such rights. Even if section 3 could in principle be applied to her case, it would not help
+       her.
+
+ 42.   Counsel for Mrs Hurst submitted a reply which argued that section 3 had been applied by the English
+       courts in cases such as Ghaidan v Godin-Mendoza [2004] 2 AC 557 and X v Y [20041 EWCA Civ 662.
+       where, because the respondent was not a public authority, the rights relied on were not directly
+       enforceable in domestic law. The rights used in the section 3 exercise must therefore have been the
+       rights held by the claimants against the United Kingdom in international law, by virtue of the United
+       Kingdom’s adoption of the ECHR many decades before the HRA. It was those rights that Mrs Hurst
+       sought to assert through the medium of section 3.
+
+ 43.   That argument has to be approached with considerable caution. Both in Ghaidan and in X v Y the
+       article of the ECHR relied on was article 8. Since the early days of ECHR jurisprudence that article has
+       been recognised as placing upon the state not merely a negative obligation of non-interference with
+       family life, but a further positive obligation, for that reason unusual in ECHR terms, to further family and
+       private life even in the sphere of relations of individuals between themselves: see for instance Marckx v
+       Belgium (1979) 2 EHRR 330[31 ] and X a n d Y v Netherlands (1985) 8 EHRR 235[23]. It is that state
+       obligation that overlays cases, or at least overlays cases where the interpretation of legislation is
+       involved, that seek to assert article 8 values in private law litigation.
+
+
+
+http://www.bailii.org/ew/cases/EWCA/Civ/2005/890.html                                                 24/10/2005
+Commissioner o f Police for the Metropolis v Hurst [2005] EWCA Civ 890 (21 July...                  Page 10 o f 16
+
+
+ 44.   But there is a more direct reason why international obligations, as opposed to the obligations created
+       by the HRA, are to be relied on in the application of section 3. Section 1(1) provides that in the HRA,
+       and thus in section 3, ’’the Convention rights” means the rights and fundamental freedoms set out in
+       [various articles of] the Convention: meaning thereby the ECHR. Those obligations exist and have
+       force because of the United Kingdom’s adherence to the ECHR rather than because of the passage of
+       the HRA; and it is the jurisprudence of article 2 in that sense that Mrs Hurst says should direct the
+       court's reading of section 11 of the 1988 Act.
+
+ 45.   This distinction is, with respect, illuminated by the analysis of Lord Hoffmann in paragraph 63 of
+       McKerr. Lord Hoffmann said:
+
+                     "Although people sometimes speak of the Convention having been
+                     incorporated into domestic law, that is a misleading metaphor. What the Act
+                     has done is to create domestic rights expressed in the same terms as those
+                     contained in the Convention, But they are domestic rights, not international
+                     rights. Their source is the statute, not the Convention.”
+
+              What McKerr holds is that Mrs Hurst does not have the right in domestic law created by
+              section 7 of the HRA to claim that the coroner has acted unlawfully under section 6 of the
+              HRA by not respecting her article 2 right to a proper investigation into her son's death.
+              But that says nothing about her rights against the state in international law created by the
+              United Kingdom’s adoption of the ECHR: and it is to those rights that section 3 relates.
+
+              Can section 3 be applied retrospectively?
+
+ 46. McKerr held that the obligation under the HRA to carry out an article 2 enquiry did not apply in respect
+     of a death that occurred before 2 October 2000, the date of implementation of the HRA. That it was the
+     HRA rights that were under consideration, and not the rights in international law, is plain throughout,
+     illustrated for instance by Lord Steyn’s observation in paragraph 40:
+
+                     "Mr McKerr's case is crucially dependent on the applicability of section 6(1)
+                     of the Human Rights Act 1998”
+
+              The outcome of that case was however determined by the holding of the House, albeit
+              elucidated principally in the context of section 6, that the [article 2] obligation to hold an
+              investigation is an obligation triggered by the occurrence of a violent death: see in
+              particular per Lord Nicholls of Birkenhead at paragraph 21. That at its lowest makes an
+              assumption about the content in international law of article 2, an assumption by which we
+              are bound. To seek to apply section 3 by reference to an obligation that arose before the
+              HRA came into operation, because it arose on the date of the death, would therefore be
+              to apply section 3 to, or at least in the context of, an event that occurred before the
+              section became part of English law.
+
+ 47. The principles of ’’retrospectivity”, and the extent to which they apply to section 3, were reviewed in
+     Wilson. In the leading speech Lord Nicholls of Birkenhead pointed to the tension between the specific
+     provision applying section 3 to legislation whenever enacted; and the general proposition that a statute
+     should not render unlawful acts that were lawful at the time when they were done. He continued, at
+     paragraph 19:
+
+                     "The answer to this difficulty lies in the principle underlying the presumption
+                     against retrospective operation and the similar but rather narrower
+                     presumption against interference with vested interests. These are
+                     established presumptions but they are vague and imprecise           As always,
+                     therefore, the underlying rationale should be sought. This was well identified
+                     by Staughton LJ in Secretary o f State for Social Security v Tunnicliffe [1991]
+                     2 All ER 712,714:
+
+                            ’the true principle is that Parliament is presumed not to have
+                            intended to alter the law applicable to past events and
+                            transactions in a manner which is unfair to those concerned in
+                            them unless a contrary intention appears. It is not simply a
+                            question of classifying an enactment as retrospective or not
+
+
+
+
+http://www.bailii.org/ew/cases/EWCA/Civ/2005/890.html                                                  24/10/2005
+Commissioner o f Police for the Metropolis v Hurst [2005] EWCA Civ 890 (21 July...                Page 11 o f 16
+
+
+                            retrospective-rather it may well be a matter of degree-the
+                            greater the unfairness, the more it is to be expected that
+                            Parliament will make it clear if that is intended'.
+
+                    Thus the appropriate approach is to identify the intention of Parliament in
+                    respect of the relevant statutory provision in accordance with this statement
+                    of principle.
+
+                    [21] I emphasise that this conclusion does not mean that section 3 never
+                    applies to pre-Act events. Whether section 3 applies to pre-Act events
+                    depends upon the application of the principle identified by Staughton LJ in
+                    the context of the particular issue before the court. To give one important
+                    instance: different considerations apply to post-Act criminal trials in respect
+                    of pre-Act happenings. The prosecution does not have an accrued or
+                    vested right in any relevant sense."
+
+ 48.   Lord Hope of Craighead also examined the issue at some length. He said, at paragraphs 98-99:
+
+                    "Then there is the general presumption that legislation is not intended to
+                    operate retrospectively. That presumption is based on concepts of fairness
+                    and legal certainty. These concepts require that accrued rights and the legal
+                    effects of past acts should not be altered by subsequent legislation. But the
+                    mere fact that a statute depends for its application in the future on events
+                    that have happened in the past does not offend against the
+                    presumption....there is an important distinction to be made between
+                    legislation which affects transactions that have created rights and
+                    obligations which the parties seek to enforce against each other and
+                    legislation which affects transactions that have resulted in the bringing of
+                    proceedings in the public interest by a public authority. The concepts of
+                    fairness and legal certainty carry much greater weight when it is being
+                    suggested that rights or obligations which were acquired or entered into
+                    before 2 October 2000 should be altered retrospectively        [99] To restrict
+                    the application of the interpretative obligation, without exception, to 'events’
+                    that happened or 'transactions' entered into on or after 2 October 2000
+                    would be to introduce a restriction which is not stated expressly anywhere in
+                    the 1998 Act. A restriction in such absolute and all-embracing terms would
+                    seem to be contrary to the intention of the legislation and incapable of being
+                    read in to it by necessary implication."
+
+ 49.   By contrast, however, Miss Studd particularly relied on the speech of Lord Rodger, because he
+       concluded in terms, at paragraph 212, and under a heading "The 1998 Act, including section 3, not
+       retroactive" that none of the operative provisions of the HRA, including section 3, is retroactive. That
+       conclusion must, however, be subject to a number of qualifications. First, Lord Rodger made clear, in
+       his paragraph 202, that his speech was confined to the effect of section 3 in civil proceedings, to which
+       the reiterated language of vested rights and pending actions is most suited, and which, as Lord Rodger
+       pointed out in his paragraph 215, was the subject-matter of Wilson itself. Second, in his paragraph 210
+       Lord Rodger specifically reserved his opinion on whether, in view of "the overwhelming importance and
+       absolute nature" of articles 2,3 and 4, Parliament might have intended them to have a more general
+       effect than he discerned in the rest of the Convention.
+
+ 50. Miss Studd also relied on two other elements in Wilson. First, the observation of Lord Scott of Foscote
+     at paragraph 160 that the specific reference to retrospectivity in section 7(1 )(b) of the HRA indicates
+     that the Act was not intended to have retrospective effect in any other respect. It should however be
+     noted that Lord Hope of Craighead gives what is, with great respect, a cogent explanation in his
+     paragraph 90 of why that specific provision was inserted. He did not think, nor did other of their
+     Lordships, that it concluded the case against section 3 operating retrospectively in some cases.
+     Second, Lord Rodger pointed, in his paragraphs 206-207, to the oddity if section 6 and section 3
+     produced different results when applied to events occurring before the HRA, granted that they were
+     directed at broadly the same aims. There is, with great respect, force in that observation, but the fact
+     that section 6 has been decided not to operate retrospectively was not seen by the House as erecting
+     an absolute barrier to section 3 operating retrospectively in all cases.
+
+ 51. I venture to draw that latter conclusion because the observations of Lord Nicholls and Lord Hope, cited
+
+
+
+
+http://www.bailii.org/ew/cases/EWCA/Civ/2005/890.html                                                  24/10/2005
+Commissioner o f Police for the Metropolis v Hurst [2005] EWCA Civ 890 (21 July...                 Page 12 o f 16
+
+
+       in paragraphs 47 and 48 above, clearly leave open the possibility of retrospective operation; neither of
+       Lord Scott or Lord Rodger expressed dissent from, in particular, the analysis of Lord Hope in his
+       paragraph 99; and both of Lord Scott and Lord Rodger to a greater or lesser extent reserved the
+       position outside the specific area of civil litigation.
+
+ 52.   We already know, from the analysis of Lord Bingham in Middleton, how section 11 (5)(b)(ii) would be
+       read and given effect were section 3 to be applied to it. If, therefore, there is applied to this case the
+       approach of Lord Nicholls and Lord Hope, the first question must be whether to require the coroner
+       now to apply section 11 in that sense would interfere with vested rights or interests, or operate unfairly
+       in the sense stated by Staughton LJ in Tunnicliffe. Miss Studd valiantly sought to argue that indeed that
+       would be the effect, but she had an uphill task. The vested rights suggested were those of the police
+       and other public authorities, who either had been entitled to assume that only an investigation in
+       Jamieson terms would take place; or who were entitled now to assume that the hour for any
+       investigation had passed. These were not attractive propositions, quite apart from being inconsistent
+       with the approach of Lord Nicholls in his paragraph 21, cited in paragraph 46 above. All that this
+       demonstrated was that the language and tests set out in Wilson are grounded in the law of private
+       rights, and apply in only a limited way to the obligations of public bodies.
+
+ 53.   Those obligations are contained in the ECHR, and there are no good reasons for holding that in an
+       appropriate case a question that now arises as to the application of those rights to the interpretation of
+       English legislation should not be answered by the application of the principles of article 2, even though
+       the article 2 obligation rested upon the public authorities before 2 October 2 0 0 0 .1would respectfully
+       pray in aid in that connexion the observations of Lord Hope in paragraph 99 of his speech in Wilson,
+       cited in paragraph 46 above. And the issue of whether this is an appropriate case for an article 2
+       investigation has been answered in the judgments of the Divisional Court, in terms that are not
+       appealed. It is true that Miss Studd pointed to some issues of policy that had not been before the
+       Divisional Court, principally the disruption caused to public services by enquiries that might relate to
+       deaths that occurred many years ago. But where the obligation is to submit to an enquiry, lapse of time
+       will be a legitimate reason for contending, in an appropriate case, that the enquiry is impracticable.
+       That possibility is not a reason for rejecting the availability of such enquiries in principle.
+
+ 54.   It is in my respectful view clear from Wilson that the House did not hold that in no case could section 3
+       be applied to circumstances existing before the implementation of the HRA. In the present case there
+       are, as the Divisional Court held, very strong reasons of general public policy, as well as reasons
+       relating to this country's obligations under the ECHR, why an enquiry of the kind mandated by article 2
+       should take place. No unfairness will be caused to any individual by the holding of such an inquiry,
+       even though it relates to a death the occurred before the HRA came into operation. I would therefore
+       conclude in principle that there is every reason for giving section 3 a limited retrospective application in
+       order to bring about the resumption of the inquest. That immediately raises the issue of whether that
+       conclusion can stand in the light of McKerr.
+
+       Section 3 and McKerr
+
+ 55.   McKerr is unfortunately only reported in the first volume of the Weekly Law Reports, and thus we do
+       not have the benefit of the report of the arguments that would be found in the Appeal Cases.
+       Nonetheless, from the content of their Lordships' speeches one can say with some confidence that the
+       arguments put before us did not feature in that case. Nor could they have done. The relief sought in
+       McKerr was judicial review of the failure of the Secretary of State to arrange an enquiry, by whatever
+       means, that was article 2-compliant. That failure was justiciable only under section 6 of the HRA, as
+       was accepted throughout; see paragraph 40 above. Since it was by then settled by Lambert [2002] 2
+       AC 545 and Kansal(No 2) [20021 2 AC 69. and accepted in Wilson, that section 6 was not
+       retrospective, the decision turned on whether the investigative duty under article 2 was conditioned on
+       the article 2 duty to protect life, or was in some way separate from that duty, so as to apply even in the
+       case of a death to which the duty to protect life did not apply. Unsurprisingly, the House could find no
+       way in which such a duty could be found within the confines of section 6. Section 6 applied only to
+       obligations imposed by the HRA, and the article 2 obligations that the HRA imposed took effect only
+       from 2 October 2000.
+
+ 56.   It is important for our purposes to note why the House found unacceptable the assertion by Mr McKerr
+       of a free-standing duty outside the confines of the HRA. I have already, in paragraph 45 above, drawn
+       respectful attention to the distinction stressed by Lord Hoffmann between domestic rights created by
+       the HRA and rights and obligations, even if in the same terms, existing in international law. The error of
+       Mr McKerr’s argument was that it relied on the latter obligation, which, as Lord Hoffmann pointed out at
+       paragraph 67, was irrelevant in creating a section 6 duty. The obligation in international law was not
+
+
+
+http://www.bailii.org/ew/cases/EWCA/Civ/2005/890.html                                                 24/10/2005
+    Commissioner o f Police for the Metropolis v Hurst [2005] EWCA Civ 890 (21 July...                  Page 13 o f 16
+r
+
+
+
+
+           limited by time; the obligation in the same terms under the HRA, which is what Mr McKerr did rely on
+           and had to rely on, only came into existence with the HRA on 2 October 2000.
+
+     57.   This distinction was stressed by other of their Lordships: by Lord Steyn at paragraph 48; by Lord
+           Rodger of Earlsferry at paragraph 80; and by Lord Brown of Eaton-under-Heywood at paragraph 90.
+           And of particular importance in the present connexion are the observations of Lord Nicholls at
+           paragraph 25:
+
+                         "I respectfully consider that some of these courts, including the Divisional
+                         Court in Hurst's case....fell into error by failing to keep clearly in mind the
+                         distinction between (1) rights arising under the Convention and (2) rights
+                         created by the 1998 Act by reference to the Convention. These two sets of
+                         rights now exist side by side. But there are significant differences between
+                         them. The former existed before the enactment of the 1998 Act and they
+                         continue to exist. They are not as such part of this country's law because
+                         the Convention does not form part of this country's law. That is still the
+                         position. These rights, arising under the Convention, are to be contrasted
+                         with rights created by the 1998 Act. The latter came into existence for the
+                         first time on 2 October 2000. They are part of this country's law. The extent
+                         of these rights, created as they were by the 1998 Act, depends on the
+                         proper interpretation of that Act."
+
+     58.   The right asserted by Mr McKerr, limited as it was to a claim as to the Secretary of State's obligation
+           under section 6, was necessarily limited to the domestic obligation created by section 6. But the
+           application of section 3, which is what our case is concerned with, is completely different. We have
+           already seen, in paragraph 44 above, how it is the international obligations of the state that section 3
+           requires to be used in reading and giving effect to legislation. As Lord Nicholls stresses, those
+           obligations pre-date the HRA and are not affected in any way by the terms of the HRA. The short point,
+           therefore, is that McKerr simply does not address a case formulated, as our case now is formulated, in
+           terms of section 3; and, further, that the very strong distinction drawn by the House between rights
+           created by the HRA and rights pre-existing in international law goes a good way to reinforcing the
+           contention that the date of implementation of the HRA cannot be dispositive in determining whether
+           article 2 obligations of the state in international law are potentially available to be taken into account in
+           interpreting legislation that bears on those obligations.
+
+     59.   It was however suggested to us that McKerr was relevant to this case in a more indirect way. We have
+           seen the caution that is exercised before any legislation is applied retrospectively, a caution that is
+           stressed in Wilson in respect of section 3. Should the refusal in McKerr to order an enquiry into a pre-
+           HRA death as it were tip the balance in determining whether Parliament can be taken to have intended
+           section 3 of that same Act to be deployed in the case of a pre-HRA death? This is not a straightforward
+           question, and it is not made any easier for this court by not being addressed at all in any of Middleton;
+           Sacker, McKerr, and Wilson\ all of which are binding on us for what they decide. I would however
+           venture the following observations.
+
+     60.   First, I see no sign of any view in McKerr that investigation of deaths occurring before 2 October 2000
+           was necessarily to be avoided. The case turned more technically on the unavailability of the particular
+           remedy sought to promote that end, namely the obligation and correlative right created on that date by
+           the HRA. Second, the duty created by section 3 appeals to obligations that were accepted, indeed
+           stressed, in McKerr to be binding upon the United Kingdom. And it is a duty that is of overwhelming
+           importance and absolute in its nature, as for instance Lord Rodger stressed in Wilson: see paragraph
+           48 above. Leaving aside the issue of retrospectivity, there would be no good reason for article 2 not to
+           be applied in the present case, and many good reasons why it should be. Third, therefore, are those
+           conclusions to be dislodged by the fact that that result cannot be achieved without applying section 3 to
+           events that occurred before it was enacted?
+
+     61.   That turns on what are to be taken to have been the intentions of Parliament in formulating section 3.
+           Parliament could have drawn section 3 tightly together with the rest of the HRA by providing that the
+           interpretative obligation only applied in respect of rights recognised under the HRA. That would have
+           concluded this case in favour of the appellants, because then the claim based on section 3 would have
+           had to march with the claim based on section 6; which latter McKerr establishes is not available. But
+           that is what Parliament did not do. Parliament deliberately took what the speeches in McKerr confirm to
+           have been a much more expansive view, by imposing on the courts, by section 3, an obligation to give
+           effect to this country's international obligations, and not merely to its domestic obligations as created by
+           the HRA. In a case in which, as I have found, there are good reasons for giving section 3’s reliance on
+
+
+
+    http://www.bailii.org/ew/cases/EWCA/Civ/2005/890.html                                                  24/10/2005
+Commissioner o f Police for the Metropolis v Hurst [2005] EWCA Civ 890 (21 July...                 Page 14 o f 16
+
+
+       international obligations retrospective effect, it would in my view be inconsistent with Parliament's
+       intention in drafting section 3 to hold that that conclusion was not available just because the domestic
+       rights created by the HRA were not available.
+
+ 62.   I would therefore hold that by the operation of section 3 of the HRA section 11 (5)(b)(ii) of the 1988 Act
+       is to be read and given effect in a way that is compatible with the United Kingdom’s international duty
+       under article 2 of the ECHR. The reading of section 11 thus produced is that formulated by Lord
+       Bingham of Cornhill speaking for the Appellate Committee in Middleton. Applying that reading I would
+       order the coroner to resume the inquest.
+
+ 63.   I am conscious that this conclusion differs from that of the Divisional Court in Pearson v HM Coroner
+       [2005] EWHC 833 (Admin), which did hold that the conclusion in McKerr inexorably prevented the
+       application of section 3 in the case of a death that occurred before 2 October 2 0 0 0 .1would say no
+       more than that it is clear that the Divisional Court did not have the benefit of the detailed argument that
+       has been deployed before us; and that for the reasons set out above I am unable to agree with their
+       conclusion.
+
+       Disposal
+
+ 64.   I would dismiss this appeal, and not disturb the order of the Divisional Court that the coroner should
+       resume the inquest. My reasons for so doing are not those of the Divisional Court, but the two separate
+       and distinct conclusions set out in paragraphs 31 and 62 above.
+
+       Lord Justice Sedley:
+
+ 65.   The requirement of section 3 of the Human Rights Act 1998 to read and give effect to all legislation, so
+       far as possible, in a way which is compatible with the rights scheduled to the Act is expressly applied to
+       legislation "whenever enacted". If this means that it operates either generally or on the facts of this
+       case without limit of time, its effect on ss.11 and 16 of the Coroners Act 1988 is, as is conceded, to
+       require the coroner in the present case to implement the state’s positive obligation under article 2 by
+       resuming the inquest on Troy Hurst.
+
+ 66.   It is the decision of the House of Lords in McKerr which has prompted this appeal and made it
+       arguable, in the face of the apparent purpose of s.3, that the Convention rights do not reach a death
+       occurring before 2 October 2000. The decision in McKerr, however, did not involve s.3. It was
+       concerned with the possibility of applying s.6 to a death occurring before (as it happened, almost two
+       decades before) the entry into force of the Human Rights Act. Its essential conclusion was that the
+       remedy under s.7(1) for an act made unlawful by s.6(1) was not available because, save as expressly
+       provided by s.22(4), the Act was not generally retrospective.
+
+ 67.   The situation in McKerr was that the inquest had been formally abandoned in 1994, with the result that
+       no proceedings at all were extant. If there was to be a human rights challenge, it had to be a challenge
+       to the refusal of the state to open a fresh inquiry into the death. Hence the reliance on s.6 alone. Hence
+       too the unspoken but self-evident policy consideration that if the McKerr inquest had to be reopened in
+       order to comply with art.2, so would countless others, reaching back indefinitely.
+
+ 68.   In the present case, by contrast, the inquest stands adjourned, and the coroner has to decide
+       according to law whether to resume it. His obligation to decide is present and inescapable, and the law
+       which governs his decision is now required by s.3 to be read through the prism of Convention rights,
+       with consequences which are not in dispute. This situation, as it seems to me, bears no element of
+       retrospectivity on its face. The latent element of retrospectivity lies in the fact that the inquest is
+       concerned with a death that occurred just over four months before the Human Rights Act was due to
+       come into effect, and it is upon this single fact that the appeal turns.
+
+ 69.   The strongest apparent support for the Commissioner’s contention that this is enough to shut out any
+       Convention rights is probably Lord Brown's acceptance at §89-90 of McKerr of the argument that "The
+       duty to investigate is ... necessarily linked to the death itself and cannot arise in domestic law save in
+       respect of a death occurring at a time when article 2 rights were enforceable under domestic law." One
+       sees from §88, however, that the argument had been predicated entirely on the negative domestic
+       obligation created by s.6 and enforced through s.7, which was of course not present in domestic law at
+       the time of Mr McKerr’s death. It was for that reason that art.2 - the duty to investigate - could not now
+       be relied on.
+
+
+
+
+http://www.bailii.org/ew/cases/EWCA/Civ/2005/890.html                                                 24/10/2005
+Commissioner o f Police for the Metropolis v Hurst [2005] EWCA Civ 890 (21 July...                  Page 15 o f 16
+
+
+ 70.   I do not think, with great respect, that the proposition which I have quoted, or the similar passages in
+       the other speeches (§21 per Lord Nicholls, §40, 48 per Lord Steyn, §62, 66 per Lord Hoffmann, §75,
+       81 per Lord Rodger), were intended to deal with more than the situation before the House and others
+       which might replicate it. The present case does not replicate it. Because it concerns a post-October
+       2000 statutory decision-making process, it differs importantly from McKerr. Lord Nicholls at §28 of
+       McKerr noted this exact distinction:
+
+                     "In these proceedings Mr McKerr is not challenging any decision of the
+                     Armagh coroner. ... Nor is Mr McKerr asking the House to interpret the
+                     statutory provisions relating to coroners in a way which would make them
+                     compliant with the investigative requirements of article 2."
+
+              Lord Hope in Wilson (below) at §95 made the same point from the opposite perspective:
+
+                     "...a person who claims that a court or tribunal has failed to fulfil the
+                     interpretative obligation laid down by s.3(1) has no need to go to s.7(1)(a)
+                     for his remedy."
+
+ 71.   Lord Nicholls in McKerr (§25) was critical of the Divisional Court in the present case for having lost
+       sight of the distinction between rights arising under the Convention and rights created by the Human
+       Rights Act by reference to it. I hope that the foregoing reasoning respects the distinction, and that in
+       doing so it respects what Lord Nicholls subsequently said in Ghaidan v Godin-Mendoza [20041 UKHL
+       30, §23: that the compatibility of legislation with the Convention rights falls to be assessed under the
+       Human Rights Act "when the issue arises for determination": that is, in my understanding, now.
+
+ 72. If I am right so far, there is no true issue of retrospectivity: s.3 has since 2 October 2000 required
+      coroners' decisions, including the one we are considering, to be Convention-compliant except where
+     the contrary is dictated by or under statute. But if I am wrong, I do not consider that such retrospectivity
+      as is involved in the respondent's case is sufficient to defeat it.
+
+ 73. Retrospectivity is not a simple or clear-cut concept. The problems it throws up are compounded by the
+     fact that in this single respect, and perhaps deliberately in view of the drafter's wise refusal to attempt
+     to solve all potential problems, this elegant piece of legislation leaves major questions of retrospectivity
+     unanswered save in the instance covered by s.22(4) - and, I would respectfully add, in the applicability
+     of s.3 to all legislation "whenever enacted". But, as Lord Nicholls remarked in McKerr (§ 16), the
+     proposition that the Human Rights Act is otherwise not retrospective raises almost as many questions
+     as it answers. Past events, as he pointed out, and as the present case illustrates, have continuing
+     effects.
+
+ 74.   It is not in McKerr but in Wilson [20031 UKHL 40 that this arguably retroactive impact of s.3 of the
+       Human Rights Act is addressed. Wilson was a case where "the agreement was made pre-Act, and the
+       Court of Appeal was interpreting the legislation post-Act" (§16), putting it on a broad par with the
+       present case. The House dealt with the potential unfairness of doctrinally letting s.3 operate in such a
+       situation by recognising that, although the section on its face has no limitation of time, it is capable of
+       working injustice if indiscriminately applied to past events. The common law afforded a solution in the
+       principle of construction that the more unfair it is to let a statute reach back in time, the more resistant
+       the court must be to letting it do so: see Lord Nicholls at §20-22, Lord Hope at §98-99, Lord Hobhouse
+       at §128; Lord Rodger passim; cf Lord Scott at §153, 160-161.
+
+ 75.   I respectfully agree with Buxton LJ that one can discern in the present case almost none of the features
+       which ordinarily bring the principle of resistance to retrospectivity into play. We are concerned not with
+       a step which will undo or undermine vested rights or settled interests, but with a decision which, if
+       made in conformity with art. 2, will reopen and reconfigure a public inquiry which would otherwise be
+       abandoned. I do not doubt that this will be stressful for some of the officers and officials involved, the
+       more so because of the lapse of time, and possibly costly for the authorities, but I cannot accept that
+       this is capable of defeating an obligation resting upon the state, and since 2 October 2000 justiciable in
+       domestic law, to hold a proper inquiry into Mr Hurst's death.
+
+ 76.   For these reasons, as well as for those set out by Buxton LJ, I would dismiss this appeal.
+
+       Sir Martin Nourse:
+
+
+
+
+http://www.bailii.org/ew/cases/EWCA/Civ/2005/890.html                                                  24/10/2005
+Commissioner o f Police for the Metropolis v Hurst [2005] EWCA Civ 890 (21 July...              Page 16 o f 16
+
+
+  77.    I have had the advantage of reading in draft the judgments of Lords Justices Buxton and Sedley. I
+         agree with them and cannot usefully add anything of my own.
+
+
+BAILII: Copyright Policy | Disclaimers | Privacy Policy | Feedback | Donate to BAILII
+URL: http://www.bailii.org/ew/cases/EWCA/Civ/2005/890.html
+
+
+
+
+http://www.bailii.org/ew/cases/EWCA/Civ/2005/890.html                                              24/10/2005
+

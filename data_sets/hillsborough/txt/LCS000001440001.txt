@@ -1,0 +1,773 @@
+THE HILLSBOROUGH PROJECT: A PRELIMINARY PLAN
+
+
+
+Summary
+
+The     proposed         research             project       w ill    assess     the    services       provided
+
+by     the      M erseyside            consortium            of      social     services     departm ents,
+
+other        social    services          departm ents               and    voluntary     and        com m unity
+
+organisations            in     response          to    the         H illsborough       disaster.       It    w ill
+
+aim     to     identify         the    p ractice        elem ents           required    at   a ll    levels     in
+
+order        to r e s p o n d    effectiv ely          to    such         disasters    and   consider         how
+
+this    inform s        w ork         w ith    peo p le       confronted         with    less       public     but
+
+equally acute crises.
+The User Study
+
+
+Stage One
+
+
+Analysis of the Helpline database
+
+
+The     current       assum ption          is      that       this          com puterised                 record        system
+
+contains       info rm atio n          that      will        be     of       use        to     the        p roject.             The
+
+d a t a is s a i d to c o v e r t h o s e - w h o u s e d t h e H e l p l i n e a n d h o w o f t e n ,
+
+their    geographical               location,          their      relationship                 to        the    event,         how
+
+their problems were perceived and what the service response was.
+
+
+
+A num ber         of problem s             in     relation             to    the        database               have    becom e
+
+apparent.         It h a s b e e n s u g g e s t e d b y t h o s e                      m anaging              the d a t a b a s e
+
+that    because         it     is    supposedly               difficult            to        validate           the     quality
+
+of som e       o f the       inform ation              that has             been        collected,              because          the
+
+database        has     not         been      properly              m aintained                and        because            som e
+
+agen cies      did     not      m aintain          the       flow           of    in form ation                back       to     the
+
+d atabase,       it    is    possible           t h a t it     is      being            kept        in        contravention
+
+of the      D ata     P rotection          Act         1984.            F urtherm ore,                   it    is   not        clear
+
+whether the dat.ab_a.S-e w_as negislexed at the outlet as having a
+possible       research             function.            The         result         of       a ll t h i s      is     that       the
+
+T e c h n o l o g y S t e e r i n g G r o u p o f L i v e r p o o l S S D a r e k e e n to                            w ip e the
+
+data    and that e v e n if they                   can be p e rsu a d e d                    n o t to do s o ,              there
+
+is n o g u a r a n t e e t h a t t h e a v a i l a b l e d a t a w i l l b e o f a n y u s e .                                 W ith
+
+luck     the    data        w ill    prove        to     be       of        use    to        the p r o j e c t        but       this
+
+w i l l n e e d to b e c a r e f u l l y c h e c k e d .             A ssu m in g that the data can be
+
+
+
+                                                              2
+accessed       and      it    is    w orthw hile      to       do      so,      the   follo w in g        general
+
+plan is proposed:-
+
+
+
+a      as p r e l i m i n a r y b a c k g r o u n d w o r k it w i l l b e n e c e s s a r y to b u i l d
+
+       up a picture o f the establishment o f the Helpline, to look at the roles of the
+
+        various agencies and individuals involved, and to co nsid er the differing
+
+        e x p e rie n c e s o f the a g e n c ie s and in d iv id u a ls in v o lv e d in H e lp lin e
+
+        organisation and work.
+
+
+
+b      from      this        base     consideration            w ill      be    given       to    the    general
+
+        procedure            by     w hich     the    database            was     constructed.                 W hat
+
+        procedure            was      used    for    recording            in form ation?               W hen    was
+
+        inform ation re c o rd e d ?            W hat in fo rm atio n was collected?                           How
+
+        was standardisation achieved? How was the information used?
+
+
+
+c      finally,       the         creatio n     of    a       viable           database          for    research
+
+        purposes.             T his    m ay    involve         inter a li a :         the    re-ordering          or
+
+        regrouping o f the data; the coding or recoding o f the data; analysis either
+
+        by hand or using SPSSX.
+
+
+Although a relatively large n u m b e r o f calls have b een m ade to the H i l ls b o r o u g h
+
+Helpline - 1,533 in the six months 1.10.89 to 31.3.90 - less than 15% o f these
+
+
+
+w e r e for help. T h e v a st m a j o r i t y o f calls w e r e for i n f o r m a t i o n o r w e r e o f an
+
+administrative nature and my current understanding is that they consequently did
+
+not result in any information being entered on the database. As a result the data
+
+held may not allow for or necessitate particularly sophisticated statistical analysis.
+
+
+
+As    m ight     be     expected         the    calls         to    the      H elpline      have        not    been
+
+
+
+
+                                                          3
+evenly         spread          over         tim e.       One        o f the         tasks     of this        part     of     the
+
+research           w ill       be      to        consider           the       p rofile      of     calls     over          tim e:
+
+when        w ere          calls       for       help        made?             W ere       they      concentrated              at
+
+particular             periods?                  (eg     in        the       im m ediate          afterm ath         of      the
+
+disasters            and      then        around         particular              events       afterw ards           such       as
+
+the a n n i v e r s a r y         o f the t r a g e d y            and the b r o a d c a s tin g           o f the       'F irs t
+
+T u e s d a y 1 programme?)
+
+
+
+Finally,           and         in      addition              to     looking          at      the        n atu re     of       the
+
+H illsb o ro u g h -related                  requests             for       help,   it     will    be     interesting          to
+
+c o n s i d e r t h e n a t u r e o f t h e .calls f o r h e l p m a d e to t h e H e l p l i n e b y
+
+peop le u n con n ected                     with L iv e rp o o l             and H ills b o ro u g h .           It a p p e a r s
+
+from       the i n f o r m a t io n              currently         a v a i l a b l e t h a t u p to        10%       o f calls
+
+for h e lp a re o f this n a tu r e .                         S u ch d a ta m ay be i n te r e s t in g                  in t h e
+
+light       o f the          debate         that       has        arisen       recently          about     the      fact     that
+
+alth o u g h        there        are      sim ilarities             betw een         the    experiences             of those
+
+caught          up      in     the       afterm ath           of        a    d isaster      and     those          who      have
+
+e x p e r i e n c e d o t h e r f o r m s o f u n e x p e c t e d lo s s , the r e s o u r c e s d e v o t e d
+
+to each are not comparable.
+
+
+
+Stage Two
+
+
+T h e U s e r Stu dy s h o u l d aim to c olle ct as b r o a d a r a n g e o f d a t a as p o s s ib l e on
+
+e x p e r i e n c e s o f the a f t e r m a t h o f the d i s a s t e r and in r elatio n to the tak e-up and
+
+e f f e c ti v e n e s s o f s e r v i c e s .    In o r d e r to in c lu d e p e o p l e fr o m all the m a in u s e r
+
+g rou p s and to e n su re that this p a rt o f the study is based on b o t h qualitative and
+
+q u a n ti t a t i v e data, it will be n e c e s s a r y to in c l u d e b o th a q u e s t i o n n a i r e - b a s e d
+
+survey and depth in terv iew s.                         It m i g h t a ls o b e u s e f u l to h a v e a f e w g r o u p
+
+discussions as well.
+
+
+
+                                                                        4
+The Survey
+T h e survey would consist in the main o f pre-cod ed questions , t h o u g h the nature
+
+o f the experiences being disc usse d will necessitate the inclusion o f a n u m b e r o f
+
+open-ended questions as well. In addition to the questio nnaire, res p o n d e n t s will
+
+also be given the opportunity to respond in writing to a n u m b e r o f open-ended
+
+questions which will b e printed as a separate questionnaire. T h e reasons for this
+
+a re t w o-fo ld . Firstly, it is a m e a n s o f c o ll e c t i n g m o r e d a ta a n d , in p a r t i c u l a r ,
+
+getting at some o f the interesting and important detail that could not be picked up
+
+by the questionna ire.           Secondly, as the subject is one in w h i c h the respo n dents
+
+will have a major emotional in vestm ent and one w h e r e a n s w e r in g questions in
+
+response to a formal questionnaire is a potentially alienating experience, the offer
+
+o f an alternative and additional m eans o f conveying p e rs o n a l i n f o r m a tio n may
+
+make the resp o nd en ts feel that they have a grea ter de g re e o f o w n e r s h i p o f the
+
+project. It will be crucially im p orta n t all through the study to e n s u r e that those
+
+who have suffered as a result o f H i lls b oro ug h are not further tro u ble d -by their
+
+involvement in the research.
+
+
+
+T h e extra questionnaire can either be sent to the respondent pr ior to the survey so
+
+that they can b e g i n th in k in g a b o u t the issu e s that a r e likely to b e r a i s e d in the
+
+i n t e r v i e w or, a lte rn a tiv e ly , it c a n be left w i t h the r e s p o n d e n t at the en d o f the
+
+i n t e r v i e w and r e t u r n e d to N I S W w h e n c o m p l e te .    T h e r e a r e a d v a n t a g e s and
+
+disadvantages in both approaches and careful thought will need to be given to this
+
+question before a decision is made.
+
+
+
+
+T u r n in g to the m ain que stio nnaire, the following is a (by no m ea n s exhaustive)
+
+ list o f topics that would need to be covered:
+
+
+          what their relationship to the disaster is?
+
+
+
+                                                           5
+        wh e re user heard of service(s)?
+
+        when service(s) were used (how contact was made)?
+
+        why service(s) w e r e used (how often service(s) were used)?
+
+        what was expected from services?
+
+        what was received from services (how helpful?)
+
+         what        other         form s        of      p ractical/em o tio n al                help        did       they
+
+         receive?
+         did      they       have         any      negative           experiences               as     a     result        of
+
+         contact with services?
+
+
+
+It   w ill      also      be      im portant,            if    possible,           to    include           w ithin        the
+
+q u e stio n n a ire som e m ea su re s or som e indicato rs o f g e n e ra l social
+
+fu n ctioning/m ental               health        of respondents.                   Two p o ssib ilities               have
+
+been       m ooted,         the      M alaise         Inventory           and/or         the      G eneral         H ealth
+
+Q u e s t i o n n a i r e , b u t n e i t h e r o f th es e w ou ld a p p e a r to be e s p e c i a l l y a p p r o p r i a t e
+
+(though I have not studied either in detail yet). Some other tool along these lines
+
+will probably need to be found (one possibly is the 'Impact o f Even ts Scale').
+
+
+
+T h e o t h e r m a j o r i s s u e in r e l a t i o n to t h e s u r v e y is t h e n a t u r e a n d
+
+size o f the s a m p le ,                In th e r e v i s e d        research pro po sal                  a figure of
+
+150 w a s q u o t e d .           T h i s w a s to h a v e b e e n m a d e u p o f t h r e e r o u g h l y
+
+equal        groups        of users:              the      bereaved,           survivors             and     w itnesses.
+
+H ow ever,           it    was       also       recognised            that      there        w ere         tw o    further
+
+distinct groups o f service users who would also need to be included; 'partners of
+
+survivors' and 'carers o f the injured'. T h ere are therefore five groups who need
+to be interviewed and this requires some expansion o f the sa m ple size. 1 suggest
+
+keeping the m a x im u m nu m b e r o f respondents in each category, o r sub-category
+
+ ( w i t h o n e e x c e p t i o n ) , to 5 0 , a n d t h e r e f o r e a i m i n g f o r a t o t a l s a m p l e o f
+                                          0
+
+approximately 250 brok en down as follows:
+
+
+
+                                                                6
+    *         the bereaved      -   50   ^
+
+
+
+
+    *         survivors (including the injured from Leppings Lane) - 50
+
+    *         witnesses at the ground and on television -               50-75 —
+
+    *         partners o f survivors - 30-50***=“
+
+    *         carers o f the injured - approximately 30:—
+
+
+
+    F u r t h e r m o r e , in o r d e r to get so m e p u r c h a s e on the difficult question o f how to
+
+        m e a su r e   the effect o f contact with the Helpline and other services it will also
+
+    b e n e ce ssa r y to e x a m i n e the ex perien c es o f a sample o f 'v ic t i m s ' who h av e not
+
+    been in contact with the formal agencies. A revised questionnaire will have to be
+
+    used with this sub-sample as many as the questions asked about services will not
+
+    b e r e l e v a n t . A total o f 20 -3 0 r e s p o n d e n t s ( p e r h a p s s lig h tly m ore) f r o m this
+    category should be sufficient.
+
+
+
+    T h e final n u m b e rs anticip ated fro m each c a te g o ry w ill be d ecid ed after
+
+    preliminary analysis o f the Helpline database. It is likely that the samples will be
+
+    d r a w n fro m social services records. Altho u gh it was originally anticipated that
+
+    the Helpline database would be used for this purpose it is probably inappropriate
+
+for two reason s.              Firstly, the sa m ple will need to include resp on d ents who have
+
+not had contact with the Helpline and, secondly, using the na m e s and address es
+
+w o uld p rob ab ly c on tr av en e the D ate P ro tection Act. D r a w i n g the sa m ple f ro m
+
+social services records will also help the researcher to stratify the sample in such
+
+a -w a-y-as to i nclu de-pe-eple who -ha-ve-had- contact with e a c h - o f th e seven- SSD s
+
+involved in the North-West. The sample will be drawn simply by setting quotas -
+
+l i t t l e w o u l d b e g a i n e d in t h i s p r o j e c t b y r a n d o m s a m p l i n g .
+Non-service users may be slightly more problematic to contact. However, there
+
+do appear to be a nu m ber of promising avenues to explore,
+
+
+
+i          . som e      'n o n -u s e rs '   m any   already      be k n o w n      to    social     services
+
+
+
+
+                                                          7
+        departments.
+
+
+ii     a d v e r t i s i n g f o r h e lp w i t h t h e r e s e a r c h t h r o u g h s u c h a v e n u e s as t h e
+
+        L iv e rp oo l E cho , the Daily Post, the Liv erpo o l (and p ossib ly E v e r to n and
+
+        Tran m ere Rovers) match-day program m es , 'T hrou g h T h e Wind and Rain'
+
+        (a L ive rpo o l F C 'fan zine') and through H i l ls b o r o u g h Interlink (altho ugh
+
+        this is a magazine produced by and for survivors which largely g rew out o f
+
+        w o r k d o n e at the H i l l s b o r o u g h C e n tr e , it m ay n e v e r t h e l e s s be a g o o d
+
+        method o f contacting non-service-users).
+
+
+The Depth Interviews
+
+In s o m e r e s p e c t s this is the m o s t c ru c i a l p a r t o f this side o f the p r o j e c t , for
+
+although it will be based on a relatively small number o f interviews (maximum o f '
+
+50) it should p r o v i d e a wealth o f inf or mation about the n a tu re o f the p ro b lem s
+
+experienced and services used. The interviews will have three major aims:
+
+
+
+
+i      to explore the nature of the effects of being a disaster victim,
+
+ii     to i d e n t i f y t h e s u p p o r t n e e d s p e o p l e h a v e , b o t h i m m e d i a t e l y a f t e r the
+
+        disaster and at later stages,
+
+iii    to e x a m i n e t h e e x t e n t to w h i c h t h e s e n e e d s w e r e m e t , a n d                    the
+
+        im pact        and      im portance           of     the     'f o r m a l1 and          other       support
+
+        services provided.
+
+
+
+
+T h e following a p p ro x im ate n u m b e r o f interviews will be c o nducted with these
+
+key user groups:
+
+
+
+Bereaved - 10
+
+
+
+                                                            8
+Survivors (injured; spectators; other witnesses) - 15
+
+Partners of survivors - 8 - 10
+
+Ca rers o f the injured - 5 - 10
+
+
+
+T h e s e num b ers are not hard and fast and are merely a guide to how the eventual
+
+s a m p l e o f 40 - 50 m ig h t be b r o k e n d o w n .             As with the su r v e y , da ta e x tr a c t e d
+
+f r o m the H e l p l i n e d a ta b a s e m a y i n f lu e n c e the p r o f i le o f the e v e n t u a l s a m p le .
+
+A g a i n , as w ith the survey, the s a m p l e p o p u l a t i o n s will p r o b a b l y be id en tifie d
+
+th ro u g h social services reco rd s and potential responden ts ap p ro a c h ed via local
+
+social services departments. T h e sam p le will have to be p u r p o s i v e ly selected to
+
+in c l u d e not only r e p r e s e n t a t i v e s o f e a c h o f the m ain u s e r g r o u p s b u t also to
+
+reflect a range o f characteristics and circum stances within the g roups. T h e bulk
+
+o f the fieldwork will be carried out in M e r se y sid e and its e n v ir o n s , although by
+
+w a y o f c o m p a r i s o n , a small n u m b e r o f i n te r v i e w s m a y b e c o n d u c t e d o u t s i d e
+
+M erse yside."S uch~interviews will enable com p aris on s to be m ade b etw een the
+
+s u p p o r t o f f e r e d by the social s e r v i c e s d e p a r t m e n t s and o t h e r g r o u p s a r o u n d
+
+Merse yside with the experiences o f those affected but living elsewhere.                                      Careful
+
+l i a i s o n w i t h t h e H i l l s b o r o u g h r e s e a r c h t e a m at E d g e H i l l C o l l e g e w i l l b e
+
+n e c e s s a r y at this stage o f the study in o r d e r to avoid a p p ro a c h in g 'v ictims' w h o
+
+have already been interviewed for research purposes.
+
+
+
+T he interview s,             the m a jo r ity        o f w h ic h will be c a r r i e d                out by the
+
+Q u a l i t a t i v e R e s e a r c h U n i t f r o m S C P R ( s u b j e c t to a g r e e m e n t ) , w i l l
+
+be      ex p lo rato ry      and     in vestigative              in    form     and     w ill   be      conducted
+
+using       a    topic       guide       listing       the        key      areas      of    coverage.              A ll
+
+interview s         will     be     tape     recorded             (unless       agreem ent         is    w ithheld)
+
+and      w ill   be     transcribed           verbatim            for     analysis.          The        transcripts
+
+w ill     be     system atically            indexed          and        charts      draw n      of      a ll   m ajor
+
+
+
+
+                                                             9
+themes and sub-themes.
+
+
+
+If f in a n c ia l r e s o u r c e s w ere to allow, or if the p r o j e c t r e s e a r c h e r had tim e , it
+
+might also be useful to have a small number of group discussions in which those
+
+affected by the disaster could share experiences. This might also enable slightly
+
+g re a te r emph asis to b e placed on certain 'u s er g r o u p s ' , eg the b e re aved, in the
+
+i n d i v i d u a l d e p t h i n t e r v i e w s , w h i l s t u s i n g t h e g r o u p d i s c u s s i o n f o r u m s to
+
+c o n c e n t r a t e m o r e on, for e x a m p l e , ' p a r t n e r s o f s u r v i v o r s ' a n d 'c a r e r s o f the
+
+in ju r e d '.   It seems unlikely at this stage, however, that there will be sufficient
+
+resources to cover the extra work.
+
+
+
+
+                                                              10
+The Staff Care Study
+
+T he H illsb o ro u g h d isa ste r necessitated using co u n sellin g sta ff from social
+
+s e r v i c e s and v o l u n ta r y o r g a n i s a t i o n s f ro m all o v e r the M e r s e y s i d e regio n on
+
+special duties for v a ry ing lengths o f time. This second are a o f res e a r c h in the
+
+Hills bo rou g h P roject will c o n sid er the na ture o f the w o r k u n d e r t a k e n by su ch
+
+'c a r e r s ', the natu re o f su p e rv isio n and support given to these w o r k e r s as well as
+
+attempting to assess the k n o w l e d g e , skills and methods o f w o r k need s by b o th
+
+'wor ke rs' and 'supervisors'.
+
+
+
+Once       again,        this       h alf of        the   research     is   d ivided        into     two     m ain
+
+parts;         a n :" ; ;h i s t o r i c a l   or   organisational          study       and      secondly,          a
+
+series of semi-structured individual and group interviews.
+
+
+Phase One: The Organisational Study
+
+
+An Organisational Study was included in the original research proposal and then
+
+r e m o v e d after discussions with, as it then was, JR M T.                      I p r o p o se , that a small
+
+scale Organisation Study be included within the formal structure of the project as
+
+it is a p ie c e that is f u n d a m e n t a l to the su c ce ss o f the w h o l e e n t e r p r i s e . It is a
+
+d iscrete piece o f w o r k that needs to be incorporated into the timetable. In o r d e r
+
+to b e a b le to d e s i g n r e s e a r c h t o o ls w i t h w h i c h to c o n d u c t i n t e r v i e w s w i t h
+
+'v ictim s' o f the disaster and with social w o r k e rs or ot her ' c a r e r s ' , a picture will
+
+h a v e to be built up o f h o w the v a r i o u s a u th o r i t ie s , a g e n c ie s , o r g a n i s a t i o n s ,
+
+community groups and individuals came together to respond in the way they did.
+
+W it h o u t this contextual in fo rm a tio n there is no solid p latfo rm on which to b a s e
+
+the other, more concrete parts o f the study.
+
+W h a t I p ro p o se to do is, by using the records o f the Inter-Agency F o r u m (which
+
+I a l r e a d y p o s s e s s ) , the r e c o r d s o f any o th e r b o d ie s w h i c h a r e a v ailab le, and
+
+
+
+
+                                                            11
+through interviews w ith key personnel, to build up a p i c t u r e o f the p ro ce ss by
+
+w h ic h the 'I n te r - A g e n c y F o r u m ' and the V o lu n ta r y S e c to r C o - o r d i n a t i n g
+
+C om m ittee cam e into being and to consider the issues and p r o b l e m s confronting
+
+the g r o u p s w o r k i n g in this way. In clu d ed in this p a r t o f the p r o j e c t will b e a
+
+limited number o f interviews with those involved in Sheffield and Nottingham as
+
+well.    Although included under the general b a n n e r o f the S ta ff C a r e Study, the
+
+historical or organ isational Study o f the se rvice r e s p o n s e will inform both o f the
+
+major parts of the project. As such it will be necessary for the bulk of this w o r k
+
+to be unde rtaken in the first 3 months o f the research (see timetable).
+
+
+
+
+Phase Two: The Interview Study
+
+W h a t I a n tic ip a te in this part o f the study is a se r i e s o f g r o u p 'e x c h a n g e s ' o r i, ;
+
+' g r o u p i n t e r v i e w s ' in t a n d e m w i t h a n u m b e r o f s e m i - s t r u c t u r e d i n d i v i d u a l
+
+in terview s.' T h e^b n ly 'm ajo r de partu re from the w o r k anticipated in the rev ised
+
+research proposal ^ a r c h 1990) is the inclusion, again by wa y o f comparison, of
+
+some work with the police.
+
+
+
+T h e u s e o f i n d iv id u a l in te r v ie w s in a d dition to g r o u p s w o u l d h e lp p r o v i d e the
+
+b r e a d t h a n d d e p t h o f i n f o r m a t i o n th a t is r e q u i r e d in a d d i t i o n to a l l o w i n g
+
+i n f o r m a t i o n to b e g a t h e r e d in a n o t h e r s e t t i n g th a t c o u l d i n f o r m th e g r o u p
+
+disc ussions. T h e r e a re a n u m ber o f areas in w h ic h individual interviews might
+
+Jbeofjbenefit:____________________ __________________________________________________
+
+
+
+
+a        to p r o v i d e       d etailed       background             inform ation            on    the     types       of
+
+         support          and      counselling            w ork       staff      w ere       involved          in     (eg.
+
+         H elp line,          crisis       and      longer         term        counselling             w ork,        plus
+
+         other ad-hoc              activities         s u c h as s t e w a r d i n g        at A n f ie ld d u r i n g
+
+
+
+
+                                                              12
+         the weeks after the tragedy.)
+
+
+
+
+b        to g a i n i n s i g h t i n t o h o w s u c h w o r k w a s e x p e r i e n c e d      by s t a f f
+
+         and,     in    particular,      any      em otio nal/p sycholog ical             difficulties
+
+         they themselves may have experienced.
+
+
+
+
+c        to     explore        w ith   team         leaders        and     area     m anagers            the
+
+         experience           of w orking      w ithin         and/or    being    in volved        in    the
+
+         organisation o f a pan-Merseyside, pan-agency service
+
+
+
+
+d        to t a l k w i t h    m em bers     o f the v o lu n ta r y       ag encies    involved          in
+
+         this work about their experiences
+
+
+
+
+e        to   talk     w i t h y a n y : training    officers       that    w ere      em ployed          by
+
+         social      services      specifically           to     equip     w orkforces        to        cope
+
+         both as helpers and victims
+
+
+
+Q uite    clearly,      m any     in terv iew s     are    lik e ly to     be c o n d u c te d     at    the
+
+'O rga n isa tio na l Stage' which would c o ver issues o f relevance to the 'S ta ff C a r e '
+
+Study. Similarly, the information g ath ered as part o f the O rga nis atio n Study can
+
+also-be-u-s^d-^-s-t-h^-b-a^-s-fer-set-tra^-ufHth^-G^ouf-Ex-eh-a^-e^—Th-u^y-peel^-of
+representatives from the various working groups ('front-line' staff; team leaders;
+
+area managers, voluntary workers etc) can be dr aw n using data already collected,
+
+and then individuals approached using the support of social services or voluntary
+
+a g en cy m anagem ent.        I would envis age the exchanges being run open-endedly,
+
+simply using 'topic guides' to enable the 'facilitator' to keep a check on the areas
+
+o f i nte rest already identified as requiring further examination.                  W h e r e poss ible
+
+
+
+                                                     13
+the meetings will be tape-recorded.
+
+
+
+It will also be n e ce ssa r y to in co rpo rate staff not directly involv ed in 'd isa ster'
+
+w o r k (or at least th ose not in the special tea ms, s o m e o f w h o m w e r e involved in
+
+crisis work in the immediate aftermath) into this part o f the study. In considering
+
+the organisational implications o f 'disaster' work, it will be important to consider
+
+the fe e lin g s o f th o s e who m ay p o te n tia lly feel s e c o n d c la ss ; the p o s s ib le
+
+existence of feelings of jealousy or rivalry;                               and the n e e d s of tho se sta ff
+
+c o n ti n u i n g to do ' b r e a d and b u t t e r ' w o r k w h ilst s o m e o f t h e i r c o ll e a g u e s are
+
+carried away to w o r k on special t
+
+
+
+             V T h e b u l k o f this w o r k would be done th ro u g h individual interviews
+
+though group discussions may be a possibility.
+
+
+
+F i n a l l y in t h i s j - c o h t e x t I p r o p o s e ,    if re s o u r c e s   allow ,     to d o    som e
+
+w ork      w ith - the .-police.               A lthough            through      interview s       and     group
+
+discussions/exchanges                    w ith      both        social        services      and      vo lu n tary
+
+agency personnel,                th ere w ill be an in b u ilt e le m e n t o f c o m p a r is o n ,
+
+it   w ould       nevertheless            be     in terestin g         to     consider      the    im pact       of
+
+the disaster on the personnel of another 'formal' agency. T h e w o rk that has been
+
+ do ne in this a re a ( B r a n d o n 1987;            M i t c h e l l, 1990) s u g g e s t s that t h e r e a re a
+
+ n u m b er o f interesting comparisons to be m ad e b e tw ee n p olic e forces and social
+
+"se rvic eslle partm ents, particular ly“mTheir org an isational ethos a n d t f r e d e g r e e to"
+
+ which they anticipate the needs of their staff. Both of the studies mentioned have
+
+ had som e success u s in g postal questionn aires (over 40 % r e s p o n s e rate) and this
+
+ would be a cost-effective method of proceeding. The questionnaire, which would
+
+ c on sist in the m a in o f a se ries o f c lo sed q u e stio n s but w o u l d also i n c l u d e an
+
+ opportunity for a m ore discursive element at the end, would be sent to a sample
+
+
+
+
+                                                               14
+of officers who, it had been established, had been involved in the disaster and its
+
+ a f t e r m a t h . T h i s w o u l d p r o b a b l y h a v e to i n v o lv e the c o - o p e r a t i o n o f S o u t h
+
+Yorkshire police, w h ic h may b e tricky to negotiate, but w o r k with M e r s e y s i d e
+
+Police would also be of interest. T his w o r k would very m u c h be se condary to
+
+ the m a j o r a i m s o f t h e p r o j e c t , a n d w o u l d o n l y b e u n d e r t a k e n i f t i m e a n d
+
+ resources allowed.
+
+v l   i\a   IK u cA   tAxxe,   o f     t\e .   Y \O a J       axDiaj   tX c u (-   dr   VM ouJLci                             U ^ le
+
+                  -6o r+ £s tl(HC                                Ioo&ia^           oJ- thjC- roipo^sc-               ft>   bj e    •
+
+~ T o v /U ^                         (XA^ei               )    CO\K.% C A U jO C tlu .>     V aJqA -   L a J lth /
+

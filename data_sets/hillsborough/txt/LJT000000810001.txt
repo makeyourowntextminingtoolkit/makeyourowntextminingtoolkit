@@ -1,0 +1,2835 @@
+            <1
+
+
+
+
+ GUIDE TO SAFETY
+        AT
+SPORTS GROUNDS
+
+
+
+        Al
+©   m
+        *
+Home Office/Scottish Office
+
+
+
+
+    GUIDE TO SAFETY
+           AT
+   SPORTS GROUNDS
+
+
+
+
+London: Her Majesty's Stationery Office
+© Crown copyright 1986
+  First Published 1973
+  New Edition 1986
+
+This booklet is a guide to measures for improving spectator safety
+at existing sports grounds
+
+
+
+
+ISBN 0 11 340840 4
+C O N TEN TS
+                                Chapter Paragraph
+                                  no.     no.
+
+INTRODUCTION                       1       1
+
+ Scope and Status                         1
+ Background                               2
+ Historical Context                       3
+ General Principles                       4
+ Using the Guide                          11
+ The Problems                             14
+ Overcoming the Problems                  19
+
+
+MANAGEMENT RESPONSIBILITY          2       23
+
+
+GENERAL FABRIC AND STRUCTURAL
+ MATTERS                           3       30
+
+
+INSPECTIONS AND TESTS              4       36
+
+INGRESS                            5       44
+
+EGRESS                             6       48
+
+ Egress Time                              56
+ Signposting                              57
+ Exit Routes                              58
+ Exit Doors                               62
+
+STAIRWAYS AND RAMPS                7       68
+
+ Disposition                              69
+ Construction                             70
+ Access                                   79
+ Discharge                                85
+ Fire Protection                          86
+ Ramps                                    87
+
+
+                            1
+                                           Chapter Paragraph
+                                             no.      no.
+
+TERRACES AND VIEWING       SLOPES           8         89
+  Terrace Steps                                       92
+  Gangways                                            96
+  Division of Spectator Accommodation                 101
+  Crush Barriers                                      104
+  Viewing Slopes                                      105
+  Terrace to Touchline Distance                       108
+
+CRUSH BARRIERS AND HANDRAILS                9         110
+
+  Dimensions and Design                               110
+  Spacing of                                          112
+  Strength of                                         118
+
+ROOFED STANDS WITH SEATED
+ ACCOMMODATION                              10        120
+  Balustrading                                        128
+  Temporary Stands and Other
+   Temporary Structures                               129
+
+
+FIRE SAFETY                                 11        147
+  Minimising Fire Risk                                149
+  Prevention or Retardation of
+   Fire Growth/Spread                                 156
+  Fire Warning Systems                                162
+  Emergency Lighting                                  166
+  Fire-fighting Equipment                             170
+  Emergency Procedures and Staff
+   Training                                           176
+  Means of Escape                                     178
+  Fire Protection for Stairways/Passages              180
+  Emergency Evacuation Time                           183
+  Access for Emergency Vehicles                       189
+
+
+COMMUNICATIONS                              12        192
+
+                             2
+                                          Chapter Paragraph
+                                            no.      no.
+
+STEWARDING                                  13       195
+
+CROWD CONTROL                               14       202
+ Policing                                            204
+ Crowd Movement                                      206
+ Detention and Removal of Troublemakers              210
+ Refreshments                                        212
+
+PITCH PERIMETER FENCE/WALL                  15       214
+
+ESTIMATION OF SAFE GROUND
+ CAPACITY                                   16      212
+
+ Terraces and Viewing Slopes                        221
+ Exit Systems                                       229
+
+RECOMMENDED FLOW RATES                      17      233
+
+ANNEXES
+ A. GLOSSARY OF TERMS
+ B. STEWARDING
+ C. TESTING OF CRUSH BARRIERS AND HANDRAILS
+
+
+
+
+                                3
+[
+
+
+
+
+    4
+1. IN TR O D U C TIO N
+
+Scope and s ta tu s o f th e G uide
+1.   This booklet provides guidance to ground management, local
+authorities and technical specialists such as engineers on
+measures for improving spectator safety at existing sports
+grounds. It is a voluntary code and has no legal force.
+
+B ackgro un d to th e G uide
+2.     Guidelines on measures for improving the safety of
+spectators at sports grounds first became available on a more or
+less comprehensive scale when the Wheatley Report on Crowd
+Safety at Sports Grounds was published in 1972. The recommen­
+dations in the appendix to that Report were extended to include
+fire precautions and means of escape from an emergency situation
+such as a fire, and then formed the basis of the Guide to Safety at
+Sports Grounds (which became known as the "Green Guide"). The
+application of those guidelines to football grounds over the few
+years which followed revealed a need for the advice to be
+amended in certain respects. Furthermore, since the safety of
+spectators can be affected when crowds are disturbed by hooligan
+elements, the recommendations of the Working Party on Crowd
+Behaviour were incorporated in a new version, published in 1976,
+which was aimed specifically at football grounds. Following the
+fire at Bradford City FC ground in 1985 in which 56 people died, a
+working" party, established under the aegis of Mr Justice
+Popplewell's Inquiry into Crowd Safety and Control at Sports
+Grounds, reviewed the Guide and produced a series of recommen­
+dations which have been taken into account together with
+comments from others in producing this revised and expanded
+version.
+
+H is to ric a l c o n te x t
+3.     Serious accidents at sports grounds involving injuries on a
+large scale to spectators are fortunately few. But as demonstrated
+by those at Ibrox and Valley Parade, and before that at Burnden
+Park, the potential scale of death and injury at a crowded sporting
+event is such that it is essential for ground management to take
+
+
+                                    5
+such steps as are necessary to ensure reasonable safety at their
+grounds. This applies to all sports grounds irrespective of whether
+or not they are the subject of a safety certificate.
+
+
+G eneral p rin cip les o f th e G uide
+4.     The problem of crowd safety at sports grounds is complex
+and cannot be solved simply by ensuring that each component of a
+ground, such as stairways, passages or sections of terracing, is
+satisfactory in itself. The inter-relation of these and the other
+components is essential: none of them can be considered in
+isolation without consideration of its effect on the others, and they
+should all be compatible and combine to form a balanced unit.
+
+
+5.    The Guide is intended to cover grounds where sporting
+events of all kinds are held and where the gathering of large
+crowds is likely to present a safety problem. However, much of the
+guidance has particular application to football stadia and this
+should be borne in mind when applying the Guide to grounds used
+for other sports and modifications may prove necessary, because
+the measures to meet problems of stadia used for association
+football may not always be necessary at other grounds used for
+other types of sports. For example, if a ground has no terraced or
+sloped viewing areas, crush barrier requirements are unlikely to
+be of concern. Indications are given throughout to those sections
+of the Guide which are particularly relevant to football grounds or
+stadia and to those where close compliance with the guidelines is
+desirable irrespective of the sport concerned.
+
+
+6.     Deviations from individual guidelines are possible without
+necessarily detracting from the overall safety of the ground. The
+variety of type, function and layout of sports grounds and the inter­
+relationship of the different parts of them means that a flexible
+approach should be maintained to take account of the particular
+circumstances at individual grounds. For these reasons the Guide
+does not attempt to set a minimum standard which would be
+acceptable for a large well-attended stadium but excessive for a
+smaller, sparsely-attended ground; or which would be an
+appropriate standard for the latter but insufficient for the former.
+7.    The Guide is aimed primarily at advising on safety for
+spectator^ in existing^>orts grounds and as such it attempts to
+take account of the constraints ancTdifficulties which are present
+within these grounds. Although it is not a design brief for new
+construction work or reconstruction at sports grounds the
+principles may well still be applicable. Such work should not be to
+a standard lower than that set out here and the scope offered by
+new design work should lead to better standards than can be
+achieved at grounds already built.
+
+8.    It should be borne in mind that, when using the Guide to
+assess whether existing circumstances provide adequately for the
+safety of spectators, the criterion to be aimed for is that of a
+reasonable degree of safety. It would be unreasonable, even if it
+were practical, to seek the absolute safety of everyone attending
+a ground.
+
+9.    The Guide is not specifically aimed at risks to spectators
+from the sport itself, but clearly management have a duty to take
+all necessary precautions to safeguard spectators against the
+effects of accidents in, or originating from, the activity on the
+playing area. Particular care is needed when the sport entails use
+and storage of flammable fuels.
+
+10 . The advice given in this Guide is without prejudice to the
+operation of the Building Regulations, the Health and Safety at
+Work etc Act 1974 and any other relevant legislation.
+
+
+U sing th e G uide
+11. The principles referred to in paragraphs 4 - 1 0 above should
+be kept in mind by both ground management and, where
+applicable, by the local authority when applying the Guide to an
+individual ground. The Guide is an aid to, not a substitute for,
+professional judgement and common sense.
+
+12. Although some of the safety standards are likely to apply to
+all sports grounds, however many spectators are present, it is
+nonetheless important to relate the Guide to the needs of the
+individual ground. It should be borne in mind that in most circum­
+
+
+                                    7
+stances, the required safety standard to be attained will often
+relate to the maximujiu jurnber of spectators who are liable to be
+admitted to the ground (or parts of it). For example, a large football
+stadium with a maximum spectator capacity of tens of thousands
+is liable to pose significant crowd pressure risks. To accommodate
+safely a maximum crowd at such a ground might entail substantial
+remedial work; alternatively, consideration might be given to
+accepting a much smaller number of spectators who, properly
+dispersed, could be accommodated safely without having to incur
+costly repairs or alterations. The first step, therefore, is to assess,
+using the Guide's criteria, how many people can be safely
+accommodated in the different sections of the ground given the
+existing condition of the ground (ie determine a safe spectator
+capacity). This should be done with a proper, detailed plan,
+preferably drawn to scale (1:200) of the ground (see Chapter 16).
+
+13. It follows that in general in a ground where it is proposed to
+retain a high spectator capacity, the measures needed to be taken
+to accommodate safely such large crowds are potentially more
+extensive.
+
+T h e problem s
+14 . There are essentially four types of safety problem to be
+considered within a ground and in its immediate surroundings, all
+of which are linked in some way.
+
+15. The first concerns hazards affecting individuals which cause
+tripping, slipping and falling, which in themselves can have
+serious consequences for the individuals concerned, but can also
+lead to a serious incident involving others. This type of problem
+can be remedied by proper care and maintenance, and attention to
+the general constructional features of the ground.
+
+
+16 . The second type is far more important and involves crowd
+p r g g s W h e n large crowds are present and densities are high7
+presslll8b build up within the crowd either through motion or
+swaying which make it difficult, or even impossible, for individuals
+to control their own movements. Under these conditions crowd
+pressures can escalate to a dangerous level and if a person
+
+
+                               8
+stumbles or falls the crowd cannot adapt to avoid him or to stop to
+help. Since this type of danger arises from crowd pressures its
+remedy lies in their removal or restraint within safe limits. These
+dangers arise in particular on terraces and in exit routes, and so
+careful attention must be paid to restraining surges and similar
+pressures on the terraces and to ensuring free movement
+throughout the exit systems. Such free movement is dependent
+upon the capacity of all the various sections of the exit systems
+and interactions between them.
+
+17. The third type of safety problem cannot be divorced from the
+second and in some ways is an extreme version of it. The danger
+arises from emergency situations which can develop following, for
+example, ai^^JStbreak of fire or hooliganism. The orderly
+evacuation of large crowds^may undSr emergency conditions
+become a very serious problem.
+
+18 . The fourth problem is the risk from fir^jjgg|^.particularly
+where there is a large crowd in a confined area of an elevated
+covered stand where spectators are in the upper tiers of a
+building, the materials and construction of which might in
+themselves constitute a fire risk. Measures should be taken which
+as far as possible will prevent the outbreak and contain the spread
+of fire; systems should be introduced to detect such an outbreak
+early on; and provision must be made for means of escape and for
+staff to be trained in emergency procedures.
+
+
+O verco m in g th e problem s
+19 . The importance of good ground management cannot be
+emphasised too strongly (see Chapter 2). Much of the safety
+advice contained in this Guide can and should form part of the
+general upkeep and maintenance of a sports ground. If these
+guidelines are applied they should reduce or eliminate risks to
+spectators and in the long term prove cost effective by preventing
+serious defects. A well-maintained and well-run venue may also
+attract more events and a greater number of spectators.
+
+2 0 . As mentioned in paragraph 7 above, the scope in new
+design work can give an opportunity to enhance spectator safety.
+
+
+                                    9
+which should be given a high priority when deciding upon the
+design, layout, materials and loading of new buildings, or
+alterations in a ground. Close attention should be paid to new and
+existing exits and exit routes, slip-resistant surfaces, lighting and
+ease of maintenance. All parts of viewing areas should always
+have a clear unobstructed view of the playing area and designs
+should take account of the need for effective stewarding, which
+can play an important role in controlling crowd movement (see
+Chapter 13).
+
+21.    Although controlling crowd numbers may serve to reduce
+some risks to an acceptable level, remedial work is likely to be
+necessary to overcome others. Obvious defects such as trip
+hazards (especially at the head of stairs or steps), loose or weak
+handrails on stairs, and obstructed exits or exit routes, should be
+rectified as part of the general care and maintenance of a ground.
+Structures should be sound (see Chapter 3) and inspected by
+suitably qualified persons (see Chapter 4). Design, layout and
+signposting of exits and exit routes require particular attention to
+ensure that they can safely cope with the number of spectators
+whTTwill use them at itie ena qt an event or in an emergency (see
+Chapter 6). Similarly, the"coriflltioh of terraces or viewing slopes
+(see Chapter 8) and presence or otherwise of crush barriers,
+correctly sited and meeting the strength tests of this Guide (see
+Chapter 9), are important factors. Broken, uneven terracing causes
+stumbling. Barriers not only serve to break up crowd pressures but
+also assist in controlling movement off the terraces by regulating
+the rate of arrival at exits to suit their capacity, and encouraging
+the formation of queues so that spectators arrive at exits in an
+orderly fashion.
+
+22 . Proper precautions against the risk of fire are vital (see
+Chapter 11). Good ground management is crucial in reducing or
+eliminating the risk. Accumulation of litter is a prime potential
+source of fire but can be eliminated by regular and frequent
+inspections, good housekeeping, ground maintenance and by
+taking particular care over the storage of flammable materials. The
+nature and type of materials used in the construction of covered
+areas and stands will strongly influence the safety measures
+
+
+                              10
+required in them; for example, in some circumstances consideration
+may have to be given to restricting the number of spectators
+and/or to the provision of additional exits from the building if it is
+to continue in use.
+2. M A N A G E M E N T RESPONSIBILITY
+
+Effective ground m anagem ent is an important factor in
+achieving proper safety and management should constantly
+look to improve safety standards wherever possible.
+
+
+
+23 .    The^safety of the ^jyljMc^inside the ground i s ^ h e
+responsibility of those who stacjgJjffiSfeqt and administer the
+gfftUIIJ'TlT Wiich it is held, ie the "rpaosgernent". This responsibility
+apptres in both normal and emergency situations. Local authority
+safety officers, fire and police officers will help management to
+discharge this responsibility and in certain circumstances may
+require measures to be taken in order to achieve reasonable safety
+standards, but the management is not thereby absolved of its
+responsibility for the safety of its customers.
+
+24 .   Management should draw up a programme of checks,
+inspections, tests, personnel training and remedial work pro­
+grammes so as to eliminate or reduce risks to spectators.
+Management is responsible for ensuring that such inspections are
+carried out on structures and installations so that they are safe for
+the purpose for which they were intended. The results of any
+remedial action, as and when taken, should be recorded. Where
+restrictions on crowd numbers to parts of the ground are required
+for safety reasons they must be imposed and enforced. Similarly, if
+a part of the ground is required to be closed because it is
+potentially unsafe for spectators this must be done, and it must
+not be opened up as a result of an "attractive” fixture or event,
+unless measures have been taken beforehand to remove the
+dangers which led to its closure in the first place.
+
+25 .  The ground management should ensure that structural fire
+protection of buildings is adequate, and that fire warning systems
+are correctly installed and properly maintained in accordance with
+manufacturers' instructions or British Standards. Similarly,
+suitable fire-fighting equipment must be provided and maintained
+to the standards specified in this Guide (see Chapter 11).
+
+
+                                12
+2 6 . Staff training, particularly for stewards, in carrying out both
+their'Tiormal duties and ensuring tnat tney are aware o t ineir role"
+in ^an emergency situation, should Be given nigh priority.
+TPmimamimm Should not 6niv inform an graft in w m nni-w narm eir
+cfijties are, how to effect them and from whom to seek advice if in
+d6Llbt, but also carry out active supervision and organise
+emergency drills to maintain standards (see Chapter 13).
+
+27.   General repair and maintenance should be undertaken with
+spectator safety in mind; litter should not be allowed to
+accumulate and management should see that minor repairs are
+quickly and properly carried out.
+
+28 . There should be an appointed safety officer who should be
+of sufficient status and authority effectively to take responsibility
+for safety at the ground and to be able to authorise and supervise
+safety measures. He or an appointed deputy should be in
+attendance at a central control point when an event takes place.
+All staff should know the location of this control point and who is
+in charge of safety on the day in question.
+
+29.  A summary of management responsibilities is contained
+below.
+
+      i.     To appoint a safety officer.
+      ii.    To ensure compliance with the terms and conditions
+             of a safety certificate or other notice covering the
+             safety of spectators.
+      iii.   To draw up and keep up to date records and plans of
+             the ground; to maintain the general fabric of the
+             ground, and arrange an annual detailed inspection of
+             the ground and regular testing of a representative
+             sample of any barriers or rails, keeping a record of
+             their location and results of the tests.
+
+      iv.    To maintain and test all electrical installations and, in
+             accordance with the relevant British Standards, the
+             systems for emergency lighting, communications and
+             fire warning/detection, and fire-fighting equipment.
+
+
+                                      13
+v.       To draw up in consultation with the emergency services
+         contingency plans, including arrangements with police
+         for stopping an event, for:
+ *       a.   various emergency situations including fire;
+  ^      b.   possible crowd trouble;
+         c.   coping with exceptionally large numbers           of
+              spectators arriving at the ground; and
+         d.   the failure of any detection, warning, lighting or
+              communications system.
+vi.      To devise a clear system of communications within
+         the ground.
+
+vii.     To take necessary fire prevention and precautions
+         measures.
+
+viii.    To consult the fire authority about emergency
+         evacuation time; fire risk in stands; fire-fighting
+         equipment; and access for emergency vehicles.
+
+ix.      To store safely and away from public areas any
+         hazardous and flammable materials, combustible
+         items, and any accumulations of combustible waste
+         which cannot be cleared from the ground before the
+         next event.
+
+x.       To provide first aid facilities and first aid staff.
+
+xi.     T To consult with the police to arrange adequate policing
+        I and police facilities.
+
+xii.     To recruit, train and deploy stewards and to organise
+         and carry out emergency evacuation drills using those
+         staff.
+
+xiii.l To man any locked exit gates at all times when the
+     \ public are in the ground, to ensure they can be opened
+       immediately from inside by anyone in an emergency.
+
+xiv.     To ensure that all gangways and exit routes are
+         unobstructed and capable of being used to their full
+         capacity at all times when the public are in the ground.
+
+                            14
+xv.     To provide directional flow, exit and emergency exit
+        signs.
+xvi.    Before each event:
+        a.   to test exit doors and gates, and their locks if they
+             are to be locked;
+        b.   to test lighting, communications and fire warning/
+             detection systems; and
+        c.   to check the ground for any accumulations of
+             combustible litter, especially below stands and in
+             exit routes; and for any source of potential missiles.
+xvii.   After each event:
+        a.   to carry out a general visual inspection for signs of
+             damage; and
+        b.   to liaise with police so as to gain full benefit from
+             any debriefing about crowd control.
+
+xviii. To keep records of:
+        a.   attendance figures; and
+        b.   all inspections and tests, any defects noted and
+             the remedial/other action taken.
+
+
+
+
+                                  15
+3. GENERAL FABRIC A N D
+STRUCTURAL MATTERS
+
+To meet safety requirements, all components, installations and
+structures, eg terraces, stands, stairs, barriers and pylons,
+should have the strength and durability, and be maintained in
+such condition and arranged in such a manner as to perform
+safely their required functions.
+
+30.    The design and construction of buildings and installations
+should be in accordance with good engineering and building
+practice, especially as set out in all relevant British Standard
+specifications and codes of practice. They should be properly
+maintained and repaired by appropriately qualified persons.
+Specialist advice from an appropriately qualified engineer
+belonging to a recognised Institution should be sought to assess
+the safety and strength of load-bearing elements in buildings and
+installations such as crush barriers (see Chapter 9) and brick/block
+walls (see Chapter 8, paragraph 103).
+
+3 1 . When walls, including perimeter walls, and fences are to
+w ithstand crowd pressures, they snould be designed to withstand
+such pressures safely *5nd allowartCS should be made for forces
+simultaneously and independently induced by other factors eg
+wind forces or attached installations.
+
+32 . All parts of the ground used by the general public, and
+especially the exit routes, should have minimum headroom of not
+less than 2 metres. Exit routes should wherever possible have a
+headroom of 2.4 metres.
+
+33 . Precautions should be taken to prevent people from climbing
+on to roofs, pylons, hoardings and other structures. Where
+possible such structures should be fitted with unclimbable
+devices eg stout barriers or close-boarded enclosures. Spikes,
+barbed wire etc should only be installed above the minimum
+headroom specified in paragraph 32 above and preferably at a
+minimum height of 2.4 metres from the base.
+
+                              16
+3 4 . All electrical installations should comply with the current
+edition of the Regulations of the Institution of Electrical Engineers,
+or have been awarded a certificate of satisfaction from a chartered
+electrical engineer. Emergency lighting equipment should conform
+to BS 5266: Part 1.
+
+35 . Where the natural lighting in any section of the ground
+accessible to the public is deficient, adequate artificial lighting
+should be provided. If the ground is to be used after dark, all parts
+accessible to the public should be provided with means for lighting
+adequate to enable them to see their way into, within and out of
+the ground. These provisions are particularly important in relation
+to exit routes and stairways used by the public. Advice on
+emergency lighting is offered in Chapter 11, paragraphs 166-169.
+
+
+
+
+                                     17
+  4. IN S P E C TIO N S A N D TESTS
+
+  Inspections and tests should be carried out by suitably qualified
+  persons on behalf of management to ensure that the safety
+  standards of the Guide are maintained.
+
+  3 6 . A detailed inspection of the ground, including all components
+  and installations, should be arranged annually by the management.
+  It should be carried out by a person with a relevant and recognised
+  professional qualification, and experience of inspecting existing
+  structures.
+
+  37.    Engineers commissioned to assess structural safety of
+  buildings may find the appraisal techniques recommended by the
+  Institution of Structural Engineers (ISE) in the "Appraisal of
+  Existing Structures", published in 1980, of assistance. Hard and
+  fast rules on the extent to which a structural appraisal is
+  necessary for individual buildings are difficult to lay down: much
+  will depend upon the type of installation, its size, condition,
+  materials used in construction and standard of maintenance. A full
+  appraisal is however unlikely to be necessary unless defects are
+  identified or in evidence from the analysis of information on the
+  structure and visual inspection.
+
+  38.    Testing of crush barriers (see also Chapter 9) should be
+   carried out in accordance with Annex C of this Guide. When the
+   guidelines are first applied to a particular ground, a representative
+   sample of barriers of all types from all areas of the ground should
+v. be selected for testing. Thereafter testing of barriers should take
+■ place every 4_years unless from visual inspection doubts are
+I raised as to their strength/integrity, in which case they should be
+  'retested. Testing should be carried out by or under the supervision
+   of a suitably qualified engineer, ie a structural or civil engineer.
+
+  3 9 . Following each event, a general visual inspection of the
+  ground should be made for signs of damage which might create a
+  potential danger to the public. Particular attention should be paid
+  to the condition of terraces, viewing slopes and stairways. Crush
+
+
+                                18
+barriers and balustrades should be examined for deformation or
+any other overt signs of weakness. The fire precautions measures
+should also be inspected for damage, and alarm and other
+electrical installations should be checked to ensure compliance
+with the relevant British Standards.
+
+40.    Warning, detection, lighting and public address systems are
+vulnerable to vandalism, and this should be borne in mind when
+installing them. All automatic fire detection and fire warning,
+emergency lighting and public address systems should be tested
+24 hours before an event, in accordance with the methods laid
+down in BS 5839: Part 1 and BS 5266: Part 1 respectively. There
+is currently no British Standard for public address systems. In case
+any of these systems is not operating properly and cannot be fixed
+before the event, contingency plans should be formulated, in
+consultation with the emergency services, for the use of acceptable
+substitute measures or (if necessary) the closure of any areas of
+spectator accommodation until the fault is remedied.
+
+41.   Before an event, and at major soccer grounds in particular,
+steps should be taken to ensure that the ground does not contain
+any accessible items which could be used as missiles (eg piles of
+bricks, stones etc).
+
+4 2 . The ground should be inspected before and after each event
+to ensure there are no accumulations of combustible waste and
+that any hazardous materials (if essential to be stored) are safely
+stored well away from public areas.
+
+43.   Records should be kept and maintained of all inspections
+and tests together with a record of remedial actions taken.
+
+
+
+
+                                     19
+    5. INGRESS
+
+    S pectators should_be a d m i t t e d a t a r a ta w h i r h is compatible
+    w ith the dispersal arrangements for them inside the around.
+
+    4 4 . Where admission to a ground or parts of it is controlled by
+    turnstiles, these, by their number and location, control not only the
+    rate of admission but, to a large extent, the dispersal of spectators
+    within a ground to their particular sections. TqxnstNes^shouldJjejjjf
+    such numbers as to admit spectators_at_a_rate wherebyjTQjjnduly
+    laPflfe crowds are kept waiting for admission and yet at no faster
+    rate than IIlb Uhdngements for distributing spectators within the
+                                                                                 P
+    groundpermit. ’
+
+    45.   Dangerous overcrowding can be caused if spectators are
+    able to force their way into a ground already full to capacity by
+    scaling or breaking through boundary walls or fences or the gates
+    in them. To avoid this danger such walls, fences and gates should
+    be of appropriate height and strength, and hand- or foot holds
+    which might assist climbing should be avoided. They should be
+1   regularly inspected.
+
+    46 . Contingency plans should be made to deal with situations
+    where the available entrances at a ground have proved insufficient
+l» t o stop unduly large crowds from gathering outside. This may, for
+IBex^mple, TnclUCIS ope'mng additional entrances, pui local knowledge
+ Iflof the ground, crowd patterns and advice from the police should be
+f*taken into account in drawing up contingency plans. Larger
+    grounds should have intercommunication systems and metering
+    systems at turnstiles (see Chapter 12), and installation of a
+    centralised computer monitoring system may be of assistance to
+    management in quickly identifying particular areas of difficulty.
+
+    4 7 . The maximum notional rate at which spectators can pass
+    through turnstiles will depend upon a variety of factors; for
+    example, the design and age of the equipment, the ability of the
+    operator and the ticketing arrangements. The admission rate will
+    therefore depend greatly upon local circumstances but in general.
+
+
+                                     20
+based on observation and experience, it is unlikely that the
+maximum notional rate per turnstile would exceed 750 persons
+per hour.
+
+
+
+
+                                21
+6. EGRESS
+
+There should be a smooth and unimpeded passage through an
+exit route and a free flo w of people from one element to the
+next until they reach the boundary of the ground.
+
+48.    It is generally recognised that a period of great risk to crowd
+safety is at the time of leaving. Pressures can be set up within a
+departing crowd by impatient people; such incipient pressures can
+and must be contained and controlled by careful attention to the
+detailed design of barriers, stairways, gangways and exits.
+
+49.    Recommendations relating particularly to egress from stands
+are given in Chapter 10. Advice on the calculation of the capacity
+of exit systems is contained in Chapter 16.
+
+50.    A smooth free flow through an exit route to the outside is
+best achieved by controlling the crowd flow at the entrance to the
+exit route, so that departing spectators are held back in a relatively
+safe place eg on the terrace and gain access to the exit route at a
+calculated rate. That is to say, the first part of the exit route
+leading from the terrace (or other enclosure) should have a lower
+capacity than any subsequent element. The exit route will then be
+able to discharge people at a rate compatible with that at which
+they enter into the route.
+
+51.    Where the system is not free flowing, the width of any
+restricting element should be increased and/or the width of the
+exit from the stand or terrace reduced to regulate the flow.
+
+52 .  Where deviations in design or construction from the
+recommended guidelines are such as to create a manifest danger,
+that section of the exit system should be closed until remedial
+action has been taken, and a reduction made accordingly in the
+spectator capacity of the section of the ground it serves, ie the exit
+route should be excluded from the capacity calculations.
+
+5 3 . Care should be taken in the planning of exit systems to
+ensure that in the event of an emergency which blocks the usual
+exit route spectators will be able to use an alternative exit route
+
+                              22
+(including, where appropriate, forward evacuation on to the pitch:
+see Chapter 11, paragraph 186).
+
+54.    There should be no "funnelling" effect causing people to
+converge on a narrower means of access or egress. This will slow
+down the rate at which people can pass through the entire exit
+system and pack them more closely together. However, a
+narrowing in the exit route is acceptable when it is preceded by an
+open space or "reservoir area" where the holding capacity is
+sufficient to contain safely the spectators held up because of the
+difference in the flow rate into and out of the reservoir area. The
+capacity of reservoir areas should be calculated using the
+appropriate flow rate given in Chapter 17 and the recommended
+exit time given in paragraph 56 below; a packing density of 54
+persons per 10 square metres of the area available for standing
+within the reservoir area is the maximum for safety. Arrangements
+should be such as to prevent this being exceeded.
+
+55.   Reservoir areas should be avoided wherever possible and
+should not be permitted within 45 metres of any combustible
+building within the ground eg a timber stand, or within 15 metres
+of any non-combustible building within the ground.
+
+Egress tim e
+56 .  Some research has indicated that when it takes more than
+about J    minutes to vacate an area of terraced spectator
+accommodation, the crowd flow tends to become Jurbulent. In
+these conditions the rate of flow may be reduced and individuals
+can lose control over their own movements; there is thus higher
+potential for accidents. Exits from each area of spectator
+accommodation should be so designed that all spectators can
+leave that area and if desired pass into a free flowing exit route
+system in 8 m in u tg ^ £ ije s s . The capacity of an exit route is the
+number of peopfewhc^ould pass through restricting parts of it as
+calculated in Chapter 16, paragraphs 229-232.
+
+
+Note: This time is not necessarily the same as emergency
+evacuation time, which is dealt with in Chapter 11, paragraphs
+183-188, and which involves other considerations.
+
+                                       23
+S ig np ostin g
+57. A comprehensive system of signposting which clearly
+indicates routes to the various parts of the ground, and to the exits
+from the ground, should be provided. Signs relating to fire safety
+should be in accordance with BS 5499: Part 1: 1984, and other
+safety signs (eg first aid facilities) should be in accordance with BS
+5378: Part 1: 1980. Exit gates themselves should be clearly
+signposted, preferably using illuminated signs in accordance
+with BS 2560 or BS 4218. Directional signs should be provided to
+encourage crowds in any particular section to flow in one direction
+when leaving the ground.
+
+E xit routes
+58. Exit routes should be kept clear of obstructions. In particular,
+no catering, sales or toilet facility should be situated in such a way
+that it, or any queue it attracts, obstructs an exit route.
+
+59. The minimum width for any section of an exit route should
+be 1.1 metres. However, the required width for any particular
+section is dependent on the crowd flow it will be required to carry.
+(For capacities of exit routes, see Chapter 16, paragraphs 229-232).
+
+60. Where there is a simple exit route, ie a direct passage from
+the accommodation area to the exit gate from the ground, every
+part of that route should be able to accommodate the flow from
+the terrace or stand exit.
+
+61. For a more complex exit system which combines a number
+of exit routes and/or offers a choice of alternative routes to exits,
+the system should be analysed in the form of a network in order to
+check that the capacity of the exit from the terrace or the stand is
+sufficient to ensure a free flow of spectators to the various exits
+from the ground. Where branching of routes gives spectators a
+choice of paths, the proportion of the crowd likely to use each path
+should be derived from local knowledge, eg the exit closest to a
+railway or bus station may be likely to attract a higher proportion
+of spectators.
+
+
+
+
+                              24
+E xit doors
+62. All doors on an exit route should always be capable of
+opening outwards so that crowds can escape in an emergency.
+This is particularly important for doors within covered stands and
+at the foot of stairways.
+
+63. All doors on an exit route should be secured in the fully open
+position before the end of play. When open, no door should
+obstruct any gangway passage, stairway or landing.
+
+64. All exit gates from the ground should also open outwards.
+Where this is impracticable for existing doors, eg because it would
+cause an obstruction on a public highway, the gates should be
+resited (ie put further back) within the exit route they serve, or
+provision made for two-way opening. Where practicable exit gates
+should be sited adjacent to entrances. There should be no
+obstructions eg no changes in level etc at exit doors.
+
+65. Sliding or roller-shutter gates should not be used because
+they are incapable of being opened when pressure is exerted in
+the direction of crowd flow and have mechanisms or runways
+which are vulnerable to jamming.
+
+66 . Where exit gates have to be secured against outside intruders
+they should be fitted with panic-type bolts, but all exit gates,
+unless secured in an open position, should be manned at all times
+while the ground is used by the public and be capable of being
+opened immediately from inside by anyone in an emergency.
+
+6 7 . Facilities should be provided to enable people to leave the
+ground at any time. For this purpose a number of reversible turn­
+stiles or, preferably, pass doors, so operated as to limit the opening
+to the passage to one person at a time, should be considered.
+However, reversible turnstiles are not acceptable as a means of
+escape from a ground and should not form any part of, or be
+installed into, the normal or emergency exit system of the ground.
+
+
+
+
+                                     25
+7 . STAIRW AYS A N D RAM PS
+
+The disposition and construction o f stairways and ramps should be
+such as to help provide smooth and unimpeded ingress and egress
+for spectators under all conditions set out in Chapters 5 and 6.
+
+68.   The aim should be to provide stairways which minimise
+hazards by such features as uniform going and rise, secure
+footing, not too steep a gradient, and a width sufficient to allow
+free movement but narrow enough to provide everyone with
+access to a handrail. The head of the stairway should be so
+designed that flow is uniform across its width and crowd
+pressures cannot easily be generated. In addition flights should
+not provide long, unrestricted paths down which crowd pressures
+and surges can be created. Adequate separation should be
+provided between channels and multi-channel stairway arrange­
+ments so that there is no overspill from one channel to another.
+
+
+D is p o sitio n o f stairw ays
+6 9 . Stairways should be carefully positioned to take advantage
+of natural light and ventilation. Where the natural lighting is
+deficient the stairway should be adequately lit by artificial light
+(see Chapter 3, paragraph 35).
+
+
+C o n stru ctio n o f s ta irw a y s
+7 0 . The width, rise and going of the steps should be uniform
+within each stairway, and should ideally be uniform throughout
+the entire exit system.
+
+7 1 . Stair treads should be provided with slip-resistant surfaces
+and durable edgings. Adequate drainage should be provided.
+
+72.   Open risers should not be used.
+
+7 3 . On any stairway the preferred going of treads should be
+3G5 mm but not less than 2 8 0 mm; and preferred height of risers
+should be 150 mm but not more than 190 mm.
+
+                             26
+74.   Stairways should:
+      i.     be without winders;
+      ii.     be in flights of not more than 16 or fewer than 3
+             steps; and
+      iii.   not have more than 2 successive flights in a turn, and,
+             if there are more than 12 steps in a flight, should have
+             not more than one flight without a turn.
+
+75 . The going of the landing between flights should not be less
+than the width of the section or channel of the flight.
+
+7 6 . Every person on a stairway should have access to a handrail.
+Accordingly the minimum width of a stairway should be 1.1 metres,
+stairways wider than 1.8 metres being divided as far as possible
+into channels having a width of between 1.1 metres and 1.8
+metres. The strength of the handrails (including supports) used to
+divide a stairway into channels should be as described in Chapter 9.
+
+77 . Handrails projecting not more than 100 mm should be
+provided on both sides of all stairways, steps and landings at a
+height of not less than 840 mm (measured vertically from the
+centre of the step, or the surface of the landing).
+
+7 8 . Protection should be provided on both sides of all stairs and
+landings. Where next to open wells, or spaces, such protection
+should be enclosed and should be not less than 1.1 metres in
+height (measured vertically from the centre of the step, or the
+surface of the landing). The protection should have a strength
+equivalent to that of the crush barriers of the weaker type,
+described in Chapter 9.
+
+
+A ccess to sta irw a y s
+7 9 . Access to the head of the stairways should be controlled
+along the following lines to ensure a free flow of spectators.
+
+ 80. Where a stairway is divided into channels the access should
+ be designed to secure a uniform flow down each channel.
+
+                                      27
+81. The approach to the head of the stairs should be level and
+should be so arranged that the spectators converge on the
+stairway from the front and/or the sides only. There should be no
+approach from behind, involving movement around the ends of the
+balustrades or side walls of the stairway, except where this
+approach is already controlled by physical means such as by the
+gangways in the seated areas of the stand.
+
+82. The extent of the approach in the direction of the stairway
+should not be less than 1.1 metres and preferably not more than
+3 metres.
+
+
+
+
+                                 B a rrie r
+
+
+
+
+                                              H andrails
+
+
+
+
+                                     down
+
+
+
+              T h e w id th o f A and B to be n o t less th an 1.1m
+        T h e a g g re g a te w id th o f A + B to be n o t m o re th a n 3 m
+                                     2 ( A + B ) = 2/3C
+T h e capacity o f this s ta irw a y w o u ld be calculated fro m th e w id th C
+
+Figure 1      Example of an approach to the head of a staircase
+
+
+                                   28
+83. Where restrictive elements such as barriers or gateways are
+installed in the approach to a stairway in order to meet the
+foregoing provisions, the total width of the passage formed by
+these elements should not be more than two-thirds the minimum
+width of the stairway. This is to accommodate the slower flow rate
+down a staircase as compared with the flow rate on flat areas and
+through portals (see Chapter 17).
+
+84. For an application of these principles to a multiple stairway
+leading direct from a terrace, see Figures 1 and 2 .
+
+
+
+
+-   t   —           ^            1       V
+
+
+        v
+        ^      /            |r   ^
+                                 DOWN         i
+                                              1        ^       j          *
+
+
+
+
+                     ^                            ^    N        N
+
+        r                            t                        \
+Figure 2      Exits attracting spectators from higher up the
+              terrace should be protected by barriers so that
+              spectators are forced to pass around them and
+              approach from the side.
+
+D isch arge fro m sta irw a y s
+8 5 . All exit stairways should discharge either:
+      i.     at ground level and lead directly to a place of safety* in
+             the open air; or
+        ii.   on to walkways or concourses of adequate dimensions
+              at any level provided these also lead directly to a place
+              of safety in the open air.
+*'place of safety' is a defined term in the Scottish Building
+  Regulations.
+
+                                         29
+Fire p ro te c tio n
+86.   This is dealt with in Chapter 11, paragraphs 180-182.
+
+Ram ps
+87. The gradient should preferably be constant and not broken
+by steps.
+
+88 . The maximum gradient acceptable will depend on the
+particular ramp's length, purpose and usage but a ramp subject to
+heavy crowd flow should preferably not exceed a gradient of
+1 in 10.
+                                                       1
+
+
+8. TERRACES A N D V IE W IN G                              ?* W
+   SLOPES
+
+Arrangements should be nj3de to encourage the even
+distribution 6f the crowd j X i the terraces to proVtde-eage of
+a r r-ess and earesg: ter control and facilitate movement,
+particularlv^HUpc^Kemergency should arise during the event;
+and to fcontaijjr pressures before they _rear.h— dangerous
+proportions, m e provisions set out here will assist in achieving
+tfiese'(k>nditions.
+
+8 9 . In addition to the incidental dangers of standing for long
+periods on steep terraced slopes, crowds are subject to excessive
+pressures generated by spectators straining to see the event, by
+excitement, or by surging deliberately induced by a certain type
+of spectator.
+
+90. Failure to provide spectators with an unobstructed view
+invites them to stretch and strain, and so generates dangerous
+pressures within the crowd.
+
+91. Terraces are recognised as presenting a special safety
+problem especially at football grounds. The following guidance is
+therefore aimed mainly at football stadia but can be applied to any
+ground where standing terraces or viewing slopes are used for
+accommodating spectators.
+
+
+
+T errace steps
+92. A terrace step should not be less than 280 mm or more than
+380 mm wide. The preferred dimension is between 355 mm and
+380 mm.
+
+93. The height of risers should be between 75 mm and 180 mm.
+75 mm is related to the minimum width of 280 mm. If the riser
+height is greater than 180 mm, a crush barrier should be provided
+at the top of the riser.
+
+
+                                    31
+94. Excessive variations in the gradient of a terrace should be
+avoided. Gradients steeper than 1 in 2 could be dangerous.
+
+95. The surface of terrace steps should be even and of a slip-
+resistant material. Adequate drainage should be provided to
+prevent rainwater causing deterioration.
+
+
+
+G an g w ays (see Annex A)
+96. The aim should be to ensure that every spectator on the
+terraces is within 12 metres of a gangway or exit, so that
+spectators can move quickly on to exit routes at the end of an
+event or in the event of emergency. This may be achieved by a
+pattern of gangways (not less than 1.1 metres wide) linked to the
+exit system.
+
+
+97. Spectators should be discouraged from standing in lateral
+gangways because this disrupts free movement about the ground
+(or within sections of it). Also, spectators on the terrace steps
+behind the gangway may have their view obstructed, which will
+cause them to stretch and strain, and so generate dangerous
+pressures within the crowd. Spectators would be discouraged
+from standing in these gangways if they were sunk from 100 mm
+to 200 mm and if crush barriers were provided behind but not
+immediately in front of them.
+
+
+98. Similarly, spectators should be discouraged from standing in
+radial gangways. These are relatively long and uncontrolled
+downward paths through terraces, and are difficult to keep clear,
+especially when sited in popular viewing areas, eg behind the goal
+area at a football ground. It is helpful to sink them 150 mm to
+200 mm and to interrupt an otherwise continuously descending
+gangway by turns along, say, lateral gangways.
+
+
+99. Where sinking gangways, lateral or radial, is not thought to
+be practical, their boundaries should be highlighted with paint and
+spectators advised by signs not to stand there. Stewards may be
+needed to enforce this instruction.
+
+
+                             32
+100. As with other forms of stairways, the going in radial
+gangways should be uniform, the step dimension as defined in
+paragraph 92 and the surfaces slip-resistant.
+
+D ivision o f s p e c ta to r a c c o m m o d a tio n
+101. A ground should be divided into sections to prevent
+potentially hazardous migrations by spectators. Each section of a
+ground has its own limit of safe capacity (see Chapter 16), and a
+major migration can cause dangerous overcrowding. Each section
+of the ground, for example, each end or side, should be self
+contained with its own entrances, exits and toilet/refreshment
+facilities. For soccer grounds in particular there should be no
+access from one such major section to another except in an
+emergency. At other sporting events such as greyhound racing
+spectators may need to move freely between different parts of the
+ground and this should be borne in mind when considering access
+to and from the sections of the ground and when considering the
+need for subdivisions of sections in paragraph 103 below.
+
+102. Each of the major sections should be subdivided by such
+means as gangways and crush barriers, arranged so as to
+minimise the sway and surge of spectators.
+
+103. Railings, fences etc dividing sections of the ground should
+be of the strength of the crush barriers, as should handrails
+dividing stairways into channels as appropriate, described in
+Chapter 9. Brick/block and similar solid structures lacking
+sufficient mass or tensile strength are poorly suited to withstand
+horizontal pressures, and where used to divide spectator accommo­
+dation, should be subject to regular structural appraisal by
+appropriately qualified persons (see Chapter 3).
+
+Crush b arriers
+104. Detailed advice on crush barriers is given in Chapter 9.
+
+V ie w in g slopes (ie n o n-stepp ed sloping areas providing
+stan d in g a c c o m m o d a tio n fo r sp ectato rs)
+105. The surface of this form of terrace should be covered with a
+slip-resistant material, eg packed ash, and should be even and
+properly drained.
+
+
+                                    33
+106. The desirable maximum gradient for a viewing slope is 1 in
+6 (ie 9.5°). (Note: this is different to the stepped terrace gradient
+quoted in paragraph 94). Viewing slopes with any steeper gradient
+should have continuous crush barriers between gangways.
+
+107. The spacing of crush barriers should be the same as for
+those on normal terracing (see Chapter 9).
+
+T errace to to u c h lin e distance
+108. To prevent undue crowd pressures generated by spectators
+stretching and straining for an unobstructed view, it is desirable to
+provide a minimum distance between the front of the terrace and
+the playing area of the pitch.
+
+109. The minimum recommended distance between the two is 3
+metres where the terrace gradient is 3 0 ° or steeper. Where the
+gradient is shallower than this, it may be advisable to increase this
+distance so as to enable spectators to obtain a clear view.
+
+
+
+
+                              34
+9. CRUSH BARRIERS A N D
+   H A N D R A IL S
+
+M any of the hazards arising from crowd pressure on terraces
+can be eliminated by provision of well constructed, correctly
+positioned and properly mounted crush barriers.
+
+
+
+D im ensio ns and design fe a tu re s
+110. In order to locate the top rail against that part of the body
+most able to tolerate pressure the height of crush barriers should
+be between 1.02 metres and 1.12 metres above the nosing of the
+step immediately behind the barrier, with a preferred height of
+1.1 metres.
+
+1 11. Crush barriers should be designed so that there are no sharp
+projections or edges. Although a barrier with a top rail of 50 mm
+internal diameter tube has been favoured at many sports grounds,
+research has shown that there would be advantage in the use of a
+flat rail of 100 mm vertical depth.
+
+
+
+S pacin g o f crush b arriers
+112. The maximum spacing of crush barriers will be dependent
+on the gradient of the terrace or viewing slope. Paragraphs
+1 13 -11 9 below give recommendations for the spacing and
+strength of crush barriers.
+
+113. Ideally, crush barriers should be provided along the full
+width of a terrace, with gaps only at the radial gangways.
+
+114. Where barriers are not continuous between radial gangways,
+the alignment of gaps in successive rows of barriers on a terrace
+should form an angle of less than 60 ° to the barriers. There should
+be no more than 2 consecutive gaps in any line of gaps. (See
+Figure 3 overleaf).
+
+
+                                    35
+                                                               ¥
+                 \ t\
+                        \
+                              L Barriers
+                                 Barriers-                 /
+                                                               /
+
+                                             i1          jL
+                                                         A"
+
+                              \                     /'
+                            60>a                  jL
+                                                  A '
+                                                        6 0 ° max
+
+
+                                                                    Barriers
+
+                                             M
+                                              /                                1
+    Figure 3   Arrangement of gaps between crush barriers
+
+    115. Where there are gaps in the line of crush barriers these
+    should be at least 1.1 metres and not more than 1.4 metres
+    in width.    ~        —                        1         ■< '
+
+    116. Column A in Table 1 opposite provides the maximum
+    distances between barriers conforming to the greater strength
+    requirements of crush barriers as described above; column B
+    provides the maximum distances between barriers conforming to
+    the lesser strength requirements. Interpolation may be made
+    between these figures.
+
+    117. A distinction is made between barrier intervals required in
+    "peak" viewing areas. The term "peak" viewing areas describes
+    the most popular parts of the terraces where there is a tendency
+    for spectators to crowd together and become so emotionally
+    involved in the occasion that their reactions can cause additional
+    pressures to be set up in those sections of the ground. The peak
+    viewing areas are particularly associated with football grounds and
+    are typically behind the goal areas, although other parts of the
+    terraces known locally may come within this category.
+
+
+
+
+                                     36
+
+
+
+
+L
+TA B LE 1
+
+                                                 M axim um horizontal distance
+                                                 between barriers
+
+Terrace Gradient                                 Peak Viewing       Other Areas
+
+                   Step riser :   Step width     A       B          A        B
+
+
+05°          ie       1     in       11.4        5.0m    3.3m       8.4m     5.6m
+
+
+10°                   1     in        5.7        4.3m    2.9m       6.7m     4.5m
+
+
+15°                   1      in       3.7        3.8m    2.6m       5.6m     3.7m
+
+                      1      in       2.7        3.4m    2.3m       4.8m     3.2m
+C
+o
+O
+ N
+
+
+
+
+25°                   1      in       2.1        3.1m    2.1m       4.2m     2.8m
+CO
+ oo
+
+
+
+
+                      1      in       1.7        2.9m    1 ,9m      3.8m     2.5m
+
+
+
+
+ S tre n g th o f crush barriers and handrails
+ 118. Existing crush barriers and handrails should be capable of
+ resisting the forces indicated in the existing test load columns of
+ Table 2 overleaf when applied in a test as described in Annex C.
+ Where existing crush barriers and handrails fail to meet these test
+ conditions, they should be replaced or strengthened in such a way
+ as to do so. Barriers and handrails so strengthened should be
+ retested in accordance with Annex C.
+
+ 119. New crush barriers or handrails should be designed to resist
+ safely a horizontal force as indicated in the "new design force"
+ column in Table 2 applied as a static load acting on the top rail of
+ the barrier or handrail at right angles to the longitudinal axis. The
+ foundations of new barriers or handrails should be designed to
+ resist the overturning movements and sliding forces, induced by
+ the forces described in the "new design force" column overleaf,
+ with a factor of safety of 2.
+
+
+                                            37
+TA B LE 2
+     T ab le o f stren g th s fo r crush b arriers and handrails
+
+                                   N ew Design Force               Existing Test Load
+
+Crush barriers spaced in           5 . 0 K N / m q t r p w id th   6.0 KN /m etre width
+accordance with the distances      (340 lbs f/fo o t width)        ('40U lljy f/(6 o l width)
+in column A of Table 1
+
+Crush barriers spaced in           3.4 KN/m etre width             4.3 K N /m etre width
+accordance with the distances      (230 lbs f/fo o t width)        (290 lbs f/fo o t width)
+in column B of Table 1
+
+Handrails at right angles to the   3.4 KN /m etre width            4 .3 KN /m etre width
+direction of flow                  (230 lbs f/fo o t width)        (290 lbs f/fo o t width)
+
+
+Handrails parallel to the          2 .1 89 KN /m etre width        2.7 4 KN /m etre width
+direction of flow                  (150 lbs f/fo o t width)        (188 lbs f/fo o t width)
+
+
+
+
+                                     38
+10. ROOFED STA N D S W ITH
+    SEATED A C C O M M O D A T IO N
+
+The general safety considerations for stands are similar to those
+for other parts of the ground but w ith the additional need to
+safeguard spectators against the risk of fire (see Chapter 11).
+
+120. Stands may consist of seated accommodation only or may
+contain a mixture of both seated and standing areas. The following
+advice can be applied to all sports grounds where spectators are
+so accommodated.
+
+121. There is generally a less hurried departure from the seated
+accommodation in stands at the end of an event. Moreover,
+spectators are induced by the layout of the seats to form orderly
+queues. Even so, attention should be paid to the points below as well
+as the other structural considerations in respect of stairways, exits,
+egress and, where appropriate, density levels and crush barriers.
+
+122. Fire safety is particularly important and is dealt with in
+Chapter 11. Every stand should be provided with sufficient exits to
+allow for the orderly evacuation of all the spectators to be
+accommodated. Evacuation time will depend to a large extent on
+the fire hazard present in the stand (see Chapter 11, paragraphs
+183-188). Egress time (see Chapter 6, paragraph 56) should be no
+longer than 8 minutes using the calculations in Chapter 16, but
+the emergency evacuation time is an overriding criterion when
+calculating the allowable capacity of a stand (see Chapter 11,
+paragraph 183).
+
+123. Seats and gangways should be so positioned as to provide
+ready access to exits. No person in any part of a stand should have
+to travel more than 30 metres to the nearest exit from a stand.
+
+124. All seats should be securely fixed in position. The use of
+tip-up seats allows more circulation space, the automatic type
+being preferable.
+
+
+                                      39
+125. The minimum area allotted to each seated person should be
+4 60 mm wide and 610 mm deep; but for comfort these
+measurements should be 550 mm and 760 mm respectively. To
+enable people to move freely between rows of seats, there should
+be at least 305 mm between perpendiculars from the foremost
+projection of one seat and the back of the seat in front of it. (The
+minimum of 305 mm is included in the 610 mm or 760 mm depth
+measurement of the seating area.)
+
+126. The number of seats in a row should not normally exceed:
+      a.     14 seats where there is a gangway at one end only; and
+      b.    28 seats where there is a gangway at both ends.
+
+127. Gangways should be of sufficient width for the seats served,
+but in no case less than 1.1 metres wide (ie 2 unit widths) without
+projections.
+
+B alu strad in g
+128. Those sections of balustrading at the foot of stairways or
+gangways within stands should be as strong as crush barriers of
+the stronger type (see Chapter 9).
+
+T e m p o ra ry stands and o th e r te m p o ra ry stru ctu res
+129. The nature of temporary stands and other temporary
+structures, whether or not covered, used to accommodate
+spectators at a sports ground is likely to vary considerably as will
+the materials used in their construction. Some may be erected for
+a single event only. Even so there is no justification for accepting a
+lower standard of safety in such structures than elsewhere within
+the sports ground, and the design and construction of temporary
+structures should be in accordance with good engineering and
+building practice, should pay particular regard to public safety and
+should satisfy all relevant British Standards.
+
+130. The principles of this Guide are applicable to temporary
+stands and structures and particular attention is drawn to:
+      Chapter 3   - General Fabric and Structural Matters
+      Chapter 6   - Egress
+
+
+                              40
+     Chapter 4 - Stairways and Ramps
+     Chapter 11 - Fire Safety
+     Chapter 17 - Recommended Flow Rates
+
+1 3 1 . All temporary stands should be capable of withstanding any
+load or force to which they may be subjected and account should
+be taken of any external factors such as wind forces. Failure of any
+one support member or connection should not render the
+structure unstable. As far as practicable the area around supporting
+frames should be secured to prevent unauthorised access, and
+frames should be so designed that they are firmly locked into
+position and cannot be tampered with by unauthorised persons.
+
+132. Consultation with the local authority and building authority
+(if different) should take place at an early stage prior to the erection
+of any temporary stand.
+
+133. Siting. Choice of location may be limited but factors which
+need to be considered include: load-bearing capability of the
+ground, its slope or unevenness, drainage, availability of mains
+services, access/egress for spectators and for emergency vehicles,
+overhead power lines, and the proximity of surrounding buildings
+in relation to the risk of fire. The condition of the site should be
+regularly checked to ensure its load-bearing capabilities have not
+deteriorated; settlement of ground may cause instability and so
+require repacking and re-levelling. The site should be prepared and
+maintained so as to provide an even surface for those parts to
+which the public have access.
+
+134. Assembly/dismantling. The assembly and dismantling of
+stands should be carried out by or under the supervision of
+persons experienced and trained in the proper performance of
+such work and in accordance with the manufacturers' instructions
+whenever available, or in accordance with drawings and plans
+made by a competent engineer.
+
+1 3 5 . Work should be carried out only where lighting is sufficient
+to allow it to be safely and properly performed and checked. No
+assembly or dismantling work should be carried out to the danger
+of members of the public in the vicinity.
+
+                                       41
+136. The work should be carried out in a proper manner, using
+correct parts, and tools of a proper size and design. Care should be
+taken with the handling of components to avoiddamage or distortion.
+
+137. All components should be closely examined during assembly
+and dismantling for signs of wear, deformation or other damage,
+and where necessary replaced by sound components of matching
+material properties and dimensions. Temporary repairs using
+makeshift components should be avoided.
+
+138. Care should also be given to ensure all components are
+correctly aligned; they should not be bent, distorted or otherwise
+altered to force a fit.
+
+139. On completion, assembly work should be checked with
+particular attention given to fastenings and connections.
+
+140. Tents/marquees and other such structures. These types of
+structures can present special fire safety problems and guidance
+will be contained in the Home Office/Scottish Office publication
+"Guide to Fire Precautions in Existing Places of Entertainment"*.
+
+141. All tents should be capable of withstanding any forces,
+particularly wind (including uplift so caused) and those caused by
+the build up of snow or heavy rain, to which they may be subjected.
+Emergency arrangements should be made for the dismantling,
+either partial or total, of a tent should conditions arise that could
+lead to any collapse or distortion. Where such work in any way
+affects the stability o f the tent or the safety of members of the
+public, the work should not commence until the immediate area
+has been cleared of all but essential staff.
+
+142. Supporting poles, guy ropes and stays should be used as
+necessary and correctly formed, and secure anchorages made to
+the ground to ensure that the tent is stable and maintains its
+correct shape.
+
+
+*Expectedto be available in 1987.
+
+
+                              42
+143. The stability of the main tent poles and supporting structure
+should be independent of the sheeting fabric, ie any tearing or
+defect occurring in the fabric should not result in the collapse of all
+or any part of the main structure.
+
+144. Particular attention should be paid to the main supporting
+poles and top braces of large tents where they have to be raised to a
+considerable height. Damage or distortion to these members could
+considerably weaken the structure. Where such damage does
+occur, the members should be replaced or repairs or modifications
+carried out so as to bring them up to full working strength.
+
+1 45. Where solid frames or units, eg doors, are linked to a tent
+structure they should be rigidly formed and adequately braced, and
+care should be taken that they do not overstress local areas of
+the tent.
+
+1 46. Foundations to poles or frames should be properly prepared
+and subjected to regular checks as should wire bracing or guys,
+the tension of which should be re-adjusted as necessary.
+
+
+
+
+                                      43
+11. FIRE SAFETY
+
+Safety from fire is achieved by measures which will restrict
+initiation, rate of early growth and later spread of fire; provide
+and protect escape routes; segregate higher fire risk areas;
+provide warning (and where necessary detection) of fire; and
+assist fire-fighting operations.
+
+147. The type of accommodation which represents the greatest
+hazard in the event of fire is the covered stand where spectators
+sit or stand. New structures will conform to Building Regulations
+requiring them to have a reasonable degree of structural fire
+protection. Existing structures will vary considerably in age and
+materials used in construction. The qualities of combustibility and
+ability to propagate and spread fire of the materials used in
+construction have an important effect on the standard of fire
+precautions required to ensure reasonable safety. It may be
+difficult in some cases to improve the fire resistance of an existing
+structure to any significant extent but it should be done wherever
+practicable even though in some cases substantial alterations may
+be needed to provide reasonable protection from fire.
+
+
+148. With new stands there is much more opportunity to
+incorporate from the start comprehensive measures for fire safety,
+considering properly the impact of each measure on the others.
+Design features for new stands should include the following:
+
+      a.   internal finishes which have low flammability;
+      b.   seating, partitioning and any other fixed or removable
+            contents including seat cushions which possess low
+            flammability characteristics and fire risk potential and
+            are limited in amount;
+      c.   contents which are not capable of being easily
+            dismantled;
+
+      d.   no inaccessible places where litter can collect;
+
+      e.   adequate structural resistance to fire;
+
+
+                              44
+      f.    fire resisting separation from any spaces below or
+             communicating with the stand;
+
+      g.    as far as possible, no storerooms or other spaces
+             communicating with the stand. Where this is unavoid­
+             able, storerooms or other spaces communicating with
+            the stand should be provided with fixed fire extinguish­
+             ing systems appropriate to the fire risk posed by the
+             materials to be stored or contained;
+
+      h.    escape routes which are planned to keep people well
+            clear of the smoky gases produced by a fire (which in
+            general means that initial movement of people should
+            be downwards);
+      i.    later stages of escape routes which are incapable of
+             being significantly threatened by continuing fire;
+      j.    the provision of alternative, widely separated escape
+             routes; and
+
+      k.    a roof geometry which should restrict smoke and
+            flame travel along the underside of the roof.
+
+
+
+
+M in im is in g fire risk
+149. One potential cause of fire arises from the accumulation of
+waste paper, programmes, food and drink cartons etc dropped by
+spectators. Such waste can be easily set alight by smokers'
+materials and the resulting fire may then spread to the structure,
+especially the ones that are constructed of more combustible
+materials. Every effort should be made to reduce this hazard.
+Accumulations of litter, for example near catering facilities, should
+be cleared from the ground as quickly as possible or kept in a safe,
+fire resistant container or room pending clearance.
+
+150. All parts of buildings should be inspected before and after an
+event (see also Chapter 4, paragraph 42) and any accumulation of
+litter cleared away as described above. It is particularly important
+to ensure that litter does not accumulate in escape routes or
+under stands.
+
+
+                                    45
+151. Smoking should be discouraged in stands containing
+combustible or flammable products, either loose (eg cushions) or
+fixed (eg seating), or in the fabric of the building.
+
+1 5 2 A common feature in construction of stands which is a fire
+risk is the existence of voids under the seating and under the
+flooring itself. These voids can become a resting place for paper,
+cartons and other combustible materials which can be ignited,
+unnoticed, by carelessly discarded cigarette ends etc. Seating
+arrangements should, wherever possible, be such that floor
+surfaces are accessible for the removal of litter. Where voids
+below flooring exist they should if practicable be excluded; for
+example, where a stand is built into a natural slope the
+underneath area can be filled in with concrete. Where this is not
+practicable they should be completely sealed off to stop litter
+accumulating in them, or be entirely open to allow easy access for
+ inspection and removal of combustible waste.
+
+153. Other items, such as cushions filled with cellular foams or
+other synthetic materials are a fire risk because they are
+combustible, and when set alight can give off large quantities of
+smoke and fumes. Also, the use of large quantities of plastics in
+seating should be reviewed carefully, particularly where cellular
+polymers may be proposed. The fire authority should be consulted
+about the fire risk in stands.
+
+154. Cushions and other flammable materials represent in bulk a
+risk of a swiftly developing fire. They should be stored in a fire-
+resistant container or room well away from spectator accommodation
+as should paper items such as programmes. Similarly, hazardous
+materials, for example fuels (whether in containers or within fuel
+tanks and machinery) fertilizers, weed killers and paints should be
+kept (if at all) well away from public areas and stored in a room
+which has fire resistance of at least 1 hour. Other high fire risk
+areas, eg enclosed or underground car parks situated under stands,
+should also have fire resistance of at least 1 hour.
+
+155. Where catering facilities are provided, special care should be
+taken to ensure that any fuel or power supply used for cooking, for
+
+
+                             46
+example LPG cylinders, is safely stored and used, in accordance
+with the advice of the authority responsible for enforcement of the
+Health and Safety at Work etc Act 1974. Useful guidance is given in
+Health and Safety Executive Guidance Notes CS4, "The Keeping of
+LPG in Cylinders and Similar Containers" and CS8, "Small Scale
+Storage and Display of LPG at Retail Premises".
+
+P reven tio n o r re ta rd a tio n o f fir e g ro w th /s p re a d
+156. Where, despite all precautions, a fire has started, it is vital to
+ensure that the rate of growth in its early stages is restricted to
+proportions which will not overwhelm the arrangements provided
+for safe escape. This is best achieved by controlling the amount and
+nature of the materials (especially the combustibles) in a stand,
+both in terms of the contents (loose and fixed) and in those parts of
+the fabric of the stand to which a fire would have access (especially
+internal linings). An important additional line of defence is prompt
+action by ground staff using the fire-fighting equipment available at
+the ground to tackle the fire and keep it in check ("first-aid" fire­
+fighting) until the fire brigade arrives. These measures are crucia.I
+because the quicker a fire develops, the less time there is available
+to escape from it. A fire should not be able to develop unnoticed
+anywhere underneath or adjacent to the spectator area of the
+stand, so that its spread would be likely to break through into the
+spectator accommodation.
+
+157. The spectator area in the stand should be separated from any
+other adjacent circulation space or void by a construction having
+fire resistance of not less than half an hour.
+
+158. Walls and ceiling linings within stands and ceiling linings
+beneath the stand seats should have a flame spread classification
+of not less than Class 1 when tested in accordance with BS 476:
+Part 7.
+
+
+159. Restricting the extent and speed of the spread of fire in its
+later stages is also important in order to reduce the possibility of
+escape time being further threatened. Most measures which
+reduce the rate of fire growth in the early stages will also serve to
+restrict the fire spread in the later stages. The following measures
+
+
+                                      47
+would mainly affect the later spread. For some roof configurations
+venting systems may offer a means of reducing the spread of fire
+(including movement of flames along the roof) and hot smoky
+gases. The science of fire and smoke venting is however complex
+and advice from the fire authority should be sought on whether
+this would be advantageous in a particular case.
+
+160. Where the roofs of buildings are so connected that smoke
+and flame could travel essentially two or more sides of the playing
+area, a wide break in the roof should be made of sufficient width to
+prevent spread from one side to the other, unless the flame travel
+could be eliminated by the prevention measures mentioned above.
+
+161. Use of flammable roof materials should be avoided. Where
+they do exist they should be replaced where practicable by non­
+combustible materials or should be underdrawn with non­
+combustible board.
+
+
+
+ Fire w a rn in g system s
+ 162. All buildings in the ground (including stands) to which public
+or staff have access should be provided with an electrical fire
+warning system to alert staff. An indication of the warning and its
+ location should be given to a central control point (see Chapter 12,
+ paragraph 193). The system should conform with BS 5839: Part 1
+ in terms of its components, installation and maintenance. The
+central control point and, where necessary, other selected
+positions in the ground should have facilities to call the fire
+brigade and other emergency services. Stewards and other
+officials should be trained in what they should do if they discover a
+fire (see paragraphs 176-177).
+
+163. The area underneath the spectator accommodation should
+have a system for detecting a developing fire. In order to give an
+early warning in an unoccupied area an automatic fire detection
+(AFD) system should be considered, conforming to BS 5839: Part 1
+in terms of its components, installation and maintenance. It should
+be connected so that any alarm will be communicated to the
+central control point.
+
+
+                             48
+164. Any fire detection equipment should be tested regularly in
+accordance with the advice given in the British Standard
+specification.
+
+165. Where areas of high fire risk such as large storerooms and
+enclosed or underground car parks are situated under stands,
+consideration should be given to the installation of an automatic
+fire extinguishing system, eg sprinklers, instead of an AFD system.
+Here again any such system should be connected so that warning
+of fire is communicated to the central control point.
+
+ E m erg en cy lig h tin g
+ 166. Emergency lighting, for use in the event of failure of the
+general lighting, should be provided in all parts of the premises
+accessible to the public and along all exit routes, with exit signs
+clearly illuminated. Installation should be in accordance with
+BS 5266: Part 1. The system should be completely separate from
+the general lighting system, although a one-circuit system
+incorporating staggered sub-circuits would be an acceptable
+alternative. Unless exceptionally two entirely independent supplies
+can be obtained from outside sources, the emergency circuit
+should be connected to a source of power located on the premises,
+for example storage batteries or a diesel generator, with a delay of
+not more than 5 seconds.
+
+167. The system should be capable of maintaining the necessary
+level of illumination for a period of 3 hours from the time of failure
+of the normal supply.
+
+168. The emergency lighting should operate automatically on the
+failure of the main lighting.
+
+
+169. Emergency lighting systems should be tested regularly in
+accordance with BS 5266: Part 1.
+
+F ire -fig h tin g e q u ip m e n t
+170. Advice should be sought from the local fire authority on the
+type, the amount and siting of fire-fighting equipment. The
+succeeding paragraphs give general guidelines.
+
+
+                                     49
+171. In major grounds it may be necessary to provide a suitable
+water supply for fire fighting in the form of hydrants.
+
+172. For "first aid" fire fighting by members of the staff, hydraulic
+hose-reels should be provided to BS 5306: Part 1. These should be
+sufficient to provide adequate protection to the whole floor area,
+and should be installed in a suitable position by entrances, exits
+and stairways.
+
+173. Where hose-reels are not provided, portable fire extinguishers
+should be installed in sufficient numbers to give adequate cover.
+The number and type will depend upon the size, layout, fire
+separation and risk in each structure. Fire extinguishers should
+conform to BS 5423 and be sited and maintained according to
+BS 5306: Part 3.
+
+174. Fire blankets and fire extinguishers of a type appropriate to
+the cooking facilities used should be kept in all catering facilities.
+
+175. It should be borne in mind when considering location of fire­
+fighting equipment that it may need to be sited so that it cannot be
+vandalised but yet is readily accessible to staff in the event of fire.
+
+
+
+E m ergency procedures and s ta ff tra in in g
+1 7 6 It is essential that plans should be made for dealing with
+emergencies, including fire. The onus to do this lies with ground
+management. Joint consultation between management, police,
+fire, ambulance and other emergency services should take place in
+order to produce agreed plans of action for all foreseeable types of
+emergency. While the public are in the ground the number of staff
+on duty should be sufficient to cover entrances, exits and other
+strategic points and to fulfil other essential duties (see Chapter 13).
+
+177. All such staff should be trained in the use of the fire-fighting
+equipment provided, and in the action they should take in the
+event of fire. This is management's responsibility but the local fire
+authority's advice should be sought on whether the content of the
+proposed training programme is adequate.
+
+
+                              50
+M eans o f escape
+178. "Means of escape" is the structural means whereby a safe
+route is provided for people to travel from any point in a structure
+to a place of safety without outside assistance. In a sports ground,
+the means of escape in the event of an emergency will usually be
+the same as the normal egress routes plus any additional "route"
+of forward escape on to the playing area. The kind of emergency
+most likely to occur at a sports ground is fire but other types of
+emergency, such as bomb threat, may arise which might
+necessitate the evacuation of spectators from all or part of the
+spectator accommodation. It is the management's responsibility to
+ensure that all exit routes for use in an emergency are capable of
+being safely and effectively used at all times when the ground
+is occupied.
+
+179. It is vital that the emergency exit routes are sited so that
+people using them will be least affected by the fire or its products,
+for example smoke, toxic gases, heat etc. Initial travel should if
+possible be downwards. This is because in the event of fire, its
+dangerous products will travel upwards and accumulate densely at
+the highest points. Further stages of the exit routes should be so
+arranged as to take people progressively further away from the
+fire, along a route where they cannot be significantly affected by
+the fire or its products. There should be more than one emergency
+exit route from a stand or a terrace in case one becomes blocked.
+The emergency exits within any one structure should be as widely
+separated as practical planning considerations will allow, to
+minimise the risk of them all being blocked by the same cause.
+
+Fire p ro te c tio n fo r s ta irw a y s and passages
+180. Where a stairway, passage or any other part of an
+emergency exit route passes up, down or through a stand or other
+building used by spectators, it should be in a fire resistant
+enclosure separated from the remainder of the stand by a
+structure having fire resistance of not less than one hour. Such
+exit routes should discharge to a place of safety in the open air
+(which may be inside or outside the ground).
+
+181. The surface finish of walls and ceilings of all emergency exit
+
+
+                                     51
+stairways should be of a standard corresponding to Class 0 (as
+defined in the guidance issued in connection with the Building
+Regulations 1985 for England and Wales and the Building
+Standards (Scotland) Regulations 1981-84).
+
+182. Any door forming part of the enclosure to a stairway should
+be self closing and have a fire resistance of not less than half an hour.
+
+
+E m erg en cy evacu atio n tim e
+183. The emergency evacuation time is the notional time it would
+take spectators to leave their viewing positions and reach a place of
+safety in the open air or a protected stairway or emergency exit
+route with fire resistance in accordance with paragraph 180. It is
+calculated from the spectator capacity of the accommodation (see
+Chapter 16) and the flow rate (see Chapter 17) through restricting
+parts of the exit system used for evacuation purposes.
+
+184. The emergency evacuation time should not be confused with
+the egress time of 8 minutes (referred to in Chapter 6, paragraph 56)
+which is the maximum time it should take spectators to enter into
+the normal exit system from their viewing positions at the end
+of play.
+
+185. The emergency evacuation time will depend largely on the
+fire hazard present in the accommodation in question. Any stand
+which has a potential for rapid fire spread because of its interior
+use and contents and/or the nature of its internal surfaces which
+would be exposed to fire should have an emergency evacuation
+time of no more than 2 1/2 minutes. An increase in this time may
+however be acceptable where the interior use and contents, and
+the nature of the internal linings, are such as to eliminate the
+possibility of rapid fire spread, and the emergency exit routes are
+not vulnerable to a fire occurring within the accommodation. In
+setting an emergency evacuation time longer than 2 1/2 minutes the
+advice of the fire authority should be sought.
+
+186. Where the playing area or perimeter track is accessible to
+spectators and is considered suitable as a place of safety,
+evacuation onto it can be taken into account in calculating the
+
+
+                               52
+emergency evacuation time. Where there is a pitch perimeter
+fence or wall it should have access points in accordance with
+Chapter 15, paragraph 215 which can serve as exits and which
+can be taken into account in the calculation of the emergency
+evacuation time.
+
+187. Where the playing surface of a pitch is made of synthetic
+materials, advice from the fire authority should be sought to
+establish if it can be properly considered a place of safety in a fire.
+This is because it is possible that some forms of artificial turf
+might in themselves constitute a hazard in the event of fire
+because of flamespread and fumes etc caused by decomposition of
+the material as a result of heat radiation.
+
+188. The playing area may not be a place of safety, eg if it is
+wholly surrounded by covered accommodation with no breaks in
+the roofing (see paragraph 160) and the advice of the fire authority
+should be sought in such circumstances.
+
+A ccess fo r em erg en cy vehicles
+189. Adequate roads for emergency vehicles such as fire
+appliances and ambulances should be provided so that speedy and
+direct access can be obtained to all buildings within the ground;
+wherever possible these access routes should be separate from
+those used by spectators entering and leaving the ground.
+
+190. The local fire authority should be consulted about the width,
+clearance, height and supporting strength required of these access
+roads. Wherever possible access roads should provide for the
+parking of emergency vehicles so that exit routes used by crowds
+are not seriously obstructed.
+
+191. Wherever practicable and where necessary roads within 1/4
+of a mile of the ground should be kept entirely free of parked
+vehicles so as not to delay or obstruct the access of emergency
+vehicles.
+
+
+
+
+                                     53
+    12. C O M M U N IC A T IO N S
+
+    There should be a communications system capable of clearly
+    relaying essential messages to all parts of the ground in both
+    normal circumstances and in an emergency.
+
+    192. Precise requirements for communications will depend on the
+    sort of ground and the numbers of people that attend there. In
+    general the communications system should be determined after
+    consultation with the police and emergency services. It should be
+    available for use and capable of coping with all emergencies.
+
+    193. A central control point, preferably a room, should be set
+    aside for the use of the supervising police officer and the ground
+    safety officer.
+
+
+    194. At larger grounds the following arrangements are likely to
+    be needed:
+                 There should be inter-communication between the
+                 central control and all turnstiles or banks of turnstiles
+                 and all entry and exit gates used by the public.
+
+                 Metering systems to record all admissions should be
+                 installed at turnstiles and, to ensure that ground
+                 capacities are not exceeded in any section, arrange­
+                 ments should be made for central control to be
+                 informed immediately a predetermined number of
+                 spectators has been admitted through each turnstile.
+          iii.   Public address equipment should be installed so that
+                 broadcast messages can be heard under reasonable
+                 conditions (including emergencies) by all persons of
+                 normal hearing in any part of the ground to which the
+                 public has access. The system should be capable of
+                 being controlled from the central control point and
+                 should ideally be capable of addressing messages to
+                 each major section of the ground. The power supply to
+                 the system should be such as to enable it to continue
+
+
+                                   54
+
+
+
+
+i
+             to operate in an emergency such as fire or a failure of
+             the mains supply.
+  /    iv.   Loud hailers should be available for the use of
+I            stewards and police in directing or instructing
+I            spectators.
+
+      v.     Any police radio facilities available for the maintenance
+             of law and order should augment and not supersede
+             the ground communications system.
+      vi.    Installation of closed circuit television is Considered
+              likely to be of significant value in assisting emergency
+              evacuation.
+
+
+
+
+                                     55
+13. STEW ARDING
+
+Effective stewarding should prevent overcrowding in sections
+of the ground, reduce the likelihood and incidence of disorder,
+help disperse spectators in such a way as to reduce crowd
+pressure and provide the means to investigate, report and take
+early action in an emergency.
+
+195. Manning levels and stewarding requirements will vary
+depending upon the size and configuration of the ground, the
+nature of the event and crowd levels, but there are five basic
+duties which stewards are called upon to carry out. These are:
+      a.    controlling or directing members of the public who are
+            entering or leaving the ground, to help achieve an even
+            flow of people to the viewing areas and safe dispersal
+            of spectators on the terraces or viewing slopes.
+      b.    patrolling the ground to deal with any emergencies eg
+            raising alarms or extinguishing fires;
+
+      c.    manning entrances, exits and other strategic points,
+            especially exit doors and gates which are not
+            continuously open whilst the ground is in use;
+      d.    assisting police as appropriate or as requested with
+            crowd control; and
+      e.    undertaking specific duties in an emergency.
+
+196. A more detailed check list of the kind of duties which
+stewards are liable to undertake is at Annex B. It should be borne
+in mind that this is only an example and not necessarily an
+exhaustive list of duties.
+
+197. Stewards should be fully capable of carrying out the duties
+allocated to them. Every steward should be fully appraised in
+writing of his duties and responsibilities and should carry on him a
+general check list of them. Where a ground such as one used by
+an association football league club has a high police presence.
+duties and responsibilities of stewards should be agreed with the
+police. Stewards should attend pre-match briefing and should be
+made aware as necessary of the arrangements and any
+contingency plans to deal with the arrival of away supporters.
+
+198. Effective training and supervision should be provided by man­
+agement so that all stewards, whether regular or casual, know not
+only what their duties are but how to carry them out and why. This
+is especially important in emergencies when it is essential that
+stewards and their supervisors are fully aware of and practised in
+the part they are to play in the plans drawn up with the emergency
+services (see Chapter 11, paragraph 176).
+
+199. Exercises should be carried out so as to ensure that
+emergency procedures operate smoothly, and a record kept of the
+duration of the exercise, details of the instruction given and by whom.
+
+2 0 0 . Management should appoint a chief steward responsible for
+coordinating responsibilities of all stewards. Control of stewards
+should be from a central point with an efficient means to
+communicate with the stewards (see also Chapter 12).
+
+2 0 1 . All stewards should be readily identifiable eg by the wearing
+of distinctive clothing (including armbands).
+
+
+
+
+                                     57
+14. CROWD CONTROL
+
+W here there is a disorderly elem ent among the crowd intent on
+violence, additional safety measures are needed to contain and
+minimise the potential disruption, to isolate quickly, identify
+and remove the offenders and to prevent their re-entry on
+future occasions.
+
+2 0 2 . Although the problem of crowd disorder at sporting events is
+one which affects primarily professional association football, other
+sports are not immune from it. Therefore, whilst the following
+advice is directed mainly at those grounds where professional
+association football is played, the general principles should also be
+borne in mind by management at other grounds where major
+spectator sports are played.
+
+2 0 3 . The 'European Convention on Spectator Violence and Mis­
+behaviour at Sporting Events and in particular at Football Matches'
+(HMSO, Cmnd 9649), which came into force on 1 November 1985,
+sets out in general terms the measures to be taken to prevent and
+control violence by spectators. Additionally, some sports' governing
+bodies have issued their own guidance on crowd control. For
+example, the Football Association has issued a 'Memorandum to
+Football League Clubs On Crowd Management' which sets out the
+measures that must be taken at all League grounds, and UEFA has
+issued binding instructions in their document 'Order and Security
+in the Stadia' (Third Edition, 1985) which apply to matches in their
+competitions. The following paragraphs cover some of the main
+areas that require the attention of ground management. The
+advice they contain is not comprehensive and is intended to
+supplement rather than replace existing instructions, codes of
+practice etc.
+
+P o licin g
+2 0 4 . As in other areas of safety, management is responsible for
+the crowd control arrangements and ground fconditions. They
+should ensure that spectators are safe bearing in mind that a game
+
+
+
+                              58
+    can lead to a build-up of tension or excitement. The safety
+    measures described elsewhere in this Guide will help to achieve
+    reasonable spectator safety, but for management to discharge its
+    responsibility properly a special police presence inside the ground
+    may be necessary to deal with any problem of disorder which may
+    arise, as well as to provide support and leadership in an emergency.
+    The number and disposition of the police must be determined by
+    Chief Constables who have the sole responsibility for the direction
+    of police operations. To aid the police in their duties, a police control
+    room should be provided within the ground.
+
+<   2 0 5 . Proper advance planning with the police is essential to
+    counter potential crowd disorder. There must be an effective
+    liaison between club and police for this purpose to including not
+    just the arrangements inside the ground but also the escort of
+    visiting supporters, their likely numbers, their separate entry to the
+    ground and their departure at the end of the match. There should
+    be debriefing meetings as necessary to evaluate existing
+
+\   arrangements and provide the flexibility necessary to deal with
+    different circumstances.
+
+    C ro w d m o v e m e n t
+    2 0 6 . Crowd movement on terraces should be strictly controlled in
+    order to give the police the fullest opportunity for crowd control.
+    Less problems occur when terraces are subdivided as far as
+    possible into sections by use of both radial and lateral barriers or
+    railings which should comply with the strength requirements set
+    out in Chapter 9. Each section should ideally be self contained and
+    (
+    I
+    )
+    should be serviced bv its own entrance/exits, refreshment facilities
+    aTTU luiluLb (Hi keeping with the principles of general ground
+    division described in Chapter 8, paragraph 101). Special care is
+    needed to ensure that sections and subdivisions are provided with
+    sufficient exits for use in an emergency.
+
+    2 0 7 . Home and visiting supporters at professional soccer matches
+    should normally be segregated but segregation is not advocated
+    for other sports where crowd disorder is not a problem. This
+    should be borne in mind when considering barriers^t grounds
+    used for other sports as well as association football.
+
+
+
+                                           59
+2 0 8 . Where possible a neutral or sterile zone should be provided
+within a ground so that home and visiting supporters are not
+physically close to each other. The arrangements for admitting
+spectators into the ground, whether by tickets purchased in
+advance or through payment at the turnstiles, should be drawn up
+in consultation with the police, and must be carefully controlled to
+ensure as far as possible that segregation is effective and known
+troublemakers are excluded.
+
+
+
+2 0 9 . Access to the pitch must be made as difficult as possible in
+normal circumstances while at the same time ensuring that the
+police have effective access to the terraces for the purpose of crowd
+control and enabling the pitch to be used (where appropriate) in the
+event of serious emergency (see also Chapter 11, paragraph 186).
+Where a pitch perimeter barrier fence is installed to keep spectators
+off the pitch, care is needed to ensure that it does not impair the
+visibility of the playing area from the terraces. If spikes or barbed
+wire are installed they should if possible be at a height of no less
+than 2.4 metres (see Chapter 3, paragraph 33). One alternative to
+fencing is the construction around the pitch of a wall with a smooth
+surface which should not be less than 1.22 metres in height on the
+terrace side. This boundary wall should have gates or access points
+to the pitch which could be manned by the police or stewards. A
+walkway between the boundary wall and the terraces, which would
+be solely occupied by the police, first aid and official club personnel,
+has been found to be effective as regards safety and security. In
+order to achieve this it might be necessary to remove one or two
+rows of terracing and to protect the walkway from the terrace by a
+continuous line of barriers, so designed as to discourage access to
+the walkway except at authorised points. The access points from
+terrace to walkway should be directly linked with the access points
+from the walkway to the pitch. Where a walkway system is in use,
+sliding gates may be installed at the access points from the
+walkway to the pitch, ie where there can be no crowd pressure
+against them (see Chapter 6, paragraph 65 regarding the use of
+sliding gates elsewhere). A barrier to the pitch is usually
+unnecessary where seating extends to the level of the playing area.
+
+
+
+                               60
+D e te n tio n and rem o val o f tro u b le m akers
+2 1 0 . At larger soccer grounds, particularly where there has been
+a record of frequent crowd trouble, secure detention rooms may be
+necessary for use by the police.
+
+2 1 1 . There should be adequate vehicular access for the
+unobtrusive removal of detainees (see also Chapter 11, paragraphs
+189-191 on access for emergency vehicles).
+
+R efresh m en ts
+2 1 2 . Hard containers such as glasses, bottles or cans can make
+dangerous missiles and should not be used for the sale of refresh­
+ments. All refreshments should be served in soft containers.
+
+2 1 3 . Alcohol should not be on sale for consumption on the
+terraces or in the stands.
+Note: The
+applies to any ground in England and Wales used for an inter­
+national association football match or a match involving a football
+league club. In Scotland the Criminal Justice (Scotland) Act 1980
+applies to grounds used by clubs in the Scottish Football League,
+Highland League and to the international stadia used for
+association football and Rugby Union.
+
+
+
+
+                                   61
+ 15. PITCH PERIMETER
+     F E N C E /W A L L
+
+A pitch perimeter fen ce/w all may not only delineate the playing
+area from the spectator accommodation but may have to serve
+as a crush barrier, or in some situations as a barrier to discourage
+or prevent access to the playing area except in an emergency.
+
+  2 1 4 . The type, strength and height of a pitch perimeter fence or
+  wall will vary according to its location and required function. At one
+  extreme, at a certain type of ground or small stadium used by very
+  few spectators, there may be no need for a perimeter fence or wall
+  at all; or if such a wall or fence exists it may need to consist of little
+  more than a rail to mark the playing area. At the other extreme, at
+  some major soccer stadia, where restriction on crowd movement
+  forms a necessary part of the safety measures, it may be necessary
+  to have a fence w h ich _grevents access to the pitch in normal
+I (Jir^yjastgnces (see also Chapter 14, paragraph 209) bi^t allows for
+  access in emergency. Even at these grounds however specification
+'"of the pitch fence may vary for different parts of the ground.
+
+  2 1 5 . For most major stadia, whether used for association football
+  or other sports, the pitch perimeter fence will be required either to
+  prevent access to the pitch as mentioned above, or at least to
+  discourage attempts by spectators to enter the playing area. Gates
+  or other access points (minimum width 1.1 metres) should
+^nonetheless be provided for use in an emergency and, at those
+  grounds where a perimeter track is used as part of the exit system,
+  for the departure of spectators at the end of an event. Provision of
+  such gates or access points is particularly important to allow full
+  access to the playing area (or track) where it is likely to be used as a
+  place of safety in an emergency. Such gates or access points should
+  be properly stewarded and clearly marked so that immediate access
+I to the playing area or perimeter track can be ensured
+
+
+ 2 1 6 . If spectators can lean on the perimeter fence it should be
+ deemed a crush barrier and fulfil the conditions of height and
+
+
+                                 62
+strength specified in Chapter 9 although if the fence is of solid
+construction its height may be more than 1.12 metres. This is
+because the pressures acting on a person forced against such a
+fence are distributed over a large area of the body, unlike the
+situation with a normal crush barrier, where the pressures
+are localized.
+
+
+
+
+                                   63
+16. E S TIM A TIO N OF SAFE
+    G R O U N D C A PA C ITY
+
+To assess the number of spectators which can be safely
+accommodated account should be taken of the features of the
+individual ground, its configuration, general condition, use and
+any deviations from the Guide's provisions.
+
+2 1 7 . The previous sections of the Guide give guidelines and
+safety considerations for individual features of a ground. This
+section suggests a method of calculating the number of people
+that can be safely accommodated when taking into account
+interactions between these individual features and where there
+are deviations from the guidelines. The following paragraphs
+contain as of necessity generalised guidelines in view of the wide
+variety of types, sizes, configurations of sports grounds, their use
+and general condition.
+
+
+2 1 8 . To facilitate the calculations a plan of the ground should be
+available with such details as exits, stands, terraces, stairways,
+passages, kiosks, seats and barriers. A scale of 1:200 is
+appropriate for this purpose.
+
+
+2 1 9 . The method assesses:
+
+      a.   the holding capacity of a terrace or viewing slope (that
+           of a seated area generally being determined by the
+           number of seats when it conforms to guidelines); and
+      b.   the capacity of a given exit route from a terrace or stand.
+
+
+2 2 0 . The number of people that can be safely accommodated on a
+terrace or in a stand (or other covered accommodation) is either its
+holding capacity, or the capacity of the exit system to be used in
+normal circumstances at the end of an event (assessed in
+accordance with paragraphs 2 2 9 -232 below) or the emergency
+exit system whichever is the smallest.
+
+
+                               64
+T erraces and v ie w in g slopes
+2 2 1 . Where crush barriers meet the strength and spacing guide­
+lines of Chapter 9 the capacity of a terrace or viewing slope should
+be assessed from the area available for standing by allowing a
+packing density of between 54 and 27 persons per 10 square
+metres depending upon the condition of the terrace or slope. Only
+those parts of the terrace or viewing slope from which the whole
+of the playing area can be seen, excluding gangways, should be
+included in this calculation.
+
+
+2 2 2 . The extreme allowances for packing density are as follows:
+      a.   54 persons per 10 square metres when the terrace or
+           viewing slope is in good condition (as set out in Chapter 8);
+           and
+
+      b.   27 persons per 10 square metres when it materially
+           deviates from the recommended guidelines, so as to
+           constitute a possible hazard to individuals closely packed.
+
+
+2 2 3 . It may be necessary to interpolate between these figures
+where conditions fall between thtf two extremes. When the
+positioning and length of gangways do not meet with the
+recommendations of Chapter 8, paragraphs 9 6 -100, an appropri­
+ate reduction should be made in the area available for standing.
+
+
+2 2 4 . Even distribution of spectators on the terrace may be difficult
+to overcome notwithstanding the measures in this guide because
+spectators may prefer to gather in a certain part or parts of a
+terrace. Ground management should therefore take such factors
+into account when assessing safe capacity levels.
+
+2 2 5 . The capacity of the terrace is calculated by multiplying the
+area available for standing by the appropriate packing density. The
+following formula may be used:
+      Capacity (Number of persons) ^ x (27 to 54)
+                                      10
+where 'A' is the area available for standing in square metres.
+
+
+                                      65
+    Example A
+    Peak Viewing Terrace
+
+    Barriers and pitch perimeter wall conform to Guide's recommen­
+    dations on both strength and spacing.
+
+    Area for standing 700m 2 (100m x 7 m) (excluding designated
+    gangways)
+
+    Condition and drainage of terraces good.
+
+    Dimensions: steps 375 mm (Guide recommends 280 m m -375 mm.
+                see Chapter 8, paragraph 92)
+                risers 70 mm* (Guide recommends 75 m m -180 mm,
+                see Chapter 8, paragraph 93)
+
+    ^Correction not possible without major reconstruction so accepted
+    in view of only minor deviation of 5 mm and good condition of
+
+
+    Capacity: 700 x 5 4 = 3780,,
+
+
+
+    2 2 6 . When the strength of crush barriers conforms with the
+    guidelines but the spacing of such barriers does not, the capacity
+    is calculated from the provision of crush barriers in the area
+    available for standing (as defined in paragraph 221) as follows:
+
+          a.   Where a terrace contains either "peak viewing areas”
+               only or "other viewing areas" by multiplying the total
+               length of the crush barriers by the appropriate distance
+               between barriers (as given in Chapter 9, paragraphs
+               116-117) or the existing distance, whichever is less,
+               and multiplying by the appropriate packing density.
+
+    Example B
+
+    Peak Viewing Terrace.
+
+    Barriers and pitch perimeter wall comply with greater strength
+    requirements (see Chapter 9, paragraph 119, Table 2) but not the
+    spacing requirements of the Guide.
+
+                                   66
+
+
+
+I
+Area available for standing 700m 2 (100m x 7 m)/(excluding
+designated gangways).
+
+Terrace condition and drainage good: dimensions conform to
+Guide's recommendations in Chapter 8.
+
+Gradient 10%: therefore maximum appropriate distance 4.3 m (see
+Chapter 9, paragraph 117, Table 1).
+Number of barriers: 6 at 5 m = 30 metres
+
+Perimeter wall (see Chapter 15, paragraph 216): 100 metres
+
+                Total: 130 metres
+
+Capacity: 130 x 4.3 x 54        = 3019
+                     10
+      b.   Where a terrace contains both "peak viewing areas"
+           and "other viewing areas", by multiplying the total
+           length of barriers by the appropriate distance between
+           barriers in a "peak viewing area" or the existing
+           distance, whichever is less, and multiplying them by the
+           appropriate packing density.
+
+Example C
+
+Viewing Terrace with "peak" and other viewing areas: or terrace
+with other areas only. Barriers and pitch perimeter wall comply
+with strength requirements but not spacing requirements of the
+Guide.
+
+Terrace details as in Example B.
+
+Calculations as in Example B.
+
+
+
+
+2 2 7 . Crush barriers which do not meet the guidelines on the
+strength set out in Chapter 9 should in general be discounted for
+calculation purposes, although where crush barriers are well
+constructed consideration may be given to allowing a lower
+packing density figure for the purpose of the calculation.
+
+
+                                     67
+    2 2 8 . Note: In small grounds attracting few spectators and low
+    density crowds, and where a terrace contains no crush barriers or
+    where most or all of those installed have to be discounted for
+    calculation purposes the restrictions on the crowd capacity may be
+    unrealistic. A more flexible approach may be appropriate taking
+    account of the recommendations of the Guide to assess the
+    terrace holding capacity. In such cases the permissible packing
+    density is however likely to be much lower than the 27 persons
+     per 10 square metres referred to in paragraph 222 and the overall
+    terrace capacity will be severely limited.
+
+    Example D
+
+    Peak or other Viewing Terrace.          ater_w.alj and crush barriers
+    do not comply with st ren g.th orsc^gclng require me rits„of t he Guide.
+    Area available ffox standing 7 0 0 m 2 (100m x 7m ) (Excluding
+    designated gangyvays).                                \
+
+    Terrace condition antKdrainage good: dimensions as recoipmended
+    in Chapter 8.                   -------- — ---------- —-—
+
+    Gradient 10%: maximum appropriate distance 4.3 m
+                  Barriers: 6 at 5 m = 30 m
+                  Perimeter wall:      100 m
+                                          130 m
+
+    Appropriate test load 6KN/metre width (Chapter 9, paragraph 119,
+    Table 2).
+
+    Condition of 2 barriers poor and discounted. Remaining 4 barriers
+    sound but found to have safe working load (established by test) of
+    4.5 KN/metre width.
+
+    Pitch wall sound but found to have safe working load (established
+    by test) of 4.0 KN/metre width.
+
+    Capacity: Barriers 4 x 5 x 4J5 x 4.3 x 54 = 348
+                                6           10
+
+    Pitch wall: 100 x 4 x 4.3 x 54 = 1548             T tg, 1ggo
+                      6         10                         -------
+
+
+                                     68
+
+
+
+I
+E xit system s
+2 2 9 . General considerations to be taken into account when
+assessing the adequacy of exit systems are set out in Chapter 6.
+
+2 3 0 . The capacity of an exit system can be calculated by
+assessing for each element in the system (ie each gangway,
+doorway, stairway, exit etc) the number of persons who can pass
+in 8 minutes (ie egress time, see Chapter 6, paragraph 56) or, the
+emergency evacuation time appropriate to the accommodation
+(see Chapter 11, paragraphs 183-185), whichever is the shorter
+time. This calculation is made by multiplying the width of the
+element by the appropriate flow rate in Chapter 17.
+
+23 1 . Where an element in the exit system is less than 1 metre
+wide that element should be omitted from the calculation.
+
+2 3 2 . Flow restricting elements of the kind described in Chapter 6
+should be ignored for the purpose of these calculations.
+
+
+
+
+                                    69
+17. R E C O M M E N D E D FLOW RATES
+
+2 3 3 . From stands and stairways a flow rate of 40 persons per
+minute per unit of exit width (ie 550 mm) should be used.
+
+2 3 4 . From terraces (including covered terraces) and the ground
+generally a flow rate of 60 persons per minute per unit of exit
+width should be used.
+
+
+
+
+                            70
+A nnex A
+
+G LO S S A R Y OF T E R M S
+
+Lateral  Channel for the passage of spectators through a
+gangway: terrace running across the slope.
+
+Radial   Channel for the passage of spectators through a
+gangway: terrace running with the slope.
+
+Stairway:    Part of a building comprising one or more flights of
+             steps and including landings at head and foot of the
+             stairway, and any intermediate landings between
+             flights.
+
+Fire         Consisting of a construction of a type which, if tested
+resistant:   under the prescribed conditions of test appropriate to
+             such construction, in accordance with BS 476: Part 1:
+             1953 or Part 8: 1972 would satisfy the criteria relating
+             to stability, integrity and (where appropriate) insulation
+             for not less than 30 minutes or for such longer period
+             as may be required in the case of that construction.
+
+
+
+
+                                      71
+A nnex B
+
+S T E W A R D IN G
+
+1.   All stewards should be capable of carrying out their duties
+and should be properly trained to do so (see Chapter 13).
+
+2.    Stewards must be informed in writing of all that they are
+expected to know and do. The following list gives examples of
+typical tasks and duties which stewards should be expected to
+carry out and for which they should be prepared. Stewards should:
+
+      i.           Prevent overcrowding by ensuring the crowd limits in
+                   various parts of the ground are complied with.
+      ii.          Prevent spectators, as far as possible, from climbing
+                   fences and other structures eg floodlight pylons, and
+                   from standing on seats. Where by virtue of the scale of
+                   the incident stewards are unable to prevent this, they
+                   should immediately report the matter to the nearest
+                   police officer or, if no police officer is present, to the
+                   chief steward or the safety officer.
+
+      iii.         Ensure that gangways and exits are kept clear.
+             '•3
+      iv.          Identify and investigate any incident or occurrence
+                   among spectators, reporting their findings to the police
+                   or to management.
+
+      v.           Know the location of and be able to operate effectively
+                   the fire-firefighting equipment at the ground.
+      vi.          Know the location of the first aid room and any first
+                   aid equipment kept elsewhere.
+      vii.         Be fully conversant with any methods or signals used
+                   to alert staff that an emergency has arisen.
+
+      viii.        Be capable of recognising potential fire hazards and
+                   suspect packages, reporting such findings immediately
+                   to the nearest police officer or, if no police officer is in
+                   the immediate vicinity, the chief steward or the safety
+
+
+                                      72
+      officer.
+ix.   Comply promptly with any instruction given in an
+      emergency by a police officer, the chief steward or the
+      safety officer.
+x.    Remain at their allocated posts as instructed unless
+      authorised or ordered to do otherwise by a police
+      officer, the chief steward or the safety officer.
+xi.   Report to the safety officer any damage or defect
+      which is likely to pose a threat to spectator safety eg a
+      damaged crush barrier.
+
+
+
+
+                               73
+   A nnex C
+
+   T E S T IN G OF C R U S H B A R R IE R S A N D H A N D R A IL S
+
+   1.    For crush barriers the test is to c o n s is ts the application of
+   an evenly distributed rarCe oT eitrrHT^b.O KN/metre width
+   (400 lbs f/foot width) or 4.3 KN/metre width (290 lbs f/foot width)
+   of barrier as mentioned in Chapter 9.
+
+   2.    For handrails the test is to consist of the application of an
+   evenly distributed force of either 4.3 KN/metre width (290 lbs f /
+   foot width) or 2.74 KN/metre width (188 lbs f/foot width) of
+   handrail as mentioned in Chapter 9.
+
+  3.    The force is to be in the form of a static load acting on the
+  top rail of the barrier or handrail at right angles to the longitudinal
+  axis and applied in about ten equal increments.
+
+  4.    The force to be applied for three consecutive periods, the full
+  force being maintained for 5 minutes each period. The interval
+  between applications to be as short as possible, ie to enable
+  complete unloading and reloading only. A record should be kept of
+  any deformation during the loading periods, during the periods of
+  maintained loading, or during the recovery period.
+
+115.       If on the removal of the force for the third time the recovery
+• I ofdeformation is at least 75% the barrier or handrail may be
+I /deemed to have satisfied the loading requirements.
+
+  If this requirement is not met but the recovery is more than 50%
+  then the test should be repeated and if on retest the recovery is at
+  least 75% the barrier or handrail may be deemed to have satisfied
+  the loading requirements.
+
+  If the recovery is less than 50% on the first test or less than 75%
+  on    the retest,the barrier or handrail shall be deemed to have
+  failed to meet the loading requirements.
+
+
+
+
+                                 74
+6.      If during any test, even though the barrier or handrail
+satisfies the above loading requirements, doubt should arise for
+any reason lin filuding such matters as cracking of the terracing or
+distortion of connections) as to the safety of the barrier or handrail,
+;> detaiTed invesTigation should be carried out. Unless the results of
+this investigation remove the doubt as to the safety of the barrier
+or handrail, the barrier or handrail, as the case may be, should be
+deemed to have failed the test.
+
+7.    A record should be kept of all the barriers and handrails
+tested and of their performances during the tests.
+
+
+
+
+              Printed for Her Majesty's Stationery Office by Delco Printing Company, London
+                                          Dd 2 3 9 7 2 7 C 4 0 1 0 / 8 6
+This booklet provides voluntary guidance to ground
+management, local authorities and technical specialists on
+measures for improving spectator safety at existing sports
+grounds. It can be applied to all types of sports grounds
+where spectators are likely to be present.
+
+
+
+
+HMSO
+BOOKS
+HMSO publications are available from:
+
+H M S O Publications Centre
+(Mail and telephone orders only)
+PO Box 276, London SW 8 5DT
+Telephone orders (01) 622 3 316
+General enquiries (01)211 5 656
+(queuing system in operation for both numbers)
+
+H M S O Bookshops
+49 High Holborn, London W C1V 6HB (01) 211 5 6 5 6 (Counter service only)
+2 5 8 Broad Street, Birmingham B1 2HE (0 2 1 )6 4 3 3757
+Southey House, 33 Wine Street, Bristol BS1 2BQ (0272) 2 4 3 0 6 /2 4 3 0 7
+9-21 Princess Street, Manchester M 6 0 8AS (061) 8 3 4 7201
+80 Chichester Street, Belfast BT1 4JY (0232) 238451
+13a Castle Street, Edinburgh EH2 3AR (031) 2 25 6333
+
+H M S O 's Accredited Agents
+(see Yellow Pages)
+
+and through good booksellers
+
+£ 2.50 net
+
+
+
+                                                              I SBN 0 - 1 1 - 3 4 0 8 4 0 -
+
+
+
+
+ISBN011 340840 4
+
+
+                                                               780113 408405
+

@@ -1,0 +1,1019 @@
+                                                           Incident Report
+
+                      HEALTH AND SAFETY EXECUTIVE
+
+               RESEARCH AND LABORATORY SERVICES DIVISION
+
+                      Broad Lane, Sheffield S3 7HQ
+
+
+
+
+                An investigation into the number of
+                people entering the stadium through
+                Turnstiles A to G and through Gate C
+
+
+                                   by
+
+                              G A C Games BA
+
+                                                IR/L/ME/89/34
+
+
+
+
+                                               Issue authorised by: Dr A Jones
+
+                                               Date: 1 February 1990
+
+Distribution
+
+The Court of Inquiry (5 copies)
+ACC J Mervyn Jones West Midlands Police
+Mr D C T Eves
+Mr A Barrell TD
+Mr P G Jones TD
+Mr M S Nattrass FAID Area 14
+Mr J P Giltrow HFS (N)
+Mr M R Stephenson NE FCG
+Mr M Fountain TD3
+Mr M James TD3
+Mr C J Pertee NE FCG
+Mr J B Hibbs NE FCG
+Dr J McQuaid
+Dr A Jones
+Dr J H Foley
+Dr C E Nicholson                        TO RLSD/DIAS STAFF ONLY
+Mr P F Heyes                            NOT TO BE COMMUNICATED OUTSIDE
+Mr I R Price                            RLSD WITHOUT THE APPROVAL OF
+Mr G Norton                             THE AUTHORISING OFFICER
+Authors
+RPS                                                        SMR/343/235/01
+Library (2)
+Registry File                                              S8 0.02.O T H .814
+CONTENTS
+
+1     INTRODUCTION
+
+2     VIDEO TAPE RECORDINGS USED FOR ANALYSIS
+
+3     LOCATION AND DESCRIPTION OF TURNSTILE BOOTHS A-G AND GATE C
+
+4     THE COUNTING METHOD
+      4.1 Turnstiles
+      4.2 Gate C
+
+5     DATA PROCESSING AND RESULTS
+      5.1 Turnstiles
+           5.1.1 Turnstile total counts
+           5.1.2 Turnstile rate counts
+           5.1.3  Comparison between RLSD counts and SWFC computer record
+           5.1.4  Count for turnstiles F+G and error in SWFC count for turnstile G
+           5.1.5  Estimate of total number of people through turnstiles A  to G
+           5.1.6 Estimate of time at which 10100 people would have entered
+                  through turnstiles A to G
+           5.1.7 Turnstile C - Intervals between successive entrants
+      5.2 Gate C
+           5.2.1  First opening
+           5.2.2  Second opening
+           5.2.3  Third opening
+
+6     SUMMARY OF RESULTS
+      6.1 Turnstile counts, estimates, totals and rate of admission
+      6.2 Counts and estimates for the three openings of gate C and final totals
+      6.3 SWFC Computer counts for turnstiles A to G
+           6.3.1 Turnstiles A to E
+           6.3.2   Turnstile G
+
+7     DISCUSSION
+      7.1 Rate of admission through turnstiles A to G
+      7.2 Gate C openings
+      7.3 Times taken to pass through turnstile C
+
+8     CONCLUSIONS
+
+
+Table 1 Total number of people counted through turnstiles A to G at different
+        times
+Table 2 Number of people counted through turnstiles in each 5 minute interval
+Table 3 Summary Table
+Table 4 Number of people having the same interval of passage through turnstile C
+
+Fig   1   Schematic plan showing turnstiles A to G and gate C
+Fig   2   Total number of people counted by RLSD for turnstiles A to G
+Fig   3   Number of people counted through turnstiles in each 5 minute interval
+Fig   4   Rate of admission for turnstiles A to G
+Fig   5   Turnstile C - Number of people having the same interval of passage
+Fig   6   Number of people emerging from gate C at the 'Second Opening'
+1     INTRODUCTION
+
+I was told by Dr C E Nicholson, a Deputy Director of the Safety Engineering
+Laboratory (SEL) of the Research and Laboratory Services Division (RLSD) of
+the Health and Safety Executive (HSE), that on the 15th of April a video
+recording had been made which showed people entering the Sheffield Wednesday
+Football Club's (SWFC) stadium through the Leppings Lane turnstiles A, B, C,
+D, E, F and G and through gate C; the turnstiles served the West Terrace and
+North-West Terrace and in this report these terraces are called the 'West
+terraces'. It is my understanding that the video camera had been in a fixed
+position and had been recording from before 1:00 pm until after 3:00 pm. As
+part of the HSE investigation of the incident Dr Nicholson asked me to analyse
+a copy of the recording to:
+
+i)     count the total number of people who had entered through these
+       turnstiles and compare these counts with the counts registered by the
+       Sheffield Wednesday's computerised system for recording admissions.
+
+ii)    measure the rate at which people had entered the stadium through
+       turnstiles A to G throughout the period of the video recording.
+
+iii) estimate the number of people who had entered the stadium through gate C.
+
+I was assisted by other staff of RLSD working under my supervision and to my
+instructions. Police Constable (PC) R Watson of the West Midlands Police
+liaised with me and he provided the copies of the video recordings. He gave me
+a copy of a statement by Peter John Wilkinson of West Mercia Police TV Unit
+which gave details of the copy and edit procedure that had been undertaken
+from the original video tape.
+
+
+2 VIDEO TAPE RECORDINGS USED FOR ANALYSIS
+
+Dr Nicholson gave me copies of drawings which had been produced by Ralph Brade
+and Associates. Drawing No 1340/05 titled 'Close Circuit Television Cameras
+Location Plan' shows 'S.W.F.C. CAMERA 2 GATES A-G' and it is my understanding
+that the original VHS video tape identified as 'RJH2' was produced from
+signals sent by a camera at this location and that all the video recordings
+used by RLSD for analysis were copied from this original tape.
+
+The U-matic video tape recordings used for 'turnstile' admission analysis were
+delivered by PC R Watson on 15 May 89; the individual tapes were labelled
+RJH2/E/Part 1 Copy A, RJH2/E/Part 2 Copy A, RJH2/E/Part 3 Copy A, RJH2/F/Part
+1 Copy A, RJH2/F/Part 2 Copy A, RJH2/F/Part 3 Copy A. The tapes showed the
+exits of turnstile booths A to G from approximately 12:55 pm until 3:10 pm on
+15 April 1989. The '/E/' Tapes showed the exits of turnstiles A, B and C and
+the '/?/' Tapes showed the exits of turnstiles D, E, F and G. The two Part l's
+covered the first hour, the two Part 2's the second hour and the two Part 3's
+the remaining time. The continuous reference timings on the video tapes were
+with respect to the start of each tape and not to British Summer Time (BST)
+but I determined the relationship between these times and BST using specific
+events in conjunction with West Midlands Police.
+
+The VHS video recording used for 'gate C analysis' was a copy identified as
+DFl/B and had been produced by Mr D Francis, an RLSD photographer, from a
+video recording labelled RJH2, loaned to us by PC R Watson. The copy had
+continuous reference timings which related to the start of the tape and not to
+BST. The recording showed the exits of turnstile booths A to G, gate C and the
+general area on the West Stand side of these turnstiles.
+
+
+3     LOCATION AND DESCRIPTION OF TURNSTILE BOOTHS A-G AND GATE C
+
+Fig 1 is a schematic plan showing the seven turnstiles A to G and gate C. The
+location of the turnstile booths and of gate C is shown on the Ralph Brade and
+Associates drawing No 1340/04A and the aperture of gate C when open is shown
+as 4115 ram. Gate C, when closed, formed part of the perimeter boundary and was
+adjacent to turnstile booth G and approximately perpendicular to the row of
+turnstile booths. Normally gate C was closed and it is my understanding that
+the main function of gate C was to let people out of the stadium after a
+match.
+
+The turnstile booth exits consisted of seven doors, designated in alphabetical
+order from A to G. When viewed from the video camera location door A was on
+the right and furthest away from the video camera. Doors A and B, D and E, F
+and G were in pairs and Door C was on its own. Within the booths the exit
+doors aligned directly with the appropriate turnstile passage, but the
+internal layout of the turnstile booths did not prevent a person passing
+through the 'gate' of turnstile A and then emerging from the door of the booth
+marked B (and vice versa); similarly for the other paired turnstiles. In my
+opinion, this indirect route may have been used on a few occasions, for
+example if there was someone standing in the way at the normal 'direct' exit
+door. Thus the individual counts for the 'paired' turnstiles may be less
+accurate than the sum of the two counts from the two doors of a p ai r.
+
+The turnstile mechanisms were not identical in design nor in ease of operation
+and details are reported by Games and Waterhouse (RLSD report IR/L/ME/89/33).
+
+It is my understanding that on the 15th April these 7 turnstiles served the
+West terraces which had a designated capacity of 10,100 persons.
+
+
+4     THE COUNTING METHOD
+
+4.1     TURNSTILES
+
+The counting method used a specially developed computer program and
+micro-computer. The video recording was played at normal speed and the
+computer's clock was synchronised with a reference time on the video image.
+Whenever a person was seen to emerge from a specific turnstile booth an RLSD
+observer depressed a push button, closing an electrical circuit and sending an
+electrical pulse signal to the computer. The computer recorded each signal
+pulse and the elapsed times from the start of playback. People emerging from
+turnstiles A and B were registered together because the shadows on the video
+recording image sometimes made it impossible to differentiate between people
+emerging from the exit door of turnstile A and those from the exit door of
+turnstile B. People emerging from all other turnstiles were registered
+separately.
+
+4.2 GATE C
+
+Dr Nicholson v/as informed by Inspector M Layton of West Midlands Police that
+gate C had been opened three times and that the 'First Opening' had occurred
+at approximately 2;48 pm for a duration of about 30 seconds and that the
+'Second Opening' had occurred at approximately 2:52 pm for a duration of about
+5 minutes 30 seconds. A 'Third Opening' had occurred approximately one minute
+later when the gate was opened sufficiently to allow the entry of people in
+single file for approximately 8 minutes.
+
+The position of gate C on the video image and the small distance between
+adjacent people as they passed through gate C made it impracticable to discern
+each person as they passed through the open gate. Therefore the method of
+assessment for the first two openings was to count the number of people
+passing a reference line drawn on the video display monitor for a recording
+period of 3 seconds, and then to repeat this process at intervals throughout
+the period of opening. The reference line was drawn so that any person who had
+entered through gate C would cross the line, whilst generally being separated
+from other people by a greater distance than when passing through the open
+gate, thus making each person more discernable. The path of each person was
+viewed to ensure that people emerging from turnstiles were not counted. The
+counting process was repeated several times, by rewinding and replaying the
+video tape, for each sample, to ensure that the chance of not counting a
+particular person was reduced to a minimum. The playback speed on the video
+recorder was adjusted to play the recording slowly enough to optimize the
+counting.
+
+Four samples were taken during the First Opening and 27 samples were taken
+during the Second Opening; the longest interval between samples being 15
+seconds. The whole of the Third Opening was analysed in one continuous sample.
+
+
+5 DATA PROCESSING AND RESULTS
+
+5.1     TURNSTILES
+
+5.1.1     Turnstile Total Counts
+
+Table 1 shows how many people had been counted through the turnstiles at
+intervals of 5 minutes, the bottom row of the table being the final count just
+before the turnstiles were closed. Each row of the table gives the individual
+total count for turnstiles C to G, the totals for the three pairs A+B, D+E,
+F+G and the total for all seven turnstiles.
+
+Fig 2 shows the total number of people who had been counted through all seven
+turnstiles at any particular time and is a graphical representation of the
+same data as the final column in Table 1 but every data point has been
+presented, rather than just the totals at intervals of 5 minutes.
+
+5.1.2    Turnstile Rate Counts
+
+Table 2 shows the number of people counted through the turnstiles in each 5
+minute interval. Each row of the table shows the individual 5 minute counts
+for turnstiles C to G, the 5 minute count for the pairs A+B, D+E, F+G and the
+5 minute count for the sum of all seven turnstiles. These counts can be
+converted to rates of admission, measured as 'people per turnstile per hour',
+by multiplying by 12 and dividing by the number of turnstiles under
+consideration.
+
+The last column of Table 3 shows the overall rates of admission for all seven
+turnstiles for each 5 min period after 2:00 pm and the average (mean) rate of
+admission measured over the 45 min period from 2:05 pm to 2:50 pm was
+approximately 660 people/turnstile/hour.
+For the period between 2:25 pm and 2:50 pm turnstile C, a single turnstile,
+achieved a mean rate of admission of 830 people/turnstile/hour whereas the six
+other 'paired' turnstiles achieved a significantly lower rate of 630
+people/turnstile/hour.
+
+A visual representation of the data for turnstiles A+B, C, D, E, F and G is
+shown in the bar chart in Fig 3.
+
+I analysed the data obtained from the counts from turnstiles A to G in greater
+detail to give a more continuous measure of the rate at which people were
+entering the stadium through these turnstiles. The method of analysis used a
+period of time ('window') of three minutes and calculated the rate of
+admission for the 'window' from the number of admissions made during its 3
+minute duration. The 'window' was then moved forward by an increment of 0.5
+minutes and a new rate of admission calculated. This process was repeated
+until the end of the data was reached and the resulting graph of rate of
+admission against time is shown in Fig 4. I made analyses using other
+durations of the 'window'; a longer 'window' gave a smoother curve with some
+loss of information and a shorter one gave rapid fluctuations which tended to
+mask more general trends of change in rate of admission. It is my opinion that
+a 'window' of 3 minutes gave the most representative rates of admission.
+
+5.1.3    Comparison between RLSD counts and Sheffield Wednesday Football
+         Club1s computer record
+
+The RLSD final count totals are summarised in the following table and compared
+with the Sheffield Wednesday Football Club's (SWFC) computer print-out, taken
+on 15 April 1989 by Mr R J Houldsworth (RLSD report IR/L/ME/89/33).
+
+
+Turnstiles                RLSD    SWFC            Differ
+                          Count   Computer
+
+A+B                       1930    2004            -3.7%
+
+C                         1168    1206            -3.3%
+
+D+E                       2130    2196            -3.0%
+
+A to E                    5228    5406            -3.3%
+
+F+G                       2019    1632            +23.7%
+
+Total                     7247    7038
+
+
+Dr Nicholson informed me that the turnstiles   were open for a period before the
+start of the video recordings. In my opinion   this accounts for RLSD's count of
+the admissions through turnstiles A to E being approximately 3.3% less than
+the admissions shown on the print-out taken from the SWFC's computerised
+system on 15 April. I have therefore concluded that SWFC's count for the total
+number of admissions through turnstiles A to   E is likely to be correct.
+
+5.1.4    Count for turnstiles F+G and error in   SWFC count for turnstile G
+
+The SWFC count for turnstile F was 1049, 2% less than the RLSD count of
+1071 (Table 1) but this may be attributable to some people passing through
+turnstile G but emerging from Exit Door F; in my opinion the SWFC count is
+probably accurate for this turnstile.
+
+RLSD's count for turnstiles F+G was 23.7% higher than that obtained from
+SWFC's computerised recording system. RLSD report IR/L/ME/89/33 concluded that
+there was likely to be persistent under-recording from turnstile G and it is
+my opinion that under-recording on turnstile G is probably the sole cause of
+the discrepancy. I have assumed that the RLSD count of 2,019 is less than the
+true count by the same percentage (3.3%) for turnstiles F+G as for turnstiles
+A to E, and have estimated that 2,088 is the true total for turnstiles F+G.
+
+My estimate of 2,088 for turnstiles F+G can therefore be divided into a count
+of 1,049 for turnstile F (the SWFC count) and the remainder of 1,039 for
+turnstile G. The SWFC count of 583 from turnstile G is therefore 56% of my
+estimated correct number of admissions through this turnstile.
+
+5.1.5   Estimate of total number of people through turnstiles A to G
+
+It is my opinion that the best estimate for the final total of people admitted
+through all seven turnstiles is given by adding the SWFC total for turnstiles
+A to E of 5,406 to my estimate of 2,088 for turnstiles F+G, giving an overall
+total of 7,494 admissions for turnstiles A to G. In my opinion, based on the
+tests reported by Games and Waterhouse (RLSD report IR/L/ME/89/33), it is most
+unlikely that the true total exceeded this value by more than 2% ie a maximum
+of 7,644 for the number of people who passed through the seven turnstiles.
+
+My estimated total of 7,494 admissions through turnstiles A to G from the time
+that they were opened is 247 greater than the RLSD count. It is my opinion
+that this is attributable to people entering the stadium before the start of
+the video recording.
+
+5.1.6   Estimate of time at which 10.100 people would have entered
+        through turnstiles A to G
+
+RLSD's count at 2:50 pm was 5,868 but an estimated 247 people had entered the
+stadium before the start of the video recording. Therefore at 2:50 pm the
+estimated number of people who had entered through turnstiles A to G was
+6,115. Based on a capacity of 10,100 for the West terraces there were still
+3,985 people yet to enter the stadium for these terraces. The average (mean)
+rate of admission, measured over a 45 min period, was 660 people/turnstile/
+hour. If this rate had been maintained I have estimated that it would have
+taken until approximately 3:40 pm to admit the remaining 3,985 people.
+
+Prior to the 'Second Opening' of gate C at approximately 2:52 pm the highest
+rate of admission, measured over a period of 5 minutes, for the seven
+turnstiles was 702 people/turnstile/hour (Table 3 Col 5). If this rate had
+been constantly maintained it would have taken about 123 minutes to admit
+10,100 people. For all these people to have entered the stadium before 3:00 pm
+the first entrants would have needed to enter before 1:00 pm and continued to
+enter at this maximum rate.
+
+Prior to the 'Second Opening' of gate C the greatest number of admissions
+during a period of 5 minutes through turnstile C, a single turnstile, was 76
+people, and for any pair of turnstiles it was 141 people (Table 2). On the
+basis of these values I have calculated a theoretical maximum composite
+admission for all seven turnstiles (single C and pairs A+B, D+E, F+G) for a 5
+min period:
+i.e. 76 + (3 x 141) = 499 people through 7 turnstiles in 5 minutes, which
+represents 855 people/turnstile/hour. If this rate had been constantly
+maintained it would have taken about 101 minutes to admit 10,100 people. For
+all these people to have entered the stadium before 3:00 pm the first entrants
+would have needed to enter before 1:20 pm and have continued to enter at this
+theoretical maximum composite rate of admission.
+
+5.1.7     Turnstile C - Intervals Between Successive Entrants
+
+Turnstile C was the only turnstile where the people necessarily emerged from
+one door. Therefore the data from this turnstile was further analysed to give
+the time intervals between the emergence of successive people. The data which
+was analysed consisted of the times of emergence, rounded to the nearest whole
+number of seconds, for each person.
+
+The admissions after 2:00 pm were divided into successive groups of 10 minutes
+duration and the data in each group analysed to give the number of people that
+had emergence times of 0 second, 1 second, 2 seconds, 3 seconds, etc after the
+previous person.
+
+There is an anomoly which gives a small number of times for a 0 second
+interval. The reason for this anomoly is because of the procedure which
+rounded the actual times to the nearest integer times; for example if a person
+emerged with an actual time of 97.51 seconds and the next person 0.98 seconds
+later with an actual time of 98.49 seconds, both of these people would
+register as 98 seconds and the interval would be calculated as 0 second. A '0
+second' interval is therefore occasionally, but not necessarily, recorded for
+a person who emerged from the door within 1 second of the previous person.
+These rounding errors were not cumulative and do not affect the average (mean)
+time of passage.
+
+Table 4 shows the number of people having the same time interval of passage
+through turnstile C and its contents are presented as the bar charts of Fig 5
+which show the frequency distribution of the various times; times exceeding 10
+seconds are not shown. Both Table 4 and Fig 5 show that the average (mean)
+time taken to pass through turnstile C was always greater than the most
+frequently occurring time of passage.
+
+5.2     GATE C
+
+5.2.1     First Opening
+
+I assumed that the rate at which people entered through gate C changed
+linearly between successive sampling periods. The counts made during each of
+the 3 second sample periods were therefore used to calculate an estimated
+number of entries between each sample period. The total number of entries
+through gate C was obtained from the sum of these estimates, added to the
+counts made during the sampling periods. The total number estimate was 130 but
+in my opinion this estimate should be regarded as a minimum because of the
+likelihood that some people were obscured by others. My best estimate would
+be that about 150 people entered during the 'First Opening' of gate C and in
+my opinion the actual number was unlikely to have been greater than 180.
+
+5.2.2     Second Opening
+
+There was an initial surge of people during which a sample was taken and the
+measured rate for this sample was 10 people/second; the flow soon became
+relatively steady and the rates of admission for many of the samples during the
+remainder of the period were about 6 people/second. Drawing No 1340/04A showed
+Gate C to be 4115 mm wide and by assuming a shoulder width of 550 mm I
+calculated that it would allow 7 people to pass abreast when it was fully
+opened. The measured rate of 6 people/second therefore corresponds
+approximately to a rate of 1 person per shoulder width per second.
+
+A similar method of analysis was used to that for the 'First Opening' and Fig
+6 shows a graph of the number of people who entered through gate C during the
+'Second Opening'; the asterisks on the graph denote the individual sample
+points. The total number estimate was 1800 but in my opinion this estimate
+should be regarded as a minimum because of the likelihood that some people
+were obscured by others. My best estimate, based on the assumption that 1
+person in 10 may not have been counted, would be about 2000 and in my opinion
+the actual number was unlikely to have been greater than 2200.
+
+5.2.3     Third Opening
+
+Entries during the 'Third Opening' were at a much lower rate than in the other
+two openings and a continuous count was made over a period of about 8 minutes.
+A total of 90 people were counted and in my opinion the actual number is
+unlikely to have been greater than 100.
+
+
+6   SUMMARY OF RESULTS
+
+6.1     TURNSTILE COUNTS, ESTIMATES, TOTALS AND RATE OF ADMISSION
+
+The '5 minute totals' and rates for turnstiles A to G are summarised in Table
+3.
+
+The third column in Table 3 was obtained from my assumption that the
+discrepancy of 247 between the RLSD total and final estimated total was due to
+people entering the stadium before the start of the video recording. This
+number has therefore been added to all the intermediate RLSD counts to give an
+estimated count for the intermediate times.
+
+The total entries shown in the fourth column were obtained by adding, at
+appropriate times, admissions through turnstiles A to G from the third column
+to my best estimates of the number of entries made through gate C.
+6.2    COUNTS AND ESTIMATES FOR THE THREE OPENINGS OF GATE C AND THE FINAL TOTALS
+
+The estimates for gate C and estimated totals for the turnstiles are
+summarised below:
+
+                   RLSD Count     'Best' Estimate      Maximum !
+
+First Opening       130                    150              180
+
+Second Opening     1800                   2000             2200
+
+Third Opening           90                  90              100
+
+Total gate C       2020                   2240             2480
+
+
+Turnstiles         7247                   7494             7644
+
+Total              9267                   9734            10124
+
+
+6.3    SWFC COMPUTER COUNTS FOR TURNSTILE A TO G
+
+6.3.1     Turnstiles A to E
+
+The RLSD counts for these turnstiles would indicate that the SWFC counts for
+turnstiles A to E were accurate and in my opinion SWFC's record of the
+admissions through these turnstiles would not be in error by more than 2%.
+
+6.3.2     Turnstile G
+
+The SWFC count for turnstile G was low and estimates in this report indicate
+that the SWFC computer only registered about 56% of the correct number of
+admissions through this turnstile. Evidence of the turnstile switch
+malfunctioning is reported by Games and Waterhouse (RLSD report IR/L/ME/89/33)
+and this would account for errors in the total registered by the SWFC
+computer.
+
+
+7     DISCUSSION
+
+7.1    RATE OF ADMISSION THROUGH TURNSTILES A TO G
+
+I consider it reasonable to suppose that, in the absence of crowd forces, the
+rate at which people entered the stadium would rise until there were queues at
+all the turnstiles. I would then have expected the rate of admission to remain
+fairly constant, possibly rising slightly as the match start time approached.
+
+Fig 4 shows that from about 2:05 pm the rate was fairly constant until
+2:25 pm, which in my opinion suggests that all turnstiles had queues and
+people were not having undue difficulty in entering the turnstiles.
+
+After about 2:25 pm turnstile C generally has the highest rate of admission
+and it is noticeable from Table 2 that the paired turnstiles were performing
+less well. In particular turnstiles F+G recorded a count of only 86 between
+2:45 pm and 2:50 pm and turnstiles D+E a count of 77 between 2:40 pm and
+2:45 pm; equivalent to 516 and 462 people/turnstile/hour respectively. The
+rate at which people were entering decreased at about 2:35 pm and in my
+opinion a likely cause was crowd forces acting on the people entering the
+turnstiles. Even so the lowest overall rate of admission for all seven
+turnstiles for a 5 minute period of 610 people/turnstile/hour and the
+corresponding highest overall rate of admission of 702 persons/turnstile/hour
+were both within 8% of the average rate of 660 people/turnstile/hour that was
+achieved for the period between 2:05 pm and 2:50 pm.
+
+The theoretical maximum composite rate of admission was 855 people/turnstile/
+hour and in my opinion this theoretical maximum may have been achievable for
+these turnstiles operating under ideal conditions, for example with no crowd
+pressure acting on people entering the turnstile booths and with each person
+having their ticket ready. In my opinion the maximum measured rate of 702
+people/turnstile/hour, achieved over a period of 5 minutes, would have been
+maintained after 2:35 pm if there had been no crowd forces acting on people
+entering the turnstiles.
+
+7.2   GATE C OPENINGS
+
+I calculated that an estimated 2000 people entered the stadium during the
+'Second Opening', during which significant checking of tickets was not
+apparent from the video recording. The rate of admission of the turnstiles
+increased markedly at about the time of the 'Second Opening' of gate C. In
+my opinion this increase may have been due to two possible causes:
+
+a) the turnstile operators may not have been checking tickets to the same
+extent as they were before the 'Second Opening'.
+
+b) the 'Second Opening' resulted in decreased crowd forces thus allowing
+people to enter the turnstiles more easily.
+
+It is my opinion that the number of people who can pass through a given sized
+opening in a given time will tend to be self-limiting. If a person moves more
+quickly then more clearance between successive people will be required. If
+people shuffle through almost touching each other their speed will be limited
+because of lack of freedom of movement. For example if people walk at a speed
+of 2 m/sec (4.5 mph) and a spacing of 1.5 m (5 ft) then 80 people per shoulder
+width would pass a given point in 1 min; if the speed was 1 m/sec (2.2 mph)
+and the spacing was 0.75 m (2.5 ft) the number of people passing the point in
+1 min would be the same.
+
+7.3 TIMES TAKEN TO PASS THROUGH TURNSTILE C
+
+Fig 5 and Table 4 show that between 2:00 pm and 2:10 pm the most frequent time
+of passage was 5 sec. The time then diminished to 3 sec for the
+intervals of 2:30 pm to 2:40 pm and 2:40 pm to 2:50 pm, with an approximately
+equal numbers of admissions taking 2 sec and 4 sec; however the mean times
+for these intervals were 4.3 sec and 4.4 sec respectively, corresponding to
+828 people/hour and 822 people/hour. This shows that the asymmetric
+distribution of times, caused by a significant number of people taking longer
+than 5 seconds, gives a mean time that is about 50% greater than the most
+frequent time for this interval.
+
+The relevance of the difference between the mean time and the most frequent
+time is that the capacity of a turnstile cannot be calculated on the
+assumption that each person will take the same time of passage.
+8   CONCLUSIONS
+
+8.1 My best estimate of the number of people admitted through turnstiles A to
+G is 7,494 and through gate C is 2,240, i.e. a total of 9,734. It is my opinion
+that the true total is most unlikely to have exceeded 10,124, i.e. the total
+admissions were approximately equal to the designated capacity of 10,100
+people for the West terraces.
+
+8.2 RLSD measured the average (mean) rate of admission through turnstiles A to
+G as 660 people/turnstile/hour for the 45 min period between 2:05 pm and
+2:50 pm.
+
+8.3 On the basis of RLSD's measured average rate of admission of 660
+people/turnstile/hour through turnstiles A to G, and the number of people who
+had already been admitted through these turnstiles at 2:50 pm, I have
+estimated that if gate C had not been opened it would have taken until about
+3:40 pm to admit a total of 10,100 people through these turnstiles.
+
+8.4 Using RLSD's measured maximum rate of admission of 702
+people/turnstile/hour through turnstiles A to G I calculated that people would
+need to have been continuously entering through these turnstiles at this rate
+before 1:00 pm to enable 10,100 people to enter the West terraces before
+3:00 pm.
+
+8.5 The rate of admission into the stadium increased markedly at about 1:45 pm
+rising from about 300 to about 550 people/turnstile/hour. The 5 minute rate
+for all seven turnstiles peaked at 702 people/turnstile/hour for the period
+2:30 pm to 2:35 pm and remained within about 8% of the average (mean) rate of
+660 people/turnstile/hour between 2:05 pm until 2:50 pm. There was a fall in
+the rate at about 2:35 pm with no recovery until about the time of the 'Second
+Opening' of gate C when the rate of admission increased markedly. At this
+stage the turnstile operators may not have been checking tickets to the same
+extent and crowd pressure outside the turnstiles may have decreased.
+
+8.6 The distribution of the times of passage through turnstile C, a single
+turnstile, was asymmetric and the mean time of passage was always significantly
+greater than the most frequent time. Between 2:30 pm and 2:50 pm the most
+frequently occurring time of passage was 3 sec but the mean time of passage
+was 4.4 seconds.
+
+8.7 Turnstile C, a single turnstile, achieved a significantly higher rate of
+admission of 830 people/turnstile/hour during the period between 2:30 pm and
+2:50 pm in comparison with 630 people/turnstile/hour for the other six
+turnstiles which were in pairs.
+
+8.8 Sheffield Wednesday Football Club's computerised system for recording
+admissions to the stadium registered only approximately 56% of the people who
+entered through turnstile G. There is no evidence from the RLSD counting that
+any of the total counts from turnstiles A to F were registered incorrectly.
+Table 1
+
+
+TOTAL NUMBER OF PEOPLE COUNTED THROUGH TURNSTILES A to G AT DIFFERENT TIMES
+
+                             TURNSTILE
+
+   TIME    A+B      C        D      E      F     G     D+E    F+G   TOTAL
+    pm
+
+   1:00      3     10      5        7       9     8     12     17     42
+   1:05     19     21     24       23      16    21     47     37    124
+   1:10     40     41     39       43      28    40     82     68    231
+   1:15     64     54     56       59      35    44    115     79    312
+   1:20     84     74     76       80      47    53    156    100    414
+   1:25    114     92     98       94      56    60    192    116    514
+   1:30    146    114    131      111      74    85    242    159    661
+   1:35    178    149    151      113      93   102    264    195    786
+   1:40    216    176    185      131     125   124    316    249    957
+   1:45    271    199    217      165     150   141    382    291   1143
+   1:50    363    241    278      211     189   182    489    371   1464
+   1:55    448    280    336      270     229   214    606    443   1777
+   2:00    535    341    390      312     281   262    702    543   2121
+   2:05    603    399    439      348     331   303    787    634   2423
+   2:10    690    447    494      399     398   377    893    775   2805
+   2:15    784    490    546      448     463   444    994    907   3175
+   2:20    883    537    611      496     532   509   1107   1041   3568
+   2:25    989    587    676      548     589   559   1224   1148   3948
+   2:30   1097    658    736      603     634   618   1339   1252   4346
+   2:35   1206    730    790      663     691   676   1453   1367   4756
+   2:40   1309    796    847      709     758   720   1556   1478   5139
+   2:45   1415    857    892      741     820   770   1633   1590   5495
+   2:50   1522    933    946      791     873   803   1737   1676   5868
+   2:55   1649   1000   1015      832     932   840   1847   1772   6268
+   3:00   1790   1096   1098      902    1005   904   2000   1909   6795
+   3:05   1911   1160   1163      951    1066   940   2114   2006   7191
+   3:10   1930   1168   1170      960    1071   948   2130   2019   7247
+
+
+Ref SEL1 [300,5]hdtabl.tab
+Table 2
+
+NUMBER OF PEOPLE COUNTED          TURNSTILES IN EACH 5 MINUTE INTERVAL
+
+                                  TURNSTILE
+
+     TIME            A+B     C    D       E      F     G     D+E    F+G    TOTAL
+      pm
+
+ 12:55    -   1:00      3    10     5      7      9      8     12     17      42
+  1:00    -   1:05     16    11    19     16      7     13     35     20      82
+  1:05    -   1:10     21    20    15     20     12     19     35     31     107
+  1:10    -   1:15     24    13    17     16      7      4     33     11      81
+  1:15    -   1:20     20    20    20     21     12      9     41     21     102
+  1:20    -   1:25     30    18    22     14      9      7     36     16     100
+  1:25    -   1:30     32    22    33     17     18     25     50     43     147
+  1:30    -   1:35     32    35    20      2     19     17     22     36     125
+  1:35    -   1:40     38    27    34     18     32     22     52     54     171
+  1:40    -   1:45     55    23    32     34     25     17     66     42     186
+  1:45    -   1:50     92    42    61     46     39     41    107     80     321
+  1:50    -   1:55     85    39    58     59     40     32    117     72     313
+  1:55    -   2:00     87    61    54     42     52     48     96    100     344
+  2:00    -   2:05     68    58    49     36     50     41     85     91     302
+  2:05    -   2:10     87    48    55     51     67     74    106    141     382
+  2:10    -   2:15     94    43    52     49     65     67    101    132     370
+  2:15    -   2:20     99    47    65     48     69     65    113    134     393
+  2:20    -   2:25    106    50    65     52     57     50    117    107     380
+  2:25    -   2:30    108    71    60     55     45     59    115    104     398
+  2:30    -   2:35    109    72    54     60     57     58    114    115     410
+  2:35    -   2:40    103    66    57     46     67     44    103    111     383
+  2:40    -   2:45    106    61    45     32     62     50     77    112     356
+  2:45    -   2:50    107    76    54     50     53     33    104     86     373
+  2:50    -   2:55    127    67    69     41     59     37    110     96     400
+  2:55    -   3:00    141    96    83     70     73     64    153    137     527
+  3:00    -   3:05    121    64    65     49     61     36    114     97     396
+  3:05    -   3:10     19     8     7      9      5      8     16     13      56
+
+Ref SELl [300,5]hdtab2.tab
+Table 3
+
+SUMMARY TABLE
+
+Time            Total        Total       Total     Rate for 5 minutes
+                Turnstile    Turnstile   Turnstile in people per
+                Count        Estimate    + Gate C turnstile per hour
+                                         Estimate
+
+2.00 pm         2121         2368        2368
+                                                         517
+2.05            2423         2670        2670
+                                                         654
+2.10            2805         3052        3052
+                                                         634
+2.15            3175         3422        3422
+                                                         673
+2.20            3568         3815        3815
+                                                         651
+2.25            3948         3948        3948
+                                                         682
+2.30            4346         4593        4593
+                                                         702
+2.35            4756         5003        5003
+                                                         656
+2.40            5139         5139        5139
+                                                         610
+2.45            5495         5742        5742
+                                                         639
+2.50            5868         6115        6265
+                                                         685
+2.55            6268         6515        7665
+                                                         903
+3.00            6795         7042        9202
+                                                         678
+3.05            7191         7438        9658
+                                                          96
+3.10            7247         7494        9734
+
+
+Ref SELl [300,5]hdtab3.tab
+Table 4
+
+
+NUMBER OF PEOPLE HAVING THE SAME INTERVAL OF PASSAGE THROUGH TURNSTILE C
+
+                            INTERVAL IN SECONDS                         Mean   Total
+              0    1    2     3   4   5   6   7      8   9   10   >10   Time   Count
+
+1:50 - 2:00   0    6   11    13   15   19    9   5   3   1    3   15     6.0    100
+
+2:00 - 2:10   0    3    7    16   20   23   12   7   3   4    1   10     5.7    106
+
+2:10 - 2:20   1    1    4    10   17   20   10   7   4   1    1   14     6.7     90
+
+2:20 - 2:30   1    6   20   19    21   12   16   8   6   2    1    9     5.0    121
+
+2:30 - 2:40   0    7   26   39    25   17    8   3   5   1    1    6     4.3    138
+
+2:40 - 2:50   2   12   23   29    21   14    9   5   7   9    1    5     4.4    137
+
+2:50 - 3:00   4   29   47   30    19    7    5   3   1   1    6   11     3.7    163
+
+
+NB Fig 4 is a visual presentation of the data in this table
+
+
+Ref SELl [300,5]hdtab4.tab
+                                                      LEPPINGS
+                                                        LANE
+
+
+
+
+                                     TERRACE   WEST STAND
+                                    STANDING      SEATS      NORTH STAND
+                                                                SEATS
+
+
+
+
+                         TUNNEL TO CENTRE
+                         TERRACE STANDING
+
+
+
+
+FIG 1   SCHEMATIC PLAN SHOWING TURNSTILES A TO G AND GATE C                 HLSD 3HT TSniLE/VILLS
+                                                                                   e u s id o n
+                                                                           RALPH EBADK ft A8B0CIATKS
+                                                                               D U W im 1 3 4 0 /M
+         8000.                                                                                                        END
+                                                                                                                      Of
+                                                                                                                      DATA
+         7000.
+         6000.
+         5000.
+         4000.
+PEOPLE
+         3000.
+         2000.
+         1000.
+
+
+
+
+         CD
+                                                                                                             3.00pm
+                  135.       12.0 .    105.     ■90.     75.            60.               45.   30.   15.   0.               15
+                                                         TIME RELATIVE TO 3.00pm (WINS)
+
+
+
+                 FIG.    2   TOTAL NUMBER OF PEOPLE COUNTED BY RLSD FOR TURNSTILES A to G
+                                                                VERTICAL SCALE
+                                                                 (No. OF PEOPLE)
+
+
+
+
+                                 1.00    1.30    2.00    2.30          3.00
+
+
+
+
+FIG 3   NUMBER OF PEOPLE COUNTED THROUGH TURNSTILES IN EACH 5 MINUTE INTERVAL
+                                                                              RL3D 3HT HDDIFI/HIT' "
+                1200.
+                                START                                                                                    END
+                                DATA                                                                                     DATA
+                1000.
+                800.
+per TURNSTILE
+                600.
+HOUR
+per
+PEOPLE
+
+
+
+
+                o
+
+
+
+
+                o
+                o
+
+
+
+
+                                                                                       2.00pm
+                         135.            120 ,                         75.             60.              45.   30.   0.          15.
+                                                                       TIME RELATIVE TO 3.00pm (MIMS)
+
+
+
+                        FIG.       4    RATE O f ADMISSION FOR TURNSTILES A to     G
+        V
+
+            \           \           \
+                \                                                                                                o       o    o     o
+                    \                                                                                            h       <U   CO    yf
+
+
+
+                                                2:40   -   2:50                                        VERTICAL SCALE
+                                                                                                           (No. OF PEOPLE)
+
+
+
+
+                                                                  2: 30   -   2: 40
+
+                            \           \                         \
+                                \           \
+
+
+
+                                                  tS
+                                                                                      2:20    -       2:30
+
+
+
+
+                                                                  S
+                                                                                                             10      -       2:20
+                                        \
+                                                                          V
+
+                                                                                  \
+                                                                                      s
+                                                                                                             s           A     2:0°      -   z   '    1 0
+
+
+
+                                                              0 1         2   3       4   5       6    7     8       910
+                                                                              INTERVAL IN SECS
+
+
+
+FIG 5       TURNSTILE C - NUMBER OF PEOPLE HAVING THE SAME INTERVAL OF PASSAGE
+                                                                                                                                                     RLSD 3HT HDCSEC/HILL3
+            2000.
+                    -
+
+
+
+
+                                                                                                                                 /
+            1500.
+
+
+
+
+                                                                                                                          /       ■
+
+                                          .....................................             ; .............. , / *               :.............................
+                                                                                                             M
+                    -
+
+
+                                                                                                       X
+                                                                                                           X
+OF PEOPLE
+
+
+
+
+                    -                                                                              /
+                                                                                            1
+
+                                                                                          X
+            1000.
+
+
+
+
+                                                                                         yf 1
+NUMBER
+
+
+
+
+                                                                                     X      :
+                    -
+
+
+
+
+                    -
+                                                                               X                                                  :
+
+                                                                         , x
+                    -
+
+
+
+
+                                                               X
+            500.
+
+
+
+
+                                                       .   X
+
+                    -
+
+
+
+                                          7k
+
+
+                    I              ***
+                               /
+                           A
+                                         --1
+                                           --— 1-- 1_— J-- 1-- J-- 1-- 1--_|-- i-- L-- L_-1— — L-—1-- 1-- 1--— L— _J-- L-_J--J-- 1__ 1_...........1__ 1
+                                                                                                                                                      __1_____L_____1__
+                    0.                                 100.                                 200.                                  300.                                    400.
+                                                                                     TIME in seconds
+
+
+
+                    FIG.       6     NUMBER OF PEOPLE EMERGING FROM GATE C AT THE 'SECOND OPENING'
+

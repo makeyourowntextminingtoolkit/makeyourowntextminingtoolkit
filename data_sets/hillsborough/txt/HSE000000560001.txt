@@ -1,0 +1,841 @@
+                                                                 Incident Report
+
+
+
+                       HEALTH AND SAFETY EXECUTIVE
+
+                RESEARCH AND LABORATORY SERVICES DIVISION
+
+                      Broad Lane, Sheffield S3 7HQ
+
+
+
+
+                 An investigation into the number of
+                 people in 'pens' 3 and 4
+
+
+                                   by
+
+                              G Norton BSc
+
+                                              IR/L/ME/89/32
+
+
+
+
+                                             Issue authorised by Dr A Jones
+
+                                             Date: 18 December 1989
+
+
+Distribution
+
+The Court of Inquiry (5 copies)
+ACC M Jones West Midlands Police
+Mr D C T Eves
+Dr J McQuaid
+Dr A Jones
+Mr A Barrell TD
+Mr P G Jones TD
+Mr M S Nattrass FAID Area 14
+Mr J P Giltrow HFS (N)
+Mr M R Stephenson NE FCG
+Mr M Fountain TD3
+Dr J H Foley
+Dr C E Nicholson                          TO RLSD/DIAS STAFF ONLY-
+Mr P F Heyes                              NOT TO BE COMMUNICATED OUTSIDE
+Mr I R Price                              RLSD WITHOUT THE APPROVAL OF
+Mr D Waterhouse                           THE AUTHORISING OFFICER
+Mr G A C Games
+Mr G Norton
+Mr M James TD3                                                SMR/343/235/01
+Mr C J Pertee NE FCG
+Mr J B Hibbs NE FCG                                           S80.02.0TH.814
+RPS
+Library (2)
+Registry File
+CONTENTS
+
+1   INTRODUCTION
+
+2   PHOTOGRAPHS USED FOR COUNTING THE NUMBER OF PERSONS
+    2.1 Photographs taken on 15 April 1989 showing 'pens'     2 and 3 - PR1/7A and
+         PR1/8A
+    2.2 Photographs taken on 22 May 1989 showing the West     Terrace when empty -
+         PR10/A2 to PR10/A5
+    2.3   Photographs taken on 15 April 1989 showing 'pens'   2,3 and 4 - MP1A-14
+    2.4 Photograph taken on 15 April 1989 showing areas of     'pens' 3 and 4
+         behind the goal area of the West Terrace - 148.3
+
+3   DIGITISING PROCEDURES USED
+    3.1   Digitising the crowd from photographs PR1/7A and PR1/8A
+    3.2   Digitising the crowd from the remaining photographs
+    3.3   Digitising the crush barriers from photographs PR10A-2 to PR10A-5
+
+4   CAD MANIPULATION OF THE DIGITISED DATA
+    4.1   Number of persons in the whole area of 'pen' 3
+    4.2   Number of persons in rows within 'pen' 3
+         4.2.1 Estimation of number of persons in the front row of 'pen' 3
+    4.3   Crowd packing density in 'pen' 2
+    4.4   Comparison of crowd packing density in 'pens' 3 and 4
+
+5   RESULTS
+    5.1 Number of persons in 'pen' 3 obtained from photographs PR1/7A and PR1/8A
+         5.1.1    Number of persons identified directly from thephotographs
+         5.1.2    Number of persons assessed by dividing the 'pen' into rows
+    5.2 Number of persons in 'pens' 3 and 4 obtained from photograph MP1A-14
+    5.3   Number of persons withina sample columnar area in'pen' 2
+    5.4   Comparison of the number of persons in 'pens' 3 and 4
+
+6 SUMMARY AND CONCLUSIONS
+1     INTRODUCTION
+
+Following the incident at Hillsborough Stadium, Dr Nicholson provided me with
+several albums of   photographs. He told me that these had been supplied to him
+by the West Midlands Police. He said that they contained some photographs of
+the spectators in   'pens' 3 and 4 taken at Hillsborough Stadium and that they
+had been taken at   about the time that the game commenced. He asked me to
+provide him with a scientifically-based estimate of the number of persons in
+'pen' 3 and in 'pen' 4, and the crowd packing density (number of persons per
+square metre) in these 'pens'.
+
+I was also provided with a dimensioned drawing showing a plan view of 'pens' 3
+and 4. The drawing had been prepared by Ralph Brade & Associates, Consulting
+Engineers, Sheffield, at the request of Dr Nicholson; it was numbered 1340/02
+Rev A and was dated 3/5/89. I used this drawing to establish the locations of
+the crush barriers in 'pens' 3 and 4 and to calculate the areas of these 'pens'.
+
+1 was assisted in this work by Mr G A C Games, a Senior Scientific Officer of
+RLSD's Mechanical Engineering Section and Mrs S M Barker of RLSD's Mechanical
+Design Unit.
+
+2     PHOTOGRAPHS USED FOR COUNTING THE NUMBER OF PERSONS
+
+2.1    PHOTOGRAPHS TAKEN ON 15 APRIL 1989 SHOWING 'PENS' 2 AND 3 - PR1/7A AND
+       PR1/8A
+
+Two prints of the West Terrace were selected by Mr Games and myself from the
+albums of photographs. These prints were labelled PR1/7A and PR1/8A. West
+Midlands Police informed Dr Nicholson that these photographs were taken by a
+police photographer, Mr P Rich of the South Yorkshire Police, from a fixed
+position in the South Stand. The photographs were marked with a time of 15.03.
+The field of view on the two photographs overlapped and by identifying the
+same landmarks on each, it was possible to overlay the photographs to form a
+continuous view of the crowd. The prints from the albums were too small for
+further work, and I therefore requested that enlargements be provided. West
+Midlands Police subsequently provided enlargements of the prints and these
+were overlapped, as described above, and taped together.
+
+2.2    PHOTOGRAPHS TAKEN ON 22 MAY 1989 SHOWING THE WEST TERRACE WHEN EMPTY -
+       PR10/A2 TO PR10/A5
+
+I could not identify the positions of barriers within the 'pens' from the
+combined photographs PR1/7A and PR1/8A. Dr Nicholson therefore requested West
+Midlands Police to arrange for Mr Rich, using the same equipment as used on
+the day of the incident, from the same position, to take a set of overlapping
+photographs which showed the empty West Terrace. Common landmarks were
+identified on these prints and a subset, marked with numbers PR10/A2 to
+PR10/A5, were then overlapped to form a panoramic view of the empty terrace.
+
+
+
+2.3    PHOTOGRAPH TAKEN 15 APRIL 1989 SHOWING 'PENS' 2,3 AND 4 - MP1A-14
+
+Other photographs taken on the day of the incident showed larger areas of the
+terrace. Photograph MP1A-14, taken from the North Stand, showed a long view of
+'pens' 2,3 and 4 and was marked with a time of 14.52. Dr Nicholson requested
+enlargements of the photograph and these were provided by West Midlands
+Police.
+2.4    PHOTOGRAPH TAKEN 15 APRIL 1989 SHOWING AREAS OF 'PENS' 3 AND 4 BEHIND THE
+       GOAL AREA OF THE WEST TERRACE - 148.3
+
+Dr Nicholson provided me with two overlapping photographs, marked 148.3, which
+had been obtained from the West Midlands Police. No information was available
+as regards the time that the photograph was taken. On the basis of my
+examination of the other photographs, the fact that several spectators were
+already on the field and that the players were still on the pitch, it is
+evident that it was taken at approximately 15.00. It showed a view of the
+crowd in 'pens' 3 and 4 and was taken from in front of the West Terrace goal.
+The photograph appeared to be taken from a position low down, possibly at
+ground level. I considered it to be unsuitable for obtaining an absolute count
+of the number of occupants of 'pens' 3 and 4 but that it could be used to
+estimate comparative densities in these 'pens'.
+
+3     DIGITISING PROCEDURES USED
+
+Digitising is a means of transferring the positional data of physical points
+shown in graphical material, eg photographs, into a computer file. The
+graphical material to be digitised is attached to the surface of a digitising
+tablet, which resembles a large drawing board. The tablet consists of a
+plastic working surface, AO in size, over a closely packed grid of horizontal
+and vertical wires. These wires are continually fed with electrical pulses
+from the digitiser controller. To identify the points to be digitised a hand
+held stylus is used; this is a 'pen' shaped device with spring loaded pointer
+set in one end. When the pointer is pressed onto the surface at the point to
+be digitised, a switch contact is made in the stylus enabling the pulses in
+the wire grid to be detected. The time delay between sending a pulse and
+receiving it at the stylus is directly proportional to the distance travelled
+by the pulse and hence the stylus position. These delays are measured by the
+controller equipment and translated into positions in both the horizontal and
+vertical directions. This information is then transferred into a computer
+file.
+
+The information stored in the file can be accessed by a computer aided
+draughting (CAD) program for subsequent graphical display and manipulation (eg
+scaling).Plots of the manipulated information can be created using a pen
+plotter; the figures in this report were created in this manner, the position
+of each person being shown by an asterisk.
+
+The photographs were secured to the digitiser surface, in turn, and a sheet of
+transparent plastic film was placed over them. The position of every
+discernible person on the photographs was digitised using the centre of the
+persons head as an identification point. As the position of each person was
+digitised a mark was made on the transparent film at the person's head to
+ensure that no person was digitised twice. Great care was taken in the
+identification of individual persons and only those people that could be
+positively discerned were included in the digitising.
+
+3.1     DIGITISING THE CROWD FROM PHOTOGRAPHS PR1/7A AND PR1/8A
+
+The overlapping photographs PR1/7A and PR1/8A were positioned on the
+digitising tablet and the boundary details were entered into the CAD system as
+described in Section 3. The outlines of people outside the 'pens' who were
+'masking' people within were included in this procedure.
+The head of every discernible person in the crowd was digitised to produce
+the drawing PR178A, Fig 1 is based on this drawing.
+
+3.2     DIGITISING THE CROWD FROM THE REMAINING PHOTOGRAPHS
+
+The same digitising procedures were used with photographs MP1A-14 and 148.3,
+again digitising only positively discernible individuals. Figs 2 and 3 show
+the digitised information from MP1A-14.
+
+3.3     DIGITISING THE CRUSH BARRIERS FROM PHOTOGRAPHS PR10/A2 to PR10/A5
+
+Overlapping photographs, PR10/A2 to PR10/A5, were positioned on the digitising
+surface and the crush barriers, fences and wall boundaries were digitised into
+the CAD system as a separate drawing.
+
+
+4     CAD MANIPULATION OF THE DIGITISED DATA
+
+4.1    NUMBER OF PERSONS IN THE WHOLE AREA OF 'PEN' 3
+
+Drawing PR178A (Fig 1) showed asterisks representing people in part of 'pen' 2
+and part of 'pen' 3. The drawing did not include all of 'pen' 3, because of
+the limited view in the photographs, and therefore    an overall count forthe
+'pen' could not be made using the drawing shown in Fig 1 alone.
+
+The editing facilities of the CAD system were used on drawing PR178A to delete
+the asterisks representing the occupants of 'pen' 2, and produced the drawing
+shown in Fig 4. The CAD system was then used to overlay and position the
+drawing made from photographs PR10/A2 to PR10/A5, as summarized in Section
+3.3, on the drawing of Fig 4 by matching common landmarks on each drawing. The
+resulting drawing displayed the full extent of 'pen' 3, but only contained
+that part of the crowd shown on the original photographs PR1/7A and PR1/8A,
+causing part of 'pen' 3 to appear to be empty.
+
+I used the facilities of the CAD system to estimate the number of persons in
+this missing part of the crowd by creating a 'patch' of the same size and
+shape as the apparently empty part of 'pen' 3. This 'patch' was superimposed
+on the populated area of 'pen' 3 and the resulting 'crowd patch' copied to the
+apparently empty part of 'pen' 3. The resulting drawing is shown in Fig 5, the
+crush barriers having been omitted for clarity and the 'crowd patch' being
+shown in bold outline. I used the automatic counting facility of the CAD
+system to count the number of heads (asterisks) shown on this drawing.
+
+4.2    NUMBER OF PERSONS IN ROWS WITHIN 'PEN' 3
+
+I was concerned about the difficulty in discerning individual heads near the
+front of 'pen' 3. I also wished to have some measure of the variation of crowd
+density across the depth of this 'pen'. Therefore 'pen' 3 was divided into
+rows parallel to the front boundary fence. Using the crush barriers, digitised
+from photographs PR10/A2 to PR10/A5, as demarcations to divide 'pen' 3 into
+four parallel rows numbered from Row 1 (front row) to Row 4 (rear row) .
+
+Using the overlaying facility of the CAD system the crush barriers were
+superimposed on the drawing shown in Fig 5. The top rail of each barrier was
+then projected upwards to a common scaled height of 1.7 m, assuming this
+dimension to be a common height to the centre of every head. Identification of
+the occupants of 'pens' 3 and 4 had been undertaken by locating the position
+of each person by an asterisk at the centre of their head. I therefore assume
+that any asterisk lying between adjacent projections of the top rails on the
+drawing represented a person standing between the corresponding crush
+barriers.
+
+Asterisks lying outside the appropriate projected top rails were deleted for
+each row in turn, leaving only asterisks representing people in that row. Any
+part of the crowd missing from a row, because of the limited view on the
+photographs, was estimated using the 'crowd patch' method described in Section
+4.1. This technique was used to produce the drawings shown in Figs 6,7 and 8,
+and the automatic counting facility of the CAD system then used to count the
+number of persons in Rows 2,3 and 4.
+
+4.2.1    Estimation of the number of persons in the front row of 'pen' 3
+
+My uncertainty about identifying the heads of persons in the front row(row 1)
+of 'pen' 3 caused me to use an alternative method to estimate the number of
+persons in this row.
+
+Some ad-hoc tests had been undertaken on RLSD's premises to assess the
+discomfort experienced by persons in crowds of different packing densities.
+Increasing numbers of volunteers of both sexes had stood in a closed vestibule
+which had a floor area of 2.8 sq m. The criterion adopted in these tests for
+determining the acceptability of different crowd packing densities was that no
+person should feel physically distressed. Each test lasted approximately 2
+minutes. The tests suggested that a crowd density of 10 persons/sq m could be
+achieved without distress, although the subjects felt they were "packed
+tightly".
+
+I considered the crowd packing densities that were obtained in Rows 4,3 and 2,
+and the results of RLSD's crowd packing tests. I then decided that the best
+estimate of the number of persons in the front row of 'pen' 3 would be obtained
+by multiplying the plan area (in square metres) of the front row by a packing
+density of 10 persons/sq m. It is my opinion that this estimate would be
+neither unrealistically high nor unrealistically low.
+
+4.3     CROWD PACKING DENSITY IN 'PEN' 2
+
+I estimated the crowd packing density (number of persons/sq metre) in 'pen' 2
+by using similar procedures to those described in Section 4.2. Using the
+drawing shown in Fig 1 a columnar area was created within 'pen' 2 by
+projecting the stanchions of the front boundary fence to the back boundary
+wall, the projection lines defining the width of the columnar area. All
+asterisks outside this column were deleted and the missing part of the column
+filled using the 'crowd patch' method to produce the drawing shown in Fig 9.
+The asterisks within the columnar area were then automatically counted and,
+knowing the ground area (distance between stanchions multiplied by overall
+depth of 'pen'), it was possible to calculate the crowd packing density within
+it.
+
+4.4     COMPARISON OF CROWD PACKING DENSITY IN 'PENS' 3 AND 4
+
+I used photographs 148.3 to obtain a comparison of the crowd packing densities
+in 'pens' 3 and 4. Onto the drawing obtained by digitising photographs 148.3, a
+fixed rectangular area was superimposed in 'pens' 3 and 4. This rectangle was
+not intended to represent a specific ground area on the terraces, but rather
+to define an area on the original photographs. An automatic count of the heads
+ (asterisks) within the rectangular area in each 'pen' was then obtained. This
+ procedure was repeated at different locations until 4 sets of counts had been
+ obtained, at the positions shown in Fig 10, taking care to ensure that
+ obstructions e.g. persons outside the terrace, did not protrude into the
+ rectangular areas.
+
+ 5     RESULTS
+
+ 5.1     NUMBER OF PERSONS IN 'PEN' 3 OBTAINED FROM PHOTOGRAPHS PR1/7A AND PR1/8A
+
+ 5.1.1    Number of persons identified directly from the photographs
+
+The number of persons counted automatically within 'pen' 3, on the basis of
+the number of heads directly identified with the digitising method, was 1074.
+To this must be added the number of persons in that part of the 'pen' not
+shown on the photographs but estimated by the 'crowd patch' method ie 334.
+This results in a total figure of 1408. It is my opinion that this total is an
+underestimate of the number of persons within 'pen' 3; lack of clarity in the
+photographs made it difficult to identify individual heads near the front
+boundary wall and also people outside the 'pen' obscured parts of this area.
+
+5.1.2     Number of persons assessed bv dividing the 'pen' into rows
+
+Table 1 shows my alternative assessment of the number of persons within 'pen'       3,
+based on the division of the 'pen' into four rows. Persons in Rows 4,3 and 2
+were identified directly from the photographs using the digitiser and 'crowd
+patch' methods and counted automatically. The number of persons in the front
+row (Row 1) were estimated on the basis of the plan area of the row and a
+crowd packing density of 10 persons/sq    m. Thisalternative andpreferred
+assessment of the number of persons in    'pen' 3is 1576.
+
+Table 1 also shows the crowd packing densities for each of the four rows in
+'pen' 3. Thecrowd packing densities for Rows 4,3 and 2 are based on the number
+of persons identified with the digitiser and 'crowd patch' methods from
+photographs whilst that for Row 1 is a value assumed on the basis of tests
+made at RLSD.
+
+5.2     NUMBER OF PERSONS IN 'PENS' 3 AND 4 OBTAINED FROM PHOTOGRAPH MP1A-14
+
+Table 2 shows the number   of persons in  'pens' 3and 4 obtainedby using the
+automatic counting facility of the CAD    system,after they had been identified
+on photograph MP1A-14, using the digitising method.
+
+It was extremely difficult to differentiate between individual heads on
+photograph MP1A-14 and only those heads that could be definitely identified
+were digitised. I consider this to be the reason for obtaining a count of 678
+persons in 'pen' 3 from photograph MP1A-14, a number which is low compared to
+the 1408 persons counted from photographs PR1/7A and PR1/8A and to my
+preferred estimate of 1576 persons.
+
+It is my opinion that the counts of 678 persons in 'pen' 3 and 821 persons in
+'pen' 4 should be regarded as being unrealistically low. It is also my
+opinion that I obtained a much more reliable assessment of the number of
+persons in 'pen' 3 from the counts and estimate based on photographs PR1/7A and
+PR1/8A.
+
+Whilst the above figures cannot be used as a total count for the 'pens' I
+believe they can be used to compare crowd densities. The ground areas of
+'pens' 3 and 4 are very similar (see table 1) and I consider that the counts
+obtained suggest that the crowd packing densities in 'pens' 3 and 4 were also
+similar. The larger count in 'pen' 4 can be partially attributed to the angle
+and position from which the photograph was taken, which enabled easier
+identification of individual heads in 'pen' 4 than in 'pen' 3.
+
+5.3    NUMBER OF PERSONS WITHIN A SAMPLE COLUMNAR AREA OF 'PEN' 2
+
+A total of 150 persons occupied a sample columnar area taken from the front
+boundary wall to the rear boundary wall of 'pen' 2. The corresponding crowd
+packing density was 5.0 persons/sq m.
+
+5.4    COMPARISON OF THE NUMBER OF PERSONS IN 'PENS' 3 AND 4
+
+Table 3 summarizes the number of persons identified within different areas of
+the same size at four locations in each 'pen'. Although the numbers of persons
+should not be regarded as absolute values, because of the difficulty in clear
+identification, it is my opinion that they do serve to compare the crowd
+packing densities in 'pens' 3 and 4.
+
+Making allowance for the difficulty in identifying persons, I consider the
+differences between the numbers obtained in each of the four comparisons to be
+small. Additionally, there is no distinct bias to suggest an appreciable
+difference between the crowd packing densities in 'pens' 3 and 4; this is
+confirmed by the close agreement obtained between the average values of the
+four sample counts made for each 'pen'.
+
+6     SUMMARY AND CONCLUSIONS
+
+6.1 I used photographs supplied by West Midlands Police, together with a
+drawing prepared by Ralph Brade & Associates, as the basis for my assessment
+of the number of persons in parts of the West Terrace of Sheffield Wednesday
+Football Club's Hillsborough Stadium. I used the facilities provided by a
+computer-aided draughting system to assist in identifying and counting the
+number of persons within 'pens' on the West Terrace.
+
+6.2 In making my assessment I assumed that a crowd packing density in one
+part of 'pen' 3 was reproduced in another, adjacent part of it. Additionally, I
+was unable to obtain an acceptably accurate count of the persons between the
+front boundary wall and the nearest line of crush barriers in 'pen' 3 by the
+direct identification of heads on photographs. I therefore estimated the
+number of persons in this area of 'pen' 3 from considerations of the crowd
+packing densities in other areas of the 'pen', together with results from an
+investigation of packing densities made on RLSD's premises. It is my opinion,
+based on a study of photographs of 'pens' 3 and 4, that my assumption and
+estimation were justified.
+
+6.3 My best assessment of the number of persons within 'pen' 3 is that 1576
+persons were present at 15.03 hours on 15 April 1989. It is my opinion that
+1576 persons is unlikely to be an overestimate of the true number. It
+represents an average crowd packing density in 'pen' 3 of 8.4 persons/sq m,
+which exceeds the maximum value of 5.4 persons/sq m recommended in "Guide To
+Safety At Sports Grounds" (ref 1) by 56%
+
+6.4     The crowd packing density within 'pen' 3 increased between the rear
+boundary wall and the line of crush barriers nearest to the front boundary
+wall. My lowest assessment of the crowd packing density in 'pen' 3 had an
+average value of 7.5 persons/sq m, this occurring in the area between the rear
+boundary wall and the rearmost line of crush barriers. The highest crowd
+packing density that I was able to assess directly had an average value of
+8.1 persons/sq m, and this occurred in the area between the line of crush
+barriers nearest the pitch and the next line of crush barriers. These crowd
+packing densities exceed the maximum value recommended in "Guide To Safety At
+Sports Grounds" by 39% and 50% respectively.
+
+6.5 I assessed the average crowd packing density in 'pen' 2 at 15.03 hours to
+be of the order of 5 persons/sq m.
+
+6.6 I was unable to assess the number of persons in 'pen' 4 by a direct
+counting method and I used a technique that compared the packing densities in
+'pen' 4 with those in 'pen' 3. This comparison has caused me to conclude that at
+approximately 15.00 hours the packing densities in 'pens' 3 and 4 were nominally
+the same.
+Table 1     Number of Dersons in 'Den' 3 and their packing densities at
+            15.03 hours on 15 ADril 1989. based on photographs PR1/7A and
+            PR1/8A
+
+Row No                         Number of persons    Crowd packing density
+                                                    (persons/sq m)
+
+4 (Rear)                       268                  7.5
+(Fig 8)
+
+3                              382                  7.6
+(Fig 7)
+
+2                              409                  8.1
+(Fig 6)
+
+1 (Front)                      517                 10.0 (assumed)
+
+                           1576 total               8.4 mean value
+
+
+Table 2     Number of persons in 'pens' 3 and 4 and their packing densiHp.s
+            on 15 April 1989. based on photogranh MP1A-14
+
+'pen' No                   Number of persons       Area (sq m)
+
+
+'pen' 3                        678                  188
+(Fig 2)
+
+'pen' 4                     821                     192
+(Fig 3)
+                          1499 (total)              380 (total)
+
+
+Table 3    Comparison of number of persons within sample areas of the*
+           same size in 'pens' 3 and 4
+
+                          Number of persons within a sample
+                          area of the same size (see Fig 10)
+
+                           'pen' 3                  'pen' 4
+
+First comparison          44                       56
+
+Second comparison         56                       49
+
+Third comparison          45                       51
+
+Fourth comparison         50                       41
+
+Mean comparison           48.75                    49.25
+REFERENCES
+
+1   Guide to Safety at Sports Grounds (1986)
+    HMSO
+    ISBN 0 11 340840 4
+         DIGITISED DRAWING OF PHOTOGRAPHS PR1-7A & PR1-8A
+
+
+
+
+                                                            PEN
+
+
+
+
+P EN 2
+
+
+
+
+                       HEADCOUNT   -   1419
+                      PHOTOGRAPHS TAKEN 15.03
+
+
+
+
+                                                                    FIG 1
+                                                                         BASED ON
+                                                                  HLSD SHT FR178A/FP1131
+          DIGITISED DRAWING OF PHOTOGRAPH MP1A-14
+     SHOWING RAISED 1ST BARRIER & PEN DIVIDING FENCES
+
+
+                              OCCUPANTS OF PEN 3 SHOWN
+
+
+
+
+                                                             PEN
+
+        PEN                   sv \          **•
+Op
+
+
+              •*C*w •• *4** *v* *•* •y
+                                     \ *»v*•**• «• *
+                                             •*,vi
+                                                    *.*v
+                                                   •*•/
+                                                    »*•t
+              il,*V#‘
+                l* •        •-»** l • •
+                                      %*^5;5rn
+                                            1 * H!*♦***•
+                                                       1           PEN 4
+              i ^ X * •* * ^vrW*. \               J
+
+
+
+
+                                                                           o
+
+
+
+
+                                  HEADCOUNT                678
+
+                              PHOTOGRAPHS TAKEN 14.52
+
+
+
+
+                                                                                 FIG 2
+                                                                                      BASED ON
+                                                                               KLSD SHT MP114E/FP1131
+    DIGITISED DRAWING OF PHOTOGRAPH MP1A-14
+SHOWING RAISED 1ST BARRIER & PEN DIVIDING FENCES
+
+
+                OCCUPANTS OF PEN 4 SHOWN
+ (NB   ESTIMATED CROWD - 84 OCCUPANTS - SHOWN HATCHED)
+
+
+
+
+                                                         PEN 4
+   PEN 2
+                       PEN 3
+                                          *****
+
+
+
+
+                 HEADCOUNT       821
+
+                PHOTOGRAPHS TAKEN 14.52
+
+
+
+
+                                                                   FIG 3
+                                                                        BASED ON
+                                                                 HLSD SHT MF114F/FP1131
+    DIGITISED DRAWING OF PHOTOGRAPHS PR1-7A & PR1-8A
+               OCCUPANTS OF PEN 2 DELETED
+
+
+
+
+                                              • • ••
+
+
+
+
+                                                       «•   •   ••
+
+
+
+
+2
+
+
+
+
+                   HEADCOUNT   -   1074
+                  PHOTOGRAPHS TAKEN 15.03
+
+
+
+
+                                                                       FIG 4
+                                                                            BASED ON
+                                                                     RLSD SHT PR178B/PP1131
+            DIGITISED DRAWING OF PHOTOGRAPHS PR1-7A & PR1-8A
+                             SUPERIMPOSED ON
+DIGITISED DRAWING OF PHOTOGRAPHS PR10A-2 TO PR10A-5, SCALED ETC TO MATCH
+
+
+                             OCCUPANTS OF PEN 3 SHOWN
+             (NB   ESTIMATED CROWD - 334 OCCUPANTS - SHOWN HATCHED)
+
+
+
+
+                             HEADCOUNT   -    1408
+
+                            PHOTOGRAPHS TAKEN 15.03
+
+
+
+
+                                                                            FIG 5
+                                                                                 based on
+                                                                           KLSD SHT PEN3/FP1131
+            DIGITISED DRAWING OF PHOTOGRAPHS PR1-7A Sc PR1-8A
+                             SUPERIMPOSED ON
+DIGITISED DRAWING OF PHOTOGRAPHS PR10A-2 TO PR10A-5, SCALED ETC TO MATCH
+
+                                      PEN 3
+                          OCCUPANTS OF ROW 2 ONLY SHOWN
+             (NB   ESTIMATED CROWD - 118 OCCUPANTS - SHOWN HATCHED)
+                                  PERIMETER OF i=Hl-7A/FRl-8A
+
+
+
+
+                                                                           PEN 4
+                                                    PEN 3
+                                                                           -■n
+
+
+
+
+PEN 2
+
+
+
+
+                              HEADCOUNT           -        409
+
+                            PHOTOGRAPHS TAKEN 15.03
+
+
+
+
+                                                                              FIG 6
+                                                                                   BASED ON
+                                                                            RLSD SHT FR178E/PP1131
+            DIGITISED DRAWING OF PHOTOGRAPHS PR1-7A Sc PR1-8A
+                             SUPERIMPOSED ON
+DIGITISED DRAWING OF PHOTOGRAPHS PR10A-2 TO PR10A-5, SCALED ETC TO MATCH
+
+                                       PEN 3
+                           OCCUPANTS OF ROW 3 ONLY SHOWN
+              (NB   ESTIMATED CROWD - 60 OCCUPANTS - SHOWN HATCHED)
+                                  PERIMETER OF PHI—7A/FR1-6A
+
+
+
+
+                                                                           PEN 4
+
+
+                                                               PEN 3
+
+
+
+
+ PEN 2
+
+
+
+
+                              HEADCOUNT           -       382
+
+                             PHOTOGRAPHS TAKEN 15.03
+
+
+
+
+                                                                              FIG 7
+                                                                                   BASED ON
+                                                                            RLSD SET PR178D/FP1131
+                                DIGITISED DRAWING OF PHOTOGRAPHS PR1-7A & PR1-8A
+                                                 SUPERIMPOSED ON
+                    DIGITISED DRAWING OF PHOTOGRAPHS PR10A-2 TO PR10A-5, SCALED ETC TO MATCH
+
+                                                     PEN 3
+                                         OCCUPANTS OF ROW 4 ONLY SHOWN
+
+                                                 PERIMETER OP FH1-7A/FR1-6A
+
+
+
+
+                                                                              • • ••
+
+
+
+
+                                   r '                                                            PEN 4
+                                                                                             T"
+                                                                                       r "
+                                                                                                  - -■n
+                                                                              PEN 3
+
+        - - 1
+r ~ ~
+
+                PEN 2
+
+
+
+
+                                             HEADCOUNT           -       268
+
+                                            PHOTOGRAPHS TAKEN 15.03
+
+
+
+
+                                                                                                          FIG 8
+                                                                                                           BASED ON
+                                                                                                    RLSD SET ER178C/PP113
+                    DIGITISED DRAWING OF PHOTOGRAPHS PR1-7A Sc PR1-8A
+                                     SUPERIMPOSED ON
+        DIGITISED DRAWING OF PHOTOGRAPHS PR1QA-2 TO PR10A-5, SCALED ETC TO MATCH
+
+                                            PEN 2
+                          OCCUPANTS OF FRONT TO BACK SLICE AS SHOWN
+
+                                        PERIMETER OF FBI—7A/FR1—BA
+
+
+
+
+                                                     -' 1   '
+
+
+
+
+                                                                                   r '   PEN 4
+                                                                      - -1
+                                                                             PEN
+
+
+
+
+PEN 2
+
+
+
+
+                                    HEADCOUNT          -        150
+
+                                  PHOTOGRAPHS TAKEN 15.03
+
+
+
+
+                                                                                             FIG 9
+                                                                                                  BASED ON
+                                                                                           HLSD SET FE178F/FP1131
+     DIGITISED DRAWINGS OF PHOTOGRAPHS 148.3
+     COMPARING CROWD DENSITIES IN PENS 3 & 4
+
+
+                                                   HATCHED AREA HEADCOUNT
+It
+                                                         PEN 3 - 4 4
+                                                         PEN 4    -    56
+
+
+
+
+                                                        PEN 3 - 5 6
+                                                        PEN 4 - 4 9
+
+
+
+
+                                                        PEN 3 - 4 5
+                                                        PEN 4 - 5 1
+
+
+
+
+                                                        PEN 3 - 5 0
+                                                        PEN 4 - 4 1
+
+
+
+                                               AVERAGE HATCHED AREA COUNTS
+
+                                                      PEN 3   -       48.75
+                                                      PEN 4   -       49.25
+                                                                               F I G 10
+                                                                                     BASED ON
+                                                                              KLSD SET P1483E/FF1131
+

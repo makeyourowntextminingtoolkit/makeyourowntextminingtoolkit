@@ -1,0 +1,848 @@
+ ' -51 MAR ’92 14:32   FROM S .Y .P .ECCLESF IELD                     PAGE .002
+ncident    102   05-03-92   QP931        Screen print for rerminal £5 - Plus code ■►Ml
+
+
+      )      DISPLAY MISCELLANEOUS INFORMATION                          SCREEN 19.2
+
+ETAILS FOR INCIDENT 202    OPERATION JUDICIAL                           LIVE
+
+NOMINALS          13315     SEQUENCES              £2    MESSAGES             2205
+VEHICLES             30     EVENTS              10633    REPORTS   .*          109
+STREETS            7579     OTHER NAMES           316    TELEXES                 e
+HOUSES            10021     ACTIONS              8678    OTHER DOCUMENTS      397D
+TELEPHONES        10505     STATEMENTS *         3907    QUESTIONNAIRES       7975
+CATEGORIES          844     P D F ’S    *          21    * COUNTS EXCLUDE SUFFIXES
+
+UNIDENT VEHICLES CREATED             7       STATUS DATABASE:            CREATED
+UNlD&NiT STREETS CREATED           266       HIGH PRIORITY ACTION:    NO
+                                             HPA TERMINALS LOG'D QNs 25
+-'STEM WIDE DETAILS
+
+ STATUS UPDATE PROGRAM;          NOT IN PROGRESS
+DOCUMENT PRINT PROGRAMS          NOT XN PROGRESS
+ LAST STATUS SAVE:               1992/03/04 1909:59.£17
+LAST STATUS RESTORE:             1991/Q6/25 1514:40.469
+AISK NAMESt                      T X T 1-HOLMES TXT2=J0URNL ST AT =D8 ASE2 CONC-DBAStS
+hJM-MES RELEASE;                 4.2 REVISION D
+                                          tfitSiH
+                                                       ^
+                                                           l
+                                                           Mk                                         mmm
+
+                                                                                                                          sg.SMg
+                                                                                                                          M®**i
+                                                                                                                         WM:
+                                                                                                                           0Wi
+
+
+                                                           MMsMI                        „»>w.,rK*,-.:~*   .
+
+
+
+
+                                                                                                      liStSi
+
+
+
+
+                                                                           »^s?gsiea^                          8ft#JtI
+
+
+
+
+             * gmygjt
+■J' ’■P^BP^jPr^ * *w
+
+
+«§&S®JSS%& ffijMt
+PlflBLIC
+
+y,   & 4a
+wmwm-w     flfc*li£A W
+       wW. rflllf'   ili^rit^ri
+                       wfPw f
+                            -*?
+
+
+
+
+■
+1.1&
+   1#g^f
+    11 iiPMfglglgl
+                 «l
+                  ip
+                   iW
+                    i^
+                     »# %AJ| I
+                       ^TTy’   JgrB Vft
+                             TumnT       M wS' #W T|
+                                    *1|P iT:
+
+#
+O^PB
+   iyfMelWwlMB
+             ME® «
+                 -*
+                  ~■'ifflw IPPWIW
+                        ^           *§S§hP*
+                        • Min
+                            ISfe^^ll■ *
+                            tre ffM
+
+LETTER REOUHMEB                           Y/K                      y »■-
+ W est M idlan ds P o lic e           q u e e n s r o a d p o l ic e s t a t i o n
+                                      QUEENS ROAD
+                                      ASTON
+                                      BIRMINGHAM B6 7ND
+                                      Tel. (021) 32 2 6 0 0 0 /6 0 1 0
+               WITH COMPLIMENTS
+
+
+
+
+ Your R e f_______________________     Our Ref
+□ □□
+
+
+
+       DOCUMENTS AS REQUESTED
+
+       REPORT FOR YOUR INFORMATION AND ATTENTION
+
+                   A^E. A g .        \ C'ArrvJ               ryjra________
+                                                                         5c Mc<ir
+       1 Vs|fu^_                                     !o
+C A T E G O R IS A T IO N . SEQUENCE OF EVENTS
+AND USE OF THE N O T E P A D .
+
+
+
+ EVERAL MAIN LINES OF INQUIRY HAVE BEEN IDENTIFIED AND IN
+ORDER TO STRUCTURE THE INFORMATION RECEIVED AND TO
+FACILITATE EASIER RETRIEVAL A NUMBER OF CATEGORY
+HIERARCHIES HAVE BEEN IDENTIFIED AND SET UP ON THE SYSTEM.
+
+NOMINAL RECORDS CREATED FROM INCOMING DOCUMENTATION
+WILL BE LINKED TO APPROPRIATE CATEGORIES.
+
+THE MAIN CATEGORY TITLES ARE;
+
+1) POLICE OFFICERS AT THE MATCH
+
+ON DUTY -     SOUTH YORKSHIRE
+              MERSEYSIDE
+              NOTTINGHAMSHIRE
+              SPECIAL CONSTABLES
+
+
+OFF DUTY -   MERSEYSIDE
+             NOTTINGHAMSHIRE
+             SOUTH YORKSHIRE
+             OTHER FORCES
+
+
+2 ) STANDS
+
+SPION KOP
+NORTH STAND
+SOUTH STAND     SEATED
+                STANDING
+WEST STAND      SEATED
+                STANDING
+                PENS 1 & 2
+              PENS 5-7
+              PENS 3
+              PENS 4
+              no in PFFTrppjrpc
+                       1—li. *i~di- 4 A, B, C, D, E, F, G, H, f, k, L, M,
+                                     T‘,t n   r. r.
+                                     i-4,r ,-j, r*.
+                                              j, 4 ,   d. /, 5
+                                      (1 28 GRID REFERENCES)
+
+LEPPINGS LANE TURNSTILES
+GYMNASIUM
+TUNNEL
+GATE C
+WALL BY GATE C
+
+LICENSED PREMISES
+SUPERMARKETS
+SHOPS
+OFF LICENCES
+
+MEDICAL
+DOCTORS
+POLICE SURGEONS
+SURGEONS
+NURSES
+PATHOLOGISTS
+HOSPITALS
+MORTUARY
+
+
+EXPERT WITNESSES
+FORENSIC SCIENTISTS
+SOCO
+STRUCTURAL ENGINEERS
+SAFETY ENGINEERS AND CONSULTANTS
+
+
+
+
+                                                                            4
+FOOTBALL CLUBS
+LIVERPOOL
+NOTTINGHAM POREST
+
+FOOTBALL ASSOCIATION
+FOOTBALL TRUST
+
+LOCAL RESIDENTS
+
+
+EMERGENCY SERVICES
+AMBULANCE
+FIRE BRIGADE
+ST JOHNS AMBULANCE
+
+
+GROUND STAFF
+TURNSTILE OPERATORS
+STEWARDS
+OTHER GROUND STAFF
+
+PUBLIC BODIES
+HEALTH/SAFETY EXECUTIVE
+
+PRESS
+MEDIA
+
+VISUAL EVIDENCE - VIDEOS
+                  PHOTOGRAPHS
+
+FAMILIES
+PARTIES
+f'^DOT     TDC
+w ‘ i W \ J i. *w‘
+
+
+
+
+DECEASED (95)
+INJURED (200+)
+
+RECOGNITION
+BRAVERY ACTS
+LETTERS 0r APPRECIATION
+AWARDS
+ADVERSE COMMENTS
+COMPLAINTS AGAINST THE POLICE
+
+LEPPINGS LANE
+
+VIPs - CHIEF SUPERINTENDENT BAKER'S TEAM
+
+
+LETTERS FOR - REPLY
+
+IIC
+LETTERS THROUGH POST
+
+
+SUB-CUTS
+
+SHEFFIELD WEDNESDAY FOOTBALL CLUB (SWFC), WHICH MAY BE
+REGARDED AS THE GLOBAL SCENE, WILL BE SUB-CUT I.E.
+
+SWFC
+SUB-INDEX POLICE ON DUTY
+
+                                                         6
+0   SUB-INDEX POLICE OFF DUTY
+    SUB-INDEX GROUND STAFF
+    SUB-INDEX STANDS
+
+
+    SENIOR SOUTH YORKSHIRE POLICE OFFICERS
+
+    ALCOHOL RELATED OCCURRENCES
+
+    DISORDER RELATED OCCURRENCES
+
+    uFF
+
+
+    CATEGQRV TEMPLATE
+
+    TO ASSIST THE RECEIVER TO IDENTIFY INDEXERS TO INDEX THOSE
+    DOCUMENTS REQUIRING MINIMAL INDEXING A CATEGORY TEM
+    PLATE HAS BEEN PREPARED.
+
+    ONLY THOSE CATEGORIES TICKED BY THE RECEIVER WILL BE
+    INDEXED.
+
+
+    SEQUENCE OF EVENTS
+
+    THE FOLLOWING SEQUENCES OF EVENTS HAVE BEEN SET UP TO
+    RECORD TIME, DATES AND EVENTS
+
+
+    PENS I & 2
+
+    PENS 5-7
+
+    PEN 3
+
+    PEN 4
+
+
+                                                                 7
+LEPPINGS LANE TURNSTILES
+
+'T TMTTTTT
+
+
+
+GATE C
+
+ALCOHOL RELATED OCCURRENCES
+
+DISORDER RELATED OCCURRENCES
+
+CROWD SURGES INSIDE GROUND - KICK OFF
+                             BALL HITS CROSSBAR
+                             MATCH STOPPED
+
+OUTSIDE OROJ fND -             GATE OPENED (EJECT)
+                                           (CROWD IN)
+
+COACH PARKS
+
+RAILWAY STATION
+
+LEPPINGS LANE
+
+SENIOR SOUTH YORKS POLICE OFFICERS ON DUTY
+
+DECEASED
+
+INJURED
+
+DEPLOYMENT OF POLICE HORSES
+
+
+EXPANSION
+
+THESE CATEGORIES AND SEQUENCES OF EVENTS ARE THOSE
+IDENTIFIED AS OF IMMEDIATE IMPORTANCE, AS THE INQUIRY
+PROGRESSES, OTHERS WILL BE IDENTIFIED AND SET UP.
+
+
+                                                        8
+NOTEPAD f+IW)
+
+TO IDENTIFY MATERIAL AND NON-MATERIAL QUESTIGNMAI RES,
+STATEMENTS AMD OTHER DOCUMENTS, EXTENSIVE USE W ill BE*
+MADE OF (+IN) NOTEPAD FACILITY
+
+THE POLLOWNG UNIQUE CODINGS WILL BE USED TO LABEL SUCH
+DOCUMENTS IN TERMS OF THEIR RELEVANCE
+
+
+LABEL                              MEAN1NO
+
++ ti . \ ro iT y                   INSIDE AND OUTSIDE THE GROUND
+                                   M \TERI\L
+-+*INOUTX-                         INSIDE AND OUTSIDE THE GROUNP
+                                   NON MATERIAL
+                                   INSIDE THE GROUND MATERIAL
+
+                                   INSIDE THE GROUND
+                                   NON-MATERIAL
++**OUTY+*                          OUTSIDE THE GROUND MATERIAL
+
+*+*OUTX*+~                         OUTSIDE THE GROUND
+                                   NON-MATERIAL
+*-*DECY**‘                         DECEASED MATERIAL
+
+* + "t DECX*^ +                    DECEASED NON-MATERIAL
+
+                                   INJURED MATERIAL
+
+                                   INJURED. NON-MATERIAL
+
+***POLYSY-**                      POLICE SOUTH YORKSHIRE
+                                  MATERIAL
+~*PQLYMS~-                        POLICE MERSEYSIDE, MATERIAL
+
+***POLYNC~*                       POLICE NOTTS, MATERIAL
+
+***POLXSY**+                      POLICE, SOUTH YORKS.
+                                  NON-MATERIAL
++**P 0LXMS* * *                   POLICE. MERSEYSIDE,
+                                  NON-MATERIAL
+* +*POLXNC**+                     POLICE, NOTTS NON-MATERIAL
+
+***POLYOT***                      POLICE, OTHER MATERIAL
+
+’ ++PULXOT* * *                   POLICE. OTHER, NON-MATERIAL
+
+
+
+
+                   oJL-i .
+                                                                   9
+GROUP 2
+
+THE QUESTIONNAIRE WILL BE REGISTERED. CROSS REFERENCED
+AND TYPED.
+
+A CATEGORY TEM PLATE WILL BE ATTACHED BY THE RECEIVER,
+INDICATING ANY PARTIAL INDEXING REQUIRED
+
+THE NOMINAL WILL BE LINKED TO THOSE IDENTIFIED CATEGORIES.
+
+A STATEMENT WILL BE REGISTERED AND CROSS REFERENCED
+
+
+GROUP 3
+
+THE QUESTIONNAIRE OR OTHER DOCUMENT WILL BE REGISTERED
+AND CROSS REFERENCED.
+
+THE NOMINAL WILL BE LINKED TO THE APPROPRIATE CATEGORY
+OF'LETTERS FOR REPLY'.
+
+
+GROUP 4
+
+THE QUESTIONNAIRE MAY BE REGISTERED AND CROSS
+REFERENCED, THE SITUATION WILL BE MONITORED IN THE LIGHT OF
+THE LOAD ON THE SYSTEM.
+
+
+
+INCIDENT ROOM FUNCTI ONALI TY
+
+LIVERPOOL
+                                                                          COMPLAINTS PROCEDURES.
+
+
+Folders.
+
+                                     ■'wo '! L : . ; j e ! ' s I-.:.;.! b e '<s=ct o v " i h e C o m p l a i n t s S e c t . i o n =                 The
+     ; . " i ,■■   w i 1 .■ b e            \     cooed to              -i o n t i ■     ourpose ,               h R E D hOLDfc-R i s thE?
+i Ie : y .1. e y l a n d ,.v ,1. i 1    o n ■ i. I e o l ! O r" ! q .5 5": a. 1 C h : i C L ; m i j n t d t i n n i n r ' i ; ! J t ; i o n t D 3
+r- (Vir;}         1        O B L U E r ULDfcR i.               t p O l; ii     1   U i..- O p )/      ■ : i ; ''   V'' i- Wi t 1 C Cj Vi t a .1 I"'!
+i:iho tsK: f a t . c o p i e s o f o r i a i n o L d o c i - i i e n t s ,
+
+                             In a d d i t i o n a Y E L L O W F O L D E R w i l l b e r e t a i n e d in t h e   Filing
+koch   :,; it w i l l c o n t a i n f i 1 ad    p h o t o s t a t copies: of d o c u m e n t s w h i c h h a v e passed
+t h r o u g h the n o r m a l I n c i d e n t R o o m Procediirss.           T h i s i t e m is d e a l t in d e t a i l
+u n d e r the s u b h e a d i n g of F i l i n g R o o m / C l e r k s , .
+
+                              In t h e c a s e of                                 R o t i.ce Of f i i::.ers , where; a P r o f i 1 e F o l d e r                                                        .is
+held       by t n e O f f i c e M a n a g e r this                                will becom e the            basis for the wo r k i n g
+Cop'--'    F o 1d e r
+
+Numbering and Document. Identification.
+
+                              D „ I . Per'fine a n d 0 ,F .,S „ A p p l e t o n w i l l b e r e s p o n s i b l e f o r t h e
+ii. f,:j i ni'mbf^'inq       s y s t e m for c o m o l ai n is. a n d w i l l m o n i t o r t h e W h i t e b o a r d in
+ t.he C o m p l a i n t s S e c t i o n t o r r a r a P i n „
+
+                                           •j>-) i- c e i o f of a l e t t e r of c o m p l a i n t a n d / o r t h e                                                               taking              of a
+statement                    of c o m p l a i n t , t h e     f o l l o w i n g pi o c e d u r e s w i l l a p p l y ; .
+
+                                                i: T h e n e a t        c o m p 1 a i n ,!'n u m b e r w i l l b e i s s u e d ,
+                                              -; i ) Oriqirsfi          Dccuiiien t=: w i 11 be p h o t o c o p i e d (2 c o p i e s ) ,
+                                             ■ii)     An O r ic in al, c; f o r k i n g C o p y a n d a F i l i n g R o o m              Folder
+                                                     w i.1 1 b e m a d e        up.
+                                                 ,C i o n tact w i l l be m a d e w i t h w D C                             Index S u p e r - i s c y ,
+                                                     w h o wi 1 - c r e a t e t h e C a t e g o r y 'Title l o r t h a t C o m p l a i n t
+                                                      •         u m b e ,, a n d r eq i s ~~e r t he F o J.d e r ,
+                                                v i Cue O o m o l a i r h       N u m b e r a n d the F o l d e r O t h e r D o c u m e n t
+                                                     ■gumber m 1.j. b e w r i t t e n c l e a r l y o n a ll t h r e e F o l d e r s ,
+                                                 I * A d o ru me n t = li.n w i l l b e a t t a c h e d t o o n e of t h e p h o t o s t a t
+                                                     coo.ues ,, uiu ::fi f o o e t h e r w i t h any c o m p l e t e d           A C T I O N will
+                                                     b iv;- p as s e e d to t h e R E C E I V E R ,
+
+Filing          Hooiii/flerks
+
+                                                   -in;... ,-■.■. p u ■...,, ...omplaint        o l d e r w i l l r e m a i n in t h e F i l i n g R o o m ,
+                        a !.             toe       o h o to s ra*             a, i p p : i a i n L d o c u m e n t a t i on , w i l l b e f i l e d in
+            u iie t:                ro c      -A"'- !. t o r
+
+                                                   ■‘,1 ,     in"RC'i :w" t. f n n .=e r r- w.i 1 ; be m o l d t o g e t h e r                                             in t h e F i l i n g
+                n T;,;;: ,                      ,,-u 1 ;. rw; p pn ed w- the norma.!, r i l i n g p o s i Cion                                                             ho s u b s t i t u t e
+            -i--'.-'-   ;•   1; ' U ;'   !      : VV ,         v;-, r0 ':0 n- '   .i   i l i r y -ii- : "   W .1   i.   :   U   ,   -;;;u.i i i . i t ’ e   f .U r v   ,,..-V U ;: U - .   O A. ; u..
+            -,ui.;.o o                   m o or          a>'-b i""o        osun ml      -older              Cooument                        M u m her ,
+Actions.
+                                           Hi!        [n'/’s s t i o f l t i.nq            Ul f i c e r        oHi .
+                                                                                                                   1. be?          :.i>   on       :::SSi3 o
+    :t .i.t o : too' ov          ..it. ii! iii'    T.Ut. i tOJ     ii!           ; . :-   tit   i' O .P i      i             ::    iiOuUiS ' : t
+
+                                                                                                                                                    i!it     ii
+         oo.:>n *o             iO' the ;                  iioii sii-1i
+                                                                     .               to     t:oii d o p t          nooiiiS        and     H o im e s ,
+
+
+                       W h e n a a to temeok h a s keen taK.en,,                                                                    it ma ■/r e q u i r e read in g
+,::id itmr i<ion Up for F u r t n e u' set tors to to riis^d,                                                                       the 10 will road the
+id t.-i1iii iiii' .a iii it; -j i i v ;; ,-i-; ii ,t ; o i :,i; i ■ t; i t ii i:i i      ;i.i ,  a . iiii ; ; i'O  r-niii r .1 O o S iiO 13 0 t ii i;.. i;i O ii; O it iiii
+t e n                 1 j a i s e w i t h t iie F te c e i v e r s                7 h e R e t : e i v e ^ s w 1 1 3. r e s e a f ■r h t h e s y s t.e m
+in          reiiiD&c t o f             th o se         r eq u e ste d       a c t i o n s a n d m a r k up t h e               p h o to s t a t  copy
+of          th a t docum ent                    for      the A c tio n s            to  bo r a i s e d        by  tb s       Index      Section ,,
+
+                                     W h e r e t h e d o c u m e n t is t y p e d , t h e n t h e t y p e d c o p y a n d t h e
+marked           up    p h o t o s t a t c o p y will D o s t a p l e d t o g e t h e r and p a s s t h r o u g h the
+system           as    a s i n g l e document..
+
+Indexing Poi i c y .
+
+                             o h o r o the m a k e r of a s t a t e m e n t                                                  o f c o mp la i n t , is a l r e a d y
+i.n o w n to t he sts'fieo,, 0 ,0 .0 , H I C K S ? S P E A R ITT,, t h e n                                                   f o l l o w i n g the a b o v e action
+I,y t.h p I it) a i d tte c.ie .1o o ro, it ii w ; j. i. n o t r e r o a o a n d                                             m a r k o til u p 1 o r 1 n o e ’
+                                                                                                                                                             -u. n g d y
+4 hia it;t:atarnen t. Reader                         ,,
+
+
+
+
+                                   Where th e s t a t e m e n t     r e l a t e s      to                                    a New N o m i n a l , ,    n et     p r e v io u s !
+t. n ti) o n    t o   to te   system ,, tioen 1 o 1 ioitwittniij t r i e a c t i o i ' p a                                   oy ' t r ; e t t. a n o t h e   ; 1o ti it t t- o r ,,
+it     w i l l be p a sse d    to   th e St a teipsnt R eader                fo r  m arkinq up                                                      fo r    in d e x in g .       If
+f u r i i ■e A   t j o n 3 a r e J. d e r; t. :i f 1 e d ,, t h o I 0 o 1 3. J. b e c o n s i x 1 t. e d                                            b e f o r e s u <::: h a c: t i o n s
+arc,      marked         op     and               raised-,
+
+                                           "those          same           D rocetiu^es                o i l 1       apply          fo r    a l l     d o cu m en ta tio n
+w ro. ci i a r e       t ^ o o p t a .trdt,         ;;, ,t.,v .i 0 ; ■ ; ,
+
+
+Existing Complaints.
+
+                                    In the tarly day::: of the Inquiry,, a numoer                                                                          of C o m p l a i n t s
+               --,.-; ;■"■ ,;,i i.; . --- nuditi; t-'tio. ittiO a u U iii nor ii- ’ ii't-
+
+                                           Hi -     tirriun              i'ias      been        rti,o\ s e d       fo r   D SU      td o a c h e y      to   o b ta in
+d iii1;OOi '    ■i'       ;i sr imr. t h o s e k :; o t" :::: ,            on r P te '.p t           iO'; I h e >i:ioiiit.ttr'iort a t •>, o n
+idiiijiP .1.....1 r tda i.it r iii.   -, id!, h e m a d e d p a n d                    t h e p - o c > = c i ; . i r, 9;= o u i d i n s c i i n     t n i o
+iiiruOti;■■■'" 9 iip t ttiti ,, : h it t o ; ij o r tv'.i. t' ii o . . ' t p r } S " ;' ;*      f r o t s o c o m p j. a i n s            i . S t..o r e c o r d
+ too t.tot oi a i tot iii .-.i s b a n a a r d i s e d r t ., b o t n mo n t - a . i . io-: ai'i-ii itr- H o l m e s , ,
+
+7 aped          Interviews.
+
+                                 Th-e f Co, iio iin o;oi";ittoi i          .  r i.ioii:oi.i!oroa ”..o. j, i. appjo-' 'tiit t a p e d
+ i ,;a ,■ i 0 ’.-.;S „    T h e i..t5r,dtii.i !■■ of tooer! t.rdoi.r-,o.                ; i-j,t;i t■s u odtio ioaviod at'id
+r,roiiit-'itu ir.'i':o, rot. a t j n o           t " a n s c r i P !'5 -. rotttrds tov o'"- to r-.t ■;tiu,t ore,, w i. .1 b e
+           •
+                                      pM:J I'ipQche-y wi i 1 3 ;:.:r 35 t.he           'To pa L i b r a r i a n . Me will   record
+               1 ii;     kSe    H h ? ie?" :5        M-:o a ; r st caaay ot            tha? t s p e w i j.j p e t;rie Exh.i bi t
+■ o r -3   !-<HM I      be   iir o o r p-bi"! led P;-.   r.h*-- nSr'Tirf! of   3!n t e r v i ? w
+
+                                    T no Hoaoar!   rf i a v    j.e*- ip -a docu rie nt             sm:i w i l l   be o r o c s s s e d
+■;i’ ■'■Map    p p ,•    ob'i?" P o t h ia -iv-e laf'prh. s p = fpi p p o wi l:nj.n                Holmes*
+
+                            I ’ P ' ' - ' a r e h v o ooi.-ons in : - ? i 5 b o n 'I" o      a WorM-.-.l n o . C o p y of she
+Ta     ..To b u i l d ip p o o p           s a.ae q v s r ■ d p 3 ik is p r o p o s e d h nat a s e c o n d c o p y     of t h e
+T a p e is liach'-..     It i h e s e c o n d c o p y is usee:!:, as t h e w o r k i n g c o p y i t m a y r e d u c e
+hne rnH i q n o u s r s c o r d i n o a n d t r a c k i n g p r o c e d u r e s r e q u i r e d , w h e r e t h e r e is o n l y
+e r i :'“st or s i n g l e w o r k i n g c o p y of t h e t a p e .
+
+
+
+
+                                                              aHkiPMiPMbP
+#
+
+
+
+
+    14
+                               [01                 Y INTO
+                         N i l i SBC) R O U G H
+                      i GOT BAL L D I S A S T E R                                                                                   ACC (0 )
+                                                                                          —   ------------------------                   ■
+               BRISTOL
+                                    I.I.C.                                                               D/CHIEF SUPERINTENDENT FOSTER                                                                        BRISTOL
+                                                                                                                                                                                                                                   I.I.C.
+               FREEFONE
+                                    BIRMINGHAM                                                                                                                                                                FREEFONE
+               FACILITY                                                                                   D/CHIEF INSPECTOR LANCASTER                                                                                              BIRMINGHAM
+                                                                                                                                                                                                              FACILITY
+                                                                                                             (Holmes Incident Computer)
+                               SHEFFIELD                                                                                                T
+                                                                                                                                                                                                    LIVERPOOL                      OTHER
+                                                                                                    CHIEF SUPERINTENDENT PEMBERTON                                                                                                 AREAS
+                               SUPT TAYLOR                                                                                                                                                         SUPERINTENDENT
+                                           I------
+                                D/CH INSP ROSS                                                                                    D/CH INSP TOPE                                                   D/CH INSP WILLIAMS               CH INSP
+                                           I                                                                                                                                                                1
+                                                                                                                                                                                                            1
+                                    WITNESSES
+                                                                                                                                                                1----------
+                                                                                                                                                                                  1                       WITNESSES
+                                                                                                                                                                                                                                         1
+
+                                                                                  DECEASED                                                                                                                                       SPECTATORS
+                                                                                                                   VISUAL          SHEFFIELD           SO UTH                  SPECIAL
+                I-----          (----                   1----------
+                                                                          I           I                           EVIDENCE        W EDNESDAY         YORKSHIRE                INTERVIEW
+                                                                                                                                                                                                              1                  AT THE GAME
+
+      SPECTATORS             HOUSE             TRANSPORT               SECURITY   LOCATION                                 I        GROUND             POLICE                   TEAM                        FANS                         1
+      AT THE GAME           TO HOUSE                    I             OF GROUND       I                        GROUND                    I                   I                    I                           1                    WITNESSES
+                I               I                  RAIL/BTP               I       IDENTIFI­                     VIDEO                GROUND           MATCH                    CH SUPT                    COACHES                        1
+           POLICE             LOCAL                     I               INSP       CATION                    EXAMINATION              PLANS        ORGANISATION                   I                           1                      OUTSIDE
+          OFFICERS          RESIDENTS                                                                                      I             I                   I                                       HIRE VEHICLES                  LIVERPOOL
+                                                                          I           I                                                                                         SUPT
+                I               I
+                                                    LOCAL
+                                                    BUSES                SGT      PROPERTY                        TV VIDEOS        FGIT/TRUST       OPERATIONAL                                               I1                  OR SHEFFIELD
+                                                                                                                                                                                SUPT                                             i.e. NOTTS etc.
+         STEWARDS              OFF                                                                                         I                               ORDER
+                                                        I                 I           I                                                  1
+                                                                                                                                                                                SUPT
+                                                                                                                                                                                                      INJURED FANS
+                                                                                                                                                                                                                                         1
+                I           LICENCES
+                                                    TAXIS               PC's      PERSONAL                               POLICE
+                                                                                                                        GROUND                               1                                                1
+        TURNSTILE               I                       I                          EFFECTS                               VIDEOS
+                                                                                                                         SAFETY                        BRIEFING                                           MEDICAL
+                                                                                                                                                                                                                                       INSP
+                                                                                                                                                                                                                                         1
+        OPERATORS            PUBLIC                                                                             I     CERTIFICATION                  INTELL/INFO                                          EVIDENCE
+                                             TRAFFIC                                                                                                                                                                                   SGT
+               I             HOUSES
+                                           MOTORWAYS                                                       PHOTOGRAPHS>
+                                                                                                                              1
+                                                                                                                              1                            ii                                                 1                          1
+      PROGRAMME                 I                                                                               I       HISTORY                        HISTORY                                      LOCAL HOSPITALS
+        SELLERS             VENDORS                                                                                          i1                            ii                                                                           10
+                                                                                                                 H.O.SRDB
+               I                I                                                                               SANDRIDGE           FENCING          C O M M AND
+                                                                                                                                                                                          INSP    INSP      INSP      INSP      INSP
+          GROUND         SUPERMKTS/                                                                                               ALTERATIONS                1
+         OFFICIALS         SHOPS                                                                                                        1              COMMS
+                                                                                                                                                                                          / \
+                                                                                                                                                                                         PS PS
+                                                                                                                                                                                                   / \
+                                                                                                                                                                                                  PS PS
+                                                                                                                                                                                                             /V
+                                                                                                                                                                                                            PS PS
+                                                                                                                                                                                                                       / \
+                                                                                                                                                                                                                      PS PS
+                                                                                                                                                                                                                                / \
+                                                                                                                                                                                                                               PS PS
+               I                I                                                                 INSP
+                                                                                                                                       FIRE                  1
+      AMBULANCE          HOSPITALS                                                                                                   SERVICE
+      FIRE SERVICE         INJURED                                                    PS
+                                                                                              /              \ PS                       1
+                                                                                                                                                       MAJOR
+                                                                                                                                                     EMERGENCY
+                                                                                                                                                                                          10 10   10 10     10 10     10 10    10 10
+
+        ST JOHNS         (Police/Fans)                                                                                               LOCAL             PLANS
+                                                                                                                                   AUTHORITY                 1
+                                                                                      15
+                                                                                                                                    HEALTH &
+INSP          INSP   INSP                INSP                                                                                                       F.A. TICKET
+                                                                                                                                  SAFETY EXEC                                  LIVERPOOL ADMIN                      BIRMINGHAM ADMIN
+ /\ ) \ I \
+PS PS PS PS PS PS
+                                     /         \                                                                                        |
+                                                                                                                                                    ALLOCATION
+                                                                                                                                                                                  SDAO/FINANCE                          SDAO/FINANCE
+                                    PS             PS
+                                                                                                                                   LEGISLATION                                        SGT                            SGT/WELFARE OFFICER
+                                                                                                                                         ii                                   ACCOMMODATION OFFICER                  TRANSPORT MANAGER
+10 10 10 10 10 10                   10             10                                                                                                                                                                  COURIER SERVICE
+                                                                                                                                    FIRST AID
+                                                                                                                                    FACILITIES
+              SHEFFIELD ADMIN                                                                                                                      INSP.
+
+
+
+              •
+              PAO/FINANCE                                                                                                                      /
+                                                                                                                                             PS            PS
+                  SGT
+         ACCOMMODATION OFFICER                                                                                                               5              5
+ T .1 8 2 2                                                                                                                                                                                                            PHOTOTYPESET BY W EST MIDLANDS POLICE
+   .5, MAR ’92 14:33   FROM S. Y. P. ECCLESF IELH                      PAGE .004
+incident   106   05-03-92    OP931       Screen print for terminal 25 - Plus code +M3
+e*#** ♦Ate********#*#************************-****-
+              nTCDI A.V MISCELLANEOUS
+              DISPLAY   MTCI'tl 1 AMtAl |C? INFORMATION
+                                            thlfA6MATY /It.I                 SCREEN 19 2
+
+>ETAILS FOR INCIDENT 106        CRIMINAL INQUIRY DB                          LIVE
+ NOMINALS               112      SEQUENCES                10    MESSAGES                8
+ VEHICLES                 D      EVENTS                  167    REPORTS    *            0
+ STREETS                  2      OTHER NAMES               2    TELEXES                 O
+ HOUSES                   4      ACTIONS                  56    OTHER DOCUMENTS        44
+ TELEPHONES               2      STATEMENTS *             35    QUESTIONNAIRES          o
+ CATEGORIES              43      P D F ’S    *             O    * COUNTS EXCLUDE SUFFIXES
+ UNIDENT VEHICLES CREATED                   0        STATUS DATABASE:            CREATED
+ UNIDENT STREETS CREATtD                    0        HIGH PRIORITY ACTION:    NO
+                                                     HPA TERMINALS LOG'D ON: 25
+YSTEM WIDE DETAILS
+
+ STATUS UPDATE PROGRAM:                NOT IN PROGRESS
+ DOCUMENT PRINT PROGRAMS               NOT IN PROGRESS
+ LAST STATUS SAVE:                     1992/03/04 1909:59.817
+ LAST STATUS RESTORE:                  1991/06/25 1514 s4*0. 4-69
+ JUSK NAMES:                           TXT1=H0LMES TXY£=JOURNL STAT=DBASE2 C0NC=DBAS£3
+ .JLMES RELEASE:                       4.2 REVISION D
+  . S MAR ’92 14: 32  FROM S. V <P-. ECCLESF IELD                      PAGE .003
+Incident  105   05-03-92   0P931         Screen print for terminal 25 - Plus code +MI
+
+
+              DISPLAY MISCELLANEOUS INFORMATION                        SCREEN 19.2
+
+DETAILS FOR INCIDENT 105     HILLSBOROUGH INQUEST                      LIVE
+
+                      553    SEQUENCES               0   MESSAGES                27
+ NOMINALS                                                                         O
+                        0    EVENTS                  o   REPORTS    *
+ VEHICLES                                                                         0
+ STREETS               36     OTHER NAMES            6   TELEXES
+                       43    ACT IONS               10   OTHER DOCUMENTS        577
+ HOUSES                                                  QUESTIONNAIRES           0
+ TELEPHONES            25    STATEMENTS             12
+ CATEGORIES           24£    PDf- ’S                 O   * COUNTS EXCLUDE SUFF IXES
+
+  UNIDENT VEHICLES CREATED             0      STATUS DATABASE:            CREATED
+  UNIDENT STREETS CREATED              1      HIGH PRIORITY ACTION;    NO
+                                              HPA TERMINALS LOG'D ON: 25
+SYSTEM WIDE DETAILS
+
+  STATUS UPDATE PROGRAMS           NOT IN PROGRESS
+  DOCUMENT PRINT PROGRAM:          NOT IN PROGRESS
+  LAST STATUS SAVE:                1992/03/04 1909:59,217
+  LAST STATUS RESTORE:             1991/06/25 15145 40.469
+  0,1SK NAMES:                     TXT1=H0LME3 TXT2=J0URNL STA1=DBASE2 C0NC=DSASE3
+    *>LMES RELEASE:                4.2 REVISION D
+    Q U E S T I O N N A I R E S / S T A T E M E N T S P OI.ICY
+
+
+
+
+THE NATURE OF THE HILLSBOROUGH INQUIRY IS VERY DIFFERENT
+TO THAT OF A MAJOR CRIME INVESTIGATION
+
+IN ORDER TO ASSIST THE MAJOR LINES OF INTEREST AND TO
+CAPTURE, RELEVANT FACTS AND INFORMATION, A NUMBER OF
+QUESTIONNAIRES HAVE BEEN PREPARED
+
+DETECTIVE CHIEF SUPERINTENDENT FOSTER (APPROVED BY ACC,
+MR JONES) HAS SET LISTS OF CATEGORY AMD ACTION PRIORITIES.
+
+DOCUMEN7 ARY EVIDENCE IN THE FORM OF QUESTIONNAIRES,
+STATEMENTS ETC WILL BE PRIORITISED ACCORDINGLY
+
+THE QUESTIONNAIRE HAS BEEN PREPARED AND PRINTED IN A
+PRESENTABLE FORMAT AND MAY BE USED AS A DOCUMENT IN THE
+JUDICIAL PAPERS.
+
+THERE WILL BE OCCASIONS WHEN THE SAME OR SIMILAR
+INFORMATION IS CONTAINED IN MORE THAN ONE DOCUMENT TYPE,
+E.G. QUESTIONNAIRE AND A STATEMENT.
+
+IN THESE CIRCUMSTANCES TO INTRODUCE STANDARDISATION,
+THE QUESTIONNAIRE WILL BE THE INDEXED DOCUMENT AND THE
+INDEXING OF THE STATEMENT WILL BE RESTRICTED TO THOSE
+PARTS WHICH CONTAIN ADDITIONAL MATERIAL. WHERE A
+STATEMENT IS THE SOLE DOCUMENT (EVIDENCE REF DECEASED,
+INJURED), THEN THE STATEMENT WILL BE INDEXED
+
+THE INFORMATION CONTAINED IN THE QUESTIONNAIRES ETC, MAY
+BE SORTED INTO 4 MAIN GROUPS.
+GROUP (1 ) MATERIAL TO THE INQU IRY AND REQUIRING
+           FULL INDEXING.
+
+THESE QUESTIONNAIRES/STATEMENTS WILL CONTAIN FACTUAL
+INFORMATION DIRECTLY RELEVANT TO THE MAIN ASPECTS OF THE
+TMOT TTny
+iH V U lT i i .
+
+
+
+
+                  A LIVERPOOL SUPPORTER IN PEN 3
+                  A SOUTH YORKSHIRE POLICE OFFICER INVOLVED IN THE
+                  SURGE AT GATE 'C\
+                  AN ON DUTY MOUNTED POLICE OFFICER FROM
+                  NOTTINGHAMSHIRE.
+
+
+GR0UP(2) MATERIAL TO THE INQUIRY AND REQUIRING
+         MINIMAL INDEXING.
+
+
+THESE QUESTIONNAIRES/STATEMENTS WILL CONTAIN
+INFORMATION WHICH IS APPROPRIATE FOR CATEGORISATION
+BUT WHICH IS UNLIKELY TO BE INCLUDED IN THE DOCUMENT
+BUNDLE
+
+E.G.              A NOTTS FOREST SUPPORTER IN THE SPION KOP, WHO
+                  SAW VERY LITTLE
+
+
+
+
+GR0UP(3) NON-MATERIAL TO THE INQUIRY
+
+THE NATURE OF SUCH DOCUMENTS MAY BE DIVERSE. THE
+INFORMATION MAY HAVE BEEN VOLUNTEERED FROM
+WELL-MEANING MEMBERS OF THE PUBLIC E.G. AN OPINION ON
+SAFETY AT FOOTBALL MATCHES, AN OPINION ON THE POLICING OF
+FOOTBALL MATCHES.
+£   OROUPC4) WON-MATERIAL. NOTHING TO CONTRIBUTE
+
+
+
+    THE PERSON MAY HAVE BEEN SEEN FOR EXAMPLE, IN THE COURSE
+    OF HOUSE TO HOUSE ENQUIRIES AND HAS NOTHING TO
+    CONTRIBUTE.
+
+
+    GROUPINGS
+
+    THE UNDERLYING REASONING AND LIKELY ACTION IN RESPECT OF
+    THESE GROUPINGS IS AS FOLLOWS:
+
+
+    GROUP 1
+
+    A REPRESENTATIVE SELECTION WILL BE TAKEN TO SUPPORT THE
+    MAIN ASPECTS OF THE INQUIRY
+
+    E.G.      SHEFFIELD WEDNESDAY FOOTBALL CLUB
+              SOUTH YORKSHIRE POLICE - POLICING OF THE MATCH
+              FOOTBALL ASSOCIATION
+              FOOTBALL CLUBS
+              DECEASED AND INJURED - CORONERS REPORT
+              HEALTH AND SAFETY REGULATIONS
+              VISUAL EVIDENCE
+              FOOTBALL TRUST
+              PERSONS OF SPECIAL INTEREST
+
+
+    GROUP 2
+
+    THIS DOCUMENTATION WILL BE USED TO PROVIDE ADDITIONAL
+    STATISTICAL INFORMATION.
+
+    E.G.   HOW MANY PERSONS WERE SEEN IN PENS 1 & 2
+
+
+
+
+                                                               20
+

@@ -1,0 +1,682 @@
+                    MANAGEMENT IN CONFIDENCE
+
+                                               TD3/5A
+Mr A C Barrell, D/TD
+Mr A J Linehan, HMCIF
+
+
+
+HILLSBOROUGH
+
+
+In response to TD/FAID concern as to how this    incident had been
+handled in HSE (ie RLSD taking the lead), I visited Dr Alan Jones,
+D/SEL on 15.8.89 to discuss our unease.
+
+Please find attached a copy of my notes of this     meeting, which
+have since been agreed with Dr Jones,  together     with relevant
+Annexes.
+
+Further to my commentary in Para 6 of the notes,      Dr Jones has
+responded in regard to his 1investigations1 concerning the crowd
+density figures, and I include his comment as an Appendix to this
+minute.
+
+All in all, I think our points have now registered with RLSD, and
+we can look forward to improved cooperation in presenting,   what
+appears to be to the Inquiry Team, the HSE views.
+
+Notwithstanding this position, I would welcome any comments you
+may wish to make on the points covered in my discussion of
+15.8.89.
+
+
+
+
+P G JONES
+DCI(ENG)/TD
+
+18 August 1989
+                                                                               A   w >v q   *   \
+
+                                      Health &
+                                      Safety    K S -:                            IS.<*
+                                      Executive Te:-“ f ‘SSi'                  1oa"g 1989
+                                                    ieiex 54556 HS£ RlS G
+                                                    Facsimile C"42 "55722
+
+
+
+
+    Professor L Maunder                             v0...re^encc-
+    Dean of Faculty of Applied Science
+    Stephenson Building                                 ■■eierence   SMR/343/235/01
+    The University
+    NEWGASTLE-UPDN-TYNE                             De~              10 August 1989
+    NE1 7RCJ
+
+
+    Dear Professor Maunder
+
+    HUISBGKXGH DISASTER INQUIRY
+
+    N w that the Interim Report has been issued I would like to describe how the
+    details of HSE's contribution will be reported and invite you to consider
+    requirements for additional work.
+
+    It is my intention to produce a compilation report, similar in style and format
+    to the first HSE report, covering the following areas: testing of turnstiles;
+    metallurgical assessment of barrier 124A; strength of crush barrier
+    calculations; finite element stress analysis of barrier 124A; calculation of
+    crowd capacity in Pens 3 and 4; further crowd density estimates in Pens 3 and 4
+    (including the 1988 semi-final); noise level measurements.
+
+    A length of wrought iron tube, from barrier 129, will be tested to establish
+    the flow stress but, since the calculations explain adequately the collapse of
+    barrier 124A, it does not at this stage seem necessary to commit further
+    resources to the testing of a complete barrier. I would welcome your views on
+    this matter and on any further work which may be required from HSE in the
+    second phase of the Inquiry. For example, do you foresee any HSE involvement
+    in the revision of the Green Guide?
+
+    In our internal discussions, a number of relevant areas in which information
+    appears to be lacking have been identified. These include: the relationship
+    between crowd density and surges; stresses induced in crush barriers by crowd
+    pressure; the height of crush barriers; methods of testing crush barriers.
+    Staff in HSE could, if required, be involved in the discussion of these topics
+    and it may be appropriate for research to be commissioned by the Home Office.
+
+    I am now on leave until 29 August. Please contact                    or            if
+    any urgent matters arise before then.
+
+    Yours sincerely
+
+
+
+
+M   DR C E NICHOLSON
+"   Deputy Director - Safety Engineering laboratory 1
+
+    cc                  Home Office
+                      D/SEL
+IIJ3
+HILLSBOROUGH STADIUM DISASTER - INTERIM REPORT BY U T
+
+References to HSE/RLSD:
+
+Para 17: general thanks
+
+Para 138 & 142: calculations of capacity of pens 3 and 4 - implies
+strength of barriers did not meet Green Guide
+
+Para 179: crowd packing tests at SEL
+
+Para 202: turnstile entries, not many ticketless fans
+
+Para 240 & 243: corrosion of crush barriers
+
+
+Other refs of interest:
+
+Para 72: "gate 3 sprang open..."
+
+Para 111: at least five deaths in Pen 4
+
+Para 181: no density given for 1988 game
+
+Para 237: collapse of barrier 124A caused deaths
+
+
+
+
+Met & Mat Section
+9 August 1989
+I 5Z
+                                                                                              £)><Su |l£. U -
+                     WjL^Oo         O^7 A\s^-
+
+                                                                                                      .CC *
+
+
+
+
+                                                                               Mr   Hammer, DDG
+               7^     K*                      i j j ^                          Mr   Hodgkins, SPD
+                    .-^         *    r   s.                                    Mr   Eves, RPD
+       xy-*-                                                                   Mr   McQuaid, RLSD "
+                     v\/*                                                      Mr   Linehan, CIF
+       &s-
+             sJV* ^
+
+
+
+                                                                                                        m-
+
+      C c                                                                                               led
+                    *^V,
+
+
+
+                                                       <K.
+
+                    I f                       -7   ^              V
+                            t   |J—t_2-J»^v.
+
+OVERCROWDING - HILLSBOROUGH FOOTBALL GROUND TRAGEDY
+
+1.   You wrote on 19 April to             about       _ who has
+had to return to Sheffield City Council to help deal with the
+investigation at Hillsborough.  You copied the minute to Miss
+        who copied it to me and we would simply comment that we
+are sure HELA would like central approaches to continue in the
+local authority enforced sector and therefore for the secondments
+to APAU to continue.  We will wait and see whether 1     Z D can
+return to the APAU or someone else would need to be seconded.
+
+2.   But that is not my real reason for writing.
+
+3.   You ask at the end of your minute whether HSE/APAU should be
+involved in the aftermath of this incident.   I note from the
+'Times1, that the cr^sfn barriers are to be sent to RLSD for
+testing and I assume that APAU's involvement would be with the
+suggested audit of the management of safety at sports grounds.   In
+these areas I see very good reasons for HSE getting involved - it
+has expertise and experience to contribute.   But what concerns me
+a little is whether HSE is in any position to contribute to the
+enquiry on the central issue ie. overcrowding and crowd control.
+And should it be?
+
+4.   My interest in the issue comes from 4 rather tangential
+directions
+
+
+                                                        ” R E C E I V E D sr«
+                                                               OFBOFr
+                                                             <3       _ 7 Wt
+                                                                           AY 1989
+                                                             THE i
+     - Section 3 and demarcation lines between the HSW Act and
+       other legislation
+     - policy on the leisure industry
+     - violence at work
+     - policy for the disciplined services.
+
+Section 3
+
+5.   The Section 3 review SPD D carried out last year was sparked
+off by the Bradford fire - another tragedy at a football ground,
+but where barriers were not present and spectators were more
+readily able to escape from danger.              Iis preparing
+follow-up to the Section 3 review for the Commission and will be
+covering any demarcation issues which arise from the Hillsborough
+tragedy; the lead on Hillsborough is very clearly with the Home
+Office, but we ought to be clear what, if any, supplementary
+responsibilities we have and ensure that we fulfil them.
+
+6.   Other crowd related issues arose on the Section 3 periphery.
+One was prompted by the German air show disaster where, if I
+remember correctly, the plane which crashed was flying over the
+watching crowd.  We checked to see if HSE was responsible for
+enforcing at UK air shows.  It is not - the CNAA are and they do
+not allow crowds beneath flight paths.  But we did wonder about
+crowd control at, for example, stock car or Grand Prix racing.
+
+7.   Other Section 3 'peripheral' areas arose with the railways.
+       | drew our attention to the problems of over-crowding on
+London Underground and I understand the Clapham Junction enquiry
+will look at the contribution over-crowding may have had to
+injuries and fatalities.   I understand that Mr      is pressing RI
+to undertake some work in this area.
+
+Leisure Industry
+
+8.   Section 3 links very much with H S E 's responsibilities for
+enforcing in the leisure industry (and the responsibilities of the
+local authorities which are to be increased under the proposed
+revision to the Enforcing Authorities Regulations). Football is
+not of course, the only form of mass audience entertainment -
+there are marathons, discos, indoor and outdoor pop concerts and
+fairgrounds.
+
+Violence towards employees including the disciplined services
+
+9.   There is also the connection between over-crowding and
+violence towards staff; on the underground and railways, incidents
+have been recorded where anxious and threatened (or disruptive)
+members of crowds have turned on Underground staff trying to
+control them.  I assume the same is true for the police and other
+disciplined services - at least this has been alleged at
+Hillsborough.  There are also connections between crowd control
+and the abuse of alcohol; policy on the use of alcohol at work is
+MD's responsibility.
+    Involvement
+
+10.  Returning to my questions in para 3, is HSE in a position to
+contribute to the debate on over-crowding and crowd control, and
+should it be?  I don't know the answer to the first part.
+Certainly I don't feel in a position to do so, despite our
+(limited) interest.   I do not know of any advice or guidance or
+research which addresses the issues, except the Home Office Green
+Guide for Sports Grounds.   I wonder if recipients, particularly
+RLSD, know of any work which has been done, especially on the
+psychological or design aspect of crowd control.   As to the second
+part, I fear the answer is yes.   This issue seems to be one of
+growing public concern and perhaps justifiably so.   The trade
+unions are I understand concerned about the problem in the
+railways.  It is perhaps likely to be a politically live issue.
+Overcrowding seems to me to be a serious work-related hazard and
+possibly a growing one partly because of the growth in "non-
+traditional" sectors.
+
+11.  To float a thought, the sort of contribution HSE might
+possibly make would be to commission some appropriate academic to
+do some work for us.  This would mirror our contribution to the
+Violence debate, where HSE itself did not have much expertise, but
+commissioned Tavistock to produce general guidance, which we then
+adopted.  The work involved for HSE was not high, and the results
+have been well received so far.
+
+12.  I have taken the liberty of copying this minute widely to
+anyone I can think of who might have an interest;  I hope you will
+excuse my exploiting the opportunity of your minute.  I have done
+so because, although one or two people have indicated that they
+share my unease,I am not at all sure of the general concensus
+within HSE.  I would be interested to hear others' views.  I
+realise the implications of suggesting someone should explore the
+problems of overcrowding.  I would be very happy to be told that
+someone has work in hand or is willing to take it up.
+
+
+
+
+LINDA DERRICK
+SPD D
+
+28 April 1989
+l|Sl
+                                                                    c>   •> L p -   I 1 4 ,.   U r
+                                                 c S f 'n   fz
+
+
+
+
+   Hammer, DDG              4r^4?v^ACvH
+                                               t.'lsO            JUWI989
+Mr Hodgkins, SPD            \ v^°‘^ ^         "
+Mr Eves, R PD               V
+         FT RLSD
+Mr Linehan, CIF                       ■ IT T
+                                                            u
+                 Area 05
+               C
+              ;m s u
+                 SPDA
+              ID
+               Entertainment NIG
+              )isciplined Services NIG
+              OJ
+              iPAU
+              aAU
+              .1, HSL 1, DE                <-
+              irea 18              t ^ M'       " 6 J U L
+                                _   IK. ^
+                c c    U-   .
+                                                  cc
+
+
+
+
+OVERCROWDING - GENERAL POLICY ISSUES
+
+
+1     I would like to thank all those who replied to my minute of
+2 8 April about Hillsborough and the general question of
+overcrowding.
+
+2.   The responses suggested that it was SPD D who had
+responsibility for policy on this issue within HSE, and we accept
+it.  However, there was general agreement that any major action,
+even if desirable, should wait until the Hillsborough Inquiry
+makes its report.
+
+3.   There also seems general agreement on the legal position.
+Section 3 of the HSW Act undoubtedly covers the safety of many
+types of crowd - in particular, those who pay cash to an
+"undertaking" in return for watching an entertainment.   The
+Bradford fire judgment had already firmly established this.
+However, as with many other areas covered by section 3, the safety
+of crowds can also be covered by more specific legislation.  For
+example, football crowds like the one at Hillsborough are covered
+by the Safety at Sports Grounds Act, and HSE has agreed with the
+Home Office that section 3 will not be enforced in these
+circumstances.
+
+4.   A more general point was also raised: where potential crowd
+safety problems are not covered by other legislation, how far
+could HSE'-s section 3 responsibilities stretch? Mr Linehan
+suggested as a general rule that HSE has no responsibility for
+protecting crowds from themselves (ie. crowd violence).  However,
+he proposed that HSE does have a responsibility for protecting
+crowds from risks which can reasonably be foreseen and which arise
+out of the work activity - such risks could range from pieces of
+debris from a motor racing accident, to the inherent dangers of
+
+I
+requiring large numbers to gather in a confined space.   This seems
+a. very sensible distinction to draw, and is in line with the
+Bradford judgment.
+
+5.    At MB recently attention focussed on the work which RLSD is
+doing to assist the local authority and others in the Hillsborough
+case.   It was generally agreed that the scientific, technological
+and medical services could in appropriate cases offer advice and
+assistance irrespective of whether HSE had enforcement
+responsibilities.   It would be important that the cost of such
+help was recorded,as even if it was decided not to charge it was   i
+important evidence of additional work done by HSE.
+
+6.   Respondents suggested that, while awaiting the Hillsborough
+report, SPD should familiarise itself with current thinking on the
+subject and w^^-k—   practice of HSE and Local Authority
+inspectors,          also pointed out that overcrowding on railway
+trains and stations was a subject on which he was asking for a
+literature search to be undertaken,
+
+7.   I therefore propose asking               in SPD D3 to do the
+following:
+            work with SPD C3 to initiate a literature search;
+
+            talk to the LAU and LGTB/LACSAB about any local
+            authorities who might have particular experience;
+
+            talk to such a local authority to discover what written
+            guidance they have on overcrowding,
+            expertise, and what legislation they believe applies to
+
+
+I would also be grateful if recipients could copy to us any
+relevant reports, minutes, evidence on the subject so that we can
+act as a focal point and keep abreast of developments. ^ With this
+background knowledge available we can consider our position again
+after the Hillsborough inquiry has reported.
+
+8.   If you have any further views or advice please contact
+            or
+
+
+
+
+LINDA DERRICK
+SPD D
+
+June 1989
+                                                                                                                                  4
+
+
+
+
+                                           r,s p e c to r/E s r> g .
+
+
+
+
+i.:.                     K K - V \,f,K ■ U Q u L K ' i
+
+  ■■■■•                                                    '■             II ’ ‘                                '> ,I               i;t       i '
+              '            i ;      .
+
+
+
+
+-1 r- x-et.1;*'!!,                  :l cit,!,acii s y n o t i i i i am i I                        would b e grateful for a n y
+
+
+-■ &J*: ift -tread                                              with what, you record tout would make the
+ • ■"■■ ■ 1                                     ;
+
+
+
+
+                                              I think, give a fuller
+                                                      «*  >,        ■ "I ■
+                                                              line if the                 .
+                                                     least to the Interim
+                  report and because of this view the Parte© observations
+                  verts not „i
+
+                             ,,.,lpi:il,:a4.:.ja,y|j ~ I arn unafcle to say whether *’oversight" is
+                  ;..,    o tight word but I would agree with the word *•omission"                                                                         ,
+
+
+
+
+                          ajsL j               M uch     o f    t h i s        i s        now      o v e r ta k e n   b y    v /h a t   I   ro p o rfc e c i
+                     ■v     y e a       t.,a   ¥ e d m ? & d !t.f    a ric l         is       c o n ta in e d   in    itiy   ja c t.e s .
+
+
+
+   jZ                                                                                              r
+
+
+
+
+       '■*<   J IU is t
+                                                                                                                       ’■ " "    '    vl
+                                                                                                                      «« ,n,5 « « \ < *
+                                      EtMsmmmm              inquiry
+
+
+                                                        an-jia^a^aa.jKiHa
+                                n'~         .'ijjiw ,   J./CA w ' * r i,
+
+
+                        tain reservations about the report produced by
+                                                i two principle iissues j
+
+                                                             A limlaie all the topics
+                                      laid,..M :im Bse d «
+
+i explained that Lord Justice Taylor had. set himself the task of
+procmcii’ig an interim Report quickly (in order that any
+                    could be applied in time for the new football
+             The interim Report was concerned with ’'What Happened
+       i       ' - 1. u»' report would be more comprehensive and deal
+                                        generally.  The Inquiry team
+      ■' 1 '■ 1 1 ‘‘©is® topics 1h*t t\ considered to be relevant to
+     ft * ■ 1 *‘-i ‘'l, i* .iv<ng others to be dealt with in the final.
+       . Tne Nicholson report was restricted therefore to those
+                     relevant to the Interim Report*,
+
+i further pointed out to Mr Jones that any of the USE worJc that
+          ' ■’         *
+                       ■'♦’">rted to the Inquiry would be reported
+         ‘ ‘*               report” that we intend to i.r,tt •<* , r-r
+             (see letter by Sir licliojson rm v > ,> * > '1 < i, u
+                            ,
+
+    ^onvis       argued that all topics should foe Included                       (ao’that HSE
+                                  I agreed *
+
+                                            report Had. not been circulated to
+                                ad,      i apologised for this and could only
+                                              worked, at a prodigious pace (see
+                                                   not 3,1.lowed iiiore extenti
+                    ,
+
+
+
+
+;       -          ' ' 'V   ■''* c a s h e s *          1
+
+                                           on figures for crowd numbers
+             ^    dis ^principal concern was that I        |o£ TD had
+                                             owe? t* S -frT3efl guide anel oa leu la tec
+                                                                           an^^norwd? ^
+                                                                              J     '
+
+
+
+                                                                                     .. ... .
+
+
+  ••■■■ '  on *-h« draft report, that i approved, record that other
+■..--a . eg rioise Keasurement,
+                 °f.“y investigation ** {after the M a t i n g ) show that
+             ’ 14 tj'li ,J>I ' 1 Z1*      *»'.<!■ its application to the
+i"‘
+  A^ JUxcitxfn '                                        isecl at the Inquiry
+                                              of or Nicholson's report.        Dr
+           1                  to apply the green guide and calrai st-a
+                                                     and/ 47 'The" results'" were
+                  the Jnqiiiry verbally.             (An account ,f the
+                  ,‘! *, !'* '             fcufin part ji m u H n a l report as
+                  t'i ■* <‘-tic Iaov.‘t> i‘tter to Professor Maunder.)
+  ■                      guide ••>,-n
+                                  has      been interpreted            in different     wavs  and       Dr
+y*1 l.'-ii\J,1Sc         la* »        »-T, # ill-1 1L,        .*   ,        ,            ■'     'S? ^    •*■■
+
+                    41*feSi                                                                           m   the
+                   ,’J'      * 1 ‘ 11                  —     Ito th* high m .•t \t        , ^- I ir> 1.
+~ '-c'"'''1'                                             After a B a g f u l ovai.{na(-i..*
+                                                                             .   .   .
+
+reco^Med                         v-al«es of 8 2 2 'Jni
+                                                   r            4! ^ h e ^ a s e s
+                                                   ssed with the HSE team
+       ' ''"l.. ,,i’ ;'        '     Pi'offlstirjr Maunder who accepted that
+                      ?®fcesente<l tha b0st estimates.        In addition, of
+           ...        ituifibars were not challenged by any of the
+           ssteid parties at the Inquiry.
+
+         toi<* that the low figures. Introduced by                             derive
+              *4 1 ; ; " 'f " >l 0,1 tlw -'I'11 ’11' M'wf < f,e Horn1 > m i ; e ’now "say
+            1       '*    1 ' u,|!*      yiiHt1! m>it, vifitter) ,i          , ^hp
+               r- 4 n -‘* 1m;** b" .:K\**rty Had to N- b . ^ , ,i a,.
+             '     '• ‘    MWcUi ft- v,|( JttV,ll and. the- c                 01
+                                                 higher ficrures that m*
+                                      to repeat myself, which were accepted
+     ■'‘'iv,5Jla                      fiiil discussion of the facts,}
+
+                                             Tp ^stiroateis were taken fully into
+                        ,l' 1 , u ! ' a*"'       ZZI(TP) was not informed of this
+                        *1      *1       ; '            aw unable to          «P'
+                    !uu.Uison returns ±rom leave) it is to be re-
+   ■et i^uits covered
+
+
+
+
+                                             ¥ l m   til!t m E had a definite interest in
+               "     ,                                            ; nu,i U u t H" <'aold
+                                  's 1 ” 5                I"       area,     i *,>>., that w**
+                                                                                    area,   1 'rtr^v
+                                                                                    ondence
+
+        Etlo,sim.jSJL.
+
+                                                                       Guide is inadequate
+                     1 f          14        'Hu-., »r ,tt, ( , in fio        IJi it USE
+                     ' ,,jh , m * wa a g m e d t ) , » \ non,, t, > ^ -f i(,   (^r,n , ^ }(
+
+
+
+
+   ■ipurtsd to                               by telephone on 16 August 1989
+
+                                                          2
+         We. agreed that till* report would f>© cleared by consultation
+         between us.
+
+
+
+1                                 hat th® BSE team had worked together well
+                                                  comiaend&t ions. Professor
+                                  Nicholson's report ‘'excellent*' and Lord
+                  11 ' ' >-   ** V V ”*”irou« in 1 t < i^aise of use in the
+
+
+
+
+.'VLAN J C H E S
+  : A l m j u s t : 1 98 9
+I \io
+
+        #
+                   TRfiNSMI   SIGN       REPORT
+
+
+
+
+T IM E                          8.16.19 8 9       12:29
+                                T C “i
+P IJ R A T I O N                      *J j L
+
+
+R E n O T E    ID               755792
+
+M U D E                         G 3
+C 0 M P L E T E D    PAGES      5
+R E S IJ L T                    O.K.
+V / 2-^
+
+
+          ■*
+                                                                            o '!
+
+
+
+
+                                  f^^ T M T T J r T ^ r e * TSS TONS
+
+
+
+
+Health and Safety Executive
+St Anne's House
+University Road
+Bcotie
+
+
+FAX PHCNS NUMBER - 051 951 4232
+
+
+
+         ?, Gr • T o /v-e, S.                         E:c,,. 4 4 9 S      office ~ h C ^ G )
+: rra
+
+
+                         , JoAJhS
+
+                                                                                          3/4
+              K )sEL.                       ? > U f f iV lct           Room N o .
+
+
+Pages including tiiis dcc.                                 S'
+
+                                                                               Extn.
+Transmitted by .
+
+
+Data                /£> • 8 • $ ^                 .
+
+
+
+
+Special Instructions:
+
+
+ rr>£           C o m f a E f         J 1       ttSftr.
+
+
+{\ KiM h                 I       55
+
+                                                                             'iQ_.fc£^v$L> ^-*h   L T r
+                                                                                              0
+
+{Vn) n   Sp   vl    5        —                                                     c2$   •U
+
+
+
+ft- M Nl 1- X      ll.       -              n          L                                 • 6> '
+\ ( 1 9
+

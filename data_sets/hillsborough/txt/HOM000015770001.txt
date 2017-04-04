@@ -1,0 +1,133 @@
+J MERVYN JONES MSc                                     FURNIVAL HOUSE
+ASSISTANT CHIEF CONSTABLE                              Fumival Gate
+ HILLSBOROUGH INQUIRY TEAM                             Sheffield S1 4QN
+                                                       Telephone: 0742 727599
+WEST MIDLANDS POLICE HQ                                SMITHDOWN LANE POLICE STATION
+PO Box 52, Lloyd House                                 Liverpool L7 3PR
+Colmore Circus Queensway                               Telephone: 051-709 7190/7231
+Birmingham B4 6NQ
+Telephone: 021-236 5000, extn. 2025
+                                                       Your Ref:
+NECHELLS GREEN POLICE STATION
+Fowler Street                                          Our Ref:         JMJ/VSC
+Birmingham B7 50A
+Telephone: 021-359 3332                                Date:            21 June 1989
+
+
+
+         R M Whalley Esq
+         Secretary to the Inquiry
+         C/0 Town Hall
+         Surrey Street
+         Sheffield
+         S I 2HH
+
+
+
+
+         TELECOMMUNICATIONS
+
+         I forward herewith a report by Mr Thomas Logan, a Civil Servant from the
+         Horae Office Directorate of Telecommunications based at Kippax in Leeds.
+
+         It usefully deals with aspects of the South Yorkshire Police radio
+         system which I think will be of interest to Lord Justice Taylor's
+         Inquiry.
+
+
+
+
+  PLEASE REPLY TO THE OFFICE AT       Sheffield
+“ R0* 1    D    OF   TELS   Hf i O   KIPPPiX                   6 .2 1 .1 9 8 9   9: 49   P.   2
+
+
+
+
+          Name                       Thomas Logan
+
+          Age                        45 yrs
+
+          Occupation                 Civil Servant
+
+          Address                    Home Office,
+                                      Directorate of Telecommunications
+                                      Northern Area Office
+                                      208 Leeds Road
+                                      Kippax
+                                      Leeds
+
+
+
+              am   the   Northern   Area    Manager,   Home   Office,   Directorate    of
+          Telecommunications.      My    responsibilities   include   the   installation,
+          commissioning and maintenance of radio equipment for the emergency services.
+          South Yorkshire Police is one of the forces for which I am responsible.
+
+          I am the holder of a full City and Guilds Technological Certificate in
+          Telecommunications. I have 30 years experience of radio communications with
+          the Royal Air Force and the Home Office. I have been with the Directorate of
+          Telecommunications since 1971 from a position of Technician and have been
+          through various grades to my present level of Grade 7 (Principal).
+
+          In connection with the incidents at Hillsborough Football ground on 15th APr*4
+          1989 my technical staff were responsible for the initial installation and
+          subsequent maintenance of the fixed radio communications equipment at the
+          ground. The equipment consists of a Pye Westminster Mobile radio which has
+          been adapted as a fixed base station. It is referred to as a W15U. The
+          scheme operates off an aerial installation on one of the floodlight gantries
+          inside the ground. It is a UHF radio scheme. The radio system is capable of
+          being used in either 'talk-thro’ or ’non talk-thro' mode.   When operated in
+          the 'talk-thro’ mode the operator’s access to the scheme will be overridden by
+          the operation of a personal radio.
+
+           I have been made aware that during the afternoon of 15th April 1989 the radio
+           equipment did not appear to operate satisfactorily. My information is that
+           messages from the control position were broken. I am also advised that the
+           scheme was being operated on 'talk-thro' and that the control position was
+           using the 'tulip' microphone for transmissions.
+
+           Following the problems encountered with the permanent installations I am aware
+           that a stand-by set of a similar kind was substituted and that this was also
+           operated on 'talk-thro' but using a personal radio to gain access to the
+           scheme rather than the base station microphone.
+
+           On Friday 5th May 1989 one of my technicians from the Directorate Workshop at
+           Sheffield was able to carry’ out tests on both the fixed and stand-by equipment
+           at the ground including the aerial installation and some scheme coverage. I
+           am aware that the equipment met the technical specification and worked
+           satisfactorily.
+: R0 ; 1       D   OF   TELS   Nf l O   KIFPflX    6 .2 1 .1 9 3 9   9:50           P.
+
+
+
+
+           I am unable to give any explanation why the difficulties arose with the
+           equipment on the 15th April 1989. Using the scheme in 'talk»thro* mode for a
+           continuous period should not make the equipment more vulnerable to technical
+           failure. It has been suggested that prolonged use of equipment could lead to
+           overheating which may relate to the type of problem encountered on the day. I
+           consider this to be very unlikely. The equipment can be used in more extreme
+           environments than those at the ground, without detriment. In its original
+           specification the W15U was designed for use in police vehicle sand is carried
+           in the confines of the boot, where it can be subjected to extreme changes of
+           temperature throughout the year.
+
+           K
+        method of overcoming the disadvantages of 1talk•*thro' on the W15U, when the
+      operator loses the control facility by being overridden is to install the type
+     of fixed UHF base station which in general use for normal Sub-Divisional
+  ^fcolicing.      With this arrangement 'talk-thro' can be permanently on but when
+  ^ R x e operator selects the transmit mode        this    automatically   overrides
+      'talk-thro' and the controller retains priority. This would allow advantages
+      of 'talk-thro' for information flow whilst retaining the command position.
+
+           From enquiries within the Directorate of Telecommunications I am aware that in
+           the Greater Manchester Police area this type of fixed base station arrangement
+           is in use. However, I am also advised that in other parts of the country,
+           including Merseyside Police area, the W15U arrangement is utilised. In both
+           police areas mentioned I am also told that permanent 'talk-thro' is not used.
+
+           I am not aware of any Directorate of Telecommunications recommendation
+           relating to the number of personal radios to be used on one base station
+           scheme. It is clearly a police operational judgement.
+

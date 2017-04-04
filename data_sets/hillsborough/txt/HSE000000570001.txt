@@ -1,0 +1,520 @@
+                                                                         Incident Report
+
+                       HEALTH AND SAFETY EXECUTIVE
+
+               RESEARCH AND LABORATORY SERVICES DIVISION
+
+                       Broad Lane, Sheffield S3 7HQ
+
+
+
+                An estimation of the maximum allowable
+                capacities of Pens 3 and 4
+
+
+                                      by
+
+                               A L Collins
+                                   and
+                               D Waterhouse BSc(Eng) CEng MIMechE FIMEMME
+
+                                                  IR/L/ME/89/35
+
+
+
+
+                                                 Issue authorised by: Dr A Jones
+
+                                                 Date: 31 January 1990
+
+Distribution
+
+The Court of Inquiry   (5 copies)
+ACC J Mervyn Jones     West Midlands Police
+Mr D C T Eves
+Mr A Barrell           TD
+Mr P G Jones           TD
+Mr M S Nattrass        FAID Area 14
+Mr J P Giltrow         HFS (N)
+Mr M R Stephenson      NE FCG
+Mr M Fountain          TD3
+Mr M James             TD3
+Mr C J Pertee          NE FCG
+Mr J B Hibbs           NE FCG
+Dr J McQuaid
+Dr A Jones
+Dr J H Foley
+Dr C E Nicholson                              TO RLSD/DIAS STAFF ONLY
+Mr P F Heyes                                  NOT TO BE COMMUNICATED OUTSIDE
+Mr I R Price                                  RLSD WITHOUT THE APPROVAL OF
+Mr G A C Games                                THE AUTHORISING OFFICER
+Mr G Norton
+Authors                                                           SMR/343/235/01
+RPS
+Library (2)                                                       S80.02.0TH.814
+Registry File
+CONTENTS
+
+1   INTRODUCTION
+
+2   ESTIMATIONS OF THE CAPACITIES OF PENS 3 AND 4
+
+3   METHOD OF CALCULATING THE REVISED MAXIMUM CAPACITIES OF PENS 3 AND 4
+
+4   ASSESSMENT OF REVISED CAPACITIES
+
+5   SUMMARY AND CONCLUSIONS
+
+APPENDIX 1   Tabulated calculations of the maximum allowable number of persons
+             in Pens 3 and 4
+1 INTRODUCTION
+
+As part of the investigation by the Health and Safety Executive (HSE) into the
+incident at Sheffield Wednesday Football Club's Hillsborough stadium on 15
+April 1989, Mr A L Collins, a Scientific Officer, and Mr D Waterhouse, a
+Principal Scientific Officer, of HSE's Research and Laboratory Services
+Division (RLSD) calculated the maximum number of persons (the capacity) that
+was appropriate for Pens 3 and 4, The calculations were based on their
+interpretation of recommendations contained within the Home Office/Scottish
+Office publication "Guide to Safety at Sports Grounds" (H M Stationery Office:
+1986).
+
+
+2 ESTIMATIONS OF THE CAPACITIES OF PENS 3 AND 4
+
+Dr Nicholson, a Deputy Director of RLSD's Safety Engineering Laboratory (SEL)
+provided us with a drawing that he had received from Eastwood and Partners on
+24 April 1989. The drawing was labelled Eastwood and Partners, was numbered
+8945/lA, had the title "Sheffield Wednesday F.C. PLC Hillsborough Ground
+Layout 1987" and was dated 16/4/87 with Revision A dated 21/10/87. This
+drawing showed the capacity of one of the two central 'pens' of the West
+terraces of the stadium to be 1,200 persons and that of the other to be 1,000
+persons, i.e. the capacity of the combined area was 2,200 persons.
+
+The interim report IR/L/ME/MM/89/1 prepared by RLSD for the Court of Inquiry
+states that, "if 54 people per 10 sq m is assumed as the allowable packing
+density for the West Terrace then the capacity of Pen 3 is 1015 and Pen 4 is
+1036 making a total of 2051 for the combined area".
+
+However, Paragraph 221 of the 1986 edition of the Home Office/Scottish Office
+publication "Guide to Safety at Sports Grounds" (H M Stationary Office) states
+"Where crush barriers meet the strength and spacing guidelines of Chapter 9
+the capacity of a terrace or viewing slope should be assessed from the area
+available for standing by allowing a packing density of between 54 and 27
+persons per 10 square metres depending upon the condition of the terrace or
+slope".
+
+We knew that RLSD's calculation had been made as a preliminary check of the
+capacity assigned by Eastwood & Partners to the two central 'pens'. We
+therefore examined two drawings that had been prepared for HSE by Ralph Brade
+& Associates, Consulting Engineers, Midland Bank Chambers, 3 Sharrow Lane,
+Sheffield. Drawing No 1340/02 Rev A, dated 3/5/89, showed a plan view of
+Pens 3 and 4 on the West terraces and Drawing No 1340/03A Rev A, also dated
+3/5/89, showed a section through part of the West terraces. These drawings are
+reproduced, to a smaller scale, in Figs 1 and 2 respectively.
+
+Our examination of these drawings caused us conclude that RLSD's nominal
+maximum capacity 2051 persons for the central 'pens' might have to be reduced
+to compensate for some departures from the recommendations of Chapter 9 of the
+Guide. We therefore calculated capacities for Pens 3 and 4 on the basis of the
+areas behind crush barriers and perimeter fences in which a crowd packing
+density of 5.4 persons/sq m would be permissible, provided all other aspects
+of the terraces conformed with the Guide's recommendations.
+3   METHOD OF CALCULATING THE REVISED MAXIMUM CAPACITIES OF PENS 3 AND 4
+
+The calculation of the revised maximum capacity of Pens 3 and 4 was based on
+our interpretation of Paragraph 113, Paragraph 225, and Table 1 of the Guide.
+
+Paragraph 113 states: "Ideally, crush barriers should be provided along the
+full width of a terrace, with gaps only at radial gangways".
+
+Paragraph 225 states "The capacity of the terrace is calculated by multiplying
+the area available for standing by the appropriate packing density. The
+following following formula may be used:
+
+                                 A
+Capacity (Number of persons) —        x (27 to 54)
+                                 10
+
+where 'A' is the area available for standing in square metres.
+
+Table 1 recommends the maximum horizontal distance that should exist between
+barriers conforming to the "greater" and the "lesser" strength requirements
+when they are installed on "peak viewing areas" and on "other areas". We
+classified Pens 3 and 4 as being 'peak viewing' areas because they were
+behind a goal, and the barriers as conforming to the "greater strength
+requirement" because this permitted greater horizontal distances.
+
+Pens 3 and 4 did not have radial gangways, nor did their crush barriers extend
+the full width of the terraces, gaps being present along the rows. We
+therefore calculated the plan area of terrace behind each barrier (or
+perimeter fence) by multiplying the length of the barrier by a 'permissible
+depth' behind it. This 'permissible depth' was either the maximum horizontal
+distance between barriers that was recommended for "peak viewing" in Column A
+of Table 1 of the Guide, or the existing distance between the barrier and the
+next barrier (or wall) behind it, whichever was the least.
+
+Brade's Drawing No 1340/03A showed the slope of Pens 3 and 4 to be 13 degrees
+40 minutes. The recommended maximum horizontal distance between crush barriers
+that corresponded to this slope was interpolated from Table 1 of the Guide as
+being 3.9 m. Brade's Drawing No 1340/02 Rev A showed that the horizontal
+distance between the rows of crush barriers in Pens 3 and 4 was usually 3.5m,
+i.e. the existing distance between the rows of crush barriers was usually
+within the recommended maximum value.
+
+The heights of the barriers were generally less than the values of 1.02 m to
+1.12 m recommended in the Guide. However, we did not discount any of the crush
+barriers in our calculations; no barrier had a height less than 81% of the
+minimum recommended value, and our intention was to calculate a 'base'
+capacity that could be further reduced because of other departures from the
+Guide's recommendations.
+
+We multiplied each plan area behind a barrier (sq m) by 5.4 persons/sq m and
+truncated the product to obtain the number of persons appropriate to each
+area. Fig 3 is a pictorial representation of the method of calculation, the
+details of which are shown in Appendix 1. The total capacities of Pens 3 and 4
+were then obtained by summing the numbers of persons appropriate to each area
+behind a barrier. Our calculations showed the capacity of Pen 3 to be 822
+persons and that of Pen 4 to be 871 persons, i.e. the combined capacity of the
+central 'pens' was 1,693 persons.
+
+                                        -2-
+4   ASSESSMENT OF REVISED CAPACITIES
+
+The white areas of Fig 3 represent those parts of the terrace where, ideally,
+persons should not stand, otherwise the thrust exerted on part of a crush
+barrier by a crowd of 5.4 persons/sq m might exceed the force intended by the
+Guide.
+
+Our calculations did not include any reduction in capacity of the central
+'pens' to compensate for departures from other recommendations contained in
+the Guide. Brade's drawings indicated that departures from Paragraphs in the
+Guide, other than those associated with the continuity (Paragraph 113) and
+spacing (Table 1) of crush barriers, existed in the central 'pens', i.e.
+
+Paragraph 92   - ”A terrace step should not be less than 280 mm or more than
+380 mm wide.   The preferred dimension is between 355 mm and 380 mm". Pens 3
+and 4 had 33   terrace steps, of which 28 (85%) were slightly wider, (not more
+than 10 mm),   than the maximum recommended width.
+
+Paragraph 96 - "The aim should be to ensure that every spectator on the
+terraces is within 12 metres of a gangway or exit so that spectators can move
+quickly on to exit routes at the end of an event or in the event of an
+emergency. This may be achieved by a pattern of gangways (not less than
+1.1 metres wide) linked to the exit system". There were no gangways in Pens 3
+and 4 and if the perimeter gates are not considered as exits, then
+approximately 40% of the persons in these 'pens' were not within 12 m of an
+exit.
+
+Paragraph 110 - "In order to locate the top rail against that part of the body
+most able to tolerate pressure the heights of crush barriers should be 1.02 m
+to 1.12 m above the nosing of the step immediately behind the barrier, with a
+preferred height of 1.1m" . Four of the five barriers in Pen 3 and six of the
+nine barriers in Pen 4 did not conform with this recommendation.
+
+Paragraph 114 - " Where barriers are not continuous between radial gangways,
+the alignment of gaps in successive rows of barriers on a terrace should form
+an angle of less than 60 degrees to the line of the barriers. There should be
+no more than 2 consecutive gaps in any line of gaps". Two of the four 'paths
+of gaps' in Pen 3 and one of the eleven 'paths of gaps' in Pen 4 did not
+conform with the recommendation on alignment.
+
+Paragraph 115 - " Where there are gaps in the line of crush barriers these
+should be at least 1.1 m and not more than 1.4 m in width". Four of five gaps
+in Pen 3 did not conform and nine of ten gaps in Pen 4 did not conform to a
+literal interpretation of this recommendation. A more liberal interpretation,
+relating the acceptability of the width of a gap to the resulting depth of
+crowd that could form between two rows of barriers, resulted in four of five
+gaps in Pen 3 and three of six gaps in Pen 4 not conforming, as shown in the
+schematic plan of Fig 4.
+
+Paragraph 215 - "For most major stadia, whether used for association football
+or other sports, the pitch perimeter fence will be required either to prevent
+access to parts of the pitch as mentioned above (Paragraph 214), or at least
+to discourage attempts by spectators to enter the playing area. Gates or other
+access points (minimum width of 1.1 m) should nevertheless be provided for use
+in an emergency and, at those grounds where a perimeter track is used as part
+of the exit system, for the departure of spectators at the end of an event.
+Provision of such gates or access points is particularly important to allow
+for access to the playing area (or track) where it is likely to be used as a
+place of safety in an emergency. Such gates or access points should be
+properly stewarded and clearly marked so that immediate access to the playing
+area or perimeter track can be ensured". The gate to Pen 3 had a clearance
+width of 0.81 m to 0.82 m and the gate to Pen 4 had a clearance width of
+0.77 m to 0.79 m. The two gates in the perimeter fence of the central 'pens'
+therefore did not conform with this recommendation.
+
+It is our opinion that it might be advisable to reduce the 'base' capacities
+of 822 persons for Pen 3 and 871 peraons for Pen 4, because of these six
+departures from the Guide's recommendations.
+
+
+5   SUMMARY AND CONCLUSIONS
+
+5.1 We used recommendations contained within the 1986 edition of the Home
+Office/Scottish Office publication "Guide to Safety at Sports Grounds" (the
+Guide) to calculate revised maximum allowable capacities for Pens 3 and 4 of
+the West terraces of Sheffield Wednesday Football Club's Hillsborough stadium.
+We calculated the maximum allowable capacity of Pen 3 to be 822 persons, and
+that of Pen 4 to be 871 persons. It is therefore our opinion that the combined
+maximum allowable capacity of the two- central 'pens' should not exceed1,693
+persons, provided that all other aspects of the terraces conformed with the
+Guide's recommendations.
+
+5.2 Our calculations showed the capacity of Pen 3 to be less than that of
+Pen 4. Eastwood & Partners Drawing No 8945/lA dated 16/4/87 showed The
+capacity of Pen 3 to be greater than that of Pen 4.
+
+5.3 Our revised maximum allowable      combined capacity of 1,693 persons for the
+two central 'pens' was 83% of that     initially calculated by RLSD, solely on the
+basis of the area of Pens 3 and 4,     and was 77% of that shown on Eastwood &
+Partners Drawing No 8945/lA, dated     16/4/87.
+
+5.4 Our calculation of the revised capacities of Pens 3 and 4 did not include
+any reduction that might be needed to compensate for some departures from the
+Guide's recommendations in these 'pens'. These departures were associated
+with:
+
+(i)     the   width of the terrace steps.
+(ii)    the   distance of persons from gangways or exits;
+(iii)   the   heights of crush barriers;
+(iv)    the   alignment of gaps in the rows of crush barriers;
+(v)     the   width of gaps in the rows of crush barriers;
+(vi)    the   width of the gates in the perimeter fence;
+
+It is our opinion that the revised number of 1,693 persons for the maximum
+combined capacity of Pens 3 and 4 should be reduced further because of these
+six departures from the Guide's recommendations.
+                                                                                                      fu » ro * »
+
+
+
+
+                                              n
+
+
+
+
+                                                                                  Ralph Brade & Associates
+                                                                                    Consulting Engineers
+                                                                                    3 Sftarruw Lan*.
+                                                                                    SW fw id S11 ftAE
+                                                                                    T *. 0 7 4 2 562256
+
+
+
+
+                                                                                         A£4£7W *                   EXECUTIVE
+
+
+
+
+                                                                */< «“*»»«>3r3
+      J/47F J                                         J/47T *    c/rf 5                  SHEFFIELD WEDNESDAY
+                                                                                            FOOTBALL CLUB
+                                                                                             HILLSBOROUGH
+
+
+                           o tt. i3 w o 3   < >»cr.
+                                                                                               WEST           TERRACE
+                                                                                             P LAN DETAILS OF
+                                                                                              CENTRAL PENS
+
+
+Fig   1         PLAN VIEW OF PENS 3 AND 4 OF WEST TERRACES                                  1:100
+                                                                                 tti't
+                                                                                           3 5-S9                        RB
+                                                                                                              o—           j —~ _
+                                                                                           m o
+
+
+                                                                                              1 3 4 0 /0 2 A \A
+                                                Ralph Brade & Associates
+                                                 C on s u ltin g Engineers
+                                                 M id W Br « Q w rO sra
+
+                                                 S*Wfiw»d S11 8AE                           ^
+                                                 TM. 10742 552255                           C X 3=0
+
+
+
+                                                O—
+
+                                                  A&U7W 4 S4/S7T EXECUTIVE
+
+
+
+
+                                                  SHEFFIELD WEDNESDAY
+                                                        FOOTBALL CLUB
+                                                         HILLSBOROUGH
+                                                 &'■!' 1«JT*«
+
+                                                         CENTRAL           TUNNEL
+                                                         Sr WEST TERRACE
+
+                                                     LONGITUDINAL SECTION                          j
+
+Fig 2   SECTION THROUGH PART OF WEST TERRACES   *”              1-100                               \
+                                                       1-5-S9                      o n / Rd         |
+                                                                          C> j m      *~orrn^-n     |
+                                                j ~ ’~ m o
+                                                                                   ------ “ ------- 5
+
+                                                            1 3 4 0 /0 3 A \ a
+                                                                      C,<
+                                                                                      'V
+                           PEN 3                                                                    PEN 4
+                          TOTAL B 2 2                                                               TOTAL 871
+
+
+
+                  □ □5m
+                                                                      \ No 144 \
+                                                                      \ 2.425m
+                                                                      \   45
+                                                                      \PERSONS \
+
+
+
+                                                                                                                           No 138
+                                          4.525m                                                                   ,       3.E4Sm
+                                        S4 PERSONS                                                                 /,E B    PERSONS
+
+
+
+                                                           S2 PERSONS
+
+
+                1E4 A                                                              /   N a 12 7
+                                                     ' 1 .85m /                    /   2 . 3 1 Om
+             7.425m                                  /        /
+          144 PERSONS                                                                      35
+                                                                                   /PERSONS' /
+
+
+
+
+                           CO . 9 m ]                             CO . 8 8 5 m ]                                                       CO. 9m]
+
+                          GATE 3                                  GATE 4                                                              GATE 5
+
+
+
+
+Fig 3   WEST TERRACE - IDEAL DISTRIBUTION OF PERSONS                                                            IN CENTRAL PENS
+
+
+
+
+                                                                                                                                                 DW   SWFC1A
+                       PEN 3                                                          PEN 4
+
+
+
+        GAP   1                               GAP E                                 GAP 7
+
+                                                                GAP E
+
+
+
+
+                        GAP 3                         GAP 4                                   GAP 8
+                                                           '\
+
+
+
+
+                                 GAP 5                                   GAP 9 V    GAP 10
+                                                            \V\
+
+
+
+
+                      GATE 3                                            GATE 4                           GATE 5
+
+
+
+                        X       GAP DOES NOT CONFORM TO GUIDE TO SAFETY AT SPORTS GROUNDS
+
+
+                        n/      GAP CONFORMS TO GUIDE TO SAFETY AT SPORTS GROUNDS
+
+
+
+
+Fig 4         CONFORMITY OF WIDTH OF GAPS BETWEEN BARRIERS                                    IN PENS 3 AND 4
+
+
+
+                                                                                                                  □W   SWGAF
+APPENDIX 1
+
+
+Table 1   Calculations of maximum allowable number of persons in Pen 3
+
+
+PEN 3
+Barrier      Available spectator area            Number of spectators at a
+number       sq m                                 density of 5.4 persons/sq m
+
+                                                 Calculated     Truncated
+
+149          7.005   X   2.5   =   17.513        94.570          94
+
+136          1.125   X   3.9        4.388        23.695          23
+136          4.350   X   3.5       15.225        82.215          82
+
+136A         0.330   X   3.5   =    1.155         6.237           6
+136A         4.195   X   3.9       16.361        88.349          88
+
+124A         5.475   X   3.5       19.163       103.480         103
+124A         1.950   X   3.9   -    7.605        41.067          41
+
+125          3.365   X   3.5   —
+                                   11.778        63.601          63
+125          2.030   X   3.9        7.917        42.752          42
+
+Fence        7.425   X   3.6       26.730       144.342         144
+Fence        1.530   X   3.9   -    5.967        32.222          32
+Fence        5.395   X   3.6   =   19.422       104.879         104
+
+                                        Total   827.409         822
+ APPENDIX 1 (cont)
+
+
+ Table 2   Calculations of maximum allowable number of persons in Pen 4
+
+
+PEN 4
+Barrier      Available spectator area           Number of spectators at a
+number       sq m                               density of 5.4 persons/sq m
+
+                                                Calculated    Truncated
+150          6.040 x 2.5      -   15.100       81.540          81
+144          2.425 x 3.5           8.488       45.835          45
+137          0.095 x 2.5           0.238        1.285           1
+137          3.825 x 3.9      -   14.918       80.557          80
+137          0.540 x 3.5           1.890       10.206          10
+138          3.645 x 3.5      =   12.758       68.893          68
+132          4.340 x 3.9      =   16.926       91.400          91
+132          0.155 x 1.5           0.233        1.258           1
+125          1.610 x 2.0           3.220       17.388          17
+125          0.240 x 3.9           0.936        5.054           5
+127          0.885 x 2.0           1.770        9.558           9
+127          1.425 x 3.5           4.988       26.935          26
+128          1.565 x 3.5           5.478       29.581          29
+128          1.855 x 3.9           7.235       39.069          39
+128          3.460 x 3.5      =   12.110       65.394          65
+126         0.245 x 1.5            0.368        1.987           1
+126         2.000 x 3.5            7.000       37.800          37
+126         0.025 x 1.5            0.038        0.205           0
+Fence       1.605   x   3.6   =    5.778       31.201          31
+Fence       2.270   x   2.1   =    4.767       25.742          25
+Fence       2.275   x   3.6   =    8.190       44.226          44
+Fence       1.430   x   3.9        5.577       30.116          30
+Fence       6.880   x   3.6   -   24.768      133.747         133
+Fence       0.185   x   3.9        0.722        3.899           3
+
+                                      Total   882.876        871
+
