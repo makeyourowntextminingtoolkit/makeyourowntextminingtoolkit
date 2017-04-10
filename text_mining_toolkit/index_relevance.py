@@ -106,4 +106,8 @@ def get_words_by_relevance(content_directory):
 
     # sum the relevance scores for a word across all documents, sort
     word_relevance = relevance_index.sum(axis=1).sort_values(ascending=False)
-    return word_relevance
+
+    # return pandas frame
+    word_relevance_df = pandas.DataFrame(word_relevance)
+
+    return word_relevance_df

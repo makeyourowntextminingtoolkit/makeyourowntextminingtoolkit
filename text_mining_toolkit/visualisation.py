@@ -11,18 +11,17 @@ import networkx
 import networkx.readwrite.json_graph
 import random
 
-# word cloud
-def plot_wordcloud(word_count, most_common=None):
+# word cloud from pandas frame of word and freq
+def plot_wordcloud(word_count):
     # wordcloud object
-    wc = wordcloud.WordCloud(max_words=100, width=1600, height=900, background_color="white", margin=10,
+    wc = wordcloud.WordCloud(max_words=100, width=1200, height=800, background_color="white", margin=10,
                              prefer_horizontal=1.0)
 
     # words and plot sizes (word count, relevance, etc)
-
-    wc.generate_from_frequencies(dict(word_count.most_common(most_common)))
+    wc.generate_from_frequencies(word_count.to_dict()[word_count.columns[0]])
 
     # plot wordcloud
-    plt.figure(dpi=600, figsize=(8, 4))
+    plt.figure(dpi=600, figsize=(6,4))
     plt.imshow(wc)
     plt.axis("off")
     pass

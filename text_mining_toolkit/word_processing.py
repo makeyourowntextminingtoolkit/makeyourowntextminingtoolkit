@@ -1,6 +1,7 @@
 # module apply processing to text (not word lists)
 
 import collections
+import pandas
 
 
 # keep words longer than minimum
@@ -12,8 +13,10 @@ def keep_words_min_length(input_words_list, min_length):
 # count word occurance
 def count_word_occurance(input_words_list):
     word_counts = collections.Counter(input_words_list)
-    # returns a collections.Counter object
-    return word_counts
+    # returns a dataframe
+    word_counts_df = pandas.DataFrame.from_dict(dict(word_counts), orient='index')
+    word_counts_df.columns = ['count']
+    return word_counts_df.sort_values(by='count', ascending=0)
 
 
 # remove stop words (given stop word list source file)
