@@ -3,6 +3,7 @@
 import os
 import pandas
 import numpy
+import scipy
 
 # max columns when printing .. (may not be needed if auto detected from display)
 pandas.set_option('max_columns', 5)
@@ -31,7 +32,7 @@ def calculate_singular_value_decomposition(content_directory):
     relevance_index.index = relevance_index.index.astype(str)
 
     # calculate SVD
-    U, S, VT = numpy.linalg.svd(relevance_index, full_matrices=False)
+    U, S, VT = scipy.linalg.svd(relevance_index, full_matrices=False)
     # not S is a 1-d series of eigenvalues, not a matrix, for efficient storage
     # to make a matrix use S_matrix = numpy.diag(S)
 
