@@ -12,7 +12,7 @@ pandas.set_option('max_columns', 5)
 
 # delete matrix
 def delete_matrix(content_directory):
-    cooccurrence_matrix_file = content_directory + "matrix.cooccurrence"
+    cooccurrence_matrix_file = content_directory + "matrix_cooccurrence.hdf5"
     if os.path.isfile(cooccurrence_matrix_file):
         os.remove(cooccurrence_matrix_file)
         print("removed co-occurrence matrix file: ", cooccurrence_matrix_file)
@@ -23,7 +23,7 @@ def delete_matrix(content_directory):
 # print existing matrix
 def print_matrix(content_directory):
     # open matrix file
-    cooccurrence_matrix_file = content_directory + "matrix.cooccurrence"
+    cooccurrence_matrix_file = content_directory + "matrix_cooccurrence.hdf5"
     hd5_store = pandas.HDFStore(cooccurrence_matrix_file, mode='r')
     cooccurrence_matrix = hd5_store['corpus_matrix']
     hd5_store.close()
@@ -79,6 +79,7 @@ def merge_cooccurrence_matrices_for_corpus(content_directory):
 
     # load each matrix file and merge into accummulating corpus matrix
     for document_matrix_file in list_of_matrix_files:
+        print(document_matrix_file)
         hd5_store = pandas.HDFStore(document_matrix_file, mode='r')
         temporary_document_matrix = hd5_store['doc_matrix']
         hd5_store.close()
@@ -93,7 +94,7 @@ def merge_cooccurrence_matrices_for_corpus(content_directory):
     cooccurrence_matrix.fillna(0, inplace=True)
 
     # finally save matrix
-    corpus_matrix_file = content_directory + "matrix.cooccurrence"
+    corpus_matrix_file = content_directory + "matrix_cooccurrence.hdf5"
     print("saving corpus co-occurrence matrix ... ", corpus_matrix_file)
     hd5_store = pandas.HDFStore(corpus_matrix_file, mode='w')
     hd5_store['corpus_matrix'] = cooccurrence_matrix
@@ -104,7 +105,7 @@ def merge_cooccurrence_matrices_for_corpus(content_directory):
 # query co-occurrence matrix
 def query_cooccurance_matrix(content_directory, word1, word2):
     # open matrix file
-    cooccurrence_matrix_file = content_directory + "matrix.cooccurrence"
+    cooccurrence_matrix_file = content_directory + "matrix_cooccurrence.hdf5"
     hd5_store1 = pandas.HDFStore(cooccurrence_matrix_file, mode='r')
     cooccurrence_matrix = hd5_store1['corpus_matrix']
     hd5_store1.close()
@@ -116,7 +117,7 @@ def query_cooccurance_matrix(content_directory, word1, word2):
 # query co-occurrence matrix
 def most_likely_next(content_directory, word1):
     # open matrix file
-    cooccurrence_matrix_file = content_directory + "matrix.cooccurrence"
+    cooccurrence_matrix_file = content_directory + "matrix_cooccurrence.hdf5"
     hd5_store1 = pandas.HDFStore(cooccurrence_matrix_file, mode='r')
     cooccurrence_matrix = hd5_store1['corpus_matrix']
     hd5_store1.close()
@@ -128,7 +129,7 @@ def most_likely_next(content_directory, word1):
 # get words ordered by cooccurrence (across all documents)
 def get_word_pairs_by_cooccurrence(content_directory):
     # open matrix file
-    cooccurrence_matrix_file = content_directory + "matrix.cooccurrence"
+    cooccurrence_matrix_file = content_directory + "matrix_cooccurrence.hdf5"
     hd5_store1 = pandas.HDFStore(cooccurrence_matrix_file, mode='r')
     cooccurrence_matrix = hd5_store1['corpus_matrix']
     hd5_store1.close()
