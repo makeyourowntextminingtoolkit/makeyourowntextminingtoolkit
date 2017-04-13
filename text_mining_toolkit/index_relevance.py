@@ -45,6 +45,10 @@ def calculate_relevance_index(content_directory):
     # word frequency (per document) from wordcount, aka TF
     frequency_index = wordcount_index/wordcount_index.sum()
 
+    # catch the case when document has none of the words,
+    # which can happen if a filter (such as min word length) removes them all
+    frequency_index.fillna(0, inplace=True)
+
     # penalise short word length
     for word in frequency_index.index.values:
         frequency_index.loc[word] = frequency_index.loc[word] * numpy.tanh(len(word)/5.0)
