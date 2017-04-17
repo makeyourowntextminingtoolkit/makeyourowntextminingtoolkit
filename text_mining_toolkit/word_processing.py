@@ -2,6 +2,7 @@
 
 import collections
 import pandas
+import re
 
 
 # keep words longer than minimum
@@ -42,3 +43,12 @@ def build_ngrams_from_words(input_words_list, ngram_length):
     # join them together to make a string (in a list)
     output_ngrams_list = [" ".join(t) for t in z]
     return output_ngrams_list
+
+
+# remove word with n repeated characters
+def remove_words_with_n_repeated_chars(input_words_list, n):
+    # words with repeated chars anywhere in the strong (re.match only matches from the start)
+    # seems to require (n-1) in expression
+    regex = re.compile(r'(.)\1{' + str(n - 1) + r',}')
+    output_text = [word for word in input_words_list if not regex.search(word)]
+    return output_text
