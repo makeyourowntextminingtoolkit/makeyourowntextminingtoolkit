@@ -33,3 +33,9 @@ def keep_only_alphanumeric(input_text):
     regex = re.compile('[^a-zA-Z0-9 ]+')
     output_text = regex.sub('', input_text)
     return output_text
+
+# keep only alpha (not numeric) characters
+def keep_only_alpha(input_text):
+    regex = re.compile('[^a-zA-Z ]+')
+    output_text = regex.sub('', input_text)
+    return output_text
