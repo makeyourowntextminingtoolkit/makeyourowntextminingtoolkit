@@ -7,7 +7,15 @@ Most unix-like systems have a simple dictionary in /use/share/dict/words
 
 You can also download customised dictionaries from aspell http://app.aspell.net/create
 
+
 words.txt
+=========
 The one included here is from aspell.net and configured according to the README file (which is required to be included
-with the text). It has one step of processing applied to remove 's from the end of any word. This list is useful because
+with the text). It has the following steps of processing applied:
+
+ * remove 's from the end of any word
+ * lowercase all text
+ * remove duplicates
+
+ This list is useful because
 it also contains real proper names such as Stephens, and major place names like Sheffield.
