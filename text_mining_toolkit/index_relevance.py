@@ -113,5 +113,6 @@ def get_words_by_relevance(content_directory):
 
     # return pandas frame
     word_relevance_df = pandas.DataFrame(word_relevance)
+    word_relevance_df.columns = ['relevance']
 
     return word_relevance_df

@@ -7,4 +7,5 @@ def get_dictionary_words(dictionary):
     # load dictionary
     dictionary_file = "dictionaries/" + dictionary
     words_df = pandas.read_table(dictionary_file)
+    words_df.columns=['words']
     return words_df

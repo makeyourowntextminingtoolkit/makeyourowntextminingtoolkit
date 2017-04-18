@@ -1,4 +1,5 @@
 from . import corpus_reader
+from . import dictionary
 from . import index_wordcount
 from . import index_relevance
 from . import index_cooccurrence
